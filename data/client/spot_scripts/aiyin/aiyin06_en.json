@@ -1,0 +1,1138 @@
+[
+  {
+    "line": 1,
+    "text": "player"
+  },
+  {
+    "line": 2,
+    "text": "Is this dagger... also a laser tag device?"
+  },
+  {
+    "line": 3,
+    "text": "Ein"
+  },
+  {
+    "line": 4,
+    "text": "That's right. It's made out of rubber, and the laser transmitter on the tip makes a sound when it comes into contact with the laser receiver."
+  },
+  {
+    "line": 5,
+    "text": "At this time, there are lots of people in the spacious lobby of the wargame club. Standing in front of the display cabinet, I marvel at the various weapons inside it and really stand out among all the veteran players walking past me. Fortunately, Ein has been accompanying me the whole time and explaining everything to me."
+  },
+  {
+    "line": 7,
+    "text": "Haha, that's not surprising since they were made to look like the real thing to give players a realistic gaming experience."
+  },
+  {
+    "line": 8,
+    "text": "Laser guns, camouflage uniforms, field battle scenarios that are modeled to look real and natural... Now I think I made the right decision when I abandoned my plans to have a lazy weekend to come to this wargame club with you on the outskirts of the city."
+  },
+  {
+    "line": 9,
+    "text": "What? Did you really come to play?!"
+  },
+  {
+    "line": 10,
+    "text": "Why else... would I come?"
+  },
+  {
+    "line": 11,
+    "text": "(whisper) I thought you came with me because you wanted to..."
+  },
+  {
+    "line": 12,
+    "text": "Hmm? What did you say? I couldn't hear that clearly."
+  },
+  {
+    "line": 13,
+    "text": "N-Nothing. Oh right, this is a paintball gun. Getting hit by one of these bullets is no laughing matter because it hurts really badly and leaves a bruise. For that reason, the club requires everyone to wear corresponding helmets, protective glasses, and protective clothing if any player wants to use this weapon in a game."
+  },
+  {
+    "line": 14,
+    "text": "Ein, you seem to know a lot about all the equipment here at the club. Let me guess. Are you a regular?"
+  },
+  {
+    "line": 15,
+    "text": "I don't really count as a regular. I just come here once or twice a month."
+  },
+  {
+    "line": 16,
+    "text": "In my hometown, my tribe often organizes hunts. All the hunters will rush into the mountains and woodlands to capture wild animals, and the winner will be decided based on the number of prey caught and their size."
+  },
+  {
+    "line": 17,
+    "text": "Although I can't participate in those hunts now, I can't let my body become lazy, so I've been looking for places to practice hunting after arriving here in One Han City."
+  },
+  {
+    "line": 18,
+    "text": "But... based on what I know, shouldn't a wargame like this be different from the hunts you mentioned?"
+  },
+  {
+    "line": 19,
+    "text": "Yes, but playing wargames is an effective way to train both my physical ability and combat decision-making skills. It allows me to maintain the same state as when I'm hunting."
+  },
+  {
+    "line": 20,
+    "text": "I see."
+  },
+  {
+    "line": 21,
+    "text": "Haha, since we're already here, let me show you what a hunt is like."
+  },
+  {
+    "line": 22,
+    "text": "???"
+  },
+  {
+    "line": 23,
+    "text": "I don't really understand. Are you saying that there's no one for us to play against right now? What can we do..."
+  },
+  {
+    "line": 24,
+    "text": "Tsk, I told you ages ago that you shouldn't expect to run into any evenly matched opponents in a game filled with novices. How could you possibly..."
+  },
+  {
+    "line": 25,
+    "text": "{var:player_nickname}? You're here too?"
+  },
+  {
+    "line": 26,
+    "text": "I turn my head to the left and look behind me at where the voices are coming from and find myself looking into a pair of pink pupils. I also see a rather irritable young man standing next to the owner of these eyes."
+  },
+  {
+    "line": 27,
+    "text": "Zechs"
+  },
+  {
+    "line": 28,
+    "text": "The disciple of Nishiba-ryu and... Ein? Why are you two together?"
+  },
+  {
+    "line": 29,
+    "text": "Because we get along really well. Isn't that right, {var:player_nickname}?"
+  },
+  {
+    "line": 30,
+    "text": "Ah, y-yes! I guess?"
+  },
+  {
+    "line": 31,
+    "text": "Seeing the menacing look in Zechs's eyes, my affirmative statement ends with an uncertain tone."
+  },
+  {
+    "line": 32,
+    "text": "Hey, we also get along really well, right?"
+  },
+  {
+    "line": 33,
+    "text": "Oh? Er... yes?"
+  },
+  {
+    "line": 34,
+    "text": "I see... In that case, {var:player_nickname}, who do you get along with better between Zechs and me?"
+  },
+  {
+    "line": 35,
+    "text": "..."
+  },
+  {
+    "line": 36,
+    "text": "Getting the feeling that I've been dragged into a terrible war, I look at Hannah next to me for help, only to find that she's twiddling her fingers and looking at the ceiling, the floor, and the people passing by... She's looking at everything except me."
+  },
+  {
+    "line": 37,
+    "text": "Staff"
+  },
+  {
+    "line": 38,
+    "text": "Excuse me, but our next treasure hunt is about to start. If the four of you are together, you have just enough people for a game."
+  },
+  {
+    "line": 39,
+    "text": "No, we're not together."
+  },
+  {
+    "line": 40,
+    "text": "Okay."
+  },
+  {
+    "line": 41,
+    "text": "Tsk, that's what I wanted to say."
+  },
+  {
+    "line": 42,
+    "text": "Huh?!!!"
+  },
+  {
+    "line": 43,
+    "text": "Then let me introduce the rules to you."
+  },
+  {
+    "line": 44,
+    "text": "Wait a minute..."
+  },
+  {
+    "line": 45,
+    "text": "Ein and Zechs gather next to the staff excitedly to listen carefully to the explanation, and even Hannah has joined them. Nobody cares about my rejection..."
+  },
+  {
+    "line": 46,
+    "text": "I get it. I'm just deadweight, like a fragile support character who has forgotten to wear the right gear in a MOBA game..."
+  },
+  {
+    "line": 47,
+    "text": "{var:player_nickname}? If you don't listen to the rules carefully, you'll be scurrying around with your tail between your legs when the game starts."
+  },
+  {
+    "line": 48,
+    "text": "Ein tugs me gently, pulling me into their group, which is listening carefully to the staff's explanation."
+  },
+  {
+    "line": 49,
+    "text": "Well, it looks like this Attack Damage Carry is still in control, so I'll reluctantly agree to join them."
+  },
+  {
+    "line": 50,
+    "text": "Are there any new players today? I'm referring to anyone who is here for the first time today."
+  },
+  {
+    "line": 51,
+    "text": "Hannah"
+  },
+  {
+    "line": 52,
+    "text": "Me."
+  },
+  {
+    "line": 53,
+    "text": "Me."
+  },
+  {
+    "line": 54,
+    "text": "...Same here."
+  },
+  {
+    "line": 56,
+    "text": "To give new players a better gaming experience, we'll make it so that each receiver won't register any more hits within five seconds of being hit. In other words, you'll get five seconds of invincibility."
+  },
+  {
+    "line": 57,
+    "text": "However, please note that if the laser receiver on a player's head receives a laser signal from a weapon, that player that has been hit will be eliminated immediately, so remember to protect your head when you're hiding."
+  },
+  {
+    "line": 58,
+    "text": "I subconsciously touch my head. It looks like headshots are a thing in all games."
+  },
+  {
+    "line": 59,
+    "text": "In a treasure hunt game, players will be divided into multiple teams and search for the same hidden target. The team that finds the target and takes it back to their camp safely or eliminates all their enemies will win the game. Based on the number of players you have, I recommend that you split into two teams."
+  },
+  {
+    "line": 60,
+    "text": "Let's team up, {var:player_nickname}!"
+  },
+  {
+    "line": 61,
+    "text": "Right after Hannah speaks, three intense gazes focus on me."
+  },
+  {
+    "line": 62,
+    "text": "Hey, I'm the best hunter in the tribe. Think carefully!"
+  },
+  {
+    "line": 63,
+    "text": "I'm not even going to bother to ask you whether your claim of being the best has been verified. {var:player_nickname}, don't you think it's better to choose an old partner with whom you've shared your joys and sorrows?"
+  },
+  {
+    "line": 64,
+    "text": "I've had enough of this topic of sharing joys and sorrows!!! I have no idea how I survived that month!!! I wail in my heart and then turn to look at Hannah."
+  },
+  {
+    "line": 65,
+    "text": "A-Are you gonna choose me...?"
+  },
+  {
+    "line": 66,
+    "text": "Probably because my gaze is too intense when I look at Hannah for help, she shyly taps the floor with her tail gracefully. After a loud bang, dust fills the air, and I see that the floor has cracked."
+  },
+  {
+    "line": 67,
+    "text": "Haha... I never would have thought that I, the worst fighter here, would be the one who gets to choose my partner."
+  },
+  {
+    "line": 68,
+    "text": "Team up with Zechs"
+  },
+  {
+    "line": 69,
+    "text": "Team up with Ein"
+  },
+  {
+    "line": 70,
+    "text": "Team up with Hannah"
+  },
+  {
+    "line": 71,
+    "text": "Ein and I came together in the first place, and he seems to know the games here very well."
+  },
+  {
+    "line": 72,
+    "text": "I've decided! I'll team up with Ein."
+  },
+  {
+    "line": 73,
+    "text": "Ein's golden fox eyes curve into a beautiful crescent shape, and his big furry tail sways from side to side behind him, which is what he does subconsciously when he is in a good mood."
+  },
+  {
+    "line": 74,
+    "text": "Nice!"
+  },
+  {
+    "line": 75,
+    "text": "Hmph, just so you know, I won't go easy on you later. Don't cry too loudly later."
+  },
+  {
+    "line": 76,
+    "text": "{var:player_nickname}, you better be careful then. A graceful lady doesn't pull any punches on the hunting grounds!"
+  },
+  {
+    "line": 77,
+    "text": "The pre-game trash talk is really scary."
+  },
+  {
+    "line": 78,
+    "text": "Don't be afraid. We'll definitely win."
+  },
+  {
+    "line": 79,
+    "text": "We wear the game equipment under the guidance of the staff. Each of us gets a laser gun and a replica dagger, and the computer will automatically determine whether attacks are successful. We are then divided into two teams before entering the field and being led to our respective camps."
+  },
+  {
+    "line": 81,
+    "text": "After the announcement plays on the radio, we eagerly leave the safe area of our camps and rush to the battle area. The treasure hunt has officially started."
+  },
+  {
+    "line": 82,
+    "text": "Although I know that I'm still somewhere inside the wargame club... the venue is simply too realistic, and the trees, streams, and bushes look just like the ones you would find in a real wild jungle."
+  },
+  {
+    "line": 83,
+    "text": "Ein, is this what your hometown looks like?"
+  },
+  {
+    "line": 84,
+    "text": "If you're interested, you're welcome to come home with me anytime. My old man even said that he'll make some time to personally welcome you."
+  },
+  {
+    "line": 85,
+    "text": "Huh? It sounds like... you've already told your family about me?"
+  },
+  {
+    "line": 86,
+    "text": "Oh, well... it's impossible to not mention the people around me when I talk to my family. You're not an outsider, {var:player_nickname}, so I've told them some things about you."
+  },
+  {
+    "line": 87,
+    "text": "But you don't need to take it that seriously. My old man isn't anyone amazing anyway. So... will you come with me?"
+  },
+  {
+    "line": 88,
+    "text": "Of course!"
+  },
+  {
+    "line": 89,
+    "text": "That's great! I'm filled with energy now! I feel like I can beat ten Zechs."
+  },
+  {
+    "line": 90,
+    "text": "Ahem, that's a slight exaggeration. Zechs's muscles aren't just for show. You... can probably beat five Zechs."
+  },
+  {
+    "line": 91,
+    "text": "Ein and I look at each other and smile. It seems that my plan to go hunting in that land I've been dying to visit is finally going to happen. Of course, I do need to survive today first."
+  },
+  {
+    "line": 92,
+    "text": "\"Buzz-- Buzz-- Buzz--\""
+  },
+  {
+    "line": 94,
+    "text": "Find some cover!"
+  },
+  {
+    "line": 95,
+    "text": "At this moment, the gap between me and a good hunter is clear at a glance. In response to the enemy's sudden attack, Ein immediately takes cover behind a big tree that is so wide that not even the two of us can fully wrap our arms around it. Meanwhile, I'm standing still on the spot and thinking about where I should run to."
+  },
+  {
+    "line": 96,
+    "text": "{var:player_nickname}, come to me!"
+  },
+  {
+    "line": 97,
+    "text": "Oh, okay."
+  },
+  {
+    "line": 99,
+    "text": "{var:player_nickname}, judging from the sound of the gunfire, it seems that only one of them has come. I'll lure them away later, and you'll take that opportunity to find a safe place to hide."
+  },
+  {
+    "line": 100,
+    "text": "That's too dangerous."
+  },
+  {
+    "line": 101,
+    "text": "I haven't been hit yet, so I have more HP than you. The five seconds of invincibility is more than enough for me to find a new place to hide."
+  },
+  {
+    "line": 102,
+    "text": "Realizing that Ein's suggestion is our best option at this moment and that time is of the essence, I nod at him."
+  },
+  {
+    "line": 103,
+    "text": "When Ein rushes out from his cover, he instantly draws the fire of the opponent. The moment the red dot starts flashing on Ein's left shoulder, I quickly rush to where he was earlier and hide behind the tree."
+  },
+  {
+    "line": 104,
+    "text": "Judging from how much that person wants to finish you off, I'm guessing that it's Zechs."
+  },
+  {
+    "line": 107,
+    "text": "Ein, do you think Zechs's strategy is to eliminate us before searching for the treasure?"
+  },
+  {
+    "line": 108,
+    "text": "Hannah still hasn't appeared yet, so it's possible that Zechs is thinking of keeping us occupied here while Hannah searches for the treasure."
+  },
+  {
+    "line": 109,
+    "text": "They are thinking of sending one person to take us both out. It looks like they are looking down on us."
+  },
+  {
+    "line": 110,
+    "text": "No, this is an opportunity"
+  },
+  {
+    "line": 111,
+    "text": "Sorry, I'm dragging you down"
+  },
+  {
+    "line": 112,
+    "text": "All alone, deep behind enemy lines, looking down on their opponent... I link these words together..."
+  },
+  {
+    "line": 113,
+    "text": "Ein, this is our chance!"
+  },
+  {
+    "line": 114,
+    "text": "{var:player_nickname}, this is our chance!"
+  },
+  {
+    "line": 115,
+    "text": "It looks like we're thinking of the same thing."
+  },
+  {
+    "line": 116,
+    "text": "Let's take out Zechs first while he's all alone."
+  },
+  {
+    "line": 117,
+    "text": "But..."
+  },
+  {
+    "line": 118,
+    "text": "Hmm?"
+  },
+  {
+    "line": 119,
+    "text": "Although this is a little straightforward... Ein, I don't think you can beat Zechs one on one... right?"
+  },
+  {
+    "line": 120,
+    "text": "The silence sure is awkward. I shrink back and try to say something to make up for what I said, but to my surprise, Ein starts laughing instead."
+  },
+  {
+    "line": 121,
+    "text": "Who said I'll be taking him on one on one? You're here with me, right?"
+  },
+  {
+    "line": 122,
+    "text": "Me? I've only beaten Zechs before in mahjong. Does that really mean I'm stronger than him...?"
+  },
+  {
+    "line": 123,
+    "text": "I'm sorry, Ein..."
+  },
+  {
+    "line": 124,
+    "text": "Huh? Why are you apologizing all of a sudden?"
+  },
+  {
+    "line": 126,
+    "text": "No one knows who will win yet."
+  },
+  {
+    "line": 127,
+    "text": "But I..."
+  },
+  {
+    "line": 128,
+    "text": "{var:player_nickname}, one's fighting ability isn't everything in a hunt. Having a good understanding of your own abilities and being able to choose a strategy that suits yourself... are the keys to victory."
+  },
+  {
+    "line": 129,
+    "text": "Taking our current situation as an example, it's true that Zechs and Hannah's team is stronger than our team, but they have chosen to fight separately in an unfamiliar terrain purely because they are both strong fighters. This isn't very rational and might be the crucial element for us to turn the situation around."
+  },
+  {
+    "line": 130,
+    "text": "But... what can I help you with in this situation?"
+  },
+  {
+    "line": 131,
+    "text": "Don't underestimate yourself, {var:player_nickname}. There's something that only you can do right now."
+  },
+  {
+    "line": 132,
+    "text": "Although Zechs is an amazing melee fighter, he isn't very familiar with ranged weapons like these firearms. That's obvious based on how many times he has missed."
+  },
+  {
+    "line": 133,
+    "text": "Once he runs out of ammo, he'll definitely choose to attack us with his favorite melee combat. This will be our chance."
+  },
+  {
+    "line": 134,
+    "text": "I'll engage him, while you stay here and find a chance to snipe him from a distance."
+  },
+  {
+    "line": 135,
+    "text": "I suddenly feel like I'm under a lot of pressure. I hope I don't end up missing every shot."
+  },
+  {
+    "line": 136,
+    "text": "Just as Ein and I finish deciding what tactics to use, the shooting sounds die down in the distance. Ein raises his index finger and signals for me to be silent, then his ears move in the air while he listens to all the sounds around him."
+  },
+  {
+    "line": 137,
+    "text": "My grip on the laser gun in my hand tightens when I see that Ein has pulled out his replica dagger. I start counting down silently in my heart..."
+  },
+  {
+    "line": 138,
+    "text": "5... 4..."
+  },
+  {
+    "line": 139,
+    "text": "{var:player_nickname}, relax."
+  },
+  {
+    "line": 140,
+    "text": "3..."
+  },
+  {
+    "line": 141,
+    "text": "I trust you."
+  },
+  {
+    "line": 142,
+    "text": "2..."
+  },
+  {
+    "line": 143,
+    "text": "So you should trust me too."
+  },
+  {
+    "line": 144,
+    "text": "1..."
+  },
+  {
+    "line": 145,
+    "text": "We'll definitely win!"
+  },
+  {
+    "line": 146,
+    "text": "Ein rushes out of his cover like a flying arrow, and actively attacks the intruder like a wild beast whose territory has been intruded upon."
+  },
+  {
+    "line": 147,
+    "text": "Not to be outdone, Zechs rushes forward to engage him. The battle between these great hunters is powerful and wild, and I can only see two blurry figures among the dust and falling leaves around them in the scope. In fact, I can only tell where Ein is by looking at the color of his fur."
+  },
+  {
+    "line": 148,
+    "text": "However, red and brown just look too similar!!!"
+  },
+  {
+    "line": 149,
+    "text": "Huff... I need to calm down. It would be bad if I hit Ein by mistake."
+  },
+  {
+    "line": 150,
+    "text": "The signal receiver used for scoring purposes on his wrist is constantly vibrating and flashing with a red light, which means that Ein doesn't have the advantage in the fight with Zechs. I take a few deep breaths and force myself to calm down, then I pick up the laser gun again and put my finger on the trigger in preparation to shoot at any time."
+  },
+  {
+    "line": 151,
+    "text": "Huh? Ein is looking at... me?"
+  },
+  {
+    "line": 152,
+    "text": "Through the scope, I can see that Ein is looking in my direction and mouthing some words."
+  },
+  {
+    "line": 153,
+    "text": "He's telling me to... shoot? But Zechs isn't in the best position... I..."
+  },
+  {
+    "line": 154,
+    "text": "\"Bang!\" My body reacts before my brain, and my finger pulls the trigger the moment I notice that Ein is giving me the signal. The dust stirred up by the two people entangled in the distance makes it impossible for me to judge whether my attack was effective."
+  },
+  {
+    "line": 155,
+    "text": "Did I hit him? Wow, what a strong vibration. I didn't hit Ein, right?"
+  },
+  {
+    "line": 156,
+    "text": "Announcement"
+  },
+  {
+    "line": 157,
+    "text": "Member 1 of the blue team has been eliminated."
+  },
+  {
+    "line": 158,
+    "text": "It worked?"
+  },
+  {
+    "line": 159,
+    "text": "Ein and I are members of the red team, which means Zechs must have been eliminated."
+  },
+  {
+    "line": 160,
+    "text": "Good job, {var:player_nickname}. Your headshot won us a crucial victory."
+  },
+  {
+    "line": 161,
+    "text": "I didn't do anything. It's all thanks to your great leadership."
+  },
+  {
+    "line": 163,
+    "text": "Yes."
+  },
+  {
+    "line": 164,
+    "text": "Hey, can you two stop flattering each other? I'm still here and I can hear everything you're saying!"
+  },
+  {
+    "line": 165,
+    "text": "Losers should just shut up."
+  },
+  {
+    "line": 166,
+    "text": "Tsk, you aren't guaranteed to win this game. I'm just here to hold you up over here. Judging from the time, Hannah should have found the treasure and should be on her way back to the camp."
+  },
+  {
+    "line": 167,
+    "text": "This time I'm going to make you call me your older brother instead!"
+  },
+  {
+    "line": 168,
+    "text": "Ein, we really did waste a lot of time here with Zechs. There's only 20 minutes left until the game ends."
+  },
+  {
+    "line": 169,
+    "text": "Given how fast Hannah is, since we haven't received any notifications about her finding the treasure, I'm guessing that she's run into some trouble."
+  },
+  {
+    "line": 170,
+    "text": "Oh? What could possibly trouble a hunter in a forest?"
+  },
+  {
+    "line": 171,
+    "text": "We'll find out once we get there."
+  },
+  {
+    "line": 172,
+    "text": "We walk all the way to where the treasure is hidden and find that it really has been taken away by Hannah. The footprints on the ground are a mess, and not even Ein can determine Hannah's whereabouts at this time, so we have no choice but to return to the camp and wait for further news."
+  },
+  {
+    "line": 173,
+    "text": "Time's up. The game is over. This game is a draw."
+  },
+  {
+    "line": 174,
+    "text": "Didn't Hannah find the treasure? Why is it a draw?"
+  },
+  {
+    "line": 175,
+    "text": "Ein and I return to the place where we waited for the game to start and encounter Hannah, who is covered in vines. According to what everyone else said, Hannah's intuition quickly led her to the hidden treasure, but then she got lost..."
+  },
+  {
+    "line": 176,
+    "text": "(whisper) {var:player_nickname}, you must remember that losing one's sense of direction in a jungle is a major mistake for hunters."
+  },
+  {
+    "line": 179,
+    "text": "Sigh, what a shame."
+  },
+  {
+    "line": 180,
+    "text": "What's a shame? That we didn't win the game?"
+  },
+  {
+    "line": 181,
+    "text": "No. I just really like the environment we were in earlier, as well as that excitement."
+  },
+  {
+    "line": 182,
+    "text": "That's easy. Do you remember what we were saying when the game just started?"
+  },
+  {
+    "line": 183,
+    "text": "Your hometown?"
+  },
+  {
+    "line": 184,
+    "text": "Yeah! We can set off whenever you're ready."
+  },
+  {
+    "line": 185,
+    "text": "You can go sunbathing, hunting, or do whatever you want. I'll take you to experience real nature."
+  },
+  {
+    "line": 186,
+    "text": "I turn to look at Ein and see that he is looking right at me like he is waiting to hear my answer."
+  },
+  {
+    "line": 188,
+    "text": "It's a promise."
+  },
+  {
+    "line": 189,
+    "text": "Okay."
+  },
+  {
+    "line": 190,
+    "text": "If I want to win, I can't be careless when choosing my teammate, and my teammate's fighting ability is what I need to prioritize."
+  },
+  {
+    "line": 191,
+    "text": "I've decided! I'll team up with Zechs!"
+  },
+  {
+    "line": 192,
+    "text": "Hah! I like smart people like you."
+  },
+  {
+    "line": 193,
+    "text": "{var:player_nickname}, are you SURE about this?"
+  },
+  {
+    "line": 194,
+    "text": "Are you threatening my teammate?!"
+  },
+  {
+    "line": 195,
+    "text": "I just want {var:player_nickname} to make the right decision."
+  },
+  {
+    "line": 196,
+    "text": "Hey, say your answer out loud again so that stinky fox will give up."
+  },
+  {
+    "line": 197,
+    "text": "{var:player_nickname}?"
+  },
+  {
+    "line": 198,
+    "text": "No one can remain calm when they are being stared at by a fox and a wolf at the same time. I wipe some non-existent sweat off my forehead and stick with my decision."
+  },
+  {
+    "line": 199,
+    "text": "I-I've decided to team up with Zechs!"
+  },
+  {
+    "line": 200,
+    "text": "Did you hear that? You stinky fox!"
+  },
+  {
+    "line": 201,
+    "text": "Sigh... I must say that you've made a great mistake, {var:player_nickname}. In that case, don't blame me for not showing you any mercy in the game."
+  },
+  {
+    "line": 202,
+    "text": "It seems that it's too late to change my mind now. I... I just hope I won't run into Ein when I'm all alone."
+  },
+  {
+    "line": 203,
+    "text": "Although Zechs and I agreed that one of us would hold back the opponent's fighting force while the other searches for the treasure alone, walking alone in an unfamiliar jungle really makes me feel insecure."
+  },
+  {
+    "line": 204,
+    "text": "It would be better to have a companion with me right now, and... Huh? Wait a minute. I have a strange feeling... Is someone following me?"
+  },
+  {
+    "line": 205,
+    "text": "A strange feeling arises in my heart, and I feel like a hot gaze that I can't ignore is watching my every move."
+  },
+  {
+    "line": 206,
+    "text": "Is it Ein or Hannah? Have they already defeated Zechs so quickly? No, the scoring device hasn't vibrated at all, so they must not have met yet. The thing following me... can't possibly be a GoPro camera installed by the club, right?"
+  },
+  {
+    "line": 207,
+    "text": "I better think of a way to find out whether I'm right."
+  },
+  {
+    "line": 208,
+    "text": "Some flowers blooming by the side of the path catch my attention, and I realize that they are real flowers after I kneel down to take a look at them. I feel a little sorry when I think about a fox who is allergic to pollen, but... I can't be kind to him if he isn't going to show me any mercy!"
+  },
+  {
+    "line": 209,
+    "text": "The moment I sense someone rushing towards me from behind, I quickly turn around and slap the person's face with the flower I just plucked."
+  },
+  {
+    "line": 210,
+    "text": "Achoo!"
+  },
+  {
+    "line": 211,
+    "text": "It really is you, Ein!"
+  },
+  {
+    "line": 212,
+    "text": "There's no time for me to wonder about how Ein managed to get past Zechs's line of defense. Only one thing will happen to me if I encounter an experienced hunter all alone in the wild. To stall for time so that my teammate can come and help me, I rush to the jungle on the other side without hesitation to try and avoid Ein's attack."
+  },
+  {
+    "line": 213,
+    "text": "Arghhhhhhhh! Why is there a trap in this wargame venue?!"
+  },
+  {
+    "line": 214,
+    "text": "Achoo! This trap isn't part of the venue. I prepared it specially for you."
+  },
+  {
+    "line": 215,
+    "text": "How did you dig such a big hole in such a short period of time?"
+  },
+  {
+    "line": 216,
+    "text": "Heh, I'm a professional at digging traps. Achoo! I even lined the bottom of the hole with a layer of hay so that you wouldn't get hurt when falling. Alas... even though a certain person didn't choose me to be their teammate, I still have to take special care of them."
+  },
+  {
+    "line": 217,
+    "text": "It's not possible for you to climb out of this trap without any help, but I've always been kind and helpful. I'll pull you up if you shout \"I'll definitely pick Ein as my teammate in the future\" out loud three times. How about it?"
+  },
+  {
+    "line": 218,
+    "text": "Agree and do it immediately"
+  },
+  {
+    "line": 219,
+    "text": "Refuse because you won't regret the decisions you've made"
+  },
+  {
+    "line": 221,
+    "text": "I'll definitely pick Ein as my teammate in the future. I'll definitely pick Ein as my teammate in the future. I'll definitely pick Ein as my teammate in the future."
+  },
+  {
+    "line": 222,
+    "text": "You won't go back on your word, right?"
+  },
+  {
+    "line": 223,
+    "text": "Of course not. I'm just surprised by how quickly you agreed. It looks like I still don't understand you well enough."
+  },
+  {
+    "line": 224,
+    "text": "I also didn't think you would care so much about who I would team up with."
+  },
+  {
+    "line": 225,
+    "text": "Haha, then we're even. Okay, I'll pull you up now."
+  },
+  {
+    "line": 226,
+    "text": "Buzz-- The scoring device I'm wearing vibrates powerfully, clearly indicating that I've eliminated Ein. The moment he leans towards me, exposing his head, and extends a friendly hand to me, I stealthily raise my laser gun and aim it at the receiver on his head."
+  },
+  {
+    "line": 227,
+    "text": "There's no such thing as too much deception in war. I'm only doing this for the final victory."
+  },
+  {
+    "line": 228,
+    "text": "{var:player_nickname}!!!"
+  },
+  {
+    "line": 229,
+    "text": "The cry of an angry fox resounds throughout the jungle. Meanwhile, I quietly put away my gun with no intention of boasting or showing off."
+  },
+  {
+    "line": 230,
+    "text": "As the saying goes, one can be killed but not humiliated. Only 20 minutes have passed since the game started. To go back on my word now is to question my judgment, which is something I can't agree to given how stubborn I am."
+  },
+  {
+    "line": 231,
+    "text": "I won't betray my teammate!"
+  },
+  {
+    "line": 232,
+    "text": "Then don't blame me for this."
+  },
+  {
+    "line": 234,
+    "text": "Buzz-- The scoring device I'm wearing vibrates powerfully, clearly indicating that Ein and I have both been eliminated."
+  },
+  {
+    "line": 235,
+    "text": "{var:player_nickname}, you've even learned to launch sneak attacks?!"
+  },
+  {
+    "line": 236,
+    "text": "Perhaps I learned it from the people around me."
+  },
+  {
+    "line": 237,
+    "text": "So it's my fault now?"
+  },
+  {
+    "line": 238,
+    "text": "Look on the bright side of things. Although we weren't on the same team, at least we were both eliminated together."
+  },
+  {
+    "line": 239,
+    "text": "...You really know what to say to comfort people."
+  },
+  {
+    "line": 240,
+    "text": "According to the result on the scoring device, {var:player_nickname} and Zechs have won the game. Congratulations!"
+  },
+  {
+    "line": 241,
+    "text": "Although some people on both sides were unfortunate enough to get shot during the game, we managed to win thanks to Zechs's powerful fighting ability and Hannah's extraordinary ability to get lost."
+  },
+  {
+    "line": 242,
+    "text": "Hey, cheer up. We won the game."
+  },
+  {
+    "line": 243,
+    "text": "(whisper) But I fell into a trap right after the game started, so I don't feel like I participated. I think it would be better to choose a different partner to work with next time."
+  },
+  {
+    "line": 244,
+    "text": "Hey, it sounds like you aren't very happy with the tactical arrangements I made today."
+  },
+  {
+    "line": 245,
+    "text": "Uh-oh, I forgot that Zechs has excellent hearing..."
+  },
+  {
+    "line": 246,
+    "text": "Zechs, listen to my explanation first. I'm very happy to have won the game."
+  },
+  {
+    "line": 247,
+    "text": "{var:player_nickname}, so you care more about winning than who you team up with."
+  },
+  {
+    "line": 248,
+    "text": "Ein, when did you get here? Ahem, you should listen to my explanation too. I actually wanted to team up with you too."
+  },
+  {
+    "line": 249,
+    "text": "Eh?! A-Am I the only one {var:player_nickname} doesn't want to team up with?! I'm so sad..."
+  },
+  {
+    "line": 250,
+    "text": "Hannah, why are you joining in..."
+  },
+  {
+    "line": 251,
+    "text": "Hey, don't change the subject. Are you unhappy with me?"
+  },
+  {
+    "line": 252,
+    "text": "I really wanted to team up with you."
+  },
+  {
+    "line": 253,
+    "text": "Sigh... {var:player_nickname} is so realistic, so cold, and so heartless."
+  },
+  {
+    "line": 254,
+    "text": "Something I said unintentionally has caused all three of them to gang up on me, and comforting them one after another makes me so busy that I sigh silently in my heart..."
+  },
+  {
+    "line": 255,
+    "text": "It seems that being too popular can also be a pain sometimes..."
+  },
+  {
+    "line": 256,
+    "text": "Regardless of who I choose between Ein and Zechs, the other person will go berserk on the spot right? For my own safety, it's better to avoid them."
+  },
+  {
+    "line": 257,
+    "text": "I've decided! I'll team up with Hannah."
+  },
+  {
+    "line": 258,
+    "text": "The moment I say these words, all three people in front of me look at me in disbelief. Hannah is covering her mouth with her hands and looking at me with a surprised look on her face, but Ein and Zechs beside me don't look that happy."
+  },
+  {
+    "line": 259,
+    "text": "{var:player_nickname}, would you like to reconsider that?"
+  },
+  {
+    "line": 260,
+    "text": "Ein is smiling like always, but his beautiful golden eyes are narrowed slightly, giving him the appearance of a predator who is looking at his prey."
+  },
+  {
+    "line": 261,
+    "text": "Compared to Ein, who is able to maintain his image, Zechs is obviously more irritable."
+  },
+  {
+    "line": 262,
+    "text": "Doesn't that mean I'll need to team up with this stinky fox? No, I don't want to do that."
+  },
+  {
+    "line": 263,
+    "text": "What a coincidence. That's what I'm thinking too."
+  },
+  {
+    "line": 264,
+    "text": "Seeing that things are about to get messy, I grab Hannah's hand and rush to the preparation area first."
+  },
+  {
+    "line": 265,
+    "text": "We wear the game equipment under the guidance of the staff. Each of us gets a laser gun and a replica dagger, and the computer will automatically determine whether attacks are successful. Before entering the field, our two teams are led to our respective camps."
+  },
+  {
+    "line": 266,
+    "text": "I've been walking like this with {var:player_nickname} for ten minutes now, but there's still no sign of Ein and Zechs. This feels strange."
+  },
+  {
+    "line": 267,
+    "text": "Oh no, since they can move faster than us, could they have already gone to find the treasure?"
+  },
+  {
+    "line": 268,
+    "text": "Don't worry! I won't lose to them in a contest of speed."
+  },
+  {
+    "line": 269,
+    "text": "But I will!"
+  },
+  {
+    "line": 270,
+    "text": "Then I'll carry you. You can relax, {var:player_nickname}. With my strength and speed, I'll easily overtake them even if I'm carrying you."
+  },
+  {
+    "line": 271,
+    "text": "The red team has been eliminated. The game is over, and the blue team has won."
+  },
+  {
+    "line": 272,
+    "text": "Hannah, aren't we the blue team?"
+  },
+  {
+    "line": 273,
+    "text": "But we haven't found the treasure yet..."
+  },
+  {
+    "line": 274,
+    "text": "Let's go back and take a look since we've already been declared the winners."
+  },
+  {
+    "line": 275,
+    "text": "Hannah and I return to the preparation area, where we see Zechs and Ein angry with each other. After hearing the staff's explanation, Hannah and I learn that the reason we won so easily is because they hit the receiving device on each other's head at the same time after the game started."
+  },
+  {
+    "line": 276,
+    "text": "I'm so scared! It turns out that the bullets can be used to eliminate our own teammates."
+  },
+  {
+    "line": 277,
+    "text": "Fortunately, our team is peaceful and friendly. I was right about teaming up with Hannah. I feel so safe with her."
+  },
+  {
+    "line": 278,
+    "text": "It's just a little boring because the game ended before we did anything..."
+  },
+  {
+    "line": 279,
+    "text": "After hearing what she said, I look at the ears of the two people on the other side, which are twitching slightly, and clear my throat before saying something loudly"
+  },
+  {
+    "line": 280,
+    "text": "I haven't had enough fun yet. Why don't we play another game? This time, we'll form different teams."
+  },
+  {
+    "line": 281,
+    "text": "Really?"
+  },
+  {
+    "line": 282,
+    "text": "I agree."
+  },
+  {
+    "line": 283,
+    "text": "It's just as I expected. Ahaha... I hope I have enough stamina today to keep up with these three energetic hunters and allow them to have a good time."
+  },
+  {
+    "line": 284,
+    "text": "Wait, now that I think about it, is it possible that I'm the only prey today...?"
+  },
+  {
+    "line": 285,
+    "text": "These laser tag weapons look so realistic. I almost thought I'm in some kind of munitions and weapons exhibition hall."
+  },
+  {
+    "line": 286,
+    "text": "Haha, quite a few of you are new players. In that case, I'll focus on explaining the various equipment to you. This is a laser receiver that players will wear in games. Each player will wear a total of six of these. When it is hit, an alarm will sound to indicate that the player has been injured."
+  },
+  {
+    "line": 287,
+    "text": "As soon as this thought flashes through my mind, the laser receiver on my right arm suddenly vibrates strongly. The flashing red light indicates that I've just been hit."
+  },
+  {
+    "line": 288,
+    "text": "However, I keep hearing gunshots coming from behind me. After taking two steps towards Ein, I realize that I've also been hit on my left arm, so I squat down low behind a short bush nearby and protect my head."
+  },
+  {
+    "line": 290,
+    "text": "However, to ensure that everything is fair in a treasure hunt, the treasure is usually hidden in a place that is the same distance away from the camps of both sides. In that case, why would Zechs appear around our camp?"
+  },
+  {
+    "line": 291,
+    "text": "I pick up the laser gun on my back and search slowly for the enemy through the scope. Sure enough, I see a few strands of brown hair in the gaps between the leaves, but the laser receivers on Zechs's body are well blocked, so I can't find an opening to exploit."
+  },
+  {
+    "line": 292,
+    "text": "Although Ein speaks very softly, I see Hannah's furry ears twitch a few times before they become limp and start drooping."
+  },
+  {
+    "line": 293,
+    "text": "Hannah and Zechs leave us after telling us that they want to go home and train. After that, Ein and I are in a good mood on the way home. The exhaust from speeding cars makes Ein sneeze several times and awakens me from my reverie of the immersive experience of that beautiful natural environment I was in earlier."
+  },
+  {
+    "line": 294,
+    "text": "I'll put that on my schedule then."
+  },
+  {
+    "line": 295,
+    "text": "As the saying goes, a great person knows when to yield and when to stand firm. There's also another saying: a wise person submits to the circumstances."
+  },
+  {
+    "line": 296,
+    "text": "The sound of footsteps gets louder as they get closer as Ein approaches me outside the trap. I stealthily raise my laser gun and aim it at the receiver on his head."
+  },
+  {
+    "line": 297,
+    "text": "The main reason we won is because you trust me. After all, Zechs wasn't in the center of the scope yet when I signaled for you to shoot, right?"
+  },
+  {
+    "line": 301,
+    "text": "If I'm also an outstanding hunter who is good in a fight, then Zechs wouldn't dare to look down on us so much. Moreover, they've already managed to score three hits on us before we've even started to fight properly..."
+  },
+  {
+    "line": 302,
+    "text": "???"
+  }
+]

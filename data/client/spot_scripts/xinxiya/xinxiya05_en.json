@@ -1,0 +1,862 @@
+[
+  {
+    "line": 674,
+    "text": "The Making of a Model"
+  },
+  {
+    "line": 675,
+    "text": "TV Ad"
+  },
+  {
+    "line": 676,
+    "text": "Under the dazzling spotlight, models walk down the glamorous runway like they own it... Ever wondered what really makes a model?//nWatch \"The Making of a Model\" to experience what it takes to become a model!"
+  },
+  {
+    "line": 677,
+    "text": "Cynthia's Studio"
+  },
+  {
+    "line": 679,
+    "text": "Cynthia actually participated in such a program?"
+  },
+  {
+    "line": 682,
+    "text": "Cynthia"
+  },
+  {
+    "line": 683,
+    "text": "I heard that. It's not that soundproof here."
+  },
+  {
+    "line": 684,
+    "text": "Oops, I'm sorry."
+  },
+  {
+    "line": 686,
+    "text": "First things first, we're not here to have fun today."
+  },
+  {
+    "line": 687,
+    "text": "I'm here to be a mentor, not a contestant."
+  },
+  {
+    "line": 688,
+    "text": "Huh? Then the reason you asked me to come here today is..."
+  },
+  {
+    "line": 691,
+    "text": "Is it too late to say no?"
+  },
+  {
+    "line": 692,
+    "text": "Yep. I've booked out your entire schedule for today."
+  },
+  {
+    "line": 693,
+    "text": "It looks like I'm the one who will be traumatized by the program..."
+  },
+  {
+    "line": 694,
+    "text": "Relax, I'll go easy on the rookies. Now, come over here..."
+  },
+  {
+    "line": 695,
+    "text": "78, 79, 80... One more deep squat, {var:player_nickname}!"
+  },
+  {
+    "line": 698,
+    "text": "I thought you said you would go easy!"
+  },
+  {
+    "line": 699,
+    "text": "Where's the sofa...? I'm dying here..."
+  },
+  {
+    "line": 700,
+    "text": "You've still got a long way to go. The fitness test just started. Stop thinking about resting."
+  },
+  {
+    "line": 701,
+    "text": "I want to give up... Is this really training for rookies...?"
+  },
+  {
+    "line": 702,
+    "text": "It's just a squat. This is nothing!"
+  },
+  {
+    "line": 703,
+    "text": "I need to be extra strict precisely because they're new. Standing against the wall for endurance, squats for strength, and yoga for flexibility – none of it can be skipped."
+  },
+  {
+    "line": 704,
+    "text": "You need a good foundation to have a perfect body on stage."
+  },
+  {
+    "line": 706,
+    "text": "Not really."
+  },
+  {
+    "line": 707,
+    "text": "Huh?"
+  },
+  {
+    "line": 708,
+    "text": "Sorry, but I don't need to slim down like the others – my low body fat's just genetics."
+  },
+  {
+    "line": 709,
+    "text": "You don't look sorry at all!"
+  },
+  {
+    "line": 711,
+    "text": "We've only been chatting for one minute!"
+  },
+  {
+    "line": 713,
+    "text": "60 seconds of rest is plenty. You'll be fine. Let's try something else now."
+  },
+  {
+    "line": 714,
+    "text": "Don't let this discourage you. Maybe you're talented in other areas."
+  },
+  {
+    "line": 715,
+    "text": "Thanks... Wait, what do you mean by other areas?"
+  },
+  {
+    "line": 716,
+    "text": "Well, there's still a body flexibility test, balance test, and... The trials for new models have only just begun."
+  },
+  {
+    "line": 717,
+    "text": "No!!!"
+  },
+  {
+    "line": 718,
+    "text": "How are you holding up? Here's an energy drink."
+  },
+  {
+    "line": 719,
+    "text": "Ahhh!"
+  },
+  {
+    "line": 720,
+    "text": "I – I'm still breathing..."
+  },
+  {
+    "line": 721,
+    "text": "You actually survived all that without much professional guidance before. Not bad at all."
+  },
+  {
+    "line": 722,
+    "text": "Actually, I should say it's amazing that you survived such intensive training even though you have no intention of becoming a model."
+  },
+  {
+    "line": 724,
+    "text": "Can those rookies really stick through it to the end...?"
+  },
+  {
+    "line": 725,
+    "text": "Haha, don't underestimate the determination people have when chasing their dreams."
+  },
+  {
+    "line": 726,
+    "text": "In today's world of endless distractions, models, who rely on their figure and temperament to capture attention, must work harder than ever to stand out."
+  },
+  {
+    "line": 727,
+    "text": "Models today compete with more than just each other – they're also up against versatile artists, those who'll do anything for online fame, and even virtual products designed purely to grab attention."
+  },
+  {
+    "line": 728,
+    "text": "I'm sure you can imagine how difficult it is for models to still command the spotlight under such circumstances."
+  },
+  {
+    "line": 729,
+    "text": "Okay, I think I've said too much. {var:player_nickname}, you should have rested enough already. Get your clothes and prepare for the photo shoot."
+  },
+  {
+    "line": 730,
+    "text": "Photo shoot?"
+  },
+  {
+    "line": 731,
+    "text": "Did you forget the whole point of \"The Making of a Model\"? We need to be getting the most compelling, dynamic shots of the models when they're in front of the camera."
+  },
+  {
+    "line": 733,
+    "text": "At the very least, it's gotten you in the groove. Change into these clothes. I picked them just for you."
+  },
+  {
+    "line": 734,
+    "text": "Oh... thank you?"
+  },
+  {
+    "line": 735,
+    "text": "(Take the clothes)"
+  },
+  {
+    "line": 736,
+    "text": "As if performing a magic trick, Cynthia hands me a set of folded clothes that seem to appear out of nowhere and looks at me expectantly."
+  },
+  {
+    "line": 737,
+    "text": "I finish changing in the fitting room and look at myself in the mirror..."
+  },
+  {
+    "line": 738,
+    "text": "Fitting Room, Cynthia's Studio"
+  },
+  {
+    "line": 739,
+    "text": "Wow..."
+  },
+  {
+    "line": 740,
+    "text": "As expected of a model with a professionally honed sense of aesthetics. This outfit has an elegant cutting, the fabric is comfortable, and it seems to be tailored just for me."
+  },
+  {
+    "line": 741,
+    "text": "Where did Cynthia get my measurements from..."
+  },
+  {
+    "line": 742,
+    "text": "{var:player_nickname}, are you done yet?"
+  },
+  {
+    "line": 744,
+    "text": "Let me see... Not bad, about 90% of what I envisioned."
+  },
+  {
+    "line": 745,
+    "text": "It's because you've got such good taste!"
+  },
+  {
+    "line": 746,
+    "text": "I'm kind of embarrassed by your praise..."
+  },
+  {
+    "line": 747,
+    "text": "Don't bother trying to flatter me. An excellent mentor only looks at their student's performance."
+  },
+  {
+    "line": 751,
+    "text": "Let me introduce myself again. I'm Cynthia, a photographer just starting out. Please bear with me."
+  },
+  {
+    "line": 752,
+    "text": "Oh..."
+  },
+  {
+    "line": 753,
+    "text": "Please tell me what to do!"
+  },
+  {
+    "line": 754,
+    "text": "Hmm..."
+  },
+  {
+    "line": 755,
+    "text": "A little while later"
+  },
+  {
+    "line": 757,
+    "text": "What? Is something wrong?"
+  },
+  {
+    "line": 758,
+    "text": "Are you left speechless by my talent?"
+  },
+  {
+    "line": 759,
+    "text": "This won't do at all... Is this the uncanny valley?"
+  },
+  {
+    "line": 760,
+    "text": "Your expression is so unnatural in front of the camera. To be honest, you look a little scary."
+  },
+  {
+    "line": 761,
+    "text": "You're kind of right. I never thought I would take such... horrifying model photos."
+  },
+  {
+    "line": 763,
+    "text": "Hey, that's so rude!"
+  },
+  {
+    "line": 764,
+    "text": "Geez! Shouldn't the photographer take some responsibility too?"
+  },
+  {
+    "line": 765,
+    "text": "Ahem, {var:player_nickname}, you don't have much experience in front of a camera. Is that right?"
+  },
+  {
+    "line": 766,
+    "text": "Yeah..."
+  },
+  {
+    "line": 767,
+    "text": "Does taking class photos when I was little count?"
+  },
+  {
+    "line": 768,
+    "text": "Never mind then. Being photogenic, that's an innate talent. It's not something that can be taught easily."
+  },
+  {
+    "line": 769,
+    "text": "Having said that, not all models are naturals who know how to perform in front of a camera. In the end, it's enough to just show people what they want to see."
+  },
+  {
+    "line": 770,
+    "text": "Maybe that's a little difficult to understand. Why don't you pretend you're looking at me when you look at the camera? Your eye contact will be more natural if you do that."
+  },
+  {
+    "line": 771,
+    "text": "My brain understands everything you're saying..."
+  },
+  {
+    "line": 772,
+    "text": "But my body just won't cooperate..."
+  },
+  {
+    "line": 773,
+    "text": "Hmm... maybe you're too nervous. Let me think about it. Oh, I know."
+  },
+  {
+    "line": 774,
+    "text": "Here are some photos I took in the past. {var:player_nickname}, why not try matching the poses?"
+  },
+  {
+    "line": 775,
+    "text": "I'll give it a go..."
+  },
+  {
+    "line": 776,
+    "text": "I'll do my best!"
+  },
+  {
+    "line": 777,
+    "text": "I take the photos Cynthia hands to me. The first one is like this..."
+  },
+  {
+    "line": 778,
+    "text": "So, the idea is for me to copy the pose she's doing in the photo..."
+  },
+  {
+    "line": 781,
+    "text": "Yes, it's much better now. You're a quick learner. Pass! Time for the next one."
+  },
+  {
+    "line": 782,
+    "text": "Hmm... something still doesn't look right. Let's move on to the next one."
+  },
+  {
+    "line": 786,
+    "text": "Hmm... something still doesn't look right. Let's move on to the last one."
+  },
+  {
+    "line": 792,
+    "text": "Restaurant"
+  },
+  {
+    "line": 793,
+    "text": "Thanks for treating me to this meal..."
+  },
+  {
+    "line": 795,
+    "text": "It's no big deal. I should be the one thanking you. Now I'm more confident about the program."
+  },
+  {
+    "line": 796,
+    "text": "Hehe, you're welcome. It's just afternoon tea."
+  },
+  {
+    "line": 797,
+    "text": "If I get the chance, I'll treat you to a feast to thank you properly."
+  },
+  {
+    "line": 798,
+    "text": "Aren't you going to eat some too?"
+  },
+  {
+    "line": 800,
+    "text": "You, however, can enjoy yourself. You can eat as messily as you like, and don't worry about me. Calorie control is a daily aspect of a model's life."
+  },
+  {
+    "line": 801,
+    "text": "It's so tough to be a model..."
+  },
+  {
+    "line": 803,
+    "text": "Hmm... I guess it would be really nice to be able to eat your fill without caring about your image."
+  },
+  {
+    "line": 804,
+    "text": "But although it's challenging at times, I don't regret becoming a model at all."
+  },
+  {
+    "line": 805,
+    "text": "Is it because you enjoy the feeling of having everyone look at you?"
+  },
+  {
+    "line": 806,
+    "text": "Is it because you get to put your beauty on display for everyone to see?"
+  },
+  {
+    "line": 807,
+    "text": "No, not really, even though these things do make me happy."
+  },
+  {
+    "line": 809,
+    "text": "I'll listen if you're willing to tell me..."
+  },
+  {
+    "line": 810,
+    "text": "Of course."
+  },
+  {
+    "line": 811,
+    "text": "Let me see... Well, I'll have to start from a long time ago."
+  },
+  {
+    "line": 812,
+    "text": "I had a rather happy childhood."
+  },
+  {
+    "line": 813,
+    "text": "At that time, I could pursue whatever I wanted – whether it was dolls or violin lessons, everything I desired was within reach."
+  },
+  {
+    "line": 814,
+    "text": "But life has a way of changing in a heartbeat."
+  },
+  {
+    "line": 815,
+    "text": "The year I was supposed to study abroad, my father died in a car accident, and my mother fell ill due to grief."
+  },
+  {
+    "line": 816,
+    "text": "Overnight, I understood that things won't always go your way in this world, and that growing up means learning to bear loss."
+  },
+  {
+    "line": 817,
+    "text": "Cynthia..."
+  },
+  {
+    "line": 818,
+    "text": "I can't believe all that happened to you..."
+  },
+  {
+    "line": 819,
+    "text": "Anyway, due to the sudden change, I gave up studying abroad and started to take care of my mother."
+  },
+  {
+    "line": 820,
+    "text": "...I was desperate for money back then. The family debts, my mother's medical bills... I spent sleepless nights trying to figure out how to earn enough."
+  },
+  {
+    "line": 821,
+    "text": "When I was almost at the end of my rope..."
+  },
+  {
+    "line": 822,
+    "text": "I saw an audition advertisement for models."
+  },
+  {
+    "line": 823,
+    "text": "Thanks to all the violin performances I had done over the years, I was already used to the camera and looking into it, so the audition went better than expected and I got the job."
+  },
+  {
+    "line": 824,
+    "text": "After that, my popularity kept growing and the work became second nature. Funny how modeling accidentally became my career."
+  },
+  {
+    "line": 825,
+    "text": "That's incredible."
+  },
+  {
+    "line": 826,
+    "text": "Wow..."
+  },
+  {
+    "line": 827,
+    "text": "Hmm?"
+  },
+  {
+    "line": 828,
+    "text": "Physical fitness training, diet management, photo shoots, and the runway... Although I haven't experienced much, I can already feel how hard it is to be a model."
+  },
+  {
+    "line": 829,
+    "text": "You're so strong and cool even after going through so much..."
+  },
+  {
+    "line": 830,
+    "text": "After everything you've been through, Cynthia... you truly are amazing."
+  },
+  {
+    "line": 831,
+    "text": "Hah, you should listen to what you're saying. Even though I get compliments all the time, hearing it from you like this... still makes me a little embarrassed."
+  },
+  {
+    "line": 832,
+    "text": "Hmm, I feel like you really are someone I can trust with these things. Some memories... they do feel lighter after being shared."
+  },
+  {
+    "line": 833,
+    "text": "I can't shoulder the pain you carried in the past, but from now on..."
+  },
+  {
+    "line": 835,
+    "text": "...{var:player_nickname}."
+  },
+  {
+    "line": 836,
+    "text": "I didn't think I would be the one getting encouraged instead. Even more reason for me to thank you properly then."
+  },
+  {
+    "line": 837,
+    "text": "Me?"
+  },
+  {
+    "line": 838,
+    "text": "You've shown me just how far I've come on the road of modeling..."
+  },
+  {
+    "line": 839,
+    "text": "You're the reason I'm able to become more determined and stronger."
+  },
+  {
+    "line": 840,
+    "text": "So, thank you."
+  },
+  {
+    "line": 841,
+    "text": "In that case, I need to thank you too, Cynthia."
+  },
+  {
+    "line": 842,
+    "text": "Huh?"
+  },
+  {
+    "line": 843,
+    "text": "Thank you for showing me your true self."
+  },
+  {
+    "line": 844,
+    "text": "Yeah, it... feels good to be myself around you."
+  },
+  {
+    "line": 845,
+    "text": "She smiles gently. Sunlight cascades over her, making her glisten."
+  },
+  {
+    "line": 846,
+    "text": "That afternoon was particularly unforgettable. I often find myself recalling that warmth, welling up from the very core of my being."
+  },
+  {
+    "line": 847,
+    "text": "Very good, let's continue then. Next up are opposite arm and leg raises!"
+  },
+  {
+    "line": 848,
+    "text": "Huff... Puff... I can do it!"
+  },
+  {
+    "line": 850,
+    "text": "Argh! I'm cramping...!"
+  },
+  {
+    "line": 852,
+    "text": "Okay, you can rest now."
+  },
+  {
+    "line": 854,
+    "text": "Strong muscles aren't built in one day. The fact that you've lasted this long in your first training session is already an accomplishment – well done."
+  },
+  {
+    "line": 855,
+    "text": "Um... thank you?"
+  },
+  {
+    "line": 857,
+    "text": "Well, I hope you keep it up."
+  },
+  {
+    "line": 858,
+    "text": "Keep it up?"
+  },
+  {
+    "line": 859,
+    "text": "There's still a body flexibility test, balance test, and... The trials for new models have only just begun."
+  },
+  {
+    "line": 861,
+    "text": "Can anyone hear me? Save me, please!"
+  },
+  {
+    "line": 862,
+    "text": "Listen up. I've got some runway tips for you."
+  },
+  {
+    "line": 863,
+    "text": "To master your runway walk, focus on these basics: posture, your step, where you direct your gaze, your facial expression, and how you use your hands. Keep your body straight, shoulders relaxed, and arms hanging naturally..."
+  },
+  {
+    "line": 864,
+    "text": "Put your legs together, point your toes forward, bend your knees slightly, and step rhythmically..."
+  },
+  {
+    "line": 865,
+    "text": "{var:player_nickname}, try doing what I said."
+  },
+  {
+    "line": 866,
+    "text": "Good, that's not bad."
+  },
+  {
+    "line": 867,
+    "text": "You're doing pretty well for a beginner. There's definitely room for improvement, but that isn't something we can rush. Good job today, {var:player_nickname}."
+  },
+  {
+    "line": 868,
+    "text": "Ugh... is it finally over?"
+  },
+  {
+    "line": 869,
+    "text": "Of course not."
+  },
+  {
+    "line": 870,
+    "text": "Here you go. I prepared this rest plan just for you."
+  },
+  {
+    "line": 871,
+    "text": "When you get home, make sure to rest following the advice on it. It's the best way to recharge your energy and maintain your physique."
+  },
+  {
+    "line": 872,
+    "text": "Although you've still got a long way to go to become a model, your fitness will improve if you follow this plan."
+  },
+  {
+    "line": 873,
+    "text": "...I have to follow such a strict plan when I rest too?!"
+  },
+  {
+    "line": 875,
+    "text": "As models, we need to pursue perfection, and there's a high price to pay for perfection."
+  },
+  {
+    "line": 876,
+    "text": "You've only seen the tip of the iceberg today. To avoid swelling, we're not allowed to drink water in the 12 hours before going on stage. We can only eat light meals during fashion weeks to keep in shape. We even have to do five hours of weight training every day when we're not working..."
+  },
+  {
+    "line": 877,
+    "text": "These are all parts of a model's daily life."
+  },
+  {
+    "line": 878,
+    "text": "Did you go through all that too?"
+  },
+  {
+    "line": 879,
+    "text": "Of course. I might be more talented than average, but even I can't walk on the runway without serious training."
+  },
+  {
+    "line": 880,
+    "text": "That's so tough..."
+  },
+  {
+    "line": 881,
+    "text": "So there's all this behind the beauty and glamor..."
+  },
+  {
+    "line": 882,
+    "text": "Of course! Nothing is easy if you want to do it well."
+  },
+  {
+    "line": 883,
+    "text": "Okay, seeing as we've gotten into all that, I suppose I might as well prepare a healthy diet plan for you, {var:player_nickname}."
+  },
+  {
+    "line": 884,
+    "text": "Wh-What?!"
+  },
+  {
+    "line": 885,
+    "text": "I don't want to be a model anymore!"
+  },
+  {
+    "line": 886,
+    "text": "Hmm... Let's start by making sure you get enough protein and dietary fiber. You can have chicken breast, some spinach, cherry tomatoes... And since you pushed yourself hard today, you can even have half a cob of corn too."
+  },
+  {
+    "line": 887,
+    "text": "Spare me!!!"
+  },
+  {
+    "line": 889,
+    "text": "So then, the following week, I had no choice but to continue with that brutal, hell-like model training."
+  },
+  {
+    "line": 890,
+    "text": "The experience was excruciating, beyond anything I can describe, but I guess I actually came out of it feeling a bit better, health-wise..."
+  },
+  {
+    "line": 893,
+    "text": "Isn't that like bullying? It'll traumatize the rookies..."
+  },
+  {
+    "line": 894,
+    "text": "Ahem! What I meant was that you're so professional!"
+  },
+  {
+    "line": 895,
+    "text": "The trainees of \"The Making of a Model\" are all rookies with no experience, just like you."
+  },
+  {
+    "line": 896,
+    "text": "Since I'm going to be their mentor, I wanted to rehearse everything with you before filming so I can figure out how hard I should push them once the cameras are rolling."
+  },
+  {
+    "line": 897,
+    "text": "Form's off! Thighs parallel to the ground – again!"
+  },
+  {
+    "line": 898,
+    "text": "Did you also train like this when you started out? That's so impressive..."
+  },
+  {
+    "line": 899,
+    "text": "Okay, I'm sure you've rested enough while we were chatting. Ready to continue?"
+  },
+  {
+    "line": 900,
+    "text": "Help...! I have absolutely no talent for modeling!"
+  },
+  {
+    "line": 901,
+    "text": "Is all this really necessary to become a model?"
+  },
+  {
+    "line": 902,
+    "text": "Huh?! Then what did I do all that hard work for?!"
+  },
+  {
+    "line": 903,
+    "text": "I'm done! I'm coming out now!"
+  },
+  {
+    "line": 904,
+    "text": "Okay, get over yourself already. Are you prepared now, rookie?"
+  },
+  {
+    "line": 905,
+    "text": "\"The Making of a Model\" was right to invite you."
+  },
+  {
+    "line": 906,
+    "text": "I'm ready. Where's the photographer?"
+  },
+  {
+    "line": 908,
+    "text": "In a sense, maybe you have a future in horror photography. Yeah, to be honest, you look a little scary."
+  },
+  {
+    "line": 909,
+    "text": "Now we're talking – that's pro-level work right there. Pass! Onto the last one now."
+  },
+  {
+    "line": 911,
+    "text": "Well, {var:player_nickname}, it looks like you do have some talent. We're done."
+  },
+  {
+    "line": 912,
+    "text": "Well? Indulging a little after all that hard work feels pretty good, doesn't it?"
+  },
+  {
+    "line": 913,
+    "text": "Thanks! Time to dig in!"
+  },
+  {
+    "line": 914,
+    "text": "Me? Nah, even if I have naturally low body fat, I still need to control my intake strictly."
+  },
+  {
+    "line": 915,
+    "text": "Cynthia, have you ever regretted becoming a model?"
+  },
+  {
+    "line": 916,
+    "text": "...It's a long story. Do you want to hear it? It might be a little boring for you."
+  },
+  {
+    "line": 917,
+    "text": "One more set. Good! Now do a plank!"
+  },
+  {
+    "line": 918,
+    "text": "That's it. Now hold for a little longer. 3, 2, 1, very good! {var:player_nickname}, you have more perseverance than I thought."
+  },
+  {
+    "line": 919,
+    "text": "Huh...? Didn't you say I've still got a long way to go?"
+  },
+  {
+    "line": 920,
+    "text": "Since you praised me, does that mean I'm quite talented too?"
+  },
+  {
+    "line": 921,
+    "text": "Ohhh! I want to be a qualified model!"
+  },
+  {
+    "line": 922,
+    "text": "Cynthia, how are you able to live like this?"
+  },
+  {
+    "line": 923,
+    "text": "Didn't you hear what I said, Cynthia?!"
+  },
+  {
+    "line": 925,
+    "text": "Whatever your troubles may be, you know I'm always ready to lend an ear."
+  },
+  {
+    "line": 929,
+    "text": "Gym, Cynthia's Studio"
+  },
+  {
+    "line": 930,
+    "text": "Shooting Room, Cynthia's Studio"
+  },
+  {
+    "line": 931,
+    "text": "Stand sideways with your right leg raised in the air."
+  },
+  {
+    "line": 932,
+    "text": "Pull open your collar with one hand, and clench your other hand into a fist near your hip."
+  },
+  {
+    "line": 933,
+    "text": "Put one hand on your waist, and bend your left leg."
+  },
+  {
+    "line": 934,
+    "text": "Place one hand against your forehead, and rest your other hand on your waist with fingers spread."
+  },
+  {
+    "line": 935,
+    "text": "Stick one hand in your pocket, and point at the camera with the index finger of your other hand."
+  },
+  {
+    "line": 936,
+    "text": "Rest your chin in one hand while arching your body to accentuate your curves."
+  },
+  {
+    "line": 937,
+    "text": "Hmm... something still doesn't look right."
+  }
+]

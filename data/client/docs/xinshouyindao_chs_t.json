@@ -1,0 +1,669 @@
+{
+  "page_count": 44,
+  "datas": [
+    {
+      "page_id": "ch_course1",
+      "bg": "1",
+      "head": "extendRes/guide/l_2.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "喵？新來的雀士啊，我是負責接待的一姬。\n第一次瞭解麻將規則喵？真沒辦法，我來教你吧！",
+      "name": "一姬",
+      "img": "yiji/full/full.png",
+      "next": "ch_course2"
+    },
+    {
+      "page_id": "ch_course2",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "麻將一共有34種牌，分為5類——萬子，筒子，索子，風牌，三元牌。\n每種牌有4張，總共136張。",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course2.png",
+      "next": "ch_course3"
+    },
+    {
+      "page_id": "ch_course3",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "打麻將的目標就是為了和牌，那麼如何和牌呢？\n對局時，每個人手裡常有13張牌，每回合摸1張組成14張，後打出一張。\n隨著不斷地摸入和打出，手牌將會不斷變化。",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course3.png",
+      "next": "ch_course4"
+    },
+    {
+      "page_id": "ch_course4",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "0",
+      "effect": "1",
+      "text": "在講解和牌之前，我們要先瞭解3個東西：順子，刻子和對子~\n首先是順子，同花色的序數牌3張組成順序數字就是順子，看上面喵~",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course4.png",
+      "next": "ch_course5"
+    },
+    {
+      "page_id": "ch_course5",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "刻子指的是完全相同的3張牌。\n對子指的是完全相同的2張牌。",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course5.png",
+      "next": "ch_course6"
+    },
+    {
+      "page_id": "ch_course6",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "通常情況下，當自己的手牌形成了4個(順子或刻子)+1個對子。\n主人就組成和牌形啦~當然，在立直麻將中要和牌還有其他規則，我們稍後再說喵~和牌形用公式來表示就是：AAA*a+ABC*(4-a)+DD",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course6.png",
+      "next": "ch_course7"
+    },
+    {
+      "page_id": "ch_course7",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "當然，由於我們手裡常有的是13張牌，必然差一張才會形成和牌，\n那麼這個差一張的狀態就被叫作聽牌。\n聽牌是和牌必然經過的過程，要注意喵。",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course7.png",
+      "next": "ch_course8"
+    },
+    {
+      "page_id": "ch_course8",
+      "head": "extendRes/guide/l_2.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "要乖乖滿足AAA*a+ABC*(4-a)+DD 公式哦喵~",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course8.png",
+      "answers": [
+        {
+          "jump": "ch_course8_correct"
+        },
+        {
+          "jump": "ch_course8_wrong1"
+        },
+        {
+          "jump": "ch_course8_wrong2"
+        }
+      ]
+    },
+    {
+      "page_id": "ch_course8_correct",
+      "head": "extendRes/guide/l_4.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "對啦喵！",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course8.png",
+      "answers": [
+        {
+          "x": 289,
+          "y": 412,
+          "flag": "correct"
+        },
+        {},
+        {}
+      ],
+      "next": "ch_course9"
+    },
+    {
+      "page_id": "ch_course8_wrong1",
+      "head": "extendRes/guide/l_3.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "這樣是和不了的喵，記得要滿足AAA*a+ABC*(4-a)+DD 公式。",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course8.png",
+      "answers": [
+        {},
+        {
+          "x": 770,
+          "y": 412,
+          "flag": "wrong"
+        },
+        {}
+      ],
+      "next": "ch_course8"
+    },
+    {
+      "page_id": "ch_course8_wrong2",
+      "head": "extendRes/guide/l_3.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "這樣是和不了的喵，記得要滿足AAA*a+ABC*(4-a)+DD 公式。",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course8.png",
+      "answers": [
+        {},
+        {},
+        {
+          "x": 1255,
+          "y": 412,
+          "flag": "wrong"
+        }
+      ],
+      "next": "ch_course8"
+    },
+    {
+      "page_id": "ch_course9",
+      "head": "extendRes/guide/l_2.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "再來一題喵~",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course9.png",
+      "answers": [
+        {
+          "jump": "ch_course9_wrong1"
+        },
+        {
+          "jump": "ch_course9_correct"
+        },
+        {
+          "jump": "ch_course9_wrong2"
+        }
+      ]
+    },
+    {
+      "page_id": "ch_course9_wrong1",
+      "head": "extendRes/guide/l_3.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "錯了喵…記得要滿足AAA*a+ABC*(4-a)+DD 公式。",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course9.png",
+      "answers": [
+        {
+          "x": 289,
+          "y": 412,
+          "flag": "wrong"
+        },
+        {},
+        {}
+      ],
+      "next": "ch_course9"
+    },
+    {
+      "page_id": "ch_course9_correct",
+      "head": "extendRes/guide/l_4.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "正確喵~",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course9.png",
+      "answers": [
+        {},
+        {
+          "x": 770,
+          "y": 412,
+          "flag": "correct"
+        },
+        {}
+      ],
+      "next": "ch_course10"
+    },
+    {
+      "page_id": "ch_course9_wrong2",
+      "head": "extendRes/guide/l_3.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "錯了喵…記得要滿足AAA*a+ABC*(4-a)+DD 公式。",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course9.png",
+      "answers": [
+        {},
+        {},
+        {
+          "x": 1255,
+          "y": 412,
+          "flag": "wrong"
+        }
+      ],
+      "next": "ch_course9"
+    },
+    {
+      "page_id": "ch_course10",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "在瞭解完基本的牌的組成之後，我們來瞭解下對局的介面\n主人請看上面，接下來一姬會給主人逐個解釋喵~",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course10.png",
+      "next": "ch_course11"
+    },
+    {
+      "page_id": "ch_course11",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "中間的 東2局 表示現在是東風場的第2局，東風就是當前的場風。\n04 表示剩餘牌數，如果剩餘0張，這一局牌遊戲就結束了。\n24200是我們當前擁有的點數，它就是主人持有的籌碼喵。",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course10.png",
+      "next": "ch_course12"
+    },
+    {
+      "page_id": "ch_course12",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "每個玩家不要的牌會被打出在自己的手牌前面。\n可以根據這些牌來分析對局情況喵~",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course12.png",
+      "next": "ch_course13"
+    },
+    {
+      "page_id": "ch_course13",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "如果你的前一個人打出了一張與你手牌中2張可組成順子的牌，你就可以選擇進行【吃】的操作，將這張拿過來並將組成的順子攤開放在一邊，並打出一張不要的牌。\n這裡前一個人打出的5s可以和手中的3s和4s組成345s的順子，所以可以進行【吃】。",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course13.png",
+      "next": "ch_course14"
+    },
+    {
+      "page_id": "ch_course14",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "如果任意一個人打出了一張與你手牌中的對子相同的牌，可以選擇點擊【碰】將牌碰過來，連同手中的2張一起，攤開放在旁邊。\n和吃一樣，你也需要打一張牌出去。",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course14.png",
+      "next": "ch_course15"
+    },
+    {
+      "page_id": "ch_course15",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "如果你手上有四張一模一樣的牌，那麼我們就可以【槓】，這種槓被叫做暗槓。\n點擊【槓】的按鈕，就會將這4張牌放在一邊，並摸一張牌，然後打出一張牌。\n同時，槓還有另外兩種方式——明槓和加槓，槓算作一個刻子。",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course15.png",
+      "next": "ch_course16"
+    },
+    {
+      "page_id": "ch_course16",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "明槓就是把其他玩家的棄牌拿過來，和自己手中的3張相同的牌組成槓，\n明槓和暗槓相似，會摸一張牌，然後需要打出一張。\n明槓也算作一個刻子。",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course16.png",
+      "next": "ch_course17"
+    },
+    {
+      "page_id": "ch_course17",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "最後就是加槓喵，加槓就是在你碰過之後，再次摸進與碰相同的牌後，就可以進行加槓，和其他槓一樣，之後會摸一張新的牌，然後打掉一張不要的牌。\n加槓也算作一個刻子。",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course17.png",
+      "next": "ch_course18"
+    },
+    {
+      "page_id": "ch_course18",
+      "head": "extendRes/guide/l_2.png",
+      "flip": "0",
+      "effect": "1",
+      "text": "答對就可以吃我的零食哦喵~",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course18.png",
+      "answers": [
+        {
+          "jump": "ch_course18_correct"
+        },
+        {
+          "jump": "ch_course18_wrong1"
+        },
+        {
+          "jump": "ch_course18_wrong2"
+        }
+      ]
+    },
+    {
+      "page_id": "ch_course18_correct",
+      "head": "extendRes/guide/l_4.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "正確！你想先吃哪個零食呢喵？\n我可不是零食喵！",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course18.png",
+      "answers": [
+        {
+          "x": 298,
+          "y": 412,
+          "flag": "correct"
+        },
+        {},
+        {}
+      ],
+      "next": "ch_course19"
+    },
+    {
+      "page_id": "ch_course18_wrong1",
+      "head": "extendRes/guide/l_3.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "不太對哦……吃就是拿上家的牌和自己的牌組成一個順子，順子就是同一個花色數字相連。",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course18.png",
+      "answers": [
+        {},
+        {
+          "x": 785,
+          "y": 412,
+          "flag": "wrong"
+        },
+        {}
+      ],
+      "next": "ch_course18"
+    },
+    {
+      "page_id": "ch_course18_wrong2",
+      "head": "extendRes/guide/l_3.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "不太對哦……吃就是拿上家的牌和自己的牌組成一個順子，順子就是同一個花色數字相連。",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course18.png",
+      "answers": [
+        {},
+        {},
+        {
+          "x": 1255,
+          "y": 412,
+          "flag": "wrong"
+        }
+      ],
+      "next": "ch_course18"
+    },
+    {
+      "page_id": "ch_course19",
+      "head": "extendRes/guide/l_2.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "還想吃更多我的零食嗎？",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course19.png",
+      "answers": [
+        {
+          "jump": "ch_course19_wrong1"
+        },
+        {
+          "jump": "ch_course19_wrong2"
+        },
+        {
+          "jump": "ch_course19_correct"
+        }
+      ]
+    },
+    {
+      "page_id": "ch_course19_wrong1",
+      "head": "extendRes/guide/l_3.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "不對喵，再想想~\n碰就是拿別人的牌組成刻子喵。",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course19.png",
+      "answers": [
+        {
+          "x": 310,
+          "y": 412,
+          "flag": "wrong"
+        },
+        {},
+        {}
+      ],
+      "next": "ch_course19"
+    },
+    {
+      "page_id": "ch_course19_wrong2",
+      "head": "extendRes/guide/l_3.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "不對喵，再想想~\n碰就是拿別人的牌組成刻子喵。",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course19.png",
+      "answers": [
+        {},
+        {
+          "x": 785,
+          "y": 412,
+          "flag": "wrong"
+        },
+        {}
+      ],
+      "next": "ch_course19"
+    },
+    {
+      "page_id": "ch_course19_correct",
+      "head": "extendRes/guide/l_4.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "正確！\n不管你答對幾次我都不是零食,也不是貓喵！",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course19.png",
+      "answers": [
+        {},
+        {},
+        {
+          "x": 1243,
+          "y": 412,
+          "flag": "correct"
+        }
+      ],
+      "next": "ch_course20"
+    },
+    {
+      "page_id": "ch_course20",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "0",
+      "effect": "1",
+      "text": "如果達到之前說的牌型就能和就太簡單了喵，還需要有役才能和。\n役就是特定牌的組合，不滿足任何役的牌是無法和的喵~\n先給主人介紹幾個很容易做的役喵。",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course20.png",
+      "next": "ch_course21"
+    },
+    {
+      "page_id": "ch_course21",
+      "head": "extendRes/guide/l_2.png",
+      "flip": "0",
+      "effect": "1",
+      "text": "役牌是什麼？我都是憑感覺打的喵。\n開玩笑的，最簡單的役就是役牌，役牌就是指白，發，中刻子，場風刻子，自風刻子這5種，有其中之一就能和牌了喵！",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course21.png",
+      "next": "ch_course22"
+    },
+    {
+      "page_id": "ch_course22",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "0",
+      "effect": "1",
+      "text": "在立直麻將中，有一種役非常常用，深受雀士青睞，他就是斷么九。\n如果手牌只由2-8的序數牌組成，沒有字牌和1，9序數牌，就能和牌。\n我的耳朵可是很靈的！聽說你在做大牌喵？",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course22.png",
+      "next": "ch_course23"
+    },
+    {
+      "page_id": "ch_course23",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "說到立直麻將，當然不能忘記立直啦！\n只要在門前清的時候達成聽牌，並且剩餘點數大於等於1000，就可以進行立直。\n所謂門前清，就是沒有進行過吃，碰，明槓，加槓的操作的狀態。",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course23.png",
+      "next": "ch_course24"
+    },
+    {
+      "page_id": "ch_course24",
+      "head": "extendRes/guide/l_2.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "那麼我們現在來考一下。\n要記得役牌是由場風、自風或三元牌組成的。",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course24.png",
+      "answers": [
+        {
+          "jump": "ch_course24_correct"
+        },
+        {
+          "jump": "ch_course24_wrong1"
+        },
+        {
+          "jump": "ch_course24_wrong2"
+        }
+      ]
+    },
+    {
+      "page_id": "ch_course24_correct",
+      "head": "extendRes/guide/l_4.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "正確喵~",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course24.png",
+      "answers": [
+        {
+          "x": 289,
+          "y": 412,
+          "flag": "correct"
+        },
+        {},
+        {}
+      ],
+      "next": "ch_course25"
+    },
+    {
+      "page_id": "ch_course24_wrong1",
+      "head": "extendRes/guide/l_3.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "不對喵!\n請注意看中間的指示盤。",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course24.png",
+      "answers": [
+        {},
+        {
+          "x": 770,
+          "y": 412,
+          "flag": "wrong"
+        },
+        {}
+      ],
+      "next": "ch_course24"
+    },
+    {
+      "page_id": "ch_course24_wrong2",
+      "head": "extendRes/guide/l_3.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "不對喵!\n請注意看中間的指示盤。",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course24.png",
+      "answers": [
+        {},
+        {},
+        {
+          "x": 1255,
+          "y": 412,
+          "flag": "wrong"
+        }
+      ],
+      "next": "ch_course24"
+    },
+    {
+      "page_id": "ch_course25",
+      "head": "extendRes/guide/l_2.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "斷么九要點是手牌中不能有字牌和1,9的序數牌喵！",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course25.png",
+      "answers": [
+        {
+          "jump": "ch_course25_correct"
+        },
+        {
+          "jump": "ch_course25_wrong1"
+        },
+        {
+          "jump": "ch_course25_wrong2"
+        }
+      ]
+    },
+    {
+      "page_id": "ch_course25_correct",
+      "head": "extendRes/guide/l_4.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "對啦喵~",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course25.png",
+      "answers": [
+        {
+          "x": 289,
+          "y": 412,
+          "flag": "correct"
+        },
+        {},
+        {}
+      ],
+      "next": "ch_course26"
+    },
+    {
+      "page_id": "ch_course25_wrong1",
+      "head": "extendRes/guide/l_3.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "不對喵！\n斷么九手牌中不能有字牌和1,9的序數牌呢。",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course25.png",
+      "answers": [
+        {},
+        {
+          "x": 770,
+          "y": 412,
+          "flag": "wrong"
+        },
+        {}
+      ],
+      "next": "ch_course25"
+    },
+    {
+      "page_id": "ch_course25_wrong2",
+      "head": "extendRes/guide/l_3.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "不對喵！\n斷么九手牌中不能有字牌和1,9的序數牌呢。",
+      "name": "一姬",
+      "img": "ui/lobby/extend/xinshou/pic/course25.png",
+      "answers": [
+        {},
+        {},
+        {
+          "x": 1255,
+          "y": 412,
+          "flag": "wrong"
+        }
+      ],
+      "next": "ch_course25"
+    },
+    {
+      "page_id": "ch_course26",
+      "bg": "1",
+      "head": "extendRes/guide/l_2.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "教完了，我要去睡覺了喵~\n之後點擊主介面右上角問號圖示就可以學到更多喵！",
+      "name": "一姬",
+      "next": "en_course25",
+      "img": "yiji/full/full.png"
+    }
+  ]
+}

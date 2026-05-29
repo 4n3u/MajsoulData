@@ -1,0 +1,384 @@
+86:player
+87:{character:player}This boy here wants to buy a Halloween costume that suits him. Do you have any costumes to recommend?
+88:It's somewhat embarrassing to get scared before a child younger than yourself. So I quickly change the topic and redirect their attention to buying clothes.
+89:Employee
+91:Having seen their unique way of treating customers here, I'm deeply skeptical about this so-called 100% customer satisfaction...
+92:{character:Employee}Ah, if it's for this customer, it would be a good idea to dress up as an elegant Count Dracula.
+93:Sora Ichinose
+94:{character:Sora Ichinose}I see... Can you find a set that is my size so I can try it on...? Hmm? This mage costume...
+96:{character:Sora Ichinose}I think this one suits you, {var:player_nickname}.
+97:{character:player}For me? Haha, thank you, but things have been quite busy at the café recently, so I might not be able to participate in the events on Halloween. Let's just choose something for you.
+99:{character:Employee}In a sense, Halloween is also a festival that glorifies autumn and celebrates the harvest. Since you work hard all the time, don't you think you should let yourself rest on this day? So, why don't you give it a try? I promise the Halloween events of One Han City won't disappoint you.
+100:{character:player}O-Okay then.
+101:{character:Employee}In that case, please follow me to the fitting room over here.
+102:The enthusiastic employee doesn't give me too much time to hesitate. After handing the clothes to me, the employee pushes me and Sora into separate fitting rooms before we can object further.
+103:Oh well, this costume looks pretty nice and fits my taste perfectly. I might as well try it on.
+104:If I have to find someone who is familiar with Sora in this café, the first person I would think of is Reina Nanami. If I remember correctly, they are classmates.
+105:Reina Nanami
+106:{character:Reina Nanami}You want to know what has been troubling Sora recently? Hmm... I don't really know either. There's nothing special going on other than the announcement that the school will organize a fashion show.
+107:{character:player}A fashion show?
+108:{character:Reina Nanami}Yeah, it's a special Halloween event the school is running this year. It's open to all students of Dewdrop Middle School, and the winner will get a special prize.
+109:{character:Reina Nanami}Hold on, assuming this is relevant, maybe Sora is worried about the fashion show. I mean, he's the only one in class who hasn't decided on what character he wants to dress up as.
+110:{character:player}Huh... Wouldn't Sora choose a character like Frankenstein without hesitation?
+111:{character:Reina Nanami}That's what I thought too, but Sora seems to have his own considerations. Everyone's saying that the reason he's so troubled by this that this year's prize is too attractive to him.
+112:{character:player}Did you just say there's a prize?! Please tell me more about it!
+113:{character:Reina Nanami}The school hasn't officially announced what the prizes are yet, but rumor says this year's grand prize is a set of newly released commemorative sci-fi books.
+114:{character:player}I see, that really is a very tempting prize to him. I wonder what the fashion show held by Dewdrop Middle School will look like. Will any professional models be there to provide guidance?
+115:{character:Reina Nanami}If you're interested... why don't you come and experience it for yourself? It's the school's intention for the Halloween event to be a medium to promote the school to the outside world anyway. We organize similar events two to three times every year, and all citizens of One Han City are welcome to participate at the school.
+116:{character:player}Are you sure? The café should be really busy on Halloween. Are you sure you don't need me here that day?
+117:{character:Reina Nanami}You haven't gotten much rest recently, which is already making me feel bad... Don't worry about Halloween because I've already made arrangements. So please come to our school to enjoy the festive vibe there.
+118:{character:player}But Halloween is next week and I haven't made any preparations yet. And now you're telling me to participate in a Halloween fashion show... I don't even know where to buy a costume from.
+120:{character:player}That's great!
+121:{character:Reina Nanami}This is the address of the shop. It is open 24 hours a day for the entire week before Halloween, so you can take a look at any time. Oh right... there's a very cheeky employee there, so you must be careful.
+122:I'm just buying some clothes. Why would I need to be careful of an employee who works there?
+123:...I suddenly have a bad feeling about this.
+124:{character:player}No. 232, No. 234, No. 23... Found it! This is the shop!
+125:The shop Reina recommended is located at the end of the commercial strip, and its dark decoration makes it inconspicuous among the colorful clothing stores there. There is also no signboard or logo at the door. All it has is an ordinary blackboard with the words "Open" written on it. I would never have found this place if Reina didn't give me the specific address.
+126:After verifying the address a few more times, I push open the shop's extremely ancient-looking front door.
+127:???
+128:{character:???}Ah! Fresh brains! I shall have a feast tonight!
+129:A strange sound that sounds like fingernails scratching a blackboard rings in my ears, accompanied by the sound of metal banging. Suddenly, a finger that is obviously cooler than the normal body temperature of a human slides across my wrist.
+130:{character:player}W-What's that?
+131:I turn my neck rigidly to find myself face to face with a huge skull.
+132:Face it head on without panicking
+133:
+134:Step back and play it safe
+135:*Bang!*
+136:I swear that this is a conditioned response. I didn't mean to punch you.
+137:{character:???}OW! My nose! My nose!
+138:Eh?
+139:The arrogant skeleton from before is now squatting on the ground and complaining about the pain while holding their nose. Although the makeup still looks terrifying, at least I can be sure that it isn't anything threatening.
+140:{character:player}I'm so sorry, I didn't mean to do that. You suddenly appeared behind me, so I instinctively...
+141:This must be the "very cheeky employee" Reina mentioned, who must have dressed up like this to welcome customers to match the Halloween theme.
+142:{character:Employee}No, I should be apologizing instead. I'm sorry for giving you such an unpleasant experience. Welcome to the "Ghouls and Ghasts" costume shop! How can I help you?
+143:{character:player}Ah!
+144:I gasp in fear and back away quickly, and only manage to barely calm down when my back hits the door of the shop.
+145:{character:Employee}Oh no! Are you okay? I'm sorry! I appeared too suddenly.
+146:{character:player}Stop! Just stand where you are and don't come any closer. Give me some time to adjust myself.
+147:{character:Employee}Ahem, okay. I'm sorry for giving you such an unpleasant experience. Welcome to the "Ghouls and Ghasts" costume shop! How can I help you?
+148:{character:Sora Ichinose}{var:player_nickname}, what are you doing here?
+149:{character:player}Sora? Are you also here to buy a costume?
+150:The employee in the skeleton costume moved aside to let me inside. Only then do I see Sora Ichinose, who was completely hidden behind him, holding a costume in his hands and looking like he's about to try it on.
+152:{character:player}It sounds like Sora also received your special welcome when he entered?
+153:{character:Employee}Yes, I dressed up as a ghost of the night, but he wasn't afraid at all. He even told me very seriously that there is no concrete evidence that proves ghosts are real in this world.
+154:{character:Employee}After that, he suggested that I dress up as something that exists in the real world for better effects. And... it was brilliant! It gave me a whole new source of inspiration!
+155:To be skeptical of things that can't be proven while believing deeply in science is so typical of Sora.
+156:{character:Sora Ichinose}Reina recommended this shop to you, right? Didn't she remind you to be careful of the employee here?
+157:{character:player}I didn't think she meant I had to be physically careful...
+158:{character:Sora Ichinose}It's so great to run into you here. I was just worried about what I should do... Has Reina told you about the fashion show?
+159:{character:Sora Ichinose}According to the results of past years, there's a higher chance of winning if I dress up as something like a vampire, a mage, or a cute zombie. Can you give me some advice later? Reina said that I should ask you for advice if I need help because you usually give effective advice. So...
+160:{character:player}Well, if you put it like that, how can I say no? I'm happy to help. I'm also looking for a costume, so maybe we can help each other.
+161:Sora is visibly relieved after hearing an affirmative answer. I follow the employee's instructions to the fitting room. The closed door blocks my curious line of sight... so I redirect my attention and listen carefully to the employee's introduction of the most popular Halloween costumes.
+162:{character:Employee}This Nicolas collaboration mage costume is the bestselling product this season. Would you like to try it on?
+163:{character:player}Okay... I'll try it.
+164:There are so many costumes inside that I feel a little lost. I trust the employee's recommendation and enter the fitting room with a costume.
+165:{character:Sora Ichinose}{var:player_nickname}, have you picked a costume yet? I've just finished changing.
+166:I see a cute yet elegant "vampire" after I push open the door of the fitting room. His dark brown hair makes his skin look fairer, and his beautiful blue pupils remind me of the gorgeous color of the sea.
+167:This isn't the biased opinion of a friend. In fact, the employee beside me couldn't hold back from asking Sora if he can take a photo with him.
+169:{character:Sora Ichinose}Ahem, you too, great mage.
+170:Sora's expression relaxed after hearing these words of praise. He turned around a few times in front of the mirror, and the cumbersome ornaments on the large cloak seem to cause him some inconvenience.
+171:{character:Employee}Oh, be careful not to trip.
+172:{character:player}Watch out!
+172:{character:Sora Ichinose}Watch out!
+173:Seeing that Sora is about to step on a corner of his cloak, I reach out quickly to support him so he won't fall over.
+174:{character:Sora Ichinose}Thank you... This costume looks marvelous, but it might have some... safety issues.
+175:{character:player}The ornaments on the cape are too sharp. There will be lots of people visiting the school during the fashion show, so it'll be dangerous to walk around in this costume.
+176:{character:Sora Ichinose}That's what I think too.
+177:It's obvious that Sora has also noticed the cape's issues, but his eyes are showing an emotion that I can't quite understand. It's like he is feeling bothered and happy at the same time?
+178:This is strange... Sora is here to look for a Halloween costume that suits him. Why would he feel happy about missing out on a good option?
+179:{character:Sora Ichinose}*Coughs*... Then I guess we can only look at other types of costumes. This... can't be helped.
+180:{character:Employee}You can try an adorable zombie costume. This type of costume doesn't have many ornaments, so it will be easier to move around in it.
+181:{character:Sora Ichinose}This is also one of the intended options, but I actually...
+182:{character:player}Hmm?
+182:{character:Reina Nanami}Hmm?
+183:{character:Sora Ichinose}Nothing. I'll go change my clothes.
+184:"I actually?" I can't help wondering what he was going to say. But Sora returns to the fitting room before I can figure it out.
+185:I change back into my own clothes with many questions running through my head. I turn down the employee's proposal to try on other clothes and wait for Sora to appear again.
+186:I'm not really fixated on what costume I wear, so I'm mainly helping Sora choose one right now.
+187:{character:Sora Ichinose}What about this one?
+188:The door of the fitting room opens again, and a small zombie walks out slowly. The talisman hanging on his forehead sways as he moves, giving people the urge to touch it.
+189:{character:player}Although it isn't as stunning as the Dracula costume, it also suits you very well.
+191:{character:Sora Ichinose}Mmm, I don't think the doctor would let me do that because it will put too much burden on my body.
+192:{character:player}Since it looks suitable, we can keep this one as a backup. Now let's try on other ones.
+193:{character:Employee}Are you interested in dressing up as a wizard? The other customer also tried this one on. You can consider dressing up as a pair of close friends who are soulmates.
+194:{character:player}Hey! Using that wordhere isn't quite right!
+196:Sora doesn't say anything this time and returns to the fitting room directly with the clothes. The door opens again in less than five minutes.
+197:{character:player}That was quick... Huh?
+198:Sora didn't walk out wearing the mage costume. He has changed back into his normal clothes. He frowns and returns the clothes to the employee, firmly rejecting his offer to try on more costumes.
+199:{character:Employee}Is there something you don't like about this costume?
+200:{character:Sora Ichinose}...Not really. It's very beautiful.
+201:{character:Employee}Is it because of the size then?
+202:{character:Sora Ichinose}No, it's not because of the costume itself...
+203:Sora answered all the employee's questions by shaking his head. I look at the perplexed expression on his face and suggest going to another clothing shop. Before we step outside the shop, Sora suddenly turns his head and glances at a certain corner.
+204:{character:Employee}That spot... Ah, it looks like we'll be meeting again soon, customer.
+205:{character:player}...?
+206:The sky had become dark by the time we left the last store in the commercial strip. The moon had taken the sun's place above the branches, emitting a soft light that can't be compared with artificial neon lights.
+207:{character:Sora Ichinose}*Coughs*... What am I doing? I should decide as soon as possible...
+208:The difference in the temperature during the day and at night is already quite significant in October. I'm fine, but it does affect Sora to some extent. His worsening health and the fact that he hadn't found a suitable costume yet made him anxious.
+209:I think back to the clothes that Sora found random reasons to reject even though they were all great. After visiting so many shops, it stands to reason that he should have been able to find something suitable.
+210:Also... he seemed strangely happy when he rejected the costume at that time...
+211:{character:player}...Sora.
+212:After thinking for a while, I make a bold speculation.
+213:Do you have... decidophobia?!
+214:Do you want a costume other than those three options?
+235:Student A
+236:{character:Student A}Look! It's a newly-released HD image!
+237:Student B
+246:{character:player}When I went to the video store to buy a movie yesterday, I found that the movie I wanted was already sold out, and the store was urgently contacting the supplier.
+251:{character:player}...
+256:{character:Sora Ichinose}...Um, n-no... *Coughs* Why do you ask?
+257:{character:player}Those costumes all looked beautiful, and they all looked good on you. So the only reason you would resist them is that none of them are what you really want.
+258:{character:Sora Ichinose}Well... it's not that...
+259:{character:player}Maybe you aren't aware of it yet. If you don't mind, can you describe the costume you want to me? I can only give you better advice if I know more about you.
+260:{character:Sora Ichinose}Well... I want a costume that doesn't have a bright color tone, and its trouser pants can be broken to reveal metallic skin underneath. I want it to have a robotic right arm with bandages wrapped around it to cover the rust marks on it. I also...
+261:As Sora's slightly childish voice echoes in my ears, a figure becomes clearer in my mind. It is...
+262:{character:player}Frankenstein!
+263:{character:Sora Ichinose}H-How did you guess that?
+264:{character:player}It isn't that hard to guess since you described it in such detail. A monster created in a laboratory who firmly believes in science, is obsessed with calculations, and is lonely, eccentric, and complex. It's quite an innovative idea to dress up as this character on Halloween.
+265:{character:Sora Ichinose}But Frankenstein is neither handsome nor mysterious... There's only a 0.012% chance of winning... *Coughs* It'll be easier to win if I dress up as a popular character.
+266:{character:player}I disagree.
+267:{character:Sora Ichinose}Eh?
+268:{character:player}The most important thing about festivals is to allow people to experience the simplest happiness. There are too many ways to make people happy, and no complex mathematical formulas can accurately calculate this. It's still possible even if there's only a 1% chance.
+269:{character:Sora Ichinose}It'll be rather difficult to win the prize if the chance of winning is less than 50%.
+270:{character:player}The prize is just a result. Just like in mahjong, there is more than one way to win. If it's about the commemorative book set, I can ask Nanaha Onodera for you. She always seems to have a solution for book-related matters.
+271:{character:player}It's not like you get to participate in a Halloween fashion show every day. Wouldn't it be a shame to not enjoy it fully the way you want to? I want to see... what your unique Halloween costume will look like.
+272:{character:Sora Ichinose}...Frankenstein! Of course it's this monster who lives in a laboratory!
+273:Sora's cheeks flush with joy, sweeping away his previous feelings of anxiety and showing a vivacious side of him that is more congruent with a child his age.
+274:{character:player}Let's take action now that you have a clear goal. Let me see... Which store would sell a costume like the one you want?
+275:{character:Sora Ichinose}Actually... I saw it earlier! Follow me!
+276:{character:player}Don't rush, the costume won't run away, so we can take our time...
+277:Ten minutes later, we are back at the Ghouls and Ghasts again. The employee from before has changed into a clown costume and makes an "I knew it" expression when he sees us.
+279:{character:player}You said "we'll be meeting again soon." Did you know that we'll be coming back?
+280:{character:Sora Ichinose}I remember the costume was in this corner... Aha, found it!
+281:Sora runs directly to the corner and finds the costume he is looking for among the pile of clothes there so quickly that the employee has no time to intervene. Thinking back on the glint in Sora's eyes when he glanced at this corner, I think this scene must have happened many times in his mind.
+282:Maybe... he would have eventually come back here to get the costume he wants even if I didn't say anything.
+284:{character:player}You also know about the fashion show?
+285:{character:Employee}Éternité isn't our only partner. Ghouls and Ghasts also supplies Halloween costumes for the teachers of Dewdrop Middle School.
+286:{character:player}The costumes you're providing to the teachers didn't include the one you were wearing when you gave me a fright earlier, right?
+288:A pregnant silence ensues.
+289:I turn my head silently and begin to pray for the students of Dewdrop Middle School who are participating in the fashion show.
+290:{character:Sora Ichinose}It seems like... something is missing.
+291:{character:Employee}Frankenstein's costume is a little dull. I suggest that you wear some accessories. What about wearing a thin silver chain around the wrist? I can slip that in for free.
+292:{character:Sora Ichinose}That would give Frankenstein the wrong temperament. He is a guy who is afraid of being alone. He pretends to be indifferent, but he is still a soft person at heart.
+293:{character:Employee}How about giving him a jack-o-lantern to carry? The warm light will make him look more alive.
+294:{character:Sora Ichinose}Do you have any cuter jack-o-lanterns? If Frankenstein really exists, I think Halloween would be his favorite holiday because on this day he can blend into any crowd without standing out and won't be treated as a monster by everyone.
+295:{character:Employee}Regardless of whether jack-o-lanterns can be described as cute or not, in my humble opinion, the combination of a jack-o-lantern and Frankenstein is not that great.
+296:{character:Sora Ichinose}*Coughs* If only there was a way to express the contrast between Frankenstein's appearance and heart...
+297:Maybe you just need to change this costume slightly.
+298:Maybe he needs a companion who is good with words?
+299:{character:Sora Ichinose}{var:player_nickname}, do you have any good ideas?
+300:{character:player}I have an idea, but I'm not sure how it will turn out. Wait here for me!
+301:Spending the whole afternoon shopping in the commercial strip has allowed me to find the item I'm looking for and return as quickly as possible. Even so, the round trip took around twenty minutes, so I wasn't surprised to see that Sora had changed into the Frankenstein costume.
+302:{character:Sora Ichinose}This is the thing you say can help Frankenstein? Hmm... It's a fake bird?
+304:{character:Employee}Leave this to me.
+305:A few minutes later, Sora makes a wow sound in front of the mirror. The bird sits comfortably on Frankenstein's shoulder, preening its feathers there and softening the invisible spikes on his body. The combination of the cold tone of Frankenstein's clothes and the red bird with bright wings shifts the theme of the costume from "monster" to "human."
+306:Obviously, a Frankenstein with human emotions is far more attractive than a monster that only evokes fear.
+307:{character:Employee}This is amazing! It's just like magic. I'm certain that everyone in One Han City will be talking about Frankenstein after the fashion show.
+308:{character:Sora Ichinose}Can you pack this costume for me? Thanks!
+310:We leave the commercial strip immediately after finishing our shopping. Although Sora keeps insisting that he can return home by himself, I still accompany him to the entrance of his community block.
+311:{character:Sora Ichinose}Thank you.
+312:{character:player}It's just taking you home. It's no big deal.
+313:{character:Sora Ichinose}Not just that. *Coughs* I want to thank you for everything today... If it wasn't for you, I would still be obsessing over the data and probabilities.
+314:{character:player}You don't need to thank me for that either. Friends should help each other out, right?
+315:{character:Sora Ichinose}Well... I want to give you this.
+316:{character:player}This is the mage outfit from earlier. When did you buy it?
+317:{character:Sora Ichinose}As your friend, I would like to invite you to participate in the Dewdrop Middle School Halloween fashion show. Without you, I wouldn't have been so resolute in my decision to dress up as Frankenstein. Every generation of Frankenstein had a great butler, and you're someone like that to me.
+318:{character:player}Um... I remember that Frankenstein and his butler didn't have a good ending. This comparison might be a little ominous.
+319:{character:Sora Ichinose}...You focus on such strange things. *Coughs*
+320:{character:player}It's windy at night, so you better go home now. If you get sick now, you won't be able to participate in the Halloween event.
+321:{character:Sora Ichinose}Wait, what about my invitation...?
+323:I must say, I've never attended a Halloween fashion show with this many people. The entire playground is filled with all kinds of ghosts, and strangely-shaped heads as far as I can see. The place is swamped with ghosts and monsters.
+324:"Ninja"
+325:{character:"Ninja"}Confused-looking mage, would you like to stop and watch me perform my fireball technique?
+326:{character:player}Sorry, I already know who I'm voting for.
+327:{character:"Ninja"}What a shame. Feel free to come back to me if you change your mind.
+328:I've had four similar conversations within ten minutes of stepping into the venue. After sighing, I start looking for Sora.
+329:After noticing a familiar shade of red in the corner of my eye, I look in Sora's direction to see him surrounded by three to four classmates who are taking group photos with him in an orderly manner.
+330:{character:Reina Nanami}Is that... Sora? He's dressed up as Frankenstein, right? He stands out so much amongst a group of vampires.
+333:{character:player}I think Sora no longer worries about this.
+334:As if he is responding to my words, the Frankenstein in the distance grins with joy. After the photo-taking crowd disperses, Sora walks towards the dancing "Elf Prince" and solemnly casts his own vote into their jack-o-lantern.
+335:It's a shame that he didn't win the championship, but his smile right now is more precious.
+336:Because happiness is the greatest reward.
+337:{character:Sora Ichinose}A companion... A companion! Why didn't I think of that before...? *Coughs*
+338:{character:player}Take it easy. Did I say something funny?
+340:{character:player}And you, stop making that expression like you just understand something! You're confusing me even more!
+341:{character:Employee}I apologize for being rude. Your words have reminded me though. I now know what is wrong with this costume.
+343:{character:Sora Ichinose}It's his butler!
+344:{character:Employee}Bingo! We are totally in sync. Would you like to work part time at Ghouls and Ghasts? I'm sure our clothing sales will hit new highs.
+345:{character:player}Unless you want to have science seminars in your shop, you better drop that idea really soon.
+346:I recall Sora's words—if Frankenstein and his butler appear at the fashion show together and Frankenstein shows different sides of himself to the butler and other people, then it could be quite refreshing if it is done properly.
+347:But the solution to one problem tends to create a new problem.
+348:{character:player}So... who will be the butler?
+349:{character:Employee}Well, isn't the answer obvious?
+350:{character:Sora Ichinose}{var:player_nickname}, as your friend, can I invite you to participate in the Dewdrop Middle School Halloween fashion show? Without you, I wouldn't have been so resolute in my decision to dress up as Frankenstein. Just like in the movies, every generation of Frankenstein has a great butler, and you're someone important like that to me.
+351:{character:player}But I'm not good at role-playing.
+352:{character:Sora Ichinose}And I'm not the real Frankenstein. In the movies, Frankenstein and his butler don't have a happy ending. We can create a perfect ending that belongs just to them at the fashion show.
+353:{character:Sora Ichinose}Please come on stage with me at the fashion show, {var:player_nickname}... I want to go on that stage with my best and most important friend.
+354:Sora raises his head and waits for my answer. His sky-blue pupils reflect the contours of my face, and there is an unmistakable smile on his face.
+355:{character:player}Alright, why not.
+356:My reply is answered by Sora's smiling eyes and... the employee's excited quote.
+358:It's so expensive!!!
+359:I walk between the crowd and the wall, moving forward with great difficulty as I search for Sora. The elf prince and princess ahead stop walking suddenly and start dancing with the petals. As the crowd spreads out, I step on the corner of my clothes by mistake and am about to have some intimate contact with the ground.
+360:A pair of familiar hands grab my arm, then a Frankenstein with a red bird on his shoulder appears in front of me. Something similar has happened before, except the two protagonists have switched their roles.
+361:{character:player}Wow... how did you get here so fast?!
+362:{character:Sora Ichinose}None of this is a problem to a monster.
+363:This is a classic line in the Frankenstein series of movies, and Frankenstein says it when he meets the new butler for the first time and helps him remove the hat hanging from the tree branch. On a whim, I pick up the conversation and keep it going.
+364:{character:player}In my eyes, you're still a child who needs to be taken care of, young master.
+365:{character:Sora Ichinose}You still want this job? Do you need money that badly? You do understand taking this job means you'll have to accompany a monster on a deserted island that none visits?
+366:{character:player}Drive me away, and there will just be another butler coming in, so why not give it a try?
+367:{character:Sora Ichinose}You are not afraid?
+368:{character:player}Why should I?
+369:{character:Sora Ichinose}...Just so you know, once you've become my butler, you will be my butler for life. So if you wish to leave, it's still not too late.
+370:{character:player}I've seen the drawings of the villa. The room facing the sun on the second floor can be my bedroom. Also, would you like curry beef noodles for dinner tonight, sir?
+371:We have not kept our voices low throughout the conversation. The familiar lines soon attract a group of Frankenstein fans. In a short period of time, the pile of votes in the jack-o-lantern becomes much bigger than that of the vampire next to us who is one of the favorites to win.
+372:{character:Sora Ichinose}*Coughs* I can't believe it... You must know, we only had a 5% chance of winning when the fashion show started.
+373:{character:player}You can't work everything out with math. For example, there's probably a one-in-a-million chance for us to go from being strangers to friends, and we hit that one pretty accurately.
+374:{character:Sora Ichinose}Looks like I must not let my guard down on the mahjong table even if I have a 99% chance to win.
+375:{character:player}Shush! Concentrate, sir. The event is not over yet.
+376:{character:Student B}I'm saving this now! Aww, I want to be that little bird on Frankenstein's shoulder!
+377:{character:Student A}After the Halloween event ended, I watched and played lots of Frankenstien-related movies and games. When I saw the butler take all the blame and force the little monster away, I almost send threats to the director.
+378:{character:Student B}Someone has uploaded another HD image of the fashion show on Catchat! I wonder who managed to take such an amazing photo?! This person knows exactly what I like. I'm going to save it and use it as my wallpaper!
+379:It's been a whole week since Dewdrop Middle School held its Halloween fashion show, and people are still talking about it enthusiastically. The Frankenstein played by Sora invoked a lot of nostalgia, and Sora eventually won by one vote.
+380:{character:Reina Nanami}I think Frankenstein-related topics will still be popular for the next month.
+381:{character:Reina Nanami}The event was very successful this time, so it's not strange that it has caused some chain reactions. By the way, what prize did Sora get? It's been so long, and I still haven't heard him mention it.
+383:{character:Reina Nanami}Hmm, I heard that the same commemorative book set will be on sale at the bookstore today. I hope he manages to buy it.
+384:{character:player}Haha, life is full of surprises. Even data has an error or two. The commemorative book set is no longer important now as Sora has received a better reward.
+385:My memories take me back to the night of the fashion show, when the elf price who finished in second place came to Sora's jack-o-lantern and solemnly gave him his vote.
+386:"Elf Prince"
+387:{character:"Elf Prince"}I'm also a fan of Frankenstein. Can we be friends?
+388:{character:Sora Ichinose}Of course! It's nice to meet you.
+389:Their clasped hands are like a bridge of friendship. The stars in Sora's eyes shine far more brightly than the ones in the sky.
+390:There's no better reward than making a friend. This counts as an unexpected bonus.
+392:The café is a bit less busy today, which is pretty rare these days. As I was about to go to the corner to take a break, I hear a person sighing next to me.
+393:{character:Sora Ichinose}*Sighs*
+394:Sora is sitting at the table, frowning as he subconsciously plays with a Rubik's Cube in his hands. He hasn't touched the dessert he ordered at all, and the pages of a science magazine flap helplessly in the wind. It's clear that its owner has forgotten about it for a while already.
+395:All the clues indicate that Sora is troubled by something.
+396:Ask him directly
+397:Ask other people about what is troubling Sora
+398:{character:player}Is something bothering you?
+399:I approach him and sit on the chair opposite him. The slight sound of the moving chair startles Ichinose Sora who is zoning out.
+400:{character:Sora Ichinose}Um, {var:player_nickname}, when did you get here?
+401:{character:player}Just now. It isn't very busy right now. I see that you're zoning out over here and haven't touched your food. Do you not like it?
+402:{character:Sora Ichinose}No, it's very tasty, just... It's not the food...
+403:{character:player}So... there's something on your mind? If you don't mind, you can tell me. Maybe I can help you.
+404:{character:Sora Ichinose}... {var:player_nickname}, which do you prefer, mages, vampires, or zombies?
+405:{character:player}Eh?!
+406:The question that came out of the blue stuns me momentarily because I don't understand how it is related to Sora's troubles. I look suspiciously at the magazine on the table. Could this be the reason why he is acting strangely?
+407:{character:Sora Ichinose}*Coughs*... Sorry, I should explain properly. What I mean is... which of these three characters would you rather give candy to if they came to your door during Halloween?
+408:{character:player}During Halloween... Let me see...
+409:{character:player}A romantic vampire will definitely catch my attention, but an elegant mage seems good too... Wait, I can't forget about the adorable little zombie...
+410:{character:Sora Ichinose}Another tie...
+411:Sora lowers his head again and starts to play with the Rubik's Cube again. It seems that my answer wasn't very helpful.
+412:{character:player}So you're troubled because you don't know what costume to wear for Halloween?
+413:{character:Sora Ichinose}Yea... My school is running a Halloween fashion show this year. All students of Dewdrop Middle School can participate in it, and they can even invite their friends and family to join too. I heard the winner will get a special prize.
+414:{character:Sora Ichinose}I asked my doctor about it, and he said it's perfectly fine for me to participate in the fashion show based on my recent physical condition.
+415:Sora needs to consult a doctor just to participate in a fashion show. It seems that his body is weaker than I thought.
+417:{character:Sora Ichinose}According to my calculations, the probability that the prize is a newly released sci-fi commemorative book set is as high as 72%. I can't deny that this is a tempting reward for me.
+418:{character:player}You can even predict what prize will be given with your calculations...? Does that mean you asked me which costume is more popular for data?
+420:{character:player}As I expected... But since an opportunity like this doesn't come around often, won't you consider cosplaying as a character you like instead?
+421:{character:Sora Ichinose}Hmm...
+422:Sora seems to think of something. His eyebrows, which had just begun to relax, bunch up again, and he twists the Rubik's Cube several times in the blink of an eye. I start to wonder if I said something inappropriate.
+423:{character:Sora Ichinose}Although I've heard people say that you will be able to make the character more charming if you cosplay as a character you like, I think this is an overreliance on willpower which will prove to be fickle, whereas the data never lies... *Coughs*
+424:{character:player}Okay... What is your decision then?
+425:{character:Sora Ichinose}Each of these three options has a 33% chance to win. I can't decide.
+426:{character:player}Since the theory is correct, the only thing left is to put it into practice. It's not really realistic to determine the most suitable costume for you by sitting in a cafe and relying on your imagination.
+427:{character:player}Even three pieces of clothing of the same style can look different on you. Since you're buying clothes, you should go to a clothing store to try them on.
+428:{character:Sora Ichinose}Buy my sister has gone to another city and won't return until at least next Monday.
+429:{character:player}That's easy. I'll come with you.
+430:No matter how mature he usually looks, Sora is still a thirteen-year-old child. The flashes of dependency he inadvertently reveals make me want to help him as much as possible.
+431:{character:Sora Ichinose}Huh? What about your work at the café...? Are you sure it's okay?
+432:{character:player}Tomorrow happens to be my day off, and I think going shopping with you will be a good way to relax.
+433:{character:Sora Ichinose}I-It's settled then! Let's meet at this shop tomorrow. Reina recommended this shop, so I think I'll be able to find something suitable there.
+435:After watching Sora leave Éternité in high spirits, I look at the address in my hand...
+436:{character:player}A costume store called... Ghouls and Ghasts?
+437:What a strange name. Why do I have a bad feeling about this...
+438:{character:player}No. 232, No. 233, No. 23... Sora! I found it! This is the shop!
+439:The shop Reina recommended is located at the end of the commercial strip, and its dark decoration makes it inconspicuous among the colorful clothing stores there. There is also no signboard with the shop's name or logo at the door. All it has is an ordinary blackboard with the words "Open" written on it.
+440:{character:Sora Ichinose}... It doesn't even have a sign. No wonder the GPS couldn't guide us here correctly.
+442:Sora and I push open the shop's extremely ancient-looking front door.
+443:{character:???}*Cackles* Lost lambs, welcome to the home of demons!
+444:We're greeted by a strange sound that sounds like fingernails scratching a blackboard, accompanied by the sound of banging. Suddenly, a finger that is obviously cooler than the normal body temperature of a human slides across my wrist.
+445:I turn my neck rigidly to find myself face to face with a blue fluorescent "ghost."
+446:Retreat immediately for your own safety
+447:The arrogant "ghost" from before is now squatting on the ground and complaining about the pain while holding their nose. Although the makeup still looks terrifying, I'm no longer scared of it.
+448:This person should be an employee here and must have dressed up like this deliberately to attract customers. I look at my hand. Hmm... this job is actually unexpectedly dangerous.
+449:{character:Employee}It's okay. I didn't consider this... I thought the child next to you would be more scared, but I was completely wrong.
+450:{character:Sora Ichinose}Many supernatural phenomena can be explained by science. At the end of the day, ghosts are imaginary characters that appear in horror movies. I'm not afraid of something that doesn't exist.
+451:{character:Sora Ichinose}But your makeup is quite good. The reaction of {var:player_nickname} affirms this.
+452:{character:player}AHHHHHHHHH!
+453:A scream rushes out of my throat uncontrollably. I quickly pull Sora back and only manage to barely calm down when my back hits the door of the shop. Fortunately, the "ghost" doesn't follow us and laughs in a horrifying manner at us from where it stands.
+454:{character:???}Hehehe...
+455:{character:Sora Ichinose}...Hello, do you work here?
+457:{character:player}...Why do you have to dress up like this if you're a staff?!
+458:{character:Sora Ichinose}I think it's to attract customers. This is a Halloween costume store, after all.
+459:{character:Employee}Sorry, I appeared too suddenly. How are you feeling? Do you need to sit down and rest for a bit?
+460:{character:Sora Ichinose}{var:player_nickname}, your pulse is a little fast. you should get some rest.
+461:{character:player}Ahem, it's okay... Sora, you're quite calm about this. Didn't you get frightened by the fake ghost?
+462:{character:Sora Ichinose}There is no real evidence in the world to prove the existence of ghosts. One day science will be able to explain all supernatural events. Just like how people regarded fire as a punishment from heaven hundreds of years ago, but now everyone knows that it is just the flame produced when objects burn.
+463:{character:Employee}Ah... You seem quite reliable despite your young age.
+464:{character:player}Although you're right, even if he isn't a ghost, people will still get a fright if someone pops out from behind them...
+465:Ten minutes later
+466:One week later
+467: 
+468:Symptoms of decidophobia: I. Feeling extremely difficult to make a decision when faced with the need to make a choice. II. Inability to make a satisfactory choice. III. Feeling anxious, conflicted, or even at a loss when you have to make a decision.
+469:Given how Sora acted earlier, I become more and more sure of my judgment.
+470:{character:Sora Ichinose}... Why do you think that?
+471:{character:player}You seemed very ill-at-ease when you were choosing costumes, and you said many times that "it's not the costume." I really can't think of anything that explains this other than decidophobia.
+472:{character:Sora Ichinose}*Coughs* It's not that. I just, just...
+473:{character:player}Just what?
+474:{character:Sora Ichinose}Nothing... Which one do you think suits me better?
+475:{character:player}The little zombie costume you tried on looked nice, you look good as a mage too, but I think the most impressive one was the vampire costume! I can ask the store to make some changes to the accessories, and that costume will be perfect.
+476:{character:Sora Ichinose}You mean that shop...
+477:When I mention the Ghouls and Ghasts, Ichinose's eyes light up, and that strange emotion seems to return again, making me feel baffled.
+478:{character:Sora Ichinose}*Coughs* In that case, I'll go with that costume. Vampires are one of the most popular Halloween characters, and I trust your judgment.
+479:Ten minutes later, we are back at the Ghouls and Ghasts again. The employee from before has changed into a clown costume, but it's a shame that no one is in the mood to enjoy his performance right now.
+481:{character:Sora Ichinose}I want to buy the vampire costume and the relevant accessories. Hmm... and I want to adjust the size of the cape.
+482:{character:Employee}Are you sure? Don't you want to look at the other costumes?
+483:{character:Sora Ichinose}...According to the data, this is the best result.
+484:{character:Employee}That will be 23,000 Coppers. Thank you!
+485:{character:Sora Ichinose}Here's 23,000. Please check the amount. Okay... it's decided.
+486:It's that weird feeling again, and it's giving me the urge to stop this transaction. But like what Sora said, data doesn't lie... right?
+487:I still feel confused about this even after I say goodbye to Sora and return home.
+488:{character:Student B}You can see the elf prince staring affectionately at the princess in the corner. That's sooo sweet!
+489:{character:Student A}After the fashion show, I watched and played lots of related movies and games. I couldn't help crying when I saw the scene where the prince desperately rushes back to the forest only to see the princess die!
+490:{character:Student B}Someone has uploaded another HD image of the fashion show on CatChat! I wonder who managed to take such an amazing photo?! I'll love the prince x princess pair forever!
+491:It's been a whole week since Dewdrop Middle School held its Halloween fashion show, and people are still talking about it enthusiastically.
+492:This year, the winner wasn't dressed up as a popular character like a vampire. Instead, the people voted for the modest and polite elf prince and princess.
+493:The scene of the two dancing on petals won over the hearts of everyone present, and even I, who was invited to participate in the Dewdrop Middle School fashion show by Reina Nanami was no exception.
+494:Naturally, the prize that Sora had been dreaming about ended up in someone else's hands.
+495:{character:Reina Nanami}I think elf prince-related topics will still be popular for the next month.
+496:{character:Reina Nanami}The event was very successful this time, so it's not strange that it has caused some chain reactions. By the way, we got separated when it was time to vote. Who did you vote for in the end? Did you vote for the elf prince?
+497:{character:player}No, I gave my vote to a cute vampire.
+499:{character:Reina Nanami}I think everyone is just a little tired of vampires since the winner has been a vampire for several years in a row already. I remember that Sora really liked that commemorative book set. I hope he doesn't feel too bad about it...
+500:To be precise, moisture quickly gathered in Sora's eyes the moment the result was announced. He would have burst into tears if there weren't so many people there.
+501:{character:player}It really is a shame, but I think he'll win next year after his experiences with the fashion show this year.
+503:I heard that the same commemorative book set will be sold at the bookstore from next Monday onwards. I should send Sora a text message and let him know. Hopefully this little cute vampire will cheer up soon after hearing about it.
+504:{character:player}Most importantly, you want the special prize. That's the real reason you want to participate in the event, right?
+505:{character:Sora Ichinose}You saw through me! Like you said, data indicates that these are the three most popular Halloween costumes.
+506:{character:player}Sure, I'll see you there!
+507:{character:player}For some things, people play a larger role than technology. Let's go inside. It takes a lot of time to find the right costume. Hopefully we'll find what we want today.
+508:{character:Employee}Hehe... That's right!
+509:{character:Employee}Don't worry, in the three years since Ghouls and Ghasts has been in business, we've always been able to guarantee 100% customer satisfaction!
+510:{character:Employee}You have good taste. This is a limited edition collaboration item with the famous alchemist Nicolas. Wearing it will bring you good luck!
+511:{character:Sora Ichinose}Just try it on. Maybe you'll change your mind.
+513:{character:player}It suits you perfectly, young Count Dracula!
+514:{character:Employee}I have a little suggestion to make. A duo featuring a mage who has lived alone for thousands of years and an amazingly talented wizard will surely attract lots of attention.
+515:{character:Employee}Ah, dear customers, welcome once again!
+516:{character:Employee}Ah, you want to choose this costume? That's a little surprising. In recent years, the winner of the Dewdrop Middle School fashion show has almost always been dressed up as a vampire or a zombie. However, you might get a surprise if you try something different.
+517:{character:Employee}Ah, all I can say is that I hope that the students won't react like you did when they get a fright.
+518:{character:player}Hush—you'll find out soon. Excuse me, can you help me secure this bird on the shoulder?
+519:{character:Employee}No problem! That will be 20,000 Coppers. Thank you!
+520:{character:player}I'll be there on time. I'm honored to participate in this event as your friend, Sora.
+521:{character:player}Yes, the costume store you recommended is quite good. It would be better if a certain employee wasn't so cheeky.
+522:{character:Reina Nanami}Haha! I'm glad I managed to help. I hear that Sora is determined to win the prize. It looks like he doesn't have a chance now since the "elf prince" has obviously gotten more votes than him.
+523:{character:Employee}Ah, I see!
+524:{character:Employee}The charm of Frankenstein is that he is a monster with human emotions. In this world, there's only one person who can make Frankenstein put away his spikes. And that person is...
+525:{character:Employee}That will be 35,000 Coppers. Thank you!
+526:{character:player}Haha! It was a set of test papers for all subjects. Sora was bummed out for a while.
+527:{character:Employee}Ah, dear customers, welcome once again!
+528:{character:Reina Nanami}Speaking of vampires, Sora's Count Dracula was very cute too.
+529:{character:Reina Nanami}Yeah! I'll vote for him too next time.
+530:{character:Employee}You can try to jump around like a zombie. That should attract attention faster.
+531:{character:Reina Nanami}I think can help you with that. My uncle buys some Halloween decorations every year to decorate the cafe, so I'm quite familiar with these things. And there just happens to be a good costume store among the stores that are partners with Éternité.
+532:{character:Employee}Ah, so you two are friends. I never expected two people who reacted so differently to my surprise to know each other. I'm extremely honored to facilitate your meeting at this store.
+533:Perhaps it's because Halloween is around the corner, there are a lot more customers at Éternité during this time, and everyone at the café is up to their ears. Even I, a temporary helper who was dragged here by Hinata Takanashi, am no exception.

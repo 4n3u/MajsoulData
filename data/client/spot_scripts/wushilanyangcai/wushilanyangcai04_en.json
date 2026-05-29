@@ -1,0 +1,1118 @@
+[
+  {
+    "line": 1,
+    "text": "player"
+  },
+  {
+    "line": 891,
+    "text": "...Haruna?"
+  },
+  {
+    "line": 892,
+    "text": "As I'm strolling through the park, I spot Haruna Igarashi a short distance away, crouched before a sand artist's stall watching the show. Upon closer inspection, I notice that her lips are pursed. Unlike the cheering children around her, she looks terribly anxious."
+  },
+  {
+    "line": 893,
+    "text": "What's the matter?"
+  },
+  {
+    "line": 894,
+    "text": "Haruna Igarashi"
+  },
+  {
+    "line": 895,
+    "text": "...Is it true that, if you tell a lie, you'll turn into a long-nose monster?"
+  },
+  {
+    "line": 896,
+    "text": "A long-nose monster?"
+  },
+  {
+    "line": 897,
+    "text": "I follow her worried gaze to the sand drawing. It depicts a boy that's remarkably lifelike apart from the exceedingly long nose..."
+  },
+  {
+    "line": 898,
+    "text": "Child A"
+  },
+  {
+    "line": 899,
+    "text": "The little puppet told so many lies, his nose grew long, now he cries and cries...!"
+  },
+  {
+    "line": 900,
+    "text": "Hearing the other children chant the nursery rhyme the sand artist taught them, Haruna anxiously covers her nose. Her eyes begin to redden."
+  },
+  {
+    "line": 901,
+    "text": "Are you this worried... because you told a lie?"
+  },
+  {
+    "line": 902,
+    "text": "N-No...!"
+  },
+  {
+    "line": 903,
+    "text": "Her eyes dart around guiltily. \"I'm lying\" is practically written on her face..."
+  },
+  {
+    "line": 904,
+    "text": "I clear my throat, then attempt to repeat the rhyme I just heard the children chant."
+  },
+  {
+    "line": 905,
+    "text": "The little puppet told so many lies, his nose... grew long... It's true, you know. Children's noses get long when they lie."
+  },
+  {
+    "line": 906,
+    "text": "{var:Shake}*sobbing* Noooo!! I-I really am g-gonna turn into a long-nose monster... I told my mom that I finished all my summer homework, but I was lying...!"
+  },
+  {
+    "line": 907,
+    "text": "(whispers) Ah..."
+  },
+  {
+    "line": 908,
+    "text": "Waaaaah...!{var:Shake} My nose...{var:Shake} I don't wanna have a long nose...!"
+  },
+  {
+    "line": 909,
+    "text": "(whispers) Crap, I took the joke too far!"
+  },
+  {
+    "line": 910,
+    "text": "It's okay, don't cry! That only happens in fairytales."
+  },
+  {
+    "line": 911,
+    "text": "R-Really...?"
+  },
+  {
+    "line": 912,
+    "text": "Really. But that doesn't make lying okay in the real world either. Aren't you worried your mom will find out that you lied to her about your homework?"
+  },
+  {
+    "line": 913,
+    "text": "...Yes."
+  },
+  {
+    "line": 914,
+    "text": "*sniffle* If... If my mom finds out... I'm gonna be in such big trouble..."
+  },
+  {
+    "line": 915,
+    "text": "Then we'd better get your homework done before she does find out."
+  },
+  {
+    "line": 916,
+    "text": "But... I was afraid she'd check it, so I hid it yesterday when I went out to play..."
+  },
+  {
+    "line": 917,
+    "text": "I see..."
+  },
+  {
+    "line": 918,
+    "text": "{var:ShakeScene} Wait, what?! Where did you hide it?"
+  },
+  {
+    "line": 919,
+    "text": "After she gives up the location, I rush us over to the \"scene of the crime\"--a flower bed at the mall. Sure enough, the stashed homework is gone."
+  },
+  {
+    "line": 920,
+    "text": "{var:player_nickname}... Now what do we do?"
+  },
+  {
+    "line": 921,
+    "text": "You'll just have to fess up to your mom, say you're sorry, and make up the homework as quickly as possible..."
+  },
+  {
+    "line": 922,
+    "text": "I have to tell her...? No way, I can't do that! She'll be super mad at me!"
+  },
+  {
+    "line": 923,
+    "text": "Haruna shakes her head back and forth like a rattle drum. She couldn't embody \"NO\" more if she tried."
+  },
+  {
+    "line": 924,
+    "text": "...Fine, I guess we'll just have to come up with another idea."
+  },
+  {
+    "line": 926,
+    "text": "Buy a new workbook, finish the summer homework, and go from there."
+  },
+  {
+    "line": 928,
+    "text": "Try to find the homework."
+  },
+  {
+    "line": 929,
+    "text": "People are always coming and going in a place like this, I doubt we'll find it. We'll just have to buy a new workbook."
+  },
+  {
+    "line": 930,
+    "text": "But... will we be able to finish it in time?"
+  },
+  {
+    "line": 931,
+    "text": "Where there's a will, there's a way. I believe in you, Haruna! You can do it!"
+  },
+  {
+    "line": 932,
+    "text": "I... I can do it..."
+  },
+  {
+    "line": 934,
+    "text": "I remember the answer to this one! This one too... Hm, but this one... I couldn't figure out the answer before..."
+  },
+  {
+    "line": 935,
+    "text": "Thankfully, she'd already done some of the homework before. We get through the familiar questions quickly, only getting stuck on the tough ones."
+  },
+  {
+    "line": 936,
+    "text": "You skip ahead, I'll see if I can help you figure out this one."
+  },
+  {
+    "line": 937,
+    "text": "Okay!"
+  },
+  {
+    "line": 938,
+    "text": "(whispers) It's only elementary school homework... How hard can it be?"
+  },
+  {
+    "line": 939,
+    "text": "One minute later"
+  },
+  {
+    "line": 940,
+    "text": "Hm..."
+  },
+  {
+    "line": 941,
+    "text": "Five minutes later"
+  },
+  {
+    "line": 942,
+    "text": "Did you get the answer?"
+  },
+  {
+    "line": 943,
+    "text": "D-Don't rush me, I'm still getting in the zone. Just give me a little more time to think and I'll have it figured out in no time!"
+  },
+  {
+    "line": 944,
+    "text": "{var:player_nickname}? I've finished everything else that I can do."
+  },
+  {
+    "line": 945,
+    "text": "2,000 years later..."
+  },
+  {
+    "line": 946,
+    "text": "Th-That's fine. I'll keep thinking, you can move on to the next page."
+  },
+  {
+    "line": 947,
+    "text": "I say that, but... \"Ding-ding-ding, ding-ding-ding,\" write a multiplication equation to the rhythm... Are these really math problems and not brain teasers?!"
+  },
+  {
+    "line": 948,
+    "text": "I have a feeling that there's more where that came from... In fact, I've already caught a glimpse of another one of these weird questions Haruna has left blank: \"Write an idiom based on the equation.\""
+  },
+  {
+    "line": 949,
+    "text": "(whispers) Do we really need to spend this much time on these kinds of questions? Couldn't we try asking a homework helper app?"
+  },
+  {
+    "line": 951,
+    "text": "Ask a magical homework helper app for help."
+  },
+  {
+    "line": 953,
+    "text": "Press on."
+  },
+  {
+    "line": 954,
+    "text": "I'm sorry, Haruna, but some of these questions really have me stumped."
+  },
+  {
+    "line": 955,
+    "text": "Huh?! What should we do then?"
+  },
+  {
+    "line": 956,
+    "text": "Don't worry! I may not be able to solve them, but a homework helper app can. Wanna try asking one?"
+  },
+  {
+    "line": 957,
+    "text": "Oh! We'll get the answers instantly if we use such an app!"
+  },
+  {
+    "line": 958,
+    "text": "After using a homework helper app"
+  },
+  {
+    "line": 959,
+    "text": "R-Right, but you can't rely on the homework helper app too much! You still have to do the work to solve problems yourself, but today is a special case."
+  },
+  {
+    "line": 960,
+    "text": "Okay! Then I'll do what you did--try my best for a VERY long time, then when I really can't come up with the answer, I'll get help from the app."
+  },
+  {
+    "line": 961,
+    "text": "Ha... Haha... Right, like that."
+  },
+  {
+    "line": 962,
+    "text": "She's only stating the facts... Why does it sound so harsh though...?"
+  },
+  {
+    "line": 963,
+    "text": "...Let's rethink this."
+  },
+  {
+    "line": 964,
+    "text": "It's too soon to give up. These questions are bizarre, but they ARE just for elementary school students. Even if they are brain teasers..."
+  },
+  {
+    "line": 965,
+    "text": "(whispers) They're brain teasers that even an elementary school student should be able to solve!"
+  },
+  {
+    "line": 966,
+    "text": "{var:ShakeScene} If an elementary school student can do it, surely I can do it too, right?!"
+  },
+  {
+    "line": 967,
+    "text": "...Haruna, why don't we try using a homework helper app for the problems we can't solve?"
+  },
+  {
+    "line": 968,
+    "text": "This absolutely doesn't count as giving up! Our main objective is to help Haruna catch up on her homework quickly, and using a homework helper app is simply the most rational choice."
+  },
+  {
+    "line": 969,
+    "text": "Right! You're so smart, {var:player_nickname}! I didn't even think of that."
+  },
+  {
+    "line": 970,
+    "text": "Ha... Haha... You flatter me..."
+  },
+  {
+    "line": 971,
+    "text": "I know she didn't mean any offense, but somehow, her praise stings..."
+  },
+  {
+    "line": 972,
+    "text": "(whispers) Actually, just give me a little more time. I know I can solve this one!"
+  },
+  {
+    "line": 973,
+    "text": "(whispers) ...Probably."
+  },
+  {
+    "line": 974,
+    "text": "Finished!"
+  },
+  {
+    "line": 975,
+    "text": "A few hours later"
+  },
+  {
+    "line": 976,
+    "text": "With Haruna's efforts, my guidance, and the magic of technology, we manage to finish all of her summer homework just before it gets dark."
+  },
+  {
+    "line": 977,
+    "text": "Yay! Now Mom won't know I lied to her!"
+  },
+  {
+    "line": 978,
+    "text": "When I get my next allowance, I'm gonna treat you to a hundred popsicles!"
+  },
+  {
+    "line": 979,
+    "text": "Haha, thanks. But you know what would be even better? If you didn't need me to help you cover up a lie next time. Come on now, let's get you home."
+  },
+  {
+    "line": 980,
+    "text": "Seeing her back to her happy-go-lucky self, my heart swells with a sense of achievement."
+  },
+  {
+    "line": 981,
+    "text": "But this turns into panic when we get to Haruna's house and see her mom..."
+  },
+  {
+    "line": 982,
+    "text": "Mrs. Igarashi"
+  },
+  {
+    "line": 983,
+    "text": "You went out today to ask a friend for help with your homework?"
+  },
+  {
+    "line": 984,
+    "text": "Yeah... because I wasn't sure about the answers to some of the questions... Here's my workbook."
+  },
+  {
+    "line": 985,
+    "text": "Mrs. Igarashi looks at the brand-new workbook timidly offered up by her daughter. Without saying a word, she turns and takes out another workbook with a dirtied cover."
+  },
+  {
+    "line": 986,
+    "text": "Then how did the janitor end up finding this?"
+  },
+  {
+    "line": 987,
+    "text": "Ah!! {var:Shake}"
+  },
+  {
+    "line": 988,
+    "text": "Crap, busted!"
+  },
+  {
+    "line": 989,
+    "text": "Now what, {var:player_nickname}...?"
+  },
+  {
+    "line": 990,
+    "text": "Still trying to get your friend to cover for you?"
+  },
+  {
+    "line": 991,
+    "text": "Hearing this, I steel myself. Avoiding Haruna's pleading eyes, I reach out and pat her on the shoulder."
+  },
+  {
+    "line": 992,
+    "text": "The evidence is irrefutable... Time to confess, Haruna."
+  },
+  {
+    "line": 993,
+    "text": "...I'm sorry, Mom!!! {var:Shake}"
+  },
+  {
+    "line": 994,
+    "text": "I didn't actually finish my homework and I was afraid you'd find out so I hid my homework on purpose but then I was worried I'd turn into a long-nose monster and I know what I did was w-wrong *sniffle* I-I'm s-so sorry Mom--"
+  },
+  {
+    "line": 995,
+    "text": "Haruna rushes to her mother at the speed she normally reserves for chasing stray cats up trees and, prostrating herself before her with a \"plop,\" spills the beans without stopping for air."
+  },
+  {
+    "line": 996,
+    "text": "!!"
+  },
+  {
+    "line": 997,
+    "text": "Wh-What are you doing?! Where did you learn to apologize like that?"
+  },
+  {
+    "line": 998,
+    "text": "I saw it on a TV show with Dad the last time you went out to play mahjong!"
+  },
+  {
+    "line": 999,
+    "text": "What is your father doing, letting you watch anything and everything...?!"
+  },
+  {
+    "line": 1000,
+    "text": "Mrs. Igarashi quickly helps her daughter up. The corners of her mouth twitching, she casts me an awkward smile."
+  },
+  {
+    "line": 1001,
+    "text": "Sorry you had to see all that..."
+  },
+  {
+    "line": 1002,
+    "text": "It's totally fine, haha..."
+  },
+  {
+    "line": 1003,
+    "text": "*sobbing* I'll never do something like that again, Mom..."
+  },
+  {
+    "line": 1004,
+    "text": "...Good grief."
+  },
+  {
+    "line": 1005,
+    "text": "Haruna, when I saw your original workbook, I more or less guessed what happened. Not only did you lie to me and tell me you finished, but you tried to destroy the evidence as well. I was going to teach you a serious lesson, let me tell you."
+  },
+  {
+    "line": 1006,
+    "text": "Mrs. Igarashi takes out her phone and opens up a shopping app. Summer workbooks of all kinds fill the screen."
+  },
+  {
+    "line": 1007,
+    "text": "See that? There's more than one kind of summer workbook, you know. I was going to order all of them and make you complete every single one. I was certain you wouldn't lie to me again after that."
+  },
+  {
+    "line": 1008,
+    "text": "Waah... No, please! I couldn't finish all those even if there were 10 of me! {var:player_nickname}..."
+  },
+  {
+    "line": 1009,
+    "text": "Confronted with Haruna's pleading eyes once again, I know deep down that I'm partly responsible for this. So, I take a step forward..."
+  },
+  {
+    "line": 1010,
+    "text": "Mrs. Igarashi, buying a new workbook to cover up Haruna's lie was my idea. I'm sorry. We know that what we did was wrong. Could you find it in your heart to forgive us?"
+  },
+  {
+    "line": 1011,
+    "text": "Sigh... I'm angry that Haruna tried to hide this from me, but you meant well by trying to help her, so how could I blame you?"
+  },
+  {
+    "line": 1012,
+    "text": "But you're not getting off scot-free, Haruna. Just finish your original workbook. You usually take your sweet time doing your homework... {var:player_nickname} must have helped you quite a bit indeed for you to finish the new workbook so quickly. This time you'll do it again on your own--think of it as reinforcing what you learned."
+  },
+  {
+    "line": 1013,
+    "text": "Since your mother is willing to forgive you, that arrangement works just fine for you, right, Haruna?"
+  },
+  {
+    "line": 1014,
+    "text": "I'll get started right now!"
+  },
+  {
+    "line": 1015,
+    "text": "Haruna quickly wipes away her tears, grabs her original workbook, and starts diligently working at the dining table."
+  },
+  {
+    "line": 1016,
+    "text": "But after just a few strokes of her pencil, she rests her cheeks in her hands and sinks deep into thought..."
+  },
+  {
+    "line": 1017,
+    "text": "Hm... I know {var:player_nickname} showed me how to do this one..."
+  },
+  {
+    "line": 1018,
+    "text": "Looks like she didn't retain the solution whatsoever..."
+  },
+  {
+    "line": 1019,
+    "text": "Here, I'll explain it to you again. You can do it, and once this \"homework overtime\" is finished, we can enjoy the last few days of summer vacation to the fullest!"
+  },
+  {
+    "line": 1020,
+    "text": "Okay!"
+  },
+  {
+    "line": 1021,
+    "text": "That said, if I'd been more insistent that she apologize to her mom in the first place, we probably wouldn't have needed to do more than finish the remainder of the original workbook. Is this additional \"tutoring\" punishment for my weak will...?"
+  },
+  {
+    "line": 1022,
+    "text": "Covering up a lie with another lie is probably asking for trouble. If something like this happens again, I'll tell her to fess up sooner rather than later."
+  },
+  {
+    "line": 1023,
+    "text": "We've gotta figure out how to get your homework back as soon as possible. Otherwise, there won't be enough time left to finish it."
+  },
+  {
+    "line": 1024,
+    "text": "Okay! Let's go! I have to find my runaway homework!"
+  },
+  {
+    "line": 1025,
+    "text": "...But you're the one who hid it."
+  },
+  {
+    "line": 1026,
+    "text": "Forget it. We need to get that workbook back pronto. Her apology to her mom can wait until then."
+  },
+  {
+    "line": 1027,
+    "text": "We spend ages searching nearby and asking every shop owner along the street, but no dice."
+  },
+  {
+    "line": 1028,
+    "text": "I know I put my workbook here yesterday! We've looked everywhere, how could it just disappear?"
+  },
+  {
+    "line": 1029,
+    "text": "Don't give up hope just yet. We just need a few more helping hands to speed up the search."
+  },
+  {
+    "line": 1030,
+    "text": "...What about a few helping paws?"
+  },
+  {
+    "line": 1031,
+    "text": "Paws?"
+  },
+  {
+    "line": 1032,
+    "text": "Without waiting for me to finish, Haruna dashes off to borrow a pen and paper. On it, she scrawls \"Lost Homework,\" then shouts for all to hear:"
+  },
+  {
+    "line": 1033,
+    "text": "Nyaa! Kitty Warriors, assemble!"
+  },
+  {
+    "line": 1034,
+    "text": "On command, shadows spring out from the roadside, bushes, and trees--it's the Kitty Warriors."
+  },
+  {
+    "line": 1035,
+    "text": "Were they hiding nearby just ready and waiting...?"
+  },
+  {
+    "line": 1036,
+    "text": "Gather around, everyone! This is my workbook. I need you to find it and bring it back to me!"
+  },
+  {
+    "line": 1037,
+    "text": "Stray Cats"
+  },
+  {
+    "line": 1038,
+    "text": "Nyaa!"
+  },
+  {
+    "line": 1039,
+    "text": "Good luck! The first to find it will get a super tasty treat later!"
+  },
+  {
+    "line": 1040,
+    "text": "Now go!"
+  },
+  {
+    "line": 1041,
+    "text": "With a confident wave of her hand, the stray cats scatter."
+  },
+  {
+    "line": 1042,
+    "text": "The cats may be brimming with energy, but I don't know if I'd count on them to find the missing homework."
+  },
+  {
+    "line": 1043,
+    "text": "White Cat"
+  },
+  {
+    "line": 1044,
+    "text": "Nyaa!"
+  },
+  {
+    "line": 1045,
+    "text": "{var:player_nickname}, look! We got something!"
+  },
+  {
+    "line": 1046,
+    "text": "Really?! Let me see..."
+  },
+  {
+    "line": 1047,
+    "text": "A little white cat has brought a notebook with a white cover back in its mouth. Its pages are also snow-white--they're completely blank."
+  },
+  {
+    "line": 1048,
+    "text": "It's a notebook, sure, but it's not your workbook."
+  },
+  {
+    "line": 1049,
+    "text": "Aw... Wait, {var:player_nickname}, look! We got something else!"
+  },
+  {
+    "line": 1050,
+    "text": "Orange Tabby"
+  },
+  {
+    "line": 1051,
+    "text": "Nyaa!"
+  },
+  {
+    "line": 1052,
+    "text": "An orange tabby has returned with a brown notebook. I flip through it--it looks like a shop's ledger."
+  },
+  {
+    "line": 1053,
+    "text": "This isn't it either... Wait a minute! This ledger is clearly still being used! I need to go return it right now!"
+  },
+  {
+    "line": 1054,
+    "text": "Wait here, Haruna. I'll go ask around and see who's missing their ledger..."
+  },
+  {
+    "line": 1055,
+    "text": "By the time I get back from returning the ledger, the cats have brought back a heap of objects. Apart from a variety of notebooks, there is also a bunch of useless junk like worn-out socks, broken teacups, and torn newspapers."
+  },
+  {
+    "line": 1056,
+    "text": "After returning the ledger"
+  },
+  {
+    "line": 1057,
+    "text": "Whew... They brought back a ton of notebooks, but..."
+  },
+  {
+    "line": 1058,
+    "text": "My workbook still isn't here..."
+  },
+  {
+    "line": 1059,
+    "text": "Nope... And we can't leave all this junk for the janitor to deal with, we'd better clean this up first... Oh, right!"
+  },
+  {
+    "line": 1060,
+    "text": "Haruna, let's go ask the janitor if they found your workbook!"
+  },
+  {
+    "line": 1061,
+    "text": "Gasp! You're so smart, {var:player_nickname}!"
+  },
+  {
+    "line": 1062,
+    "text": "After that, we go to ask the nearby janitor."
+  },
+  {
+    "line": 1063,
+    "text": "Janitor"
+  },
+  {
+    "line": 1064,
+    "text": "...A school workbook?"
+  },
+  {
+    "line": 1065,
+    "text": "You know... I think my coworker who was on the night shift yesterday said that he found one... I'll give him a call now and ask."
+  },
+  {
+    "line": 1066,
+    "text": "Thank you so much!"
+  },
+  {
+    "line": 1067,
+    "text": "We'll definitely find it now! God of Popsicles bless you..."
+  },
+  {
+    "line": 1068,
+    "text": "...He's not answering, and I'm not sure where he is."
+  },
+  {
+    "line": 1069,
+    "text": "Oh no..."
+  },
+  {
+    "line": 1070,
+    "text": "Don't lose heart! Let's go ask around somewhere else."
+  },
+  {
+    "line": 1071,
+    "text": "Calico"
+  },
+  {
+    "line": 1072,
+    "text": "Nyaa!"
+  },
+  {
+    "line": 1073,
+    "text": "Huh? Is that cat over there calling out to us?"
+  },
+  {
+    "line": 1074,
+    "text": "Nyaa!"
+  },
+  {
+    "line": 1075,
+    "text": "...That's Calicoco! She's telling us to follow her. Maybe she found my homework!"
+  },
+  {
+    "line": 1076,
+    "text": "Then... I guess we should go have a look?"
+  },
+  {
+    "line": 1077,
+    "text": "After taking our leave of the janitor, we follow the calico through a series of twists and turns until finally coming to a stop before a trash can."
+  },
+  {
+    "line": 1078,
+    "text": "I lift up the weighty lid, and the calico leaps inside. She then emerges with a notebook in her mouth, her tail sticking straight up as she purrs happily."
+  },
+  {
+    "line": 1079,
+    "text": "Is this it, Haruna?"
+  },
+  {
+    "line": 1080,
+    "text": "Yes! This is my workbook! Yay!! Thank you, Calicoco! I'll bring you something nice to eat tomorrow!"
+  },
+  {
+    "line": 1081,
+    "text": "Not at all minding that the calico just came out of a trash heap, Haruna joyfully pets her. The cat lies down to enjoy the pets for a moment, then runs off to play."
+  },
+  {
+    "line": 1082,
+    "text": "It's only then that Haruna picks up the workbook and flips through it... Her face instantly falls."
+  },
+  {
+    "line": 1083,
+    "text": "Oh no... It's the same workbook, but it's someone else's... And I thought we finally found it..."
+  },
+  {
+    "line": 1084,
+    "text": "I see..."
+  },
+  {
+    "line": 1085,
+    "text": "I give her a consoling pat on the head. Just when I think she'll put the workbook back in the trash in frustration, to my surprise, she continues reading through it."
+  },
+  {
+    "line": 1086,
+    "text": "Haruna?"
+  },
+  {
+    "line": 1087,
+    "text": "I'm checking to see if there's a name inside. Maybe whoever threw it away is looking for it too."
+  },
+  {
+    "line": 1088,
+    "text": "Haruna and I search through the workbook and find no name inside. The answers are basically a jumble of words as well... Looks like this is a mystery we won't be able to solve."
+  },
+  {
+    "line": 1089,
+    "text": "It'll probably be a waste of our efforts if we keep looking around aimlessly like this. Maybe we should buy a new workbook and start from scratch."
+  },
+  {
+    "line": 1090,
+    "text": "(whispers) It's already the afternoon. If we start from the beginning, will we finish in time?"
+  },
+  {
+    "line": 1091,
+    "text": "We'll make it."
+  },
+  {
+    "line": 1092,
+    "text": "Urge Haruna to go home and tell her mom what happened."
+  },
+  {
+    "line": 1093,
+    "text": "Haruna, why don't we just buy a new workbook and do your homework over?"
+  },
+  {
+    "line": 1094,
+    "text": "Right! I didn't even think of that."
+  },
+  {
+    "line": 1095,
+    "text": "But there were a bunch of questions I couldn't answer. Will we be able to finish in time?"
+  },
+  {
+    "line": 1096,
+    "text": "Don't worry, I'll help you with any problems you can't solve."
+  },
+  {
+    "line": 1097,
+    "text": "Okay! Let's do it then!"
+  },
+  {
+    "line": 1098,
+    "text": "After buying an identical copy of the workbook from the bookstore, we find a café to sit in and make up the homework."
+  },
+  {
+    "line": 1099,
+    "text": "...On second thought, maybe not."
+  },
+  {
+    "line": 1100,
+    "text": "A whole workbook's worth of homework is too much. If she can't finish in time, she'll still be in trouble when she gets home."
+  },
+  {
+    "line": 1101,
+    "text": "Besides, I'd rather that she go home and own up to her mistake than get a new workbook to cover it up."
+  },
+  {
+    "line": 1102,
+    "text": "Haruna, we may not be able to get your workbook back. Why don't you go home, tell your mom the truth, and apologize?"
+  },
+  {
+    "line": 1103,
+    "text": "She'll probably still be angry, but if you tell her how sorry you are, I'm sure she'll forgive you."
+  },
+  {
+    "line": 1104,
+    "text": "No... I don't wanna. You have no idea how mad she'll get, I'm scared..."
+  },
+  {
+    "line": 1105,
+    "text": "I'll come with you, so it won't be as scary."
+  },
+  {
+    "line": 1106,
+    "text": "With me there, your mom might even go a little easier on you."
+  },
+  {
+    "line": 1107,
+    "text": "But..."
+  },
+  {
+    "line": 1108,
+    "text": "Stray Cat"
+  },
+  {
+    "line": 1109,
+    "text": "Nyaa!"
+  },
+  {
+    "line": 1110,
+    "text": "A few familiar stray cats have appeared out of nowhere and gathered around Haruna, their cries rising and falling."
+  },
+  {
+    "line": 1111,
+    "text": "What's the matter, guys?"
+  },
+  {
+    "line": 1112,
+    "text": "Maybe they're here to encourage you? Even the stray cats are cheering you on--as their \"leader,\" you can't let them down."
+  },
+  {
+    "line": 1113,
+    "text": "Otherwise, they might not play with you anymore after this."
+  },
+  {
+    "line": 1114,
+    "text": "N-No way! I can't let that happen..."
+  },
+  {
+    "line": 1115,
+    "text": "Looking at me, then the cats, then back to me again, Haruna lowers her head and clenches her fists... a few moments later, she stamps the ground resolutely."
+  },
+  {
+    "line": 1116,
+    "text": "I'm no coward! I'm going home right now! And I'm going to tell Mom I'm sorry!"
+  },
+  {
+    "line": 1117,
+    "text": "That's the spirit, Haruna!"
+  },
+  {
+    "line": 1118,
+    "text": "...{var:player_nickname}, would you hold my hand on our way back?"
+  },
+  {
+    "line": 1119,
+    "text": "Of course."
+  },
+  {
+    "line": 1120,
+    "text": "Haruna's hand is a little clammy. I grab it tightly, trying my best to give her courage."
+  },
+  {
+    "line": 1121,
+    "text": "When we arrive at her house, Haruna lowers her head and comes clean to her mom."
+  },
+  {
+    "line": 1122,
+    "text": "At Haruna's house"
+  },
+  {
+    "line": 1123,
+    "text": "I'm sorry, Mom... I didn't actually finish my homework. I was afraid you'd find out, so I hid my workbook... and now I can't find it anywhere..."
+  },
+  {
+    "line": 1124,
+    "text": "...School starts in just a few days. What are you going to do without your workbook?"
+  },
+  {
+    "line": 1125,
+    "text": "Um... I'll use my allowance to buy a new one, and I'll finish it before school starts."
+  },
+  {
+    "line": 1126,
+    "text": "Please don't be mad at me, Mom. I promise I'll never lie to you again... and I'll do all my homework..."
+  },
+  {
+    "line": 1127,
+    "text": "Haruna's head gets lower and lower and her voice gradually starts to break."
+  },
+  {
+    "line": 1128,
+    "text": "Mrs. Igarashi, Haruna knows that what she did was wrong. She did everything she could to try and find her workbook before coming back here to apologize to you. Do you think you could forgive her?"
+  },
+  {
+    "line": 1129,
+    "text": "...Sigh, from the looks of her filthy clothes, she really did do everything she could."
+  },
+  {
+    "line": 1130,
+    "text": "Fine. Chin up now, Haruna. Don't worry about your workbook."
+  },
+  {
+    "line": 1131,
+    "text": "Saying this, Mrs. Igarashi takes a slightly dirtied workbook from the drawer next to her. Haruna's eyes widen in disbelief."
+  },
+  {
+    "line": 1132,
+    "text": "My workbook?! H-How did it end up here?"
+  },
+  {
+    "line": 1133,
+    "text": "A janitor found it and went to the trouble of bringing it here after finishing work. Don't forget to go and thank him later."
+  },
+  {
+    "line": 1134,
+    "text": "So the janitor really did find it..."
+  },
+  {
+    "line": 1135,
+    "text": "When I saw the state of your notebook, I more or less guessed what had happened."
+  },
+  {
+    "line": 1136,
+    "text": "Did you think you could get away with pretending to lose your workbook so I couldn't check it over? Or that I wouldn't just buy a new one for you to complete?"
+  },
+  {
+    "line": 1137,
+    "text": "Um... Th-That's right..."
+  },
+  {
+    "line": 1138,
+    "text": "Feeling ashamed now, are you? At first, I was going to have you finish your original workbook as well as a whole new one as punishment when you got home."
+  },
+  {
+    "line": 1139,
+    "text": "No! Mom, no, please! I know what I did was wrong--{var:Shake}"
+  },
+  {
+    "line": 1140,
+    "text": "I know. Seeing as you tried your best to find it and you owned up to your mistake, I'll let it slide this time."
+  },
+  {
+    "line": 1141,
+    "text": "...Really?! I'm so happy! {var:player_nickname}, Mom forgave me!!!"
+  },
+  {
+    "line": 1142,
+    "text": "Don't just stand there celebrating, go finish your homework. An apology alone won't right this wrong."
+  },
+  {
+    "line": 1143,
+    "text": "I'll go and finish it right now!"
+  },
+  {
+    "line": 1144,
+    "text": "Phew, that's great. I'm glad everything worked out okay in the end. Well then, Haruna, Mrs. Igarashi, I'll be going now."
+  },
+  {
+    "line": 1145,
+    "text": "Wait."
+  },
+  {
+    "line": 1146,
+    "text": "Huh?"
+  },
+  {
+    "line": 1147,
+    "text": "Thank you for your help. If you hadn't been with Haruna, I doubt she would have come clean to me so soon. She'd probably still be hiding outside somewhere now."
+  },
+  {
+    "line": 1148,
+    "text": "Dinner's almost ready, please stay and eat with us. But before that, could I ask you to keep an eye on Haruna...?"
+  },
+  {
+    "line": 1149,
+    "text": "(whispers) At least to make sure she's actually doing her homework and not just watching TV."
+  },
+  {
+    "line": 1150,
+    "text": "Haha... Sure, I'd be happy to."
+  },
+  {
+    "line": 1151,
+    "text": "Aw... How can you yell at me and then turn around and be all nice to {var:player_nickname}... U-Umm...!! I'm sorry, I didn't mean it! I'm gonna go do the rest of my homework right now--"
+  },
+  {
+    "line": 1152,
+    "text": "Stop right there, young lady!"
+  },
+  {
+    "line": 1153,
+    "text": "Ooft... Haruna, all I can say is that you've earned every lesson you've been taught..."
+  },
+  {
+    "line": 1154,
+    "text": "Finally, Mrs. Igarashi goes to get dinner ready, while the freshly-scolded Haruna sits obediently at her desk to do her homework."
+  },
+  {
+    "line": 1155,
+    "text": "(whispers) Hmm... I don't know about this one... I'll just go with \"C\"..."
+  },
+  {
+    "line": 1156,
+    "text": "..."
+  },
+  {
+    "line": 1157,
+    "text": "I've got a bad feeling about this..."
+  },
+  {
+    "line": 1158,
+    "text": "Which problem are you having trouble with, Haruna?"
+  },
+  {
+    "line": 1159,
+    "text": "Um... lots of them. Can you help me, {var:player_nickname}?"
+  },
+  {
+    "line": 1160,
+    "text": "Isn't that why I'm here? Let me take a look... Um..."
+  },
+  {
+    "line": 1161,
+    "text": "Well? Do you know the answer?"
+  },
+  {
+    "line": 1162,
+    "text": "Th-This is an interesting problem alright, it's more complicated than it looks. I should take my time with this one..."
+  },
+  {
+    "line": 1163,
+    "text": "Pfft!"
+  },
+  {
+    "line": 1164,
+    "text": "Hey, don't laugh! If an elementary school student can do it, it should be no problem for me."
+  },
+  {
+    "line": 1165,
+    "text": "I wasn't laughing at that... I'm just really happy. After all, my gut was right--trusting you will bring me good luck!"
+  },
+  {
+    "line": 1166,
+    "text": "Huh?"
+  },
+  {
+    "line": 1167,
+    "text": "All I had to do was tell my mom I was sorry, and she forgave me. You were right after all!"
+  },
+  {
+    "line": 1168,
+    "text": "In that case... the next time you have a problem, come talk to me about it first before you get yourself into trouble. Got it?"
+  },
+  {
+    "line": 1169,
+    "text": "Got it! Thank you, {var:player_nickname}! You're my best friend in the whole wide world!"
+  },
+  {
+    "line": 1170,
+    "text": "You're welcome. Now, let's tackle this homework."
+  },
+  {
+    "line": 1171,
+    "text": "Okay!"
+  },
+  {
+    "line": 1172,
+    "text": "Haruna's smile is as sunny and bright as always. Even if I have to contend with a mountain of bizarre homework problems now, seeing that smile makes it all worth it."
+  },
+  {
+    "line": 1175,
+    "text": "After buying an identical copy of the workbook from the bookstore, we find a café to sit in and make up the homework."
+  }
+]

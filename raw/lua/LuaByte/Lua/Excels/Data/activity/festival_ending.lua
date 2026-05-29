@@ -1,0 +1,1 @@
+local a=require("ExcelTool")local b=a.Block;local c=a.PackGet;local d={["group_id"]=1,["ending_id"]=2,["ending_type"]=3,["weight"]=4,["item_plus"]=1005,["item_minus"]=1006,["funds"]=7,["ending_text"]=8}local e={100101,61,nil,1,"30900023-20",nil,nil,nil}local f=function(g,h)return c(g,h,d,e)end;local i={200702,2002502}local j={}return{tb=j,get=f,b2i=i}

@@ -1,0 +1,1 @@
+local a=require("ExcelTool")local b=a.Pack;local c=a.Sub;local d=a.PackGet;local e=a.Dmap;local f={["activity_id"]=1,["leaderboard_id"]=2,["rank_reward_id"]=3,["require_point"]=4}local g={nil,nil,nil,nil}local h=function(i,j)return d(i,j,f,g)end;local k={}k[1010]={b({1010,1010,1010,0},h)}return{tb=k}

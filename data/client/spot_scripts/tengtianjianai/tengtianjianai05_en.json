@@ -1,0 +1,1034 @@
+[
+  {
+    "line": 1,
+    "text": "Mahjong is the favorite activity of the citizens of One Han City. Whether the sun is blazing or rain is falling, everyone's mood brightens as long as they can play mahjong together with friends."
+  },
+  {
+    "line": 2,
+    "text": "For this reason, mahjong dojos are the most popular entertainment venues in One Han City. They are places where you can find people of all ages ranging from the elderly to three-year-old children, and even... Kana Fujita, an energetic idol who has just finished losing weight and is about to perform in a concert."
+  },
+  {
+    "line": 3,
+    "text": "player"
+  },
+  {
+    "line": 4,
+    "text": "{character:player}The concert is in less than two weeks. Is it really okay for you to come out and play mahjong, Kana?"
+  },
+  {
+    "line": 5,
+    "text": "Kana Fujita"
+  },
+  {
+    "line": 6,
+    "text": "{character:Kana Fujita}{var:player_nickname}, does seeing me make you unhappy?"
+  },
+  {
+    "line": 7,
+    "text": "The girl sitting across from me isn't wearing any weird disguises this time. Her eyes are bright, her lips are rosy red, her long pink hair is casually draped behind her, and her eyebrows and eyes are full of vitality unique to someone her age. She looks even cuter than usual right now when her cheeks are puffed up while feigning anger."
+  },
+  {
+    "line": 8,
+    "text": "{character:player}No way! You misunderstand me. I just didn't think I would see you again until the concert. I mean... your manager probably won't let you come to a mahjong dojo at such a critical time."
+  },
+  {
+    "line": 9,
+    "text": "{character:Kana Fujita}Hehe, you wronged me this time. I've come because of you."
+  },
+  {
+    "line": 10,
+    "text": "{character:player}For me?"
+  },
+  {
+    "line": 11,
+    "text": "{character:Kana Fujita}Yes. I saw on your CatChat that you'll be coming to the dojo this weekend, so I've come to give you your VIP ticket... Ta-da! This is the ticket! Are you surprised? You're the only person to receive a ticket from me personally other than my boss."
+  },
+  {
+    "line": 12,
+    "text": "I take the ticket from Kana's hands and look over it carefully a few times. I bet the large grin on my face betrays my current feelings."
+  },
+  {
+    "line": 13,
+    "text": "{character:player}Kana, thank you so much! In the future, you can just call me and get me to pick it up from your company. You don't need to make a trip here just to give it to me."
+  },
+  {
+    "line": 14,
+    "text": "{character:Kana Fujita}No way! If I do that, I won't have an excuse to get time off from my manager so that I can play mahjong."
+  },
+  {
+    "line": 15,
+    "text": "{character:player}...?"
+  },
+  {
+    "line": 16,
+    "text": "{character:Kana Fujita}Ahem... Um..."
+  },
+  {
+    "line": 17,
+    "text": "{character:player}So you really have come here to play mahjong!"
+  },
+  {
+    "line": 18,
+    "text": "{character:Kana Fujita}Shush! Don't be so loud. Although it isn't very likely, if someone from my company happens to hear us while passing by and tells my manager, it'll be really hard for me to get out of the office in the future."
+  },
+  {
+    "line": 19,
+    "text": "{character:Kana Fujita}Anyway, let's not fixate on the details. You know what? It's been almost two months since we last met when I was on my weight loss plan. Don't you want to spend more time with me?"
+  },
+  {
+    "line": 20,
+    "text": "Feeling a little embarrassed that I've seen through her intentions, Kana steps up to me, hugs my arm, and swings it from side to side. Just as I am about to agree to her, I am interrupted by a ringing mobile phone."
+  },
+  {
+    "line": 21,
+    "text": "The ringing sound is coming from the bag Kana is carrying. She looks at me apologetically, then gets up to take the call."
+  },
+  {
+    "line": 22,
+    "text": "{character:Kana Fujita}Manager? Yes, I've met up with {var:player_nickname}... Huh? Something is up? ...{var:player_nickname} is the only person around me, so I can talk... Huh?! What?!"
+  },
+  {
+    "line": 23,
+    "text": "Kana's voice rises with surprise after listening to her manager's words on the phone. The sound catches the attention of everyone in the dojo, making them all look over at us, so I stand up and make an apologetic gesture while hiding her from their eyes at the same time."
+  },
+  {
+    "line": 24,
+    "text": "{character:Kana Fujita}I don't think anyone would believe that... Well, we're at a mahjong dojo. I'll send you the location after I hang up... Yes, yes, yes, I understand... Relax, I'll be careful."
+  },
+  {
+    "line": 25,
+    "text": "{character:player}Kana, what happened? Do you need my help?"
+  },
+  {
+    "line": 26,
+    "text": "Kana speaks anxiously with her manager on the phone, as if something has happened. I quickly ask her what happened after she hangs up."
+  },
+  {
+    "line": 27,
+    "text": "{character:Kana Fujita}My manager said... someone posted many images of chat records with \"me\" on CatChat, implying that I had broken up with him. It's becoming a bad influence online as many netizens have seen the messages and spread them everywhere."
+  },
+  {
+    "line": 28,
+    "text": "{character:player}Huh? Surely nobody would believe something that's so obviously fake."
+  },
+  {
+    "line": 29,
+    "text": "{character:Kana Fujita}Haha, {var:player_nickname}, I knew you would say that. In fact, we both said exactly the same thing. I wish all my fans believe in me as much as you do. Although most fans are rational, some of them have still been affected."
+  },
+  {
+    "line": 30,
+    "text": "{character:Kana Fujita}My company has been trying to contact the blogger who wrote this CatChat post in the hope that they will speak out and dispel the rumor. My manager is worried that some fans who have been tricked by the fake news might do something radical, so she will pick us up and take us to my company."
+  },
+  {
+    "line": 31,
+    "text": "{character:player}That sounds like something that should be done to keep you safe. Wait a minute, did you just say... us?"
+  },
+  {
+    "line": 32,
+    "text": "{character:Kana Fujita}Oh, didn't I tell you? My manager explicitly said she wants us both to come with her. She said she'll tell you why after we meet up."
+  },
+  {
+    "line": 33,
+    "text": "{character:player}...My instincts tell me that you may be short-staffed at the office, and she wants me to help out with some last-minute manual labor."
+  },
+  {
+    "line": 34,
+    "text": "{character:Kana Fujita}Haha, then do you want to escape before she arrives, {var:player_nickname}?"
+  },
+  {
+    "line": 35,
+    "text": "Kana kindly indicates the direction of the exit to me, but I sense danger from her narrowed eyes, as if she is saying that she'll take the ticket back if I dare to leave."
+  },
+  {
+    "line": 36,
+    "text": "As they say, a wise person submits to the circumstances. I immediately sit down beside Kana and express my determination to solve the problem with her."
+  },
+  {
+    "line": 37,
+    "text": "{character:player}No way! I just want to say that we can gather some information on CatChat together while she is coming for us to save time."
+  },
+  {
+    "line": 38,
+    "text": "Kana is very satisfied with my answer. She picks up her phone and comes closer to me, then she opens CatChat and carefully checks the account she's logging in to."
+  },
+  {
+    "line": 39,
+    "text": "{character:player}\"Gossip Harvester\"...? Kana, that's quite an interesting account name you have there."
+  },
+  {
+    "line": 40,
+    "text": "{character:Kana Fujita}Now's not the time to pay attention to these trivial things. Let me see... #KanaFujitaRomanceExposed#... So it's already become a trending topic... Huh? The picture posted in the real-time message was taken at the... mahjong dojo?!"
+  },
+  {
+    "line": 41,
+    "text": "{character:player}Let me see!"
+  },
+  {
+    "line": 42,
+    "text": "{character:Kana Fujita}\"It's been half an hour already, and there's still no response. It's probably true, so all fans should stop lying to themselves.\""
+  },
+  {
+    "line": 43,
+    "text": "{character:Kana Fujita}\"Although I'm not a fan of celebrities, I enjoy seeing them fall from grace.\""
+  },
+  {
+    "line": 44,
+    "text": "{character:Kana Fujita}\"Who's the person in a relationship with Kana Fujita? Judging from his tone, he shouldn't be very old. There's no information other than the chat record. The paparazzi who are chasing this news are the worst I've ever seen.\""
+  },
+  {
+    "line": 45,
+    "text": "Kana reads the comments on the Internet quietly. Most of them are extremely unfavorable to her, which alerts us of the seriousness of the situation. As Kana's whereabouts have been exposed, many fans who are worried about her are rushing over to her, but there is no shortage of people who just want to watch the situation unfold or are very emotional."
+  },
+  {
+    "line": 46,
+    "text": "In the current situation, it's obviously not a good idea for her to meet her fans privately."
+  },
+  {
+    "line": 47,
+    "text": "Although my feelings are telling me to take Kana away as soon as possible, my sense of reason tells me that Kana's manager would have a better idea about what to do than me, who is encountering this situation for the first time. The company should already have arranged relevant staff to deal with the situation."
+  },
+  {
+    "line": 48,
+    "text": "With this thought in mind, I calmly analyze the current situation."
+  },
+  {
+    "line": 49,
+    "text": "{character:player}Kana, it's not a good idea for you to stay here in the lobby of the dojo because conflicts can easily arise if any radical fans appear. I remember this mahjong dojo has private rooms, so it'll be safer if we meet your manager there."
+  },
+  {
+    "line": 50,
+    "text": "{character:Kana Fujita}Wow, you're so calm, {var:player_nickname}. For an instant there, you were just like my manager."
+  },
+  {
+    "line": 51,
+    "text": "{character:player}Then as your \"manager,\" I \"order\" you to stay obediently in the private room and try not to appear in front of the public if you can."
+  },
+  {
+    "line": 52,
+    "text": "{character:Kana Fujita}Got it, \"manager!\""
+  },
+  {
+    "line": 53,
+    "text": "The private rooms of the mahjong dojo don't have many furnishings in them. There is a mahjong table, a few chairs, and a few elegant and warm-looking decorative paintings on the wall. If it wasn't for our special situation, I wouldn't mind spending the whole afternoon here."
+  },
+  {
+    "line": 54,
+    "text": "In contrast to how nervous I am, Kana is extremely relaxed. Her arms straighten as she stretches languidly."
+  },
+  {
+    "line": 55,
+    "text": "{character:Kana Fujita}My manager is taking so long... Come here quickly. We can see the intersection outside from this window, so we can observe the situation from here."
+  },
+  {
+    "line": 56,
+    "text": "{character:player}The dojo owner said this private room isn't open to the public let, so not even the old customers know about it. The owner made an exception for us by letting us use it. Although it looks really clean, it hasn't been treated for pests yet, so there may be some unwanted visitors."
+  },
+  {
+    "line": 57,
+    "text": "{character:Kana Fujita}Ahhhhh--"
+  },
+  {
+    "line": 58,
+    "text": "Right after I finish talking, Kana suddenly rushes towards me, grabs both my arms, and plunges into my embrace."
+  },
+  {
+    "line": 59,
+    "text": "{character:player}Kana? What happened?"
+  },
+  {
+    "line": 60,
+    "text": "The girl who is clinging tightly to me is breathing rapidly, and my figure is clearly reflected in her peach-red pupils. Everything that belongs to Kana has suddenly forcefully entered my world. Although I've known her for a while, this is the first time we have been so close to each other."
+  },
+  {
+    "line": 61,
+    "text": "{character:Kana Fujita}T-There's a cabbage bug on the windowsill."
+  },
+  {
+    "line": 62,
+    "text": "{character:player}...Huh?!"
+  },
+  {
+    "line": 63,
+    "text": "I look in the direction she is pointing and see the little flying insect that made her panic leave leisurely after waving its antennae."
+  },
+  {
+    "line": 64,
+    "text": "I start to relax after this little episode, and even my body becomes less tense."
+  },
+  {
+    "line": 65,
+    "text": "{character:Kana Fujita}Phew... You're finally smiling again. When I saw how anxious you were looking, I was worried that you might get too nervous and faint."
+  },
+  {
+    "line": 66,
+    "text": "{character:player}You got close to me deliberately?"
+  },
+  {
+    "line": 67,
+    "text": "{character:Kana Fujita}Not entirely. I mean, I really was a little scared. As for hugging you, you can think of it as..."
+  },
+  {
+    "line": 68,
+    "text": "{character:player}As an idol's reward for a fan?"
+  },
+  {
+    "line": 69,
+    "text": "{character:Kana Fujita}What an official-sounding answer!"
+  },
+  {
+    "line": 70,
+    "text": "{character:Kana Fujita}We're not at a press conference, {var:player_nickname}, so your guesses can be bolder. For example, you can think of the hug as proof that our friendship has gotten even closer."
+  },
+  {
+    "line": 71,
+    "text": "After Kana and I play two East Wind rounds while hiding in the private room, her manager finally pushes open the door of our room. She heaves a sigh of relief after seeing that we're both fine and brings us both to Kana's minivan."
+  },
+  {
+    "line": 72,
+    "text": "Manager"
+  },
+  {
+    "line": 73,
+    "text": "{character:Manager}The situation is a little complicated, so I'll get right to the point."
+  },
+  {
+    "line": 74,
+    "text": "{character:Manager}Half an hour ago, we issued a statement that the rumors about Kana being in a relationship is malicious slander, and that we'll file a lawsuit according to the law. Most fans support our decision."
+  },
+  {
+    "line": 75,
+    "text": "{character:Manager}But just then, someone posted a blurry photo on the Internet and claimed that it was a photo of Kana shopping with her new lover. The anti-fans claim it is real and are spreading it everywhere."
+  },
+  {
+    "line": 76,
+    "text": "{character:Manager}If we don't do anything to stop them, it's likely that the concert two weeks later will be negatively impacted. The future career of W.I.N might even be affected."
+  },
+  {
+    "line": 77,
+    "text": "The manager stops here and rummages through her bag, then hands over a photo, indicating that this is the source of all the rumors."
+  },
+  {
+    "line": 78,
+    "text": "In the photo is a girl dressed in normal clothes who can draw everyone's gaze to her even when she isn't on a stage. She is unmistakable even if only her blurry back is shown in the photo."
+  },
+  {
+    "line": 79,
+    "text": "And standing beside her, the person who seems to be kind of flirtatious with Kana and is reaching out to stroke her hair gently is..."
+  },
+  {
+    "line": 80,
+    "text": "{character:player}This is... me?"
+  },
+  {
+    "line": 81,
+    "text": "{character:Manager}Exactly. You answered correctly."
+  },
+  {
+    "line": 82,
+    "text": "{character:player}Ahem, well... Listen to my explanation first. This is what happened..."
+  },
+  {
+    "line": 83,
+    "text": "{character:Manager}The truth doesn't matter anymore. Anyway, the most important thing now is to find the owner of the CatChat account that posted this because it'll be more effective to get them to refute the rumor."
+  },
+  {
+    "line": 84,
+    "text": "{character:Kana Fujita}\"Big Hammer of Love and Hate\"... I get the feeling I've seen this ID before."
+  },
+  {
+    "line": 85,
+    "text": "{character:Manager}Big Hammer Lee is a paparazzo who just started out, so maybe you've seen him before in some gossip groups. A friend in the industry told me that he is currently around a cinema in the commercial strip."
+  },
+  {
+    "line": 86,
+    "text": "{character:Manager}It'll be best to refute the rumor as soon as possible. Tighten your seatbelt. We're heading there now!"
+  },
+  {
+    "line": 87,
+    "text": "To our surprise, the cinema is divided into two zones: Zone A and Zone B. To find our target as fast as possible, we split into two groups to search separately after we reach the cinema."
+  },
+  {
+    "line": 88,
+    "text": "Suggest that Kana follow her manager's arrangements"
+  },
+  {
+    "line": 89,
+    "text": ""
+  },
+  {
+    "line": 90,
+    "text": "Suggest that Kanahide somewhere until things die down"
+  },
+  {
+    "line": 91,
+    "text": "Although Kana's manager asked us to not go anywhere and wait for her, no one can guarantee that she'll find us before an emotional fan arrives."
+  },
+  {
+    "line": 92,
+    "text": "Some well-informed people in the dojo lobby are already stealing glances at her. The only reason they haven't approached us to take photos with their mobile phones is the common courtesy of being a regular customer there."
+  },
+  {
+    "line": 93,
+    "text": "{character:player}This is quite a sticky situation..."
+  },
+  {
+    "line": 94,
+    "text": "At this moment when I am in a dilemma, a hand reaches for my hand from behind, clasping my fingers, and drags me to the door without any explanation."
+  },
+  {
+    "line": 95,
+    "text": "{character:player}...W-Wait... Kana?"
+  },
+  {
+    "line": 96,
+    "text": "{character:Kana Fujita}Huh? I thought you wanted to leave with me since you kept looking at the street."
+  },
+  {
+    "line": 97,
+    "text": "{character:player}I was considering that, but your manager..."
+  },
+  {
+    "line": 98,
+    "text": "{character:Kana Fujita}People from my company call my manager all the time when she accompanies me to commercial performances. In most cases, she'll take me to work overtime, but every once in a while, she will directly reject the other party's request. She said a general in the field is not bound by the orders of their sovereign."
+  },
+  {
+    "line": 99,
+    "text": "{character:Kana Fujita}Hmm... Although I don't know what we should do now, I believe you'll make the best decision for me."
+  },
+  {
+    "line": 100,
+    "text": "{character:Kana Fujita}So, {var:player_nickname}, will you take me away from here?"
+  },
+  {
+    "line": 101,
+    "text": "The girl in front of me smiles brightly with no intention of letting go of my hand, as if she is certain she knows what decision I will make."
+  },
+  {
+    "line": 102,
+    "text": "It's a blessing to have someone's wholehearted trust. No longer hesitating, I smile at Kana and leave the dojo with her."
+  },
+  {
+    "line": 103,
+    "text": "{character:player}Let's go to a place with fewer people and then contact your manager."
+  },
+  {
+    "line": 104,
+    "text": "Even though Kana and I keep a low profile along the way and choose paths with fewer people, a beautiful girl naturally draws the gaze of people wherever she is."
+  },
+  {
+    "line": 105,
+    "text": "Wherever we go, someone on CatChat is sharing our location in real-time. As a result, we keep moving without staying at the same place for too long."
+  },
+  {
+    "line": 106,
+    "text": "After hiding from everyone like this, even Kana's amazing stamina is running out."
+  },
+  {
+    "line": 107,
+    "text": "{character:Kana Fujita}Huff... Huff... I swear I'll never forget to disguise myself whenever I go out in the future. The person behind this better hope I never find out who they are, or else I'll give them a taste of what it feels like to be chased around everywhere!"
+  },
+  {
+    "line": 108,
+    "text": "{character:player}Your manager still hasn't contacted us after so long, so maybe she's been caught up in something. It looks like we'll need to rely on ourselves for now."
+  },
+  {
+    "line": 109,
+    "text": "{character:Kana Fujita}Hmm, do you have an idea?"
+  },
+  {
+    "line": 110,
+    "text": "{character:player}Look over here. I just saw this... The anti-fans call this photo \"shopping with new lover.\""
+  },
+  {
+    "line": 111,
+    "text": "{character:Kana Fujita}Huh? Isn't that you standing next to me, helping me with my wind-scattered hair? So... that means my new love is..."
+  },
+  {
+    "line": 112,
+    "text": "{character:player}Ahem, yes, it's me."
+  },
+  {
+    "line": 113,
+    "text": "{character:Kana Fujita}Well... In that case, it seems..."
+  },
+  {
+    "line": 114,
+    "text": "{character:player}Hmm?"
+  },
+  {
+    "line": 115,
+    "text": "I move my ear closer to Kana's mouth to try to hear what she is mumbling, but she, who is always cheerful and gracious, suddenly blushes and changes the topic shyly."
+  },
+  {
+    "line": 116,
+    "text": "{character:Kana Fujita}Ahem, if I'm right, this photo was secretly taken when we went out together a few months ago. I remember this moment because the store was playing W.I.N's debut song in the background."
+  },
+  {
+    "line": 117,
+    "text": "{character:Kana Fujita}The store is somewhere close to us. Shall we ask around there for some information?"
+  },
+  {
+    "line": 118,
+    "text": "{character:player}Yeah, hiding like this is getting us nowhere. Let's try to gather more information before your manager arrives."
+  },
+  {
+    "line": 119,
+    "text": "After repeatedly comparing Kana's memories with the place where the photo was taken, I finally confirm that the person took the photo of us from a store that sells sports equipment in the commercial strip."
+  },
+  {
+    "line": 120,
+    "text": "We're very excited by the discovery and quickly ask the owner for information, but the result is very disappointing."
+  },
+  {
+    "line": 121,
+    "text": "Owner"
+  },
+  {
+    "line": 122,
+    "text": "{character:Owner}Hey, don't be fooled by how quiet it is here right now. It's only so quiet because it's a work day and many people are still at work."
+  },
+  {
+    "line": 123,
+    "text": "{character:Owner}This commercial strip isn't the most economically prosperous one in One Han City, but its unique features are loved by many. Countless pedestrians and customers come and go every day."
+  },
+  {
+    "line": 124,
+    "text": "{character:Owner}I might remember something if you're asking me about the characteristics of a customer who came in the morning, but I won't remember anything about someone from several months ago."
+  },
+  {
+    "line": 125,
+    "text": "{character:player}Okay then. Thank you anyway..."
+  },
+  {
+    "line": 126,
+    "text": "{character:Kana Fujita}Um... What should we do now?"
+  },
+  {
+    "line": 127,
+    "text": "{character:player}It looks like we'll need to wait for your manager to think of something."
+  },
+  {
+    "line": 128,
+    "text": "I shake my head and look apologetically at Kana. As we are about to leave without any success, the owner suddenly calls out Kana's name."
+  },
+  {
+    "line": 129,
+    "text": "{character:Owner}Kana-chan?!"
+  },
+  {
+    "line": 130,
+    "text": "{character:Kana Fujita}I've been facing away from the owner since I entered the store, and I only just said one thing. How did he recognize me?"
+  },
+  {
+    "line": 131,
+    "text": "{character:player}This just proves how irresistible your charm is, Kana."
+  },
+  {
+    "line": 132,
+    "text": "{character:Owner}Kana! I-I'm your fan! I've bought all your albums, and have all the products you've endorsed! WOW! I can't believe I get to meet my favorite idol. I'm so surprised! I grew up listening to your songs!"
+  },
+  {
+    "line": 133,
+    "text": "{character:player}Haha..."
+  },
+  {
+    "line": 134,
+    "text": "The owner looks like he is at least thirty years old, so it's a bit exaggerated to say he grew up listening to Kana's songs. It's obvious he is so excited he has no idea what he is saying."
+  },
+  {
+    "line": 135,
+    "text": "Seeing that the owner is her fan, Kana ignores how tired she is after running around everywhere and puts on her signature smile."
+  },
+  {
+    "line": 136,
+    "text": "{character:Kana Fujita}Ahem, thank you for supporting me for so many years. I'll keep doing my best!"
+  },
+  {
+    "line": 137,
+    "text": "{character:Owner}Kana, are you here because of the dating photo incident? Maybe I can help you."
+  },
+  {
+    "line": 138,
+    "text": "{character:player}But you just..."
+  },
+  {
+    "line": 139,
+    "text": "{character:Owner}Well... Although I don't remember the traits of customers who were in the store at that time, we have an HD surveillance camera, and the footage is kept for six months."
+  },
+  {
+    "line": 140,
+    "text": "{character:Owner}Since Kana-chan need it, I'll find the footage so you can check it out however you want."
+  },
+  {
+    "line": 141,
+    "text": "{character:player}Thanks a lot!"
+  },
+  {
+    "line": 142,
+    "text": "{character:Owner}You're welcome! It's my honor to be able to help Kana!"
+  },
+  {
+    "line": 143,
+    "text": "With the store owner's help, we soon find someone suspicious in the surveillance footage."
+  },
+  {
+    "line": 144,
+    "text": "The person is wearing ordinary active wear, a sun visor, sunglasses, and a mask, which makes this person look out of place in summer. The person is also holding a telephoto camera and ignoring the staff who approaches them to provide help, focusing fully on pressing the shutter at something on the other side of the glass wall."
+  },
+  {
+    "line": 145,
+    "text": "I record a copy of the surveillance footage with my mobile phone and send it to Kana's manager."
+  },
+  {
+    "line": 146,
+    "text": "{character:Kana Fujita}I think this is the person behind the scandal."
+  },
+  {
+    "line": 147,
+    "text": "{character:Owner}This person... looks kinda familiar."
+  },
+  {
+    "line": 148,
+    "text": "{character:Kana Fujita}You know this person? Is this person a regular customer of this store?"
+  },
+  {
+    "line": 149,
+    "text": "{character:Owner}No, no, no! How could I possibly know someone who would do something to harm Kana-chan?"
+  },
+  {
+    "line": 150,
+    "text": "{character:Owner}It's just... someone dressed like the person in the video came to the store just before you, and I heard this person say in a smug tone while on the phone that they would be meeting someone near the cinema."
+  },
+  {
+    "line": 151,
+    "text": "{character:Owner}I didn't really pay attention to this person since they didn't look like they would be buying anything, so I'm not entirely sure if it's the person in the video."
+  },
+  {
+    "line": 152,
+    "text": "{character:Kana Fujita}It's alright. Thanks for helping me."
+  },
+  {
+    "line": 153,
+    "text": "{character:Owner}You're welcome, this is something I should be doing."
+  },
+  {
+    "line": 154,
+    "text": "*Beep* My phone starts vibrating after I receive a notification, interrupting the niceties being exchanged by an idol and her fan. I open the text messages sent by Kana's manager and see a long list of messages."
+  },
+  {
+    "line": 155,
+    "text": "[Manager]Where did you get this?"
+  },
+  {
+    "line": 156,
+    "text": "[Manager]This person is a young paparazzo called Big Hammer Lee who has just started out in the industry. He has recently leaked news about several artists. Even though it's difficult to tell what's true from what's false, he has made himself quite a few fans."
+  },
+  {
+    "line": 157,
+    "text": "[Manager]We looked through his CatChat and found a comment he replied to, saying he will meet someone at the cinema of the commercial strip today. We should be able to find him there."
+  },
+  {
+    "line": 158,
+    "text": "[Manager]The sooner we refute the rumors the better. It'll be best if this paparazzo is willing to cooperate with us. We'll meet up at the cinema, and we must find him!"
+  },
+  {
+    "line": 159,
+    "text": "[Manager]To our surprise, the cinema is divided into two zones: Zone A and Zone B. To find our target as fast as possible, we split into two groups to search separately after we meet up with the manager."
+  },
+  {
+    "line": 160,
+    "text": "{character:player}Is that the person we're looking for?"
+  },
+  {
+    "line": 161,
+    "text": "{character:Kana Fujita}Shush! Stop staring at him in case you catch his attention. Let's pretend to be here to watch a movie together first to catch him by surprise."
+  },
+  {
+    "line": 162,
+    "text": "{character:player}Why does it feel like you're really eager about this..."
+  },
+  {
+    "line": 163,
+    "text": "{character:Kana Fujita}Ahem, of course not. You must be imagining things, {var:player_nickname}!"
+  },
+  {
+    "line": 164,
+    "text": "Kana and I find a dark corner to observe the situation. After confirming the identity of that person, we let the manager know immediately."
+  },
+  {
+    "line": 165,
+    "text": "Maybe it's because he is confident that he has won this time, the paparazzo Big Hammer Lee hasn't hidden himself and is even sitting ostentatiously in the middle of the hall, humming a tune light-heartedly."
+  },
+  {
+    "line": 166,
+    "text": "About ten minutes later, a man wearing a mask sits in front of Big Hammer Lee and hands him a folder from a backpack."
+  },
+  {
+    "line": 167,
+    "text": "The two people keep making big movements, and it looks like their talk isn't going well. I think... we can rule out the possibility that they are accomplices."
+  },
+  {
+    "line": 168,
+    "text": "{character:Kana Fujita}Hmm, we can't hear what they are saying. Should we move closer to them?"
+  },
+  {
+    "line": 169,
+    "text": "{character:player}Who just told me not to catch their attention?"
+  },
+  {
+    "line": 170,
+    "text": "{character:Kana Fujita}Aren't you curious about what they are saying? My instincts tell me that the situation can still be turned around."
+  },
+  {
+    "line": 171,
+    "text": "Well aware of how much Kana loves gossip, I scan the hall quickly and motion for her to hide on the other side and eavesdrop."
+  },
+  {
+    "line": 172,
+    "text": "However, she knocks down a promotional poster stand of the cinema by accident while getting closer to them, and the sound of it falling to the ground alarmed the paparazzi who are arguing. After recognizing Kana Fujita, Big Hammer Lee and the other person turn and run instantly."
+  },
+  {
+    "line": 173,
+    "text": "???"
+  },
+  {
+    "line": 174,
+    "text": "{character:???}!!!"
+  },
+  {
+    "line": 175,
+    "text": "Big Hammer Lee"
+  },
+  {
+    "line": 176,
+    "text": "{character:Big Hammer Lee}Run--"
+  },
+  {
+    "line": 177,
+    "text": "The poster stand that fell over gets in my way. In this situation, we can only catch one person."
+  },
+  {
+    "line": 178,
+    "text": "Chase after the paparazzo on the left"
+  },
+  {
+    "line": 179,
+    "text": "Chase after the masked person on the right"
+  },
+  {
+    "line": 180,
+    "text": "Big Hammer Lee the paparazzo is our target, so I reach out to the left without hesitation to stop him from running away."
+  },
+  {
+    "line": 181,
+    "text": "{character:Big Hammer Lee}Ouch! Be gentle! We're all civilized people. It isn't good to have such a fiery temper."
+  },
+  {
+    "line": 182,
+    "text": "{character:Kana Fujita}A civilized person doesn't secretly take photos of people without permission."
+  },
+  {
+    "line": 183,
+    "text": "{character:Big Hammer Lee}This... There's a little misunderstanding here, but I can swear by my camera that the photos are absolutely not fake."
+  },
+  {
+    "line": 184,
+    "text": "{character:Big Hammer Lee}Miss Fujita, help me persuade your friend to let go of me, or else..."
+  },
+  {
+    "line": 185,
+    "text": "{character:Manager}Or else what?"
+  },
+  {
+    "line": 186,
+    "text": "Kana's manager rushes over and arrives just in time to hear what the paparazzo is saying."
+  },
+  {
+    "line": 187,
+    "text": "{character:Manager}Kana, wait outside with {var:player_nickname} while I have a good chat with this gentleman."
+  },
+  {
+    "line": 188,
+    "text": "{character:Big Hammer Lee}..."
+  },
+  {
+    "line": 188,
+    "text": "{character:???}..."
+  },
+  {
+    "line": 189,
+    "text": "As expected of the manager who is regarded as the queen of star-making by the entertainment industry. Her aura is so powerful that the man can't even seem to say anything. It looks like this talk will only end in one way."
+  },
+  {
+    "line": 190,
+    "text": "{character:Manager}The matter has been resolved."
+  },
+  {
+    "line": 191,
+    "text": "{character:player}Already?"
+  },
+  {
+    "line": 192,
+    "text": "{character:Manager}I still wasted ten minutes, so it wasn't that fast. He will post a statement admitting that he posted a photo taken from a particular angle on purpose to get more views and likes."
+  },
+  {
+    "line": 193,
+    "text": "{character:player}There's nothing in it for him if he does that. Um... why did he agree to do this?"
+  },
+  {
+    "line": 194,
+    "text": "{character:Manager}Because the boss made him an offer he can't refuse, of course."
+  },
+  {
+    "line": 195,
+    "text": "{character:Kana Fujita}Haha, don't worry. There's nothing my manager can't take care of."
+  },
+  {
+    "line": 196,
+    "text": "The girl's laughter livens up the atmosphere. Kana's manager reaches out and taps her forehead."
+  },
+  {
+    "line": 197,
+    "text": "{character:Manager}I really don't know what to do with you..."
+  },
+  {
+    "line": 198,
+    "text": "The familiar scene makes me laugh for a while. Kana's manager did exactly the same thing when she found out Kana was secretly drinking milk tea. It looks like Kana does lots of similar things on an everyday basis."
+  },
+  {
+    "line": 199,
+    "text": "If I had to say what is different about this time, it is probably... that there's one more person for her manager to tell off."
+  },
+  {
+    "line": 200,
+    "text": "{character:Manager}YOU TWO! You better act appropriately in public in the future and don't do things that people will misunderstand, okay? I won't go easy on you if this happens again."
+  },
+  {
+    "line": 201,
+    "text": "{character:Kana Fujita}Ahem, okay, okay..."
+  },
+  {
+    "line": 202,
+    "text": "Kana nods obediently, but winks at me instantly the moment her manager turns around. I understand her immediately without needing to communicate with her verbally."
+  },
+  {
+    "line": 203,
+    "text": "\"I understand, but I'll still do it anyway.\""
+  },
+  {
+    "line": 204,
+    "text": "I hope the manager won't be too angry, after all... Kana and I are thinking the same thing. We won't leave each other no matter what happens."
+  },
+  {
+    "line": 205,
+    "text": "The masked person doesn't seem to have much mental fortitude. While running away, they slipped a few times, which gave me the chance to stop them."
+  },
+  {
+    "line": 206,
+    "text": "{character:player}Who are you? Are you an accomplice of the paparazzo?"
+  },
+  {
+    "line": 207,
+    "text": "For some reason, the masked person starts struggling again after hearing my question and runs left and right. We barely manage to subdue the person by the time the manager rushes over."
+  },
+  {
+    "line": 208,
+    "text": "{character:Manager}My friend, you..."
+  },
+  {
+    "line": 209,
+    "text": "{character:Kana Fujita}Wait, Miss Mananger."
+  },
+  {
+    "line": 210,
+    "text": "{character:Manager}Hmm? Kana, what is it?"
+  },
+  {
+    "line": 211,
+    "text": "{character:Kana Fujita}Nothing. It's just that this person is trembling the whole time. I get the feeling that he is very scared... Let me ask him the questions."
+  },
+  {
+    "line": 212,
+    "text": "{character:Kana Fujita}Hi, we don't have any malicious intentions. We just want... Um, why are you crying?!"
+  },
+  {
+    "line": 213,
+    "text": "The masked person trapped in the corner starts crying loudly right after Kana starts talking. He sits on the ground in despair with tears streaming uncontrollably down his face."
+  },
+  {
+    "line": 214,
+    "text": "{character:???}*Sobbing* Kana... Kana-chan... I'm sorry... *Sobbing*"
+  },
+  {
+    "line": 215,
+    "text": "{character:Kana Fujita}There, there. Stop crying now. Your face is all dirty now. Here, wipe your face with this. I don't know what to do if you keep crying."
+  },
+  {
+    "line": 216,
+    "text": "After she comforts him patiently, the masked man finally stops crying and takes off his mask slowly. To our surprise, the masked man is a middle school student."
+  },
+  {
+    "line": 217,
+    "text": "{character:Kana Fujita}Huh...?"
+  },
+  {
+    "line": 218,
+    "text": "Middle school student"
+  },
+  {
+    "line": 219,
+    "text": "{character:Middle school student}This matter started from a truth or dare game between me and my friend. At that time..."
+  },
+  {
+    "line": 220,
+    "text": "After hearing the middle school student's story, I finally piece together the rough outline of the whole story."
+  },
+  {
+    "line": 221,
+    "text": "The middle school student and his friend are both Kana's fans, and they created a fake Kana Fujita account to chat with each other to realize their dream of chatting directly with their idol."
+  },
+  {
+    "line": 222,
+    "text": "He posted the chat records just for fun, but didn't expect that Kana's anti-fans would find it and forward it. Things snowballed, and a paparazzo who thought this was Kana's alternate account demanded a lot of Coppers with the photo."
+  },
+  {
+    "line": 223,
+    "text": "The middle school student arranged to meet this person to explain things, but encountered the real Kana Fujita right after they met. It's because of the guilt he feels when he thinks about how much trouble he has caused for his idol that he chose to run away."
+  },
+  {
+    "line": 224,
+    "text": "{character:Middle school student}Sorry, Kana-chan... I, I..."
+  },
+  {
+    "line": 225,
+    "text": "{character:Kana Fujita}It's okay."
+  },
+  {
+    "line": 226,
+    "text": "{character:Middle school student}Huh?"
+  },
+  {
+    "line": 226,
+    "text": "{character:player}Huh?"
+  },
+  {
+    "line": 227,
+    "text": "{character:Kana Fujita}You didn't mean to hurt me, and you deleted your CatChat after the photo was spread to avoid any misunderstandings. I also saw that you tried to explain things to the other person. You didn't mean for things to turn out like this."
+  },
+  {
+    "line": 228,
+    "text": "{character:Kana Fujita}Since it's just a misunderstanding, of course I forgive you. What's more, you're my fan, so of course I have to be more magnanimous as your idol."
+  },
+  {
+    "line": 229,
+    "text": "{character:Middle school student}But... it's my fault that you couldn't catch the paparazzo... This guy is so arrogant. He said that he can make fake photos of you, Kana, and that he will post more scandalous photos taken from tricky angles to smear your reputation if I don't obey him..."
+  },
+  {
+    "line": 230,
+    "text": "{character:Kana Fujita}You don't need to worry about that. My manager will sort it out, right?"
+  },
+  {
+    "line": 231,
+    "text": "The girl winks mischievously, causing her manager to hold her forehead helplessly."
+  },
+  {
+    "line": 232,
+    "text": "{character:Manager}I don't know what to do with you. Anyway, I'll need you to come to our company office to post a statement."
+  },
+  {
+    "line": 233,
+    "text": "{character:Middle school student}Sure! I'll definitely cooperate."
+  },
+  {
+    "line": 234,
+    "text": "After walking out of the cinema's doors, I realize that night has fallen without us realizing. As if to congratulate us for dealing with the trouble, a few clouds are dyed red by the glow of the sunset far away in the sky."
+  },
+  {
+    "line": 235,
+    "text": "On my way back with Kana, instead of being energetic like always, she remains silent all the way with her head bowed down."
+  },
+  {
+    "line": 236,
+    "text": "{character:player}Kana, are you unhappy?"
+  },
+  {
+    "line": 237,
+    "text": "{character:Kana Fujita}Umm... {var:player_nickname}, I'm thinking about what I can do better."
+  },
+  {
+    "line": 238,
+    "text": "{character:Kana Fujita}What happened today was just a big mishap. But at the end of the day, the reason why something so simple became known to the whole world is because someone was maliciously reposting things."
+  },
+  {
+    "line": 239,
+    "text": "{character:Kana Fujita}I know that each idol has so-called anti-fans. This is something we have to experience and endure, but I still can't help but feel bad... Why are there so many people who dislike me?"
+  },
+  {
+    "line": 240,
+    "text": "{character:Kana Fujita}I mean, my initial reason for getting on the stage is to bring happiness to more people."
+  },
+  {
+    "line": 241,
+    "text": "Kana stops, frowns, and gives me a puzzled look. Her voice is trembling slightly when she talks."
+  },
+  {
+    "line": 242,
+    "text": "Being a high school idol has brought her honor and glory, as well as a melancholy that can't be shared with others."
+  },
+  {
+    "line": 243,
+    "text": "{character:player}In this world, there will always be someone who is unhappy with you no matter how well you do."
+  },
+  {
+    "line": 244,
+    "text": "{character:player}No matter how kind you are, there will always be someone who thinks you aren't gentle enough. No matter how gentle you are, there will always be someone who thinks you aren't cheerful enough."
+  },
+  {
+    "line": 245,
+    "text": "{character:player}Even if you do your best to make them happy or treat them gently, there will always be someone who sees you as an irritant in their eyes. They will even deliberately discredit you or beat you down out of jealousy."
+  },
+  {
+    "line": 246,
+    "text": "{character:player}Whether someone likes you actually has nothing to do with you. It's just another person's subjective feelings. What you need to do is keep polishing yourself until you become an even more dazzling pearl and become so beautiful that others can't ignore your beauty."
+  },
+  {
+    "line": 247,
+    "text": "The street lights turn on as the sun gradually dips below the horizon, but they are unable to provide as much light as the sunlight. Under the setting sun, Kana's eyes are surprisingly bright."
+  },
+  {
+    "line": 248,
+    "text": "{character:Kana Fujita}Keep polishing myself until I become a dazzling pearl... I think I understand what you're saying!"
+  },
+  {
+    "line": 249,
+    "text": "{character:Kana Fujita}I shouldn't try to change what others are thinking. Instead, I should focus on myself so that people will see the good things about me."
+  },
+  {
+    "line": 250,
+    "text": "{character:player}That's right. You look so magnificent right now."
+  },
+  {
+    "line": 251,
+    "text": "{character:Kana Fujita}Well... I'm going to rush back to the training room and practice the dance moves for the concert a few more times now!"
+  },
+  {
+    "line": 252,
+    "text": "{character:Kana Fujita}I want to make this concert as perfect as possible, not just for my fans, but also for you. Whenever I'm exhausted, you're always here to encourage me. I'll do my best!"
+  },
+  {
+    "line": 253,
+    "text": "The glow of sunset blooms in the sky like a rose and gives the girl's face a reddish tinge."
+  },
+  {
+    "line": 254,
+    "text": "I subconsciously pinch the concert ticket in my pockets with my fingers. This is not just a promise between an idol and a fan, but a promise between Kana and me."
+  },
+  {
+    "line": 255,
+    "text": "{character:player}Yeah, I believe you can do it, Kana!"
+  },
+  {
+    "line": 256,
+    "text": ""
+  }
+]

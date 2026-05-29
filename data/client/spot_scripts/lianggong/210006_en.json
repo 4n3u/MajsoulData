@@ -1,0 +1,810 @@
+[
+  {
+    "line": 2,
+    "text": "Waking up early on the weekend wasn't fun, but I still managed to arrive at the amusement park on time. Anju Suzumiya was already waiting there."
+  },
+  {
+    "line": 3,
+    "text": "Greeting: Good morning, {var:player_nickname}."
+  },
+  {
+    "line": 7,
+    "text": "Anju Suzumiya"
+  },
+  {
+    "line": 8,
+    "text": "player"
+  },
+  {
+    "line": 11,
+    "text": "System has decided that you are a liar."
+  },
+  {
+    "line": 12,
+    "text": "Wait a sec, where does that come from?"
+  },
+  {
+    "line": 13,
+    "text": "Answer: {var:player_nickname} has promised to treat KR-976 to strawberry milk if KR-976 actively greets {var:player_nickname}."
+  },
+  {
+    "line": 17,
+    "text": "*Staring—*"
+  },
+  {
+    "line": 18,
+    "text": "Morning, Anju."
+  },
+  {
+    "line": 19,
+    "text": "Since when did I promise that?"
+  },
+  {
+    "line": 22,
+    "text": "I was just kidding! I always take one bottle of strawberry milk with me. Been waiting for you to actively greet me!"
+  },
+  {
+    "line": 23,
+    "text": "System has automatically deleted the record about {var:player_nickname} being a liar."
+  },
+  {
+    "line": 24,
+    "text": "So what am I to you now, Anju?"
+  },
+  {
+    "line": 25,
+    "text": "System has decided that {var:player_nickname} is a good person."
+  },
+  {
+    "line": 26,
+    "text": "Um, is that a compliment? That's a compliment, right? Somehow I feel a little bitter after being friend-zoned."
+  },
+  {
+    "line": 27,
+    "text": "Did we ever have that agreement?"
+  },
+  {
+    "line": 28,
+    "text": "System has once again confirmed that {var:player_nickname} is a big liar."
+  },
+  {
+    "line": 29,
+    "text": "Sorry, let's go get it right now. I can see a convenience store nearby..."
+  },
+  {
+    "line": 30,
+    "text": "Here you are."
+  },
+  {
+    "line": 32,
+    "text": "Anju Suzumiya handed me a bottle of strawberry milk. I could still feel the warmth of her hands on it. She had been holding it all along under her sleeve, so I didn't notice it."
+  },
+  {
+    "line": 33,
+    "text": "What's this?"
+  },
+  {
+    "line": 34,
+    "text": "Answer: Because {var:player_nickname} is a liar, {var:player_nickname} is a liar and {var:player_nickname} is a liar, KR-976 had to prepare strawberry milk for herself."
+  },
+  {
+    "line": 35,
+    "text": "Do you really have to say it 3 times...? I feel like I'm being cursed."
+  },
+  {
+    "line": 36,
+    "text": "Let's go have fun now. Anju, is there anything that you want to play in particular?"
+  },
+  {
+    "line": 37,
+    "text": "To make up for my mistake, please allow me to accompany you. Let's enjoy ourselves. Is there anything you want to play in particular?"
+  },
+  {
+    "line": 38,
+    "text": "Answer: KR-976 doesn't come to the amusement park often. Unable to locate any related knowledge in the database."
+  },
+  {
+    "line": 39,
+    "text": "Looks like I need to think of the itinerary next. What should we do first?"
+  },
+  {
+    "line": 42,
+    "text": "Let's ride the merry-go-round. It looks so romantic!"
+  },
+  {
+    "line": 44,
+    "text": "Question: What is that?"
+  },
+  {
+    "line": 46,
+    "text": "Sounds interesting. KR-976 has accepted your proposal."
+  },
+  {
+    "line": 49,
+    "text": "Aren't you scared at all?"
+  },
+  {
+    "line": 50,
+    "text": "Answer: KR-976 isn't afraid of heights. If {var:player_nickname} is scared, you can come to KR-976 for help."
+  },
+  {
+    "line": 53,
+    "text": "Alright, sit back then. The ride is about to start."
+  },
+  {
+    "line": 55,
+    "text": "It's a roller coaster ride, where we will dive and swirl from high above at high speed."
+  },
+  {
+    "line": 57,
+    "text": "After a loud and crisp ringing sound, our roller coaster started to climb up toward the highest point."
+  },
+  {
+    "line": 58,
+    "text": "Anju Suzumiya and I sat in a cart. I thought she would fear a game like this, but she was just carefully observing the structure of roller coaster and rails with a lot of curiosity."
+  },
+  {
+    "line": 59,
+    "text": "Anju held my hand as she spoke. Her palm felt dry and warm. She really seemed not scared at all."
+  },
+  {
+    "line": 60,
+    "text": "Anju was very excited throughout the ride. She even patted my arm in excitement when we reached the peak, telling me that I couldn't enjoy the ride with my eyes closed."
+  },
+  {
+    "line": 61,
+    "text": "But I was so nervous—!!!!!//nWhen can I get out—?????"
+  },
+  {
+    "line": 62,
+    "text": "Finally, we got off the roller coaster, but Anju still looked like she wanted more of it. To stop her from riding it again, I quickly pulled her away and headed to the next attraction."
+  },
+  {
+    "line": 63,
+    "text": "A large building could be seen not far ahead. A giant, scary face was staring at us with its mouth open, which looked like the entrance."
+  },
+  {
+    "line": 64,
+    "text": "Question: What's that thing over there?"
+  },
+  {
+    "line": 65,
+    "text": "Looks like a haunted house to me."
+  },
+  {
+    "line": 66,
+    "text": "2 minutes later"
+  },
+  {
+    "line": 67,
+    "text": "Question: Are there really ghosts in the haunted house?"
+  },
+  {
+    "line": 68,
+    "text": "Of course not. Even if there are, they are just the staff in disguise. Are you interested?"
+  },
+  {
+    "line": 69,
+    "text": "Anju seemed to have hesitated for a split second, but I wasn't too sure."
+  },
+  {
+    "line": 70,
+    "text": "Question: Is {var:player_nickname} scared of the haunted house?"
+  },
+  {
+    "line": 71,
+    "text": "It depends. A jump scare may get me, but once I know everything is fake, I won't be afraid anymore."
+  },
+  {
+    "line": 72,
+    "text": "If the staff jump on you, {var:player_nickname} will definitely be very scared. We are not going."
+  },
+  {
+    "line": 74,
+    "text": "Anju, you aren't scared of ghosts, are you?"
+  },
+  {
+    "line": 75,
+    "text": "KR-976 is a product of science and w-will never fear n-non-scientific existence."
+  },
+  {
+    "line": 76,
+    "text": "From what I know of her, she's lying."
+  },
+  {
+    "line": 77,
+    "text": "Anju, if you want to take a look inside, I don't mind it. I'll be fine."
+  },
+  {
+    "line": 78,
+    "text": "For the health of {var:player_nickname}, KR-976 r-refuses to do so."
+  },
+  {
+    "line": 79,
+    "text": "I never thought Anju Suzumiya would be scared of ghosts. If that's the case..."
+  },
+  {
+    "line": 80,
+    "text": "Then I really want to take her into the haunted house!"
+  },
+  {
+    "line": 81,
+    "text": "Actually, I'm also a little afraid. Let's forget about it..."
+  },
+  {
+    "line": 82,
+    "text": "How about we start from the merry-go-round?"
+  },
+  {
+    "line": 83,
+    "text": "Agreed. KR-976 has seen the facility named merry-go-round on TV. It is said to be a must-have for dating couples."
+  },
+  {
+    "line": 84,
+    "text": "I heard that artificial intelligence could become very adventurous when facing an undiscovered field. Why am I not seeing this in you, Anju? Or, are you really..."
+  },
+  {
+    "line": 85,
+    "text": "O-objection. KR-976 is also keen to explore this place, but more concerned about {var:player_nickname}."
+  },
+  {
+    "line": 86,
+    "text": "Don't worry about me then. I've been in this haunted house many times. I can even be your guide."
+  },
+  {
+    "line": 87,
+    "text": "Couples, huh..."
+  },
+  {
+    "line": 88,
+    "text": "Before I could finish, Anju Suzumiya pulled me away and ran to the merry-go-round."
+  },
+  {
+    "line": 89,
+    "text": "There seemed to be some special event going on. All I could see were couples in the long queue before the entrance. Anju Suzumiya and I couldn't help but move closer to each other while squeezing through the crowd..."
+  },
+  {
+    "line": 90,
+    "text": "Question: Which one does {var:player_nickname} want to sit?"
+  },
+  {
+    "line": 91,
+    "text": "I looked at where she was pointing. Turned out she was referring to the seats on the merry-go-round."
+  },
+  {
+    "line": 92,
+    "text": "Which one do you want, Anju?"
+  },
+  {
+    "line": 93,
+    "text": "Hmm... Answer: KR-976 wants to ride the pumpkin carriage with {var:player_nickname}. According to the storybooks, a pumpkin carriage is blessed with the magic of happiness before 12 o'clock midnight."
+  },
+  {
+    "line": 94,
+    "text": "I had never heard of this magic, but pumpkin carriage sounded good."
+  },
+  {
+    "line": 96,
+    "text": "The merry-go-round was a very easy ride. As we sat on it and enjoyed the breeze and music, I suddenly felt very relaxed and comfortable."
+  },
+  {
+    "line": 97,
+    "text": "*Phew—Phew—*"
+  },
+  {
+    "line": 98,
+    "text": "I heard Anju Suzumiya's soft breath and turned to her. She had already fallen asleep on my shoulder. I knew it was comfortable, but that just happened too fast."
+  },
+  {
+    "line": 99,
+    "text": "I took out my phone and quietly captured the moment. In the sun, her sleeping face looked like a cute little animal."
+  },
+  {
+    "line": 100,
+    "text": "Unfortunately, the dream ended too soon as the merry-go-round stopped after 10 minutes."
+  },
+  {
+    "line": 103,
+    "text": "Congratulations, you are the 9th couple who have ridden the pumpkin carriage before 12 o'clock midnight. Here are your limited teddy headbands—roar!"
+  },
+  {
+    "line": 104,
+    "text": "Anju was still very sleepy, so I held her hand and walked out. When we reached the exit, we heard a loud \"bang\" sound and saw lots of colorful ribbons—a bear mascot ran over after firing the cracker in his hand."
+  },
+  {
+    "line": 105,
+    "text": "Anju was right about the magic, wasn't she?! She had a light smile on her face and reached over for the headbands. She then passed the one that looked like a bear gentleman to me."
+  },
+  {
+    "line": 108,
+    "text": "Bear mascot"
+  },
+  {
+    "line": 110,
+    "text": "Once again, congratulations—roar!"
+  },
+  {
+    "line": 111,
+    "text": "Anju pulled me away as the staff put their hands together. I looked at her side and noticed her cheeks were blushing a little. Considering the situation, she had already done well."
+  },
+  {
+    "line": 112,
+    "text": "Thinking of something else, I stopped her."
+  },
+  {
+    "line": 113,
+    "text": "Anju, do you know about another place? It also carries the magic of happiness before the clock turns 12."
+  },
+  {
+    "line": 115,
+    "text": "Question: What could that be?"
+  },
+  {
+    "line": 116,
+    "text": "The Ferris wheel."
+  },
+  {
+    "line": 117,
+    "text": "Question: What's the difference between Ferris wheel and merry-go-round?"
+  },
+  {
+    "line": 118,
+    "text": "The direction of spinning, probably... But they have something in common."
+  },
+  {
+    "line": 119,
+    "text": "Okay, KR-976 has understood. As long as I spin together with {var:player_nickname}, I will have the magic of happiness."
+  },
+  {
+    "line": 120,
+    "text": "Let's just stay together. The spinning part is not necessary."
+  },
+  {
+    "line": 121,
+    "text": "When the Ferris wheel reached its highest point, we could see the entire city from above. Anju looked just like an ordinary girl, pointing at landmark buildings with curiosity and making surprising sounds."
+  },
+  {
+    "line": 124,
+    "text": "She was able to have normal interactions, after all."
+  },
+  {
+    "line": 126,
+    "text": "Anju's characteristics made her unique. And I actually quite liked her that way."
+  },
+  {
+    "line": 128,
+    "text": "Wel—come—"
+  },
+  {
+    "line": 129,
+    "text": "I took Anju Suzumiya to the haunted house. Just when I tried to persuade her to enter it, I suddenly heard a hoarse male voice. I turned back and saw a staff in clown costume standing behind us."
+  },
+  {
+    "line": 130,
+    "text": "Today, there is a special program for couples in our Wonder House. Don't miss out! Hehehehe—"
+  },
+  {
+    "line": 131,
+    "text": "We are not..."
+  },
+  {
+    "line": 132,
+    "text": "Before I could finish, the clown quickly pushed us into the open doors of the haunted house..."
+  },
+  {
+    "line": 133,
+    "text": "???"
+  },
+  {
+    "line": 134,
+    "text": "The Clown"
+  },
+  {
+    "line": 136,
+    "text": "Actually, I lied to Anju. I had never been to this haunted house before. The candle-shaped lamps on the wall glowed dimly in the dark, only lighting up a small area. The atmosphere was surely a fearful one."
+  },
+  {
+    "line": 138,
+    "text": "I didn't expect her to be so scared and felt a little guilty. But there was no turning back. I patted her gently on the back."
+  },
+  {
+    "line": 139,
+    "text": "Anju, it seems we can only follow this path and go forward. Let's get moving."
+  },
+  {
+    "line": 140,
+    "text": "Anju Suzumiya didn't say anything. She just nodded firmly."
+  },
+  {
+    "line": 142,
+    "text": "It wasn't a long walk before we got to a turning point. I stopped for a moment and tried to mentally prepare myself for the upcoming scene, as most haunted houses would set up scary props or even actors here."
+  },
+  {
+    "line": 144,
+    "text": "Congratulations! *Clapping*—You have successfully triggered the special couples event in Wonder House."
+  },
+  {
+    "line": 145,
+    "text": "I should be congratulated if I didn't trigger it. This was nothing but a trap that hung up whoever stepped on it first."
+  },
+  {
+    "line": 148,
+    "text": "W-was {var:player_nickname} hung up because of KR-976? If KR-976 could be braver and walked with you, you wouldn't be hanging there alone."
+  },
+  {
+    "line": 149,
+    "text": "Um, this is just part of the design. You don't have to blame yourself."
+  },
+  {
+    "line": 150,
+    "text": "Objection."
+  },
+  {
+    "line": 151,
+    "text": "Still frightened but determined, Anju Suzumiya looked up and clenched her fist."
+  },
+  {
+    "line": 152,
+    "text": "KR-976 will rescue {var:player_nickname}."
+  },
+  {
+    "line": 153,
+    "text": "As she disappeared into the darkness, I suddenly realized what Wonder House was planning in this event: to lock up the brave one in the first stage, then let the less brave one challenge all the horror quests. They sure had some... sick taste."
+  },
+  {
+    "line": 154,
+    "text": "Under the dim light, I could see the floor and walls were all covered by protective soft foam. Fortunately, even if Anju fell, she wouldn't be hurt. But she really needed to conquer the mental challenges."
+  },
+  {
+    "line": 156,
+    "text": "9 Mahjong tiles are placed in front of Alice, Cheshire Cat and Mad Hatter://nSou: 2, 3, 5//nMan: 3, 5, 7, 9//nPin: 2, 7"
+  },
+  {
+    "line": 157,
+    "text": "The Queen of Hearts hid all 9 tiles, then picked one from them. She told Cheshire Cat the number, then told Mad Hatter the type of this tile.//nShe asked Cheshire Cat and Mad Hatter, \"Could you find out what this tile is from the given information?\""
+  },
+  {
+    "line": 158,
+    "text": "\"I don't know,\" Cheshire Cat said.//nMad Hatter: \"I know that you don't know this tile.\"//nChesire Cat: \"Now I know what it is.\"//n\"So do I now,\" Mad Hatter said."
+  },
+  {
+    "line": 159,
+    "text": "After hearing the conversation, Alice thought for a while and correctly deduced what this tile was."
+  },
+  {
+    "line": 160,
+    "text": "Question: What is this tile?"
+  },
+  {
+    "line": 163,
+    "text": "Which number should I pick?"
+  },
+  {
+    "line": 166,
+    "text": "7 Pin"
+  },
+  {
+    "line": 167,
+    "text": "2 Sou!"
+  },
+  {
+    "line": 168,
+    "text": "Once again, we heard the clown's voice."
+  },
+  {
+    "line": 169,
+    "text": "Congratulations to your teammate—she's just got double the difficulty! Hehehehe—"
+  },
+  {
+    "line": 170,
+    "text": "As he spoke, I heard the roar of staff and Anju Suzumiya's screams not far away. Did \"double the difficulty\" mean more actors and pursuits?"
+  },
+  {
+    "line": 171,
+    "text": "Sorry, Anju!"
+  },
+  {
+    "line": 172,
+    "text": "I had to say this challenge was way too difficult for someone who had never been in a haunted house. It felt like a century before Anju finally returned. Panicking and terrified, she didn't even realize she had lost an antenna hairpin."
+  },
+  {
+    "line": 173,
+    "text": "Sorry, {var:player_nickname}. The magic item... I didn't find it."
+  },
+  {
+    "line": 174,
+    "text": "I made a gesture of giving up to the camera, and the net that caught me slowly descended to the ground. I walked over to Anju Suzumiya and took her hand, then gently patted her on the head."
+  },
+  {
+    "line": 175,
+    "text": "You have already done very well. It was my bad. I didn't solve the puzzle."
+  },
+  {
+    "line": 180,
+    "text": "Thank you, {var:player_nickname}."
+  },
+  {
+    "line": 181,
+    "text": "You earned it with your bravery and hard work. I didn't do anything."
+  },
+  {
+    "line": 182,
+    "text": "I only... accidentally increased the difficulty of your challenge."
+  },
+  {
+    "line": 183,
+    "text": "That's not right... Without you, KR-976 would never have the courage to take the item alone. So... Thank you."
+  },
+  {
+    "line": 187,
+    "text": "7 Pin!"
+  },
+  {
+    "line": 188,
+    "text": "Ouch! I didn't expect you to be able to solve it. Well, I am a gentleman who keeps his promise, so I will give her the blessing."
+  },
+  {
+    "line": 189,
+    "text": "After he said that, the lamps along the corridor suddenly lit up. Anju was standing at the corner, slightly shocked. I immediately shouted at her."
+  },
+  {
+    "line": 190,
+    "text": "Anju, go take the item while there is light!"
+  },
+  {
+    "line": 191,
+    "text": "She looked back at me, then nodded seriously and started running to the direction indicated. The next checkpoint wasn't far away. Without the obstacles, Anju soon came back with the item. It was a delicate, crystal-like crown."
+  },
+  {
+    "line": 192,
+    "text": "As she handed me the crown, the net and I slowly descended to the ground."
+  },
+  {
+    "line": 194,
+    "text": "Congratulations, our brave princess defeated the evil dragon with the hero's assistance."
+  },
+  {
+    "line": 195,
+    "text": "Question: KR-976 didn't see any evil dragon."
+  },
+  {
+    "line": 197,
+    "text": "It feared your cooperation, so it left the crystal crown behind and fled! Hehehehe—"
+  },
+  {
+    "line": 198,
+    "text": "Well, dear hero, what are you going to do with this crown?"
+  },
+  {
+    "line": 199,
+    "text": "Looking at Anju Suzumiya, I gently put the crown on her head. As a first-time player, she was brave enough to look for the item alone and rescued me. That alone made me very grateful already."
+  },
+  {
+    "line": 200,
+    "text": "Question: Is KR-976 really worthy of this crown?"
+  },
+  {
+    "line": 201,
+    "text": "Yeah. To me, Anju is the bravest princess."
+  },
+  {
+    "line": 202,
+    "text": "Anju raised her head and gave me a little smile. The crown looked crystal clear in the sun, just like her simple and kind mind."
+  },
+  {
+    "line": 203,
+    "text": "I took Anju Suzumiya to the haunted house. Looking at the wicked grimace on the doors, I felt like we should go somewhere else."
+  },
+  {
+    "line": 204,
+    "text": "Suddenly, I heard a hoarse male voice. A staff in clown costume was standing behind us."
+  },
+  {
+    "line": 205,
+    "text": "But I had never been to this haunted house either. The candle-shaped lamps on the wall glowed dimly in the dark, only lighting up a small area. The atmosphere was surely a fearful one."
+  },
+  {
+    "line": 208,
+    "text": "Wonder House"
+  },
+  {
+    "line": 211,
+    "text": "Woah—"
+  },
+  {
+    "line": 212,
+    "text": "We both screamed and started running forward while holding each other's hand. Behind us were some roaring faces that kept chasing after us. More obstacles kept coming out along the way, which made our escape even more difficult."
+  },
+  {
+    "line": 214,
+    "text": "But it wasn't the time for me to worry about Anju Suzumiya, as I realized that I had run into a dead end. I could hear some heavy footsteps patrolling not far away. Worried that I might alert more staff, I couldn't scream to Anju either."
+  },
+  {
+    "line": 215,
+    "text": "All of a sudden, a dark silhouette quickly approached me. Before I could scream, I heard a familiar voice."
+  },
+  {
+    "line": 216,
+    "text": "{var:player_nickname}?"
+  },
+  {
+    "line": 217,
+    "text": "Anju!"
+  },
+  {
+    "line": 218,
+    "text": "Shh—I, I found the way out."
+  },
+  {
+    "line": 219,
+    "text": "She was still catching her breath, and her hand was also shaking slightly."
+  },
+  {
+    "line": 221,
+    "text": "I must not leave {var:player_nickname} behind, because {var:player_nickname}... also looked very scared."
+  },
+  {
+    "line": 222,
+    "text": "Thank you, Anju."
+  },
+  {
+    "line": 224,
+    "text": "I followed Anju through a dark corridor and saw sunlight at an exit."
+  },
+  {
+    "line": 225,
+    "text": "It felt like a century when we finally stood in the sun again."
+  },
+  {
+    "line": 226,
+    "text": "KR-976 will work hard."
+  },
+  {
+    "line": 227,
+    "text": "Huh?"
+  },
+  {
+    "line": 228,
+    "text": "So... next time when we are in a haunted house, I can protect {var:player_nickname}."
+  },
+  {
+    "line": 229,
+    "text": "She looked up and promised me very seriously, as if it was very important. I gently rubbed the top of her head."
+  },
+  {
+    "line": 230,
+    "text": "That's great."
+  },
+  {
+    "line": 234,
+    "text": "Merry-go-round"
+  },
+  {
+    "line": 235,
+    "text": "Anju Suzumiya did a great job as a volunteer in the table tennis competition. To encourage her to participate in these activities more often, I decided to award her by inviting her to the amusement park."
+  },
+  {
+    "line": 236,
+    "text": "Is everything... okay?"
+  },
+  {
+    "line": 237,
+    "text": "Of course, I came prepared!"
+  },
+  {
+    "line": 238,
+    "text": "Anju Suzumiya seemed to realize that I was looking at her. She suddenly grabbed my hand and put it on her head. Did she want me to pat her?"
+  },
+  {
+    "line": 239,
+    "text": "I gently rubbed the top of her head. It was softer than I thought."
+  },
+  {
+    "line": 240,
+    "text": "What's an amusement park without roller coasters? Let's play \"Upside Down\"!"
+  },
+  {
+    "line": 241,
+    "text": "How about we start with \"Upside Down\"?"
+  },
+  {
+    "line": 242,
+    "text": "\"Upside Down\" was one of the most popular attractions of the amusement park. People loved it for its 60-meter vertical dive. Fortunately, we came early and the queue was fairly short. Soon, it was our turn to ride."
+  },
+  {
+    "line": 243,
+    "text": "Upside Down"
+  },
+  {
+    "line": 244,
+    "text": "To my surprise, I didn't hit the ground nor did I feel any pain. Instead, we fell into something soft. As we held onto each other and struggled to get up under the dim light, we realized the entrance was connected to a large pool filled with foam blocks. The Wonder House was surely full of wonder."
+  },
+  {
+    "line": 246,
+    "text": "The speakers hidden in the wall kept playing weird sounds. Frightened, Anju and I couldn't help but cling to each other's arm."
+  },
+  {
+    "line": 247,
+    "text": "But we couldn't just stand still. We mustered all the remaining courage and slowly dragged our feet toward the darkness ahead, step after step..."
+  },
+  {
+    "line": 248,
+    "text": "The first turn was only ten meters away from the entrance, but it felt like a marathon. Just when we tried to mentally prepare for the imminent unknown, I suddenly heard something squeak."
+  },
+  {
+    "line": 249,
+    "text": "Anju and I anxiously turned back. A silhouette was rapidly charging toward us from an open door and making some cracking sounds."
+  },
+  {
+    "line": 250,
+    "text": "As I ran past a corner, I suddenly realized Anju Suzumiya was lost. Staring at my empty hand, I remembered what the clown said. \"A special event for couples\"... Did he mean that couples would break up after leaving the haunted house?"
+  },
+  {
+    "line": 251,
+    "text": "Then why did you come back?"
+  },
+  {
+    "line": 252,
+    "text": "She was clearly frightened, but still concerned about me..."
+  },
+  {
+    "line": 254,
+    "text": "The speakers hidden in the walls kept playing weird sounds. Anju Suzumiya was so scared that she buried her head in my back, trembling. I felt like I had an electric motor on my back."
+  },
+  {
+    "line": 255,
+    "text": "I asked Anju to stay back and wait for me. However, just when I stepped around the corner, I was caught in a net and hung up in the air. The clown's voice could be heard over speakers everywhere."
+  },
+  {
+    "line": 256,
+    "text": "In fairy tales, brave princesses always defeat the evil dragons to save the heroes. Now, dear princess, to save your hero, you will need to go to the next location alone and bring back the magic item. Hehehehe—"
+  },
+  {
+    "line": 257,
+    "text": "I had never heard of such fairy tales, but whatever. Looking at Anju Suzumiya, I was seriously considering if I should just tell the staff that we give up. I just could not imagine Anju going to the unknown area and completing the task alone. That would be too much to ask."
+  },
+  {
+    "line": 258,
+    "text": "As Anju searched for the item to rescue me, I also tried to look for other clues. Somehow, I found a hidden block on the wall next to me. There was a piece of paper inside. On it was a logic puzzle."
+  },
+  {
+    "line": 259,
+    "text": "I flipped the paper over and saw a warning message written in red."
+  },
+  {
+    "line": 260,
+    "text": "Say your answer out loud, but remember to choose carefully.//nPick the right answer, and your teammate will be blessed by magic. He or she can easily arrive at the checkpoint and get the item.//nHowever, if you are wrong, your teammate will be cursed by devil and the difficulty of all the subsequent challenges will be doubled."
+  },
+  {
+    "line": 261,
+    "text": "On the wall next to us, a door opened from outside and sunlight removed all our fear. The clown stood at the door and invited us out."
+  },
+  {
+    "line": 262,
+    "text": "Anju and I both felt relieved as we stood in the sun again. The clown suddenly took out a crystal crown and got down on his knee, facing Anju."
+  },
+  {
+    "line": 263,
+    "text": "My brave princess, you didn't manage to kill the evil dragon, but we were still impressed as you fought hard for your partner. This crown marks our recognition of your spirit."
+  },
+  {
+    "line": 264,
+    "text": "Anju took the crown and put it in my hand."
+  },
+  {
+    "line": 265,
+    "text": "She looked up and gave me a happy smile. There was dust on her face, but the smiling Anju was just too lovely."
+  },
+  {
+    "line": 266,
+    "text": "On the wall next to us, a door opened from outside and the sun shone into the haunted house. The clown stood at the door and invited us out."
+  },
+  {
+    "line": 489,
+    "text": "2 Sou"
+  },
+  {
+    "line": 490,
+    "text": ""
+  }
+]

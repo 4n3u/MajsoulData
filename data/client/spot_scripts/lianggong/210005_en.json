@@ -1,0 +1,774 @@
+[
+  {
+    "line": 2,
+    "text": "……"
+  },
+  {
+    "line": 3,
+    "text": "Hey, sometimes you really should greet other people when seeing them..."
+  },
+  {
+    "line": 4,
+    "text": "Answer: KR-976 is a passive social artificial intelligence and will not respond before receiving an invitation."
+  },
+  {
+    "line": 5,
+    "text": "I guess she is just socially awkward..."
+  },
+  {
+    "line": 7,
+    "text": "Try not to embarrass her."
+  },
+  {
+    "line": 8,
+    "text": "You are just socially awkward, aren't you?"
+  },
+  {
+    "line": 9,
+    "text": "KR-976 is a social artificial intelligence specifically designed for social purposes. Maintaining social relationship is one of KR-976's basic funsion—ouch—"
+  },
+  {
+    "line": 10,
+    "text": "She bit her tongue. She was so nervous that she didn't even say her normal \"answer\" before replying to me. Seems she really is socially awkward."
+  },
+  {
+    "line": 11,
+    "text": "Social skills are very important basic skills in human life. You must learn them, Anju."
+  },
+  {
+    "line": 12,
+    "text": "Question: {var:player_nickname}, are you very good at socializing?"
+  },
+  {
+    "line": 13,
+    "text": "Of course I am!"
+  },
+  {
+    "line": 14,
+    "text": "Um, I don't really want to answer that question, but..."
+  },
+  {
+    "line": 15,
+    "text": "Everybody loves me, you know?"
+  },
+  {
+    "line": 18,
+    "text": "Question: How do I find out what the other person likes?"
+  },
+  {
+    "line": 19,
+    "text": "If it's someone you are meeting for the first time, you need to observe if he or she would like you to continue a particular topic. But if it's someone you already know, you will be able to find it out over time as you get to know each other better."
+  },
+  {
+    "line": 20,
+    "text": "System has decided that KR-976 is very good at socializing."
+  },
+  {
+    "line": 21,
+    "text": "How did you arrive at that conclusion?"
+  },
+  {
+    "line": 22,
+    "text": "Answer: Because {var:player_nickname} is the only human that KR-976 wants to know, and KR-976 understands what {var:player_nickname} likes very well. Therefore, KR-976 is considered as getting along with {var:player_nickname} very well. Hence, it is concluded that KR-976 is very good at socializing."
+  },
+  {
+    "line": 24,
+    "text": "It depends on what level of socializing. If it's just for day-to-day greeting..."
+  },
+  {
+    "line": 25,
+    "text": "Question: Will {var:player_nickname} actively greet everybody?"
+  },
+  {
+    "line": 26,
+    "text": "To greet everybody would be too much. I only say hello to those that I have a good relationship with."
+  },
+  {
+    "line": 27,
+    "text": "Question: Does {var:player_nickname} have a good relationship with many people?"
+  },
+  {
+    "line": 28,
+    "text": "Not... really."
+  },
+  {
+    "line": 29,
+    "text": "Question: Does {var:player_nickname} go out with friends and participate in outdoor recreational activities every day?"
+  },
+  {
+    "line": 30,
+    "text": "No, nope..."
+  },
+  {
+    "line": 31,
+    "text": "System has decided that {var:player_nickname} has poor social skills and is therefore not qualified to teach KR-976 social knowledge."
+  },
+  {
+    "line": 32,
+    "text": "I really want to end this topic..."
+  },
+  {
+    "line": 33,
+    "text": "Occasionally, Anju, you can try to greet others first."
+  },
+  {
+    "line": 34,
+    "text": "Question: If other people want to communicate with KR-976, they would come to KR-976 and initiate conversation. Why should KR-976 actively engage them?"
+  },
+  {
+    "line": 35,
+    "text": "What if you meet someone as introverted as you?"
+  },
+  {
+    "line": 36,
+    "text": "Answer: There is no need to interact with the same model of social artificial intelligence as KR-976."
+  },
+  {
+    "line": 37,
+    "text": "It's called being introverted!!! Don't just assume everybody is a robot!!!"
+  },
+  {
+    "line": 38,
+    "text": "Question: What is the purpose for KR-976 to actively greet them then?"
+  },
+  {
+    "line": 39,
+    "text": "The purpose of human communications... That's a very complicated topic..."
+  },
+  {
+    "line": 40,
+    "text": "To understand each other, of course."
+  },
+  {
+    "line": 41,
+    "text": "To find more topics in common, I'll say."
+  },
+  {
+    "line": 42,
+    "text": "People get to understand each other through communications. It's a crucial life skill."
+  },
+  {
+    "line": 43,
+    "text": "Question: Have {var:player_nickname} and KR-976 understood each other yet?"
+  },
+  {
+    "line": 44,
+    "text": "I'll say so. I know quite a lot of your habits and hobbies now. What about you? What do you know about me?"
+  },
+  {
+    "line": 45,
+    "text": "Answer with high emotional turbulence: A lot."
+  },
+  {
+    "line": 47,
+    "text": "Answer: Based on KR-976's observation of {var:player_nickname} last week, KR-976 has made a table of {var:player_nickname}'s daily life. The three most frequent activities are: drinking water, snooze, going to bathroom."
+  },
+  {
+    "line": 48,
+    "text": "I think that's what most people do..."
+  },
+  {
+    "line": 49,
+    "text": "Question: KR-976 has never recorded the all-day activities of other humans. Is there any intrinsic difference between {var:player_nickname} and other humans?"
+  },
+  {
+    "line": 50,
+    "text": "Not necessarily, but everybody is independent, so that makes the difference. For example, how do you differentiate me from others?"
+  },
+  {
+    "line": 51,
+    "text": "Answer: Your looks and voice."
+  },
+  {
+    "line": 52,
+    "text": "I can't say you are wrong... But aren't there any other intrinsic differences?"
+  },
+  {
+    "line": 53,
+    "text": "Answer: There is another very important reason. {var:player_nickname} is the only person that treats KR-976 very nicely."
+  },
+  {
+    "line": 54,
+    "text": "That's because I like you, Anju."
+  },
+  {
+    "line": 55,
+    "text": "Question: What do you mean by \"like\"?"
+  },
+  {
+    "line": 56,
+    "text": "When you like someone, you want to be nice to him or her and stay together every day. Something like that."
+  },
+  {
+    "line": 58,
+    "text": "Why am I suddenly feeling slightly guilty..."
+  },
+  {
+    "line": 59,
+    "text": "The purpose is to discover more common topics."
+  },
+  {
+    "line": 60,
+    "text": "Question: What does \"discover more common topics\" mean?"
+  },
+  {
+    "line": 61,
+    "text": "It's like when you play games, you need to talk to the NPC to get missions. Something like that."
+  },
+  {
+    "line": 62,
+    "text": "Question: Will KR-976 get missions by actively greeting {var:player_nickname}?"
+  },
+  {
+    "line": 63,
+    "text": "Probably not... But I will greet you back in a friendly manner."
+  },
+  {
+    "line": 64,
+    "text": "Question: {var:player_nickname} is already talking to KR-976 in a friendly manner. There seems to be no difference."
+  },
+  {
+    "line": 65,
+    "text": "You are right. How about I treat you to strawberry milk every time when you say hello to me in the future?"
+  },
+  {
+    "line": 66,
+    "text": "System decision: KR-976 has approved the proposal."
+  },
+  {
+    "line": 67,
+    "text": "I feel like I have fallen into a trap. It can't be..."
+  },
+  {
+    "line": 70,
+    "text": "Speaking of it, Anju, have you considered joining some group activities in the school?"
+  },
+  {
+    "line": 71,
+    "text": "Answer: No."
+  },
+  {
+    "line": 78,
+    "text": "No!!!"
+  },
+  {
+    "line": 80,
+    "text": "Anju has always trusted me. I should tell the truth."
+  },
+  {
+    "line": 82,
+    "text": "Question: {var:player_nickname} asked KR-976 to do so not because you were concerned about KR-976, but because you wanted to complete someone's task. Is that right?"
+  },
+  {
+    "line": 83,
+    "text": "This has nothing to do with any task!"
+  },
+  {
+    "line": 84,
+    "text": "This isn't just for the task."
+  },
+  {
+    "line": 85,
+    "text": "No, I just want to get Anju more involved in everyone else's life."
+  },
+  {
+    "line": 86,
+    "text": "Question: Does {var:player_nickname} want KR-976 to observe and understand humans to a greater extent?"
+  },
+  {
+    "line": 87,
+    "text": "...I can't say you are wrong."
+  },
+  {
+    "line": 89,
+    "text": "Question: Does {var:player_nickname} approve and accept KR-976?"
+  },
+  {
+    "line": 91,
+    "text": "Answer: If that is the reason, KR-976 is willing to try this job."
+  },
+  {
+    "line": 95,
+    "text": "player"
+  },
+  {
+    "line": 96,
+    "text": "Anju Suzumiya"
+  },
+  {
+    "line": 97,
+    "text": "Plus, if you agree to do this job... Wait, did you just accept it?"
+  },
+  {
+    "line": 98,
+    "text": "Answer: {var:player_nickname} has never lied to KR-976, so KR-976 is willing to believe you."
+  },
+  {
+    "line": 102,
+    "text": "One Han City is hosting a high school table tennis competition. All eligible schools in the city can participate in it."
+  },
+  {
+    "line": 103,
+    "text": "There is a shortage of staff due to the size of the competition. They have to find student volunteers, and Ren Kisaragi is one of them. But for some reason, his news & media team is struggling to find other volunteers."
+  },
+  {
+    "line": 107,
+    "text": "Ren Kisaragi"
+  },
+  {
+    "line": 111,
+    "text": "That was a flat-out refusal. But... there should be some room for negotiation."
+  },
+  {
+    "line": 112,
+    "text": "Anju, you seem to enjoy recording things that happen around you. There is a job just right for you in the upcoming table tennis competition. You will be in charge of the news reporting of the competition."
+  },
+  {
+    "line": 113,
+    "text": "Question: Has {var:player_nickname} received any commission from the competition?"
+  },
+  {
+    "line": 114,
+    "text": "Question: Then why are you trying to persuade KR-976 to become a volunteer?"
+  },
+  {
+    "line": 115,
+    "text": "Actually, I was asked by someone to help find volunteers."
+  },
+  {
+    "line": 116,
+    "text": "Yes, I think Anju is perfectly qualified for the volunteer work. I will be there with you too!"
+  },
+  {
+    "line": 117,
+    "text": "Ren Kisaragi asked me in the first place. But I'm only asking you because I have thought about it and I feel that you will be a good fit."
+  },
+  {
+    "line": 118,
+    "text": "Somehow, you are always surrounded by a large group of people. After careful consideration, I think the best option is to ask you to help find volunteers."
+  },
+  {
+    "line": 119,
+    "text": "The vice president was known for his serious attitude. I never expected him to think of me as so popular. Well, I should probably lend him a hand since he had high expectations of me."
+  },
+  {
+    "line": 120,
+    "text": "The moment I walked out, I \"accidentally\" bumped into Anju Suzumiya. Honestly, I don't think this is a coincidence. She's been appearing a lot around me recently, it would be a surprise if I don't see her some day."
+  },
+  {
+    "line": 121,
+    "text": "Question: What are the common things to note when dealing with humans?"
+  },
+  {
+    "line": 122,
+    "text": "In general, I would say just respect what they like and never purposely piss them off. If you remember these two points, you wouldn't have issues dealing with most people."
+  },
+  {
+    "line": 123,
+    "text": "You know me well because you have been stalking me every day!"
+  },
+  {
+    "line": 124,
+    "text": "But I don't feel the emotion in your words. Whatever, just tell me what you think of me."
+  },
+  {
+    "line": 125,
+    "text": "My mobile suddenly started to vibrate. It was Ren Kisaragi's text, he wanted to know what was going on. As I looked up and stared at the socially awkward girl, I had an idea."
+  },
+  {
+    "line": 127,
+    "text": "Apart from the trust in Anju Suzumiya's eyes, I also saw some eagerness. I guess she also wanted to be more involved, but she never had the opportunity and courage to do so."
+  },
+  {
+    "line": 128,
+    "text": "Maybe this volunteer role could help her make more friends. Thinking about this, I took her to Asaha High School to look for Ren Kisaragi."
+  },
+  {
+    "line": 129,
+    "text": "It was a weekend, but there were still lots of students around in Asaha High School for co-curricular activities. As the vice president, Ren Kisaragi was very easy to find."
+  },
+  {
+    "line": 130,
+    "text": "Of course, Anju Suzumiya also saw him."
+  },
+  {
+    "line": 131,
+    "text": "Question: Is that the target we are looking for? The male life form in black shirt?"
+  },
+  {
+    "line": 132,
+    "text": "How did you recognize him?"
+  },
+  {
+    "line": 133,
+    "text": "Asaha High School"
+  },
+  {
+    "line": 134,
+    "text": "Answer: He looks very serious, like a supervisor who would peek into a classroom from the rear window."
+  },
+  {
+    "line": 135,
+    "text": "...And how did you find out the teacher was peeking in the first place? You are really suspicious."
+  },
+  {
+    "line": 136,
+    "text": "Ren Kisaragi also saw us and came straight over."
+  },
+  {
+    "line": 137,
+    "text": "Good afternoon."
+  },
+  {
+    "line": 138,
+    "text": "After politely greeting me and Anju Suzumiya, he pushed his glasses and gave me a very serious look."
+  },
+  {
+    "line": 139,
+    "text": "It seems you have found another volunteer despite being 1 hour and 37 minutes late."
+  },
+  {
+    "line": 140,
+    "text": "To avoid the vice president's endless nagging, I pushed Anju Suzumiya forward."
+  },
+  {
+    "line": 141,
+    "text": "This is Anju Suzumiya. She is an excellent recorder. I think she will be a great fit for the news reporting position."
+  },
+  {
+    "line": 142,
+    "text": "Is she also a student of Dewdrop Middle School?"
+  },
+  {
+    "line": 143,
+    "text": "Out of habit, Ren Kisaragi took out his list of problematic students and glanced at it."
+  },
+  {
+    "line": 144,
+    "text": "Exactly as I expected, problematic students easily come to you. Including her, three volunteers have signed up today, and they happen to be the top three in the list of truancy in Dewdrop Middle School."
+  },
+  {
+    "line": 145,
+    "text": "You never mentioned anything about problematic students!"
+  },
+  {
+    "line": 147,
+    "text": "Why does your list contain students from other schools!?"
+  },
+  {
+    "line": 148,
+    "text": "Wait a sec! When you texted me, you only said people would come to me. You never mentioned they were problematic students!"
+  },
+  {
+    "line": 149,
+    "text": "Is that so? I might have typed it wrong. Sorry for not conveying the accurate information."
+  },
+  {
+    "line": 150,
+    "text": "You are apologizing for the wrong thing!"
+  },
+  {
+    "line": 151,
+    "text": "You are the vice president of the student council of Asaha High School. Why does your list of problematic students contain those from other schools?!"
+  },
+  {
+    "line": 152,
+    "text": "I'm just preparing in advance before they go to high school."
+  },
+  {
+    "line": 153,
+    "text": "Do you really have to... think so far ahead?"
+  },
+  {
+    "line": 154,
+    "text": "It's getting late and there are lots of preparation to be done before the competition. We need to form different groups. The other two volunteers are Sora Ichinose and Ayako Morikawa, both from the same school with Anju Suzumiya. Who do you pick?"
+  },
+  {
+    "line": 155,
+    "text": "Ayako Morikawa is a girl, Anju may feel less social pressure with her."
+  },
+  {
+    "line": 156,
+    "text": "Ichinose is very smart. It's going to be very easy working with him."
+  },
+  {
+    "line": 157,
+    "text": "I looked at Anju Suzumiya and asked tentatively."
+  },
+  {
+    "line": 158,
+    "text": "Can we go with Ayako Morikawa?"
+  },
+  {
+    "line": 159,
+    "text": "Answer: Yes."
+  },
+  {
+    "line": 160,
+    "text": "Anju seemed to be a lot quieter because of Ren Kisaragi the \"supervisor\". I turned around and took a glace: she kept hiding behind me, writing something."
+  },
+  {
+    "line": 163,
+    "text": "In order for Anju to go to Asaha High School, I better not let Ren Kisaragi see her notebook."
+  },
+  {
+    "line": 164,
+    "text": "Classroom on the first floor"
+  },
+  {
+    "line": 165,
+    "text": "After waving good-bye to Ren Kisaragi, I followed his instructions and took Anju Suzumiya to a classroom on the first floor. Ayako Morikawa was waiting for us."
+  },
+  {
+    "line": 166,
+    "text": "Ah! This is what I was worrying about!"
+  },
+  {
+    "line": 167,
+    "text": "How about you introduce yourselves first?"
+  },
+  {
+    "line": 168,
+    "text": "Ayako Morikawa"
+  },
+  {
+    "line": 169,
+    "text": "Answer: We have already introduced ourselves to each other."
+  },
+  {
+    "line": 170,
+    "text": "Yeah."
+  },
+  {
+    "line": 171,
+    "text": "When did that happen? How come I have no idea at all?!"
+  },
+  {
+    "line": 172,
+    "text": "Answer: According to the system record, this female named Ayako Morikawa is KR-976's classmate."
+  },
+  {
+    "line": 173,
+    "text": "Great, so that's how they know each other. I almost thought they could really communicate via telepathy. Now I feel a lot more relieved."
+  },
+  {
+    "line": 174,
+    "text": "But why is it so quiet again? Please, anybody, just say something. This is too awkward."
+  },
+  {
+    "line": 175,
+    "text": "Just when I was struggling to find a topic, the two girls suddenly nodded to each other and headed out together."
+  },
+  {
+    "line": 176,
+    "text": "What are you doing?"
+  },
+  {
+    "line": 177,
+    "text": "Answer: We are about to start today's filming work."
+  },
+  {
+    "line": 178,
+    "text": "What? Do you already know what to do?"
+  },
+  {
+    "line": 179,
+    "text": "Answer: Ayako Morikawa had already transferred today's work schedule to KR-976 just now."
+  },
+  {
+    "line": 180,
+    "text": "It's so nice... KR-976 is able to receive my magic transmission..."
+  },
+  {
+    "line": 181,
+    "text": "Ayako Morikawa wasn't loud, but I still heard what she was mumbling. What is this? Some sort of hybrid of artificial intelligence and magic?"
+  },
+  {
+    "line": 182,
+    "text": "How exactly did they communicate?"
+  },
+  {
+    "line": 183,
+    "text": "Bursting with curiosity, I followed them into the practice court of the table tennis club and started filming."
+  },
+  {
+    "line": 185,
+    "text": "Ren Kisaragi gave us volunteer IDs in advance, so the students in the table tennis club were very cooperating after seeing our IDs, saving us the trouble of communication. Otherwise, I could not imagine how these two girls could talk to them."
+  },
+  {
+    "line": 186,
+    "text": "Anju Suzumiya and Ayako Morikawa were like best partners. They never talked much, but the work progressed very well as one of them took the photos and the other wrote down notes."
+  },
+  {
+    "line": 187,
+    "text": "We finished the task in less than an hour and returned to the classroom we were in."
+  },
+  {
+    "line": 188,
+    "text": "Table tennis practice court"
+  },
+  {
+    "line": 189,
+    "text": "It was a comparison between Ren Kisaragi and the student supervisor!"
+  },
+  {
+    "line": 190,
+    "text": "As we sorted out the materials collected, I checked the camera and found something horrible."
+  },
+  {
+    "line": 191,
+    "text": "None of Ayako Morikawa's photos were usable. They either had ghosting or were just too blurry... I thought for a while and tried to tell them in a polite way."
+  },
+  {
+    "line": 192,
+    "text": "Don't you think these photos are a bit strange?"
+  },
+  {
+    "line": 193,
+    "text": "I just... My photos just captured the true form... of their souls."
+  },
+  {
+    "line": 194,
+    "text": "KR-976 also thinks these photos are an accurate portrayal of the motion of players at that time."
+  },
+  {
+    "line": 195,
+    "text": "She's not wrong about the motion. The models were all moving at high speed."
+  },
+  {
+    "line": 196,
+    "text": "But we can't see what the players look like in these photos."
+  },
+  {
+    "line": 197,
+    "text": "KR-976 thinks these athletes would prefer people to remember their postures than their looks. Therefore KR-976 thinks these photos are perfect and are best suited for our report."
+  },
+  {
+    "line": 198,
+    "text": "The real form of souls... is the most genuine portrayal."
+  },
+  {
+    "line": 201,
+    "text": "What can I do? I feel like they have persuaded me and I can't find any counter argument. Besides, I don't want to offend these two cute girls... Better let that serious vice president do it."
+  },
+  {
+    "line": 202,
+    "text": "Can we go with Sora Ichinose?"
+  },
+  {
+    "line": 203,
+    "text": "Answer: Yes. According to the system record, Sora Ichinose is KR-976's hardly seen classmate."
+  },
+  {
+    "line": 204,
+    "text": "I thought you were in the same class. Why do you hardly see each other?"
+  },
+  {
+    "line": 205,
+    "text": "Answer: Because whenever one of us went to school, the other was always on leave."
+  },
+  {
+    "line": 206,
+    "text": "When did you meet last time?"
+  },
+  {
+    "line": 207,
+    "text": "Answer: At the new student ceremony when we first enrolled."
+  },
+  {
+    "line": 208,
+    "text": "...That was long ago. If it wasn't for this event, the next time you see each other would probably be the new student ceremony of your high school..."
+  },
+  {
+    "line": 209,
+    "text": "Answer: The probability of this is only 16.66% based on the number of high schools in One Han City. It is possible that we may apply for different high schools."
+  },
+  {
+    "line": 210,
+    "text": "I suddenly started to question whether they could complete this task. After waving good-bye to Ren Kisaragi, I took Anju Suzumiya to her work partner."
+  },
+  {
+    "line": 212,
+    "text": "Good afternoon... Um, Kisaragi-senpai just told me on the phone that we would work together today."
+  },
+  {
+    "line": 213,
+    "text": "Let me do the introduction then. This is your classmate, Anju Suzumiya."
+  },
+  {
+    "line": 214,
+    "text": "H-hello. I saw your name on the class list... Um, we don't really know each other, but... I hope we can finish the interview together today."
+  },
+  {
+    "line": 215,
+    "text": "Agree."
+  },
+  {
+    "line": 216,
+    "text": "Hiding behind my back, Anju Suzumiya answered in a whisper. Both of them were extremely shy, but at least they didn't resist each other. Thinking that the work could go ahead smoothly, I felt relieved."
+  },
+  {
+    "line": 217,
+    "text": "I brought them to the table tennis practice court that Ren Kisaragi mentioned. We weren't given the task of filming, so we didn't have to take photos of the players. All we needed to do was to describe the practice and the players' conditions in text."
+  },
+  {
+    "line": 218,
+    "text": "Science room on the second floor"
+  },
+  {
+    "line": 219,
+    "text": "Sora Ichinose"
+  },
+  {
+    "line": 222,
+    "text": "I looked at Anju Suzumiya's record and was deeply impressed. In her notebook, she clearly wrote down the daily activities of the seeded player she was observing, from the moment we started working all the way until this player finished the exercise for today..."
+  },
+  {
+    "line": 223,
+    "text": "I then opened Sora Ichinose's notebook. It was full of different parabolas, illustrated by some small red text."
+  },
+  {
+    "line": 226,
+    "text": "I gave them a big smile after closing the notebooks."
+  },
+  {
+    "line": 227,
+    "text": "That's all for today. Very well done, you two."
+  },
+  {
+    "line": 228,
+    "text": "Two of them did a great job today. As for how to turn the materials collected into a news report, I should leave it to the vice president."
+  },
+  {
+    "line": 230,
+    "text": "When we entered the science room on the second floor, Sora Ichinose was concentrating on the Rubik's cube in his hands. After seeing us, he took a notebook and walked over."
+  },
+  {
+    "line": 231,
+    "text": "Anju Suzumiya and Sora Ichinose entered the court and started working. I saw seriousness and concentration on their faces, and I trusted they would give Ren Kisaragi a satisfactory report."
+  },
+  {
+    "line": 232,
+    "text": "As time went by, the sun went down and the players finished their practice for the day. Both of them came to me in satisfaction and handed me their notebooks."
+  },
+  {
+    "line": 233,
+    "text": "\"During this serve, if the racket turns outward 5 more degrees, the ball would land in a better position.\""
+  },
+  {
+    "line": 234,
+    "text": "It's getting late"
+  },
+  {
+    "line": 235,
+    "text": "System has decided that KR-976 also likes {var:player_nickname}."
+  },
+  {
+    "line": 237,
+    "text": "\"Here, if the power from the wrist increases by 11% during smashing, the ball would fall closely to the table edge without going out-of-bounds.\""
+  },
+  {
+    "line": 238,
+    "text": "Supervisor         Vice president//nBald                Potentially bald in future//nMid-aged man                Handsome by human standards//nSerious, wears glasses     Serious, wears glasses//n...…"
+  }
+]

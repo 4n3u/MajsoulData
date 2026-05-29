@@ -1,0 +1,1930 @@
+[
+  {
+    "line": 1,
+    "text": "Although my calendar says it is already autumn, the scorching heat tells me otherwise. I retract my hand from the iron railing outside, which is hot enough to fry eggs on, and confirm that the hot spell during autumn this year is fiercer than previous years in One Han City."
+  },
+  {
+    "line": 2,
+    "text": "There are very few things that can attract me to go out in such hot weather, but the performance of Soul is one of them. Of course, one reason is that Ryan claimed last week that he will perform a new magic show today, and he wants to dedicate his first show to the best onee-sama in the world."
+  },
+  {
+    "line": 3,
+    "text": "So, to ensure that all citizens who will brave the scorching hot weather today to watch the magic show today can enjoy it, I..."
+  },
+  {
+    "line": 4,
+    "text": "Actually, not that I think about it, I didn't sacrifice anything and even gained a lot from this."
+  },
+  {
+    "line": 5,
+    "text": "After all, the performances were far more exciting than I expected. The singing and dancing were as good as ever, and Ryan's magic tricks were amazing. I'm still reliving the performances even though the show has already ended for a while"
+  },
+  {
+    "line": 6,
+    "text": "The only thing that ruined my perfect experience was that Ciri and her partner Mojito the leopard, who always put on brilliant performances, did not perform on stage this time."
+  },
+  {
+    "line": 7,
+    "text": "As I exit in an \"orderly\" manner with the crowd, I overhear two members of the audience whispering to each other."
+  },
+  {
+    "line": 8,
+    "text": "Audience A"
+  },
+  {
+    "line": 9,
+    "text": "{character:Audience A}Why did they change the program without notifying us in advance?"
+  },
+  {
+    "line": 10,
+    "text": "Audience B"
+  },
+  {
+    "line": 11,
+    "text": "{character:Audience B}I know right! I came just to see Mojito."
+  },
+  {
+    "line": 12,
+    "text": "{character:Audience A}Could something have happened at the last minute?"
+  },
+  {
+    "line": 13,
+    "text": "{character:Audience B}I hope not. I don't want anything bad to happen to my Mojito or Ciri."
+  },
+  {
+    "line": 14,
+    "text": "{character:Audience A}I'll come again tomorrow. I hope I'll see them then."
+  },
+  {
+    "line": 15,
+    "text": "Their conversation reminds me to take a closer look at the program and see that Ciri and Mojito were supposed to perform today. I recall the performances according to the order in the program, and remember that a number of song and dance performances were held in their slot. Is it possible that the program was changed so last minute that there wasn't even time to notify the audience?"
+  },
+  {
+    "line": 16,
+    "text": "The greatest advantage of following the crowd is that you don't have to consider which direction you're moving in because you have no choice but to follow the flow, which is why I wasn't successful in stopping to greet Sara when I passed by her at the exit. I shouted her name out twice, but she didn't seem to hear me."
+  },
+  {
+    "line": 17,
+    "text": "Sara doesn't look like her usual self today. Her carefree cat-like demeanor has been replaced with a grave and slightly anxious expression. Having known Sara for so long, I rarely see her make this expression unless something is seriously wrong."
+  },
+  {
+    "line": 18,
+    "text": "After some thought, I decide to ask her what has happened. In fact, I'm very skilled at moving against the flow of the crowd. I just need to..."
+  },
+  {
+    "line": 19,
+    "text": "player"
+  },
+  {
+    "line": 20,
+    "text": "{character:player}Excuse me, please let me through... Thank you."
+  },
+  {
+    "line": 21,
+    "text": "{character:player}Coming through... Thank you."
+  },
+  {
+    "line": 22,
+    "text": "{character:player}Sir, can you let me through? You can keep going after that... Thanks."
+  },
+  {
+    "line": 23,
+    "text": "{character:player}Sorry... Excuse me... Ugh, don't worry about it..."
+  },
+  {
+    "line": 24,
+    "text": "Even someone so determined and polite as I struggled quite a bit to get through the crowd, and my feet were stepped on several times before I finally arrive in front of Sara. When she sees my shadow in front of her, she raises her head and looks at me."
+  },
+  {
+    "line": 25,
+    "text": "Sara"
+  },
+  {
+    "line": 26,
+    "text": "{character:Sara}Oh, it's you. Are you happy with today's performance?"
+  },
+  {
+    "line": 27,
+    "text": "{character:player}It was great, but it was a shame that Ciri didn't perform."
+  },
+  {
+    "line": 28,
+    "text": "{character:Sara}Ciri, huh..."
+  },
+  {
+    "line": 29,
+    "text": "Sara sounds a little hesitant. It looks like Ciri is the reason why Sara's expression is like this today. Paying attention to my tone, I ask her tentatively about the situation."
+  },
+  {
+    "line": 30,
+    "text": "{character:player}Ciri didn't perform today. Did something happen to her?"
+  },
+  {
+    "line": 31,
+    "text": "{character:Sara}No, she said she just needs to take some time off because of something that happened at the last minute, but..."
+  },
+  {
+    "line": 32,
+    "text": "{character:player}But you're worried about her because that isn't what she would usually do, am I right?"
+  },
+  {
+    "line": 33,
+    "text": "{character:Sara}Oh, since when did you start preemptively answering questions?"
+  },
+  {
+    "line": 34,
+    "text": "{character:player}It was easy for me to guess because your expression makes it too obvious."
+  },
+  {
+    "line": 35,
+    "text": "{character:Sara}Am I that obvious? It looks like I'm letting my guard down too easily now after becoming more familiar with you, hehe."
+  },
+  {
+    "line": 36,
+    "text": "{character:Sara}What I'm worried about isn't that she suddenly needed to take leave. I'm worried because it made me think of a rumor I heard about recently in the troupe."
+  },
+  {
+    "line": 37,
+    "text": "{character:player}A rumor?"
+  },
+  {
+    "line": 38,
+    "text": "{character:Sara}Yes. I guess it's alright if I tell you. You can even help me analyze the situation."
+  },
+  {
+    "line": 39,
+    "text": "{character:Sara}Recently, several members have told me that Ciri has been going to Countless Springs often. Although she said she couldn't perform today due to a last-minute reason, I'm worried that she has gone there."
+  },
+  {
+    "line": 40,
+    "text": "{character:player}Countless Springs... The name sounds familiar. I think I heard someone mention it..."
+  },
+  {
+    "line": 41,
+    "text": "{character:Sara}Countless Springs is the largest geisha house in One Han City, as well as the residence of Kurone Toujou, one of the Four Greats. Hehe, I don't believe that you don't know about it."
+  },
+  {
+    "line": 42,
+    "text": "Sara's words remind me that I had heard Kaguyahime mention this place before, but she only said it was where Kurone Toujou lived without mentioning anything else. What is making Sara so worried?"
+  },
+  {
+    "line": 43,
+    "text": "{character:player}I think she should be fine if she has just gone to Countless Springs."
+  },
+  {
+    "line": 44,
+    "text": "{character:Sara}It would be okay if it was anyone else, but since it's Ciri... You should know that although Countless Springs is also a place where people perform, it is a completely different world."
+  },
+  {
+    "line": 45,
+    "text": "{character:Sara}Countless Springs is a paradise for the rich. A ticket costs enough to pay for all the daily expenses of everyone in Soul. Even if we ignore how Ciri managed to get so much money to spend there for now, based on what I know about Ciri, she isn't interested in such pleasures and won't spend money in such a luxurious place."
+  },
+  {
+    "line": 46,
+    "text": "{character:Sara}That's why I'm worried... that someone might be threatening or blackmailing her."
+  },
+  {
+    "line": 47,
+    "text": "{character:player}Have you asked Ciri about it?"
+  },
+  {
+    "line": 48,
+    "text": "{character:Sara}Of course I have, but... Ciri is someone who won't change her mind once it's made. I can see that she isn't willing to tell me what's really going on, but there's nothing I can do about it. Sigh..."
+  },
+  {
+    "line": 49,
+    "text": "{character:player}Sara, is there anything I can do for you?"
+  },
+  {
+    "line": 50,
+    "text": "{character:Sara}Well, you've already helped Soul a lot..."
+  },
+  {
+    "line": 51,
+    "text": "Sara sighs deeply. She has sighed many times since I saw her today."
+  },
+  {
+    "line": 52,
+    "text": "After hesitating for a while, she pulls my sleeve gently."
+  },
+  {
+    "line": 53,
+    "text": "{character:Sara}Although I want to stick to my decision to not bother you, you are like timely rain right now for me and Soul. If it's possible, can you help us again this time?"
+  },
+  {
+    "line": 54,
+    "text": "Sara's expression relaxes slightly after I nod in agreement, but this isn't a good place to talk as it is too hot."
+  },
+  {
+    "line": 55,
+    "text": "Sara brings me back to the venue. All members of the audience have already left, and the only person in the audience stand is Ryan, who is stuffing all the rabbits into his hat one by one. When he notices that we've come in, he cleverly runs over and sits on a chair next to us."
+  },
+  {
+    "line": 56,
+    "text": "Ryan"
+  },
+  {
+    "line": 57,
+    "text": "{character:Ryan}It looks like you'll be staying here today to help us out today."
+  },
+  {
+    "line": 58,
+    "text": "Sara and I look at each other. Ryan guessed correctly, but there's nothing to hide from him since he knows what has happened. After that, Sara tells me what she thinks."
+  },
+  {
+    "line": 59,
+    "text": "Women usually have private troubles. Since Sara is the leader of the troupe, she often has to deal with internal problems of Soul. As an outsider, it might not be suitable for me to get involved every time."
+  },
+  {
+    "line": 60,
+    "text": "Moreover, given our relationship, I believe she'll definitely come to me for help if she thinks I can help her with anything. With this thought in mind, I decide not to bother her for now."
+  },
+  {
+    "line": 61,
+    "text": "I turn around and plan to go straight home. To my surprise, I am \"ambushed\" from behind right after I left the crowd and turn around the corner. A pair of pale, slender, and thin hands land on my shoulders with both index fingers pressing against my cheeks so that I can't turn my head. The drawn-out sound made by this person has the hoarseness unique to a voice that is currently changing."
+  },
+  {
+    "line": 62,
+    "text": "???"
+  },
+  {
+    "line": 63,
+    "text": "{character:???}Can you guess who I am?"
+  },
+  {
+    "line": 64,
+    "text": "{character:player}Well, who can it be?"
+  },
+  {
+    "line": 65,
+    "text": "{character:player}Leon?"
+  },
+  {
+    "line": 66,
+    "text": "{character:???}Onee-sama! Can you tell me who this Leon is?"
+  },
+  {
+    "line": 67,
+    "text": "Ryan takes two steps towards me with his hands behind his back and looks right at me. He places extra emphasis when he says the word \"onee-sama.\""
+  },
+  {
+    "line": 68,
+    "text": "{character:player}Haha, well..."
+  },
+  {
+    "line": 69,
+    "text": "{character:Ryan}Don't tell me you've replaced me with another magician! Is he as obedient to you as I am? Or are his magic tricks better than mine? Or did I do something to make you dislike me...?"
+  },
+  {
+    "line": 70,
+    "text": "Seeing the boy sound more and more depressed, I decide to stop teasing him."
+  },
+  {
+    "line": 71,
+    "text": "{character:player}No, I was just teasing you, Ryan. I thought you like to play games like this."
+  },
+  {
+    "line": 72,
+    "text": "{character:player}Leonardo?"
+  },
+  {
+    "line": 73,
+    "text": "{character:???}Onee-sama, you're so mean. You're saying that on purpose, aren't you?"
+  },
+  {
+    "line": 74,
+    "text": "Ryan takes two steps towards me with his hands behind his back and looks right at me. Although he sounds cheerful, his eyes are narrowed, and he is obviously unhappy that I didn't say his name when I made my guess."
+  },
+  {
+    "line": 75,
+    "text": "{character:Ryan}Onee-sama, you said my name wrong on purpose, right? It's definitely not because that person called Leonardo has played this same game with you before, right?"
+  },
+  {
+    "line": 76,
+    "text": "Seeing that the boy's thoughts are getting more and more wild, I quickly call out for him to stop."
+  },
+  {
+    "line": 77,
+    "text": "{character:player}Haven't I told you not to make irresponsible comments before? Leonardo and I don't have that kind of relationship."
+  },
+  {
+    "line": 78,
+    "text": "{character:player}I really was just teasing you, Ryan. I'm telling the truth. It's not my fault you like to play games like this."
+  },
+  {
+    "line": 79,
+    "text": "{character:player}Ryan."
+  },
+  {
+    "line": 80,
+    "text": "{character:???}I knew that the best onee-sama in the world would recognize me."
+  },
+  {
+    "line": 81,
+    "text": "Ryan takes two steps towards me with his hands behind his back and looks right at me. He smiles brightly, revealing two cute canine teeth. I smile helplessly at the youth in front of me who is still a child at heart."
+  },
+  {
+    "line": 82,
+    "text": "{character:player}Why do you like to play games like this recently?"
+  },
+  {
+    "line": 83,
+    "text": "{character:Ryan}It's because I'm worried you'll like someone else."
+  },
+  {
+    "line": 84,
+    "text": "{character:player}Like... someone else?"
+  },
+  {
+    "line": 85,
+    "text": "{character:Ryan}Yeah! You're so kind to me, so I'm sure that some people are jealous of me and want to take your special attention for themselves. I'll be very sad if some fraud steals you from me."
+  },
+  {
+    "line": 86,
+    "text": "{character:Ryan}So you must promise me that you'll never mistake someone else for me."
+  },
+  {
+    "line": 87,
+    "text": "Although I want to tell him that he's worrying about nothing, Ryan is very serious about these things. He won't let the topic drop if he doesn't get a definite answer today."
+  },
+  {
+    "line": 88,
+    "text": "It's possible that tomorrow, the day after tomorrow, or three days later... until the scorching summer becomes the cold winter, I might have to crawl out of bed to watch Soul's performances and become a permanent member of the audience."
+  },
+  {
+    "line": 89,
+    "text": "{character:player}Okay, I promise you."
+  },
+  {
+    "line": 90,
+    "text": "{character:Ryan}Wow! You're the best!"
+  },
+  {
+    "line": 91,
+    "text": "{character:Ryan}And I'm so happy you really did come to watch my performance today."
+  },
+  {
+    "line": 92,
+    "text": "{character:player}I promised, so of course I'll come."
+  },
+  {
+    "line": 93,
+    "text": "{character:Ryan}Sigh... If I knew that Ciri would take the day off, I would've prepared more tricks to perform during her time slot. That way I'll be able to perform more magic tricks for you."
+  },
+  {
+    "line": 94,
+    "text": "I wanted to say that the song and dance performance that was held today wasn't bad, but I warily realized what the problem was just before I said those words, and said something else immediately."
+  },
+  {
+    "line": 95,
+    "text": "{character:player}It is a shame, but it's okay since you can do that next time... But I don't come and watch every performance, so I'm not sure. Does Ciri ask for leave like today often?"
+  },
+  {
+    "line": 96,
+    "text": "{character:Ryan}No, everyone in the troupe knows that Ciri and Sara are both dedicated workaholics. They perform almost every time and even cover for other members who can't perform at the last minute."
+  },
+  {
+    "line": 97,
+    "text": "{character:Ryan}Of course, I'm very hardworking too. I put my heart and soul into each performance you watch. I don't try so hard when you're not around, but I still complete my performance pretty well."
+  },
+  {
+    "line": 98,
+    "text": "Ryan doesn't forget to praise himself while talking, and I nod in agreement. It's my professional ethics as his onee-sama to recognize the efforts of my adorable \"little brother\" in a timely manner."
+  },
+  {
+    "line": 99,
+    "text": "{character:player}Then do you know why Ciri asked for leave this time?"
+  },
+  {
+    "line": 100,
+    "text": "{character:Ryan}You'll need to ask the leader that because Ciri spoke to her privately when she asked for leave. However, I have guessed one possible reason. Do you want to hear it?"
+  },
+  {
+    "line": 101,
+    "text": "{character:player}Yes."
+  },
+  {
+    "line": 102,
+    "text": "{character:Ryan}Then don't forget to reward me after you finish hearing it."
+  },
+  {
+    "line": 103,
+    "text": "{character:player}What reward?"
+  },
+  {
+    "line": 104,
+    "text": "{character:Ryan}I want you to give me a big hug just for me that lasts for three minutes... no, make it five minutes."
+  },
+  {
+    "line": 105,
+    "text": "I look around me and notice that there is almost no one around us, so I nod and agree to his condition."
+  },
+  {
+    "line": 106,
+    "text": "{character:Ryan}Recently, a rumor that Ciri is going to Countless Springs often is spreading through the troupe. That place is an okiya for geishas as well as where one of the Four Greats lives, and the tickets are super expensive."
+  },
+  {
+    "line": 107,
+    "text": "When I hear him mention the Four Greats, I suddenly remember that Kaguyahime did indeed say that Kurone Toujou is at Countless Springs."
+  },
+  {
+    "line": 108,
+    "text": "{character:Ryan}Everyone is guessing whether Ciri has gone there again today. Some people are even questioning how she has money to spend there. I think that's what Sara has been worried about recently."
+  },
+  {
+    "line": 109,
+    "text": "{character:Ryan}After all, Ciri never bothers to explain herself due to her personality. As a result, the rumors spreading in the troupe have intensified instead of subsiding."
+  },
+  {
+    "line": 110,
+    "text": "I've handled some of Soul's problems with Sara before, so I know a thing or two about their financial situation. Soul is not rich--in fact, they are struggling a little financially, so I can understand why some members are unhappy about Ciri spending money at a high-end place. It will be difficult to settle this matter unless Ciri gives everyone a reasonable explanation."
+  },
+  {
+    "line": 111,
+    "text": "Ryan shakes my arm unhappily, probably because I've been thinking for a little too long."
+  },
+  {
+    "line": 112,
+    "text": "{character:Ryan}I wouldn't have told you about this if I knew you would think about them instead of me. Sigh..."
+  },
+  {
+    "line": 113,
+    "text": "{character:Ryan}But I have a good idea to stop you from thinking about them all the time. If you're really so worried, why don't you ask Sara about it directly? You two are almost as close as we are."
+  },
+  {
+    "line": 114,
+    "text": "Ryan has a good point, so I decide to go with him to Sara and ask if she needs any help. Of course, I had to hug him for five minutes first as promised."
+  },
+  {
+    "line": 115,
+    "text": "I think that Ryan must be the most clingy person in One Han City."
+  },
+  {
+    "line": 116,
+    "text": "When we find Sara, she is sitting alone in the now-empty front row of the audience stand after the show and staring into space with a very distressed expression on her face."
+  },
+  {
+    "line": 117,
+    "text": "I sit in the empty seat next to her, and she makes a surprised expression when she sees me."
+  },
+  {
+    "line": 118,
+    "text": "{character:Sara}You're still here?"
+  },
+  {
+    "line": 119,
+    "text": "{character:player}I just heard about Ciri's situation from Ryan and wanted to ask you if there's anything I can do to help."
+  },
+  {
+    "line": 120,
+    "text": "{character:player}Huh?"
+  },
+  {
+    "line": 120,
+    "text": "{character:Sara}Huh?"
+  },
+  {
+    "line": 121,
+    "text": "Sara looks at me and then at Ryan. She sighs heavily like she is conflicted about something."
+  },
+  {
+    "line": 122,
+    "text": "{character:Ryan}You should just tell onee-sama, or else onee-sama won't sleep well tonight. It's not good to affect onee-sama's sleep quality."
+  },
+  {
+    "line": 123,
+    "text": "I won't lose any sleep over it, but I can hear that Ryan is trying to help me persuade Sara to let go of her burden and tell me what's wrong. Wait... Is it possible that his true purpose all along has been to get me to help Sara?"
+  },
+  {
+    "line": 124,
+    "text": "I turn to look at Ryan, but I dismiss my thought when I look at the innocent expression on his face."
+  },
+  {
+    "line": 125,
+    "text": "{character:Sara}To tell you the truth, I do need your help. It's just that I've troubled you so many times already, and I feel like you'll worry too much about Soul if I ask you for help every time anything goes wrong."
+  },
+  {
+    "line": 126,
+    "text": "{character:player}I like everyone here at Soul, so I'm happy to do anything within my abilities to help."
+  },
+  {
+    "line": 127,
+    "text": "{character:player}Also, I don't like seeing you in such low spirits, Sara. I prefer to see you glowing with confidence like when you're dancing."
+  },
+  {
+    "line": 128,
+    "text": "{character:Sara}Haha, I didn't expect you to praise me so suddenly. I won't hold back then. Has Ryan already told you what has happened?"
+  },
+  {
+    "line": 129,
+    "text": "I nod. Sara purses her lips and continues."
+  },
+  {
+    "line": 130,
+    "text": "{character:Sara}Although Soul is a touring troupe and most of its members are from other places, we have met customers from various industries who have come to watch our performances because we've become slightly famous in One Han City. One of these customers told me that I can go to Strix I want to know more about anything that I've encountered here in One Han City."
+  },
+  {
+    "line": 131,
+    "text": "{character:player}What's that?"
+  },
+  {
+    "line": 132,
+    "text": "{character:Sara}It's the largest intelligence organization in One Han City. There's nothing they don't know or can't find out in One Han City."
+  },
+  {
+    "line": 133,
+    "text": "{character:player}Do you want them to investigate Ciri?"
+  },
+  {
+    "line": 134,
+    "text": "{character:Sara}Actually, I'm not worried that she will do anything bad because she has always been very self-disciplined..."
+  },
+  {
+    "line": 135,
+    "text": "Sara suddenly smiles, as if she has remembered something happy."
+  },
+  {
+    "line": 136,
+    "text": "{character:Sara}You can even say that I would be less worried if she really is just living luxuriously because that means she isn't in any danger and has learned to live more comfortably."
+  },
+  {
+    "line": 137,
+    "text": "{character:Sara}I just want Strix to find out if Countless Springs will bring any danger to Ciri and Soul. That's all."
+  },
+  {
+    "line": 138,
+    "text": "{character:Sara}If Ciri really is in any danger, she won't let us know and will even hide from us because she is afraid of implicating us. Sigh..."
+  },
+  {
+    "line": 139,
+    "text": "{character:player}The way you're sighing makes you look like a parent who is worrying about their daughter during their rebellious phase."
+  },
+  {
+    "line": 140,
+    "text": "{character:Sara}That's actually not far off. After all, to me, Soul is a big family and I'm their parent. It's my duty and obligation to take care of each and every one of them."
+  },
+  {
+    "line": 141,
+    "text": "{character:player}That sounds tough."
+  },
+  {
+    "line": 142,
+    "text": "{character:Sara}But I also learn a lot from them. Haven't you also experienced that?"
+  },
+  {
+    "line": 143,
+    "text": "{character:player}I guess so. Well, how can I contact Strix then?"
+  },
+  {
+    "line": 144,
+    "text": "{character:Sara}I know how to contact them, but the troupe is going through a lot at the moment, and I need to deal with them. So... I'll have to rely on you who I trust the most to contact them for me."
+  },
+  {
+    "line": 145,
+    "text": "{character:player}The way you're asking me to help you makes you sound like an NPC giving out a quest in an RPG."
+  },
+  {
+    "line": 146,
+    "text": "{character:Sara}Haha, doesn't that mean I'll need to prepare some rewards for you? Hehe."
+  },
+  {
+    "line": 147,
+    "text": "{character:Ryan}Sara, I suggest that you give me to onee-sama as the reward. Onee-sama and I won't mind."
+  },
+  {
+    "line": 148,
+    "text": "{character:player}Hmm... I can consider it if you don't eat much. If you eat a lot, then that's not happening."
+  },
+  {
+    "line": 149,
+    "text": "{character:Sara}Hahahaha--"
+  },
+  {
+    "line": 150,
+    "text": "Although Sara is smiling the whole time during our conversation, this is the first time she has smiled from her heart today. Ryan and I look at each other and nod like we've come to some agreement when we see her looking more relaxed."
+  },
+  {
+    "line": 151,
+    "text": "{character:Ryan}But I'll go too if onee-sama is going. This organization sounds dangerous, and I don't feel at ease if onee-sama goes alone."
+  },
+  {
+    "line": 152,
+    "text": "{character:player}No, One Han City isn't a lawless place, and someone who is underage like you must be protected."
+  },
+  {
+    "line": 153,
+    "text": "{character:Sara}Haha, you're underestimating Ryan. The children here at Soul may be young, but they've been on tour with us since they were little, so they have a lot of experience with society."
+  },
+  {
+    "line": 154,
+    "text": "{character:Sara}Especially Ryan who is the most resourceful and creative among them. How else can he become Soul's head magician at his age?"
+  },
+  {
+    "line": 155,
+    "text": "After listening to Sara's words, I turn my head to look thoughtfully at Ryan."
+  },
+  {
+    "line": 156,
+    "text": "{character:player}I thought I remember a certain someone saying they are just a child who doesn't know anything."
+  },
+  {
+    "line": 157,
+    "text": "{character:Ryan}Onee-sama, I didn't lie to you. I only know how to deal with bad people. In front of someone as kind, righteous, and brave like you, I need to do my best just to ensure that you don't dislike me..."
+  },
+  {
+    "line": 158,
+    "text": "Ryan makes an innocent expression as he pours words of praise like they don't cost anything. I must admit that he has the glib tongue of a magician and can talk so smoothly that you'll forget how he just turned plain water into red wine."
+  },
+  {
+    "line": 159,
+    "text": "But I can't say no to him. Who wouldn't consider themselves an outstanding person? So, I've decided to bring Ryan along. It's not because he seems to be doing better than me in One Han City and I could use some help."
+  },
+  {
+    "line": 160,
+    "text": "Ryan asks Sara about the secret code and process that must be followed to contact Strix. Apparently, there's some form of contest involved, but Sara doesn't know what we'll encounter as it's them who decide how the contest will be carried out."
+  },
+  {
+    "line": 161,
+    "text": "This makes me feel nervous too. When I think about it seriously, this is the first time I've done something like this in One Han City. At this moment, I can't tell whether I'm anxious, excited, or looking forward to it."
+  },
+  {
+    "line": 162,
+    "text": "Relying on the information Sara gave us, Ryan and I come to the entrance of an ordinary dojo. It looks like a very ordinary dojo no matter how I look at it. The signboard at the door looks old. Its corners are damaged, and the words on it are missing a few strokes."
+  },
+  {
+    "line": 163,
+    "text": "But as the saying goes, appearances can be deceiving, and things can hide in plain sight. Maybe it looks completely different inside. After taking a deep breath, I push open the doors and enter."
+  },
+  {
+    "line": 164,
+    "text": "When I walk up to the cash register, I see a snowy owl decoration there just as Sara said. It looks adorable, but I wonder if it delivers acceptance letters."
+  },
+  {
+    "line": 165,
+    "text": "While I'm feeling bad for the snowy owl I've never met that has been lost for more than ten years, Ryan steps forward and presses the switch at the base gently. The snowy owl in front of him starts glowing with a milky white halo, which makes the waiter sitting nearby look at us and walk over."
+  },
+  {
+    "line": 166,
+    "text": "{character:Ryan}We want to have a contest."
+  },
+  {
+    "line": 167,
+    "text": "The waiter switches off the light of the snowy owl without saying anything and leads us past a hall with two or three tables of people playing games to a private room."
+  },
+  {
+    "line": 168,
+    "text": "The room is a fully enclosed space with no doors or windows other than the entrance. There are some yellowed calligraphy scrolls and paintings hanging on the wall, as well as a mahjong table and four chairs in the middle of the room. The waiter leaves after asking us to wait."
+  },
+  {
+    "line": 169,
+    "text": "{character:player}Judging from the situation, do you think the contest is a mahjong game?"
+  },
+  {
+    "line": 170,
+    "text": "{character:Ryan}For all we know, it could be a mahjong solitaire game. Have you played those before? They are really fun, and I used to play them before learning how to play mahjong from onee-sama."
+  },
+  {
+    "line": 171,
+    "text": "After a few minutes, the waiter returns with two men. I recognize them as they were playing mahjong in the hall outside just then. They look like ordinary people you would see in the neighborhood and don't have other special characteristics."
+  },
+  {
+    "line": 172,
+    "text": "The waiter indicates for the four of us to sit at the mahjong table before explaining the contest to Ryan."
+  },
+  {
+    "line": 173,
+    "text": "Although I guessed that the contest may be a mahjong game, I didn't expect it to be a 2v2 mahjong game, and the challenger must finish in first place to qualify to meet the leader of Strix. After listening to the waiter's explanation of the rules, I feel really lucky that Ryan came with me, or else they would probably randomly select a Jyanshi around the same level to be my partner."
+  },
+  {
+    "line": 174,
+    "text": "2v2 mahjong games are quite common in mahjong-themed manga, but most games played in real life are played individually. I'm not too confident in winning if we play like this, moreover..."
+  },
+  {
+    "line": 175,
+    "text": "I turn my head to see Ryan looking at me innocently with wide eyes. I taught him how to play mahjong! And it hasn't been long since I taught him... Is it really possible for someone at my level to teach a mahjong prodigy?"
+  },
+  {
+    "line": 176,
+    "text": "But we have no choice but to bite the bullet now."
+  },
+  {
+    "line": 177,
+    "text": "Waiter"
+  },
+  {
+    "line": 178,
+    "text": "{character:Waiter}Among you two, who will be the challenger, and who will be the supporter?"
+  },
+  {
+    "line": 179,
+    "text": "Ryan and I look at each other and can't decide immediately. The waiter seems to be used to this situation and suggests that we leave our fate to luck if we can't decide."
+  },
+  {
+    "line": 180,
+    "text": "After that, he picks up an empty glass bottle, places it on the ground between Ryan and me, and spins it hard... When the bottle stops spinning, I see that the mouth of the bottle is pointing at me. The waiter looks at me and then nods."
+  },
+  {
+    "line": 181,
+    "text": "{character:Waiter}It looks like you'll be the challenger for today."
+  },
+  {
+    "line": 182,
+    "text": "Although I want to complain that this way of making a decision is too hasty, I don't have any better solution. In short, I'll need to finish in first place no matter what if I want to meet the leader of Strix today."
+  },
+  {
+    "line": 183,
+    "text": "{character:Ryan}Don't worry, onee-sama. You just need to be confident in your own mahjong skills. Don't forget that I'm also here to help."
+  },
+  {
+    "line": 184,
+    "text": "Ryan notices that I'm nervous and pats my shoulder. His words actually do help me relax a little because I feel happy that I'm not fighting alone."
+  },
+  {
+    "line": 185,
+    "text": "Since things have come to this, worrying won't give me the luck I need to get a Blessing of Heaven or Thirteen Orphans to defeat the other players at the beginning of the game. Thinking too much will just make me more nervous, so I might as well take it step by step."
+  },
+  {
+    "line": 186,
+    "text": "The rules of the fast-paced East Wind round will apply to our contest. After the first East game starts, I think about it and decide to observe my opponents first."
+  },
+  {
+    "line": 187,
+    "text": "After all, it's public knowledge that there are many hidden experts in One Han City. These two friendly men who look like they are ordinary neighbors might end up with really high scores when they win."
+  },
+  {
+    "line": 188,
+    "text": "Dojo Jyanshi B"
+  },
+  {
+    "line": 189,
+    "text": "{character:Dojo Jyanshi B}Chii."
+  },
+  {
+    "line": 190,
+    "text": "The player opposite me has already started with Tile Calls soon after the game starts. I look at his style of play and find it a little confusing. Why is he calling Chii for 45 Pin? Is it just his style or what?"
+  },
+  {
+    "line": 191,
+    "text": "Dojo Jyanshi A"
+  },
+  {
+    "line": 192,
+    "text": "{character:Dojo Jyanshi A}Oh..."
+  },
+  {
+    "line": 193,
+    "text": "Chii again after just one turn? Just this alone isn't enough to identify the opponent's style of play. After all, this is a team battle, and the player to my right is his teammate, which means his teammate can feed the tiles he needs to him."
+  },
+  {
+    "line": 194,
+    "text": "At this time, the player opposite me has already made two Tile Calls, and I can see South and White in his discarded tiles. Although we can't stop the player to my right from feeding tiles to the player opposite me because of our position, at the very least, we need to avoid playing tiles in a way to speed up their pace, such as by keeping this West in my hand..."
+  },
+  {
+    "line": 195,
+    "text": "{character:Dojo Jyanshi B}Pon!"
+  },
+  {
+    "line": 196,
+    "text": "While I'm thinking about how I can hold on to the West Wind in my hand, Ryan plays a West tile, which the player opposite me Pons."
+  },
+  {
+    "line": 197,
+    "text": "{character:player}Eh?"
+  },
+  {
+    "line": 198,
+    "text": "{character:Ryan}Sorry, onee-sama... I-I shouldn't have played that tile?"
+  },
+  {
+    "line": 199,
+    "text": "Ryan turns towards me slightly and asks me that after realizing something from the doubtful sound I made."
+  },
+  {
+    "line": 200,
+    "text": "{character:player}It's okay. You would eventually play the West Wind in your hand sooner or later."
+  },
+  {
+    "line": 201,
+    "text": "{character:player}Moreover, the Dora of this game isn't really related to Pin tiles. The player will get a Half Flush with the Seat Wind at most... I think."
+  },
+  {
+    "line": 202,
+    "text": "When I look at the open sequences of 345 Pin and 678 Pin in front of the opponent opposite me, I'm secretly glad that there aren't any other types of Yaku like Pure Straight or Half Outside Hand, to increase the points the opponent will get from a Half Flush or a Full Flush. But I haven't seen the red 5 Pin yet, so I can only pray that they don't have it."
+  },
+  {
+    "line": 203,
+    "text": "{character:Ryan}So will we be okay if we don't give them any Pin tiles?"
+  },
+  {
+    "line": 204,
+    "text": "{character:player}The opponent played an Honor tile first and even played the tiles next to the Dora without any hesitation. He probably is going for a Half Flush or a Full Flush... so we better hold on to all our Pin tiles for now."
+  },
+  {
+    "line": 205,
+    "text": "However, the situation that followed was worse than we imagined. Before we can even start stacking the discarded piles, the opponent opposite me had already accumulated three open calls. Even if the player to my right decides to not let the other player win so easily in consideration of the total points, the player opposite me will have the chance to Tsumo soon."
+  },
+  {
+    "line": 206,
+    "text": "I look at my hand that's 2 tiles from Tenpai in front of me and sigh silently... It's so hard to master the essence of 2v2 mahjong."
+  },
+  {
+    "line": 207,
+    "text": "{character:Dojo Jyanshi B}Tsumo. 2,000, 3,900."
+  },
+  {
+    "line": 208,
+    "text": "After a few turns, the opponent opposite me plays a Tsumo and wins, ending the first East game."
+  },
+  {
+    "line": 209,
+    "text": "{character:player}He really did have the red 5 Pin..."
+  },
+  {
+    "line": 211,
+    "text": "The current point gap is still within an acceptable range. As long as we don't have any accidents, it shouldn't be too hard for Ryan and me to seize our opportunities to win."
+  },
+  {
+    "line": 212,
+    "text": "But... According to the laws of the universe, when you least want an accident is usually when you have one."
+  },
+  {
+    "line": 213,
+    "text": "{character:Dojo Jyanshi A}Tsumo, dealer repeat, All Triplets--That's 4,000 from everyone."
+  },
+  {
+    "line": 214,
+    "text": "{character:player}I only have 5,000-point sticks left. Please give me 1,000 in change."
+  },
+  {
+    "line": 215,
+    "text": "I couldn't stop them from feeding tiles to each other even though I have my turn before them. They seem to have some kind of psychic connection and know what tiles they need. At this moment, I truly understand the difficulty of 2v2 mahjong."
+  },
+  {
+    "line": 217,
+    "text": "Neither Ryan nor I have more points than we started with, whereas because the opponent opposite me has won the first East game, they will be able to maintain a safe lead in terms of points even with his team member getting a Tsumo."
+  },
+  {
+    "line": 218,
+    "text": "I need to think of something..."
+  },
+  {
+    "line": 219,
+    "text": "{character:Ryan}Onee-sama, you look so serious right now. You're completely different from when you usually play mahjong."
+  },
+  {
+    "line": 220,
+    "text": "{character:Ryan}It's only the second game of the East round. We still have many chances to turn the situation around, so try to relax a little."
+  },
+  {
+    "line": 221,
+    "text": "{character:player}You're right. I seem to be a little too nervous."
+  },
+  {
+    "line": 222,
+    "text": "The point gap isn't so bad that we have no hope. I take a deep breath and try to calm down. Panicking is one of the worse things that can happen while playing mahjong. I just need to think of a way to reverse the situation now."
+  },
+  {
+    "line": 224,
+    "text": "Ryan unfortunately makes a deal-in that gives the opponent opposite him 2,300 points. But what's worse than losing the points is that the opponent on the opposite side is now in the dealer's position. We must do something in the third game of the East round, or else they keep collaborating with each other to make the difference bigger and bigger..."
+  },
+  {
+    "line": 225,
+    "text": "{character:Ryan}Onee-sama you're frowning again. You look so cute."
+  },
+  {
+    "line": 226,
+    "text": "{character:player}Huh?"
+  },
+  {
+    "line": 227,
+    "text": "{character:Ryan}Sigh... It looks like the mistake I made earlier had made you even more nervous. Please let me take care of you tonight to make up for it."
+  },
+  {
+    "line": 228,
+    "text": "{character:player}Is that something you should be thinking about right now?"
+  },
+  {
+    "line": 229,
+    "text": "{character:Ryan}Hehe, I'm just joking."
+  },
+  {
+    "line": 230,
+    "text": "{character:Ryan}Onee-sama, don't think too much. Just play like you usually do. If you don't have any particularly good ideas, just put your trust in the opportunities I'll create for you."
+  },
+  {
+    "line": 231,
+    "text": "{character:player}Then won't all the pressure be on you?"
+  },
+  {
+    "line": 232,
+    "text": "{character:Ryan}The best thing I can do for you is to share your load, onee-sama. If you feel uneasy, you can hug me for a full five minutes afterwards."
+  },
+  {
+    "line": 233,
+    "text": "{character:player}For some reason I don't feel uneasy now. I wonder why?"
+  },
+  {
+    "line": 234,
+    "text": "I pat my cheeks after talking and joking with Ryan. He's right in the sense that I've only been thinking about what I should do since a while ago, but this is a game of 2v2 mahjong, and I've played mahjong with Ryan many times, so we should know each other's style of playing."
+  },
+  {
+    "line": 235,
+    "text": "{character:player}Ryan, I'll be relying on you then."
+  },
+  {
+    "line": 236,
+    "text": "Ryan smiles happily at me upon hearing my response. The new game is starting."
+  },
+  {
+    "line": 238,
+    "text": "In the first turn, I draw a North Wind tile that's a guest wind to me. It's not bad, but the development of my hand is a little tricky."
+  },
+  {
+    "line": 239,
+    "text": "I could aim for Seven Pairs, or I could aim for sequences... It'll just be slower. If I want to aim for triplets, it won't be that easy to get 2, 3, 6, or 8 from our opponents, so I'm nowhere near assembling All Triplets."
+  },
+  {
+    "line": 240,
+    "text": "{character:player}Sorry, can I think for a little longer?"
+  },
+  {
+    "line": 241,
+    "text": "{character:Dojo Jyanshi A}That's okay."
+  },
+  {
+    "line": 242,
+    "text": "I'm starting to understand how to play 2v2 mahjong now, and my losses in the first few rounds are like the tuition fee I paid for this understanding."
+  },
+  {
+    "line": 243,
+    "text": "If you don't use special means such as secret signs, the key to working well with your teammate lies in how much information you can get from their discarded tiles. Also, when your hand is one that takes more time to win, a feasible tactic is to wait for the last tile needed to form a triplet, so the opportunity remains to disrupt the drawing order, let your teammate draw an extra tile, or feed yourself a tile."
+  },
+  {
+    "line": 244,
+    "text": "Due to our seating order, I'm the one who benefits from the tiles Ryan plays, so I need to find a way to help Ryan understand what I need from my discarded tiles."
+  },
+  {
+    "line": 245,
+    "text": "It isn't that I haven't considered putting pressure on our opponents by playing a Riichi, but based on the play style they just showed us, they will feed tiles quickly to try to end the game sooner, and if it's necessary, they will let one of them get to negative points just to end the game directly..."
+  },
+  {
+    "line": 246,
+    "text": "{character:player}Sorry for making you wait so long."
+  },
+  {
+    "line": 247,
+    "text": "There are too many possibilities... I don't have the ability to foresee the future, so it's possible that overthinking things may distort my own play style. I'll discard the North Wind first to see what happens."
+  },
+  {
+    "line": 249,
+    "text": "I don't seem to be having much luck with building a sequence, but my Seven Pairs is only 2 tiles away from Tenpai. However, most of the tiles in my hand are in the middle range, and I don't have any Dora. Even if I form Seven Pairs, it won't be an ideal Tenpai hand."
+  },
+  {
+    "line": 250,
+    "text": "It's impossible for me to make any Sanshoku combinations now because I'm missing too many tiles..."
+  },
+  {
+    "line": 251,
+    "text": "According to normal tile efficiency, my best option is to discard the 3 Pin, but after thinking about it for a while, I finally decide to discard the 7 Man instead."
+  },
+  {
+    "line": 252,
+    "text": "I remember someone telling me about the superstition regarding Seven Pairs. When trying to assemble Seven Pairs, the two tiles that act as the Suji will attract each other, making them easier to get..."
+  },
+  {
+    "line": 253,
+    "text": "How can I believe in that something like that at this moment? Everything I've done so far is to keep the 6 Pin so I can use it as bait later on to trick my opponents into playing a 3 Pin when I can almost play a Riichi!"
+  },
+  {
+    "line": 254,
+    "text": "{character:Dojo Jyanshi A}So are you the type that likes to think through everything carefully when you play mahjong?"
+  },
+  {
+    "line": 255,
+    "text": "{character:player}I've got to think of something at this stage in the game... Hold on, that 8 Pin..."
+  },
+  {
+    "line": 256,
+    "text": "I fall deep into thought while looking at the 8 Pin discarded by the opponent on my right. At this stage, even if I Pon this 8 Pin, it won't change the Tenpai of my hand, and there's a high chance that I'll be restricted to making All Triplets if no one plays West Wind later in the game. With my hand, I'll need more than 2 useful tiles to get Tenpai with All Triplets. Once another player makes a Riichi, the unrelated tiles in my hand will not help me stop them from winning."
+  },
+  {
+    "line": 257,
+    "text": "But... the player on my right seems to have glanced at his teammate's discards before playing this 8 Pin. If he is intentionally feeding this 8 Pin, the power of their teamwork again will be on display again if I don't interrupt them."
+  },
+  {
+    "line": 258,
+    "text": "{character:Ryan}Onee-sama, trust your instincts. Do what you think is right."
+  },
+  {
+    "line": 259,
+    "text": "{character:player}What if I'm wrong?"
+  },
+  {
+    "line": 260,
+    "text": "{character:Ryan}Didn't I just tell you? When you don't have any particularly good ideas, just believe in me."
+  },
+  {
+    "line": 261,
+    "text": "{character:player}Okay... then."
+  },
+  {
+    "line": 262,
+    "text": "I've considered the advantages and the disadvantages. It's time to decide what to do."
+  },
+  {
+    "line": 263,
+    "text": "{character:player}I'm okay. Let's continue."
+  },
+  {
+    "line": 264,
+    "text": "After considering all the factors, I decide to let this 8 Pin go. Since 1 Sou hasn't appeared yet, it might still be possible to win more points with my Seven Pairs. If I count the bonuses from Ura Dora, it might even be possible to reverse the situation with an Ippatsu."
+  },
+  {
+    "line": 265,
+    "text": "{character:player}Tsumo. 1,600, 3,200."
+  },
+  {
+    "line": 266,
+    "text": "As I expected, the final form of my hand is Seven Pairs. Although it's a pity that I don't have any Ura Doras, I should be able to reduce the gap between my points and the opponents' points."
+  },
+  {
+    "line": 267,
+    "text": "{character:player}Pon."
+  },
+  {
+    "line": 268,
+    "text": "{character:Dojo Jyanshi B}Tsk..."
+  },
+  {
+    "line": 270,
+    "text": "Given the current situation, I should try to form pairs with my hand or try to get West Wind as Yaku. There are a lot of unrelated tiles in my hand, so the next draw will be very important."
+  },
+  {
+    "line": 271,
+    "text": "I try to imagine the final hand the opponent wants to have after feeding the 8 Pin. Since the 8 Pin is near the edge, the hand could be something like All Simples or a Fully Outside Hand. It's not possible to tell from the discarded tiles yet in the fifth turn. Since it could be a Half Flush or a Full Flush, it would be better to dispose of my Pin tiles as soon as possible."
+  },
+  {
+    "line": 272,
+    "text": "Previously, while cooperating with Ryan, I paid special attention to the order in which he discarded tiles. He discarded 3 Man, North Wind, 1 Man, then White Dragon. Except for the North Wind tile that was directly discarded when it was drawn, the other three were discarded from his hand."
+  },
+  {
+    "line": 273,
+    "text": "Because of how unusual it is to discard 3 Man before discarding 1 Man, I have a feeling about what hand he has..."
+  },
+  {
+    "line": 274,
+    "text": "After thinking for a long time, I decide to be safe than sorry as reading too much into the tiles can have the opposite effect. I make the conventional decision to discard a 3 Pin, and the game progresses without any surprises."
+  },
+  {
+    "line": 275,
+    "text": "Although I managed to stop my opponent from feeding his partner an 8 Pin with a Pon, I didn't get any tiles that could stop their feeding behavior in the next few turns. The only good news is that this round ended in a four-way draw and we didn't lose much."
+  },
+  {
+    "line": 276,
+    "text": "{character:player}Ryan, do you believe in my talent for magic?"
+  },
+  {
+    "line": 277,
+    "text": "{character:Ryan}I do. Are you preparing to hold a grand magic show?"
+  },
+  {
+    "line": 278,
+    "text": "{character:player}I'm not sure if it'll be grand or not, but I have a magic trick that is performed purely by intuition! It's called point reversal magic!"
+  },
+  {
+    "line": 279,
+    "text": "I choose to trust my instincts and play 2 Man."
+  },
+  {
+    "line": 280,
+    "text": "{character:Ryan}Let me guess. This is the one you want!"
+  },
+  {
+    "line": 281,
+    "text": "{character:player}Bingo! Pon!"
+  },
+  {
+    "line": 282,
+    "text": "Without any hesitation, I instantly Pon the 3 Man that Ryan plays for me. Since he played the 3 Man before the 1 Man, Ryan probably had 1334 Man in his starting hand, and he chose to consolidate his hand later after he got better options."
+  },
+  {
+    "line": 283,
+    "text": "Our two opponents take a quick look at each other and no longer look as confident as they were earlier. They seem to have noticed the tacit understanding between me and Ryan."
+  },
+  {
+    "line": 284,
+    "text": "After that, I discard my Pin tiles according to the plan I devised earlier, and was lucky enough to get a concealed West Wind triplet. I take a look at my hand, which is 12268 Sou, West, West, West, 333 Man, and 888 Pin. I've already reached Tenpai, but is this really good..."
+  },
+  {
+    "line": 285,
+    "text": "I've only seen one 7 Sou in the discarded tiles, and I've only seen 5 and 6 Sou appear once. The number of remaining 7 Sou isn't very ideal, but an even bigger problem is the points. Even if I take the tiles they discard, they won't lose many points if they lost against West Wind worth only 1 Han."
+  },
+  {
+    "line": 286,
+    "text": "Is it really a good idea to discard a Dora and Tenpai like this?"
+  },
+  {
+    "line": 287,
+    "text": "After mulling over it for a while, I choose to discard 1 Sou and Tenpai first. My past experience tells me that sometimes a small number of points like this make a difference when making a comeback. Things add up, and it's only the third game of the East round right now. I better be practical and make safe choices."
+  },
+  {
+    "line": 288,
+    "text": "In the end, I manage to Ron a 7 Sou from the player on my right. Even though I won't be able to make up for the massive difference at once, it's a good thing to survive a round in which an opponent is the dealer."
+  },
+  {
+    "line": 289,
+    "text": "Now that things have come to this point, winning with 1 Han isn't very impressive and won't give me very many points. If I want to make a comeback, I'll be under even greater pressure in the fourth game of the East round."
+  },
+  {
+    "line": 290,
+    "text": "Moreover, I just boasted that I would show Ryan my reversal magic. How can the round end like this? I choose to discard the 8 Sou!"
+  },
+  {
+    "line": 291,
+    "text": "In addition to waiting for a red 5 Sou to improve my hand, I'm also looking forward to one other possibility..."
+  },
+  {
+    "line": 292,
+    "text": "Although I have Tenpai again, this isn't the result I'm looking for. After drawing a 3 Sou, I play a 6 Sou so that I continue to Tenpai and wait for the tile I'm seeking. My current hand is now 1226 Sou, West, West, West, 3 Sou, 333 Man, and 888 Pin."
+  },
+  {
+    "line": 293,
+    "text": "To my surprise, Ryan draws the 2 Sou I need to Ron in the next turn."
+  },
+  {
+    "line": 294,
+    "text": "{character:Ryan}Onee-sama?"
+  },
+  {
+    "line": 295,
+    "text": "After noticing my gaze lingering on the 2 Sou he just played, Ryan seems to guess what I'm conflicted about. Instead of telling me to hurry up, he waits patiently for me to make a decision."
+  },
+  {
+    "line": 296,
+    "text": "{character:player}Sorry, Ryan, I'll take that tile and win this round."
+  },
+  {
+    "line": 297,
+    "text": "It's now the 14th turn. From a practical point of view, it's safer to survive the round in which an opponent is the dealer first. Although I won't make up for the huge difference, all points will add up, so I should be practical and get all the points I can get first."
+  },
+  {
+    "line": 298,
+    "text": "Rising up at the expense of your teammates is something adults automatically learn while growing up. I take a look at the innocent Ryan. Although I get a little guilty, I hope he won't take back too many points from me."
+  },
+  {
+    "line": 299,
+    "text": "Since we're already in the third game of the East round, 2 Han is obviously not enough for me to catch up to my opponents. All my previous decisions were made for this moment. I discard a 3 Sou. Now all I need is a 1 Sou to win with more points."
+  },
+  {
+    "line": 300,
+    "text": "West Wind, All Triplets, Dora 2 Mangan Tenpai--I'll be able to reverse the situation if I win by calling Ron on either of our opponents."
+  },
+  {
+    "line": 301,
+    "text": "{character:Ryan}Onee-sama, remember to hug me tightly for five minutes."
+  },
+  {
+    "line": 302,
+    "text": "{character:player}..."
+  },
+  {
+    "line": 303,
+    "text": "When I see Ryan play 1 Sou right away, I feel happy about my ability to manage my expressions."
+  },
+  {
+    "line": 304,
+    "text": "Such a big sacrifice for a five-minute hug?! Wait a minute, this isn't the time to complain about a five-minute hug!"
+  },
+  {
+    "line": 305,
+    "text": "What should I do... Ron with Ryan's 1 Sou? Although this will reduce the distance between my opponents and me, Ryan's points will drop to 8,700, which is dangerous as he will be within the striking range of a Haneman..."
+  },
+  {
+    "line": 306,
+    "text": "{character:player}Sorry Ryan, I'll take that 1 Sou and win this one."
+  },
+  {
+    "line": 307,
+    "text": "{character:Ryan}Hehe."
+  },
+  {
+    "line": 308,
+    "text": "Ryan props his chip up on his hand resting on the table and waves his other hand in front of me. Although I did feel a little guilty about stepping on my teammate for my own success, I no longer feel guilty since I sacrificed myself for this outcome."
+  },
+  {
+    "line": 309,
+    "text": "It's a good thing I didn't Riichi, or else it'll be so awkward right now. I choose to ignore this tile."
+  },
+  {
+    "line": 310,
+    "text": "Ryan smiles at me and then plays a second 1 Sou."
+  },
+  {
+    "line": 311,
+    "text": "I respond with deafening silence. Ryan, please don't play a third 1 Sou!"
+  },
+  {
+    "line": 312,
+    "text": "{character:Dojo Jyanshi A}Looks like you haven't reached Tenpai..."
+  },
+  {
+    "line": 313,
+    "text": "The opponent opposite to me looks at me suspiciously, then he shakes his head and plays the third 1 Sou."
+  },
+  {
+    "line": 314,
+    "text": "{character:player}Ron."
+  },
+  {
+    "line": 315,
+    "text": "{character:Dojo Jyanshi B}Huh?!"
+  },
+  {
+    "line": 316,
+    "text": "{character:Dojo Jyanshi A}You ignored the tile twice? Heh, you sure are calm and collected."
+  },
+  {
+    "line": 317,
+    "text": "{character:player}You'll find out the secret to a magic trick if you watch it enough times. The most important part of the magic trick is the cover-up."
+  },
+  {
+    "line": 318,
+    "text": "{character:Ryan}Oh...! Onee-sama, you're very talented in magic. I'll need to study my magic tricks harder in the future so that you won't see through them."
+  },
+  {
+    "line": 319,
+    "text": "I managed to confuse my opponents by ignoring the tile I needed twice. As a result, the opponent opposite to me played the last 1 Sou I needed, which allowed me to Ron with enough points to take me back to second place."
+  },
+  {
+    "line": 320,
+    "text": "I'm not too worried about the East 4 game because Ryan still has enough points. After gaining some experience, Ryan and I get better at helping each other. The most important thing is that the tile luck didn't make things difficult for us, so we managed to finish in first place with a small lead in points."
+  },
+  {
+    "line": 321,
+    "text": "{character:Waiter}Okay... got it. Congratulations! Our leader is happy with your performance and has agreed to meet you."
+  },
+  {
+    "line": 322,
+    "text": "{character:Ryan}This is great! Onee-sama, I just knew we would be amazing as a team."
+  },
+  {
+    "line": 323,
+    "text": "{character:player}That's right. By the way, you've improved a lot, Ryan, and you managed to help me out at just the right time several times. You must be really talented at reading the tiles."
+  },
+  {
+    "line": 324,
+    "text": "{character:Ryan}Haha... It's probably because I was so excited to be able to play a mahjong game with you as your partner that I managed to do so well."
+  },
+  {
+    "line": 325,
+    "text": "{character:Ryan}Onee-sama, why don't we play more 2v2 mahjong as a team in the future? I'm confident that we'll become great Jyanshi in 2v2 mahjong."
+  },
+  {
+    "line": 326,
+    "text": "{character:player}I know you're exaggerating, but it does sound pretty tempting."
+  },
+  {
+    "line": 327,
+    "text": "I finally relax now that we've won the game, and I even feel mentally exhausted. I can't believe how tired this battle of wits has made me."
+  },
+  {
+    "line": 328,
+    "text": "The waiter walks over to a wall after congratulating us and stops in front of a painting that is as tall as a person. In the painting are eight beauties that are racing and a fairly eye-catching stamp in the upper right corner with the character \"Yu\", meaning authority or control. Although it has become yellow with time, it's still quite obvious that this is a high-quality work."
+  },
+  {
+    "line": 329,
+    "text": "{character:player}This painting is quite good."
+  },
+  {
+    "line": 330,
+    "text": "{character:Ryan}I think so too. There are enough people for two mahjong tables."
+  },
+  {
+    "line": 331,
+    "text": "While Ryan and I admire the painting, the waiter takes it down. What shocks me is that behind the painting is a narrow door that is just wide enough for one person to pass through!"
+  },
+  {
+    "line": 332,
+    "text": "The most shocking thing, however, is that the waiter scans their eye to unlock the door. There's actually such advanced technology in this dojo! So many secrets are hidden in this utterly ordinary dojo."
+  },
+  {
+    "line": 333,
+    "text": "After we enter through the narrow door behind the waiter, we find ourselves in a passage with warm yellow lights. The ground doesn't seem to be flat, and even seems to be a gentle downward slope. I guess that we're probably walking to a basement."
+  },
+  {
+    "line": 334,
+    "text": "Although I wanted to talk to Ryan about some things, I notice the solemn expressions on the faces of the waiter in front of us and our two mahjong opponents who are walking behind us. Everything seems so serious that I choose to keep my mouth shut."
+  },
+  {
+    "line": 335,
+    "text": "Ryan, on the other hand, doesn't seem to sense this heavy atmosphere and starts to chat with the waiter."
+  },
+  {
+    "line": 336,
+    "text": "{character:Ryan}Oji-san, can I ask you something?"
+  },
+  {
+    "line": 337,
+    "text": "{character:Waiter}Oji-san? I... Do I look that old?"
+  },
+  {
+    "line": 338,
+    "text": "{character:Ryan}Eh? Oh... Actually, where I grew up, all men who look mature are addressed as oji-san."
+  },
+  {
+    "line": 339,
+    "text": "{character:Waiter}I see."
+  },
+  {
+    "line": 340,
+    "text": "{character:player}Haha--"
+  },
+  {
+    "line": 341,
+    "text": "After hearing what they are saying, I fail to stop myself from laughing and catching everyone's attention. I control my urge to smile and manage my expression to not give Ryan away."
+  },
+  {
+    "line": 342,
+    "text": "{character:Ryan}Well, I want to know why the contest takes place as a 2v2 mahjong game."
+  },
+  {
+    "line": 343,
+    "text": "{character:Waiter}The leader came up with that idea because it's a way to test how well you can secretly share information with your partner for the sake of winning."
+  },
+  {
+    "line": 344,
+    "text": "{character:player}Isn't that just cheating?"
+  },
+  {
+    "line": 345,
+    "text": "{character:Waiter}If you get caught, it's called cheating. Otherwise, it's called tacit understanding, don't you think? For example, what you two did can only be called tacit understanding because we have no idea how you achieved that despite observing you for a long time."
+  },
+  {
+    "line": 346,
+    "text": "{character:Ryan}Onee-sama and I don't need petty tricks like that."
+  },
+  {
+    "line": 347,
+    "text": "{character:Waiter}Haha, that's true. You two have great potential to become good information dealers since you managed to defeat one of our experienced teams that rarely loses with your tacit understanding."
+  },
+  {
+    "line": 348,
+    "text": "{character:Ryan}Oh... thanks but no thanks. Our tacit understanding should be used on more important things than gathering information for others."
+  },
+  {
+    "line": 349,
+    "text": "The waiter smiles but doesn't reply. Instead, he takes us around a corner. At the end of the passage is a delicate wooden door that seems to be made of a relatively expensive wood with a clear and beautiful texture. I'm not sure if I'm seeing things because of the dark yellow light, but the door seems to have a faint golden luster. When the waiter knocks on the door, it makes a thick sound."
+  },
+  {
+    "line": 350,
+    "text": "A petite girl who looks like she is around 15 or 16 years old opens the door. Her collar is so high that it covers almost half of her face. When he sees her, the waiter points at us and speaks in a low voice."
+  },
+  {
+    "line": 351,
+    "text": "{character:Waiter}These two are the leader's guests. They have already passed the test."
+  },
+  {
+    "line": 352,
+    "text": "Without saying anything, the girl nods and lets us into the room. I take a look at the surroundings and note that the room looks like an underground office with no windows. The tables and chairs in sight look like they are made of solid wood, and the decorations are a little vintage... I hope the fire protection measures are good."
+  },
+  {
+    "line": 353,
+    "text": "In front of us is a desk that is wide enough for two adults to sleep on it at the same time. I have no idea why this strange metaphor popped up in my mind. Maybe it's because a person is reclining behind the desk with his legs crossed on the desk."
+  },
+  {
+    "line": 354,
+    "text": "He immediately removes his legs and sits up upon hearing our arrival. I look up and the image of a handsome young man around the age of 20, with broad shoulders and a narrow waist, enters my eyes."
+  },
+  {
+    "line": 355,
+    "text": "But I'm well aware that looks can be deceiving in One Han City, just like the owner of a certain dojo. So, I would never doubt his ability just because he looks young."
+  },
+  {
+    "line": 356,
+    "text": "{character:???}I know you, {var:player_nickname}."
+  },
+  {
+    "line": 357,
+    "text": "{character:???}You really do have the face of someone that shouldn't be here, haha."
+  },
+  {
+    "line": 358,
+    "text": "What the heck? An insult right off the bat? I really want to tell him that One Han City isn't a lawless city, but Ryan steps in front of me before I can say anything and greets the man with a grin on his face."
+  },
+  {
+    "line": 359,
+    "text": "{character:Ryan}Are you the leader of Strix, onii-san? I'm Ryan, one of the clients for today."
+  },
+  {
+    "line": 360,
+    "text": "{character:???}Ryan? The young magician of Soul... Tsk, I hear you're fond of calling others onee-sama, so why am I being addressed as onii-san?"
+  },
+  {
+    "line": 361,
+    "text": "{character:Ryan}True. Why is that? Hehe..."
+  },
+  {
+    "line": 362,
+    "text": "{character:??}That isn't how you should act when you need someone's help."
+  },
+  {
+    "line": 363,
+    "text": "{character:Ryan}Huh? You're the type who wants to be called onee-sama?"
+  },
+  {
+    "line": 364,
+    "text": "{character:???}Who knows? Maybe I just want to know what that person behind you is feeling."
+  },
+  {
+    "line": 365,
+    "text": "Before I can even figure out what's going on, it feels like the place is about to catch fire at any moment, and I shoot a worried glance at the nearby extinguisher. I stretch out my hand and pull Ryan back before he can say anything else."
+  },
+  {
+    "line": 366,
+    "text": "{character:player}I apologize. It's actually a custom from Ryan's hometown. Handsome and charismatic young men are all addressed as onii-san."
+  },
+  {
+    "line": 367,
+    "text": "Ryan pulls the hem of my clothes from behind and asks softly."
+  },
+  {
+    "line": 368,
+    "text": "{character:Ryan}When did they introduce a custom like that?"
+  },
+  {
+    "line": 369,
+    "text": "{character:player}When you called that waiter oji-san just now."
+  },
+  {
+    "line": 370,
+    "text": "He scoffs upon hearing my explanation. Clearly, he doesn't believe me. However, I'm relieved to realize that he doesn't seem to intend to continue on this topic."
+  },
+  {
+    "line": 371,
+    "text": "{character:???}I know why you're here today. It's for the animal tamer."
+  },
+  {
+    "line": 372,
+    "text": "It wasn't a question but a statement. This moment allows me to truly understand just how terrifying Strix is as an intelligence organization. It feels like Ryan and I are stripped bare before him."
+  },
+  {
+    "line": 373,
+    "text": "{character:???}I do possess the information you desire, but I'm certain Soul cannot afford its price. We all know how Soul is doing financially, after all."
+  },
+  {
+    "line": 374,
+    "text": "{character:player}Then what must we do to secure this deal? Since you were willing to meet us when you're well aware that Soul cannot afford the price, then I'm sure you have another method of compensation in mind, right?"
+  },
+  {
+    "line": 375,
+    "text": "{character:???}I love doing business with smart people. Let's do this. Come meet me here alone tomorrow, and I'll make a deal with you. Once the deal is completed, you'll get your information for free."
+  },
+  {
+    "line": 376,
+    "text": "{character:player}That's it? It won't be one of those trades where we fly somewhere then we're forced to suddenly change planes, right?"
+  },
+  {
+    "line": 377,
+    "text": "{character:???}Don't worry, I would have reminded you to pack if it was, and I would have told you to bring a nicer suitcase so you look decent."
+  },
+  {
+    "line": 378,
+    "text": "{character:???}But if you don't come alone and bring him again, then the deal's off."
+  },
+  {
+    "line": 379,
+    "text": "{character:player}Why?"
+  },
+  {
+    "line": 380,
+    "text": "{character:???}For the same reason he called me onii-san."
+  },
+  {
+    "line": 381,
+    "text": "He raises an eyebrow smugly at Ryan, and at this moment, I'm sure of one thing--this man is absolutely petty."
+  },
+  {
+    "line": 382,
+    "text": "I stop Ryan from speaking up and shake my head at him. This isn't the time to make an enemy out of the man. After all, we're finally so close to the information we desire, so we shouldn't give up."
+  },
+  {
+    "line": 383,
+    "text": "I notice Ryan's displeasure, but he always listens to me and just holds my sleeve in silence. The waiter leads us out the same way we entered the dojo."
+  },
+  {
+    "line": 384,
+    "text": "Once we're back in the private room, the waiter offers to let us play for free today, but Ryan and I are in no mood for more mahjong. We politely decline and leave the dojo."
+  },
+  {
+    "line": 385,
+    "text": "By the time we arrive back at Soul, half the day has already passed. We find Sara backstage inspecting the props and making the final preparations for tomorrow's performance. She frowns upon noticing the serious look on Ryan's face."
+  },
+  {
+    "line": 386,
+    "text": "{character:Sara}Did it... not go well?"
+  },
+  {
+    "line": 387,
+    "text": "{character:player}Actually... It went pretty well."
+  },
+  {
+    "line": 388,
+    "text": "Ryan explains what happened like a little puffed-up pufferfish. But when he arrives at the part about the leader, he unexpectedly says..."
+  },
+  {
+    "line": 389,
+    "text": "{character:Ryan}You must stop onee-sama from going alone tomorrow. He's clearly a conman who preys on nice people. Oh, and he said that they might have to switch planes at some strange place..."
+  },
+  {
+    "line": 390,
+    "text": "{character:player}No, he didn't tell me to bring my suitcase..."
+  },
+  {
+    "line": 391,
+    "text": "{character:Ryan}Oh, right! He asked her to bring a decent suitcase!"
+  },
+  {
+    "line": 392,
+    "text": "{character:Sara}A suitcase? Changing planes?"
+  },
+  {
+    "line": 393,
+    "text": "Worry and confusion gradually fill Sara's eyes, so I quickly stop Ryan."
+  },
+  {
+    "line": 394,
+    "text": "{character:player}Stop! Stop! It's not what you're thinking. He was just speaking in poor taste, and it may have scared Ryan."
+  },
+  {
+    "line": 395,
+    "text": "{character:player}But overall, our trip was rather successful. He promised to make a deal with me when we meet tomorrow, and I'll get the information once the deal is complete."
+  },
+  {
+    "line": 396,
+    "text": "{character:Sara}What's the deal about?"
+  },
+  {
+    "line": 397,
+    "text": "{character:player}I don't know yet."
+  },
+  {
+    "line": 398,
+    "text": "{character:Ryan}I don't think you should go tomorrow. Strix isn't our only choice, and we can figure out another way."
+  },
+  {
+    "line": 399,
+    "text": "{character:Sara}His request to meet with you alone is rather disturbing, so I agree with Ryan on this."
+  },
+  {
+    "line": 400,
+    "text": "I gaze at the serious look that's rarely seen on Sara and Ryan's faces. Especially Ryan, a grin is always on his face, and he often does some rather bewildering things, yet now, his lips are pursed into a straight line."
+  },
+  {
+    "line": 401,
+    "text": "But the dark circles below Sara's eyes that even eyeshadow can't conceal make me realize that finding \"other ways out\" isn't as easy as it seems. Otherwise, she wouldn't have waited until today to ask for my help."
+  },
+  {
+    "line": 402,
+    "text": "I recall the conversation we had today. Although the leader of Strix was a little mean and petty, had poor sitting posture, and did not have a great temper, generally speaking, he didn't bear any malice... I think..."
+  },
+  {
+    "line": 403,
+    "text": "Anyway, I decide to meet him again tomorrow and hear him out before I make a decision. Of course, I'll have to keep my decision a secret from Ryan and Sara, and I promise to give it more thought to keep them from worrying."
+  },
+  {
+    "line": 404,
+    "text": "My stomach starts growling once I finish, and only then do I realize that it has gotten dark outside. Sara smiles and asks me to stay for dinner upon hearing my stomach."
+  },
+  {
+    "line": 405,
+    "text": "Now, it's the fourth game of the East round with Ryan as the dealer. We still have a chance."
+  },
+  {
+    "line": 406,
+    "text": "{character:Ryan}Huh? I think I have Tenpai."
+  },
+  {
+    "line": 407,
+    "text": "{character:player}Oh? That's great!"
+  },
+  {
+    "line": 408,
+    "text": "Who knew we'd run into a case of double Riichi in the last round. Just the defense is difficult enough for the opponents, let alone quickly winning the round by feeding tiles like before."
+  },
+  {
+    "line": 409,
+    "text": "It just so happens that my points aren't too high. I decisively give up on winning, and I seek out a Last Discard Safe Tile or Suji from Ryan without giving my opponent any information."
+  },
+  {
+    "line": 410,
+    "text": "A few turns later, Ryan successfully completes a Tsumo."
+  },
+  {
+    "line": 411,
+    "text": "{character:Ryan}Look! I got 2 Ura Doras!"
+  },
+  {
+    "line": 412,
+    "text": "{character:player}Alright! With those two in hand, you've reversed the situation with a dealer round Haneman!"
+  },
+  {
+    "line": 413,
+    "text": "{character:Ryan}It's all thanks to you. If you didn't win the third game of the East round, I wouldn't have been able to become the dealer and win."
+  },
+  {
+    "line": 414,
+    "text": "{character:player}To be more precise, it's the fruit of our cooperation."
+  },
+  {
+    "line": 415,
+    "text": "However, we went a little overboard. While Ryan won in the end, according to the rules, I must finish first for us to actually win. Ryan seems quite guilty when the waiter announces the results."
+  },
+  {
+    "line": 416,
+    "text": "{character:Ryan}I'm sorry, I failed to cooperate well with you."
+  },
+  {
+    "line": 417,
+    "text": "I shake my head. In the end, we were just lacking in tacit understanding. Fortunately, we weren't crushed, and we still managed to take the first place. I pat Ryan on the shoulder and tell him not to worry too much."
+  },
+  {
+    "line": 418,
+    "text": "{character:player}Not to mention that I have a huge sense of accomplishment. Never would I have expected to teach a mahjong prodigy."
+  },
+  {
+    "line": 419,
+    "text": "Since we can't meet the leader, I have no interest in staying at the dojo and playing more mahjong. I plan to return to Soul and discuss other solutions with Sara."
+  },
+  {
+    "line": 420,
+    "text": "When we return to Soul, Sara is working with everyone to change the stage's backdrop as tomorrow's dance music requires a special one. Seeing the downcast expression on our faces doesn't seem to surprise her at all. She claps her hands and pulls both Ryan and me to sit down by the stage."
+  },
+  {
+    "line": 421,
+    "text": "{character:Sara}Oh, I see it's not progressing well."
+  },
+  {
+    "line": 422,
+    "text": "{character:player}Sorry, I didn't expect to lose at what we're best at, mahjong."
+  },
+  {
+    "line": 423,
+    "text": "{character:Ryan}I'm responsible for this too. I didn't expect it to be 2v2 mahjong... If I knew, I would have played more 2v2 games with you."
+  },
+  {
+    "line": 424,
+    "text": "{character:Sara}Don't worry too much about it. I've been managing a large troupe for years, so of course I'm not naive enough to put all my eggs in a single basket."
+  },
+  {
+    "line": 425,
+    "text": "{character:player}You have other ideas?"
+  },
+  {
+    "line": 426,
+    "text": "{character:Sara}Actually, I was merely giving Strix a try. I would never entrust my own problems to them with the hopes that they would be solved. I'm just a little hesitant... I'm hesitating if I should go straight to Ciri."
+  },
+  {
+    "line": 427,
+    "text": "{character:player}Why do you hesitate?"
+  },
+  {
+    "line": 428,
+    "text": "{character:Sara}Because I'll need your help with that."
+  },
+  {
+    "line": 429,
+    "text": "{character:Sara}The only person who has a good relationship with Soul and wouldn't make Ciri wary is you. *Sigh*... Now that I think about it, I really have few friends."
+  },
+  {
+    "line": 430,
+    "text": "{character:Ryan}Do you really care so much about how many friends you have? I'm not like that, all I need is onee-sama."
+  },
+  {
+    "line": 431,
+    "text": "{character:Sara}You're such a little rascal."
+  },
+  {
+    "line": 432,
+    "text": "{character:player}Then it seems I am the most suited for the task..."
+  },
+  {
+    "line": 433,
+    "text": "{character:Sara}I'll be counting on you."
+  },
+  {
+    "line": 434,
+    "text": "Sara puts her palms together, and the pleading look in her heterochromatic pupils makes her impossible to refuse."
+  },
+  {
+    "line": 435,
+    "text": "{character:player}But I have no clue about what I must do."
+  },
+  {
+    "line": 436,
+    "text": "{character:Ryan}Then let's start with watching Soul's performances every day. I'll take responsibility for your tickets. Consider it my way of making it up to you for my failure today."
+  },
+  {
+    "line": 437,
+    "text": "{character:Sara}Ryan is right. It's easy to get blinded when you're too close. We live in Soul all day, so we may overlook many details. Perhaps the situation will be clearer to you, and you can give us some inspiration and help too."
+  },
+  {
+    "line": 438,
+    "text": "{character:player}Alright, then let's do that."
+  },
+  {
+    "line": 439,
+    "text": "Right after we set our initial objective, we hear a loud noise from the side. It seems the curtain's frame has fallen, and Sara smiles wryly at me."
+  },
+  {
+    "line": 440,
+    "text": "{character:Sara}See? I really can't step away for even a moment..."
+  },
+  {
+    "line": 441,
+    "text": "Ryan and I follow Sara to help out, and when I heave up the frame, I feel its weight. Actually, Sara is mainly busy because Soul's current labor force mostly consists of the elderly. If they had some young and middle-aged members, then she probably wouldn't have to worry about this."
+  },
+  {
+    "line": 442,
+    "text": "The prep work before a performance was more than I ever expected, and when we finally finished, hours had unknowingly passed."
+  },
+  {
+    "line": 443,
+    "text": "{character:Sara}It's already so late. Why don't you stay for dinner?"
+  },
+  {
+    "line": 444,
+    "text": "{character:player}I..."
+  },
+  {
+    "line": 445,
+    "text": "{character:Ryan}Don't refuse. If you don't stay for dinner, Sara would definitely be upset for being unable to repay your help today."
+  },
+  {
+    "line": 446,
+    "text": "Ryan interrupts my refusal and gives me a reason I cannot refuse. I have no choice but to agree and stay for dinner with them."
+  },
+  {
+    "line": 447,
+    "text": "Soul's dining habits are unlike that of One Han City's people who sit at the table and everything seems so proper. They are fond of sitting out in the open on nice evenings to enjoy food, song, and dance."
+  },
+  {
+    "line": 448,
+    "text": "The elderly man is the same man I helped with ticket inspections the other day. He should have gotten enough rest as he looks much better, and he doesn't forget to shoot some jokes my way while chatting with the others."
+  },
+  {
+    "line": 449,
+    "text": "Elderly Man"
+  },
+  {
+    "line": 450,
+    "text": "{character:Elderly Man}Here in Soul, our soul changes with every leader, haha! When Sid was still with us, everyone had to sit and eat properly at the table. But after Sara took over, she began teaching us to eat and dance like this. Heh, to be honest, it makes me feel like I can eat two more bowls with every meal."
+  },
+  {
+    "line": 451,
+    "text": "{character:player}Maybe it's the good mood so eating like this is really nice."
+  },
+  {
+    "line": 452,
+    "text": "{character:Elderly Man}Right? Soul seems more like the touring troupes in the movies now. Haha!"
+  },
+  {
+    "line": 453,
+    "text": "{character:Elderly Man}But I sometimes find myself missing the days when the previous leader was around. During that time... Ugh, why am I saying all of this on a happy day like this? Eat! Eat!"
+  },
+  {
+    "line": 454,
+    "text": "The elderly man seems to have remembered something from the past but is unwilling to share more, and he goes off to use his bowl and steal some wine from the lady beside me. I hear her scolding him about drinking when he's in poor health. They are clearly having a fight, yet the atmosphere is so joyful."
+  },
+  {
+    "line": 455,
+    "text": "Sara passes me a plate of freshly grilled skewers and sits down beside me."
+  },
+  {
+    "line": 456,
+    "text": "{character:Sara}Thank you."
+  },
+  {
+    "line": 457,
+    "text": "{character:player}You've said that many times today."
+  },
+  {
+    "line": 458,
+    "text": "{character:Sara}This time it's for myself... Thank you for always being by my side in my most helpless moments and letting me know that I don't have to do everything on my own."
+  },
+  {
+    "line": 459,
+    "text": "{character:Sara}I know the extent of my ability. So, I always wonder if I can really take care of such a huge troupe."
+  },
+  {
+    "line": 460,
+    "text": "{character:Sara}But whenever I see you, I think... Yes, I can do it. At the very least, I can try."
+  },
+  {
+    "line": 461,
+    "text": "{character:Sara}So, thank you."
+  },
+  {
+    "line": 462,
+    "text": "I gaze at the lively group that's dancing around the bonfire before me. Ryan, who always acts like an adult, is surrounded by a few of the elders, and they seem to be asking him something. His face is flushed red, and he desperately looks in my direction for help."
+  },
+  {
+    "line": 463,
+    "text": "He looks like a helpless youth who's being chased around by elders during family gatherings with questions like \"how did you do in your exams\", \"are you in a relationship yet\", or \"your mother says you've gotten a new hobby lately, so why don't you put on a performance for us.\""
+  },
+  {
+    "line": 464,
+    "text": "{character:player}Sara, everything will get better."
+  },
+  {
+    "line": 465,
+    "text": "{character:Sara}Yes, it will."
+  },
+  {
+    "line": 466,
+    "text": ""
+  },
+  {
+    "line": 467,
+    "text": "Leon"
+  },
+  {
+    "line": 469,
+    "text": "Leonardo"
+  },
+  {
+    "line": 472,
+    "text": "Ask why"
+  },
+  {
+    "line": 473,
+    "text": "I should wait for Sara to come to me for help"
+  },
+  {
+    "line": 474,
+    "text": "Don't Pon"
+  },
+  {
+    "line": 475,
+    "text": "Pon"
+  },
+  {
+    "line": 476,
+    "text": "A few turns later"
+  },
+  {
+    "line": 477,
+    "text": "Fourth turn"
+  },
+  {
+    "line": 478,
+    "text": "3 Pin"
+  },
+  {
+    "line": 480,
+    "text": "2 Man"
+  },
+  {
+    "line": 481,
+    "text": "1 Sou"
+  },
+  {
+    "line": 482,
+    "text": "8 Sou"
+  },
+  {
+    "line": 483,
+    "text": "Ron"
+  },
+  {
+    "line": 484,
+    "text": "Ignore the tile"
+  },
+  {
+    "line": 485,
+    "text": "East 4"
+  },
+  {
+    "line": 486,
+    "text": "I've taken a look at everyone's point gap://nMe: 21,100; South Player: 23,000; West Player: 32,900; Ryan: 23,000."
+  },
+  {
+    "line": 487,
+    "text": "The point gap has grown further...//nMe: 17,100; South Player: 35,000; West Player: 28,900; Ryan: 19,000."
+  },
+  {
+    "line": 488,
+    "text": "The current point gap in East 2, 1 Repeat is://nMe: 17,100; South Player: 35,000; West Player: 31,200; Ryan: 16,700."
+  },
+  {
+    "line": 489,
+    "text": "I sort out my hand and take a look. It's neither too good nor too bad.//n233 Man, 688 Pin, 2268 Sou, West, White, Red, and the Dora is 1 Sou."
+  },
+  {
+    "line": 490,
+    "text": "In the fourth turn, I obtain a West Wind, and it somewhat relieves the restrictions of the Tile Call. My current hand is://n2337 Man, 3688 Pin, 2268 Sou, West, and West."
+  },
+  {
+    "line": 491,
+    "text": "Based on my opponents' displeased reaction to my Pon on the 8 Pin tile, I must have disturbed their plans. But now, my current hand is://n233 Man, 36 Pin, 2268 Sou, West, West, and 888 Pin."
+  }
+]

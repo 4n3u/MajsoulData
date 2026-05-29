@@ -1,0 +1,1366 @@
+[
+  {
+    "line": 1,
+    "text": "player"
+  },
+  {
+    "line": 2,
+    "text": "{character:player}Ah... It's a little hot today, but it's such a nice day for plants to soak up the sunlight."
+  },
+  {
+    "line": 3,
+    "text": "After the midterm exams, the clubs of Asaha High School gradually resumed their activities one after another, and the gardening club Hana Ninomiya is in is no exception."
+  },
+  {
+    "line": 4,
+    "text": "To prepare for the exams, Hana Ninomiya has only been taking basic care of the plants during this time and has left all the remaining miscellaneous chores until this weekend. After hearing about this, I decide to come help her because I feel it'll be difficult for her to do everything alone."
+  },
+  {
+    "line": 5,
+    "text": "Nana Shiraishi"
+  },
+  {
+    "line": 6,
+    "text": "{character:Nana Shiraishi}Junior, have you already finished moving all the potted plants on that side? You're quite quick."
+  },
+  {
+    "line": 7,
+    "text": "Other than me, Nana Shiraishi, who likes to pay visits to various clubs, also volunteered to come and help. The thing is, I found out after starting that the club has more potted plants than I expected, so her help is really appreciated."
+  },
+  {
+    "line": 8,
+    "text": "{character:Nana Shiraishi}Where's Hana? Why isn't she here?"
+  },
+  {
+    "line": 9,
+    "text": "{character:player}She said some tools have been damaged, so she's gone out to buy new ones."
+  },
+  {
+    "line": 10,
+    "text": "{character:Nana Shiraishi}I've finished moving everything on my side too. Let's rest for a while and wait for her to come back. Ah, I'm all sweaty now."
+  },
+  {
+    "line": 11,
+    "text": "Hana Ninomiya"
+  },
+  {
+    "line": 12,
+    "text": "{character:Hana Ninomiya}I'm back."
+  },
+  {
+    "line": 13,
+    "text": "While we chat, Hana Ninomiya returns with a plastic bag in her hands. She pulls a bottled drink out of the bag and hands it to Nana Shiraishi."
+  },
+  {
+    "line": 14,
+    "text": "{character:Hana Ninomiya}Thanks a lot, Nana. Have a drink."
+  },
+  {
+    "line": 15,
+    "text": "{character:Nana Shiraishi}Thanks, Hana! I'm so thirsty right now."
+  },
+  {
+    "line": 16,
+    "text": "{character:Hana Ninomiya}It's strange how you're thanking me even though you're the one helping me."
+  },
+  {
+    "line": 17,
+    "text": "{character:Nana Shiraishi}Oh, you're right. Um, it doesn't matter! These details aren't important anyway. By the way, Hana, you're not treating me like a friend! How can you ask someone who doesn't even go to our school for help first when you need manpower?"
+  },
+  {
+    "line": 18,
+    "text": "{character:Hana Ninomiya}Well, you're always busy helping out at so many different clubs, so I thought it would be better to let you get some rest on the weekend."
+  },
+  {
+    "line": 19,
+    "text": "{character:Nana Shiraishi}Hmph! You're underestimating my stamina! The busier I am with activities, the more energetic I get! In fact, I'll probably go rusty if I laze around at home. I need to keep myself busy every day so that I can be a bright and beautiful high school girl for even longer!"
+  },
+  {
+    "line": 20,
+    "text": "{character:player}I understand the theory, but you'll only buy yourself more time until you graduate from high school."
+  },
+  {
+    "line": 21,
+    "text": "{character:Nana Shiraishi}You don't get it. The important things are your temperament and spirit! Just like how a man will always be a child at heart, Nana Shiraishi will always be a high school girl!"
+  },
+  {
+    "line": 22,
+    "text": "{character:Hana Ninomiya}Does that mean I'm the type of person who will get old really quickly? After all, I like to stay indoors..."
+  },
+  {
+    "line": 23,
+    "text": "{character:Nana Shiraishi}No way! Hana, you definitely get enough exercise from taking care of so many potted plants alone."
+  },
+  {
+    "line": 24,
+    "text": "{character:Nana Shiraishi}But if you're worried, would you like to go jogging with me in the morning tomorrow?"
+  },
+  {
+    "line": 25,
+    "text": "{character:Hana Ninomiya}Maybe not. I prefer to keep myself young by getting enough sleep every day."
+  },
+  {
+    "line": 26,
+    "text": "Although Hana Ninomiya always says she is an invisible person, there are still people who care about her and get along well with her. I feel relieved that she isn't especially lonely at school."
+  },
+  {
+    "line": 27,
+    "text": "{character:Hana Ninomiya}{var:player_nickname}, this bottle of water is for you."
+  },
+  {
+    "line": 28,
+    "text": "{character:player}I won't say thanks in case you say I'm strange too."
+  },
+  {
+    "line": 29,
+    "text": "{character:Hana Ninomiya}I won't object if you do thank me."
+  },
+  {
+    "line": 30,
+    "text": "{character:player}Wow... What's with the discrimination? Not only do you want me to thank you, but you didn't even say thanks to me like you did to Nana. I'm so hurt."
+  },
+  {
+    "line": 31,
+    "text": "{character:Hana Ninomiya}I've already expressed my thanks by giving you a drink. You even made such a troublesome promise, so today's matters are nothing compared to that."
+  },
+  {
+    "line": 32,
+    "text": "Such a troublesome promise? Oh, could she be referring to what I said about not letting her have a \"lonely death\"?"
+  },
+  {
+    "line": 33,
+    "text": "{character:Nana Shiraishi}Sniff, sniff... I smell some gossip."
+  },
+  {
+    "line": 34,
+    "text": "{character:Nana Shiraishi}A troublesome promise, huh? Hey, is it just me, or do you seem a lot closer to our junior here recently? Is it because you two have a promise you can't share with anyone else?"
+  },
+  {
+    "line": 35,
+    "text": "{character:Hana Ninomiya}I-It's not a big deal. You two should get some rest while I get to work."
+  },
+  {
+    "line": 36,
+    "text": "After speaking, Hana Ninomiya runs away to the potted plants in the distance with reddened ears."
+  },
+  {
+    "line": 37,
+    "text": "{character:Nana Shiraishi}Ah, she ran away! In that case, I'll need you, the only other person who knows what happened, to answer my question."
+  },
+  {
+    "line": 38,
+    "text": "{character:player}Do you think I'll tell you anything?"
+  },
+  {
+    "line": 39,
+    "text": "{character:Nana Shiraishi}What?! You won't?!"
+  },
+  {
+    "line": 40,
+    "text": "{character:player}What makes you think I will..."
+  },
+  {
+    "line": 41,
+    "text": "{character:Nana Shiraishi}Our friendship, of course! Well, I'll share a piece of good news with you, my good friend - our school will be holding the school festival soon."
+  },
+  {
+    "line": 42,
+    "text": "{character:player}Oh, now that you mention it, the school festival really is almost upon us."
+  },
+  {
+    "line": 43,
+    "text": "Asaha High School holds its school festival after the midterm exams in the second half of the school year every year. They say it's so that students can relax and have fun, but it's also held for adult reasons like showing the school's culture to the outside world, so it is often very lively."
+  },
+  {
+    "line": 44,
+    "text": "{character:player}Based on your tone, is there something special about this year's school festival?"
+  },
+  {
+    "line": 45,
+    "text": "{character:Nana Shiraishi}Hehe... Junior, aren't you at all curious about the theme of our class activity?"
+  },
+  {
+    "line": 46,
+    "text": "{character:player}Since you're making it sound so mysterious, it would be rude not to ask. Can you please tell me the theme of your class activity, Nana-senpai?"
+  },
+  {
+    "line": 47,
+    "text": "{character:Nana Shiraishi}You'll have to tell me the promise between you and Hana first."
+  },
+  {
+    "line": 48,
+    "text": "{character:player}Oh, then you don't need to tell me. I'll ask Ninomiya about it."
+  },
+  {
+    "line": 49,
+    "text": "{character:Nana Shiraishi}Eh! No, don't ask her! Come over here."
+  },
+  {
+    "line": 50,
+    "text": "Nana Shiraishi quickly drags me back to my original position after seeing me starting to get up, then she looks at where Hana Ninomiya is."
+  },
+  {
+    "line": 51,
+    "text": "{character:Nana Shiraishi}We'll be performing a stage play this time, and the original work our script is based on is a novel called \"The House of Music.\" Have you heard of it before?"
+  },
+  {
+    "line": 52,
+    "text": "{character:player}It sounds familiar. What about it? Since you stopped me from asking Ninomiya about it... will she be performing on stage?"
+  },
+  {
+    "line": 53,
+    "text": "{character:Nana Shiraishi}The registration time for performers will be at our class meeting in two weeks. After all, we need to apply for a venue and wait for the student council to approve our application."
+  },
+  {
+    "line": 54,
+    "text": "{character:Nana Shiraishi}Before all that happens, I want to ask you to find out if Hana is interested. If she is, please persuade her to register."
+  },
+  {
+    "line": 55,
+    "text": "{character:player}I can do that, but why get me to do it? Isn't it faster and more efficient if you talk to her directly?"
+  },
+  {
+    "line": 56,
+    "text": "{character:Nana Shiraishi}Well, I asked her, and she said she doesn't intend to perform."
+  },
+  {
+    "line": 57,
+    "text": "{character:Nana Shiraishi}That's what she said, but I clearly saw her eyes light up when I announced the name of the stage play. And when she noticed that I was looking at her, she turned around and pretended to be admiring the scenery. Her reaction is super suspicious."
+  },
+  {
+    "line": 58,
+    "text": "{character:Nana Shiraishi}What's more, she has been reading the novel the stage play is based on from time to time recently, so I've been wondering if she has started to change her mind and just hasn't made a decision yet. Maybe she'll be willing to go on stage if you encourage her!"
+  },
+  {
+    "line": 59,
+    "text": "{character:player}...Okay, I'll ask her afterwards."
+  },
+  {
+    "line": 60,
+    "text": "\"Liking the original work is one thing, but performing on stage is another.\" Although I want to say that, if Hana Ninomiya really does want to perform, it would be a shame if she misses out on this opportunity. Maybe she really will make up her mind to perform if someone encourages her."
+  },
+  {
+    "line": 61,
+    "text": "{character:Nana Shiraishi}I'll leave it to you then, but you need to be quick. If Hana hasn't made up her mind by the day the registrations start, she might not be able to play the role of the character she likes."
+  },
+  {
+    "line": 62,
+    "text": "{character:Nana Shiraishi}I need to help out at some other clubs now, and I've already told Hana. If I finish up early over there, I'll come back later to help you move the potted plants back."
+  },
+  {
+    "line": 63,
+    "text": "{character:player}Sure, see you later."
+  },
+  {
+    "line": 64,
+    "text": "{character:Nana Shiraishi}(loudly) Hana, I'll be going now!"
+  },
+  {
+    "line": 65,
+    "text": "Hana Ninomiya raises her head and waves goodbye in response to Nana Shiraishi's words."
+  },
+  {
+    "line": 66,
+    "text": "Now that Hana Ninomiya and I are the only two people left in the courtyard, I'll have a chat with her about participating in the stage play while we work."
+  },
+  {
+    "line": 67,
+    "text": "After resting for a while, I walk over to Hana Ninomiya and see her moving a potted plant toward the club classroom."
+  },
+  {
+    "line": 68,
+    "text": "{character:player}Is it already time to move the potted plants back inside?"
+  },
+  {
+    "line": 69,
+    "text": "{character:Hana Ninomiya}Just this one. It's really sunny today, and this moth orchid can't be exposed to too much sunlight, so I'm moving it to another place."
+  },
+  {
+    "line": 70,
+    "text": "{character:player}Oh! Are there any other plants that need to be moved?"
+  },
+  {
+    "line": 71,
+    "text": "{character:Hana Ninomiya}Move the pot of red Rieger begonia next to your right foot here for me too. That one also can't be exposed to too much sunlight, and it was watered not too long ago, so it might get in the way when it's time to water all the potted plants together later."
+  },
+  {
+    "line": 72,
+    "text": "{character:player}Don't people say that it's better to water plants every day in summer?"
+  },
+  {
+    "line": 73,
+    "text": "{character:Hana Ninomiya}It's very easy for the roots of Rieger begonias to rot if they are watered too often. Three times a week is about right in summer."
+  },
+  {
+    "line": 74,
+    "text": "{character:player}I see..."
+  },
+  {
+    "line": 75,
+    "text": "Under Hana Ninomiya's guidance, I water and fertilize the potted plants in an orderly manner. During the process, I notice that many plants in the gardening club need to be cared for in particular ways. Moreover, Ninomiya actually remembers the key points for caring for each plant."
+  },
+  {
+    "line": 76,
+    "text": "{character:player}You're like a moving plant encyclopedia. I would be so flustered if I had to take care of so many plants."
+  },
+  {
+    "line": 77,
+    "text": "{character:Hana Ninomiya}I've just gained experience naturally after taking care of them for so long. These flowers are blooming so well now, but you have no idea how many of them I've killed up until now."
+  },
+  {
+    "line": 78,
+    "text": "{character:Hana Ninomiya}I have a good memory, but it's completely different when you actually need to put what you know into practice. Isn't there a saying along the lines of \"knowing is one thing, and doing is another\"?"
+  },
+  {
+    "line": 79,
+    "text": "{character:player}Even so, it's amazing that you can take care of so many potted plants by yourself. Why don't you choose some varieties that are easier to care for? It'll make your work easier."
+  },
+  {
+    "line": 80,
+    "text": "{character:Hana Ninomiya}It's a lot of work to take care of them, but you get such a great sense of accomplishment when you see humble seeds bloom into gorgeous flowers, right? Club activities would be so boring if I just fertilize and water plants mechanically."
+  },
+  {
+    "line": 81,
+    "text": "{character:player}Haha, good point. A bright and beautiful high school girl needs to experience some challenges and troubles in everyday life to become more energetic."
+  },
+  {
+    "line": 82,
+    "text": "\"Humble seeds bloom into gorgeous flower\"... Isn't that a good description of Hana Ninomiya right now? Her magnificence at the mahjong table makes her no less gorgeous than these flowers."
+  },
+  {
+    "line": 83,
+    "text": "If she gets the chance to act in a stage play she likes, maybe she will also shine as brightly as she does when playing mahjong. When I think of this, I get more excited about seeing Hana Ninomiya perform on stage."
+  },
+  {
+    "line": 84,
+    "text": "{character:Hana Ninomiya}We can start moving the potted plants back after another half an hour. Thanks for the hard work. I'll read a book while I rest now. {var:player_nickname}, you can go first if you have something to do. I can move them slowly by myself."
+  },
+  {
+    "line": 85,
+    "text": "Hana Ninomiya pulls out a book from her bag and sits on a stone chair. I glance at the cover and see that this book is \"The House of Music\", which Nana Shiraishi mentioned."
+  },
+  {
+    "line": 86,
+    "text": "{character:player}Nana told me that your class will be performing a stage play for the school festival."
+  },
+  {
+    "line": 87,
+    "text": "{character:Hana Ninomiya}Yeah. If you want to watch it, {var:player_nickname}, I can get you a good seat on the day."
+  },
+  {
+    "line": 88,
+    "text": "{character:player}Thanks in advance. By the way, is the book you're holding the original work the stage play's script is based on?"
+  },
+  {
+    "line": 89,
+    "text": "{character:Hana Ninomiya}Yes. It's a story with a happy atmosphere, and it's quite suitable for a stage play performance during the school festival."
+  },
+  {
+    "line": 90,
+    "text": "{character:player}I see. About this stage play..."
+  },
+  {
+    "line": 91,
+    "text": "{character:Hana Ninomiya}I won't be taking part in it."
+  },
+  {
+    "line": 92,
+    "text": "{character:player}Eh? I-I haven't said anything yet."
+  },
+  {
+    "line": 93,
+    "text": "{character:Hana Ninomiya}Didn't Nana ask you to persuade me to participate in the stage play?"
+  },
+  {
+    "line": 94,
+    "text": "{character:player}...Is it that obvious?"
+  },
+  {
+    "line": 95,
+    "text": "{character:Hana Ninomiya}Nana kept looking in my direction when she was talking to you over there, and now you're asking me about the stage play. Well, isn't it obvious then? As Jane would say, \"this is just a reasonable inference based on the evidence at hand.\""
+  },
+  {
+    "line": 96,
+    "text": "{character:player}As expected of an informant of a great detective. I can't hide the truth from you. It's not often that you get to act in a stage play you like. Ninomiya, don't you want to perform on stage?"
+  },
+  {
+    "line": 97,
+    "text": "{character:Hana Ninomiya}Liking the original work is one thing, but wanting to perform on stage is another."
+  },
+  {
+    "line": 98,
+    "text": "That's what I thought earlier too... Just as I decide to tell Nana Shiraishi later that she's thinking too much, the words Hana Ninomiya whispers under her breath change my mind."
+  },
+  {
+    "line": 99,
+    "text": "{character:Hana Ninomiya}(whisper) Why waste time on something that is impossible..."
+  },
+  {
+    "line": 100,
+    "text": "I recall that Hana Ninomiya once performed in a stage play when she was in elementary school. At that time, she signed up to play the part of the female lead but failed to get the part. Is she still feeling sad about that failure?"
+  },
+  {
+    "line": 101,
+    "text": "{character:player}Will you really not register for a part? The fact that Nana and I are both trying to persuade you shows that we think you can do it. Go give it a try."
+  },
+  {
+    "line": 102,
+    "text": "{character:Hana Ninomiya}Thanks for believing in me, but I don't believe in myself. Anyway, let's not talk about this. I know the outcome better than anyone else."
+  },
+  {
+    "line": 103,
+    "text": "{character:player}Okay then... But it isn't like you at all to give up just like that without trying."
+  },
+  {
+    "line": 104,
+    "text": "{character:Hana Ninomiya}...There's something I need to do, so I need to go now. You should go too. I'll come back later to move the potted plants, so you don't need to worry about them."
+  },
+  {
+    "line": 105,
+    "text": "{character:player}Huh? So suddenly? W-Wait up! Ninomiya!"
+  },
+  {
+    "line": 106,
+    "text": "Hana Ninomiya suddenly makes a sullen expression while we are chatting and leaves without looking back. She doesn't stop no matter what I shout out behind her."
+  },
+  {
+    "line": 107,
+    "text": "{character:player}I... Did I say something that made her angry?"
+  },
+  {
+    "line": 108,
+    "text": "I wait for a while, but Hana Ninomiya doesn't come back, so I can only go home first."
+  },
+  {
+    "line": 109,
+    "text": "After returning home, I call Nana Shiraishi and tell her about the unhappy conclusion to my conversation with Hana Ninomiya in the afternoon."
+  },
+  {
+    "line": 110,
+    "text": "{character:Nana Shiraishi}So something like that happened. I was wondering why you left Hana all alone there."
+  },
+  {
+    "line": 111,
+    "text": "{character:Nana Shiraishi}I'm sorry! It's my fault that Hana is unhappy with you now. I'll buy you a drink another day."
+  },
+  {
+    "line": 112,
+    "text": "{character:player}Don't say that. I'll also apologize to her properly later on."
+  },
+  {
+    "line": 113,
+    "text": "{character:Nana Shiraishi}I guess so. Hana isn't a petty person. I'm sure you'll be able to reconcile if you explain things to her."
+  },
+  {
+    "line": 114,
+    "text": "{character:Nana Shiraishi}But I just don't get it. Hana keeps saying that she wants to make herself more noticeable, so isn't this stage play a good chance to do that? Why won't she give it a go?"
+  },
+  {
+    "line": 115,
+    "text": "{character:Nana Shiraishi}And based on what you said about the afternoon, I get the feeling that Hana isn't simply unwilling to take part in the stage play. It sounds like she is resisting it emotionally."
+  },
+  {
+    "line": 116,
+    "text": "{character:player}I got the same feeling too. She is really negative about this. Maybe there's something other than her failure to get the part of the female lead that we don't know about. If we can solve this problem... maybe she will be willing to go on stage."
+  },
+  {
+    "line": 117,
+    "text": "{character:Nana Shiraishi}Of course, this is just a speculation."
+  },
+  {
+    "line": 118,
+    "text": "{character:Nana Shiraishi}...Okay, coming! My little brother wants me to teach him how to do his homework, so I'll hang up now."
+  },
+  {
+    "line": 119,
+    "text": "{character:player}Sure, good night."
+  },
+  {
+    "line": 120,
+    "text": "Nana Shiraishi's energetic voice disappears after the phone call ends. My room becomes quiet again, but I can't seem to calm down."
+  },
+  {
+    "line": 121,
+    "text": "{character:player}I just can't stop thinking about it... Is it true that Ninomiya doesn't want to try again after just one failed attempt?"
+  },
+  {
+    "line": 122,
+    "text": "{character:player}Is there anyone who knows Hana Ninomiya well who can give me some advice?"
+  },
+  {
+    "line": 123,
+    "text": "After thinking about it for a while, I decide to call Jane, who often asks Hana Ninomiya to help her with detective work, to see if this great detective can deduce anything."
+  },
+  {
+    "line": 124,
+    "text": "Jane"
+  },
+  {
+    "line": 125,
+    "text": "{character:Jane}...Assistant, you should ask a telepath about this instead of asking me."
+  },
+  {
+    "line": 126,
+    "text": "{character:Jane}Detectives aren't gods. Reasoning requires basic deduction. Don't tell me you think detectives are able to know the whole story after getting a flash of inspiration like in manga?"
+  },
+  {
+    "line": 127,
+    "text": "{character:player}Isn't that the case?"
+  },
+  {
+    "line": 128,
+    "text": "{character:Jane}Apologize to me now! Apologize to me and my grandmother now!"
+  },
+  {
+    "line": 129,
+    "text": "{character:player}Sorry, that was rude of me. Well... in your conversations with Ninomiya, have you ever noticed anything related to this?"
+  },
+  {
+    "line": 130,
+    "text": "{character:Jane}No. Ninomiya and I only talk about things related to cases and school. She rarely talks about herself."
+  },
+  {
+    "line": 131,
+    "text": "{character:player}Sigh... I guess there's nothing I can do about it then."
+  },
+  {
+    "line": 132,
+    "text": "{character:Jane}That's not necessarily the case."
+  },
+  {
+    "line": 133,
+    "text": "{character:player}Oh?! Grandmaster! What advice do you have for me? I'll make notes now."
+  },
+  {
+    "line": 134,
+    "text": "{character:Jane}Although it might be strange to hear this from a detective like me, there are some truths that you don't need to know."
+  },
+  {
+    "line": 135,
+    "text": "{character:Jane}For example, your feelings about wanting her to grasp this opportunity may not necessarily be correct. You think you're encouraging her with good intentions because you're assuming she wants to perform, but what if that's not the case?"
+  },
+  {
+    "line": 136,
+    "text": "{character:player}...You make a good point. Maybe we said a lot of things that burdened her with our wishful thinking about wanting her to perform on stage."
+  },
+  {
+    "line": 137,
+    "text": "Like what Jane said, the truth isn't important. If Hana Ninomiya doesn't want to perform on stage, why must I find out the reason to persuade her to do so?"
+  },
+  {
+    "line": 138,
+    "text": "{character:Jane}Anyway, you'd better apologize to Ninomiya properly after this and reconcile with her, or else I won't be able to get you two to complete tasks for me as a team. However, I do wonder why Ninomiya doesn't want to perform."
+  },
+  {
+    "line": 139,
+    "text": "{character:player}Didn't you just tell me not to dig into that..."
+  },
+  {
+    "line": 140,
+    "text": "{character:Jane}It's a detective's instinct to be interested in mysteries. Didn't you say that Ninomiya has been reading the novel the stage play is based on? That means it's possible that she really does want to perform on stage, just that something is preventing her from making up her mind."
+  },
+  {
+    "line": 141,
+    "text": "{character:Jane}I'll think about it when I don't have any cases to investigate, and I'll tell you if I think of anything."
+  },
+  {
+    "line": 142,
+    "text": "{character:player}I'll be looking forward to your reply then, great detective."
+  },
+  {
+    "line": 143,
+    "text": "After hanging up, although I had already decided to stop investigating the reason why Hana Ninomiya doesn't want to perform on stage, the last thing Jane said before hanging up makes it impossible for me to completely let go of this matter."
+  },
+  {
+    "line": 144,
+    "text": "If Hana Ninomiya really wants to perform, would she have new regrets if she misses out on this opportunity?"
+  },
+  {
+    "line": 145,
+    "text": "I... Is there anything I can do?"
+  },
+  {
+    "line": 146,
+    "text": "I remember that Kana Fujita and Hana Ninomiya were classmates in elementary school. Maybe she knows something."
+  },
+  {
+    "line": 147,
+    "text": "Kana Fujita"
+  },
+  {
+    "line": 148,
+    "text": "{character:Kana Fujita}{var:player_nickname}, why did you suddenly think of calling me?"
+  },
+  {
+    "line": 149,
+    "text": "{character:player}There's something I want to ask you. It's like this..."
+  },
+  {
+    "line": 150,
+    "text": "I tell Kana Fujita about the stage play and Hana Ninomiya's refusal to perform on stage. After that, she asks me a question instead."
+  },
+  {
+    "line": 151,
+    "text": "{character:Kana Fujita}Is it possible that the stage play Hana's class is performing is \"The House of Music\"?"
+  },
+  {
+    "line": 152,
+    "text": "{character:player}Did Nana Shiraishi already tell you this? I don't think I mentioned what stage play they would be performing."
+  },
+  {
+    "line": 153,
+    "text": "{character:Kana Fujita}I knew it... No wonder Hana is so against it. She might perform if it's any other stage play, but she probably won't if it's \"The House of Music.\""
+  },
+  {
+    "line": 154,
+    "text": "{character:Kana Fujita}{var:player_nickname}, you know that Hana and I performed in a stage play when we were in elementary school, right?"
+  },
+  {
+    "line": 155,
+    "text": "{character:player}Yeah, that's why I called you... Wait a minute, don't tell me...?"
+  },
+  {
+    "line": 156,
+    "text": "{character:Kana Fujita}Yes, our class also performed \"The House of Music.\" Hana really wanted to play the part of the female lead, but everyone ignored her, and she ended up playing the part of a tree in the background."
+  },
+  {
+    "line": 157,
+    "text": "{character:Kana Fujita}Although she won an award for working hard, that's definitely not a pleasant memory. I even congratulated her thoughtlessly at the time... Luckily, Hana didn't ignore me because of this incident."
+  },
+  {
+    "line": 158,
+    "text": "{character:player}...If that's true, then it's normal for her to not want to perform in the stage play."
+  },
+  {
+    "line": 159,
+    "text": "{character:Kana Fujita}Although I also want to see her active on the stage, it's better not to force her if she doesn't want to."
+  },
+  {
+    "line": 160,
+    "text": "{character:player}You're right. Thank you for telling me all this."
+  },
+  {
+    "line": 161,
+    "text": "{character:Kana Fujita}You're welcome. I've still got work to do, so let's talk again another time."
+  },
+  {
+    "line": 162,
+    "text": "{character:player}Sure, let's play mahjong together when you're free."
+  },
+  {
+    "line": 163,
+    "text": "Her class is finally performing a stage play again after so many years, but it happens to be the same play. I wonder how Hana Ninomiya felt when she found out about this coincidence that day."
+  },
+  {
+    "line": 164,
+    "text": "Was she unable to accept what happened? Or... Well, regardless of how she feels about it, the things I said during the day were thoughtless and offensive. In fact, I would like to call her now and apologize to her if it's possible."
+  },
+  {
+    "line": 165,
+    "text": "{character:player}...I better apologize to her properly in person."
+  },
+  {
+    "line": 166,
+    "text": "As for the stage play... Like what Kana Fujita said, it's best if we don't force Hana Ninomiya in case we make her relive some unpleasant memories."
+  },
+  {
+    "line": 167,
+    "text": "{character:player}But is it really best to just let things end like this..."
+  },
+  {
+    "line": 168,
+    "text": "I decide to call Ren Kisaragi. I hear that his list of problem children not only has their names but also various information about them. Maybe I'll find some clues there."
+  },
+  {
+    "line": 169,
+    "text": "Ren Kisaragi"
+  },
+  {
+    "line": 170,
+    "text": "{character:Ren Kisaragi}Yes, I did investigate those problem children because they kept breaking the school rules."
+  },
+  {
+    "line": 171,
+    "text": "{character:Ren Kisaragi}But this concerns the privacy of the school's students. Do you think I will tell non-school personnel this information?"
+  },
+  {
+    "line": 172,
+    "text": "{character:player}I don't think you will."
+  },
+  {
+    "line": 173,
+    "text": "{character:Ren Kisaragi}I'm busy over here, so I'll hang up now if you don't have anything else to say."
+  },
+  {
+    "line": 174,
+    "text": "Ren Kisaragi hangs up the call before I can reply. It looks like he is quite busy."
+  },
+  {
+    "line": 175,
+    "text": "Okay, I don't think that will work. Is there anyone else I can ask?"
+  },
+  {
+    "line": 176,
+    "text": "The next weekend, I go to the courtyard of Asaha High School and find Hana Ninomiya tending to the plants busily as I expected."
+  },
+  {
+    "line": 177,
+    "text": "{character:Hana Ninomiya}You... Why have you come?"
+  },
+  {
+    "line": 178,
+    "text": "{character:player}I've come to help. Your enthusiastic classmate Nana said she will be going out to have fun with her family, so I thought you would need some help."
+  },
+  {
+    "line": 179,
+    "text": "{character:Hana Ninomiya}...How are you so sure that I'll be here? Aren't you worried that you'll come here for nothing?"
+  },
+  {
+    "line": 180,
+    "text": "{character:player}According to my calculations, it should almost be time to water the Rieger begonia. Also, since the weather is good today, I was thinking that you would probably want to move the potted plants outside so they can soak up some sunlight."
+  },
+  {
+    "line": 181,
+    "text": "{character:player}I'll go water the flowers now... Oh right, it's quite sunny right now, so I'll move these flowers to a shady place since they can't handle too much sun."
+  },
+  {
+    "line": 182,
+    "text": "{character:Hana Ninomiya}Okay. I'm so envious of your learning ability. You remembered all the key points even though I only told you once."
+  },
+  {
+    "line": 183,
+    "text": "{character:player}That's not entirely true. These last few days, I've been reading up on ways to take care of flowers and plants on the Internet whenever I have time. Since I want to help you, it would be more efficient if I knew these key points."
+  },
+  {
+    "line": 184,
+    "text": "{character:player}I'm doing okay now, but I might forget some details once it starts to get busy. But you did say that the more plants you take care of, the more experienced you'll become, so I'll definitely be able to do better if I put more thought and effort into it."
+  },
+  {
+    "line": 185,
+    "text": "{character:Hana Ninomiya}That's true, but there are things that can't be achieved even if you put in thought and effort..."
+  },
+  {
+    "line": 186,
+    "text": "Hana Ninomiya still seems to be a little depressed. Fortunately, things haven't gotten awkward between us after the unhappy end of our conversation the other day."
+  },
+  {
+    "line": 187,
+    "text": "After toiling about for a while, we decide to take a break. Hana Ninomiya finds a place to sit down and starts reading, but she isn't reading \"The House of Music\" today."
+  },
+  {
+    "line": 188,
+    "text": "{character:player}Have you already finished reading the book from last time?"
+  },
+  {
+    "line": 189,
+    "text": "{character:Hana Ninomiya}Yes, so I didn't bring it with me today. I've actually read that book several times already, and I just suddenly felt like reading it that day..."
+  },
+  {
+    "line": 190,
+    "text": "Hana Ninomiya covers her face with the book, and I vaguely hear her whisper, \"It's in the past now...\" It's obvious that she wants to avoid this topic."
+  },
+  {
+    "line": 191,
+    "text": "{character:player}...Ninomiya, you said you have a good memory. Since you've read it several times, I believe you know the lines by heart. In that case, let's put on a performance now!"
+  },
+  {
+    "line": 192,
+    "text": "{character:Hana Ninomiya}Huh? Wh-What performance?"
+  },
+  {
+    "line": 193,
+    "text": "{character:player}But before that, I want to apologize to you properly... I'm sorry for trying to persuade you to participate in the stage play without caring about your feelings. I even said something terrible like \"it isn't like you to...\""
+  },
+  {
+    "line": 194,
+    "text": "{character:Hana Ninomiya}...Actually, I should be apologizing to you instead. {var:player_nickname}, you kindly came to help me, yet I abandoned you here and left."
+  },
+  {
+    "line": 195,
+    "text": "{character:Hana Ninomiya}I know you and Nana were encouraging me with good intentions, but I..."
+  },
+  {
+    "line": 196,
+    "text": "{character:player}It's okay. Ninomiya, I'll respect your decision to not register for the stage play, but that won't stop us from putting on a performance now."
+  },
+  {
+    "line": 197,
+    "text": "{character:Hana Ninomiya}Well... That's why I was asking you what you meant when you said that."
+  },
+  {
+    "line": 198,
+    "text": "{character:player}The literal meaning. Let's perform the stage play of \"The House of Music\" here!"
+  },
+  {
+    "line": 199,
+    "text": "{character:Hana Ninomiya}...Huh?"
+  },
+  {
+    "line": 200,
+    "text": "{character:player}Is there a reason we can't?"
+  },
+  {
+    "line": 201,
+    "text": "{character:Hana Ninomiya}That's not the issue here. Can you tell me why you suddenly want to perform a stage play?"
+  },
+  {
+    "line": 202,
+    "text": "{character:player}Although I said I would respect your decision, I'm still worried that you'll have some regrets if you miss this opportunity."
+  },
+  {
+    "line": 203,
+    "text": "{character:player}So I've decided to make this courtyard our stage. Ninomiya, this means you can perform in a stage play you like without participating in the class performance."
+  },
+  {
+    "line": 204,
+    "text": "{character:Hana Ninomiya}But we don't have an audience. Don't you feel like it's a little silly of us to amuse ourselves like this?"
+  },
+  {
+    "line": 205,
+    "text": "{character:player}But we do have an audience. Look, the potted plants you've been taking meticulous care of are sitting straight over there, waiting to enjoy your performance."
+  },
+  {
+    "line": 206,
+    "text": "{character:Hana Ninomiya}Th-This is sophistry!"
+  },
+  {
+    "line": 207,
+    "text": "{character:player}Hahaha, like you said, we really are just amusing ourselves, but it doesn't matter if there's no audience and if the stage is smaller. To me, all that matters is that you're the female lead."
+  },
+  {
+    "line": 208,
+    "text": "I can't think of a way to make up for her past regrets. All I can do is to do my best to make her happy right here and right now."
+  },
+  {
+    "line": 209,
+    "text": "{character:player}I believe this will be a brilliant performance. Are you willing to step on this stage with me, Ninomiya?"
+  },
+  {
+    "line": 210,
+    "text": "{character:Hana Ninomiya}...We don't have enough actors if you're all we have."
+  },
+  {
+    "line": 211,
+    "text": "{character:player}A-Aren't we only performing scenes that only require the male and female leads?"
+  },
+  {
+    "line": 212,
+    "text": "{character:Hana Ninomiya}Since you put in so much effort to build me this stage, of course we need to start from the beginning."
+  },
+  {
+    "line": 213,
+    "text": "Hana Ninomiya takes a book from her bag and hands it to me. It is the novel \"The House of Music\". Maybe it is because it's so hot today, but her cheeks seem slightly red under the sun."
+  },
+  {
+    "line": 214,
+    "text": "{character:Hana Ninomiya}You can read this book when you forget the lines. Let's start now and not keep our audience waiting."
+  },
+  {
+    "line": 215,
+    "text": "{character:player}Haven't you finished reading it? Why are you still carrying it with you?"
+  },
+  {
+    "line": 216,
+    "text": "{character:Hana Ninomiya}Ah, I suddenly don't feel like performing the stage play."
+  },
+  {
+    "line": 217,
+    "text": "{character:player}No, don't! Let's start now! I speak first, right...?"
+  },
+  {
+    "line": 218,
+    "text": "{character:Hana Ninomiya}...Hehe."
+  },
+  {
+    "line": 219,
+    "text": "A pleasant breeze blows by. This afternoon, this small courtyard of Asaha High School is our secret stage..."
+  },
+  {
+    "line": 220,
+    "text": "{character:player}Ninomiya, you said you have a good memory. Since you've read it several times, I believe you know the lines by heart. This is a great advantage if you want to sign up for the part of the female lead."
+  },
+  {
+    "line": 221,
+    "text": "{character:Hana Ninomiya}...I've said this many times already. I'm not thinking of signing up."
+  },
+  {
+    "line": 222,
+    "text": "{character:player}Kana told me that you also took part in a stage play when you were in elementary school, and it was also \"The House of Music.\""
+  },
+  {
+    "line": 223,
+    "text": "{character:Hana Ninomiya}Then you should understand why I don't want to sign up. You only need to experience some things once in your life."
+  },
+  {
+    "line": 224,
+    "text": "{character:player}I understand how you feel, but I've noticed that you've started to re-read the novel of \"The House of Music\" recently. If you really want to forget that unhappy experience, you should be trying to avoid everything related to it."
+  },
+  {
+    "line": 225,
+    "text": "{character:Hana Ninomiya}...I just suddenly felt like reading it. There's no other reason."
+  },
+  {
+    "line": 227,
+    "text": "Hana Ninomiya sounds a little impatient. She puts away her book and starts getting up to leave."
+  },
+  {
+    "line": 228,
+    "text": "{character:player}Wait! Ninomiya, do you still remember how we met?"
+  },
+  {
+    "line": 229,
+    "text": "{character:Hana Ninomiya}...I remember. Why are you suddenly bringing it up?"
+  },
+  {
+    "line": 230,
+    "text": "{character:player}You once complained that I kept pestering you after I lost to you once. Well... It's because I like you, Hana Ninomiya."
+  },
+  {
+    "line": 231,
+    "text": "{character:Hana Ninomiya}Um..."
+  },
+  {
+    "line": 232,
+    "text": "{character:Hana Ninomiya}You... What are you trying to say?!"
+  },
+  {
+    "line": 233,
+    "text": "{character:player}I remember that I was surprised by your tenacity the first time we played. Whenever I thought you would give up, you would discard tiles cleverly to turn the situation around."
+  },
+  {
+    "line": 234,
+    "text": "{character:player}After watching you play mahjong next to you for so long, I've learned that you are not only tenacious, but also able to react to the changing situation on the mahjong table calmly. I've never seen you regret your decisions or give up when you're at a disadvantage."
+  },
+  {
+    "line": 235,
+    "text": "{character:player}You're always able to grasp that little bit of hope and make yourself shine. You said I'm one of the only people who notice you, but I actually find it strange how someone as dazzling as you is always ignored by others."
+  },
+  {
+    "line": 236,
+    "text": "{character:Hana Ninomiya}S-Stop it... Don't you think what you're saying is very embarrassing?!"
+  },
+  {
+    "line": 237,
+    "text": "{character:player}I'm just telling you what I really think. I really like you for how determined you are. That's why I'm worried that you'll have new regrets if you avoid signing up this time... I'm even worried that it'll affect the confidence you've built up at the mahjong table."
+  },
+  {
+    "line": 238,
+    "text": "{character:Hana Ninomiya}These two things are completely unrelated."
+  },
+  {
+    "line": 239,
+    "text": "{character:player}Ninomiya, I want to know why you are giving up this time. Is it because you think that you have a low chance of being selected, or are you unable to muster up the courage to sign up because you're worried that you'll get cold feet?"
+  },
+  {
+    "line": 240,
+    "text": "Hana Ninomiya once wondered whether she had also voted for Kana Fujita like everyone else and that it was just her wishful thinking that she had raised her hand to sign up for the role of the female lead."
+  },
+  {
+    "line": 241,
+    "text": "{character:player}I didn't consider your feelings the other day. The things I said must have made you really unhappy. I'm sorry, Ninomiya."
+  },
+  {
+    "line": 242,
+    "text": "{character:player}But... I'm not going to take back what I said. It's not a bad idea to give up to avoid failure, but the Hana Ninomiya I know... won't do that!"
+  },
+  {
+    "line": 243,
+    "text": "{character:player}Ninomiya, if you have even the slightest intention to participate in the stage play, I hope you can muster the courage to sign up."
+  },
+  {
+    "line": 244,
+    "text": "It's precisely because she has doubts about her past that I hope she can put it behind her for good."
+  },
+  {
+    "line": 245,
+    "text": "{character:Hana Ninomiya}..."
+  },
+  {
+    "line": 246,
+    "text": "Of course, it's my wishful thinking that she will try hard to get the part. I can't deny that I'm selfishly hoping she is still the Hana Ninomiya I know so well."
+  },
+  {
+    "line": 247,
+    "text": "I hesitated before coming here today. What would I do if Hana Ninomiya becomes even more angry with me after listening to what I said? What if she ignores me forever?"
+  },
+  {
+    "line": 248,
+    "text": "But I still decide to tell her what I really think. If I run away from my truest thoughts first, how can I expect her to be determined enough to face everything?"
+  },
+  {
+    "line": 249,
+    "text": "{character:Hana Ninomiya}You... You really are very selfish. Do you know how much your words are weighing on me?! How can you not blush after saying all that?!"
+  },
+  {
+    "line": 250,
+    "text": "{character:player}Sorry... I'm feeling a little embarrassed too now that I think about it..."
+  },
+  {
+    "line": 251,
+    "text": "{character:Hana Ninomiya}Geez... It's really frustrating! I finally managed to stop thinking about signing up... but after hearing you say all that, it's impossible for me to just give up..."
+  },
+  {
+    "line": 252,
+    "text": "{character:player}Eh? Ninomiya, y-you're willing to sign up?"
+  },
+  {
+    "line": 253,
+    "text": "{character:Hana Ninomiya}Isn't that what you want?"
+  },
+  {
+    "line": 254,
+    "text": "{character:player}Of course it is!"
+  },
+  {
+    "line": 255,
+    "text": "{character:Hana Ninomiya}Fine... I'll try one more time. After all, someone likes... someone has expectations for me, so I'll be too spineless if I don't do anything about it!"
+  },
+  {
+    "line": 256,
+    "text": "Her lenses become brighter. A determined look without a trace of hesitation that I'm very familiar with appears on Hana Ninomiya's face."
+  },
+  {
+    "line": 257,
+    "text": "{character:Hana Ninomiya}Since I've decided to sign up, I'll need to read the original work again quickly to familiarize myself with the details!"
+  },
+  {
+    "line": 258,
+    "text": "{character:player}I thought you said you didn't bring it..."
+  },
+  {
+    "line": 259,
+    "text": "{character:Hana Ninomiya}...I suddenly don't feel like signing up."
+  },
+  {
+    "line": 260,
+    "text": "{character:player}I didn't say anything! Start preparing now! Read it a few more times..."
+  },
+  {
+    "line": 261,
+    "text": "{character:Nana Shiraishi}Hi! Sorry for making you wait."
+  },
+  {
+    "line": 262,
+    "text": "{character:player}It's okay. I just arrived too. What's the result of the registration?"
+  },
+  {
+    "line": 263,
+    "text": "{character:Nana Shiraishi}Here's my phone. Look at it yourself."
+  },
+  {
+    "line": 264,
+    "text": "It's the weekend, and I've asked Nana Shiraishi to come to a restaurant near Asaha High School so I can see the videos she took on the day of the class meeting."
+  },
+  {
+    "line": 265,
+    "text": "In the video, after hearing the class monitor ask: \"Who wants to sign up to be the female lead?\" Hana Ninomiya raises her hand decisively and stands up to speak."
+  },
+  {
+    "line": 266,
+    "text": "{character:Hana Ninomiya}I want to sign up to be the female lead because I love the original novel of \"The House of Music\". I've watched the adapted movie many times too, and I think the female lead Miriam is a very charming character..."
+  },
+  {
+    "line": 267,
+    "text": "{character:Nana Shiraishi}You're such a worrywart. You're even making the effort to confirm whether Hana signed up."
+  },
+  {
+    "line": 268,
+    "text": "{character:player}That's not it. I believe that Ninomiya will definitely sign up for the part, and I just don't want to miss out on that moment."
+  },
+  {
+    "line": 269,
+    "text": "Not everything is perfect in real life. Hana Ninomiya failed to get the part of the female lead by a narrow margin, but... looking at the relieved smile on her face, I believe she has made peace with her past regrets. At least... she'll never doubt her own courage again."
+  },
+  {
+    "line": 270,
+    "text": "{character:player}Hmm? Sorry, I need to take a phone call."
+  },
+  {
+    "line": 271,
+    "text": "{character:Hana Ninomiya}It's almost time, and everyone else except Nana has arrived. Did you forget to tell her?"
+  },
+  {
+    "line": 272,
+    "text": "{character:player}She's with me right now. I'll come over with her in a moment."
+  },
+  {
+    "line": 273,
+    "text": "{character:Hana Ninomiya}Okay, I'll go and get ready then. See you later."
+  },
+  {
+    "line": 274,
+    "text": "{character:Nana Shiraishi}Was that Hana?"
+  },
+  {
+    "line": 275,
+    "text": "{character:player}Yeah. Do you have anything to do after this? I'll take you somewhere..."
+  },
+  {
+    "line": 276,
+    "text": "I guide Nana Shiraishi to the courtyard of the gardening club, where several people we know are already sitting and waiting."
+  },
+  {
+    "line": 277,
+    "text": "{character:Nana Shiraishi}Oh? You're all here."
+  },
+  {
+    "line": 278,
+    "text": "Ransei"
+  },
+  {
+    "line": 279,
+    "text": "{character:Ransei}Master, why did you ask me to come here?"
+  },
+  {
+    "line": 280,
+    "text": "{character:Kana Fujita}{var:player_nickname}, you said something fun will happen. You can tell us now, right?"
+  },
+  {
+    "line": 281,
+    "text": "Other than Ransei and Kana Fujita, Eliisa, Kirara Fujimoto, and several others are here too. One thing they all have in common is that they are lucky enough to be fellow problem children on Ren's list."
+  },
+  {
+    "line": 282,
+    "text": "{character:player}I think everyone is here. Ahem! I've invited all of you here today to watch a stage play performance!"
+  },
+  {
+    "line": 283,
+    "text": "Kirara Fujimoto"
+  },
+  {
+    "line": 284,
+    "text": "{character:Kirara Fujimoto}A stage play? {var:player_nickname}, will you be performing? It's going to be interesting!"
+  },
+  {
+    "line": 285,
+    "text": "Eliisa"
+  },
+  {
+    "line": 286,
+    "text": "{character:Eliisa}I only see Mr. Wolf here. Ah! Liisa Liisa understands, you're performing a stand-up comedy!"
+  },
+  {
+    "line": 287,
+    "text": "{character:player}A stand-up comedy and a stage play are two entirely different things... Of course I won't be the only one on the stage. Let's welcome today's female lead - Hana Ninomiya - to the stage!"
+  },
+  {
+    "line": 288,
+    "text": "{character:Nana Shiraishi}Eh? Don't tell me you two will be performing \"The House of Music\"!"
+  },
+  {
+    "line": 289,
+    "text": "{character:player}Correct! Nana gets one point."
+  },
+  {
+    "line": 290,
+    "text": "{character:Kana Fujita}We're competing to answer first?! This is one of my strengths! I'm ready for the next question!"
+  },
+  {
+    "line": 291,
+    "text": "{character:player}No, there aren't any more. This isn't a real variety show..."
+  },
+  {
+    "line": 292,
+    "text": "{character:Nana Shiraishi}Have you done this for Hana?"
+  },
+  {
+    "line": 293,
+    "text": "{character:player}Yeah, it took me a while to convince her."
+  },
+  {
+    "line": 294,
+    "text": "Although it's a shame that Hana Ninomiya didn't get the part, it doesn't mean she won't get the chance to perform."
+  },
+  {
+    "line": 295,
+    "text": "Since she has the courage to sign up, even if both the stage and audience are smaller, I hope that she will be able to perform one of her favorite stage plays. She is the female lead I want to see on the stage."
+  },
+  {
+    "line": 296,
+    "text": "{character:Ransei}Master, why hasn't Ninomiya-senpai come out yet?"
+  },
+  {
+    "line": 297,
+    "text": "{character:player}This is strange... I've already asked her to come out..."
+  },
+  {
+    "line": 298,
+    "text": "{character:Hana Ninomiya}...I-I'm right here."
+  },
+  {
+    "line": 299,
+    "text": "{character:player}Huh?! Ninomiya, when did you get here?!"
+  },
+  {
+    "line": 300,
+    "text": "Was I too focused on chatting with the others? I didn't realize that Hana Ninomiya was behind me at all."
+  },
+  {
+    "line": 301,
+    "text": "{character:Hana Ninomiya}(whisper) About just then... {var:player_nickname}, why don't we tell everyone it's just a joke and skip the performance..."
+  },
+  {
+    "line": 302,
+    "text": "Th-This is strange. Why does it seem like Hana Ninomiya is becoming increasingly transparent? Could it be that she has become more transparent because of stage fright?!"
+  },
+  {
+    "line": 303,
+    "text": "{character:Nana Shiraishi}...What are you just standing there for?! Don't you speak first in the opening scene?"
+  },
+  {
+    "line": 304,
+    "text": "{character:player}Oh! You're right."
+  },
+  {
+    "line": 305,
+    "text": "I need to make the first move. At this point, I can't let Hana Ninomiya run away from this stage where she will shine!"
+  },
+  {
+    "line": 306,
+    "text": "{character:player}Ahem... Sister Margaret has told me about the situation. Miss Miriam, you've come here to apply to be the governess here, right?"
+  },
+  {
+    "line": 307,
+    "text": "{character:Hana Ninomiya}Y-Yes..."
+  },
+  {
+    "line": 308,
+    "text": "{character:player}Let me show you around the manor. Remember, there are some rooms you must not enter..."
+  },
+  {
+    "line": 309,
+    "text": "As I speak, I hold Hana Ninomiya's hand and walk around the courtyard like I'm showing her the rooms."
+  },
+  {
+    "line": 310,
+    "text": "{character:Nana Shiraishi}You can do it, Hana! Now's the time to show off your beautiful singing!"
+  },
+  {
+    "line": 311,
+    "text": "{character:Kirara Fujimoto}Oh? There's even singing?!"
+  },
+  {
+    "line": 312,
+    "text": "{character:Eliisa}Liisa Liisa is looking forward to it!"
+  },
+  {
+    "line": 313,
+    "text": "Maybe the others can see that Hana Ninomiya has stage fright, so they all start cheering for her. With everyone's encouragement, Hana Ninomiya starts to act like herself again."
+  },
+  {
+    "line": 314,
+    "text": "{character:Hana Ninomiya}I'm confident. Let them test me! I'm confident that I'll be in control of the world because I'm confident in myself!"
+  },
+  {
+    "line": 315,
+    "text": "{character:Hana Ninomiya}I'm confident in the sun. I'm confident in the rain... I believe spring will arrive as promised!"
+  },
+  {
+    "line": 316,
+    "text": "Her joyful singing merges with the wind, which makes the potted plants sway, as if they are paying tribute to the owner who has been taking care of them."
+  },
+  {
+    "line": 317,
+    "text": "Just like how Hana Ninomiya wants to be a spark that lights up the world for the potted plants, I also hope to be a star that lights up her dreams..."
+  },
+  {
+    "line": 318,
+    "text": "{character:player}Hold your horses, Ninomiya. I'm not trying to persuade you to sign up."
+  },
+  {
+    "line": 319,
+    "text": "{character:player}I'm sorry for trying to persuade you to participate in the stage play without caring about your feelings. I even said something terrible like \"it isn't like you to...\""
+  },
+  {
+    "line": 320,
+    "text": "{character:player}It's okay. Ninomiya, I respect your decision not to register for the stage play. Actually, if you want to perform in the stage play, you don't have to sign up as an actor."
+  },
+  {
+    "line": 321,
+    "text": "{character:Hana Ninomiya}What are you saying?"
+  },
+  {
+    "line": 322,
+    "text": "{character:player}I watched other people's rehearsals of the stage play of \"The House of Music\" online and found that there are a lot of narrations. If it's the same for the version your class is performing, then it would also be good if you could be the narrator since you've got such a beautiful voice."
+  },
+  {
+    "line": 323,
+    "text": "{character:Hana Ninomiya}...Oh, so that's what you're thinking. I'm sorry. I thought you were going to persuade me to sign up for the part again, so I subconsciously wanted to run away."
+  },
+  {
+    "line": 324,
+    "text": "{character:player}I was going to persuade you to sign up for the role of the female lead, but... I decided to respect your decision in the end. You don't need to force yourself if you don't want to do it."
+  },
+  {
+    "line": 325,
+    "text": "{character:player}I just think it's a shame if you don't participate in this stage play since you like it so much. I want you to enjoy this class activity as much as possible. Sign up to be the narrator, Ninomiya."
+  },
+  {
+    "line": 326,
+    "text": "{character:Hana Ninomiya}...I can't decide now."
+  },
+  {
+    "line": 327,
+    "text": "{character:player}Eh? Is it still too much to be the narrator?"
+  },
+  {
+    "line": 328,
+    "text": "Have her unpleasant memories of the past made her reject a stage play with this theme to such an extent?!"
+  },
+  {
+    "line": 329,
+    "text": "{character:Hana Ninomiya}{var:player_nickname}, although you say that I have a beautiful voice, that's just your subjective opinion. Also, it's useless to have just a beautiful voice if it doesn't have any emotions."
+  },
+  {
+    "line": 330,
+    "text": "{character:Hana Ninomiya}Unless... you're willing to be my audience and evaluate my narration performance after actually listening to it."
+  },
+  {
+    "line": 331,
+    "text": "{character:player}I see what you mean. Sure thing!"
+  },
+  {
+    "line": 332,
+    "text": "{character:Hana Ninomiya}Let's get on with it them."
+  },
+  {
+    "line": 333,
+    "text": "As she speaks, Hana Ninomiya takes out the novel version of \"The House of Music\" from her bag. I knew it. She hasn't put this performance behind her completely."
+  },
+  {
+    "line": 334,
+    "text": "{character:Hana Ninomiya}I'll start narrating now..."
+  },
+  {
+    "line": 335,
+    "text": "In the courtyard, the wind carries Hana Ninomiya's voice into my ears, and the potted plants around me keep me company as I listen quietly to her gentle words."
+  },
+  {
+    "line": 336,
+    "text": "This is truly a masterpiece. I can understand why Hana Ninomiya loves \"The House of Music\" so much."
+  },
+  {
+    "line": 337,
+    "text": "I like it even more since the narrator has such a beautiful voice."
+  },
+  {
+    "line": 338,
+    "text": ""
+  },
+  {
+    "line": 339,
+    "text": "Half an hour later"
+  },
+  {
+    "line": 340,
+    "text": "Persuade Hana Ninomiya to participate in the stage play again"
+  },
+  {
+    "line": 341,
+    "text": "Persuade her to participate in the stage play in another form"
+  },
+  {
+    "line": 342,
+    "text": "Several days later"
+  }
+]

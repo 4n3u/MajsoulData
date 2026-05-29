@@ -1,0 +1,306 @@
+1:player
+2:{character:player}...*Sighs* I guess I won't be getting a good spot today...
+3:I can't help but sigh when I see the long line outside the tent.
+4:The performing troupe Soul puts on public performances every Saturday and Sunday without exceptions. Unlike other troupes, Soul doesn't charge different fares based on the seating, so whether you manage to grab a good spot depends entirely on how early you get your seat.
+5:But why are there so many people still outside even though the show should be starting soon? The queue is also a mess, and no one has come out to maintain order.
+6:With these doubts in my mind, I play with my phone as I queue up and move slowly to the ticket inspector.
+7:Ticket Inspector
+8:{character:Ticket Inspector}Oh... It's you. I was just wondering why I haven't seen you today.
+9:As I haven't missed a single performance, I've become quite familiar with the ticket inspectors and other employees who greet the audience.
+10:{character:player}I got held up on my way here, so I'll guess I'll take whatever seat you got. By the way, you aren't looking so good. Are you feeling unwell?
+11:{character:Ticket Inspector}It's been getting hotter recently... I'm getting old, and the constant alternation between hot and cold makes me uncomfortable. It's only a small problem though. I'm okay, so don't worry. You better go inside first...
+12:{character:Ticket Inspector}Everyone in the line, please line up properly, and no pushing.
+13:The weak voice of the ticket inspector, who is speaking into a loudspeaker held with trembling hands to maintain order, doesn't really seem "okay" to me.
+14:{character:player}Where's the lady who usually maintains order?
+15:{character:Ticket Inspector}She is suffering from a heat stroke and has been feeling unwell since the morning... Most of the employees of the troupe are old like us, and everyone has been feeling unwell in one way or another recently. Come in—next...
+16:So the ticket inspector is responsible for two people's duties today. No wonder it's taking longer than usual to get everyone inside and seated today.
+17:{character:player}...Can I use this employee's hat and your loudspeaker? I'll maintain the order while you focus on checking tickets here.
+18:{character:Ticket Inspector}Eh? I can't make you do that.
+19:{character:player}The show is about to start. Let's not waste any time.
+20:Since I can't sit in the front row tonight, it doesn't really matter whether I enter earlier or later. Without waiting for the ticket inspector to reject my offer, I walk along the line to appease the impatient audience.
+21:{character:player}Phew, we just made it.
+22:Thanks to our joint efforts, we manage to get everyone inside just before the show starts.
+23:{character:Ticket Inspector}Thank you so much. I have no idea how late the show would've started if you didn't help me.
+24:{character:player}You're welcome. You guys help me get Soul's merch all the time. This little favor is nothing.
+25:{character:Ticket Inspector}You should go inside too. I need to help out backstage, so I probably shouldn't be chatting here...
+26:{character:player}Hasn't everyone gone inside already?
+27:{character:Ticket Inspector}A lot of people are on leave today, so we're short on hands. I'm still okay, so I should help out more.
+28:That's what the ticket inspector is saying, but I can't stop worrying about his ashen complexion.
+29:{character:player}...Why don't I help out backstage for you? You shouldn't force yourself. Just get some rest.
+30:{character:Ticket Inspector}No, that won't do! How can I let you help me—Urgh...
+31:{character:player}Um, calm down first.
+32:The ticket inspector's flushed face makes me worry about his health, so I quickly help him sit down slowly in a cool place.
+33:{character:Ticket Inspector}No, no, no... That won't be appropriate.
+34:{character:player}You should see how bad you look. I won't feel good about myself if I leave now to watch the show.
+35:{character:player}What if you collapse while working and cause a commotion? That would affect the performance, right?
+36:{character:Ticket Inspector}Well...
+37:{character:player}Since I can't get a good spot tonight, maybe I'll see things better from the backstage. It'll be a win-win situation.
+38:{character:Ticket Inspector}...Well, I'll thank you in advance then. I'll rest here first and find you once I feel better.
+39:The ticket inspector shows me the direction to the backstage. After I put on his hat, he makes a phone call to explain something to the other person on the phone, then he lies down on the table. It isn't long before I hear his snoring...
+40:The first thing I hear after stepping into the backstage is the familiar dance music. As a loyal fan, just hearing the melody makes me think of Sara's dancing figure on the stage.
+41:{character:player}Oh, come to think of it, who was the ticket inspector going to help again?
+42:{character:player}...He's sleeping so soundly that it'll be bad to disturb him now. I wonder who I can ask.
+43:???
+44:{character:???}Who are you?
+45:Someone speaks to me just as I am in a bit of a pickle. I turn my head and see a familiar figure.
+46:It's Ciri, one of the performers of Soul. Her animal-taming show is a must-watch performance here.
+47:Ciri
+48:{character:Ciri}Who are you? What are you doing here in the backstage?
+49:{character:player}Hi, the ticket inspector isn't feeling well, so I've come to help out in the backstage.
+50:{character:Ciri}You're here to help out in the backstage... Oh, I know what you are.
+51:It seems that the ticket inspector's call was to tell others that I would be helping out.
+52:{character:Ciri}You're quite suspicious.
+53:{character:player}Yes, yes... WAIT! No, no, no! I... Didn't I just tell you that I'm here to help out?
+54:{character:player}Look, I even have one of the hats worn by the staff here.
+55:{character:Ciri}...You definitely stole it.
+56:{character:player}I see you're determined that I'm a suspicious person... Then what do I need to do to make you trust me?
+57:Elderly Man
+58:{character:Elderly Man}Ciri, what's happening over here? Is this person... a customer who has gotten lost?
+59:{character:Ciri}It's a suspicious person.
+60:{character:player}I already told you I'm not...
+61:{character:Elderly Man}Oh, that hat... Are you the youngster the ticket inspector said will come to help out?
+62:{character:player}Thank goodness! Finally, someone who knows what's going on.
+63:{character:Ciri}You... You're really here to help?
+64:{character:player}Why do you look so disappointed...?
+65:{character:Elderly Man}Haha! I'm sorry, Ciri doesn't mean any harm. She's just very vigilant because thieves have come in and stolen things a few times while we were busy.
+66:{character:Elderly Man}She said she would catch the thief and teach them a good lesson, so she's probably disappointed that she won't get her chance for now.
+67:{character:player}I see.
+68:{character:Ciri}I'm sorry for wrongfully accusing you.
+69:Ciri bows her head solemnly as she apologizes. How can I not forgive her given her sincere attitude?
+70:{character:player}It's okay. I mean, we sorted out the misunderstanding, right? Let's go back to business then, what can I help you with right now?
+71:{character:Elderly Man}The ticket inspector said he would help me today. However, Ciri, didn't the person who should tidy the dressing room in the morning today also ask for leave?
+72:{character:Ciri}Yeah, but you can take this person if you need help. We can tidy the dressing room by ourselves later.
+73:{character:Elderly Man}Why don't you choose what you want to do? Would you like to handle some chores in the dressing room or follow me and help me with the stage?
+74:{character:player}I'll help out in the dressing room.
+75:Although I'm more interested in helping out on the stage, I'll probably mess things up since I don't have any experience. It's better to do something I know I can do.
+76:{character:Elderly Man}Sure. What do you think, Ciri?
+77:{character:Ciri}The dressing room is over there. I'll take you there.
+78:Ciri opens the door at the end of the corridor and leads me into the dressing room. After explaining some things briefly, she says she needs to prepare for her upcoming performance with the animals and leaves. After that, I start tidying up according to her instructions.
+79:{character:player}...This place isn't that big. It wouldn't take that much time if I don't need to sort the garbage.
+80:After cleaning the floor, I go to the sink to wet a rag and start cleaning the performers' dressing tables. On the outermost side is a table covered with colored paper and ribbons. There are even props such as playing cards and small throwing knives on it.
+81:{character:player}This must be Ryan's table. There's a book here. I wonder if it's about magic... Umm...
+82:"The Proper Way to Treat Onee-Sama" ... Although I'm slightly interested, my instinct tells me not to get look too deeply into it.
+83:{character:player}Okay, let's put it away. The colored paper and ribbons can be thrown away. Now I'll just put this there... Done. Time for the next task.
+84:I turn my head to look at the table on the left. Judging from the cans of pet food and the black leopard plushie on the surface, I assume this is Ciri's table. There's a tattered book under the toy. The title on the cover is: "The Correct Way to Get Along With Humans."
+85:{character:player}...Shouldn't it be something like "The Correct Way to Get Along With Animals"? Animal tamers are interested in researching such... mysterious things.
+86:Sara's table is next to Ciri's countertop, and all her cosmetics are lined up in front of the mirror in an orderly manner, so all I need to do is to wipe the dust on the table. Unfortunately, there are no books. I wonder what Sara usually reads.
+87:The other dressing tables seem to have been unused for some time as they are covered in dust. The only exception is a table with a particularly conspicuous clown mask on it.
+88:{character:player}So there's a clown in Soul? Why have I never seen this person?
+89:{character:Ciri}There used to be.
+90:{character:player}Eek! W-When did you get back here?
+91:{character:Ciri}Just now.
+92:{character:player}You walk so silently that you gave me a fright... If that person has already left, why is this mask still here?
+93:{character:Ciri}Sara said he might come back for it, so you can just leave it there. However, even seeing the belongings of that traitor fills me with disgust.
+94:{character:player}Traitor?
+95:{character:Ciri}It's all in the past now. Sara can tell you herself if she wants to.
+96:{character:Ciri}Although I dislike that person, it has been kinda troublesome since the clown left.
+97:{character:player}Troublesome?
+98:{character:Ciri}The clown was a popular member of our troupe. When he left, he took some of our performers and audience with him, so now everyone has to work harder to win back some of the audience we lost...
+99:Cici looks up at the program list on the wall as she speaks, and I also do the same.
+100:{character:player}The list is basically filled up by the performances of the few of you. And it looks like Sara has the most shows to perform.
+101:{character:Ciri}Magic performances require lots of props that need to be prepared in advance, and animals have limited energy, so neither Ryan nor I can perform for long periods of time... Everyone has their own inconveniences.
+102:{character:player}So... Sara volunteered to fill up the remaining slots in the program?
+103:{character:Ciri}We tried to persuade her not to, but she said it's her duty as our leader... If only someone can change her mind.
+104:The sense of responsibility of the leader, huh...? Unless I'm mistaken, today is Sara's birthday, yet, she's still so busy.
+105:{character:player}...Ciri, I'm almost done here. Is there anything else I can do? Today is Sara's birthday, so I want to lighten her load as much as possible since I'm helping out already.
+106:{character:Ciri}You've already done a lot. As for other things... It's not like we can get you to perform on the stage.
+107:{character:Ciri}It's time for me to go on stage. You can take a break after you're done... Thank you.
+108:After Ciri leaves, with the mentality of not doing things by half measures, I clean the unused dressing tables too. All that's left now is the last step: return the clothes scattered everywhere to the wardrobe next door.
+109:{character:player}Is this a clown costume?
+110:A red and white costume is hanging all alone in a corner on the left side of the room. A pair of funny big-toed shoes is placed under it.
+111:{character:player}The gloves are inside its pocket, and there's a mask on the dressing table outside...
+112:"It's not like we can get you to perform on the stage" ...Although Ciri said that, everything I need for a clown performance is spread out in front of me. I would be lying if I said I wasn't getting some ideas.
+113:I happened to have watched some videos of clown performances recently when I was bored and watching short videos. I'm not confident that I can come up with a decent program on short notice like this, but maybe I can do something wacky and support them with a little performance?
+114:I must want to do it since I'm hesitating. In that case, I might as well just do it!
+115:I play the short videos I watched again and think carefully about which performances I can do. After that, I wear the clown costume and pick some props before heading to the stage...
+116:Sara
+117:{character:Sara}Hey!
+118:Sara happens to be performing when I'm making my way to the backstage. Unfortunately, I can't see very clearly from where I am, but it's still a novel experience to appreciate her dancing from this distance.
+119:The music stops and Sara bows to the audience. I start clapping with everyone else. As the next melody starts, I suddenly remember that I am intending to perform on stage, so I hurriedly put on the clown mask, pick up my props, and head onto the stage.
+120:{character:Sara}...Eh?
+121:Audience A
+122:{character:Audience A}A clown? This is strange. Is there a clown performance today?
+123:Audience B
+124:{character:Audience B}Soul's got another clown? Is it someone new?
+125:When Sara sees me after I come onto the stage, she is obviously taken aback... Actually, I should say she is outright surprised. She's not the only one though, as the whole audience is wondering who this unexpected performer is.
+126:{character:player}(whisper) Sara, it's me.
+127:{character:Sara}(whisper) ...It's you? What are you doing?
+128:{character:player}(whisper) It's too much trouble to explain everything, but I'm basically here to help out.
+129:{character:player}(whisper) Sara, you should get off the stage and get some rest first. I'll entertain the audience during this time until it's time for you to come back up here.
+130:After speaking, I wave at the audience and receive some appreciative applause from them. Sara falls silent for a moment, then she quickly walks to the end of the stage after saluting the audience. Just like that, the stage is mine.
+131:{character:player}(whisper) Phew... Let's do this! (loudly) Yee—ah—haa—!
+132:I imitate the screams of excitement I saw on that video to give myself courage and to signal the beginning of my show, then I take out some colored balls and start juggling.
+133:The only things I've prepared are simple performances like juggling colored balls and catching hoops since I can't handle anything too complicated. I'm not hoping for lots of applause. I'm happy as long as Sara gets to rest for a little longer before she does her next performance.
+134:However, as I start distributing balloons to the audience, something unexpected happens...
+135:Little Girl
+136:{character:Little girl}Mommy, when will the clown start riding the unicycle?
+137:Woman
+138:{character:Woman}Be patient, dear. Can't you see the unicycle on the stage? The clown will ride it after handing out the balloons.
+139:{character:Little girl}Wow!
+140:{character:player}Um...
+141:It's true that riding a unicycle is a traditional clown performance, but it's a little difficult for a novice clown like me.
+142:...While that's true, I can't really say no to the look of expectation on the child's innocent face.
+143:{character:player}It shouldn't be that different from an ordinary bicycle... right?
+144:With great trepidation, I sit on the unicycle, lower my center of gravity, and try to step on the pedal.
+145:Oh! It's started to move! I should be okay as long as I keep my arms open and maintain my balance! I'll ride a lap slowly like this until Sara or someone else comes onto the stage for the next performance on the program!
+146:{character:Little girl}Mommy, can't the clown juggle balls while riding the unicycle?
+147:{character:player}Ahaha... Little girl, can you not be so demanding? Eh?!
+148:Oh no! I got distracted and am about to fall!
+149:Just as I'm about to fall to the ground and make a fool of myself, two hands reach out, clasping my palms and pulling my body up firmly, and start guiding me forward.
+150:{character:Sara}Ahaha... that looks slightly dangerous.
+151:{character:player}Y-You saved me... Thanks.
+152:{character:Sara}Hehe, you're welcome. The music hasn't stopped, so let's continue with our performance.
+153:{character:Little girl}Look, mommy, the clown is dancing with that lady!
+154:Audience C
+155:{character:Audience C}The clown and the dancer dancing together? Speaking of which, Soul indeed used to have this performance!
+156:As the audience said, Sara doesn't just lead me around but also guides me to dance to a funny and light melody.
+157:Dancing with Sara... I never even dreamed of something so amazing!
+158:I'm so elated by this wonderful experience that I stand in a daze on the stage for a while when the music ends before I manage to say goodbye to Sara and the audience and go backstage.
+159:...Hold on.
+160:{character:Sara}Hmm...
+161:{character:player}Did Sara manage to rescue me in time because she was paying attention to me when she was behind the stage?
+162:{character:player}...
+162:{character:Sara}...
+163:I seem to have troubled Sara anyway in the end. I start developing mixed feelings. Did I really manage to help her out?
+164:{character:Sara}Um, are you leaving already? I haven't thanked you yet.
+165:After enjoying the last performance from behind the stage, I return to the wardrobe to change and am about to leave just as Sara comes in. She is holding two cups of tea, so I find a place to sit down and start chatting with her while sipping the tea.
+166:{character:Sara}I heard about everything that happened from Ciri. The ticket inspector is feeling much better now after an afternoon of rest.
+167:{character:player}You're welcome. I just helped out a little. I think I got the better deal because I got to see you perform up close from backstage. It's not easy to get such a special seat.
+168:{character:player}But... It seems like I did something unnecessary by coming onto the stage. Sorry about that.
+169:{character:Sara}Why are you suddenly apologizing?
+170:{character:player}It looked like you would have to do several consecutive performances, so I wanted to give you a break so you can rest. In the end, I had an accident and made you come to my rescue.
+171:{character:Sara}Oh, you're talking about your guest performance. I still don't understand why you're apologizing though.
+172:{character:player}Um, was I not clear enough... Well, I wanted to give you some time to rest, but it seemed like you were watching the stage closely because you were worried. That's why you managed to appear in the nick of time and help me. Is that not the case?
+173:{character:Sara}Haha, I was watching you, but mainly because I wanted to enjoy your performance. I wasn't really worried.
+174:{character:Sara}Also, since we completed the performance successfully, there's no such thing as an "accident" to the audience. In their mind, everything was planned for theatrical purposes.
+175:{character:Sara}Not only did I receive your kind and considerate thoughts, but the audience also got a special performance, so I say today is good day. Don't you agree?
+176:{character:player}...Hahaha, you have a point.
+177:Today is Sara's birthday. As long as she's happy, then it is a good day for her.
+178:{character:Sara}Here, this is for you.
+179:{character:player}What's this? A clown mask?
+180:{character:Sara}I painted this pattern myself. This is a small gift to thank you for helping out today.
+181:Huh? A mask that Sara painted personally? This is a real treasure for a fan like me!
+182:{character:Sara}Each clown has their own mask. I think this smiling face is more suitable for you. As for the other mask... Let's leave it sitting there quietly until its owner returns.
+183:Recalling what Ciri said and hearing Sara's cryptic tone, I realize that there should be a story behind that mask. I would be lying if I said I wasn't curious, but it wouldn't be polite for an outsider like me to ask too many questions about this, so I better not think too much about it.
+184:{character:player}It's your birthday today. Instead of giving you a gift, I'm receiving one from you instead. This feels a little strange.
+185:{character:player}Speaking of which, the work of the troupe is harder than I imagined... The program is so full even though it's your birthday today.
+186:{character:player}The ticket inspector told me that most of the workers of the troupe are elderly, so this must not be the first time that you have had a shortage of manpower, right?
+187:{character:Sara}You're right that it isn't the first time, but the climate of One Han City is quite mild, so everyone has become healthier since we came here. In other places, it's quite common for us to need to rest because many members of the troupe are feeling unwell at the same time.
+188:{character:player}Why doesn't the troupe consider recruiting some younger staff? Oh, don't get me wrong. I have nothing against the senior members of the troupe... but it should be more convenient to have younger people around to do the heavy lifting.
+189:{character:Sara}We have considered that before, but it's not as easy as it seems.
+190:{character:Sara}Although Soul is relatively famous, it's now an old troupe that might close down at any time. A place like this isn't that attractive to younger people.
+191:{character:Sara}What's more, the troupe's current income is only enough for us to maintain the current roster of staff. We're not in a position to recruit more people.
+192:{character:player}I see, so there really isn't much you can do about that.
+193:{character:Sara}There are some ways. For example, many people have advised me to replace the older employees with younger ones. They said we might be able to attract other performers to join us if the working environment becomes younger or something.
+194:{character:player}To most people, this really would be an effective method.
+195:{character:Sara}Do you also think so?
+196:{character:player}I agree with that on a rational level, but... humans rarely make decisions purely on their rational judgment.
+197:Unless it's a matter of life and death, it's difficult for people to decisively give up certain things, even though they are clearly "unprofitable"... At least that's what I think right now.
+198:{character:player}Even if I agree with that, I still wouldn't make such a recommendation because you must have your own considerations as the leader.
+199:{character:Sara}Being rational or emotional... Hehe, actually, I haven't thought so deeply about it. I just don't think I have the right to do that.
+200:{character:player}You don't have the right?
+201:{character:Sara}To me, Soul is a carriage, and we all happened to get on the same carriage by chance.
+202:{character:Sara}We all made our own decision to get on, so everyone should have the right to decide when their own journey will end. No one else should be able to decide that for them. This is our respect for each other. Even if I'm the leader, I'm really just another passenger.
+203:{character:player}You have a point... but there should still be something special about being the leader, right?
+204:{character:Sara}Maybe... Like I'm sitting at the very front of the carriage or have a driving whip in my hand? Hehe...
+205:{character:Sara}What makes us Soul is that everyone is on this carriage. If this problem can be solved by changing people, wouldn't it be more convenient for me to change the carriage? However, I don't want to get off this carriage yet.
+206:{character:Sara}But I don't know how long my journey as the leader can go on. Perhaps my own journey will be over before the carriage is forced to stop. After all, like I just said, I'm just one of the passengers.
+207:{character:Sara}So how can an irresponsible leader like me decide whether our members stay or leave? I can't do anything. I can only dance until the end of the journey and leave everything up to fate.
+208:{character:Sara}Also... I have my own selfish motives too. After all, not any old troupe can tolerate a person like me who does whatever I want on the stage.
+209:{character:player}...I think that you're already very responsible. Dancers should focus on dancing. It's more suitable to say that your journey can continue because you're still in love with dancing.
+210:More often than not, it takes a lot of effort to do one's own duties well. And everything else is probably just up to fate as you say.
+211:{character:Sara}"Dancers should focus on dancing." Thank you, I really like this quote. Somehow, our conversation is getting more and more complicated, so let's talk about something else. How did it feel to perform on a stage for the first time?
+212:{character:player}To be completely honest with you, I was really nervous. But I relaxed once I got on stage and focused on my performance. I even started to find it fun.
+213:{character:player}You might not believe this, but when I almost fell off the unicycle, my first thought was: "how can I fall in a way that can make this show better."
+214:{character:Sara}Oh, to be able to think something like that means you've got a talent for performing.
+215:{character:player}Haha, thanks for the praise! But what I'm happiest about is that I got to dance with you, Sara. This is an incredible thing for a fan like me.
+216:{character:player}Since you gave me this mask, you can get me to come back for a guest performance the next time you feel tired. If you don't have enough people to help you, don't hesitate and just tell me. No matter how good the climate is in One Han City, elderly people will feel physically unwell from time to time.
+217:{character:player}...W-Why are you suddenly so silent? Did I say something weird?
+218:{character:Sara}No, but I've never met someone as weird as you who is so proactive about wanting to help out.
+219:{character:player}There's nothing weird about it. It's because I like watching you dance, Sara.
+220:{character:Sara}That's it?
+221:{character:player}Is that reason not good enough? I... I don't know when your journey will end, Sara, how far Soul can travel, or when I'll no longer be able to watch your dancing.
+222:{character:player}But it's pointless to worry about these things. The only thing I can do is do my best to ensure this carriage can travel a little farther so I can watch more of your performances. You're doing your best in your own way, so I've decided to do what I can to help you.
+223:{character:Sara}...I understand. Thank you, and please help us again if we need your help suddenly.
+224:{character:player}You don't need to say "please." That sounds so formal.
+225:{character:Sara}Hehe, we're going to have dinner to celebrate my birthday a little later. Come and join us.
+226:{character:player}Woohoo! I get a free birthday meal.
+227:Oh, speaking of it, there's something important I haven't said yet.
+228:{character:player}Sara.
+229:{character:player}Umm.
+229:{character:Sara}Hmm?
+230:{character:player}Happy birthday.
+231:{character:Sara}Oh, that's the best thing I've heard all day.
+232:{character:player}...Forget it.
+233:I might mess up the schedule if I jump on stage out of the blue, and I feel so nervous and scared just thinking of performing in front of so many people.
+234:{character:player}I should take a look somewhere else after I finish cleaning the wardrobe. Maybe there's another place I can help out.
+235:{character:player}How about I help you out then?
+236:{character:Elderly Man}Sure, come with me.
+237:I'm more interested in helping out with the stage performances. Since the elderly man is letting me help out, maybe he needs me to do something that doesn't require much professional experience.
+238:I follow the elderly man to the back of the auditorium. We chat as we walk, which is how I find out that he's the gaffer here, and my main task today is to help him control the followspot.
+239:The followspots are set up in the center of the last row of the auditorium. Although I've watched several performances from here, it's my first time taking part in stage work, so I can't help but feel a little excited.
+240:Gaffer
+241:{character:Gaffer}...Did you get all that? The start button is this big white dot, and the dial on the right is used to change the color of the light. You won't need the other buttons for today's performance, so just don't touch them, and you'll be fine.
+242:{character:Gaffer}After a while, Sara and the other performers will come on stage. When the lights on top of them fall on them, you'll also aim the followspot at them. It's okay if you miss them at first. You can just adjust the light slowly.
+243:{character:player}Got it! I'll ask you if there's anything else I don't get.
+244:{character:Gaffer}Okay, I'll go handle something else then. Just let me know if there's anything you need to tell me.
+245:As a brisk melody starts playing, three spotlights point at the center of the stage in sequence, illuminating Sara's figure.
+246:Since the lead actors are on the stage, I set the followspot to illuminate her feet as she walks on the stairs. There's a period of time when she doesn't need to move at the beginning of this dance, which gives me time to make adjustments.
+247:{character:player}This melody... I think Sara should be starting to move now, and the light should switch to blue...
+248:{character:Gaffer}Oh? You seem to know what you're doing. Do you do this for a living?
+249:{character:player}There's no such thing. It's just that I've watched this dance so many times that I have some impression of how Sara moves as she dances and when and what color the lights should be.
+250:{character:Gaffer}Haha, so I've enlisted a hardcore fan. It looks like I can just sit back and leave this to you.
+251:{character:player}Sure thing.
+252:Although I'm familiar with the dance, the followspot is still a little hard to control. This could be because the machine is too old, isn't very flexible, and takes some force to move.
+253:That and the need to focus on adjusting the movements and lighting makes my forehead sweat.
+254:{character:player}But I feel so happy.
+255:As Sara dances on the stage and I manipulate the spotlight to follow her figure, I feel like a wondrous interaction is going on between us.
+256:{character:player}If I'm this light, can I say that I'm dancing with Sara right now?
+257:When I think of this, I can't help humming a little tune happily along with the background music, and my hands start to move a little carelessly...
+258:{character:player}Oh no...
+259:When I come back to my senses, the light has deviated from its original path and is drawing an erratic path beside Sara. Fortunately, it doesn't seem too inconsistent with the big movements she's making at this time. I just pray that everyone in the audience is focusing on the dance.
+260:{character:Gaffer}Young man...
+261:{character:player}S-Sorry about that, I just...
+262:{character:Gaffer}Can you do that again?
+263:{character:player}Eh? D-Do what again?
+264:{character:Gaffer}That thing with the lights. How did you get them to move like that? It's quite interesting.
+265:{character:player}...Oh, that was a flash of inspiration. I forgot how I did that too.
+266:{character:Gaffer}Oh, what a pity. Well, you can try again the next time you get some inspiration!
+267:{character:player}O-Okay...
+268:Although I'm very thankful for the gaffer's encouragement, I'm still terrified about almost making a major error just now, so I operate the lighting more cautiously after that.
+269:Is it my imagination? I thought I just saw Sara look at me and wink in my direction.
+270:...I'm probably overthinking things. Sara usually likes to interact with the audience, so I should stop imagining things and focus on my task.
+271:After Sara's dance is Ryan's magic show, and the followspot isn't needed for this performance, so I take the chance to wipe away my sweat, rest, and chat with the gaffer to pass the time.
+272:{character:Gaffer}The followspot effects you used prove that young people like you have more new ideas. Things would be easier for Sara if there are more fresh blood like you in the troupe.
+273:{character:player}You flatter me. The ticket inspector told me that most members of the troupe are seniors. Why don't you recruit more young employees?
+274:{character:Gaffer}There used to be some young people in the troupe, but... Forget it, let's not mention the bad things of the past. In short, it's tough enough for the troupe to keep us old fellows, let alone recruit new employees.
+275:{character:player}Oh...
+276:Although I'm curious about what happened in the past, the gloomy expression on the gaffer's face tells me it must be something bad, so it's probably better not to talk about it.
+277:{character:Gaffer}...Actually, I don't have the right to moan about it. If the leader fires us old people who are holding her back, she'll have enough money to hire new people.
+278:{character:Gaffer}Even if they don't manage to recruit anyone, with fewer mouths to feed in the troupe, they won't have to perform so frequently every week and can relax a little... But nobody knows where they can go if they leave the troupe, so this issue has been dragged out day after day...
+279:{character:player}...Sir, for how long have you been a member of this troupe?
+280:{character:Gaffer}I joined when I was still a lad. I don't remember exactly how long.
+281:{character:player}It should be the same for the other elderly employees too, right? Thank you so much.
+282:{character:Gaffer}What are you thanking me for? I should be thanking you for helping us out instead.
+283:{character:player}Haha, of course I have to thank you guys. Soul wouldn't exist without you, which means I wouldn't be able to watch Sara shine on stage. Don't you think I should thank you as a fan?
+284:{character:Gaffer}...Haha, you have a way with words, youngster.
+285:{character:player}I'm not flattering you. Also, I'm sure that Sara doesn't see you guys as a liability or anything.
+286:Although I don't have any actual proof, I just... Since I met her, I've never seen Sara complain about anything. She's always smiling and doing her own thing at all times...
+287:I know Soul has all kinds of difficulties, and I can't help with some of them, but I'll do my best to help out when I can, just like today...
+288:{character:Sara}I heard about everything that happened from Ciri. The ticket inspector is feeling much better now after an afternoon of rest.
+289:{character:Sara}Thank you so much. I know, why don't you have dinner with us a little later? Just treat it as my thanks for helping out today.
+290:{character:player}That sounds great. Now that you mention dinner, I do feel a bit hungry.
+291:{character:player}Call me if something like this happens again. I'll come to help out when I'm free. It's inevitable that the elderly will feel unwell from time to time.
+292:{character:player}There's nothing weird about it, and I have my own selfish motives too. As a fan, I want to see you dance gracefully on the stage more often. I don't mind trying a little harder if I get to see you dancing.
+293:{character:Sara}...Hehe, thank you, and please help us again if we need your help suddenly.
+294:After that day, I occasionally come to help out at the Soul troupe like today...
+295:
+296:Do chores
+297:Help out with the stage
+298:Muster up the courage to perform on stage
+299:Forget it
+300:A little while later
+301:I open the door and go backstage in the dark
+302:
+303:Wardrobe
+304:Behind the auditorium

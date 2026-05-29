@@ -1,0 +1,1 @@
+local a=require("ExcelTool")local b=a.Block;local c=a.PackGet;local d={["id"]=1,["activity_id"]=2,["base_task_id"]=3,["reward"]=1004,["matrix_x"]=5,["matrix_y"]=6,["is_reward"]=7}local e={nil,1022,nil,"100002-3888",nil,nil,nil}local f=function(g,h)return c(g,h,d,e)end;local i={1070012,22090124,24086034,220501036}local j={}return{tb=j,get=f,b2i=i}

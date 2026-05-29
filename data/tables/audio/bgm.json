@@ -1,0 +1,472 @@
+[
+  {
+    "id": 306001,
+    "auto_hide": 0,
+    "path": "music/lobby.mp3",
+    "time_length": null,
+    "type": "lobby",
+    "unlock_item": null,
+    "name": {
+      "chs": "早春赏樱",
+      "chs_t": "早春賞櫻",
+      "jp": "早春の花見",
+      "en": "Sakura",
+      "kr": "이른 봄의 꽃놀이"
+    }
+  },
+  {
+    "id": 306002,
+    "auto_hide": 0,
+    "path": "music/zhongxialvdong.mp3",
+    "time_length": null,
+    "type": "lobby",
+    "unlock_item": 306002,
+    "name": {
+      "chs": "仲夏律动",
+      "chs_t": "仲夏律動",
+      "jp": "真夏の律動",
+      "en": "Midsummer",
+      "kr": "한여름의 리듬"
+    },
+    "unlock_desc": {
+      "chs": "成就解锁",
+      "chs_t": "成就解鎖",
+      "jp": "実績達成で解放",
+      "en": "Achievement unlocked",
+      "kr": "업적 달성 보상"
+    }
+  },
+  {
+    "id": 306003,
+    "auto_hide": 0,
+    "path": "music/lobby_autumn.mp3",
+    "time_length": null,
+    "type": "lobby",
+    "unlock_item": 306003,
+    "name": {
+      "chs": "金秋送爽",
+      "chs_t": "金秋送爽",
+      "jp": "金秋、爽やかに",
+      "en": "Autumn Chill",
+      "kr": "가을철의 상쾌함"
+    },
+    "unlock_desc": {
+      "chs": "成就解锁",
+      "chs_t": "成就解鎖",
+      "jp": "実績達成で解放",
+      "en": "Achievement unlocked",
+      "kr": "업적 달성 보상"
+    }
+  },
+  {
+    "id": 306004,
+    "auto_hide": 0,
+    "path": "music/lobby_winter.mp3",
+    "time_length": null,
+    "type": "lobby",
+    "unlock_item": 306004,
+    "name": {
+      "chs": "隆冬迎岁",
+      "chs_t": "隆冬迎歲",
+      "jp": "真冬と新春",
+      "en": "Winter Arrival",
+      "kr": "한겨울과 새봄"
+    },
+    "unlock_desc": {
+      "chs": "成就解锁",
+      "chs_t": "成就解鎖",
+      "jp": "実績達成で解放",
+      "en": "Achievement unlocked",
+      "kr": "업적 달성 보상"
+    }
+  },
+  {
+    "id": 306005,
+    "auto_hide": 1,
+    "path": "music/lobby_bd.mp3",
+    "time_length": null,
+    "type": "lobby",
+    "unlock_item": 306005,
+    "name": {
+      "chs": "日常",
+      "chs_t": "日常",
+      "jp": "日常",
+      "en": "Daily Life",
+      "kr": "일상"
+    },
+    "unlock_desc": {
+      "chs": "活动限定",
+      "chs_t": "活動限定",
+      "jp": "イベント限定",
+      "en": "Event Limited",
+      "kr": "이벤트 한정"
+    }
+  },
+  {
+    "id": 306006,
+    "auto_hide": 1,
+    "path": "music/lobby_2303wenquan.mp3",
+    "time_length": null,
+    "type": "lobby",
+    "unlock_item": 306006,
+    "name": {
+      "chs": "春水煎茶",
+      "chs_t": "春水煎茶",
+      "jp": "春水煎茶",
+      "en": "Spring Tea",
+      "kr": "봄날의 찻내음"
+    },
+    "unlock_desc": {
+      "chs": "活动限定",
+      "chs_t": "活動限定",
+      "jp": "イベント限定",
+      "en": "Event Limited",
+      "kr": "이벤트 한정"
+    }
+  },
+  {
+    "id": 306101,
+    "auto_hide": 0,
+    "path": "music/game.mp3",
+    "time_length": null,
+    "type": "mj",
+    "unlock_item": null,
+    "name": {
+      "chs": "竹取之语",
+      "chs_t": "竹取物語",
+      "jp": "竹取の囁き",
+      "en": "Bamboo",
+      "kr": "죽림의 속삭임"
+    }
+  },
+  {
+    "id": 306102,
+    "auto_hide": 1,
+    "path": "music/game_master.mp3",
+    "time_length": null,
+    "type": "mj",
+    "unlock_item": 306102,
+    "name": {
+      "chs": "曲水流觞",
+      "chs_t": "曲水流觴",
+      "jp": "曲水流觴",
+      "en": "Winding Stream Party",
+      "kr": "유상곡수"
+    },
+    "unlock_desc": {
+      "chs": "活动限定",
+      "chs_t": "活動限定",
+      "jp": "イベント限定",
+      "en": "Event Limited",
+      "kr": "이벤트 한정"
+    }
+  },
+  {
+    "id": 306103,
+    "auto_hide": 1,
+    "path": "music/23yixinyizhi.mp3",
+    "time_length": null,
+    "type": "mj",
+    "unlock_item": 306103,
+    "name": {
+      "chs": "一心一智",
+      "chs_t": "一心一智",
+      "jp": "一心不乱",
+      "en": "Undivided Wisdom",
+      "kr": "마음과 지혜"
+    },
+    "unlock_desc": {
+      "chs": "活动限定",
+      "chs_t": "活動限定",
+      "jp": "イベント限定",
+      "en": "Event Limited",
+      "kr": "이벤트 한정"
+    }
+  },
+  {
+    "id": 306104,
+    "auto_hide": 0,
+    "path": "music/23ex_duiju1.mp3",
+    "time_length": null,
+    "type": "mj",
+    "unlock_item": 306104,
+    "name": {
+      "chs": "秘阵",
+      "chs_t": "秘陣",
+      "jp": "秘伝の戦陣",
+      "en": "Secret Formation",
+      "kr": "비밀 부대"
+    },
+    "unlock_desc": {
+      "chs": "寻觅获得",
+      "chs_t": "尋覓獲得",
+      "jp": "祈願から入手",
+      "en": "Obtain from Summon",
+      "kr": "기원 획득"
+    }
+  },
+  {
+    "id": 306105,
+    "auto_hide": 0,
+    "path": "music/23ex_duiju2.mp3",
+    "time_length": null,
+    "type": "mj",
+    "unlock_item": 306105,
+    "name": {
+      "chs": "纵情",
+      "chs_t": "縱情",
+      "jp": "気ままに",
+      "en": "Indulgence",
+      "kr": "자유분방"
+    },
+    "unlock_desc": {
+      "chs": "寻觅获得",
+      "chs_t": "尋覓獲得",
+      "jp": "祈願から入手",
+      "en": "Obtain from Summon",
+      "kr": "기원 획득"
+    }
+  },
+  {
+    "id": 306106,
+    "auto_hide": 0,
+    "path": "music/23ex_duiju3.mp3",
+    "time_length": null,
+    "type": "mj",
+    "unlock_item": 306106,
+    "name": {
+      "chs": "和谐",
+      "chs_t": "和諧",
+      "jp": "和やか",
+      "en": "Harmony",
+      "kr": "조화"
+    },
+    "unlock_desc": {
+      "chs": "寻觅获得",
+      "chs_t": "尋覓獲得",
+      "jp": "祈願から入手",
+      "en": "Obtain from Summon",
+      "kr": "기원 획득"
+    }
+  },
+  {
+    "id": 306107,
+    "auto_hide": 0,
+    "path": "music/23ex_duiju4.mp3",
+    "time_length": null,
+    "type": "mj",
+    "unlock_item": 306107,
+    "name": {
+      "chs": "未来",
+      "chs_t": "未來",
+      "jp": "未来",
+      "en": "Future",
+      "kr": "미래"
+    },
+    "unlock_desc": {
+      "chs": "寻觅获得",
+      "chs_t": "尋覓獲得",
+      "jp": "祈願から入手",
+      "en": "Obtain from Summon",
+      "kr": "기원 획득"
+    }
+  },
+  {
+    "id": 30600001,
+    "auto_hide": 1,
+    "path": "music/lobby_24anime.mp3",
+    "time_length": null,
+    "type": "lobby",
+    "unlock_item": 30600001,
+    "name": {
+      "chs": "杠杠姬姬",
+      "chs_t": "槓槓姬姬",
+      "jp": "カンカン姫姫 -Game Arrange-",
+      "en": "Kan Kan Nyan Nyan",
+      "kr": "깡깡냥냥"
+    },
+    "unlock_desc": {
+      "chs": "活动限定",
+      "chs_t": "活動限定",
+      "jp": "イベント限定",
+      "en": "Event Limited",
+      "kr": "이벤트 한정"
+    }
+  },
+  {
+    "id": 30600002,
+    "auto_hide": 0,
+    "path": "music/lobby_yiji.mp3",
+    "time_length": null,
+    "type": "lobby",
+    "unlock_item": 30600002,
+    "name": {
+      "chs": "闲暇炒面",
+      "chs_t": "閒暇炒麵",
+      "jp": "リーヒマ -Piano Version-",
+      "en": "Mayo Yakisoba",
+      "kr": "마요 야키소바"
+    },
+    "unlock_desc": {
+      "chs": "成就解锁",
+      "chs_t": "成就解鎖",
+      "jp": "実績達成で解放",
+      "en": "Achievement unlocked",
+      "kr": "업적 달성 보상"
+    }
+  },
+  {
+    "id": 30600003,
+    "auto_hide": 1,
+    "path": "music/lobby_25dongri.mp3",
+    "time_length": null,
+    "type": "lobby",
+    "unlock_item": 30600003,
+    "name": {
+      "chs": "圣夜鸣奏",
+      "chs_t": "聖夜鳴奏",
+      "jp": "聖夜の響き",
+      "en": "Serene Sleigh Ride",
+      "kr": "이브의 연주"
+    },
+    "unlock_desc": {
+      "chs": "活动限定",
+      "chs_t": "活動限定",
+      "jp": "イベント限定",
+      "en": "Event Limited",
+      "kr": "이벤트 한정"
+    }
+  },
+  {
+    "id": 30610001,
+    "auto_hide": 1,
+    "path": "music/23wansheng.mp3",
+    "time_length": null,
+    "type": "mj",
+    "unlock_item": 30610001,
+    "name": {
+      "chs": "一千零一夜",
+      "chs_t": "一千零一夜",
+      "jp": "千夜一夜",
+      "en": "1001 Nights",
+      "kr": "1001일의 밤"
+    },
+    "unlock_desc": {
+      "chs": "寻觅获得",
+      "chs_t": "尋覓獲得",
+      "jp": "祈願から入手",
+      "en": "Obtain from Summon",
+      "kr": "기원 획득"
+    }
+  },
+  {
+    "id": 30610002,
+    "auto_hide": 1,
+    "path": "music/24chunjie.mp3",
+    "time_length": null,
+    "type": "mj",
+    "unlock_item": 30610002,
+    "name": {
+      "chs": "沐流光",
+      "chs_t": "沐流光",
+      "jp": "流光に浴す",
+      "en": "Basking in Light",
+      "kr": "흐르는 빛줄기"
+    },
+    "unlock_desc": {
+      "chs": "活动限定",
+      "chs_t": "活動限定",
+      "jp": "イベント限定",
+      "en": "Event Limited",
+      "kr": "이벤트 한정"
+    }
+  },
+  {
+    "id": 30610003,
+    "auto_hide": 1,
+    "path": "music/24summer_duiju.mp3",
+    "time_length": null,
+    "type": "mj",
+    "unlock_item": 30610003,
+    "name": {
+      "chs": "漂浮霓虹",
+      "chs_t": "漂浮霓虹",
+      "jp": "揺れるネオン",
+      "en": "Floating in Neonlights",
+      "kr": "떠다니는 네온사인"
+    },
+    "unlock_desc": {
+      "chs": "活动限定",
+      "chs_t": "活動限定",
+      "jp": "イベント限定",
+      "en": "Event Limited",
+      "kr": "이벤트 한정"
+    }
+  },
+  {
+    "id": 30610004,
+    "auto_hide": 1,
+    "path": "music/24wansheng_duiju.mp3",
+    "time_length": null,
+    "type": "mj",
+    "unlock_item": 30610004,
+    "name": {
+      "chs": "午夜童谣",
+      "chs_t": "午夜童謠",
+      "jp": "ミッドナイトララバイ",
+      "en": "Midnight Nursery Rhyme",
+      "kr": "한밤의 동요"
+    },
+    "unlock_desc": {
+      "chs": "活动限定",
+      "chs_t": "活動限定",
+      "jp": "イベント限定",
+      "en": "Event Limited",
+      "kr": "이벤트 한정"
+    }
+  },
+  {
+    "id": 30610005,
+    "auto_hide": 1,
+    "path": "music/vip_duiju.mp3",
+    "time_length": null,
+    "type": "mj",
+    "unlock_item": 30610005,
+    "name": {
+      "chs": "崇途风光",
+      "chs_t": "崇途風光",
+      "jp": "絶景",
+      "en": "Splendid Vistas",
+      "kr": "고귀한 길의 풍취"
+    },
+    "unlock_desc": {
+      "chs": "活动限定",
+      "chs_t": "活動限定",
+      "jp": "イベント限定",
+      "en": "Event Limited",
+      "kr": "이벤트 한정"
+    }
+  },
+  {
+    "id": 30610006,
+    "auto_hide": 1,
+    "path": "music/25xila_duiju.mp3",
+    "time_length": null,
+    "type": "mj",
+    "unlock_item": 30610006,
+    "name": {
+      "chs": "优雅格调",
+      "chs_t": "優雅格調",
+      "jp": "優雅に、格調高く",
+      "en": "Majestic Elegance",
+      "kr": "우아한 격조"
+    },
+    "unlock_desc": {
+      "chs": "寻觅获得",
+      "chs_t": "尋覓獲得",
+      "jp": "祈願から入手",
+      "en": "Obtain from Summon",
+      "kr": "기원 획득"
+    }
+  }
+]

@@ -1,0 +1,1918 @@
+[
+  {
+    "line": 1,
+    "text": "Sara"
+  },
+  {
+    "line": 2,
+    "text": "{character:Sara}That's it for today's performance. Thank you all for coming! I hope we'll see you again next time!"
+  },
+  {
+    "line": 3,
+    "text": "The music that is played whenever the show ends fills the theater, symbolizing the end of the Soul's performance for the day. The audience start clapping, which proves that today's performance was as exciting as ever."
+  },
+  {
+    "line": 4,
+    "text": "Some members of the audience weren't satisfied with just clapping. Right at this moment, a woman wearing sunglasses got on the stage and put a bouquet of flowers in Sara's arms, then kissed Sara's hand gently in front of everyone."
+  },
+  {
+    "line": 5,
+    "text": "The sudden situation caused lots of people to cry out loud. I was surprised too, but more than anything, I was curious about the identity of this woman."
+  },
+  {
+    "line": 6,
+    "text": "player"
+  },
+  {
+    "line": 7,
+    "text": "{character:player}Sara is smiling and laughing while talking to her. Are they friends? I really want to know, but I'm too far to hear what they are saying."
+  },
+  {
+    "line": 8,
+    "text": "After chatting for a while, the woman takes off her sunglasses. That face... Have I seen her before?"
+  },
+  {
+    "line": 9,
+    "text": "Audience A"
+  },
+  {
+    "line": 10,
+    "text": "{character:Audience A}Huh? I-Isn't that Olevi?"
+  },
+  {
+    "line": 11,
+    "text": "{character:player}Olevi... Oh, I remember now."
+  },
+  {
+    "line": 12,
+    "text": "I lean forward and confirm that I'm not mistaken after taking a closer look. The woman next to Sara is Olevi, a member of a popular troupe. I just saw the news that she had just arrived at One Han City the day before yesterday."
+  },
+  {
+    "line": 13,
+    "text": "After Olevi notices the audience looking at her, she smiles and raises her hand to greet everyone. She then takes the microphone from Sara and talks to everyone with her deep androgynous voice from the stage."
+  },
+  {
+    "line": 14,
+    "text": "Olevi"
+  },
+  {
+    "line": 15,
+    "text": "{character:Olevi}I think this is the first time I'm meeting almost everyone here. Let me introduce myself... Hello everyone, I'm Olevi from Musae! It's an honor to meet everyone!"
+  },
+  {
+    "line": 16,
+    "text": "Musae is an all female singing and dancing troupe, which is very popular among female fans. The most popular group in the troupe is called Dazzle, and the top star of Dazzle is Olevi. The screams that fill my ears at this moment show me just how excited the female fans are."
+  },
+  {
+    "line": 17,
+    "text": "{character:Olevi}I've come here today to make an announcement... In a month's time, I'll be having a stage performance competition on this stage with my good rival, Sara."
+  },
+  {
+    "line": 18,
+    "text": "{character:Olevi}Depending on the result of the competition, Sara may even be joining Musae! I hereby sincerely invite everyone to come and witness this competition!"
+  },
+  {
+    "line": 19,
+    "text": "{character:player}...Eh?"
+  },
+  {
+    "line": 20,
+    "text": " Huh—???"
+  },
+  {
+    "line": 21,
+    "text": "It's clear that many others are just as dumbfounded by this unexpected declaration as I am, causing the venue to be momentarily filled with silence. After everyone comes back to their senses, the chattering of many conversations fills the air."
+  },
+  {
+    "line": 22,
+    "text": "After the performers all withdraw from the stage, I get up immediately and rush to the backstage because I can't sit still any longer."
+  },
+  {
+    "line": 23,
+    "text": "{character:player}Sara!"
+  },
+  {
+    "line": 24,
+    "text": "I rush over to the staff lounge and push open the doors to find Olevi chatting happily with Sara and the other troupe members."
+  },
+  {
+    "line": 25,
+    "text": "{character:Olevi}Who's this? Sara, is this a new member?"
+  },
+  {
+    "line": 26,
+    "text": "{character:Sara}Oh, it's you. You're here just in time. We were just talking about you."
+  },
+  {
+    "line": 27,
+    "text": "{character:Olevi}Oh? Is this that important guest of yours I've heard so many things about?"
+  },
+  {
+    "line": 28,
+    "text": "{character:Sara}Yes, this is the one."
+  },
+  {
+    "line": 29,
+    "text": "{character:Olevi}It's nice to meet you. I'm Olevi. Ah, Sara said you watched the performance, so I guess it's a little pointless to introduce myself to you again."
+  },
+  {
+    "line": 30,
+    "text": "{character:player}It's nice to meet you, I'm {var:player_nickname}... Hold on, this isn't the time to say hi to each other."
+  },
+  {
+    "line": 31,
+    "text": "{character:player}Ciri, is it alright for you to chat leisurely with Ms. Olevi? She's here to poach your leader. Aren't you nervous at all?"
+  },
+  {
+    "line": 32,
+    "text": "Ciri"
+  },
+  {
+    "line": 33,
+    "text": "{character:Ciri}Nope, it's not the first time they have competed like this."
+  },
+  {
+    "line": 34,
+    "text": "Ryan"
+  },
+  {
+    "line": 35,
+    "text": "{character:Ryan}On the other hand, why are you so nervous?"
+  },
+  {
+    "line": 36,
+    "text": "{character:player}I..."
+  },
+  {
+    "line": 37,
+    "text": "{character:Sara}Haha, it looks like you're a little confused. Let me explain things to you."
+  },
+  {
+    "line": 38,
+    "text": "{character:Sara}I met Olevi when I was on tour. She watched my performance once and really liked it, so she hopes that I can join her troupe."
+  },
+  {
+    "line": 39,
+    "text": "Gaffer"
+  },
+  {
+    "line": 40,
+    "text": "{character:Gaffer}Sara turned down the invitation, so Ms. Olevi challenged her. Ah... That was such a fantastic competition."
+  },
+  {
+    "line": 41,
+    "text": "{character:player}H-How fantastic exactly?"
+  },
+  {
+    "line": 42,
+    "text": "{character:Gaffer}It was absolutely amazing! It was the best turnout we had ever had since I joined the troupe. The people of the city were all packed into our tent!"
+  },
+  {
+    "line": 43,
+    "text": "...So is he just saying that they made a lot from ticket sales that time?!"
+  },
+  {
+    "line": 44,
+    "text": "Ticket Inspector"
+  },
+  {
+    "line": 45,
+    "text": "{character:Ticket Inspector}Business is especially good whenever Ms. Olevi challenges the leader to a competition. Although it's very tiring checking all the tickets, I'm still really grateful to you."
+  },
+  {
+    "line": 46,
+    "text": "{character:Olevi}You're welcome! But it must be hard on all of you because you need to work overtime whenever I come."
+  },
+  {
+    "line": 47,
+    "text": "{character:player}So... the competition is just a gimmick to bring in more customers?"
+  },
+  {
+    "line": 48,
+    "text": "{character:Olevi}Of course not. I try my best every time we compete. I'll get Sara to join our troupe one day!"
+  },
+  {
+    "line": 49,
+    "text": "{character:Ciri}Ryan, how many times have they competed already?"
+  },
+  {
+    "line": 50,
+    "text": "{character:Ryan}I've forgotten. They always end in a tie anyway, and I think it'll probably be the same this time."
+  },
+  {
+    "line": 51,
+    "text": "{character:Olevi}Haha, Ryan, you don't need to save face for me. Being unable to convince Sara to join Musae means that I've lost. There's no such thing as a tie."
+  },
+  {
+    "line": 52,
+    "text": "Olevi talks and carries herself in such a cool and impressive manner. I can understand why she has so many female fans."
+  },
+  {
+    "line": 53,
+    "text": "According to what they are saying, they have always ended in a tie, so I can kind of understand why the members of Soul are so relaxed, but..."
+  },
+  {
+    "line": 54,
+    "text": "{character:player}Sara, it isn't that I don't believe in your ability, but accidents can happen. If you really do lose, will you join her troupe?"
+  },
+  {
+    "line": 55,
+    "text": "{character:Sara}Well, Olevi always challenges me seriously, so it's natural that I should keep my promise."
+  },
+  {
+    "line": 56,
+    "text": "{character:player}Isn't that too unfair? Even if the competition manages to draw more customers, it's such a great loss to Soul if you lose, Sara."
+  },
+  {
+    "line": 57,
+    "text": "{character:Olevi}It will be a big loss to Soul, but I don't think it's a bad thing to Sara personally if she can spread her wings on a bigger stage. Don't you think?"
+  },
+  {
+    "line": 58,
+    "text": "{character:player}...I shouldn't be the one to answer that question. Sara, what do you think?"
+  },
+  {
+    "line": 59,
+    "text": "{character:Sara}Soul isn't as famous as it used to be, and we manage to attract many new audiences whenever I have a competition with Olevi. With rewards come certain risks, and this is a good deal for the troupe. Not to mention, Olevi considerately comes to our venue to challenge me every time, so I can't let her good intentions go to waste."
+  },
+  {
+    "line": 60,
+    "text": "{character:Sara}Also... on a personal level, I'm very willing to accept challenges. After all, I'm very competitive and have never avoided a dancing competition in my life."
+  },
+  {
+    "line": 61,
+    "text": "{character:Sara}What's more, there aren't many chances to compete against a rival as good as her. I'm really looking forward to our competition, Olevi."
+  },
+  {
+    "line": 62,
+    "text": "{character:Olevi}Same here. My mind is still filled with the scenes of our last competition."
+  },
+  {
+    "line": 63,
+    "text": "{character:player}In that case... Good luck, Sara. I'll be rooting for you with all the other fans on that day."
+  },
+  {
+    "line": 64,
+    "text": "{character:Sara}Hehe, thanks."
+  },
+  {
+    "line": 65,
+    "text": "Sara is indifferent to most things, so it's rare to see such fighting spirit burning in her eyes. If I don't support her now, I won't have the face to call myself her diehard fan."
+  },
+  {
+    "line": 66,
+    "text": "{character:Sara}Olevi, has the theme of our upcoming competition been decided?"
+  },
+  {
+    "line": 67,
+    "text": "{character:Olevi}I decided it ages ago. The theme this time is Carmen."
+  },
+  {
+    "line": 68,
+    "text": "{character:player}Carmen..."
+  },
+  {
+    "line": 69,
+    "text": "{character:Sara}Oh, you know about Carmen?"
+  },
+  {
+    "line": 70,
+    "text": "{character:player}It's that famous opera, right? I read the script at the library before."
+  },
+  {
+    "line": 71,
+    "text": "Carmen is the most performed opera in the world today. It tells the story of a beautiful and free-spirited female tobacco factory worker who falls in love with a police officer and is later killed by her lover because she fell in love with someone else."
+  },
+  {
+    "line": 72,
+    "text": "The name of the opera, Carmen, is also the name of the heroine. Although the story ends in tragedy, regardless of the plot, just based on the videos I've seen of this show, it's somewhat strange to define this work as just a tragedy."
+  },
+  {
+    "line": 73,
+    "text": "{character:player}I've heard of it. It's an opera, right? I haven't seen it before though."
+  },
+  {
+    "line": 74,
+    "text": "{character:Sara}It's a very interesting piece of work..."
+  },
+  {
+    "line": 75,
+    "text": "Sara briefly explains the story of Carmen to me. It tells the story of a beautiful and free-spirited female tobacco factory worker who falls in love with a police officer and is later killed by her lover because she fell in love with someone else."
+  },
+  {
+    "line": 76,
+    "text": "{character:player}It sounds like a tragedy."
+  },
+  {
+    "line": 77,
+    "text": "{character:Sara}If you look at just the ending, then does count as a tragedy, but I think it's somewhat strange to define this work as just a tragedy."
+  },
+  {
+    "line": 78,
+    "text": "{character:Sara}If you're interested, you can take a look at the script or watch some videos of it later. It really is a wonderful piece of work."
+  },
+  {
+    "line": 79,
+    "text": "{character:player}I definitely need to watch it since you recommend it so highly."
+  },
+  {
+    "line": 80,
+    "text": "{character:Olevi}Since we have a theme, we need to assign roles. This time, I want to play the matador Leo."
+  },
+  {
+    "line": 81,
+    "text": "{character:Sara}Oh, what an unexpected decision. I thought you would play the police officer Don."
+  },
+  {
+    "line": 82,
+    "text": "{character:Sara}Are you sure about this? The matador doesn't have as much of a role as the other two protagonists."
+  },
+  {
+    "line": 83,
+    "text": "{character:Olevi}A performer's acting prowess is not defined by the amount of stage time they get. You and I should both know this well."
+  },
+  {
+    "line": 84,
+    "text": "{character:Olevi}I like to play the role of the winner both on and off screen. Leo is the one who wins over Carmen's heart in the opera, which is a good omen. I'm bound to win this time, and..."
+  },
+  {
+    "line": 85,
+    "text": "Olevi walks behind Sara and holds her hair."
+  },
+  {
+    "line": 86,
+    "text": "{character:Olevi}It's too dangerous for you if I play Don's character. I don't want to do anything rough to you because I'm too deep in character."
+  },
+  {
+    "line": 87,
+    "text": "{character:Sara}Haha... Are you already in character, Olevi?"
+  },
+  {
+    "line": 88,
+    "text": "{character:Olevi}The sooner one prepares, the greater the chance of success, right?"
+  },
+  {
+    "line": 89,
+    "text": "This is bad. I had a lot of confidence in Sara, but I can tell Olevi is a really amazing performer based on her joking interactions with Sara."
+  },
+  {
+    "line": 90,
+    "text": "{character:player}Then Sara will be playing the role of Carmen."
+  },
+  {
+    "line": 91,
+    "text": "{character:Olevi}Of course, who else but her can play it?"
+  },
+  {
+    "line": 92,
+    "text": "{character:Sara}Who else but me, huh..."
+  },
+  {
+    "line": 93,
+    "text": "{character:player}Hmm?"
+  },
+  {
+    "line": 94,
+    "text": "An almost unnoticeable bitter smile flashes across Sara's face, leaving me wondering if my eyes were playing tricks on me."
+  },
+  {
+    "line": 95,
+    "text": "{character:Olevi}Well, it's getting late, so I better get out of your hair today. See you on the stage in one month, Sara."
+  },
+  {
+    "line": 96,
+    "text": "{character:Sara}Take care, Olevi."
+  },
+  {
+    "line": 97,
+    "text": "After Olevi leaves, the gaffer strokes his beard triumphantly."
+  },
+  {
+    "line": 98,
+    "text": "{character:Gaffer}Excellent! You couldn't play a better character."
+  },
+  {
+    "line": 99,
+    "text": "{character:Ticket Inspector}Although I feel bad for Ms. Olevi, we'll be winning again this time."
+  },
+  {
+    "line": 100,
+    "text": "{character:player}What do you mean?"
+  },
+  {
+    "line": 101,
+    "text": "{character:Ryan}A \"beautiful girl who is good at singing and dancing and is bold and unrestrained.\" Don't you think that this description of Carmen fits Sara very well?"
+  },
+  {
+    "line": 102,
+    "text": "{character:Ciri}Indeed, many people have said that Sara resembles Carmen a lot."
+  },
+  {
+    "line": 103,
+    "text": "I see, well it's very advantageous to play a character suitable for yourself."
+  },
+  {
+    "line": 104,
+    "text": "{character:Sara}Well, not exactly. I'm sure you all know how talented and magnificent Olevi is. We can't take her lightly."
+  },
+  {
+    "line": 105,
+    "text": "{character:player}You're right, she's a strong opponent., It's better to be cautious. Speaking of which, who will play the role of Don?"
+  },
+  {
+    "line": 106,
+    "text": "{character:player}This character has a lot of interaction with Carmen's character, so it'll affect your performance as well. You need to choose your partner carefully."
+  },
+  {
+    "line": 107,
+    "text": "{character:Sara}How astute of you. You noticed the key issue immediately. I want to ask you to help me out with this."
+  },
+  {
+    "line": 108,
+    "text": "{character:player}Sure, I'll do whatever I can."
+  },
+  {
+    "line": 109,
+    "text": "{character:Sara}It's something you can definitely help me out with... I want you to be my partner and play the role of Don."
+  },
+  {
+    "line": 110,
+    "text": "{character:player}Yes, I definitely can do that... WHAT? Hold on! You want me to play Don's character?!"
+  },
+  {
+    "line": 111,
+    "text": "{character:Sara}Is something wrong?"
+  },
+  {
+    "line": 112,
+    "text": "{character:player}I should be asking you if there's something wrong with you... Wouldn't the performers of your troupe be more suitable than me? For example, Ciri here..."
+  },
+  {
+    "line": 113,
+    "text": "{character:Ciri}No, I can't do it. I'm just a beast tamer."
+  },
+  {
+    "line": 114,
+    "text": "{character:player}Aren't I just a member of the audience...? Well, what about Ryan then?"
+  },
+  {
+    "line": 115,
+    "text": "{character:Ryan}Will you be playing Carmen? If you are, I'll gladly perform on the stage as your Don."
+  },
+  {
+    "line": 116,
+    "text": "{character:player}Thank you for volunteering, but that doesn't solve our problem."
+  },
+  {
+    "line": 117,
+    "text": "{character:player}What about the others? There are so many people in this troupe, someone should be suitable for the role of Don, right?"
+  },
+  {
+    "line": 118,
+    "text": "I look at the gaffer who is smoking on one side and the ticket inspector. They smile as they wave at me."
+  },
+  {
+    "line": 119,
+    "text": "{character:Ticket Inspector}I'm already so old. I won't mess around on the young people's stage."
+  },
+  {
+    "line": 120,
+    "text": "{character:Gaffer}Oldies like us are happy playing the role of extras in a crowd. We're happy just to participate. Good luck! Hahaha!"
+  },
+  {
+    "line": 121,
+    "text": "{character:Sara}I know my request is a little sudden. You can think about it first and tell me your answer later."
+  },
+  {
+    "line": 122,
+    "text": "I wanted to ask her if she was joking, but it looks like she's serious. What should I do?"
+  },
+  {
+    "line": 123,
+    "text": "{character:player}...Shouldn't you find a more experienced partner for such an important competition?"
+  },
+  {
+    "line": 124,
+    "text": "Although it's really tempting to be Sara's partner, I get a little scared when I think about how important this competition is to Soul."
+  },
+  {
+    "line": 125,
+    "text": "{character:Ciri}Don't worry, the fact that Sara is inviting you means that you've got what it takes. Good luck."
+  },
+  {
+    "line": 126,
+    "text": "Mojito"
+  },
+  {
+    "line": 127,
+    "text": "{character:Mojito}*Grrr!*"
+  },
+  {
+    "line": 128,
+    "text": "{character:player}Huh?!"
+  },
+  {
+    "line": 129,
+    "text": "Ciri's partner, a black panther called Mojito, has walked up to her at some point and is growling at me silently while staring at me."
+  },
+  {
+    "line": 130,
+    "text": "{character:Ciri}Look, even Mojito is rooting for you. You can do it."
+  },
+  {
+    "line": 131,
+    "text": "{character:player}Thanks for the encouragement, even though it sounds more like Mojito is threatening me..."
+  },
+  {
+    "line": 132,
+    "text": "What should I do? Should I take her up on the offer?"
+  },
+  {
+    "line": 133,
+    "text": "{character:player}It'll be very bad for Soul if I mess up and affect Sara. Ryan, you agree with me, right?"
+  },
+  {
+    "line": 134,
+    "text": "{character:Ryan}That won't happen. You're the best to me. I just feel a little unhappy when I think that I need to share you with other people when you are shining so brightly on stage."
+  },
+  {
+    "line": 135,
+    "text": "{character:Ryan}But... Even if Sara leaves, you'll still come to watch my performance, right? That sounds like an even better deal to me, hehe."
+  },
+  {
+    "line": 136,
+    "text": "...I asked the wrong person for support, but it looks like everyone else also agrees with Sara, so..."
+  },
+  {
+    "line": 137,
+    "text": "{character:player}...Sorry, Sara, I can't help you this time."
+  },
+  {
+    "line": 138,
+    "text": "{character:player}This is a competition that determines whether you need to go to another troupe, so I don't think it's right for a complete beginner like me to go on stage. How about I ask Osamu Saitou if any of his artists can help out?"
+  },
+  {
+    "line": 139,
+    "text": "{character:Sara}You don't need to apologize. It was rude of me to ask. I just decided to ask you because I thought you would be a good fit for the role. But like you said, maybe it is a little rash for the competition."
+  },
+  {
+    "line": 140,
+    "text": "{character:Sara}I'll find someone else for the performance, so you don't need to worry about it. Will you come and watch the competition?"
+  },
+  {
+    "line": 141,
+    "text": "{character:player}Of course! I'll be cheering for you with all my heart!"
+  },
+  {
+    "line": 142,
+    "text": "{character:Sara}Hehe, thank you in advance..."
+  },
+  {
+    "line": 143,
+    "text": "\"Don\""
+  },
+  {
+    "line": 144,
+    "text": "{character:\"Don\"}No! I'll make you bleed before I let you leave me! Carmen, you must be with me!"
+  },
+  {
+    "line": 145,
+    "text": "{character:Sara}Very well, either you kill me or you... give me freedom!"
+  },
+  {
+    "line": 146,
+    "text": "On the stage, with bloodshot eyes, \"Don\" draws his dagger and approaches Carmen who he is enamored with."
+  },
+  {
+    "line": 147,
+    "text": "The matador Leo walks out of the bullring in high spirits with the crowd cheering for him, but what he sees is the body of his lover who is falling backward slowly."
+  },
+  {
+    "line": 148,
+    "text": "Rose petals are scattered all around Carmen, and a gust of wind blows her soul to the unfettered shore."
+  },
+  {
+    "line": 149,
+    "text": "{character:player}...Bravo!"
+  },
+  {
+    "line": 150,
+    "text": "Soul's special performance comes to an end amidst the praise and cheers of the audience. Sara's performance is as stable and wonderful as ever, and Olevi also manages to captivate the audience in just a few short scenes like she said. The contest is still a tie this time."
+  },
+  {
+    "line": 151,
+    "text": "\"There's always a spot for you in Musae, Sara.\" Olevi leaves gracefully after saying this."
+  },
+  {
+    "line": 152,
+    "text": "In the end, Sara asked one of Olevi's colleagues to play the role of Don. In order to not affect the contest between them, this actress was very restrained on the stage and played the role of helper very professionally. As I watched her interact with Sara on the stage, I found myself filled with both envy and regret."
+  },
+  {
+    "line": 153,
+    "text": "{character:player}If it's just a routine performance without stealing Sara's limelight, then even I can do it. I missed a precious opportunity to experience this..."
+  },
+  {
+    "line": 154,
+    "text": "Oh well, I backed down from it, so there's no point lamenting about it now."
+  },
+  {
+    "line": 155,
+    "text": "But I wonder how many more times Sara and Olevi will compete again like today..."
+  },
+  {
+    "line": 156,
+    "text": "{character:player}If I get another chance like today, I'll try to muster up the courage to get on stage. Yes! Next time for sure."
+  },
+  {
+    "line": 157,
+    "text": "{character:player}...To be able to perform as Sara's partner is an unbelievable opportunity for a fan. I'm very happy and willing to do it."
+  },
+  {
+    "line": 158,
+    "text": "{character:player}But Don is such an important character in the original work. Will I really be okay?"
+  },
+  {
+    "line": 159,
+    "text": "{character:Sara}If you're worried that your performance will affect our competition or Soul, then you don't need to worry at all because the decision will be based on my performance and Olevi's performance."
+  },
+  {
+    "line": 160,
+    "text": "{character:Sara}If you're worried that you won't be able to memorize the lines, we can get someone to voice the lines for you behind the stage, but we'll need you to do your best to complete the actions on the stage."
+  },
+  {
+    "line": 161,
+    "text": "{character:player}That's okay. I still have another month to practice. I'm just wondering why you want me to do it. If you just need a standard performance, then won't someone else be more suitable than me?"
+  },
+  {
+    "line": 162,
+    "text": "I don't think it's because I have any undiscovered acting talent."
+  },
+  {
+    "line": 163,
+    "text": "{character:Sara}Although it's an important competition, I don't want the audience to just focus on the contest between me and Olevi. Even if it's more exciting, it won't be fun."
+  },
+  {
+    "line": 164,
+    "text": "{character:Sara}So I want you to be my partner. You also come up with ideas that are beyond my imagination, just like when we met the outsiders..."
+  },
+  {
+    "line": 165,
+    "text": "{character:player}So what you want from me is an element of surprise?"
+  },
+  {
+    "line": 166,
+    "text": "{character:Sara}That's right. I'm really looking forward to being surprised by you again this time. Also..."
+  },
+  {
+    "line": 167,
+    "text": "{character:player}Also..."
+  },
+  {
+    "line": 168,
+    "text": "{character:Sara}...No, nothing. The most important thing is your element of surprise. So, will you help me?"
+  },
+  {
+    "line": 169,
+    "text": "While I'm hesitating, a small black head appears in the left side of my field of vision. Little Miaow comes out of nowhere, jumps onto my shoulder, and stares right at me with its yellow eyes while meowing."
+  },
+  {
+    "line": 170,
+    "text": "{character:Sara}Little Miaow, do you also think it's a good idea?"
+  },
+  {
+    "line": 171,
+    "text": "Little Miaow"
+  },
+  {
+    "line": 172,
+    "text": "{character:Little Miaow}Meow!"
+  },
+  {
+    "line": 173,
+    "text": "{character:player}Even a cat is encouraging me. I don't think I can say no now. Sara, I'll be in your care for the next month. Please teach me well."
+  },
+  {
+    "line": 174,
+    "text": "{character:Sara}Hehe, let's do our best together."
+  },
+  {
+    "line": 175,
+    "text": "That's how it was decided that I would perform on stage with Sara."
+  },
+  {
+    "line": 176,
+    "text": "The competition is in one month, so we don't really have that much time left. During this time, Soul performed less frequently than usual to make time for our rehearsals and to give Sara sufficient time to rest and prepare for the competition."
+  },
+  {
+    "line": 177,
+    "text": "{character:Ciri}...That's the wrong movement."
+  },
+  {
+    "line": 178,
+    "text": "{character:player}I was too slow. I should get up and act like I'm pushing open doors here... Oh, that's wrong. That's what I should be doing when the next part of the music starts."
+  },
+  {
+    "line": 179,
+    "text": "{character:Sara}Why don't you take a break first? We'll rehearse these two parts separately later."
+  },
+  {
+    "line": 180,
+    "text": "{character:player}No, let's follow the order. I'll go over the script again now."
+  },
+  {
+    "line": 181,
+    "text": "Carmen's script isn't that long, but the whole play is very compact. If I get distracted during the rehearsal, I won't be able to keep up with the pace of the overall performance."
+  },
+  {
+    "line": 182,
+    "text": "Over the next few days, I basically return home sweaty every day and fall asleep instantly after showering."
+  },
+  {
+    "line": 183,
+    "text": "{character:Sara}The tired way of singing you used just now when we were doing the part with the fiancée is very good because it highlights Don's guilty conscience."
+  },
+  {
+    "line": 184,
+    "text": "{character:player}Haha... Actually, I was just singing like that because I'm tired. But if it's good, I'll sing it like that during the official performance."
+  },
+  {
+    "line": 185,
+    "text": "Although my body is tired, my spirit is very excited, especially as I always continue until I'm exhausted when I practice with Sara."
+  },
+  {
+    "line": 186,
+    "text": "During this time, I feel myself growing almost every day, which is a truly exciting thing..."
+  },
+  {
+    "line": 187,
+    "text": "{character:Sara}Ciri, can you get them to play the music again?"
+  },
+  {
+    "line": 188,
+    "text": "{character:Ciri}Okay."
+  },
+  {
+    "line": 189,
+    "text": "{character:player}We've been practicing for almost two hours. Sara, don't you want to rest for a bit?"
+  },
+  {
+    "line": 190,
+    "text": "{character:Sara}I want to keep practicing while I'm in good condition."
+  },
+  {
+    "line": 191,
+    "text": "Is this the difference between a professional and an amateur? Sara practices several times as much as me, but her movements are still so clean and performed with ease."
+  },
+  {
+    "line": 192,
+    "text": "{character:Sara}Heh!"
+  },
+  {
+    "line": 193,
+    "text": "...Or maybe she doesn't feel tired because she's doing something she loves."
+  },
+  {
+    "line": 194,
+    "text": "Before I know it, there were less than two weeks until the competition."
+  },
+  {
+    "line": 195,
+    "text": "{character:player}Cheers!"
+  },
+  {
+    "line": 195,
+    "text": "{character:Sara}Cheers!"
+  },
+  {
+    "line": 196,
+    "text": "Today, I managed to complete one round of the rehearsal without any mistakes. After practicing, Sara and I eat dinner at a restaurant to celebrate this achievement."
+  },
+  {
+    "line": 197,
+    "text": "{character:Sara}You've got such a good memory. You only needed three days to memorize the lines. To think I was thinking of getting someone to say the lines for you. I underestimated you."
+  },
+  {
+    "line": 198,
+    "text": "{character:player}It's just because that script is so short. I wish my body can remember the movements like my brain remembers the lines."
+  },
+  {
+    "line": 199,
+    "text": "{character:Sara}Didn't everything go well today though?"
+  },
+  {
+    "line": 200,
+    "text": "{character:player}I was just lucky enough to succeed once. Maybe my movements and positioning will be all over the place again after I wake up tomorrow."
+  },
+  {
+    "line": 201,
+    "text": "{character:Sara}Hehe, you're quite harsh on yourself. Actually, you don't need to worry too much about how precise your movements are. It's okay if they aren't perfect."
+  },
+  {
+    "line": 202,
+    "text": "{character:Sara}The most important thing about opera is to move in a way that matches the character. If you become your character, the audience will surely feel the charisma of your performance."
+  },
+  {
+    "line": 203,
+    "text": "{character:player}Becoming the character... That's actually what I find the hardest."
+  },
+  {
+    "line": 204,
+    "text": "{character:player}From the script, I can understand that Don is so in love with Carmen that he's gone crazy, but it's totally different when I play his character. I'm not confident that I can fully understand him. Maybe that's why I hesitate at some of the more intense parts of the plot."
+  },
+  {
+    "line": 205,
+    "text": "Such as... when Don kills his lover. Even if it's just an act, without being able to deeply feel the emotions of the character, I feel like my performance in that scene is almost meaningless."
+  },
+  {
+    "line": 206,
+    "text": "{character:player}In comparison, Sara, you're really amazing, and your performance is really natural. I finally understand why the gaffer and the others are so confident about this competition. Like they say, you are just like Carmen."
+  },
+  {
+    "line": 207,
+    "text": "{character:Sara}...Do you really think so?"
+  },
+  {
+    "line": 208,
+    "text": "The fleeting bitter smile I saw the other day appears clearly on Sara's face."
+  },
+  {
+    "line": 209,
+    "text": "{character:player}Sara? I... Did I say something wrong?"
+  },
+  {
+    "line": 210,
+    "text": "{character:Sara}No, you didn't. That really is what many people think about me."
+  },
+  {
+    "line": 211,
+    "text": "{character:Sara}I just don't really understand what they mean specifically when they say I resemble her."
+  },
+  {
+    "line": 212,
+    "text": "I've known Sara for a while, but this is the first time I've seen such an anxious or even lost expression on her face..."
+  },
+  {
+    "line": 213,
+    "text": "{character:Sara}I understand that I share some characteristics with Carmen, but we're ultimately two different people. That's why I can't help but wonder if the resemblances I'm thinking of are the same things others want to see in me."
+  },
+  {
+    "line": 214,
+    "text": "{character:Sara}Other people's expectations are really heavy... I want to respond to their expectations as much as possible and become the Carmen in their hearts, but I don't know if what I'll show everyone is just my conceited idea of what I think they want to see."
+  },
+  {
+    "line": 215,
+    "text": "{character:Sara}I can't help but get a little nervous whenever I think about this recently."
+  },
+  {
+    "line": 216,
+    "text": "{character:player}...Sorry, Sara. I didn't realize I was stressing you out."
+  },
+  {
+    "line": 217,
+    "text": "I finally understand why Sara is acting so strangely when Olevi said who else but her can play the role of Carmen. I never considered that these compliments would become her burden..."
+  },
+  {
+    "line": 218,
+    "text": "{character:player}Now that I think about it, these compliments are a little rude. Sara, you are you. You don't need to resemble anyone else. The person I want to see on the stage is you, not Carmen."
+  },
+  {
+    "line": 219,
+    "text": "{character:player}I think you're great the way you are now."
+  },
+  {
+    "line": 220,
+    "text": "{character:Sara}Ahaha, if you start saying things like that, I also need to apologize to you."
+  },
+  {
+    "line": 221,
+    "text": "{character:Sara}You asked me why I wanted you to play the role of Don. The element of surprise is just one factor. Another factor is... I felt that your fondness for me is similar to Don's fascination with Carmen."
+  },
+  {
+    "line": 222,
+    "text": "{character:Sara}But it looks like I was being rude too. You are you. You aren't Carmen's Don. You're my customer."
+  },
+  {
+    "line": 223,
+    "text": "{character:player}...Haha, then it's a tie. To be honest, I'm quite happy to hear this."
+  },
+  {
+    "line": 224,
+    "text": "{character:Sara}Why is that?"
+  },
+  {
+    "line": 225,
+    "text": "{character:player}Because we have the same troubles and are letting go of our expectations for each other at the same time. Don't you think this is worth toasting to?"
+  },
+  {
+    "line": 226,
+    "text": "{character:Sara}It is indeed. Cheers."
+  },
+  {
+    "line": 227,
+    "text": "{character:player}Cheers."
+  },
+  {
+    "line": 228,
+    "text": "I feel like I understand Sara a little bit more. We seem to have become closer..."
+  },
+  {
+    "line": 229,
+    "text": "After dinner, I take Sara back to the troupe."
+  },
+  {
+    "line": 230,
+    "text": "{character:player}Sara, if something unexpected happens and Olevi wins, will you really go to Musae?"
+  },
+  {
+    "line": 231,
+    "text": "{character:Sara}Oh, do you think I'm just joking? If I lose, of course I need to abide by the agreement. Will you be lonely if I go to another troupe?"
+  },
+  {
+    "line": 232,
+    "text": "{character:player}Although it's a little mean to Ciri and the others to say this, as your fan, Sara, it doesn't matter to me where you go. And rationally speaking, I would actually recommend that you go to a larger and more promising troupe."
+  },
+  {
+    "line": 233,
+    "text": "{character:Sara}Then why don't you want me to lose?"
+  },
+  {
+    "line": 234,
+    "text": "{character:player}Huh? Have I ever said that I don't want you to lose?"
+  },
+  {
+    "line": 235,
+    "text": "{character:Sara}You haven't said it out loud, but that's the feeling I get from you."
+  },
+  {
+    "line": 236,
+    "text": "{character:player}Haha, to be honest, yes, as your diehard fan, I don't want you to lose at all. No, what I mean is, I can't imagine you losing to her."
+  },
+  {
+    "line": 237,
+    "text": "{character:Sara}Oh... Now I really have to win, or else I'll be letting you down."
+  },
+  {
+    "line": 238,
+    "text": "{character:player}I won't apologize this time. I'll do everything I can to help you and achieve my goal."
+  },
+  {
+    "line": 239,
+    "text": "{character:player}Even if you're right, what if I can't become the character in the end? I can only pray that the audience will ignore me and only focus on your contest with Olevi."
+  },
+  {
+    "line": 240,
+    "text": "{character:Sara}Haha, you don't need to force yourself if you can't."
+  },
+  {
+    "line": 241,
+    "text": "{character:player}But didn't you just say that it's very important?"
+  },
+  {
+    "line": 242,
+    "text": "{character:Sara}Yes, but didn't you say that what you want to see on the stage is me? The only person I can show to the audience is myself."
+  },
+  {
+    "line": 243,
+    "text": "The only person I can show to the audience is myself."
+  },
+  {
+    "line": 244,
+    "text": "{character:Sara}...What do you see when you look at me now?"
+  },
+  {
+    "line": 245,
+    "text": "{character:player}Um... How should I say this..."
+  },
+  {
+    "line": 246,
+    "text": "{character:Sara}It's alright. You don't need to tell me now. We can revisit this again before the competition."
+  },
+  {
+    "line": 247,
+    "text": "{character:Sara}If you find an answer, maybe we'll both know what to do to complete our performance."
+  },
+  {
+    "line": 248,
+    "text": "{character:Sara}I'll be okay from here. Good night. Don't forget the homework I gave you, hehe..."
+  },
+  {
+    "line": 249,
+    "text": "{character:player}Sure, good night, Sara."
+  },
+  {
+    "line": 250,
+    "text": "It's already after eleven o'clock by the time I get home, but I'm not sleepy at all."
+  },
+  {
+    "line": 251,
+    "text": "After showering, I sit on the bed and flip through the script of Carmen again."
+  },
+  {
+    "line": 252,
+    "text": "To play a character well, I definitely need to feel the same way the character does."
+  },
+  {
+    "line": 253,
+    "text": "{character:player}Don... I'm reading your life. I'm trying to understand you."
+  },
+  {
+    "line": 254,
+    "text": "Maybe I'll never truly understand you. I mean, we're two different people after all."
+  },
+  {
+    "line": 255,
+    "text": "\"What do you see when you look at me now?\""
+  },
+  {
+    "line": 256,
+    "text": "{character:player}...Sara, do you see me when you look at me?"
+  },
+  {
+    "line": 257,
+    "text": "Or are you seeing Don?"
+  },
+  {
+    "line": 258,
+    "text": "{character:player}T-There are so many people..."
+  },
+  {
+    "line": 259,
+    "text": "On the day of the competition, the venue is already bursting with people even though there's still some time until the show starts."
+  },
+  {
+    "line": 260,
+    "text": "{character:Ticket Inspector}Ms. Olevi's appeal sure is extraordinary. All the tickets were sold in the blink of an eye."
+  },
+  {
+    "line": 261,
+    "text": "Based on Soul's past ticket sales situation, many of the audience should be Olevi's fans—maybe even half of them."
+  },
+  {
+    "line": 262,
+    "text": "{character:player}Sara sure is right. We can't take her lightly even if this is our home ground."
+  },
+  {
+    "line": 263,
+    "text": "{character:Sara}Hehe, are you feeling nervous?"
+  },
+  {
+    "line": 264,
+    "text": "{character:player}Of course I am. We'll need to work twice as hard to win over the votes of her fans!"
+  },
+  {
+    "line": 265,
+    "text": "{character:Sara}Hehe, you're in high spirits today."
+  },
+  {
+    "line": 266,
+    "text": "{character:Ciri}Sara, it's time to put on your makeup."
+  },
+  {
+    "line": 267,
+    "text": "{character:Sara}Okay. It's almost time for you to get changed too, right?"
+  },
+  {
+    "line": 268,
+    "text": "{character:player}Yes, I'll be going now. Oh right, Sara."
+  },
+  {
+    "line": 269,
+    "text": "{character:player}If... I'm wondering... If Carmen could leave safely, how do you think this play would have ended?"
+  },
+  {
+    "line": 270,
+    "text": "{character:Sara}If Carmen could leave safely... When you ask me so suddenly like this, I don't have an answer for you."
+  },
+  {
+    "line": 271,
+    "text": "{character:Sara}But this is a very meaningful question. I'll think about it."
+  },
+  {
+    "line": 272,
+    "text": "{character:player}Sure... You've got this, Sara."
+  },
+  {
+    "line": 273,
+    "text": "{character:Sara}Same goes for you. Let's meet again on the stage."
+  },
+  {
+    "line": 274,
+    "text": "{character:player}Yes, let's meet on the stage."
+  },
+  {
+    "line": 275,
+    "text": "Announcer"
+  },
+  {
+    "line": 276,
+    "text": "{character:Announcer}Thank you for waiting! Soul's special opera performance, Carmen, is starting now!"
+  },
+  {
+    "line": 277,
+    "text": "It is the early morning, and there is a steady flow of pedestrians in the square. \"I\" and a few colleagues are chatting casually while standing guard outside the barracks."
+  },
+  {
+    "line": 278,
+    "text": "\"My\" name is Don, a police officer who just started working here recently. At this moment, I'm sitting on a chair and focusing on making a gun chain."
+  },
+  {
+    "line": 279,
+    "text": "Officer"
+  },
+  {
+    "line": 280,
+    "text": "{character:Officer}Don, do you think those girls who are rolling up cigarettes in this building are pretty?"
+  },
+  {
+    "line": 281,
+    "text": "{character:player}Sorry, sir. I don't know. I don't pay attention to these types of things."
+  },
+  {
+    "line": 282,
+    "text": "{character:Officer}I know, my friend, it's because you already have a sweetheart, haha!"
+  },
+  {
+    "line": 283,
+    "text": "As we chat, loud noise can be heard from the distance, and my colleagues blow their whistles. Clearly, the noise is made by the female workers of the tobacco factory who are getting off work."
+  },
+  {
+    "line": 284,
+    "text": "{character:player}Sir, why don't you find out if they are pretty for yourself?"
+  },
+  {
+    "line": 285,
+    "text": "Soldiers"
+  },
+  {
+    "line": 286,
+    "text": "{character:Soldiers}(chorus) Where is Carmen? Why can't we see Carmen?"
+  },
+  {
+    "line": 287,
+    "text": "After being called out so enthusiastically by the soldiers, Carmen pushes the crowd aside and steps onto the stage."
+  },
+  {
+    "line": 288,
+    "text": "She holds her head high and dances proudly. The soldiers are all around her, but they are actually just embracing their own desires."
+  },
+  {
+    "line": 289,
+    "text": "{character:Soldiers}(chorus) Carmen, when will you have a heart-to-heart talk with us? When will you give us your love?"
+  },
+  {
+    "line": 290,
+    "text": "{character:Sara}Love is like a free bird that none should try to tame. Love is like a vagabond that will never be restrained by the law."
+  },
+  {
+    "line": 291,
+    "text": "{character:Sara}Even if you don't fall in love with me, you can't stop me from falling into your arms. But if I fall for you, you better be careful!"
+  },
+  {
+    "line": 292,
+    "text": "As she sings proudly, a flower hits me on the head. I pick up the sweet acacia flower that has fallen to the ground and look blankly at her in the crowd."
+  },
+  {
+    "line": 293,
+    "text": "{character:Sara}Hey, what are you doing?"
+  },
+  {
+    "line": 294,
+    "text": "{character:player}Me? I'm making a chain for my gun."
+  },
+  {
+    "line": 295,
+    "text": "{character:Sara}Your chain, hehe... Your chain is a chain that binds my soul!"
+  },
+  {
+    "line": 296,
+    "text": "Carmen laughs and runs off singing \"love is like a vagabond...\" as the bell of the tobacco factory sounds. The others follow her lead and leave one after another."
+  },
+  {
+    "line": 297,
+    "text": "The only people left in the plaza are me and the officer beside me."
+  },
+  {
+    "line": 298,
+    "text": "{character:player}What's with that look? She knows no shame! If witches who harm others really exist, she would be one of them!"
+  },
+  {
+    "line": 299,
+    "text": "{character:Officer}Haha! It's a farce, but it has nothing to do with you, Don. You already have a sweetheart."
+  },
+  {
+    "line": 300,
+    "text": "That's right, \"I\" already have a \"sweetheart\"..."
+  },
+  {
+    "line": 301,
+    "text": "Fiancée"
+  },
+  {
+    "line": 302,
+    "text": "{character:Fiancée}Don, mother told me to tell you that she misses you day and night. She even told me to bring you a kiss and wants you to tell her."
+  },
+  {
+    "line": 303,
+    "text": "{character:player}Mother brought me a kiss... Please tell her how much I love and respect her, and please help me bring this kiss to her."
+  },
+  {
+    "line": 304,
+    "text": "\"My\" sweetheart should be simple and kind."
+  },
+  {
+    "line": 305,
+    "text": "{character:Sara}You want to put me in jail?"
+  },
+  {
+    "line": 306,
+    "text": "{character:player}I'm sorry, I must do that."
+  },
+  {
+    "line": 307,
+    "text": "{character:Sara}...Don, you even threw away the flowers I gave you. You're been bewitched! You already love me, and you can do anything for me!"
+  },
+  {
+    "line": 308,
+    "text": "...I couldn't throw away the flower. I fell under the witch's spell. \"I\" can no longer say that my sweetheart is that simple and kind girl."
+  },
+  {
+    "line": 309,
+    "text": "{character:Sara}Love is like a vagabond that will never be restrained by the law."
+  },
+  {
+    "line": 310,
+    "text": "Lost in Carmen's bewitching song, \"I\" embark on a road of no return."
+  },
+  {
+    "line": 311,
+    "text": "{character:Soldiers}(chorus) Hooray! Hooray! Let's all cheer for the matador, Leo!"
+  },
+  {
+    "line": 312,
+    "text": "Amidst the sonorous and powerful beating of drums, Olevi, playing the role of Leo the matador, takes to the stage happily on a black horse like a general returning in triumph."
+  },
+  {
+    "line": 313,
+    "text": "Female Fan"
+  },
+  {
+    "line": 314,
+    "text": "{character:Female Fan}Ah! Olevi is here!"
+  },
+  {
+    "line": 315,
+    "text": "The screams of the female fans in the tent are so loud they seem to lift the roof."
+  },
+  {
+    "line": 316,
+    "text": "{character:Olevi}I should respond to your toast with a toast of my own, gentlemen, because you are soldiers who resemble us matadors! We take pride in fighting!"
+  },
+  {
+    "line": 317,
+    "text": "\"Leo\" picks up a red cloth and unfolds it in front of his chest while staring in front of himself. After a moment, he turns gracefully and continues to sing."
+  },
+  {
+    "line": 318,
+    "text": "{character:Olevi}The fully-seated arena is a festive scene. The sound of ecstatic shouting fluctuates... There is a challenge, applause, and noise! It is violent and fiery!"
+  },
+  {
+    "line": 319,
+    "text": "Carmen walks over to Leo with her head held high. The matador smiles and makes the bright red cloth dance in his hands to welcome the challenge of love."
+  },
+  {
+    "line": 320,
+    "text": "{character:Olevi}Love is waiting for you, matador!"
+  },
+  {
+    "line": 321,
+    "text": "{character:player}Olevi is such a talented actress..."
+  },
+  {
+    "line": 322,
+    "text": "Although I don't want to admit it, I would be more willing to choose this majestic matador instead of Don. As I watch Olevi's performance, I become increasingly unsure of whether we'll win the competition."
+  },
+  {
+    "line": 323,
+    "text": "{character:player}She declared that she would be able to captivate the audience in just a few short scenes before. It looks like she wasn't bragging about that."
+  },
+  {
+    "line": 324,
+    "text": "{character:Sara}Hehe, Olevi is just as talented as she is confident, but I don't think I'm inferior to her in the slightest."
+  },
+  {
+    "line": 325,
+    "text": "{character:Sara}You're doing well today, much better than you were in our previous rehearsals. The first few scenes are over, so you just need to keep this up until the end."
+  },
+  {
+    "line": 326,
+    "text": "{character:player}Really? That would be great as I won't put the hard work of the last few days to waste."
+  },
+  {
+    "line": 327,
+    "text": "{character:Sara}To be honest, I think you're quite talented at acting and also dance well. Will you consider joining Soul officially after this competition?"
+  },
+  {
+    "line": 328,
+    "text": "{character:player}If I can help you win this competition, then maybe I do have some talent in this area and I could actually consider your proposal."
+  },
+  {
+    "line": 329,
+    "text": "Joining Soul... She should just be joking to help me relax. Even so, I'm still a little happy to be recognized by a professional like Sara."
+  },
+  {
+    "line": 330,
+    "text": "{character:Sara}You should consider it carefully since I'm serious about it."
+  },
+  {
+    "line": 331,
+    "text": "{character:player}I-Is that so?"
+  },
+  {
+    "line": 332,
+    "text": "{character:Sara}It's time for my next scene. You should get some rest while you can. Oh, and don't forget to consider my proposal."
+  },
+  {
+    "line": 333,
+    "text": "{character:player}Oh..."
+  },
+  {
+    "line": 334,
+    "text": "She... She was serious?"
+  },
+  {
+    "line": 335,
+    "text": "The performance is nearly over, and the next scene is the most crucial one."
+  },
+  {
+    "line": 336,
+    "text": "After learning that Carmen now loves another person, on the day of the bullfight, Don comes to his lover in despair and tries to save his love."
+  },
+  {
+    "line": 337,
+    "text": "This is the climax, the most intense conflict of the whole play. This scene could determine the outcome of the competition..."
+  },
+  {
+    "line": 338,
+    "text": "Outside the bullring, \"I\" stagger up to Carmen numbly and grab her arm tightly."
+  },
+  {
+    "line": 339,
+    "text": "{character:Sara}Let me go."
+  },
+  {
+    "line": 340,
+    "text": "{character:player}Is your new lover the one everyone is cheering for?"
+  },
+  {
+    "line": 341,
+    "text": "{character:player}Carmen, don't leave with him. You... Must you go to him? Do you really love him?"
+  },
+  {
+    "line": 342,
+    "text": "{character:Sara}I love him. Even if I die, I must say that I love him!"
+  },
+  {
+    "line": 343,
+    "text": "In the bullring, the people stare at the blood gushing from the black bull and burst into applause. \"Victory! Victory!\" The applause seems to be mocking \"me\" at this very moment..."
+  },
+  {
+    "line": 344,
+    "text": "{character:player}If that's the case, then not even my soul will be saved. How dare you throw yourself into his arms shamelessly and mock me together! No! I'll make you bleed before I let you leave me! Carmen, you must be with me!"
+  },
+  {
+    "line": 345,
+    "text": "{character:Sara}No... No, no! It will never happen!"
+  },
+  {
+    "line": 346,
+    "text": "Carmen breaks free from \"my\" grasp and throws the ring \"I\" gave her at me."
+  },
+  {
+    "line": 347,
+    "text": "{character:Sara}This is the ring you gave me. Take it! Either you kill me or you... give me freedom!"
+  },
+  {
+    "line": 348,
+    "text": "{character:player}..."
+  },
+  {
+    "line": 349,
+    "text": "Okay, it's time to make a decision."
+  },
+  {
+    "line": 350,
+    "text": "\"I\" draw a sharp knife while looking at Carmen. There is no trace of fear on her face. She has been fearless from the beginning to the end."
+  },
+  {
+    "line": 351,
+    "text": "Sara's fearless expression isn't because this is a play and I'm holding a prop. It's because she has become Carmen right now. She is the \"outsider\" Carmen who bewitches the world in the name of love and would rather die than lose her freedom."
+  },
+  {
+    "line": 352,
+    "text": "{character:player}(whisper) You're so amazing... Sara. You're so incredible..."
+  },
+  {
+    "line": 353,
+    "text": "Suddenly, I finally understand how Don is feeling at this moment. Like Sara said before, Don is fascinated by Carmen's every move, and I'm also fascinated by Sara's dance. We are just the same."
+  },
+  {
+    "line": 354,
+    "text": "Can I really kill this person who has enchanted me so deeply?"
+  },
+  {
+    "line": 355,
+    "text": "{character:Sara}(whisper) Psst, are you okay?"
+  },
+  {
+    "line": 356,
+    "text": "Before I make my next move, I need to sort out two things. Who am I seeing right now?"
+  },
+  {
+    "line": 357,
+    "text": "And... How does Don see himself?"
+  },
+  {
+    "line": 358,
+    "text": "\"I\" was supposed to live a stable life with my simple and kind fiancée and my mother in our hometown, but Carmen entered \"my\" life like a turbulent storm."
+  },
+  {
+    "line": 359,
+    "text": "Like I said before, she is a witch who harms other people, and she has seduced \"me\" into abandoning everything."
+  },
+  {
+    "line": 360,
+    "text": "Now, she has destroyed the last vestiges of \"my\" dignity by loving someone else, making \"me\" a laughing stock and an outcast of fate."
+  },
+  {
+    "line": 361,
+    "text": "\"I\" should feel unhappy... I should feel angry!"
+  },
+  {
+    "line": 362,
+    "text": "{character:player}...Fine! Then die!"
+  },
+  {
+    "line": 363,
+    "text": "\"I\" pull out a sharp knife and stab Carmen in the chest to take revenge on my beautiful lover, using blood to seek justice for my love!"
+  },
+  {
+    "line": 364,
+    "text": "{character:player}Arrest me! I'm the one who killed her!"
+  },
+  {
+    "line": 365,
+    "text": "\"I\" hug the body of Carmen, who will never move again, and shout with my head raised. Rose petals are scattered all around Carmen, and a gust of wind blows her soul to the unfettered shore."
+  },
+  {
+    "line": 366,
+    "text": "This is the last decision I make. To present a perfect performance and help Sara win the competition, I will play out Don's life to the end."
+  },
+  {
+    "line": 367,
+    "text": "The performance ends amidst the audience's sighs..."
+  },
+  {
+    "line": 368,
+    "text": "{character:Olevi}So it's the same old outcome again?"
+  },
+  {
+    "line": 369,
+    "text": "{character:Sara}Ahaha, too bad, Olevi."
+  },
+  {
+    "line": 370,
+    "text": "After the performance, the competition ends with the audience voting for a tie."
+  },
+  {
+    "line": 371,
+    "text": "{character:Olevi}Oh well, there's still plenty of time. There's always a spot for you in Musae, Sara. Let's compete again next time."
+  },
+  {
+    "line": 372,
+    "text": "{character:Sara}Hehe, I'll be looking forward to it."
+  },
+  {
+    "line": 373,
+    "text": "{character:Olevi}Oh right, will your guest be performing on stage again next time?"
+  },
+  {
+    "line": 374,
+    "text": "{character:player}Huh? Me?"
+  },
+  {
+    "line": 375,
+    "text": "{character:Olevi}Sara told me you've only been practicing for a month or so, but your performance today was simply brilliant. Like she said, you're quite talented."
+  },
+  {
+    "line": 376,
+    "text": "{character:Olevi}Things will be even more interesting if you also perform on stage the next time we compete."
+  },
+  {
+    "line": 377,
+    "text": "{character:player}No, no, no. It's better if you two compete alone. I'll..."
+  },
+  {
+    "line": 378,
+    "text": "{character:Sara}Hehe, won't you think it's unfair? We'll have a great advantage."
+  },
+  {
+    "line": 379,
+    "text": "{character:Olevi}Challenges must be difficult to be fun. It's decided then. See you next time."
+  },
+  {
+    "line": 380,
+    "text": "After speaking, Olevi waves her hand and leaves."
+  },
+  {
+    "line": 381,
+    "text": "{character:Sara}It looks like this won't be the last time we perform together."
+  },
+  {
+    "line": 382,
+    "text": "{character:player}W-Will you two really keep competing like tonight...?"
+  },
+  {
+    "line": 383,
+    "text": "...Oh well, there's no point worrying about the future. For now, let's just celebrate today's victory!"
+  },
+  {
+    "line": 384,
+    "text": "\"Don\" was supposed to live a stable life with his simple and kind fiancée and his mother in their hometown, but Carmen entered \"his\" life like a turbulent storm."
+  },
+  {
+    "line": 385,
+    "text": "Like he said, she is a witch that harms people. However... is Don really unfortunate after experiencing all this?"
+  },
+  {
+    "line": 386,
+    "text": "{character:player}Go, Carmen."
+  },
+  {
+    "line": 387,
+    "text": "{character:Sara}What are you saying?"
+  },
+  {
+    "line": 388,
+    "text": "{character:player}I said go! Carmen."
+  },
+  {
+    "line": 389,
+    "text": "Even if Carmen initially approached Don with other plans in mind, I believe that she really did throw that sweet acacia flower at Don outside the tobacco factory in an impulse of love."
+  },
+  {
+    "line": 390,
+    "text": "Carmen has no lack of suitors, yet she was drawn to Don by his unintentional indifference. Their love was accidental and a stroke of luck. Don just received someone's love by accident."
+  },
+  {
+    "line": 391,
+    "text": "At this moment, I too am just a lucky fan who was invited by Sara to perform on the same stage as her."
+  },
+  {
+    "line": 392,
+    "text": "{character:Sara}...Hahahah! Are you pitying me?"
+  },
+  {
+    "line": 393,
+    "text": "{character:player}Never! We don't need to pity each other because..."
+  },
+  {
+    "line": 394,
+    "text": "{character:player}Love is like a free bird that none should try to tame!"
+  },
+  {
+    "line": 395,
+    "text": "In my opinion, Carmen, who Don pursues, is that very free bird. Many of Carmen's actions are unforgivable, but if she loses her proud nature and willingly enters his \"birdcage,\" will she still be the same Carmen who fascinates him?"
+  },
+  {
+    "line": 396,
+    "text": "I don't think so. Although Don and I are similar in some ways, we are still different people. I can't become Don. Like Sara said, the only person I can show to the audience is myself."
+  },
+  {
+    "line": 397,
+    "text": "So, the person in front of me is Sara, not Carmen. I... want her to be free."
+  },
+  {
+    "line": 398,
+    "text": "{character:player}Love is like a vagabond that will never be restrained by the law! Go! You're free now, Carmen!"
+  },
+  {
+    "line": 399,
+    "text": "I can see that some members of the audience are already making doubtful and even stunned expressions. It's natural for the audience to have such a reaction when the script is changed at the last minute."
+  },
+  {
+    "line": 400,
+    "text": "Fortunately, Sara is as calm as always. In my heart, I'm secretly glad that I mentioned the possibility of changing the ending to her before the show started. I can only hope that she understands that I'm trying to \"express who I am\" at this moment."
+  },
+  {
+    "line": 401,
+    "text": "...No, I believe she'll understand because this is our homework."
+  },
+  {
+    "line": 402,
+    "text": "Full of anticipation, I wait for the response of the person who fascinates me. Like her, I also look forward to the element of surprise she has. This kind of improvision is precisely what she's best at."
+  },
+  {
+    "line": 403,
+    "text": "{character:Sara}Oh? You're so arrogant! That's so arrogant of you, Don!"
+  },
+  {
+    "line": 404,
+    "text": "Sara's fingers slide down my cheeks to my neck and lift up my chin. Her eyes are still proud, but there's a trace of tenderness inside them."
+  },
+  {
+    "line": 405,
+    "text": "{character:Sara}Go? Where do you want me to go? What right do you have to tell me to leave you?"
+  },
+  {
+    "line": 406,
+    "text": "{character:player}You no longer love me. I don't want you to die, so I can only give you your freedom."
+  },
+  {
+    "line": 407,
+    "text": "{character:Sara}You've never taken my freedom, so what makes you think it's yours to give? You think you're being generous, but you're actually more arrogant than anyone else."
+  },
+  {
+    "line": 408,
+    "text": "{character:Sara}You want me to leave? Haha, then I won't leave. Hold my hand, Don. I won't leave anymore!"
+  },
+  {
+    "line": 409,
+    "text": "{character:player}...Are you pitying me, Carmen?"
+  },
+  {
+    "line": 410,
+    "text": "{character:Sara}You were rude to me first, so I'm just paying you back."
+  },
+  {
+    "line": 411,
+    "text": "Seeing that I'm not moving, Sara grabs my hand herself."
+  },
+  {
+    "line": 412,
+    "text": "{character:Sara}Don, I like the sound of cheering and winners."
+  },
+  {
+    "line": 413,
+    "text": "{character:player}But I am a loser of life. Meeting you has made me lose everything."
+  },
+  {
+    "line": 414,
+    "text": "{character:Sara}No, that chain... your chain... is a chain that binds my soul. It has just wound itself around my heart again just now."
+  },
+  {
+    "line": 415,
+    "text": "{character:player}Just now? You capricious woman. You declare me the winner just because of this?"
+  },
+  {
+    "line": 416,
+    "text": "{character:Sara}Why not? Love is arbitrary in the first place. It is like a gust of wind, and it happens to be blowing towards you now."
+  },
+  {
+    "line": 417,
+    "text": "{character:Sara}Let go of your petty self-esteem. At least for this moment, you are enchanting, so you are the winner."
+  },
+  {
+    "line": 418,
+    "text": "{character:Sara}Rejoice! Winner!"
+  },
+  {
+    "line": 419,
+    "text": "The People"
+  },
+  {
+    "line": 420,
+    "text": "{character:The People}(chorus) Yes! This is great! Victory! Glory belongs to the victor—Don!"
+  },
+  {
+    "line": 421,
+    "text": "Rose petals fall from the roof and land beside us. The bright red that originally symbolizes tragedy has now turned into a blessing for the winner."
+  },
+  {
+    "line": 422,
+    "text": "Just like that, Soul's special opera performance ends amidst the cheering of the crowd..."
+  },
+  {
+    "line": 423,
+    "text": "After the performance, the competition ends with the audience voting for Sara's victory."
+  },
+  {
+    "line": 424,
+    "text": "But the last-minute changes to the script spark some controversy, and Olevi's colleagues are angry at the result."
+  },
+  {
+    "line": 425,
+    "text": "Colleague A"
+  },
+  {
+    "line": 426,
+    "text": "{character:Colleague A}Ignoring the fact that this is their home ground, is a performance that doesn't respect the original work really a qualified performance?"
+  },
+  {
+    "line": 427,
+    "text": "Colleague B"
+  },
+  {
+    "line": 428,
+    "text": "{character:Colleague B}I can't agree with this result. Olevi's performance was more brilliant."
+  },
+  {
+    "line": 429,
+    "text": "{character:Olevi}Okay, that's enough. Although Sara's impromptu adaptation of the ending was very sudden, doesn't the audience's response prove that this was a wonderful performance?"
+  },
+  {
+    "line": 430,
+    "text": "{character:Olevi}As for winning or losing... Sara's choice is the most direct response. Even if my performance won the audience's applause, since the matador failed to win Carmen's heart, then this is naturally my loss."
+  },
+  {
+    "line": 431,
+    "text": "Seeing Olevi admits defeat like that, her colleagues have nothing else to say, and this little dispute after the performance is settled."
+  },
+  {
+    "line": 432,
+    "text": "{character:Sara}You were really brilliant tonight, Olevi."
+  },
+  {
+    "line": 433,
+    "text": "{character:Olevi}You were too. I was no match for your impromptu performance."
+  },
+  {
+    "line": 434,
+    "text": "{character:player}Thank you for calming down your colleagues. They made such scary expressions just now..."
+  },
+  {
+    "line": 435,
+    "text": "{character:Olevi}Hahaha, don't mention it. I must say, from your performance, I can't tell that you've only practiced for around one month. Like Sara says, you're really talented at acting."
+  },
+  {
+    "line": 436,
+    "text": "{character:player}I'm flattered to hear that."
+  },
+  {
+    "line": 437,
+    "text": "{character:Olevi}If we get the chance, let's perform together on stage again in the future."
+  },
+  {
+    "line": 438,
+    "text": "{character:player}Huh? That wouldn't be good, right? I only stepped up this time because we couldn't find someone. You two should compete alone next time."
+  },
+  {
+    "line": 439,
+    "text": "{character:Olevi}That's not really right. I didn't just lose to Sara today—I lost to the two of you. You wouldn't do something unromantic like running away after winning, right?"
+  },
+  {
+    "line": 440,
+    "text": "{character:player}Um, I'm not really running away after winning... Im just helping out..."
+  },
+  {
+    "line": 441,
+    "text": "{character:player}W-Wait! Ms. Olevi—!"
+  },
+  {
+    "line": 442,
+    "text": "Without giving me the opportunity to reject her, Olevi turns around and leaves after speaking."
+  },
+  {
+    "line": 443,
+    "text": "Oh well, at least this headhunting incident has ended well. I'll worry about the future later."
+  },
+  {
+    "line": 444,
+    "text": "{character:Sara}By the way, have you decided yet?"
+  },
+  {
+    "line": 445,
+    "text": "{character:player}Decided? Decide on what?"
+  },
+  {
+    "line": 446,
+    "text": "{character:Sara}Hehe, you shouldn't pretend to be confused at this time. Have you decided whether you will officially join Soul or not?"
+  },
+  {
+    "line": 447,
+    "text": "{character:player}Oh, this matter..."
+  },
+  {
+    "line": 448,
+    "text": "So Sara was serious! Forget about the troubles of the future. I have a big problem waiting for me right now..."
+  },
+  {
+    "line": 449,
+    "text": "{character:player}Sorry, Sara, I was too busy thinking about the performance and haven't decided yet."
+  },
+  {
+    "line": 450,
+    "text": "{character:player}I'll consider it carefully. I'll let you know once I have an answer!"
+  },
+  {
+    "line": 451,
+    "text": "{character:Sara}Hehe, then I'll be waiting for your response."
+  },
+  {
+    "line": 452,
+    "text": "{character:Sara}You don't need to rush. I'll keep waiting until you have an answer."
+  },
+  {
+    "line": 453,
+    "text": "{character:player}...Okay."
+  },
+  {
+    "line": 454,
+    "text": "Actually, I know in my heart that it's not very likely that I'll join Soul, but the option of rejecting her proposal immediately never appeared in my mind."
+  },
+  {
+    "line": 455,
+    "text": "After all, the person in front of me is my very own Carmen."
+  },
+  {
+    "line": 456,
+    "text": "No matter how our relationship changes in the future, at least I hope that she'll be a part of my life..."
+  },
+  {
+    "line": 457,
+    "text": "I know about it"
+  },
+  {
+    "line": 459,
+    "text": "I don't know about it"
+  },
+  {
+    "line": 460,
+    "text": " Soul's lounge"
+  },
+  {
+    "line": 461,
+    "text": "Turn her down"
+  },
+  {
+    "line": 462,
+    "text": "Ask some questions"
+  },
+  {
+    "line": 463,
+    "text": "I can't do it"
+  },
+  {
+    "line": 465,
+    "text": "I've considered it carefully, and I can't do it"
+  },
+  {
+    "line": 466,
+    "text": "Unlucky person"
+  },
+  {
+    "line": 467,
+    "text": "Lucky person"
+  },
+  {
+    "line": 468,
+    "text": "Let me consider that carefully"
+  },
+  {
+    "line": 469,
+    "text": "I... I can't decide now"
+  },
+  {
+    "line": 470,
+    "text": ""
+  },
+  {
+    "line": 471,
+    "text": "Several days later"
+  },
+  {
+    "line": 472,
+    "text": "On the day of the competition"
+  },
+  {
+    "line": 473,
+    "text": "Opening time"
+  },
+  {
+    "line": 474,
+    "text": "Act I: Overture"
+  },
+  {
+    "line": 475,
+    "text": "Act I, Scene III"
+  },
+  {
+    "line": 476,
+    "text": "Act I, Finale"
+  },
+  {
+    "line": 477,
+    "text": "Act II, Overture"
+  },
+  {
+    "line": 478,
+    "text": "Act IV, Finale"
+  },
+  {
+    "line": 479,
+    "text": "Memories"
+  },
+  {
+    "line": 480,
+    "text": "While Olevi puts on her solo show, Sara and I go back to the lounge."
+  }
+]

@@ -1,0 +1,108 @@
+1:Lelouch Lamperouge
+2:{character:Lelouch Lamperouge}Where am I...?
+3:Kallen Kouzuki
+4:{character:Kallen Kouzuki}(Weird. Wasn't I just in the submarine? Where is this place?)
+5:Suzaku Kururugi
+6:{character:Suzaku Kururugi}(Where am I? I should be in Lancelot's cockpit...)
+7:C.C.
+8:{character:Lelouch Lamperouge}...
+8:{character:C.C.}...
+9:{character:Lelouch Lamperouge}(Kallen and Suzaku? C.C. is here too... Am I dreaming? People who should not meet one another have all gathered here.)
+10:Lelouch&Suzaku&Kallen
+11:{character:Lelouch&Suzaku&Kallen}(What... What in the world happened?!)
+12:{character:C.C.}No more nonsense. Let's get started.
+13:{character:Lelouch Lamperouge}Get started? What are we doing?
+14:{character:C.C.}There's only one thing we can do at this table.
+15:{character:C.C.}Play mahjong.
+16:{character:Suzaku Kururugi}Wait! Can you give me some time to clear things up first?
+17:{character:Kallen Kouzuki}I agree. If I remember correctly, we should be...
+18:Suzaku Kururugi and Kallen Kouzuki, who were supposed to be enemies, are now in the same room. To try to make sense of the unbelievable situation they are currently in, they both look around the room to try and recall how they got there.
+19:{character:Suzaku Kururugi}(...No. I'm so confused that I can't recall any key information. I remember I should be...)
+20:{character:Suzaku Kururugi}(Right, Zero and I just took back the base from the enemy and were about to return to the government hall of the settlement.)
+21:{character:Kallen Kouzuki}(If I'm not mistaken... I was in the submarine, watching as Zero helped Suzaku take back the base.)
+22:{character:Kallen Kouzuki}(That's what happened, but now I'm in this unknown place wearing the Ashford uniform.)
+23:{character:Kallen Kouzuki}(What happened...? I can only explore the situation gradually at this point.)
+24:{character:Kallen Kouzuki}H-Hey, Suzaku, you're a Britannian soldier, right? I think I saw on the news that you had gone to the base. Why are you here?
+25:{character:Suzaku Kururugi}I don't know either. What about you? Why are you here too?
+26:{character:Kallen Kouzuki}I'm not sure either. I was here before I knew it.
+27:{character:Suzaku Kururugi}(Kallen doesn't look like she is lying. Then, the others must...)
+28:{character:Suzaku Kururugi}(Is it possible that she might know what's happening? This girl once protected Zero, so she might have some relationship with him. I can't ask her this casually right now though.)
+29:{character:Kallen Kouzuki}(C.C.... Why is this woman here too...? But I can't talk to her right now.)
+30:Suzaku&Kallen
+31:{character:Suzaku&Kallen}(Because...)
+32:{character:Lelouch Lamperouge}W-What is it? You two look so nervous.
+33:{character:Suzaku&Kallen}(Lelouch is here!)
+34:{character:Suzaku Kururugi}(Lelouch doesn't know that Kallen from our class is a member of the Order of the Black Knights. Also, the girl he saved back then might have something to do with Zero...)
+35:{character:Kallen Kouzuki}(Lelouch doesn't know that I'm a member of the Order of the Black Knights, or the connection between C.C. and Zero...)
+36:{character:Suzaku Kururugi}(Lelouch might be in danger if he learns something he shouldn't know.)
+37:{character:Kallen Kouzuki}(I can't let Lelouch who doesn't know anything get involved. In that case...)
+38:{character:Kallen Kouzuki}S-Sorry, I'm still a little confused because I can't figure out where we are.
+39:{character:Suzaku Kururugi}Yeah... me too. Lelouch, do you know what this place is?
+40:{character:Lelouch Lamperouge}I have no idea either. I was out buying something and ended up here somehow.
+41:{character:Lelouch Lamperouge}(It looks like Suzaku and Kallen both don't know what's happening. Still, I'm in the same boat too. The last thing I remember before appearing here is that we were returning after taking back the base.)
+42:{character:Lelouch Lamperouge}(In other words, the only person who might know what is going on is her.)
+43:Lelouch looks at C.C., who is playing with a tile she picked up from the mahjong table.
+44:{character:C.C.}...Well, have you finished talking? It's seldom that we will gather around a mahjong table like this. Let's start playing if you've had enough talking.
+45:{character:Kallen Kouzuki}Huh?
+46:{character:Suzaku Kururugi}Play mahjong? At a time like this when we can't make heads or tails of our situation?
+47:{character:Lelouch Lamperouge}Oh, it's been a while. It's good to see that you're okay.
+48:{character:C.C.}...What is it? Do you want to ask me something?
+49:{character:Lelouch Lamperouge}Do you know where we are?
+50:{character:C.C.}Who knows.
+51:{character:Lelouch Lamperouge}If you don't know where we are, aren't you at least curious about our situation?
+52:{character:C.C.}What's the use of being curious about something you don't know?
+53:{character:Lelouch Lamperouge}(Although C.C. won't say anything unless she wants to, she isn't the type of person to lie at a time like this, which means someone other than us brought us here.)
+54:{character:Lelouch Lamperouge}(Who could it be? What are they trying to achieve...?)
+55:{character:C.C.}The only thing I'm certain of right now is that we're gathered around a mahjong table. In that case, we might as well play a game of mahjong instead of worrying.
+56:{character:C.C.}You guys over there, isn't that what you're thinking too?
+57:C.C. suddenly speaks to a corner of the room. Lelouch and the others turn to look at the same corner where several "beings" who seem out of tune with their world are watching them.
+58:Ichihime
+59:{character:Ichihime}...Nyaa! Wanjirou, can we talk now, nyaa?
+60:Wanjirou
+61:{character:Wanjirou}It wasn't a good time to interrupt earlier because the atmosphere was a little tense. It should be okay now, woof.
+62:Kaguyahime
+63:{character:Kaguyahime}These humans have trespassed the shrine, so why do I have to be so careful around them?
+64:{character:Wanjirou}It's called being a good host, woof.
+65:{character:Lelouch Lamperouge}Are my eyes playing tricks on me? It looks like a dog is talking...
+66:{character:Suzaku Kururugi}You're not wrong. I see it too.
+67:{character:Kallen Kouzuki}What has happened to us?
+68:{character:C.C.}Do you mind if we use this table?
+69:{character:Wanjirou}No one is using it today. Help yourself, woof.
+70:{character:Lelouch Lamperouge}Wait, you're way too calm. The mahjong table clearly shouldn't be the concern right now.
+71:{character:Suzaku Kururugi}Indeed. Um, can you tell me where we are and who you are?
+72:{character:Wanjirou}I'm Wanjirou, woof.
+73:{character:Ichihime}And Ichihime is Ichihime, nyaa!
+74:{character:Kaguyahime}I'm Kaguyahime, the deity of this place.
+75:{character:Kallen Kouzuki}A d-deity...? Does this mean we died somewhere without realizing it?
+76:{character:Ichihime}That's not it, nyaa!
+77:{character:Wanjirou}This is the Mahjong Soul Shrine of One Han City, woof. As for where it is specifically... Let's not worry about the details. You can think of this as a place where everything can be resolved with mahjong, woof.
+78:{character:Lelouch Lamperouge}Everything can be resolved with mahjong...? What do you mean?
+79:{character:Ichihime}It means exactly what it means. Everything is decided by mahjong here. You can have any wish granted if you win, nyaa!
+80:{character:Lelouch Lamperouge}Have any wish granted... Is that for real?
+81:{character:C.C.}Oh? I can have any wish granted if I win a game of mahjong...? Can we return to our world if we win?
+82:{character:Kaguyahime}Hehe, only if you're skilled enough to win.
+83:{character:Kallen Kouzuki}To have any wish granted just by winning a mahjong game... How ridiculous...
+84:{character:Lelouch Lamperouge}No, we can't say that. After all, it's true that we were brought here by some mysterious power.
+85:{character:Suzaku Kururugi}You're right about that. In that case, it's worth trying out what they said.
+86:{character:Kallen Kouzuki}Are you guys serious?
+87:{character:Lelouch Lamperouge}Oh, of course we are. Absurd as it is, assuming that our current situation is the reality, it's better not to be prejudiced by our first impression. We should judge the situation based on what we can see in front of us.
+88:{character:Suzaku Kururugi}I agree with Lelouch's opinion. Since there's a solution to our problem, let's try it first.
+89:{character:Kallen Kouzuki}I'm shocked by how fast you two can adapt to the situation.
+90:{character:Lelouch Lamperouge}No matter what, it's good to take all kinds of situations into consideration.
+91:{character:Lelouch Lamperouge}(In the past, an extraordinary power also took me from Shikine Island to Kamine Island. If a system like that exists in the world, anything is possible.)
+92:{character:Lelouch Lamperouge}(Besides, I must return to our own world as soon as possible... Nunnally is still waiting for me...)
+93:{character:Kallen Kouzuki}I'll just watch from the side then since you have enough players for a game.
+94:{character:Kaguyahime}In that case, I'll play. You should feel grateful for being able to play a game of mahjong with a deity.
+95:{character:Wanjirou}Have you guys played mahjong before, woof?
+96:{character:Suzaku Kururugi}I've watched my father play it with others, but I'm not very familiar with the rules.
+97:{character:Lelouch Lamperouge}I only know the basic rules but have never actually played it.
+98:Wanjirou and Ichihime spread out the mahjong tiles and give a general explanation to Lelouch and the others who are not familiar with the rules. After that, they sit next to the table and watch.
+99:{character:Ichihime}By the way, Wanjirou, which school's uniform are they wearing? I've never seen it before, nyaa.
+100:{character:Wanjirou}I have no idea. There are too many students who come here from unknown places to play mahjong. It's not the first time you've seen this happen, so shouldn't you be used to it by now, woof? Either way, they must have their own reasons for coming here, woof.
+101:{character:Kaguyahime}Come on, let's start.
+102:{character:C.C.}Hehe, it's been a long time since I've played. I'm so excited.
+103:{character:Suzaku Kururugi}Please enlighten me.
+103:{character:Lelouch Lamperouge}Let's have a good game.
+104:{character:Lelouch Lamperouge}(My opponents are Kaguyahime, who calls herself a deity, C.C., and Suzaku. Let's see what tiles I have first).
+105:{character:Ichihime}Let's start then, nyaa!
+106:

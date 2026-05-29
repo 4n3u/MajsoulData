@@ -1,0 +1,305 @@
+1:Mia
+2:{character:Mia}{var:player_nickname}, this way!
+3:Because of Kana Fujita, I am quite familiar with everyone on her team as I go to her company office frequently. Sometimes, the staff or the other two members of W.I.N also help me out.
+4:For example, I'm currently following the staff into the venue through the entrance used by the organizers, which allows me to see the setup of the Rainbow Light Concert several hours earlier than other fans.
+5:The stadium, which can accommodate tens of thousands of people, has been refreshed with a new look. Pink, red, and dark blue, the support colors of the three members, are intertwined, fully highlighting the vitality and enthusiasm of the girl group.
+6:I respond to Mia with a wave, then I walk to the first row of the VIP seats, carefully avoiding the tangled wires under my feet, and sit down beside her.
+7:player
+8:{character:player}A staff told me you are doing the final rehearsal right now. Why is Kana the only one on stage? Don't you and Akane need to go there too?
+9:{character:Mia}This is the captain's solo song. She asked our manager if she could familiarize herself further with where she needs to move on stage. If you came just a little earlier, you would have seen us perform our chorus song. But... it's probably good to save that surprise until the end.
+10:{character:player}Hmm, saying that makes me more curious about it instead.
+11:{character:Mia}Hehe, the captain said you shared some really tasty fried chicken with her. If you buy me some, maybe I can leak some information to you first... Ouch!
+12:As soon as Mia stops speaking, Akane, who is sitting on the other side of her, taps her forehead lightly. She ignores Mia's accusatory eyes and looks at the stage.
+13:Akane
+14:{character:Akane}Shush-- Kana's rehearsal is about to start.
+15:I sit up straight and look at the girl dancing to the music on the stage. Like an elf who has inadvertently made her way into this world, she is able to easily touch the heartstrings of human beings and give rewards to her most loyal followers.
+16:Immersed in the world created by Kana's dance, I didn't realize that the performance was over until I hear the sound of applause.
+17:{character:Mia}Whoa! What a brilliant dance! I support you, captain!
+18:The cheering from the audience stand attracts Kana's attention. She makes an apologetic gesture when she sees me standing among the audience and indicates that she will watch the camera recording of her performance with her manager, so she can't come over and greet me yet.
+19:{character:player}It's okay. The concert is more important, so you should do what you need to do first, Kana.
+20:{character:Akane}Let's go together.
+21:{character:player}Huh?
+22:{character:Akane}In terms of performing on stage, there's no doubt that Kana is the best on the team. Mia and I can really learn something from her. What's more... you want to get even closer to her, don't you?
+23:Akane sits there supporting her head with her chin resting on both hands. Her beautiful eyes glance at my toes that are facing Kana. By seeing through my intentions, she makes an excuse for me and also holds back Mia, who is smirking beside her.
+24:I cough lightly in embarrassment. As I run away under their playful gaze, I hear their friendly laughter behind me.
+25:Kana Fujita
+26:{character:Kana Fujita}Manager, I think it's better to get the videographer to capture the freeze-frame shot of this pose as a panoramic shot.
+27:Manager
+28:{character:Manager}You're right. This movement will look even more valiant with the stage lighting. Director, please record this.
+29:{character:Kana Fujita}Um... And here, my position seems to be a little off... I'll watch out for that.
+30:{character:Manager}Is the volume of the in-ear monitors okay?
+31:{character:Kana Fujita}It feels just right, but maybe it can be turned up a little more just in case the audience cheers too loudly.
+32:{character:Manager}Then we'll adjust it according to the situation after the audience enters. Akane, Mia, you two will also need to watch out for this.
+33:{character:Kana Fujita}Oh, I have one more question. Miss Manager, I think...
+34:In order to not disturb their rehearsal, I deliberately hide myself behind the staff. Although I don't really understand everything they are saying, I generally understand that everyone is working hard for this concert.
+35:Kana is checking the pre-recorded images of each frame and discussing ways to make them better with her manager and videographer. Probably because this is the first concert of the tour, she is extraordinarily serious and determined to do her best in every detail.
+36:{character:Kana Fujita}That's it then. I don't have any other questions.
+37:After an unknown period of time and being bombarded by a barrage of professional terminology, she finally says the words I've been waiting for.
+38:However, that doesn't mean I will be able to chat leisurely with Kana. The girl wipes away the sweat on her forehead and starts urging her team members to get on stage.
+39:{character:Kana Fujita}Mia, Akane, it's time for your rehearsals now. Mia, pay attention to the timing and your position so you don't move too quickly. Akane, you need to interact with the camera actively, especially when the videographer does a close-up of you.
+40:{character:Kana Fujita}Oh right, they'll need to use the lifting platform for this song. The choreographer has the version with our finalized positions, right? We also need to check the equipment again...
+41:Kana is always acting cute or laughing in front of me in a lively and adorable manner. This is the first time I've seen her make such a serious expression. She even looks somewhat similar to her manager next to her.
+42:I never realized that there would be so many things to work out at the concert. Hearing the series of requests from her also makes me feel nervous.
+43:{character:Kana Fujita}Oh right, we need to hand out cheering sticks to the fans. That also needs to be checked! I'll...
+44:{character:Manager}Wait, Kana.
+45:Kana's manager pats her arm to stop her from walking off.
+46:{character:Manager}Kana, instead of helping the concert director and staff out, it's more important for you to get some rest now.
+47:{character:Manager}I'll be with Mia and Akane during their rehearsals, and we have professionals checking the stage equipment.
+48:{character:Manager}You're too nervous right now. I worried that the nervous energy will work against you. Go backstage and have a good rest so that you can perform at your best during the concert.
+49:Kana's manager proves once again that there's a reason she's a top manager in the industry as she notices why Kana Fujita is acting so strange in one glance.
+50:{character:Kana Fujita}But...
+51:As one of the stars of the concert, Kana will definitely use up a lot of energy later, so it is very important for her to keep herself fresh and full of energy. With this thought in mind, I speak out in support of her manager.
+52:{character:player}Kana, there's still a lot of time until the concert starts, so it will be better if you get some rest first.
+53:{character:Manager}{var:player_nickname}, when did you arrive?
+54:{character:player}Um, probably... when you were busy dealing with everything.
+55:{character:Manager}Can you keep Kana company backstage while she rests? She should be more relaxed with you around.
+56:{character:Kana Fujita}Ah! You're using {var:player_nickname} to change my mind. That's so sly of you.
+57:The atmosphere of the backstage is actually not much more relaxed than around the busy stage. Everyone is moving around in a hurry, and staff carrying stage props pass by the door of the lounge from time to time.
+58:To prevent these trivial matters from disturbing Kana, I walk over and close the door of the lounge, but this doesn't really have any significant effect as she is still very tense.
+59:{character:Kana Fujita}I wonder how Mia and Akane's rehearsals are going... In addition to the lifting platform, we'll also need to use wires for this performance. I'll need to check them as well in a moment...
+60:{character:player}Your manager will sort those things out. Kana, you should just focus on resting for now so that you can show everyone your best self on stage.
+62:{character:player}Wait!
+63:Noticing that Kana is about to get off the recliner and stand up, I ignore social etiquette and quickly step over and grab her hand, forcing her to sit back down.
+64:{character:player}I know you care a lot about this concert, but your manager is right. What you need the most right now is rest.
+65:{character:Kana Fujita}But there are still so many things to do...
+66:{character:player}W.I.N has held many concerts since its debut, and there haven't been any stage accidents so far. Kana, you should try to trust your team members and staff more. After all everyone has the same goal as you to create the perfect stage.
+67:Being nervous for a long time has caused Kana's stamina to be exhausted even faster. After she realizes she can't stop me from stopping her, she falls silent for a moment before obediently lying down.
+68:Just as I think she has fallen asleep, Kana suddenly responds to something I said earlier.
+69:{character:Kana Fujita}It isn't that I don't trust them. I just... don't want to disappoint anyone.
+70:{character:player}Oh?
+71:{character:Kana Fujita}Akane is a very talented musician, and most of our songs are written by her. Mia is a very talented idol. Even though she hasn't been able to participate in a lot of our training because of school, she still hasn't fallen behind.
+72:{character:Kana Fujita}Compared to them, my talents and abilities are nothing worth mentioning. I'm only able to stand on the stage and perform thanks to the support and encouragement of my fans.
+73:{character:Kana Fujita}I don't want to disappoint anyone, so I can only repay them with several times the effort. I always want to do better...
+74:Curled up on the recliner, Kana's voice becomes softer and softer. It seems that the constant temperature of 25°C maintained by the air conditioner in the room is still a little too cold for her.
+75:I didn't expect Kana, who always seems so energetic, to have moments when she has no confidence in herself. Confused and helpless, she is like a lost baby bird that gives people the irresistible urge to comfort her.
+76:{character:player}In my heart, you're really amazing, Kana.
+77:{character:player}You only see Akane and Mia's talents, but you've forgotten that you choreographed the group dance. If you get to the bottom of it, each of you makes an indispensable contribution to the team.
+78:{character:player}Kana-chan, you're my No.1 idol. I've always believed this, so you should also be more confident in yourself.
+79:Kana gradually calms down as I comfort her. She looks at me with a hint of eagerness for affirmation in her voice.
+80:{character:Kana Fujita}If... um, this is just a hypothetical question, if I stop being an idol one day, will you still support me like always?
+81:{character:player}Of course. To me, there's only one answer to this question.
+82:{character:player}I like you, Kana. Not just because you're the idol Kana Fujita, but mainly because you're yourself.
+83:{character:Kana Fujita}Haha, don't worry, that will probably never happen in this lifetime.
+84:Kana is obviously very satisfied with my answer. She shuffles into a more comfortable position and surrenders herself to the recliner, allowing her tense body and spirit to relax.
+85:{character:Kana Fujita}Anyway... thank you, {var:player_nickname}. I feel a lot better after saying everything weighing down on my heart.
+86:{character:player}Haha, you're welcome. I also just spoke my mind.
+87:{character:Kana Fujita}Mhm-hmm, although inviting you to watch the concert made me more nervous, I think it was the best decision ever!
+88:{character:player}Really? I... you became more nervous because of me?
+89:{character:Kana Fujita}Haha, it's because you're my most important fan. I have to do even better so that I don't disappoint you.
+90:{character:Kana Fujita}I've already made things so obvious. If you still don't understand what I'm saying, then you are just too dense!
+91:The girl suddenly gets closer to me with a faint smile on her lips, so close that the tip of her nose almost touches my cheek. Her eyes stare at me brightly, as if she has discovered something interesting.
+92:Embarassed by being stared at, I avoid Kana's eyes and try to divert my attention elsewhere.
+93:{character:Kana Fujita}Oh, by the way, {var:player_nickname}, for how much longer are you going to hold my hand?
+94:The clear and melodious voice in my ears reminds me that I still haven't let go of Kana's hand since grabbing it earlier. Her fair and tender skin has become a faint pink because of how tightly I've been gripping her hand.
+95:{character:player}Oh... S-Sorry!
+96:{character:Kana Fujita}Haha!
+97:Laughter, reminiscent of tinkling silver bells, echoes in the lounge. The girl's eyes form a charming crescent shape as she laughs, and she looks especially radiant and in good spirits after her previous confusions are swept away.
+98:Although there were some twists and turns, I guess the outcome... meets the manager's requirement for her to get some rest!
+99:Suggest that Kana rest backstage
+100:
+101:Check the facilities with Kana
+102:{character:player}Miss Manager, just let Kana check the equipment with the staff.
+103:Seeing that Kana is standing there without moving for so long, I immediately understand what she is thinking and can't resist the urge to help her persuade her manager.
+104:{character:Manager}You're one of Kana's greatest fans. You should know that it's physically exhausting for idols to perform in a concert. What Kana needs now is rest and relaxation.
+105:{character:player}This is the first concert of the tour after all, so I can understand why Kana is nervous. Why don't you let her go instead of forcing her to rest. I think she'll calm down more after she personally checks that everything is going well.
+106:{character:Mia}My beautiful manager, let the captain do what she wants, or else her heart will still be on the stage even if she is in the lounge.
+107:{character:Akane}I agree.
+108:{character:Kana Fujita}Yeah! That's right!
+109:Mia and Akane speak up in my support as soon as I finish speaking. Kana starts nodding frantically when she sees that others are supporting her, as if that will increase her credibility.
+110:{character:Manager}Fine, you've convinced me. In that case, {var:player_nickname}, please check the stage equipment with Kana.
+111:{character:Manager}If you notice that Kana is getting too tired, please take her back to the lounge to rest even if you have to force her.
+112:{character:player}No problem!
+113:{character:Kana Fujita}We've checked the lifting platform and the wire swing. We've also confirmed that nothing is wrong with the control devices of the cheering sticks. Now we just need to distribute them to each seat.
+114:{character:Kana Fujita}The assistant suggested that we arrange manpower according to the seat numbers. We're responsible for area A3, which is closest to the stage.
+115:{character:player}Haha, that's a good arrangement. You'll even be able to watch Mia and Akane's rehearsals at the same time.
+116:I follow Kana as requested by her manager. Only then did I come to realize that so many different types of equipment are used in concerts, and some of them can even be said to be high-tech equipment. The whole process is so dazzling that I wasn't even bored for a second like I thought I would be.
+117:To work more efficiently, Kana and I start placing the cheering sticks from the two opposite ends of area A3. This area isn't very big, so it isn't long before we meet at the middle.
+118:{character:Kana Fujita}{var:player_nickname}, thank you.
+119:{character:player}Hmm? Why are you suddenly thanking me?
+120:Kana lowers her head slightly, revealing her slender and fair long neck. Her cheeks are light pink, like a half-bloomed rose, and the warm lighting of the venue makes her look more delicate than usual.
+121:{character:Kana Fujita}It's because you convinced my manager that I could check the equipment in person. I probably would have ended up being more nervous if I went backstage to rest.
+122:{character:player}So that's the reason?
+123:{character:Kana Fujita}What's with that tone? This is super important! After all, I'm the captain of W.I.N. Mia doesn't have much time because of school, and Akane focuses more on the music itself, so it's obviously up to me to take care of these trivial things.
+124:{character:Kana Fujita}I know that my manager arranged assistants to help confirm everything, and her suggestion for me to rest is also very important, but... I just have to see everything with my own eyes before I can relax.
+125:{character:Kana Fujita}In our group, the manager's words are absolute, so I was about to give up. I didn't expect that you would stand up for me and go against her. Does this mean our hearts are connected?
+126:Kana deliberately brushes my cheeks gently, and her eyes start smiling when she notices my body stiffen slightly.
+127:{character:player}Ahem, I didn't think that much about it.
+128:{character:player}I was just believing in my No.1 idol. I believe that you won't make a decision that will disappoint your fans.
+129:{character:Kana Fujita}In that case, I'll give you this last cheering stick to respond to your expectations as a fan.
+130:{character:Kana Fujita}Why are you so shocked? Don't tell me you haven't looked at your seat number yet. The ticket I gave you is in this area.
+131:{character:Kana Fujita}This is the best place to watch the concert from, as there are no obstructions to your view. Also... I'll be able to see you immediately from the stage. That's what's most important.
+132:{character:Kana Fujita}Hehe, look forward to my performance. My No.1 fan, I promise you it'll be an unforgettable experience!
+133:After confirming that everything is going well for the concert, Kana relaxes visibly. She becomes as energetic as always and even starts to joke mischievously.
+134:But no matter how playful she is, she always looks at the stage with firm and pious eyes. I believe that Kana Fujita's stage will not disappoint anyone.
+135:The concert is about to start, fans have already started to enter the venue in an orderly manner, and Kana and her team members are also making final preparations. Before changing, she pushes me out of the dressing room because she wants to "give me a surprise."
+137:The enthusiastic fans start talking to me as soon as I find my seat.
+138:Fan A
+139:{character:Fan A}Hey, you look a little familiar. Have we met before somewhere?
+140:Fan B
+141:{character:Fan B}I also think you look familiar... Ah, I remember now! When I look at you from certain angles, you look like Kana's rumored new lover in the scandal incident.
+142:{character:player}Ahem, you must be mistaken. I just have a very common face.
+143:The keen perception of the fans put me under a lot of pressure, so I pretend to be calm and hope they won't find out. Fortunately, no one really thought I would be the rumored lover, so they laugh and change the subject.
+144:{character:Fan B}Haha, speaking of which... I'm actually a little envious of that rumored lover for being able to be in such close contact with Kana-chan.
+145:{character:Fan A}If you put it like that, I'm more envious of the "mysterious person" on CatChat.
+146:{character:player}What "mysterious person"?
+148:{character:Fan B}Kana-chan even gave me a like when I was one of the first to reply to that person's comment!
+149:Fan C
+150:{character:Fan C}Me too! Hmph, I'm so jealous of that person!
+151:{character:Fan A}Well... What about you?
+152:Several pairs of eyes stare at me, causing my nerves to tense up again. To avoid being discovered that I am that "mysterious person," I have no choice but to echo what the other fans have said.
+153:{character:player}I-I'm also very jealous of this "mysterious person." I wish I could switch bodies with this person so that Kana will notice me.
+154:{character:Fan B}Great minds think alike!
+155:The fan in the front row tearfully held my hands and handed me an umbrella, probably because they were touched by my words.
+156:{character:player}This is...
+157:{character:Fan B}Oh, be careful with that. Put it down gently. It's an umbrella that Kana-chan signed! I'm only giving it to you reluctantly because I can see that you're also a fan who truly loves Kana-chan.
+158:{character:player}This gift is too precious!
+159:{character:Fan B}Haha, there's also a story behind this signed umbrella. When W.I.N released their first album, there happened to be a major power outage in the city, and they lost the headlines because of this.
+160:{character:Fan B}Since then, it's like they are cursed with a strange attribute, and their album release always coincides with an accident, which is how Kana-chan ended up being known as the "second most popular trending topic."
+161:{character:player}Haha, I know what you mean! It's funny how an attribute that should be fragile turns out to be unexpectedly resilient. Kana must be very upset about that.
+162:{character:Fan B}I was given this umbrella by one of Kana-chan's fans when I went to her signing event in the rain. She said it was Kana-chan who gave her this umbrella. And Kana-chan hopes that it can shield her fans from the wind and rain, and that her fans can help each other.
+163:{character:Fan B}Since we've been brought together by fate, I'll give it to you now. Hope you'll also pass it on to the next predestined person.
+164:Thanks to Kana's influence, her idol-loving fans are starting to exhibit good qualities such as kindness, innocence, liveliness, and enthusiasm. Perhaps this is what it really means to be an idol.
+165:I accept the umbrella solemnly, becoming one of the torchbearers of this spirit to keep this wondrous thing alive.
+166:The waiting time passes quickly while we chat cheerfully, and the huge screen above the stage starts to play interview videos of the three members of the girl group, heralding the commencement of the Rainbow Light Concert.
+167:{character:Kana Fujita}The turning point that made me become an idol... At first, a scout found me when I was playing arcade games on the side of the road... Haha, but I realized I loved it from the very moment I stepped on the stage.
+169:{character:Akane}I've written many melodies, and I hope people will hear them... and like them.
+170:{character:Kana Fujita}Well, I was the first to join this group. I was really nervous about it too, but I'm happy I met such good team members.
+171:{character:Mia}I'm so lucky I managed to meet Kana and Akane.
+174:{character:Mia}The fans made me realize that people out there do notice my efforts.
+175:{character:Akane}The only thing I can do is to give back to everyone with my singing...
+176:Twang--Twang--Twang--
+177:The strumming of a guitar after all the interviews are played announces the official start of the concert. Music with a strong beat fills the venue. All the lights gather on the stage in an instant, revealing the figures of the three members of W.I.N that the fans are eagerly looking forward to on the stage.
+178:Fans
+179:{character:Fans}W.I.N! W.I.N! W.I.N!
+180:{character:Kana Fujita}Listen! The stars are approaching on the tails of the clouds...
+181:The microphone sends the girl's light-hearted voice to every corner of the venue, easily touching everyone's heartstrings.
+182:The lighting and glasses-free 3D effects complement each other to create a sea of stars on the stage. Kana, Mia, and Akane start dancing in the stars like fairies in the mortal world.
+183:It can be seen that the team has put a lot of thought into this concert. Both the stage design and the appearances of the members greatly exceed the expectations of the fans.
+184:{character:Kana Fujita}The light and shadows cast by the shining stars enter people's eyes--
+186:{character:Fan B}Kana-chan! We'll support you forever!
+187:{character:Mia}In this lonely interstellar space, encounters are miracles--
+188:{character:Fans}Yeah!
+189:{character:Akane}Faint starlight illuminates our hearts--
+190:Chorus
+191:{character:Chorus}You must believe that everything is the proof of love--
+192:Their opening song lights up the atmosphere, filling the air with the cheering and screaming of fans. The heated atmosphere makes it impossible for anyone to stay calm and rational. Everyone is waving their cheering sticks and cheering for their beloved idols.
+193:Kana is shining brightly on the stage. The fans around me are all extremely excited, but I feel a little sad and uncomfortable.
+194:The distance between the stage and the audience stands infinitely magnifies the gap between me and Kana. Only now do I realize just how big the gap is between myself and a popular idol like her. Kana has always acted like an ordinary high school student in front of me, which is why I've been able to ignore this problem all along.
+195:Although Kana brought me here to the venue, in the eyes of the other people, I'm just one of many fans.
+196:{character:player}As an idol, Kana has never belonged to just me...
+197:MC
+199:{character:Fans}Don't forget about me--
+200:{character:MC}Compared to your response when W.I.N takes the stage, everyone's response to me is so half-hearted. Haha, I get it though, after all, half the concert is over by the time I appear here.
+201:{character:MC}I can't help it though. I need to come on stage. I mean, I've already been paid and I don't want to give it back. Anyway, that's enough nonsense from me. Let's welcome our three members of W.I.N to the stage with our applause!
+202:{character:Kana Fujita}Hello everyone! I'm Kana-chan, the No.1 idol! Remember to cheer for me today!
+203:{character:Mia}I'm Mia, and here I come! Boom, boom! Here comes the sweet attack of love! Let's all have a sweet summer!
+204:{character:Akane}I'm Akane! You and music are both very important to me.
+205:{character:MC}Oh, I see that you've all changed the colors of your cheering sticks at the right timing. You guys are really paying attention! It's time for the next part of the show now, and the member who wins it will get a "special reward."
+206:{character:MC}Let's start this game that tests your observation and imagination-- Guess What I Drew!
+207:{character:Fan A}Kana-chan! You can do it!
+208:{character:Fan B}Kana-chan, I'll always support you!
+209:Maybe it's because she is enticed by the "special reward," Kana takes the game very seriously and isn't affected at all when the MC teases her.
+210:Mia, the youngest of the three, loses first, and there's only a one-point difference between Kana and Akane. The last question will determine the final winner.
+211:{character:player}Um... This is...?
+212:When the question appears on the screen, the abstract painting technique used for this drawing makes my eyes twitch uncontrollably as I can only see messy lines. There's no way I can connect this image with the correct answer: cinema.
+213:The fans who see the answer on the screen shout it out loud, but it doesn't help Kana and Akane because they are wearing headphones that block out all sounds.
+214:{character:MC}First of all, I want to declare that all the images used in "Guess What I Drew" were provided by the W.I.N Global Fan Club. Hmm... I wonder if the fan who created this masterpiece is with us here tonight.
+215:{character:MC}Let's give Kana and Akane a little time. I wonder who will win this!
+216:It's clear that they are both troubled by the abstract image, and I see Kana frowning with a look of confusion. Suddenly, she raises her head abruptly and looks at me for help from the stage.
+217:{character:Kana Fujita}I want to thank everyone who has accompanied me along the way. You have made it possible for me to keep improving and becoming a better Kana Fujita.
+218:Keep a low profile
+219:Give her a hint
+220:"You two better act appropriately in public in the future and don't do things that people will misunderstand, okay?" The scene of the manager scolding me and Kana earlier is still vivid in my memory.
+221:To avoid creating more trouble for Kana, after a moment of hesitation, I decide to keep a low profile and don't do anything unnecessary.
+222:{character:Akane}The answer is... a cinema?
+223:{character:MC}Congratulations, Akane! That's correct!
+224:Akane says the answer first and wins the game while Kana is still thinking hard. Kana spreads her arms regretfully and looks in my direction again.
+225:It seems that... the distance between us has widened again.
+226:{character:MC}Akane, since you won, why don't you announce the name of the next song?
+227:{character:Akane}Thanks. The next song means a lot to us.
+228:{character:Akane}This song created a miracle in the idol girl group charts with its number of plays. It also brought us into everyone's view.
+229:{character:Akane}Your encouragement and affirmation are our motivation for being here today. I, Kana, and Mia, also want to thank you all for supporting us. This song is our debut song and the theme song of this concert: "Rainbow Light".
+230:{character:MC}Thank you, Akane, for your words. Let's listen to "Rainbow Light" from W.I.N now!
+231:{character:Kana Fujita}Our first encounter on that sunny day became a rainbow in my memories--
+232:{character:Akane}Your figure in the halo becomes blurry over time--
+233:{character:Mia}If I greet you with a loud "Hello," would you smile and say back to me--
+235:{character:Kana Fujita}I'm so happy to have met you--
+236:The lights on the stage transform into seven colors, creating an untouchable rainbow in the sky. Kana and Mia are dancing to the music on the lifting platforms on both sides.
+237:{character:player}Huh? Where is Akane...?
+238:{character:Fan A}The hot air balloon! We fans were asked to vote on how we wanted them to enter the stage. They really used it!!!
+240:{character:player}So this is the "special reward" for the winner. I guess it is Kana's favorite surprise... Huh? Something seems to be vibrating.
+241:{character:player}My phone? Huh...? It's a call from Kana?!
+242:I look up at the stage in surprise. Kana has already stepped off the lifting platform and is making a call as choreographed in the dance, but when I see the name "Kana Fujita" flashing in the caller ID, I realize that she isn't using a prop on the stage.
+243:{character:Akane}In the distant future no one knows about, I know there is a rainbow.
+244:{character:Mia}The rainbow shines on my dreams and makes everything clearer.
+245:{character:Kana Fujita}If I gently dial your phone number, will you take my call with a smile and say--
+246:Mia & Akane
+247:{character:Mia & Akane}Let's create a future together!
+248:{character:player}This... Kana is so bold...
+249:I shake my head and put my phone down because I don't want to mess around with her. But my mobile phone keeps vibrating, and Kana even boldly walks to the edge of the stage and locks her eyes with me in the VIP seats.
+250:Her eyes are warm, firm, and determined, like she won't let me shrink back. Even though countless people are around her, I'm the only one in Kana Fujita's eyes at this moment.
+251:Without needing any other exchange of words, my tangled heart calms down inexplicably. Kana has already taken 99 steps towards me, so I should take the last one.
+252:With this thought in mind, I pick up Kana's call and gently place the phone next to my ear. The sound from the earpiece mixes together with the live music, and I hear her sing affectionately--
+253:{character:Kana Fujita}Just one more step and I'll be able to grasp you. All I need is the courage to move forward.
+254:{character:Kana Fujita}With just a little more effort, I'll be able to hold your hand, but I need your response.
+255:{character:Kana Fujita}Running hard in that direction, I know the future is full of gentle colors--
+256:Her voice is soul-stirring and fatally alluring, like the clear and melodious chirping of an oriole.
+257:Her singing evokes memories of the good times we spent together, which appear as exquisite images in my mind one after another. In my memories, I see a Kana Fujita acting cute, a playful Kana Fujita, a determined Kana Fujita, and a kind Kana Fujita...
+258:{character:Mia}Every ray of rainbow light--
+258:{character:Akane}Every ray of rainbow light--
+259:{character:Kana Fujita}Every trace of yearning--
+259:{character:Mia}Every trace of yearning--
+260:{character:Kana Fujita}Shines upon our throbbing hearts--
+261:{character:Akane}Forms our bright future--
+263:{character:Chorus}Let's create a future together!
+264:The images of Kana Fujita in my head overlap and merge with the girl shining brightly on the stage. I sigh softly and laugh mockingly at myself for doubting her feelings for me.
+265:Kana is keenly aware of my emotions even at a concert with tens of thousands of people, and she has always chosen me first. Her sincerity really moves me.
+266:As the song nears its end, Kana gets a little anxious because she still hasn't heard my reply. After I regulate my emotions, I reply to her softly on the phone.
+267:{character:player}Yes, Kana, let's create a future together.
+268:Right now, the girl's eyes are shining brighter than the rainbow lights.
+269:As the fans keep shouting "encore," Kana, Mia, and Akane have to take turns returning to the stage. They even perform a few more songs before everyone is happy. Finally, the Rainbow Light Concert reaches its end.
+270:Although the stage is pitch-black once again after the members of W.I.N return backstage, it is as bright as day in my heart because I know that the brightest ray of shining rainbow light already belongs to me.
+271:Although the manager told us to "act appropriately in public," "not refusing Kana Fujita's requests" has already become an instinctive response.
+272:After a moment of thought, I indistinctly make the motion of something falling over. In the scandal event earlier, she accidentally knocked down a poster stand in the cinema while we were searching for the paparazzo. This is a secret that belongs only to us.
+273:It's clear that Kana also cherishes our experiences together. After seeing the signal I give her, she makes an expression of realization.
+274:{character:Kana Fujita}Hmm... The answer is... a movie poster? A stand? A cinema?!
+275:{character:MC}Haha, from how many answers you're making right now, I can see you really want to win. Let's congratulate Kana for answering the question correctly!
+276:{character:MC}Kana, since you won this game, why don't you announce the name of the next song?
+277:Beside her, Akane reaches out to stroke Kana's hair, then pushes her forward. Kana takes the microphone and winks mischievously in my direction.
+278:{character:Kana Fujita}Thank you. The next song is the starting point of our journey together as a girl group called W.I.N.
+279:{character:Kana Fujita}In the past, I always thought that only someone who stands under the spotlight on a stage can be an idol. I later realized that I was wrong.
+280:{character:Kana Fujita}An idol should be worthy of respect or admiration in a certain aspect. This word has never been limited to the stage, so anyone can be another person's idol.
+281:{character:Kana Fujita}To me, the fans who support me are my idols, my manager who helped me return to the stage is my idol, and Mia and Akane who have faced everything with me are also my idols.
+282:{character:Kana Fujita}My most important idol... is that person who helped me overcome one difficulty after another. Your unshakable belief affirms me and your existence gives me the motivation to keep moving forward. I will always be cheering for you!
+283:{character:Kana Fujita}I want to dedicate the next song to all my idols. I hope you, me, and everyone can become a shining rainbow!
+284:{character:MC}Thank you, Kana. Let's look forward to "Rainbow Light", the debut song of W.I.N, and the theme song of this concert!
+285:Her singing voice cuts through the night like a fairy. It leads the colorful lights on the stage to gather together into a rainbow that symbolizes good luck and fairy tales. Mia and Akane stand on the lifting platforms on both sides, as if the rainbow light was real and within reach.
+286:{character:Fan A}It's Kana-chan! Kana-chan is on the hot air balloon!
+287:The girl sitting in a pink hot air balloon circling above the venue causes the fans to scream out loud. The fans were asked to vote on how they wanted them to enter the stage and this was the top vote. I never thought they would really do it.
+288:{character:player}So this is the "special reward" for the winner. Haha, no wonder Kana wanted to win it so badly.
+289:On a hot air balloon symbolizing happiness and hope, the girl approaches me slowly. Her eyes are warm, firm, and determined, like she won't let me shrink back.
+290:With Kana's singing, the distance between us is gradually shrinking, as if the distance I felt between an idol and an audience member never existed. Without needing any other exchange of words, my tangled heart calms down inexplicably.
+292:Although there may be objective reasons for us to be physically separated, our hearts are always with each other. It's just like the lyrics--
+293:During the interlude of the song, the hot air balloon descends behind the scenes while fans watch on. Ten seconds later, Kana miraculously appears behind me.
+295:{character:player}K-Kana?! How did you get here?!
+297:{character:Kana Fujita}I want to know the answer... The lyrics of "Rainbow Light"... contain a message I want to convey to the most important idol to me. Has this "idol" received my message?
+298:At the concert, there are fans waving cheering sticks everywhere as are Kana's close team members on the stage, yet I am the only person reflected in her eyes.
+299:When she came to me while riding the hot air balloon, I already knew that I am the most important idol to her. After thinking for a moment, I decide to answer her question with the lyrics of "Rainbow Light".
+300:{character:player}Yeah, I'm so happy to have met you.
+301:Her eyes shine brightly after hearing this satisfactory answer.
+302:The spotlights of the stage shine over at the right time just as Kana graciously walks out of her hiding place, causing a burst of excited screams from the VIP seats. She puts her hands on her heart and sings emotionally--
+303:{character:Kana Fujita}Every ray of rainbow light-- Every trace of yearning-- Shines upon our throbbing hearts--
+304:{character:Kana Fujita}Every ray of rainbow light-- Every trace of yearning-- Forms our bright future--
+305:The girl hops back onto the stage, widening the distance between us again, but I won't feel confused or anxious this time because I knew we are each other's irreplaceable rainbow light.
+307:Whether Kana Fujita is an ordinary high school student or a popular idol is no longer important. I love how brilliant she is on stage and how vivacious she is off stage.
+308:{character:Kana Fujita}Shush-- This is the stage arrangement for the interlude, but I also want to take this opportunity to confirm something very important with you.
+309:My ears are filled with a series of excited screams. When I turn around, I see Akane circling the stadium in a blue hot air balloon. This scene complemented by the rainbow-colored lights and the "throbbing" sensation of the lyrics shocks my soul once again.
+310:
+311:{character:Fan A}Don't you know? Whenever Kana-chan posts something on CatChat, the comments made by a mysterious account are always liked by Kana. We call the owner of this account the "mysterious person."
+312:{character:Mia}Of course it is to stand in the center of the stage and convey love and joy to the hearts of everyone who likes Mia.
+313:{character:MC}Can everyone tell me that I'm not the only person who is enchanted by the beautiful singing of Kana, Mia, and Akane?
+314:She probably ran over here from the direct access under the stage as she is still short of breath. I look around nervously to see that everyone is focused on the stage. Kana is mostly hidden behind a black curtain, so no one has noticed her yet.
+315:{character:Kana Fujita}The stage... Yes, I should practice more to improve my balance in the opening dance again. I must...
+316:I laugh involuntarily and follow her instructions to return to the audience stand. Many fans are already seated here. Although the VIP seats are positioned quite far apart to provide a more comfortable experience, the distance doesn't affect everyone's interest in chatting.
+317:{character:Akane}W.I.N... is where I met everyone.
+318:{character:Fan A}Ahhhhh! Kana-chan winked at me! Oxygen-- I need oxygen now!

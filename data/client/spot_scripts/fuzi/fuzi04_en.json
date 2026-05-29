@@ -1,0 +1,1214 @@
+[
+  {
+    "line": 1,
+    "text": "As I wake naturally on this cozy Sunday morning, I habitually open CatChat to see what everyone has posted."
+  },
+  {
+    "line": 2,
+    "text": "player"
+  },
+  {
+    "line": 3,
+    "text": "{character:player}...Kana is preparing for her new album, Miki is cooking up something strange again, and Nadeshiko is organizing a draw... What? Organizing a draw?"
+  },
+  {
+    "line": 4,
+    "text": "My fingertip pauses while swiping the screen. Nadeshiko's latest CatChat post has caught my attention: \"Online draw with a mysterious prize for one lucky winner who doesn't know how to drive a motorcycle and has free time. Reply in the comments below to participate in this event. I reserve the right over the final interpretation.\""
+  },
+  {
+    "line": 5,
+    "text": "As a human, I'm naturally attracted to lottery activities, but what really makes me curious is that Nadeshiko, a motorcycle expert, is organizing a draw and specifying that only beginners who can't drive a motorcycle can participate."
+  },
+  {
+    "line": 6,
+    "text": "I quickly tap the reply box and enter my situation—"
+  },
+  {
+    "line": 7,
+    "text": "Although I don't know what the prize is, I do fit the criteria, so obliviously I have to sign up and try my luck."
+  },
+  {
+    "line": 9,
+    "text": "*Beep* —The moment I walk outside the door, I hear the horn of a motorcycle close to me. The moment I turn to look, a heavy motorcycle stops right next to me."
+  },
+  {
+    "line": 10,
+    "text": "Nadeshiko"
+  },
+  {
+    "line": 11,
+    "text": "{character:Nadeshiko}Happy weekend, {var:player_nickname}."
+  },
+  {
+    "line": 12,
+    "text": "The woman riding the motorcycle pushes up the windshield of her helmet, revealing a pair of sharp and bright eyes, then looks at me and starts speaking."
+  },
+  {
+    "line": 13,
+    "text": "{character:player}...Nadeshiko?"
+  },
+  {
+    "line": 14,
+    "text": "{character:Nadeshiko}Surprised to see me? It seems that you didn't come out to greet me after receiving the notification that you won the prize."
+  },
+  {
+    "line": 15,
+    "text": "{character:player}Huh? I won the prize???"
+  },
+  {
+    "line": 17,
+    "text": "{character:player}!!!"
+  },
+  {
+    "line": 18,
+    "text": "{character:player}Sorry, I didn't check my messages. I actually won?!"
+  },
+  {
+    "line": 19,
+    "text": "{character:Nadeshiko}Bingo! Let me see... Not bad, put on a helmet and hop on behind me."
+  },
+  {
+    "line": 20,
+    "text": " Straddling the motorcycle, Nadeshiko looks at me and seems very satisfied. I try my best to ignore the feeling of being a lamb being led to the slaughter. Hugging the helmet she threw to me, I eagerly ask her questions out of confusion."
+  },
+  {
+    "line": 21,
+    "text": "{character:player}So the mysterious prize is a ride on the motorcycle with you, Nadeshiko?"
+  },
+  {
+    "line": 23,
+    "text": "{character:Nadeshiko}Ahem, something like that. Anyway, it's a very worthwhile arrangement, and you'll be happy with it."
+  },
+  {
+    "line": 24,
+    "text": "There's nothing to hesitate about then! I quickly wear the helmet and get on the motorcycle."
+  },
+  {
+    "line": 25,
+    "text": "{character:Nadeshiko}Hug me."
+  },
+  {
+    "line": 26,
+    "text": "{character:player}That doesn't seem appropriate... Ah!"
+  },
+  {
+    "line": 27,
+    "text": "The moment the motorcycle starts up, I have no choice but to wrap my arms around Nadeshiko's waist under the intimidation of inertia."
+  },
+  {
+    "line": 28,
+    "text": "The motorcycle roars as it shuttles through the intersecting streets, taking several twists and turns before we arrive at the destination. I get off in a daze and see a long line of plain buildings instead of the beautiful lush suburban scenery I was expecting. I read out the sign in front of the buildings."
+  },
+  {
+    "line": 29,
+    "text": "{character:player}...\"One Han City Motorcycle For Life Training Base.\" This is... a motorcycle driving school?"
+  },
+  {
+    "line": 30,
+    "text": "{character:Nadeshiko}That's right! {var:player_nickname}, congratulations on winning the prize. You get to be the first student of \"Nadeshiko's Motorcycle License Test Camp.\""
+  },
+  {
+    "line": 31,
+    "text": "{character:player}...Motorcycle license test?"
+  },
+  {
+    "line": 32,
+    "text": "I'm so confused. This prize seems to be something I... never expected."
+  },
+  {
+    "line": 33,
+    "text": "I finally understand what's happening after we enter the driving school and Nadeshiko explains everything to me."
+  },
+  {
+    "line": 34,
+    "text": "Nadeshiko accidentally exceeded her living expense budget because she bought a collector's limited-edition motorcycle helmet some time ago, so she is applying for a weekend part-time driving instructor position in this driving school to earn back some of the money."
+  },
+  {
+    "line": 35,
+    "text": "Her job interview is tomorrow, and she wants to find a student to practice with before the formal interview so that she can improve her trial lesson plan based on the feedback. And I'm the \"lucky\" student she chose."
+  },
+  {
+    "line": 37,
+    "text": "{character:player}...Indeed, I didn't even hesitate before I signed up. As expected of a plan devised by an editor-in-chief who is proficient in communication studies..."
+  },
+  {
+    "line": 38,
+    "text": "{character:Nadeshiko}Hehe, facts prove that it's quite effective at selecting a candidate. Take this and sign here."
+  },
+  {
+    "line": 39,
+    "text": "Nadeshiko pushes a trial lesson registration form she got from the front desk of the driving school to me."
+  },
+  {
+    "line": 40,
+    "text": "{character:player}Wait! Don't I have the option to refuse?"
+  },
+  {
+    "line": 41,
+    "text": "{character:Nadeshiko}{var:player_nickname}, are you thinking of saying no?"
+  },
+  {
+    "line": 42,
+    "text": "Nadeshiko smiles as she looks me straight in the eyes."
+  },
+  {
+    "line": 43,
+    "text": "...Actually, I don't think I will. Although I didn't expect I would end up taking lessons this weekend, I won't turn you down since you asked me for help, Nadeshiko."
+  },
+  {
+    "line": 44,
+    "text": "I stop joking, take the pen, sign my name, and solemnly hand it back to her."
+  },
+  {
+    "line": 45,
+    "text": "{character:player}Although I'm not sure how much help I'll be, I'll do my best, Instructor Nadeshiko."
+  },
+  {
+    "line": 46,
+    "text": "{character:Nadeshiko}...Haha! ...You're quite motivated, aren't you? Well, {var:player_nickname}, welcome to the world of motorcycles."
+  },
+  {
+    "line": 47,
+    "text": " In One Han City, a motorcycle driving test is divided into two parts: a written test and a practical assessment. We'll do the training for the written test first."
+  },
+  {
+    "line": 48,
+    "text": "Nadeshiko and I are the only two people in the large classroom."
+  },
+  {
+    "line": 49,
+    "text": "Nadeshiko walks up to the podium with the lesson plan she has prepared and starts to give a lecture gracefully. In this session, the instructor needs to teach students the function of various parts of a motorcycle and help students learn the traffic laws of One Han City."
+  },
+  {
+    "line": 50,
+    "text": "{character:Nadeshiko}Roads are countless, but safety is priceless, so drive safely or they all lead to sadness. Although speed can be thrilling, don't forget the traffic rules while driving..."
+  },
+  {
+    "line": 51,
+    "text": "From the very moment the trial lecture starts, it was clear to me that Nadeshiko has done her homework as she delivered the opening remarks without checking the notes even once, and then fluently explained the basic traffic rules of One Han City and the functions of each part of a motorcycle with intimate knowledge. However, I started to feel a little... uncomfortable as I listened to her."
+  },
+  {
+    "line": 52,
+    "text": "{character:player}Wait! Instructor!"
+  },
+  {
+    "line": 53,
+    "text": "{character:Nadeshiko}Hmm? Is there something you don't understand?"
+  },
+  {
+    "line": 54,
+    "text": "{character:player}What's that engine knocking failure you just mentioned?"
+  },
+  {
+    "line": 55,
+    "text": "{character:Nadeshiko}You just need to pay attention to whether you hear a \"clunking\" sound from the engine when idling."
+  },
+  {
+    "line": 56,
+    "text": "{character:player}What do you mean by \"idling?\""
+  },
+  {
+    "line": 57,
+    "text": "{character:Nadeshiko}Simply put, this is the lowest stable rotational speed of an engine when there is no load."
+  },
+  {
+    "line": 58,
+    "text": "{character:player}And what do you mean by \"no load?\""
+  },
+  {
+    "line": 59,
+    "text": "{character:Nadeshiko}Does this need to be explained?!"
+  },
+  {
+    "line": 60,
+    "text": "{character:player}It does...?"
+  },
+  {
+    "line": 61,
+    "text": "After I, a complete motorcycle novice, asked about several things in extreme detail, Nadeshiko finally notices the gap in our understanding of motorcycles. She begins to consciously adjust the rhythm of her lecture and breaks down the lecture content into smaller parts."
+  },
+  {
+    "line": 62,
+    "text": "The lecture that was completely confusing to me has finally become something even a beginner could understand. Before I knew it, I'm actually engrossed in the lecture."
+  },
+  {
+    "line": 63,
+    "text": "*Ringing* Only when Nadeshiko's alarm rings do I realize that the one-hour lecture has already ended."
+  },
+  {
+    "line": 64,
+    "text": "{character:Nadeshiko}As expected, there is a lot to adjust. {var:player_nickname}, your feedback has been very helpful to me."
+  },
+  {
+    "line": 65,
+    "text": "{character:player}Ahaha, I just showed you how an ordinary beginner would react. I'm glad you find it helpful."
+  },
+  {
+    "line": 67,
+    "text": "Nadeshiko pushes a laptop in front of me."
+  },
+  {
+    "line": 68,
+    "text": "{character:player}...What's this?"
+  },
+  {
+    "line": 69,
+    "text": "{character:Nadeshiko}This is a database of simulated questions for the official driver's license test. It's great for helping test-takers pass the official test. Try your best at answering the questions!"
+  },
+  {
+    "line": 70,
+    "text": "{character:player}Wait! Do I need to go so far for a test lesson? Why don't we just skip this part?"
+  },
+  {
+    "line": 71,
+    "text": "{character:Nadeshiko}Although this is just a test lesson, you're my first student, so I need to take full responsibility for you. Your results in the test paper are also an important indicator for testing the quality of the training!"
+  },
+  {
+    "line": 72,
+    "text": "{character:player}But... But..."
+  },
+  {
+    "line": 73,
+    "text": "{character:Nadeshiko}It's just around one hundred questions. Is that difficult enough to make you quit?"
+  },
+  {
+    "line": 74,
+    "text": "...I can't believe she's goading me into doing it."
+  },
+  {
+    "line": 75,
+    "text": "I guess I might as well go all the way and help Nadeshiko test the quality of her teaching."
+  },
+  {
+    "line": 76,
+    "text": "A feeling of pride swells up inside me when I see the words: \"You have finished the required class hours for today and achieved an acceptable accuracy\" on the screen."
+  },
+  {
+    "line": 77,
+    "text": "{character:player}Phew! It's done. Nadeshiko..."
+  },
+  {
+    "line": 78,
+    "text": "As I'm about to inform Nadeshiko, I turn around to see her sitting behind the podium, fully focused on revising the PPT on her tablet and portable keyboard and completely unaware of my voice."
+  },
+  {
+    "line": 79,
+    "text": "Looking at how seriously she is working, I stop talking and decide to wait for her to finish."
+  },
+  {
+    "line": 80,
+    "text": "After pressing one last button, Nadeshiko finally breaks free of her state of concentration. She breathes a sigh of relief and looks surprised after she turns to look at me."
+  },
+  {
+    "line": 81,
+    "text": "{character:Nadeshiko}{var:player_nickname}, has it been long since you finished answering the questions?"
+  },
+  {
+    "line": 82,
+    "text": "{character:player}Well, it's only been an hour or so. Have you finished revising the teaching plan?"
+  },
+  {
+    "line": 83,
+    "text": "{character:Nadeshiko}Geez... I was only thinking of making some basic amendments while you were answering questions, but I ended up finishing it all without realizing it... Did you not call out to me on purpose?"
+  },
+  {
+    "line": 84,
+    "text": "{character:player}I can't help it. Nadeshiko, you looked so focused I couldn't bear to disturb you."
+  },
+  {
+    "line": 85,
+    "text": "Nadeshiko makes a stunned expression, then gives me a helpless look."
+  },
+  {
+    "line": 86,
+    "text": "{character:Nadeshiko}...You're such a stealthy person. I didn't notice you staring at me at all."
+  },
+  {
+    "line": 87,
+    "text": "...This must be a verbal attack used to cover up her true feelings!"
+  },
+  {
+    "line": 88,
+    "text": "{character:player}Alright, instead of fixating on this, why don't we make the most of our time. I remember you mentioned there is also a practical assessment? I'm really looking forward to that part!"
+  },
+  {
+    "line": 89,
+    "text": "{character:Nadeshiko}...Um, that's right. Next up is the practical assessment. I've prepared two training grounds for this test. One is outdoors, and the other is outdoors. You can decide which one to use."
+  },
+  {
+    "line": 90,
+    "text": "Which one should I choose?"
+  },
+  {
+    "line": 91,
+    "text": "Although I really want to participate, I already have a motorcycle license, so I can only watch from the comment section."
+  },
+  {
+    "line": 92,
+    "text": "After replying to Nadeshiko, I decide to go play some mahjong at a dojo and have a good time on the weekend using my skills."
+  },
+  {
+    "line": 93,
+    "text": "*Bzzz* —My mobile phone starts vibrating just as I finish packing up."
+  },
+  {
+    "line": 94,
+    "text": "It's Nadeshiko? I switch to video call in a hurry."
+  },
+  {
+    "line": 95,
+    "text": "{character:player}Happy weekend, Nadeshiko."
+  },
+  {
+    "line": 96,
+    "text": "{character:Nadeshiko}Happy weekend, {var:player_nickname}. Weren't you curious about the prize? It's such a hassle to leave a message, so I'll tell you like this."
+  },
+  {
+    "line": 97,
+    "text": "I see. Like always, Nadeshiko is always so fast to get things done!"
+  },
+  {
+    "line": 98,
+    "text": "I finally understand what's happening after Nadeshiko explains everything to me."
+  },
+  {
+    "line": 99,
+    "text": "Nadeshiko accidentally exceeded her living expense budget because she bought a collector's limited-edition motorcycle helmet some time ago, so she is applying for a weekend part-time driving instructor position in a driving school to earn back some of the money."
+  },
+  {
+    "line": 100,
+    "text": "Her job interview is tomorrow, and she wants to find a student to practice with before the formal interview so that she can improve her trial lesson plan based on the feedback."
+  },
+  {
+    "line": 101,
+    "text": "{character:player}So the mystery prize is to become Nadeshiko's student for a test lesson!"
+  },
+  {
+    "line": 103,
+    "text": "{character:player}Yes, I decided to make it a mystery prize because I knew it would make people curious, and I wanted to attract those who don't meet my requirements too."
+  },
+  {
+    "line": 104,
+    "text": "{character:Nadeshiko}It's a shame that this prize still doesn't have a winner."
+  },
+  {
+    "line": 105,
+    "text": "{character:player}Eh? Was nobody suitable for your test class even though so many people signed up?"
+  },
+  {
+    "line": 106,
+    "text": "{character:Nadeshiko}Well, there were quite a few suitable candidates, but they all rejected the prize after I called them to tell them the situation. They volunteered to give the prize to the next lucky winner... How mean."
+  },
+  {
+    "line": 107,
+    "text": "{character:player}Pfft... It's pretty obvious why they don't have a motorcycle license then."
+  },
+  {
+    "line": 108,
+    "text": "{character:Nadeshiko}Forget it. It's their loss that they'll never understand how fun it is to ride a motorcycle. Now that I've explained everything to you, let's forget about this failed draw completely. I need to think of other ways to find a suitable student. See ya."
+  },
+  {
+    "line": 109,
+    "text": "{character:player}Nadeshiko, wait!"
+  },
+  {
+    "line": 110,
+    "text": "{character:Nadeshiko}What's up?"
+  },
+  {
+    "line": 111,
+    "text": "I can see that you have some trouble finding a suitable student. So I've got an idea for you."
+  },
+  {
+    "line": 112,
+    "text": "{character:player}If it's just a simulation exercise to adjust your training plan, why don't you lower your selection requirements?"
+  },
+  {
+    "line": 113,
+    "text": "{character:Nadeshiko}What do you mean?"
+  },
+  {
+    "line": 114,
+    "text": "{character:player}Even if your test subject can ride a motorcycle, they can still theoretically provide feedback on your lesson plan, right? You'll also be able to gain some experience of teaching a formal class, which will make your lesson plan more reasonable."
+  },
+  {
+    "line": 115,
+    "text": "{character:Nadeshiko}Wouldn't the experience not be immersive enough?"
+  },
+  {
+    "line": 116,
+    "text": "{character:player}There shouldn't be a problem if your student wants to help you improve your plan, is a good communicator, can interact normally, and is willing to provide feedback."
+  },
+  {
+    "line": 117,
+    "text": "After considering her situation carefully, I give her my suggestion."
+  },
+  {
+    "line": 118,
+    "text": "{character:Nadeshiko}I see..."
+  },
+  {
+    "line": 119,
+    "text": "Nadeshiko is lost in thought for a few seconds at the other end of the video, then she presses her phone a few times. After a second, the coordinates of an address appear in the dialog box of our conversation."
+  },
+  {
+    "line": 120,
+    "text": "{character:Nadeshiko}If you put it that way, {var:player_nickname}, there's no better candidate than you."
+  },
+  {
+    "line": 121,
+    "text": "{character:player}Huh?"
+  },
+  {
+    "line": 122,
+    "text": "There is a long line of plain buildings, and the sign in front of the building reads: \"One Han City Motorcycle For Life Training Base.\""
+  },
+  {
+    "line": 123,
+    "text": "When I arrive, I see Nadeshiko waving at me from the entrance in the distance, motioning for me to walk over to her."
+  },
+  {
+    "line": 124,
+    "text": "{character:Nadeshiko}Hi, {var:player_nickname}, my student."
+  },
+  {
+    "line": 125,
+    "text": "{character:player}Hi, Instructor Nadeshiko... Why are you so confident that I'll come?"
+  },
+  {
+    "line": 126,
+    "text": "When the video call ended half an hour ago, after Nadeshiko quickly confirmed that I had no other plans, she said \"see you soon\" and hung up."
+  },
+  {
+    "line": 127,
+    "text": "{character:Nadeshiko}Although I'm not sure why I'm so confident, I just felt this way after talking to you. So, {var:player_nickname}, were you going to reject me?"
+  },
+  {
+    "line": 128,
+    "text": "...I really wasn't."
+  },
+  {
+    "line": 129,
+    "text": "The moment Nadeshiko invited me, I felt like a greater force was pushing me to get out the door quickly."
+  },
+  {
+    "line": 130,
+    "text": "I shake my head defeatedly."
+  },
+  {
+    "line": 131,
+    "text": "{character:Nadeshiko}Haha!... Well, {var:player_nickname}, welcome to the world of motorcycles."
+  },
+  {
+    "line": 132,
+    "text": "Nadeshiko walks up to the podium with the lesson plan she has prepared and starts to give a lecture gracefully. In this session, the instructor needs to teach students the function of various parts of a motorcycle."
+  },
+  {
+    "line": 133,
+    "text": "From the very moment the trial lecture starts, it was clear to me that Nadeshiko has done her homework as she delivered the opening remarks without checking the notes even once. The vivid expression on her face when she talked about what one should pay attention to when driving based on her experiences made me, a veteran driver, nod in agreement. I even started discussing these things with her..."
+  },
+  {
+    "line": 134,
+    "text": "Wait! Isn't there something wrong with this rhythm?"
+  },
+  {
+    "line": 135,
+    "text": "{character:player}I'm sorry, Nadeshiko. Although we're having a nice chat, a beginner won't be able to understand what we're saying and follow the conversation."
+  },
+  {
+    "line": 136,
+    "text": "{character:Nadeshiko}Which part are you referring to?"
+  },
+  {
+    "line": 137,
+    "text": "{character:player}For example, when troubleshooting the engine knocking failure, they'll need to know what that means first."
+  },
+  {
+    "line": 138,
+    "text": "{character:Nadeshiko}I did explain it. Simply put, it's whether the engine is making a \"clunking\" sound when idling."
+  },
+  {
+    "line": 139,
+    "text": "{character:player}That's right, but they might not understand what \"idling\" means."
+  },
+  {
+    "line": 140,
+    "text": "{character:Nadeshiko}Oh, that's a good point. I'll explain that then. Hmm... Simply put, idling is the lowest stable rotational speed of an engine when there is no load."
+  },
+  {
+    "line": 141,
+    "text": "{character:player}Maybe you'll also need to explain what \"no load\" means."
+  },
+  {
+    "line": 142,
+    "text": "{character:Nadeshiko}!?"
+  },
+  {
+    "line": 143,
+    "text": "{character:player}Trust me."
+  },
+  {
+    "line": 144,
+    "text": "{character:Nadeshiko}Fine. I've been exposed to this since I was little, so it is sometimes difficult for me to judge how much of this is general knowledge."
+  },
+  {
+    "line": 145,
+    "text": "{character:player}That's okay. Let me play the role of the general public."
+  },
+  {
+    "line": 146,
+    "text": "{character:Nadeshiko}Haha, thanks!"
+  },
+  {
+    "line": 148,
+    "text": "Daylight floods the classroom, moving slowly across the room."
+  },
+  {
+    "line": 149,
+    "text": "With my feedback and our discussion, Nadeshiko quickly adapts to a new teaching rhythm. She talks less and less as she begins to revise her teaching plan quickly."
+  },
+  {
+    "line": 150,
+    "text": "*Ringing* Nadeshiko's alarm tells us that the one-hour lecture has already ended."
+  },
+  {
+    "line": 151,
+    "text": "Nadeshiko is fully focused on revising her PPT and doesn't hear the alarm at all."
+  },
+  {
+    "line": 152,
+    "text": "Looking at how seriously she is working, I decide to wait for her to finish."
+  },
+  {
+    "line": 153,
+    "text": "{character:player}Have you finished revising the teaching plan?"
+  },
+  {
+    "line": 154,
+    "text": "{character:Nadeshiko}Yeah, I was thinking of making some simple revision marks during class time, but I got too engaged by mistake. Did you deliberately not remind me when the alarm rang?"
+  },
+  {
+    "line": 155,
+    "text": "{character:player}I can't help it. Nadeshiko, you looked so focused I couldn't bear to disturb you."
+  },
+  {
+    "line": 157,
+    "text": "{character:player}Anyway, instead of fixating on this, why don't we make the most of our time. Did you say there's also a practical assessment? I'm really looking forward to that!"
+  },
+  {
+    "line": 158,
+    "text": "{character:Nadeshiko}...Hmm, that's right. There's a practical assessment next. The indoor training is pointless since you already know how to ride a motorcycle. Why don't I take you to a great outdoor training ground?"
+  },
+  {
+    "line": 159,
+    "text": "I get to take this opportunity to go outdoors. Why not?"
+  },
+  {
+    "line": 160,
+    "text": "After eating a simple work meal, we happily go to the outdoor motorcycle venue Nadeshiko had reserved."
+  },
+  {
+    "line": 163,
+    "text": "The person riding it is Nadeshiko, the female biker who invited me today."
+  },
+  {
+    "line": 164,
+    "text": "{character:Nadeshiko}I'll put on a show for you to thank you for waiting so long for me."
+  },
+  {
+    "line": 165,
+    "text": "{character:player}Awesome!"
+  },
+  {
+    "line": 167,
+    "text": "Nadeshiko suggested this to me ten minutes ago, and I naturally said yes."
+  },
+  {
+    "line": 168,
+    "text": "Nadeshiko demonstrates a series of technically difficult moves smoothly, drifting up to me and stopping with a flick of the tail. She takes off her helmet, brushes her long hair behind her head, and quickly locks her eyes on me."
+  },
+  {
+    "line": 169,
+    "text": "{character:player}...Oh!"
+  },
+  {
+    "line": 170,
+    "text": "I start clapping a few seconds late after hearing the bursts of applause from the other motorcycle enthusiasts next to the track."
+  },
+  {
+    "line": 171,
+    "text": "{character:Nadeshiko}Haha... Judging from your reaction, you must be tired from all the mental work you've done in the morning."
+  },
+  {
+    "line": 172,
+    "text": "{character:player}To be honest, I'm absolutely stunned. This is my first time seeing a motorcycle performance from such a close distance. It's so... beautiful."
+  },
+  {
+    "line": 173,
+    "text": "At a loss for words, I can only use such a plain word to express my admiration."
+  },
+  {
+    "line": 174,
+    "text": "{character:player}No matter how much I practice, I don't think I'll ever achieve such a combination of strength and beauty like yours."
+  },
+  {
+    "line": 175,
+    "text": "Nadeshiko starts laughing."
+  },
+  {
+    "line": 176,
+    "text": "{character:Nadeshiko}I bend over while driving to reduce the wind resistance. Bending appropriately when accelerating into corners increases friction, which helps to maintain control over the motorcycle when moving forward into a curve. The standard riding position is to keep the muscles relaxed and maintain stamina during long rides. In short, the poses you see are not intended to just look beautiful."
+  },
+  {
+    "line": 177,
+    "text": "{character:Nadeshiko}They're mainly done to maintain control. The reason you think they look beautiful is that I can control the motorcycle very well in these positions. The aura you have when you're in complete control will naturally shock people. I've just done this with a motorcycle."
+  },
+  {
+    "line": 178,
+    "text": "{character:player}Ah, so according to what you're saying, achieving control can enhance one's charisma no matter what field they are in..."
+  },
+  {
+    "line": 179,
+    "text": "{character:Nadeshiko}Yes, just like how lots of people can't take their eyes off you when you're in control and in your element while playing mahjong."
+  },
+  {
+    "line": 180,
+    "text": "{character:player}Eh? For real?"
+  },
+  {
+    "line": 181,
+    "text": "{character:Nadeshiko}Have some confidence. I don't give praise easily."
+  },
+  {
+    "line": 182,
+    "text": "{character:player}Haha, thanks. But this is your home field today. Since today's goal is to test out a motorcycle driving course for beginners, let's stick to the basics and start from the very beginning."
+  },
+  {
+    "line": 183,
+    "text": "{character:Nadeshiko}Sure, please share more of your opinions with me."
+  },
+  {
+    "line": 184,
+    "text": "{character:player}No problem!"
+  },
+  {
+    "line": 185,
+    "text": "The training has officially started. Compared with the theory class, Nadeshiko appears more confident while teaching me how to drive a motorcycle."
+  },
+  {
+    "line": 186,
+    "text": "She follows the driving training process and tells me all the steps in order, clearly and concisely. By the end of the teaching demonstration process, I managed to complete the goal of the test: drive a motorcycle in a straight line at a speed comparable to that of a bicycle."
+  },
+  {
+    "line": 187,
+    "text": "Nadeshiko claps at me."
+  },
+  {
+    "line": 188,
+    "text": "{character:Nadeshiko}That was beautifully done. I'm impressed!"
+  },
+  {
+    "line": 189,
+    "text": "{character:player}I thought you don't give praises so easily?!"
+  },
+  {
+    "line": 190,
+    "text": "{character:Nadeshiko}Haha, forget about the details. Come on, let's finish the rest of the process."
+  },
+  {
+    "line": 191,
+    "text": "The experience of the practical training is pretty good. All she needs to do is make some minor adjustments to her communication methods and the terms she uses when talking to students. I'm very confident that Nadeshiko will pass her interview tomorrow."
+  },
+  {
+    "line": 192,
+    "text": "After another round of discussion and feedback, we end the practical training with a happy atmosphere."
+  },
+  {
+    "line": 193,
+    "text": "By the time we return to the city after leaving the venue, the sky has already become dark."
+  },
+  {
+    "line": 194,
+    "text": "{character:Nadeshiko}Time sure passes quickly. It's already so late. Do you want to have a drink with me?"
+  },
+  {
+    "line": 195,
+    "text": "{character:player}It's her interview tomorrow... Should I go with her?"
+  },
+  {
+    "line": 197,
+    "text": "{character:Nadeshiko}Thanks for being so thoughtful and considerate. Come with me. The training ground of this driving school is ready."
+  },
+  {
+    "line": 198,
+    "text": "Driving Instructor"
+  },
+  {
+    "line": 199,
+    "text": "{character:Driving Instructor}Hahaha! So you're the student Nadeshiko invited over to practice on? Welcome! Just act like you're at home while you're here at our training ground! Use whichever motorcycle you fancy!"
+  },
+  {
+    "line": 200,
+    "text": "{character:player}Ahahaha, thanks..."
+  },
+  {
+    "line": 201,
+    "text": "I respond awkwardly but politely to the old driving school instructor who shakes my hand enthusiastically. I look quizzically at Nadeshiko next to me for an answer."
+  },
+  {
+    "line": 202,
+    "text": "{character:Nadeshiko}This is one of my motorcycle instructors. Well, actually, my father is a mechanic at this driving school, and the instructors here have known us for years. I only have a chance to get this part-time job this time because of these guys."
+  },
+  {
+    "line": 203,
+    "text": "{character:player}I see."
+  },
+  {
+    "line": 204,
+    "text": "{character:Driving Instructor}Hahaha, Nadeshiko, you're being too humble. Based on what we know about her, Nadeshiko should have no problem getting that part-time instructor position, but she has always been this way. Once she decides on something, she must do her best meticulously."
+  },
+  {
+    "line": 205,
+    "text": "{character:Nadeshiko}Hey, old man! How many times have I told you not to treat me like a little girl now..."
+  },
+  {
+    "line": 206,
+    "text": "{character:Driving Instructor}Hahaha, don't expect me to change now since I watched you grow up. Speaking of which, time has passed so quickly. In the blink of an eye, that little girl who was only as tall as a tire has become an adult... and a motorcycle enthusiast at that! I would never imagine that happening when you were in high school."
+  },
+  {
+    "line": 207,
+    "text": "{character:Driving Instructor}Oh yeah! I still have a group photo of you from when you were in high school. Let me look for it..."
+  },
+  {
+    "line": 208,
+    "text": "{character:Nadeshiko}?!"
+  },
+  {
+    "line": 209,
+    "text": "The driving instructor reaches for his mobile phone to search for the photo, but Nadeshiko steps forward and stops him instantly."
+  },
+  {
+    "line": 210,
+    "text": "{character:Nadeshiko}No, that won't be necessary. Just go, old man. We need to use our time wisely."
+  },
+  {
+    "line": 211,
+    "text": "{character:Driving Instructor}Oh... I guess you're right. Let's chat again next time then. I'll leave this place to you guys."
+  },
+  {
+    "line": 212,
+    "text": "For some reason, I feel like I saw a trace of embarrassment on Nadeshiko's face, but it might just be my imagination."
+  },
+  {
+    "line": 213,
+    "text": "We finally start the practical training after that brief episode."
+  },
+  {
+    "line": 214,
+    "text": "Compared with the theory class, Nadeshiko appears more confident while teaching me how to drive a motorcycle."
+  },
+  {
+    "line": 215,
+    "text": "She follows the driving training process and tells me all the steps in order, clearly and concisely. After she demonstrates everything to me once, my eyes and brain tell me I've learned how to do it."
+  },
+  {
+    "line": 216,
+    "text": "{character:Nadeshiko}Now, {var:player_nickname}, please start your first driving practice."
+  },
+  {
+    "line": 217,
+    "text": "Hearing her say that makes me, who was full of confidence earlier, suddenly feel nervous."
+  },
+  {
+    "line": 218,
+    "text": "{character:Nadeshiko}I'm right here."
+  },
+  {
+    "line": 219,
+    "text": "Nadeshiko's comforting words make me relax. I start the motorcycle step by step according to Nadeshiko's instructions and successfully make a turn while driving forward in a straight line."
+  },
+  {
+    "line": 220,
+    "text": "{character:Nadeshiko}That was beautifully executed! You're very talented!"
+  },
+  {
+    "line": 221,
+    "text": "{character:player}Isn't it a bit over the top to praise me so much for a basic technique?"
+  },
+  {
+    "line": 222,
+    "text": "{character:Nadeshiko}Encouragement is important to beginners. After all, the most important thing to driving a motorcycle is confidence!"
+  },
+  {
+    "line": 224,
+    "text": "{character:Nadeshiko}That's right, but you'll need to overcome this mentality to become an outstanding biker. Once you overcome these things, you'll be able to control the motorcycle like it's an extension of your body and experience the unique freedom and exhilarating journey of a motorcycle through it."
+  },
+  {
+    "line": 225,
+    "text": "Nadeshiko's eyes shine brightly and passionately when she talks about this."
+  },
+  {
+    "line": 226,
+    "text": "{character:player}Nadeshiko, do you have any special experience in this regard?"
+  },
+  {
+    "line": 227,
+    "text": "{character:Nadeshiko}Well... You need to constantly practice and gain experience to achieve this. In fact, you undertake a certain amount of risk just by choosing to enjoy riding a motorcycle because all kinds of emergencies are possible. I remember when hail fell suddenly one time while I was driving on a winding mountain road, which made the mountain road wet and slippery. I accidentally slipped into a ravine with my motorcycle."
+  },
+  {
+    "line": 228,
+    "text": "{character:player}Geez! What happened after that?"
+  },
+  {
+    "line": 229,
+    "text": "{character:Nadeshiko}Fortunately, a road camera confirmed the cause of the accident, and the insurance company paid for the damaged chassis, dashboard, engine, and tires."
+  },
+  {
+    "line": 230,
+    "text": "{character:player}Hold on, I'm asking about you, not the motorcycle!"
+  },
+  {
+    "line": 231,
+    "text": "{character:Nadeshiko}Me? Hmm, I guess I did get hurt, but where was it again?"
+  },
+  {
+    "line": 232,
+    "text": "She can say which parts of the motorcycle were damaged without thinking, but she has no memory of the injuries she suffered?"
+  },
+  {
+    "line": 233,
+    "text": "{character:Nadeshiko}Ahaha, you look so surprised. You think it's unbelievable, right?"
+  },
+  {
+    "line": 234,
+    "text": "{character:Nadeshiko}How should I say this... I was mentally prepared to get injured the moment I chose to become a biker, so I won't purposefully remember my injuries. However, when it comes to my motorcycle, I think of it as an important partner who I care for like a relative or friend rather than just a vehicle. My heart hurts every time it gets hurt."
+  },
+  {
+    "line": 236,
+    "text": "{character:Nadeshiko}Of course, the hefty repair bill is another reason why I remember this so well."
+  },
+  {
+    "line": 237,
+    "text": "...Now she's being practical all of a sudden!"
+  },
+  {
+    "line": 238,
+    "text": "{character:Nadeshiko}Anyway, I know these complicated feelings aren't the easiest things to understand."
+  },
+  {
+    "line": 239,
+    "text": "{character:player}...Well, although I haven't started to think of a motorcycle as my companion yet, I do feel like riding a motorcycle outdoors is a way to relax. After all, there aren't many ways to enjoy freedom, relaxation, and the scenery all at the same time in our everyday lives."
+  },
+  {
+    "line": 240,
+    "text": "Nadeshiko turns to look at me suddenly while I'm saying this. Her bright and passionate eyes focus on me."
+  },
+  {
+    "line": 241,
+    "text": "{character:Nadeshiko}{var:player_nickname}, the fact that you think this already makes me look at you in a different light. Come on, let's finish the lesson and then have a good chat."
+  },
+  {
+    "line": 242,
+    "text": "{character:player}Sure!"
+  },
+  {
+    "line": 243,
+    "text": "{character:player}Okay, is there any place you recommend?"
+  },
+  {
+    "line": 244,
+    "text": "{character:Nadeshiko}Of course."
+  },
+  {
+    "line": 245,
+    "text": "{character:Nadeshiko}Ahhh! There's nothing better than a glass of cold beer to relieve fatigue at this time!"
+  },
+  {
+    "line": 246,
+    "text": "{character:player}You've had a long day today. Good luck with the interview tomorrow!"
+  },
+  {
+    "line": 247,
+    "text": "{character:Nadeshiko}You're the one who has been working hard today. Good thing you were around to help me today. But..."
+  },
+  {
+    "line": 248,
+    "text": "Nadeshiko suddenly falls quiet."
+  },
+  {
+    "line": 249,
+    "text": "{character:player}What is it?"
+  },
+  {
+    "line": 250,
+    "text": "{character:Nadeshiko}Haha, forget it. It's nothing. It's better to enjoy the moment when you're drinking!"
+  },
+  {
+    "line": 251,
+    "text": "{character:player}Yeah, let's enjoy this relaxing moment."
+  },
+  {
+    "line": 252,
+    "text": "{character:Nadeshiko}Speaking of relaxation, you can have a motorcycle ride with me in the future when we have the chance. You'll definitely like this way of relaxing."
+  },
+  {
+    "line": 253,
+    "text": "{character:player}Ahaha..."
+  },
+  {
+    "line": 254,
+    "text": "{character:Nadeshiko}What? You seem... a little reluctant?"
+  },
+  {
+    "line": 255,
+    "text": "{character:player}No, it's fun to have a road trip, and I really want to experience that. But if I need the technical level to catch up with you..."
+  },
+  {
+    "line": 256,
+    "text": "{character:Nadeshiko}You don't need to worry about that. A ride isn't a race, and what matters is the process. You just need to ask yourself if you're looking forward to it."
+  },
+  {
+    "line": 257,
+    "text": "{character:player}Haha, okay, in that case, I'm already looking forward to it."
+  },
+  {
+    "line": 258,
+    "text": "It's a promise then."
+  },
+  {
+    "line": 259,
+    "text": "{character:player}Your interview is tomorrow, Nadeshiko. You've been running around everywhere these last two days, so you should get some good rest now."
+  },
+  {
+    "line": 260,
+    "text": "Nadeshiko smiles after being taken aback for a moment."
+  },
+  {
+    "line": 261,
+    "text": "{character:Nadeshiko}You're right. Then let's meet again the next time we're free. Thanks again for today."
+  },
+  {
+    "line": 262,
+    "text": "{character:player}Yeah, you too. Good night."
+  },
+  {
+    "line": 263,
+    "text": "Nadeshiko and I say goodbye to each other happily."
+  },
+  {
+    "line": 266,
+    "text": "I quickly answer the call."
+  },
+  {
+    "line": 267,
+    "text": "{character:player}Nadeshiko?"
+  },
+  {
+    "line": 268,
+    "text": "{character:Nadeshiko}Yeah... It's me..."
+  },
+  {
+    "line": 269,
+    "text": "On the phone, Nadeshiko sounds like she wants to say something but is hesitating."
+  },
+  {
+    "line": 270,
+    "text": "{character:player}It's quite late already. Is there something you need me to help you with? It's okay, just tell me."
+  },
+  {
+    "line": 271,
+    "text": "{character:Nadeshiko}No, I'm just thinking about what happened at noon."
+  },
+  {
+    "line": 272,
+    "text": "{character:player}At noon?"
+  },
+  {
+    "line": 273,
+    "text": "{character:Nadeshiko}I was so focused on my own affairs that I completely forgot about the people around me. I feel so bad when I think back about it. It seems that I really need to change this habit of ignoring other people."
+  },
+  {
+    "line": 274,
+    "text": "{character:player}Ahaha, I don't think that's necessary."
+  },
+  {
+    "line": 275,
+    "text": "I didn't expect Nadeshiko, who has a straightforward personality, to be so concerned about this matter."
+  },
+  {
+    "line": 277,
+    "text": "Nadeshiko falls silent for a moment on the phone before she starts laughing."
+  },
+  {
+    "line": 278,
+    "text": "{character:Nadeshiko}...Geez, I called you to apologize, but you're actually comforting me instead."
+  },
+  {
+    "line": 279,
+    "text": "{character:Nadeshiko}Either way, I promise you that I'll never, ever forget to take care of you as long as you're with me. And to show you my sincerity, I've decided—"
+  },
+  {
+    "line": 280,
+    "text": "Nadeshiko's voice suddenly becomes louder, as if she is speaking right into the speaker, which gives me a scare."
+  },
+  {
+    "line": 281,
+    "text": "{character:Nadeshiko}{var:player_nickname}, how about we have an exciting road trip? It'll be just you and me!"
+  },
+  {
+    "line": 282,
+    "text": "{character:player}Haha, it sounds great, but..."
+  },
+  {
+    "line": 283,
+    "text": "{character:Narration}Ah, I see. Nadeshiko, you had more alcohol after you returned home, haven't you?"
+  },
+  {
+    "line": 285,
+    "text": "{character:player}Okay, okay, I'm already looking forward to it."
+  },
+  {
+    "line": 286,
+    "text": "Although I know it's something she said under the influence of alcohol, I decided to take this promise seriously."
+  },
+  {
+    "line": 496,
+    "text": ""
+  },
+  {
+    "line": 497,
+    "text": "{character:Nadeshiko}Hmm, I'll think about how I'll adjust my entire lesson PPT. This is your next task."
+  },
+  {
+    "line": 498,
+    "text": "After answering the questions attentively for some time"
+  },
+  {
+    "line": 499,
+    "text": "Choose the outdoor training ground"
+  },
+  {
+    "line": 500,
+    "text": "Choose the indoor training ground"
+  },
+  {
+    "line": 502,
+    "text": "Happily accept the invitation because you want to spend more time with Nadeshiko"
+  },
+  {
+    "line": 503,
+    "text": "Reject the invitation because you don't want to ruin her interview tomorrow"
+  },
+  {
+    "line": 505,
+    "text": "Half an hour later"
+  },
+  {
+    "line": 506,
+    "text": "Izakaya"
+  },
+  {
+    "line": 507,
+    "text": "After sending my reply to Nadeshiko, I open the Watafak Moment video pushed to me on the CatChat homepage. As I eat breakfast leisurely, I watch other people's Blessing of Heaven and Thirteen Orphans enviously."
+  },
+  {
+    "line": 508,
+    "text": "Although the Watafak Moment is very interesting, my hands always get itchy to play mahjong if I watch it for too long. I look at the bright sun outside the window and decide to go play mahjong at a dojo and have a good time on the weekend with my skills."
+  },
+  {
+    "line": 509,
+    "text": "I take out my phone quickly and log in to CatChat. Sure enough, there's an unread message from Nadeshiko. It's her reply to my message, and it says: \"You're the lucky winner. I'll come to pick you up, so don't go anywhere.\""
+  },
+  {
+    "line": 510,
+    "text": "Nadeshiko often posts photos of her riding a motorcycle on CatChat. I once thought it would be very nice to have a chance to ride a motorcycle with her. Is today the day my dream comes true?"
+  },
+  {
+    "line": 511,
+    "text": "One hour later"
+  },
+  {
+    "line": 512,
+    "text": "The howling sound of the engine surrounds my ears like the roaring of a beast. At this moment, a dark metal beast is roaring and galloping on this track."
+  },
+  {
+    "line": 513,
+    "text": "I lie on the bed, waving my sore arms and legs. I look at my phone with sleepy eyes and start a mahjong game to play a round before I sleep."
+  },
+  {
+    "line": 514,
+    "text": "Suddenly, I receive a video call from Nadeshiko."
+  },
+  {
+    "line": 515,
+    "text": "After a day of lessons, I return home and lie on the bed after tidying up. My accumulated fatigue suddenly surfaces all at once."
+  },
+  {
+    "line": 516,
+    "text": "{character:player}I think that it's great to be so focused. For example, when you ride your motorcycle, your keen awareness and control of direction and road conditions are made possible by your high degree of concentration. I'm also like that when I play mahjong and think about how to take control of the game. It's quite common for me to lose track of the time and everything happening around me."
+  },
+  {
+    "line": 517,
+    "text": "{character:Nadeshiko}But? But what? What's there to hesitate about?"
+  },
+  {
+    "line": 518,
+    "text": "{character:Nadeshiko}Oh, I understand. If you don't want to ride your own motorcycle, my back seat is always available for you. How about that? Are you interested now?"
+  },
+  {
+    "line": 519,
+    "text": "In the training ground of the driving school"
+  },
+  {
+    "line": 520,
+    "text": "Accept the invitation without thinking too much about it"
+  },
+  {
+    "line": 521,
+    "text": "Decline the invitation because you don't want to ruin her interview tomorrow"
+  },
+  {
+    "line": 522,
+    "text": "{character:Nadeshiko}Because my decision was rather last minute, Chihori suggested that I use a lottery to select people. She said that I'll get more replies and be able to reach my target audience more precisely."
+  },
+  {
+    "line": 523,
+    "text": "{character:Nadeshiko}Are you surprised? Because my decision was rather last minute, Chihori suggested that I use a lottery to select people. She said that I'll get more replies and be able to reach my target audience more precisely."
+  },
+  {
+    "line": 524,
+    "text": "Time passes quickly while Nadeshiko and I discuss how she should revise her teaching plan."
+  },
+  {
+    "line": 525,
+    "text": "A complete motorcycle beginner, here to lower the chance of winning the prize for everyone else."
+  },
+  {
+    "line": 526,
+    "text": "Already has a license, feeling sad about losing the opportunity. Still curious about the prize tho."
+  },
+  {
+    "line": 528,
+    "text": "Narration"
+  },
+  {
+    "line": 531,
+    "text": "This is a professional outdoor motorcycle training ground. On both sides of the track are beautifully maintained strips of grass. The green scenery is refreshing and prevents passing motorcycles from entering by mistake."
+  },
+  {
+    "line": 532,
+    "text": "After typing the last word, Nadeshiko finally breaks out of her state of concentration. She breathes a sigh of relief and looks surprised after she turns to look at me."
+  },
+  {
+    "line": 533,
+    "text": "{character:player}Although I really want to go to the outdoor training ground, I should start with the standard indoor training ground since I'm a novice. This would also be the more likely scenario when you have real students."
+  },
+  {
+    "line": 534,
+    "text": "{character:player}That makes sense. Just now, I saw you use all these techniques so easily, but I still feel nervous when I try to do them myself, especially when I feel the resistance of the wind blowing in my face after speeding up."
+  },
+  {
+    "line": 535,
+    "text": "Yeah, it's something she cherishes, after all. When I think about my collector's edition mahjong set and how I would feel if any of the tiles has a crack, I feel like I can really relate to her sentiment."
+  }
+]

@@ -1,0 +1,1654 @@
+[
+  {
+    "line": 3,
+    "text": "Osamu Saitou"
+  },
+  {
+    "line": 4,
+    "text": "{character:Osamu Saitou}I understand. You'll need to think about it carefully given your late grandfather's teachings, right?"
+  },
+  {
+    "line": 5,
+    "text": "Mai Aihara"
+  },
+  {
+    "line": 6,
+    "text": "{character:Mai Aihara}I'm sorry, as far as I know, the Temple of Moons has never held an event like this."
+  },
+  {
+    "line": 8,
+    "text": "{character:Narration}Under the torii of the Temple of Moons, the evening sun casts shadows of myself, Osamu Saitou, and Mai Aihara."
+  },
+  {
+    "line": 9,
+    "text": "{character:Mai Aihara}Before he died, grandpa said that the Temple of Moons doesn't need any festivals now. I... don't want to go against the old man's wishes."
+  },
+  {
+    "line": 10,
+    "text": "{character:Narration}To promote the tourism industry of One Han City, Osamu has recently gotten in touch with all the major temples and shrines to organize a temple festival. Among them, the Temple of Moons is one of Osamu's main investment targets due to its long history, and he has put forward quite favorable conditions."
+  },
+  {
+    "line": 11,
+    "text": "{character:Narration}He heard that I have a good relationship with Mai, so he hopes that I can help him persuade Mai to agree to this cooperation, but Mai's concerns aren't what I imagined."
+  },
+  {
+    "line": 12,
+    "text": "player"
+  },
+  {
+    "line": 13,
+    "text": "{character:player}I didn't expect your grandfather to say something like that to you."
+  },
+  {
+    "line": 14,
+    "text": "{character:Mai Aihara}Yea... I'm sorry, Mr. Saitou, I... I'm not trying to make things difficult for you."
+  },
+  {
+    "line": 15,
+    "text": "{character:Osamu Saitou}It's okay. Each shrine has its own way of doing things, and you don't need to apologize for that."
+  },
+  {
+    "line": 16,
+    "text": "{character:Osamu Saitou}But this cooperation is beneficial to the operation of the Temple of Moons. It's beneficial for both sides, so I hope you'll consider it in more detail."
+  },
+  {
+    "line": 17,
+    "text": "{character:Osamu Saitou}But, I'm a little confused about what you just said, because the Temple of Moons held a festival 15 years ago."
+  },
+  {
+    "line": 18,
+    "text": "{character:Mai Aihara}Eh?"
+  },
+  {
+    "line": 18,
+    "text": "{character:player}Eh?"
+  },
+  {
+    "line": 19,
+    "text": "{character:Osamu Saitou}I was lucky enough to participate in that festival. Many of the residents around here should still remember the Kagura dance of the Aihara family."
+  },
+  {
+    "line": 20,
+    "text": "{character:Mai Aihara}The Kagura dance... I think... I have heard people praise it before."
+  },
+  {
+    "line": 21,
+    "text": "{character:Osamu Saitou}Anyways, please consider it carefully. If you're willing to take part, my company guarantees that this event will be good for the promotion of your shrine and its revenue."
+  },
+  {
+    "line": 22,
+    "text": "{character:Osamu Saitou}I'll be meeting Kana Fujita, one of the artists my company has signed, in an hour to discuss her appearance at the festival, so I'll be on my way. {var:player_nickname}, thank you for helping me make an appointment to meet Miss Aihara today."
+  },
+  {
+    "line": 23,
+    "text": "{character:player}Don't mention it. I only introduced you because Mai wanted to meet you. I'll show you out."
+  },
+  {
+    "line": 25,
+    "text": "{character:Narration}Mai and I walk to the side of the road and watch Osamu get in a car and leave."
+  },
+  {
+    "line": 26,
+    "text": "{character:Mai Aihara}I'm really sorry! I didn't say yes to this amazing opportunity you gave me."
+  },
+  {
+    "line": 27,
+    "text": "{character:player}It's okay. Both parties need to reach a consensus to do business together. It's your right to decide the shrine's affairs."
+  },
+  {
+    "line": 28,
+    "text": "{character:Mai Aihara}But... Actually, I'm not sure whether I should reject it or not. Grandpa's teachings are important, but this is a rare opportunity from a business perspective, right?"
+  },
+  {
+    "line": 29,
+    "text": "{character:Mai Aihara}What do you think? Should I agree to hold a festival at the shrine?"
+  },
+  {
+    "line": 30,
+    "text": "{character:Narration}Mai is torn by this difficult decision. She is a person who gets troubled easily, and she will continue to be troubled by the issue until she has an answer."
+  },
+  {
+    "line": 34,
+    "text": "{character:player}I think you should do it. More and more people have been coming to pray at the Temple of Moons, so a festival would be very lively."
+  },
+  {
+    "line": 35,
+    "text": "{character:player}And the old people who come to the activity room were also guessing whether there would be a temple festival this year."
+  },
+  {
+    "line": 36,
+    "text": "{character:Mai Aihara}Is everyone looking forward to it so much? Hmm... but I'm still a little concerned about what grandpa said."
+  },
+  {
+    "line": 37,
+    "text": "{character:Mai Aihara}I've only inherited the shrine for a few years... Many operational matters are carried out according to grandpa's will... and everyone at the Mahjong Soul Shrine has been helping me... That's why everything has gone well so far. That's why I don't dare to make such a big decision..."
+  },
+  {
+    "line": 38,
+    "text": "{character:player}It's alright. It's a lot of work to organize a festival, so it can't hurt to be prudent."
+  },
+  {
+    "line": 39,
+    "text": "{character:Narration}I comfort Mai because she is looking a little depressed. Unexpectedly, her eyebrows relaxed soon, as if she thought of something important."
+  },
+  {
+    "line": 40,
+    "text": "{character:Mai Aihara}The Mahjong Soul Shrine... That's right, Ichihime and the others might know why grandpa said festivals were unnecessary."
+  },
+  {
+    "line": 41,
+    "text": "{character:player}Is that so?"
+  },
+  {
+    "line": 42,
+    "text": "{character:Mai Aihara}Yes! The Temple of Moons and Mahjong Soul Shrine have a lot of shared history, and grandpa and everyone from the Mahjong Soul Shrine had known each other for a long time. Maybe he had mentioned something to them."
+  },
+  {
+    "line": 43,
+    "text": "{character:player}Sure, let's go over and ask about it after dinner."
+  },
+  {
+    "line": 45,
+    "text": "{character:Narration}Mai and I make plans to go to the Mahjong Soul Shrine together after dinner and ask Wanjirou about the past."
+  },
+  {
+    "line": 46,
+    "text": "Wanjirou"
+  },
+  {
+    "line": 47,
+    "text": "{character:Wanjirou}As far as I know, the old priest didn't want to organize any festivals because he was afraid of being reminded of his deceased wife, woof."
+  },
+  {
+    "line": 48,
+    "text": "{character:Wanjirou}Mai's grandma loved festivals. No festivals have been held there since she passed away."
+  },
+  {
+    "line": 49,
+    "text": "{character:Mai Aihara}So when grandpa said: \"the Temple of Moons doesn't need any festivals now,\" he meant that he didn't want to get emotional at the festival?"
+  },
+  {
+    "line": 50,
+    "text": "Ichihime"
+  },
+  {
+    "line": 51,
+    "text": "{character:Ichihime}Yes, nyaa. Before that, the Temple of Moons always held festivals, and even I took part in them, nyaa!"
+  },
+  {
+    "line": 52,
+    "text": "{character:Mai Aihara}Now that you mention it... I seem to have a little impression of that."
+  },
+  {
+    "line": 53,
+    "text": "{character:Wanjirou}You should have been around three years old at that time, woof."
+  },
+  {
+    "line": 54,
+    "text": "{character:player}Three years old? That's exactly 15 years ago. It matches what Osamu said."
+  },
+  {
+    "line": 55,
+    "text": "{character:Mai Aihara}I see, so grandpa doesn't hate festivals... He just misses grandma too much..."
+  },
+  {
+    "line": 56,
+    "text": "{character:Ichihime}Osamu invited the Mahjong Soul Shrine too, nyaa. Wanjirou already agreed to it, right?"
+  },
+  {
+    "line": 57,
+    "text": "{character:Wanjirou}There will be lots of interesting booths if there's a festival, and we can make a lot of money too!"
+  },
+  {
+    "line": 59,
+    "text": "{character:Mai Aihara}Should we hold a festival together..."
+  },
+  {
+    "line": 60,
+    "text": "{character:Narration}After hearing Ichihime and Wanjirou's words, Mai lowers her head and purses her lips... After a while, she raises her head again."
+  },
+  {
+    "line": 61,
+    "text": "{character:Mai Aihara}What do you think, Master? I... Part of me wants to organize a festival."
+  },
+  {
+    "line": 62,
+    "text": "{character:player}I think that if the old priest stopped holding festivals because he was afraid of evoking past memories, then this is the time to start organizing them again. Your grandma would be delighted too if she could see you organizing festivals again."
+  },
+  {
+    "line": 63,
+    "text": "{character:Wanjirou}I think so too, woof!"
+  },
+  {
+    "line": 64,
+    "text": "{character:Mai Aihara}If the Mahjong Soul Shrine is participating, the Temple of Moons should join too... Yes! I've decided that the Temple of Moons will also organize a festival!"
+  },
+  {
+    "line": 65,
+    "text": "{character:Narration}Mai once said that the two shrines had some shared history. Perhaps that's why she changed her mind."
+  },
+  {
+    "line": 66,
+    "text": "{character:Ichihime}This is great, nyaa! I'm going to have cotton candy and grilled squid at the festival! And play lots of games, nyaa!"
+  },
+  {
+    "line": 67,
+    "text": "{character:Narration}The Mahjong Soul Shrine is as lively as ever, but perhaps this is the exact kind of carefree atmosphere that can help Mai overcome her worries."
+  },
+  {
+    "line": 70,
+    "text": "{character:player}Do you know why the old priest didn't want to hold festivals?"
+  },
+  {
+    "line": 71,
+    "text": "{character:Mai Aihara}Eh? No..."
+  },
+  {
+    "line": 72,
+    "text": "{character:player}Based on what I know about Osamu, almost all the events he promotes are a great success. The Temple of Moons should make a lot of profit if it joins in."
+  },
+  {
+    "line": 73,
+    "text": "{character:player}But I'm worried that the old priest might have a special reason for saying that. I think that knowing his reason will help us make a decision."
+  },
+  {
+    "line": 74,
+    "text": "{character:Mai Aihara}You're right, but... I don't know why grandpa never organized a festival either."
+  },
+  {
+    "line": 75,
+    "text": "{character:Mai Aihara}I've only inherited the shrine for a few years... Many operational matters are carried out according to grandpa's will... and everyone at the Mahjong Soul Shrine has been helping me... That's why everything has gone well so far. That's why I don't dare to make such a big decision..."
+  },
+  {
+    "line": 76,
+    "text": "{character:player}Organizing a festival is a big decision, so it can't hurt to be prudent."
+  },
+  {
+    "line": 77,
+    "text": "{character:Narration}I comfort Mai because she is looking a little depressed. Unexpectedly, her eyebrows relaxed soon, as if she thought of something important."
+  },
+  {
+    "line": 78,
+    "text": "{character:Mai Aihara}The Mahjong Soul Shrine! That's right, Ichihime and the others might know something."
+  },
+  {
+    "line": 79,
+    "text": "{character:player}Alright, there's still some time until dinner, so why don't we go and ask them now?"
+  },
+  {
+    "line": 81,
+    "text": "{character:Ichihime}I know! Mai's grandfather doesn't like temple festivals because Mai's grandmother really liked them!"
+  },
+  {
+    "line": 83,
+    "text": "{character:Narration}Mai and I arrive at the Mahjong Soul Shrine and see Ichihime and Kaguyahime sitting together drinking tea. After Mai asks Ichihime about the festival, she finds out that Ichihime really does know the reason, but she isn't the only one who knows..."
+  },
+  {
+    "line": 84,
+    "text": "Kaguyahime"
+  },
+  {
+    "line": 85,
+    "text": "{character:Kaguyahime}Hehe, shorty, do you know you need to take responsibility for the things you say? I think it's because he wanted to protect the go-shintai, the divine artifact worshipped in the shrine. After all, the Temple of Moons' go-shintai is quite special."
+  },
+  {
+    "line": 86,
+    "text": "{character:Ichihime}Nyaa! You don't understand the old priest at all, you stupid rabbit, nyaa!"
+  },
+  {
+    "line": 87,
+    "text": "{character:Kaguyahime}I don't understand humans, but I understand deities. The old priest is someone who serves deities. How can he do a good job if he doesn't understand what's truly important? Do you think he is like a certain short priestess who just eats and sleeps all day?"
+  },
+  {
+    "line": 88,
+    "text": "{character:Ichihime}Nyaa! You also ate some of those snacks just then!"
+  },
+  {
+    "line": 89,
+    "text": "{character:Narration}I knew it. Whenever Ichihime and Kaguyahime are together, they will start their trademark bickering that no one can cut in."
+  },
+  {
+    "line": 90,
+    "text": "{character:player}...Where's Wanjirou? He at least might have a chance to persuade these two."
+  },
+  {
+    "line": 91,
+    "text": "{character:Mai Aihara}Ichihime said Wanjirou just went out and she didn't know when he'll return."
+  },
+  {
+    "line": 92,
+    "text": "{character:Narration}How troublesome. The only slightly more reliable person in Mahjong Soul Shrine is not around just when we need him."
+  },
+  {
+    "line": 93,
+    "text": "{character:Ichihime}What do you think, Mai? What I said makes more sense, right?"
+  },
+  {
+    "line": 94,
+    "text": "{character:Kaguyahime}In that case I want to know what you think too. Think carefully before you answer, hehe."
+  },
+  {
+    "line": 95,
+    "text": "{character:Mai Aihara}Well... Um... Urgh... What should I do, Master? What should I say?"
+  },
+  {
+    "line": 99,
+    "text": "{character:player}I think... Ichihime's version is closer to the truth."
+  },
+  {
+    "line": 100,
+    "text": "{character:Ichihime}Master, you really are the best master ever, nyaa!"
+  },
+  {
+    "line": 101,
+    "text": "{character:Mai Aihara}Ah... I think I remember something now. When I was little, the shrine was indeed very lively... like there were festivals. However, things have never been that lively ever since grandma passed away..."
+  },
+  {
+    "line": 102,
+    "text": "{character:player}This supports Ichihime's version of events. The old priest wasn't willing to organize festivals by himself after his wife passed away because he missed her."
+  },
+  {
+    "line": 103,
+    "text": "{character:Kaguyahime}That sounds like it makes sense. However, human, you can't just look at the surface for some things. The Temple of Moons has lots of things for you to explore, hehe."
+  },
+  {
+    "line": 104,
+    "text": "{character:Narration}When I want to ask her more, Kaguyahime waves her hand and tells me that the secrets of heaven shouldn't be revealed. The Temple of Moons... What other things are... Oh well, I'll always have the chance to find out in the future. It's more important to help Mai solve her problem first."
+  },
+  {
+    "line": 105,
+    "text": "{character:Ichihime}I can't wait to organize the festival with you, Mai, nyaa!"
+  },
+  {
+    "line": 106,
+    "text": "{character:Mai Aihara}Organize the festival with me? Is Mahjong Soul Shrine also...?"
+  },
+  {
+    "line": 107,
+    "text": "{character:Ichihime}Nyaa! I thought I told you. The Mahjong Soul Shrine also received an invitation from the big boss Osamu, nyaa. Wanjirou has gone outside to negotiate! Let's organize the most magnificent festival together, nyaa!"
+  },
+  {
+    "line": 108,
+    "text": "{character:Mai Aihara}...If the Mahjong Soul Shrine is participating, the Temple of Moons indeed should join too."
+  },
+  {
+    "line": 109,
+    "text": "{character:Narration}Mai once said that the two shrines had some shared history. Perhaps that's why she is starting to change her mind."
+  },
+  {
+    "line": 110,
+    "text": "{character:Mai Aihara}What do you think, Master? I... kind of want to organize a festival now."
+  },
+  {
+    "line": 111,
+    "text": "{character:player}I think that if the old priest stopped holding festivals because he was afraid of seeing things that would remind him of his deceased wife, then this is the time to start organizing them again. Your grandma would be delighted too if she could see you organizing festivals again."
+  },
+  {
+    "line": 112,
+    "text": "{character:Mai Aihara}Yes... In that case, I've decided to organize a festival with the Mahjong Soul Shrine!"
+  },
+  {
+    "line": 113,
+    "text": "{character:Ichihime}This is great, nyaa! I'm going to have cotton candy and grilled squid at the festival! I'm going to play lots of games at the festival, nyaa!"
+  },
+  {
+    "line": 114,
+    "text": "{character:Narration}The Mahjong Soul Shrine is as noisy as ever, but perhaps this is the exact kind of carefree atmosphere that can help Mai overcome her worries."
+  },
+  {
+    "line": 117,
+    "text": "{character:Narration} In the next few months, together with Ichihime and Wanjirou, we began to prepare for the festival with Osamu's help."
+  },
+  {
+    "line": 119,
+    "text": "{character:Narration}It is soon the evening, and it is time for the official opening of the festival jointly organized by the Temple of Moons and Mahjong Soul Shrine."
+  },
+  {
+    "line": 120,
+    "text": "Kaavi"
+  },
+  {
+    "line": 121,
+    "text": "{character:Kaavi}Here visitor, please draw a lot to divine your fate."
+  },
+  {
+    "line": 122,
+    "text": "Visitor A"
+  },
+  {
+    "line": 123,
+    "text": "{character:Visitor A} Yay! It's a \"great blessing!\""
+  },
+  {
+    "line": 124,
+    "text": "Visitor B"
+  },
+  {
+    "line": 125,
+    "text": "{character:Visitor B}*Sighs* Why did I have to draw a \"misfortune!\" What should I do?"
+  },
+  {
+    "line": 126,
+    "text": "{character:Kaavi}Unfortunately, fate isn't something that can be changed that easily."
+  },
+  {
+    "line": 127,
+    "text": "{character:Visitor B}Eh? I can't change my luck?"
+  },
+  {
+    "line": 128,
+    "text": "{character:Kaavi}You can consider hanging it on the sacred tree if you want to put up a meaningless fight against it. Now you can pay the fee here."
+  },
+  {
+    "line": 129,
+    "text": "{character:Narration}Mai and I are watching over the ema booth. We can see that Kaavi is helping the visitors draw lots."
+  },
+  {
+    "line": 130,
+    "text": "{character:Mai Aihara}It's been a long time since there have been so many visitors here at the Temple of Moons."
+  },
+  {
+    "line": 131,
+    "text": "{character:player}Yeah."
+  },
+  {
+    "line": 132,
+    "text": "{character:Mai Aihara}I... really like this kind of lively atmosphere."
+  },
+  {
+    "line": 133,
+    "text": "{character:Osamu Saitou}Please give me an ema. Thanks."
+  },
+  {
+    "line": 134,
+    "text": "{character:Mai Aihara}Y-You're welcome!"
+  },
+  {
+    "line": 135,
+    "text": "{character:Narration}Osamu, who had been extremely busy since three days before the festival, suddenly appears in front of our booth. His assistant isn't accompanying him, so it seems that he is just walking around enjoying the festival instead of working."
+  },
+  {
+    "line": 136,
+    "text": "{character:Mai Aihara}Um... Thank you for helping us with this festival! H-Here's the ema you wanted!"
+  },
+  {
+    "line": 137,
+    "text": "{character:Osamu Saitou}You're welcome. Miss Aihara, your popularity has played a big role in promoting the festival to make it such a grand occasion. I think it's very rewarding to organize a festival that brings smiles to people's faces."
+  },
+  {
+    "line": 138,
+    "text": "{character:Narration}Osamu smiles, then he seems to remember something. He looks at us and continues talking in a serious tone."
+  },
+  {
+    "line": 139,
+    "text": "{character:Osamu Saitou}It's just as lively here today as it was 15 years ago. I'm going to check out other booths now, so I'll leave you to it then."
+  },
+  {
+    "line": 140,
+    "text": "{character:Narration}Osamu hangs up the ema and turns around to leave. I look at the ema hanging beside me. His hopes for the future are written with strong and powerful strokes, which are very much his style."
+  },
+  {
+    "line": 141,
+    "text": "{character:Narration}Thinking back on what Osamu said, I'm a bit curious about the festival they keep mentioning."
+  },
+  {
+    "line": 142,
+    "text": "{character:player}They keep mentioning that festival. It must have been very grand."
+  },
+  {
+    "line": 143,
+    "text": "{character:Mai Aihara}Actually... It's not like I don't remember anything about it at all, just that I feel like I'm resisting it whenever I recall anything."
+  },
+  {
+    "line": 144,
+    "text": "{character:player}Eh? Why is that?"
+  },
+  {
+    "line": 145,
+    "text": "{character:Mai Aihara}Because... I will think of my mother."
+  },
+  {
+    "line": 146,
+    "text": "{character:Narration}The cheerful atmosphere of the festival continues to flow around her, but Mai's expression has become sorrowful."
+  },
+  {
+    "line": 147,
+    "text": "{character:Narration}I know she was separated from her mother when she was very little. Maybe she is bringing up this topic because she has remembered some painful things about her past."
+  },
+  {
+    "line": 148,
+    "text": "{character:Mai Aihara}Originally, my mother, should have inherited the Temple of Moons, but... due to some accidents, she left soon after I was born and has almost never come back to see me..."
+  },
+  {
+    "line": 149,
+    "text": "{character:Narration}Mai said that the only time she met her mother after her mother left was at her grandma's funeral."
+  },
+  {
+    "line": 150,
+    "text": "{character:Narration}When Mai saw her, she thought she was just a woman wearing black business attire. She came to the mourning hall alone to pay her respects. During this time, she kept her head low, didn't speak to anyone around her, and appeared very indifferent."
+  },
+  {
+    "line": 151,
+    "text": "{character:Mai Aihara}She left in a hurry after the funeral, and I only received letters from her every year for the next ten plus years."
+  },
+  {
+    "line": 152,
+    "text": "{character:Narration}As Mai told me about her memories, I could feel how helpless she felt. All words of consolation seemed a little empty to me at this time."
+  },
+  {
+    "line": 154,
+    "text": "{character:Kana Fujita}Hi everyone, I've finally arrived! I'm sorry I'm late, but there were just too many people at the autograph session just now!"
+  },
+  {
+    "line": 156,
+    "text": "{character:Narration}Kana's work requires her to meet her fans at autograph sessions, as well as to shuttle between booths and interact with visitors as a temporary staff member."
+  },
+  {
+    "line": 157,
+    "text": "{character:player}Kana, you're here. Don't worry about that. Thank you for agreeing to help us with the booth even though you're already so busy."
+  },
+  {
+    "line": 158,
+    "text": "{character:Kana Fujita}Hehe, although this is my work, I feel like I'm bursting with motivation after hearing you thank me, {var:player_nickname}!"
+  },
+  {
+    "line": 159,
+    "text": "{character:Kana Fujita}But... I can feel the heavy atmosphere here. This atmosphere is a disaster for an idol! {var:player_nickname}, did you bully Mai?"
+  },
+  {
+    "line": 160,
+    "text": "{character:player}We were talking about some serious topics, but we feel better now that you've arrived, Kana. Isn't that right?"
+  },
+  {
+    "line": 161,
+    "text": "{character:Mai Aihara}Y-Yes... Master is always gentle to me..."
+  },
+  {
+    "line": 163,
+    "text": "Fan A"
+  },
+  {
+    "line": 164,
+    "text": "{character:Fan A}Hey, isn't that Kana? Kana has come to the festival!"
+  },
+  {
+    "line": 165,
+    "text": "Fan B"
+  },
+  {
+    "line": 166,
+    "text": "{character:Fan B}Oh my! Kana, please give me an autograph!"
+  },
+  {
+    "line": 167,
+    "text": "{character:Kana Fujita}Ah... I guess that's the end of my break. Mai, you need to perform the Kagura dance later, so leave this ema booth to me!"
+  },
+  {
+    "line": 168,
+    "text": "{character:Narration}The Kagura dance is an important part of this festival. I've been looking forward to it since the festival started."
+  },
+  {
+    "line": 169,
+    "text": "{character:Kana Fujita}Go and have some fun while you still have time. I checked out quite a few booths this afternoon and had so much fun!"
+  },
+  {
+    "line": 170,
+    "text": "{character:Narration}Kana then starts working. With an idol promoting the booth, people waiting in line to buy ema doubled in an instant... Such terrifying charisma... I concede defeat."
+  },
+  {
+    "line": 171,
+    "text": "{character:Mai Aihara}M-Master... Where should we go?"
+  },
+  {
+    "line": 172,
+    "text": "{character:player}Ah, let's forget all that complex stuff and enjoy ourselves thoroughly at the festival! What do you want to play?"
+  },
+  {
+    "line": 173,
+    "text": "{character:Mai Aihara}I... want to play the things you want to play. Please introduce them to me."
+  },
+  {
+    "line": 177,
+    "text": "{character:Narration}Mai and I come to a booth with lantern riddles."
+  },
+  {
+    "line": 178,
+    "text": "{character:player}Hi, we want to guess some lantern riddles."
+  },
+  {
+    "line": 180,
+    "text": "{character:Nanaha Onodera}... Sure, help yourself."
+  },
+  {
+    "line": 181,
+    "text": "{character:Narration}Nanaha Onodera is busy reading and doesn't bother to look our way."
+  },
+  {
+    "line": 182,
+    "text": "{character:player}...Um, Nanaha, aren't you in charge of this lantern riddle booth?"
+  },
+  {
+    "line": 183,
+    "text": "{character:Nanaha Onodera}Welcome. Please select any lantern."
+  },
+  {
+    "line": 184,
+    "text": "{character:Narration}...It looks like she has no intention to look up at the customers at all. Forget it, it's not like this is the first time I've met her. You just have to get used to it."
+  },
+  {
+    "line": 185,
+    "text": "{character:Narration}So, I let Mai choose a lantern. She took a look at them and then takes a lantern with the character for \"tea\" on it."
+  },
+  {
+    "line": 186,
+    "text": "{character:Nanaha Onodera}The first riddle is: \"There is a pot at the mouth of the well and a pot at the bottom of the well. In the middle are a handful of mung beans and flowers blooming in the water.\""
+  },
+  {
+    "line": 187,
+    "text": "{character:Nanaha Onodera}The clue is the character on the lantern."
+  },
+  {
+    "line": 188,
+    "text": "{character:Mai Aihara}The character on the lantern is \"tea.\" Does this mean the answer is related to tea?"
+  },
+  {
+    "line": 189,
+    "text": "{character:Nanaha Onodera}Yes. If you can't think of anything, you can ask for more clues."
+  },
+  {
+    "line": 190,
+    "text": "{character:Mai Aihara}I... think I know the answer."
+  },
+  {
+    "line": 191,
+    "text": "{character:player}Eh? Already?"
+  },
+  {
+    "line": 192,
+    "text": "{character:Nanaha Onodera}The less time you need to guess the answer, the greater the rewards. So, can you tell me your answer?"
+  },
+  {
+    "line": 193,
+    "text": "{character:Mai Aihara}Um, it should be \"a lidded tea bowl,\" right?"
+  },
+  {
+    "line": 194,
+    "text": "{character:Nanaha Onodera}Correct... You've solved this riddle faster than everyone else so far."
+  },
+  {
+    "line": 195,
+    "text": "{character:player}That's amazing! Mai, you're so good at guessing riddles."
+  },
+  {
+    "line": 196,
+    "text": "{character:Mai Aihara}N-Not really... I just know a little more about tea. Grandpa taught me how to make tea with a lidded tea bowl, so I thought of it immediately."
+  },
+  {
+    "line": 197,
+    "text": "{character:Nanaha Onodera}Choosing a topic you're good at is also a secret of success. Let's move on to the second riddle."
+  },
+  {
+    "line": 198,
+    "text": "{character:Narration}After we answered all ten riddles, we went to the prize-giving area to choose our prizes."
+  },
+  {
+    "line": 199,
+    "text": "{character:Mai Aihara}Master, what should we choose?"
+  },
+  {
+    "line": 200,
+    "text": "{character:player}How about that round fan? I think it suits you."
+  },
+  {
+    "line": 201,
+    "text": "{character:Mai Aihara}Eh? The r-round fan?"
+  },
+  {
+    "line": 202,
+    "text": "{character:player}You contributed the most when we were guessing the answers to the riddles, so it'll be a gift for you."
+  },
+  {
+    "line": 203,
+    "text": "{character:Mai Aihara}B-But..."
+  },
+  {
+    "line": 204,
+    "text": "{character:player}You don't like it? Then you can choose something else."
+  },
+  {
+    "line": 205,
+    "text": "{character:Mai Aihara}No, it's not that! I'll take it! I... I'll take this fan."
+  },
+  {
+    "line": 206,
+    "text": "{character:Narration}After saying that, Mai claims the fan. This is strange... Judging from her reaction, does she like it or not?"
+  },
+  {
+    "line": 207,
+    "text": "{character:Nanaha Onodera}This is a hehuan fan... According to traditional customs, this is usually given to others as a token of love."
+  },
+  {
+    "line": 208,
+    "text": "{character:Nanaha Onodera}Mai loves reading romance stories, so she must know what it means."
+  },
+  {
+    "line": 209,
+    "text": "{character:Mai Aihara}Master, thank you for this gift. I... love it."
+  },
+  {
+    "line": 210,
+    "text": "{character:Narration}Mai returns with the fan, and I see the blessing \"Together Forever\" written on it. I... I seem to have accidentally made a bold decision."
+  },
+  {
+    "line": 213,
+    "text": "{character:Narration}Mai and I come to a ring toss booth to play."
+  },
+  {
+    "line": 214,
+    "text": "{character:Mai Aihara}Go!"
+  },
+  {
+    "line": 215,
+    "text": "{character:Narration}Like a leaf that is falling to the ground in autumn, the bamboo ring flies irregularly through the air and lands crookedly on the ground without capturing any prizes."
+  },
+  {
+    "line": 216,
+    "text": "{character:Narration}We try several times without any success. Just when we are about to give up..."
+  },
+  {
+    "line": 218,
+    "text": "{character:Sora Ichinose}Try to make the bamboo ring rotate faster."
+  },
+  {
+    "line": 219,
+    "text": "{character:Mai Aihara}Is that you, Sora? You're also here at the festival?"
+  },
+  {
+    "line": 220,
+    "text": "{character:Sora Ichinose}My body is in good condition today, so my sister agreed to let me come out and have some fun."
+  },
+  {
+    "line": 221,
+    "text": "{character:Narration}Sora Ichinose is a regular visitor of the Temple of Moons and is quite familiar with Mai. He seems to have seen us toss the bamboo rings when he was passing by."
+  },
+  {
+    "line": 222,
+    "text": "{character:player}Sora, you know how to toss the rings?"
+  },
+  {
+    "line": 224,
+    "text": "{character:player}That's okay. Let's give it a try, Mai."
+  },
+  {
+    "line": 225,
+    "text": "{character:Mai Aihara}Yes!"
+  },
+  {
+    "line": 226,
+    "text": "{character:Narration}Mai is aiming for a plushie that looks like Tubby. She tosses the bamboo ring according to Sora's advice."
+  },
+  {
+    "line": 227,
+    "text": "{character:player}Oh! It seems a lot more stable now. It isn't flying everywhere like before."
+  },
+  {
+    "line": 228,
+    "text": "{character:Narration}The bamboo ring flies in an arc, spinning in the air, towards the prizes in the back row, but it doesn't capture any prizes, probably because it has deviated slightly from its path."
+  },
+  {
+    "line": 229,
+    "text": "{character:Mai Aihara}...I still couldn't win anything. It was so close."
+  },
+  {
+    "line": 230,
+    "text": "{character:Sora Ichinose}I'm sorry... Theory and practice are different after all. I will need to keep learning."
+  },
+  {
+    "line": 231,
+    "text": "{character:player}It's okay. If we keep trying our best like this, maybe we'll be able to win something later!"
+  },
+  {
+    "line": 232,
+    "text": "Booth Owner"
+  },
+  {
+    "line": 233,
+    "text": "{character:Booth Owner}Here are the prizes you won."
+  },
+  {
+    "line": 234,
+    "text": "{character:Narration}After about 15 minutes, I finally manage to win a prize, a traditional round fan, using the method Sora taught us."
+  },
+  {
+    "line": 235,
+    "text": "{character:player}It's a shame I couldn't win the Tubby plushie you really wanted."
+  },
+  {
+    "line": 236,
+    "text": "{character:Mai Aihara}That's alright. I think this fan looks really nice too."
+  },
+  {
+    "line": 237,
+    "text": "{character:player}Well... I'll give it to you then, Mai. It suits you better than me anyway."
+  },
+  {
+    "line": 239,
+    "text": "{character:player}Don't you like it?"
+  },
+  {
+    "line": 240,
+    "text": "{character:Narration}She takes the fan as she speaks. This is strange... Judging from her reaction, does she like it or not? While I'm wondering about this, Sora gives me a quiet reminder from beside me..."
+  },
+  {
+    "line": 241,
+    "text": "{character:Sora Ichinose}{var:player_nickname}, the trademark of this fan says it is a hehuan fan. Maybe her reaction is related to this?"
+  },
+  {
+    "line": 242,
+    "text": "{character:Narration}I suddenly remember that hehuan fans are usually given as a token of love according to traditional customs. Mai loves reading romance stories, so she must know what it means."
+  },
+  {
+    "line": 243,
+    "text": "{character:Narration}Mai returns with the fan, and I see the blessing \"Together Forever\" written on it. I... I seem to have done something bold by accident..."
+  },
+  {
+    "line": 245,
+    "text": "{character:Narration}Mai and I come to a booth with balloons and BB guns."
+  },
+  {
+    "line": 247,
+    "text": "{character:A-37}Welcome!"
+  },
+  {
+    "line": 249,
+    "text": "{character:player}...Is that a BB gun?"
+  },
+  {
+    "line": 250,
+    "text": "{character:A-37}...Do you want to try to shoot the balloons? The more balloons you burst, the more prize options you have."
+  },
+  {
+    "line": 251,
+    "text": "{character:player}Mai, do you want to try it?"
+  },
+  {
+    "line": 252,
+    "text": "{character:Mai Aihara}But... I've never done this before..."
+  },
+  {
+    "line": 253,
+    "text": "{character:player}Don't worry, it's your first time, so don't worry too much about whether or not you'll hit anything."
+  },
+  {
+    "line": 255,
+    "text": "{character:Mai Aihara}In that case... I'm going to shoot!"
+  },
+  {
+    "line": 256,
+    "text": "{character:Narration}As I look at her serious expression, I start to worry that she would miss every shot and start to blame myself."
+  },
+  {
+    "line": 257,
+    "text": "{character:A-37}All ten shots hit the target."
+  },
+  {
+    "line": 258,
+    "text": "{character:player}M-Mai... you're so amazing!"
+  },
+  {
+    "line": 259,
+    "text": "{character:Mai Aihara}Um... The balloons are really close, and the gun isn't heavy. I practice archery when I train, and that feels much harder than this."
+  },
+  {
+    "line": 260,
+    "text": "{character:player}Oh, so you learned this from your priestess training. No wonder."
+  },
+  {
+    "line": 261,
+    "text": "{character:A-37}Based on the results, you indeed have quite the talent for using firearms."
+  },
+  {
+    "line": 262,
+    "text": "{character:Mai Aihara}T-Talent?"
+  },
+  {
+    "line": 263,
+    "text": "{character:A-37}If you want, I can introduce you to some shooting ranges that use real bullets."
+  },
+  {
+    "line": 264,
+    "text": "{character:Mai Aihara}R-Real bullets? No thanks. I don't know why I need to learn that."
+  },
+  {
+    "line": 265,
+    "text": "{character:Narration}Mai and I go to the prize-giving area after shooting the balloons."
+  },
+  {
+    "line": 266,
+    "text": "{character:Mai Aihara}Master, which prize should I choose?"
+  },
+  {
+    "line": 267,
+    "text": "{character:Mai Aihara}A r-round fan?"
+  },
+  {
+    "line": 268,
+    "text": "{character:player}You got more points when shooting the balloons, so we should choose something suitable for you as a gift."
+  },
+  {
+    "line": 269,
+    "text": "{character:Mai Aihara}Umm... But..."
+  },
+  {
+    "line": 270,
+    "text": "{character:player}You don't like it? Then you can choose something else."
+  },
+  {
+    "line": 271,
+    "text": "{character:Narration}Mai claims the fan after speaking. This is strange... Judging from her reaction, does she like it or not?"
+  },
+  {
+    "line": 272,
+    "text": "{character:A-37}According to the prize list, this fan is called a hehuan fan."
+  },
+  {
+    "line": 273,
+    "text": "{character:Narration}I remember that hehuan fans are usually given as a token of love according to traditional customs. Mai loves reading romance stories, so she must know what it means."
+  },
+  {
+    "line": 275,
+    "text": "{character:Narration}After that, I continue to wander around everywhere with Mai."
+  },
+  {
+    "line": 276,
+    "text": "Broadcast"
+  },
+  {
+    "line": 277,
+    "text": "{character:Broadcast}Hello everyone! The Kagura dance performance will be starting in 30 minutes at the square of the Temple of Moons. Please come and watch!"
+  },
+  {
+    "line": 278,
+    "text": "{character:Mai Aihara}Ah... I need to go backstage to prepare. Master, thank you for showing me around and having fun with me."
+  },
+  {
+    "line": 279,
+    "text": "{character:player}You don't have to thank me. I enjoyed myself too."
+  },
+  {
+    "line": 280,
+    "text": "{character:Mai Aihara}To thank you... Master, I hope you'll come to watch the Kagura dance."
+  },
+  {
+    "line": 281,
+    "text": "{character:player}Of course! How can I miss out on your performance? I'll be there."
+  },
+  {
+    "line": 282,
+    "text": "{character:Mai Aihara}Thank you! Well... I'm going to the dressing room to prepare."
+  },
+  {
+    "line": 283,
+    "text": "{character:Narration}After that, I continue to wander around the festival and only prepare to go to the square when the Kagura dance is about to start."
+  },
+  {
+    "line": 284,
+    "text": "{character:player}Ugh!"
+  },
+  {
+    "line": 285,
+    "text": "Little Girl"
+  },
+  {
+    "line": 286,
+    "text": "{character:Little Girl}... Sorry."
+  },
+  {
+    "line": 287,
+    "text": "{character:Narration}Rushing to the stage, I end up bumping into a little girl around four to five years old."
+  },
+  {
+    "line": 288,
+    "text": "{character:player}Are you okay?"
+  },
+  {
+    "line": 289,
+    "text": "{character:Narration}I help her up, only to realize that nobody is chaperoning this little girl."
+  },
+  {
+    "line": 290,
+    "text": "{character:player}Where are your parents?"
+  },
+  {
+    "line": 291,
+    "text": "{character:Little Girl}..."
+  },
+  {
+    "line": 291,
+    "text": "{character:Mai Aihara}..."
+  },
+  {
+    "line": 292,
+    "text": "{character:Narration}The little girl looks quite depressed and doesn't seem to want to talk to me."
+  },
+  {
+    "line": 293,
+    "text": "{character:Little Girl}Mommy is missing."
+  },
+  {
+    "line": 294,
+    "text": "{character:player}Missing? Are you lost? Hmm... Where did you get separated?"
+  },
+  {
+    "line": 295,
+    "text": "{character:Little Girl}I don't know."
+  },
+  {
+    "line": 301,
+    "text": "{character:Narration}I bring the little girl to the broadcasting room next to the torii and broadcast the girl's name a few times."
+  },
+  {
+    "line": 302,
+    "text": "{character:player}Tell me if you see your mother arrive."
+  },
+  {
+    "line": 303,
+    "text": "{character:Little Girl}Okay."
+  },
+  {
+    "line": 304,
+    "text": "{character:Narration}The little girl's mother should come to find her once she hears about the lost girl. However, I didn't see anyone coming after waiting with the little girl for a while."
+  },
+  {
+    "line": 305,
+    "text": "Passerby A"
+  },
+  {
+    "line": 306,
+    "text": "{character:Passerby A}Quickly! The event's about to start at the square!"
+  },
+  {
+    "line": 307,
+    "text": "Passerby B"
+  },
+  {
+    "line": 308,
+    "text": "{character:Passerby B}It's the Kagura dance, right? It's the main event of tonight's festival, we have to see it."
+  },
+  {
+    "line": 309,
+    "text": "{character:Narration}Mai's performance is about to begin, which makes me quite anxious and look at the square several times."
+  },
+  {
+    "line": 310,
+    "text": "{character:Little Girl}...Do you want to see the performance too?"
+  },
+  {
+    "line": 311,
+    "text": "{character:Little Girl}I want to see it too. My mommy brought me to the festival today to see it... Can we watch it together?"
+  },
+  {
+    "line": 312,
+    "text": "{character:player}But... Your mother hasn't arrived yet."
+  },
+  {
+    "line": 313,
+    "text": "{character:Narration}I take a look around everywhere. Fewer and fewer people are hanging around the torii. They are all walking towards the square, and none of them are walking my way."
+  },
+  {
+    "line": 314,
+    "text": "{character:Narration}After a few minutes of indecision, the little girl's mother still hasn't appeared. Then I start to get more and more impatient as I think of the agreement I made with Mai."
+  },
+  {
+    "line": 315,
+    "text": "{character:Little Girl}The Kagura dance will end soon..."
+  },
+  {
+    "line": 316,
+    "text": "{character:player}Then let's go together. I want to watch it too."
+  },
+  {
+    "line": 317,
+    "text": "{character:Little Girl}Really?"
+  },
+  {
+    "line": 318,
+    "text": "{character:Narration}I make up my mind. After telling another staff to help me keep an eye out for the little girl's mother, we rush to the square. By now, the path leading to the stage is already full of visitors. It seems that the performance has already started."
+  },
+  {
+    "line": 319,
+    "text": "{character:Narration}As there are too many people blocking the road, Mai's performance is more than halfway over by the time we arrive at the square."
+  },
+  {
+    "line": 321,
+    "text": "{character:Narration}The crisp sound of the Kagura bell rings in my ears. I can see Mai standing on the stage."
+  },
+  {
+    "line": 322,
+    "text": "{character:Narration}Mai dances lightly to the solemn music on the stage. The white chihaya robe and red priestess skirt make Mai look like a red and white butterfly that is flying in the festival under the night sky. She dances to the music..."
+  },
+  {
+    "line": 323,
+    "text": "{character:Mai Aihara}\"Bamboo leaves are covered with snow... on a winter night.\""
+  },
+  {
+    "line": 324,
+    "text": "{character:Narration}I'm amazed at Mai's costume, which is different from her usual plain priestess dress. She is also wearing a delicate crown and a pair of gorgeous high geta."
+  },
+  {
+    "line": 325,
+    "text": "{character:Narration}She is holding a dazzling golden Kagura bell in her hand. When she sways the bell, the ribbons that symbolize the path to the realm of the gods dance beside her."
+  },
+  {
+    "line": 326,
+    "text": "{character:Mai Aihara}\"The hunters... move forward through curtains of snow.\""
+  },
+  {
+    "line": 327,
+    "text": "{character:player}... How amazing!"
+  },
+  {
+    "line": 328,
+    "text": "{character:Narration}Unlike her usual shy self, Mai is calm and dignified even with so many people looking at her. Just when I feel moved by this, Mai's eyes meet mine from on the stage."
+  },
+  {
+    "line": 329,
+    "text": "{character:Narration}She smiles, not her usual timid smile, but a smile full of tenderness and gratitude... The smile of a priestess."
+  },
+  {
+    "line": 330,
+    "text": "{character:Narration}I feel a little shocked. Not only because I'm surprised by her excellent performance on the stage, but also because I'm amazed by how much she has grown so far."
+  },
+  {
+    "line": 331,
+    "text": "{character:player}...It's great that this festival was held."
+  },
+  {
+    "line": 332,
+    "text": "{character:Narration}As the performance draws to a close, Mai raises the Kagura bell again on the stage and ends the dance under the gaze of the crowd."
+  },
+  {
+    "line": 333,
+    "text": "{character:Little Girl}She's so amazing! The priestess is so pretty!"
+  },
+  {
+    "line": 334,
+    "text": "{character:Narration}After the performance ends, the air is filled with cheers from the audience."
+  },
+  {
+    "line": 335,
+    "text": "{character:player}It's such a shame we only saw the second half."
+  },
+  {
+    "line": 336,
+    "text": "{character:Little Girl}It doesn't matter. I'm happy to see even half of such a great performance! She is really amazing!"
+  },
+  {
+    "line": 337,
+    "text": "{character:Narration}The little girl is one of the most excited people present, and she is still clapping non-stop after the lights of the stage are turned off and everyone has dispersed."
+  },
+  {
+    "line": 338,
+    "text": "{character:Little Girl}Oh! It's mommy!"
+  },
+  {
+    "line": 339,
+    "text": "{character:Narration}At this time, a woman runs over from the edge of the stage, and the little girl runs up to meet her after noticing her. Just when I was wondering why her mother was here, I see Mai walking out of the side door of the stage."
+  },
+  {
+    "line": 340,
+    "text": "{character:Mai Aihara}Master, why are you with this little girl?"
+  },
+  {
+    "line": 341,
+    "text": "{character:Narration}Mai's neck is covered with beads of sweat, and it seems that she hasn't had time to rest yet. Seeing her appear with the mother right after the performance, I immediately understand why they are together."
+  },
+  {
+    "line": 343,
+    "text": "{character:Mai Aihara}So that's what happened. This mother didn't hear the broadcast. She came to the front stage before the Kagura dance started and wanted the staff to help her find her daughter who had run off during an argument."
+  },
+  {
+    "line": 344,
+    "text": "{character:Mai Aihara}There were too many people around the stage at that time, so we suggested that she wait until the performance ends before..."
+  },
+  {
+    "line": 346,
+    "text": "{character:Narration}So she didn't get lost in the crowd? I look at the mother and daughter next to me. The little girl is crying against her mother's chest."
+  },
+  {
+    "line": 347,
+    "text": "{character:Little Girl}...I've been looking forward to it for so long. I've always wanted to see the Kagura dance, but mommy... *sobbing*"
+  },
+  {
+    "line": 348,
+    "text": "Mother"
+  },
+  {
+    "line": 349,
+    "text": "{character:Mother}I'm sorry... I shouldn't have broken my promise, but something really important came up at work."
+  },
+  {
+    "line": 350,
+    "text": "{character:Narration}The little girl complains that her mother, who is usually away from home, finally managed to take her out to play, only to suddenly say that she needed to go to work."
+  },
+  {
+    "line": 351,
+    "text": "{character:Narration}The mother is apologizing for not considering her daughter's feelings, for saying she is a naughty girl, and for getting angry at her without explaining anything."
+  },
+  {
+    "line": 352,
+    "text": "{character:player}Mai?"
+  },
+  {
+    "line": 353,
+    "text": "{character:Narration}Mai looks a little lonely to me. She is moved by the scene in front of her, but the reconciliation between mother and daughter probably reminded her of her own mother."
+  },
+  {
+    "line": 354,
+    "text": "{character:player}...I wonder if Mai's mother is also thinking of her right now."
+  },
+  {
+    "line": 355,
+    "text": "{character:player}Although she isn't always with you, the letters she sends every year are probably her way of saying that she misses you."
+  },
+  {
+    "line": 357,
+    "text": "{character:Mai Aihara}Hmm... Thank you, Master."
+  },
+  {
+    "line": 361,
+    "text": "{character:Narration}When it is almost midnight, Mai takes me to the meditation room in the inner hall of the shrine."
+  },
+  {
+    "line": 362,
+    "text": "{character:Mai Aihara}Master, please come inside. Oh, watch out for the steps at the door."
+  },
+  {
+    "line": 363,
+    "text": "{character:Narration}The festival has finished at this time, and silence has returned to the Temple of Moons."
+  },
+  {
+    "line": 364,
+    "text": "{character:Narration}We all feel tired after being busy for the whole day. However, Mai asked me to come here with her, saying that she had something important to tell me."
+  },
+  {
+    "line": 365,
+    "text": "{character:Mai Aihara}I... have something to show you, Master."
+  },
+  {
+    "line": 366,
+    "text": "{character:player}Something you want to show me?"
+  },
+  {
+    "line": 367,
+    "text": "{character:Narration}The layout of the meditation room is like a plainly decorated training dojo. Mai stands in the center of the room with a slightly shy expression."
+  },
+  {
+    "line": 368,
+    "text": "{character:Mai Aihara}Master, I think it's a shame that you didn't manage to see the full Kagura dance just then, so I want to perform it for you here."
+  },
+  {
+    "line": 369,
+    "text": "{character:Mai Aihara}Master, you are always helping me and by my side. And today... Although it was only by a little bit, the knot in my heart has been untied slightly."
+  },
+  {
+    "line": 371,
+    "text": "{character:Narration}I'm quite surprised and moved because Mai expressed her kindness to me firmly instead of shyly. She is just like how she was during her earlier performance on the stage."
+  },
+  {
+    "line": 372,
+    "text": "{character:Mai Aihara}So, on this special day, I want to perform the Kagura dance just for you, Master."
+  },
+  {
+    "line": 373,
+    "text": "{character:Narration}She expressed her wish very seriously, which also calmed me down."
+  },
+  {
+    "line": 374,
+    "text": "{character:player}I understand. Since this is what you want to do for me, I will sit back and enjoy it."
+  },
+  {
+    "line": 375,
+    "text": "{character:Mai Aihara}Thank you, Master!"
+  },
+  {
+    "line": 376,
+    "text": "{character:Narration}Mai blushes shyly but doesn't seem flustered. She then starts to dance..."
+  },
+  {
+    "line": 379,
+    "text": "{character:Narration}With the bell in her hand, Mai plays it to a crisp rhythm in the meditation room that is illuminated by moonlight. She sings..."
+  },
+  {
+    "line": 381,
+    "text": "{character:Narration}While watching her dance and listening to her singing, I finally realize that Mai is no longer the same person as before."
+  },
+  {
+    "line": 385,
+    "text": "{character:Kana Fujita}Eh? You need my help again?"
+  },
+  {
+    "line": 386,
+    "text": "{character:player}Sorry, I'll thank you properly later."
+  },
+  {
+    "line": 387,
+    "text": "{character:Narration}I take the little girl to the broadcasting room in front of the torii. After broadcasting the news of her disappearance, I ask Kana to take care of her."
+  },
+  {
+    "line": 388,
+    "text": "{character:Kana Fujita}Okay, it's not a big deal to watch over her until her mother arrives. But you and Mai better remember to come support me at my next handshaking event, okay?"
+  },
+  {
+    "line": 389,
+    "text": "{character:player}Sure thing! We'll be there!"
+  },
+  {
+    "line": 390,
+    "text": "{character:Kana Fujita}Go to the square then. I'll send you a message later to keep you updated about the little girl."
+  },
+  {
+    "line": 391,
+    "text": "{character:Narration}After thanking Kana again, I hurry over to the square. More and more people are on their way there. It seems that the performance is about to start."
+  },
+  {
+    "line": 392,
+    "text": "{character:Narration}The crisp sound of the Kagura bell rings in my ears. I can see Mai standing on the stage."
+  },
+  {
+    "line": 393,
+    "text": "{character:Narration}Mai dances lightly to the solemn music on the stage. The white chihaya robe and red priestess skirt make Mai look like a red and white butterfly that is flying in the festival under the night sky. She dances to the music..."
+  },
+  {
+    "line": 394,
+    "text": "{character:Narration}The performance is a great success, and the laughter of the celebration lasts all night amidst the applause."
+  },
+  {
+    "line": 398,
+    "text": "{character:player}I think... Kaguyahime's version is closer to the truth."
+  },
+  {
+    "line": 399,
+    "text": "{character:Ichihime}M-Master! Why aren't you on my side? Why, nyaa!"
+  },
+  {
+    "line": 400,
+    "text": "{character:player}I'm sorry, Ichihime. I heard that Mai's grandpa is very strict, so refusing to organize festivals to protect her go-shintai sounds like something he would do."
+  },
+  {
+    "line": 401,
+    "text": "{character:Kaguyahime}Hehe, human, you're not beyond saving after all."
+  },
+  {
+    "line": 402,
+    "text": "{character:Ichihime}Nyaa..."
+  },
+  {
+    "line": 403,
+    "text": "{character:Narration}Now that we know what to do, Mai and I return to the Temple of Moons. It is getting late by this time."
+  },
+  {
+    "line": 404,
+    "text": "{character:Mai Aihara}Master... Can you take a look at the go-shintai with me? I don't understand why that is the reason."
+  },
+  {
+    "line": 405,
+    "text": "{character:player}Sure thing, but are you sure it's okay for an outsider like me to look at the precious go-shintai?"
+  },
+  {
+    "line": 406,
+    "text": "{character:Mai Aihara}You've always been helping me. To me... you're n-not an outsider."
+  },
+  {
+    "line": 407,
+    "text": "{character:Narration}Mai blushes and looks down at her toes like she is shy about her proposal. It seems that I have become someone Mai is willing to trust and rely on."
+  },
+  {
+    "line": 408,
+    "text": "{character:player}Of course."
+  },
+  {
+    "line": 409,
+    "text": "{character:Mai Aihara}Really? That's great, Master."
+  },
+  {
+    "line": 410,
+    "text": "{character:Narration}Mai raises her head and smiles brightly after I agree to her request."
+  },
+  {
+    "line": 411,
+    "text": "{character:Narration}Mai leads me to the meditation room located in the inner hall of the shrine. It is said that this is the oldest room of the Temple of Moons, and it is generally not open to the public."
+  },
+  {
+    "line": 412,
+    "text": "{character:Narration}Mai doesn't turn on the lights. Actually, it's more accurate to say that there are no lights installed here. Looking up, I see tall interior pillars that extend all the way to the roof. Unlike the other buildings of the shrine, this room still has a quaint style."
+  },
+  {
+    "line": 413,
+    "text": "{character:player}I see that the Temple of Moons has... a lot of history."
+  },
+  {
+    "line": 414,
+    "text": "{character:Mai Aihara}This place should have been repaired many times already, but it does indeed retain many traces of history."
+  },
+  {
+    "line": 415,
+    "text": "{character:Narration}Mai walks to a hanging scroll at the innermost part of the room and begins to rummage through the drawers."
+  },
+  {
+    "line": 416,
+    "text": "{character:Mai Aihara}Found it! This is the Kagura bell, the go-shintai that is passed down the Temple of Moons generation by generation."
+  },
+  {
+    "line": 417,
+    "text": "{character:Narration}She takes out a bell with colorful ribbons from the box. Moonlight shines onto the Kagura bell through the window, reflecting a golden brilliance."
+  },
+  {
+    "line": 418,
+    "text": "{character:Narration}Maybe it's because of the quaint appearance of the room, but I feel a solemn atmosphere. It almost feels like the combined will of the many priestesses of the Temple of Moons is guarding Mai, the successor of the shrine."
+  },
+  {
+    "line": 419,
+    "text": "{character:Mai Aihara}Ah... I remember now..."
+  },
+  {
+    "line": 420,
+    "text": "{character:Narration}Mai stares blankly for a while in the quiet meditation room before suddenly making a sound."
+  },
+  {
+    "line": 421,
+    "text": "{character:Mai Aihara}When I was little, grandma performed the Kagura dance with this bell in this meditation room!"
+  },
+  {
+    "line": 422,
+    "text": "{character:Narration}As if she is searching for her memories, Mai faces the center of the meditation room and shakes the go-shintai in her hand, making a crisp sound."
+  },
+  {
+    "line": 423,
+    "text": "{character:Mai Aihara}Grandpa sat here holding me while we watched grandma perform the dance... They all seemed very happy and blessed."
+  },
+  {
+    "line": 424,
+    "text": "{character:Narration}Mai's words surprise me. If what she is saying is true, that means what Ichihime said earlier was..."
+  },
+  {
+    "line": 425,
+    "text": "{character:player}So your grandpa didn't want to organize any more festivals because he misses your grandma?"
+  },
+  {
+    "line": 426,
+    "text": "{character:Mai Aihara}Yes! Both Ichihime and Kaguyahime are right. Grandpa refuses to organize any large events because he misses grandma and because he wants to protect the go-shintai..."
+  },
+  {
+    "line": 427,
+    "text": "{character:Mai Aihara}I kind of feel like I understand how grandpa feels now."
+  },
+  {
+    "line": 428,
+    "text": "{character:Narration}In front of me, Mai, who has learned the truth, is waving the Kagura bell excitedly. The serene moonlight seems to flow like water in response to its sound."
+  },
+  {
+    "line": 429,
+    "text": "{character:Narration}I look at the bell again and no longer feel the solemn atmosphere from before. The golden radiance of the go-shintai reminds me of the warmth of family."
+  },
+  {
+    "line": 431,
+    "text": "{character:Narration}Mai performs the Kagura dance for me, not as part of a festival, but as a performance for just me."
+  },
+  {
+    "line": 433,
+    "text": "{character:Narration}It gives off a wonderful feeling, like our love for our deceased loved ones has been revived."
+  },
+  {
+    "line": 436,
+    "text": "Encourage her to organize a festival"
+  },
+  {
+    "line": 438,
+    "text": "Ask her about her grandpa's reasoning"
+  },
+  {
+    "line": 439,
+    "text": "Trust Ichihime"
+  },
+  {
+    "line": 440,
+    "text": "Trust Kaguyahime"
+  },
+  {
+    "line": 441,
+    "text": ""
+  },
+  {
+    "line": 442,
+    "text": "Lantern riddle"
+  },
+  {
+    "line": 443,
+    "text": "Ring toss"
+  },
+  {
+    "line": 444,
+    "text": "Shooting balloons"
+  },
+  {
+    "line": 445,
+    "text": "Help the little girl find her mother"
+  },
+  {
+    "line": 446,
+    "text": "Get another staff member to help her"
+  },
+  {
+    "line": 447,
+    "text": ""
+  },
+  {
+    "line": 448,
+    "text": "Narration"
+  },
+  {
+    "line": 449,
+    "text": "Sora Ichinose"
+  },
+  {
+    "line": 450,
+    "text": "Nanaha Onodera"
+  },
+  {
+    "line": 451,
+    "text": "Kana Fujita"
+  },
+  {
+    "line": 452,
+    "text": "{character:Narration}A-37 is sitting in front of a booth, dusting the barrel of a gun with a sponge attached to a wire."
+  },
+  {
+    "line": 453,
+    "text": "A-37"
+  },
+  {
+    "line": 454,
+    "text": ""
+  },
+  {
+    "line": 455,
+    "text": "{character:Ichihime}Mai, if you say yes, we will be able to organize a festival together, nyaa!"
+  },
+  {
+    "line": 456,
+    "text": "{character:Kana Fujita}Eh? That sounds suspicious. Could this be the aura of love that is absolutely forbidden to idols?"
+  },
+  {
+    "line": 457,
+    "text": "{character:Narration}This is troublesome. She must have gotten lost in the festival. I look around and see more visitors here than before. Perhaps it is because the performance is about to start, but the road is very busy with people walking everywhere."
+  },
+  {
+    "line": 458,
+    "text": "{character:player}She is a lost child I ran into. Her parents didn't come even though we broadcasted her information."
+  },
+  {
+    "line": 459,
+    "text": "{character:player}No wonder nobody came to us at the torii... Huh? Hold on, did you just say they had a fight?"
+  },
+  {
+    "line": 460,
+    "text": "{character:Narration}Moonlight streams in from the window, bathing the still figure of Mai and creating a solemn atmosphere."
+  },
+  {
+    "line": 461,
+    "text": "{character:Mai Aihara}\"Above the torii, the moon hides in the dark clouds... Under the torii, the girl grasps the lapel of a friend's jacket.\""
+  },
+  {
+    "line": 463,
+    "text": "{character:Mai Aihara}Yes! The Temple of Moons and Mahjong Soul Shrine have a lot of shared history, and grandpa and everyone from the Mahjong Soul Shrine had known each other for a long time. Maybe he had mentioned something to them."
+  },
+  {
+    "line": 464,
+    "text": "{character:Mai Aihara}\"Noisy child, quieten down quickly. It is so noisy indeed.\""
+  },
+  {
+    "line": 465,
+    "text": "{character:Mai Aihara}\"Noisy child, rest in the arms of a loved one. It is so noisy indeed.\""
+  },
+  {
+    "line": 466,
+    "text": "{character:Narration}Mai is surprised by my proposal, and her face turns red afterward."
+  },
+  {
+    "line": 467,
+    "text": "{character:Mai Aihara}\"Above the torii, the moon wears a conical hat... Under the torii, the girl grasps the Kagura bell tightly.\""
+  },
+  {
+    "line": 468,
+    "text": "{character:Ichihime}After Mai's grandmother passed away, the old priest didn't organize a festival again because he was afraid of being reminded of her. Nyaa... how I miss the takoyaki sold at the festival of the Temple of Moons, nyaa."
+  },
+  {
+    "line": 469,
+    "text": "{character:Narration}Just when the atmosphere became a little heavy, Kana, who is here to change shifts with us, appears in the nick of time. She is an artist under Osamu's company, and she has come to participate in idol events at the festival today."
+  },
+  {
+    "line": 470,
+    "text": "{character:player}...Either way, I can't just leave a child here alone. What should I do?"
+  },
+  {
+    "line": 471,
+    "text": "{character:Narration}Mai seems to calm down after answering my question. She looks at the mother and daughter and slowly smiles."
+  },
+  {
+    "line": 472,
+    "text": "{character:Mai Aihara}Actually, sometimes I think that my mom must have her own reasons, and that she must miss me at a certain moment somewhere... Maybe I can reconcile with my mom and untie the knot in my heart one day."
+  },
+  {
+    "line": 473,
+    "text": "{character:Narration}The dance represents her efforts as a priestess, her determination to inherit the shrine from her grandfather, the loneliness she experienced in her childhood and her inner strength, and the recognition of her companions and herself. She sings..."
+  },
+  {
+    "line": 474,
+    "text": "{character:Sora Ichinose}No... But I read in a book that the larger the angular momentum of a circular object, the more stable it is... I haven't tried it myself though."
+  },
+  {
+    "line": 475,
+    "text": "{character:Narration}With my encouragement, Mai decides to try out the game, and A-37 takes a few minutes to teach her how to hold a gun."
+  }
+]

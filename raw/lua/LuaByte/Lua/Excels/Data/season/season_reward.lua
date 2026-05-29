@@ -1,0 +1,1 @@
+local a=require("ExcelTool")local b=a.Pack;local c=a.Sub;local d=a.PackGet;local e=a.Dmap;local f={["season_id"]=1,["rank_lower"]=2,["rank_upper"]=3,["rewards"]=1004}local g={1001,nil,nil,nil}local h=function(i,j)return d(i,j,f,g)end;local k={}k[1001]={b({false,1,1,"305522-1"},h),b({false,2,10,"305521-1"},h),b({false,11,100,"305520-1"},h)}return{tb=k}

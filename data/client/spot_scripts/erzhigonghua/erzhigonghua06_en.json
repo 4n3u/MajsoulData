@@ -1,0 +1,922 @@
+[
+  {
+    "line": 1,
+    "text": "The scorching sun in the sky is so hot that it makes people sweat uncontrollably. The sound of singing cicadas can be heard in the near distance. Although they are noisy, the summer vacation won't feel the same without this sound."
+  },
+  {
+    "line": 2,
+    "text": "During the summer vacation, not all students are able to hide leisurely from the heat at home with their air conditioners. Some clubs still have club activities during the vacation, and the gardening club is one of them. If the plants are left unattended during the summer vacation, everyone will be greeted with a terrible scene when school starts again."
+  },
+  {
+    "line": 3,
+    "text": "Hana Ninomiya is the only member of the gardening club, and I can't bear to let her take care of the plants alone in the sweltering heat, so I also come to help her take care of the plants when I have time."
+  },
+  {
+    "line": 4,
+    "text": "player"
+  },
+  {
+    "line": 5,
+    "text": "{character:player}Hmm, which potted plant did Ninomiya just say I shouldn't give too much water? I can't tell them apart since there are only a few small sprouting buds... Ninomiya, which of these two pots is the camellia?"
+  },
+  {
+    "line": 6,
+    "text": "Hana Ninomiya"
+  },
+  {
+    "line": 7,
+    "text": "{character:Hana Ninomiya}...Sigh."
+  },
+  {
+    "line": 8,
+    "text": "{character:player}Ninomiya?"
+  },
+  {
+    "line": 9,
+    "text": "{character:Hana Ninomiya}Oh! {var:player_nickname}, did you just say something to me?"
+  },
+  {
+    "line": 10,
+    "text": "{character:player}Yeah, I asked you which of these two pots is the camellia."
+  },
+  {
+    "line": 11,
+    "text": "{character:Hana Ninomiya}It's the one on your left. Sorry, my mind wandered and didn't hear you just then."
+  },
+  {
+    "line": 12,
+    "text": "{character:player}No problem. Are you feeling unwell? Shall we take a break?"
+  },
+  {
+    "line": 13,
+    "text": "{character:Hana Ninomiya}Okay."
+  },
+  {
+    "line": 14,
+    "text": "I move two chairs over and put them under a tree with a lot of shade for Hana Ninomiya to rest for a while."
+  },
+  {
+    "line": 15,
+    "text": "{character:Hana Ninomiya}Ah..."
+  },
+  {
+    "line": 16,
+    "text": "Hana Ninomiya's condition improves after drinking some water. She shakes the bottle of her drink and stares at the liquid inside, but her eyes aren't really focusing on it. Lately, her mind wandered like this from time to time. Sometimes, she sighs secretly with a distressed look on her face, as if she is worried about something."
+  },
+  {
+    "line": 17,
+    "text": "{character:player}Is something troubling you, Ninomiya?"
+  },
+  {
+    "line": 18,
+    "text": "{character:Hana Ninomiya}...It's not actually a big deal. I'm just worried about the recruitment of new club members after school starts. The summer vacation ends in a few days, but I'm not ready for it yet."
+  },
+  {
+    "line": 19,
+    "text": "{character:player}The gardening club is recruiting new members? That's a good thing. You won't have to do everything by yourself anymore, Ninomiya. You'll need to try harder to find more helpers."
+  },
+  {
+    "line": 20,
+    "text": "{character:Hana Ninomiya}I really will need to try harder. The vice president said that the gardening club will be shut down if we don't recruit any new members."
+  },
+  {
+    "line": 21,
+    "text": "{character:player}That sounds really serious... Huh? Wait a minute, why are things suddenly so serious that the gardening club will need to be shut down?"
+  },
+  {
+    "line": 22,
+    "text": "Although I agree that Hana Ninomiya needs to find some more helpers, the gardening club's activities have always gone well, so there shouldn't be much impact even if no new members join for a while."
+  },
+  {
+    "line": 23,
+    "text": "{character:Hana Ninomiya}The vice president has his own considerations, and what he's thinking is reasonable too... In short, I'll need to think of a way to recruit new members in the short amount of time remaining."
+  },
+  {
+    "line": 24,
+    "text": "\"What will happen to the potted plants if the gardening club is shut down?\" I have a lot of questions like this to ask Hana Ninomiya, but I know it will only add to her stress if I ask them now. I guess I should help her think of a way to recruit new members first."
+  },
+  {
+    "line": 25,
+    "text": "{character:Hana Ninomiya}Hmm? {var:player_nickname}, your phone is vibrating."
+  },
+  {
+    "line": 26,
+    "text": "I pull out my phone and look at the screen. Joseph sent me a text message."
+  },
+  {
+    "line": 27,
+    "text": "Joseph"
+  },
+  {
+    "line": 28,
+    "text": "{character:Joseph}(Text Message) Hi, partner! My flight wasn't delayed today. I'm already at the mahjong dojo!"
+  },
+  {
+    "line": 29,
+    "text": "{character:player}Oh... That's right, Joseph and I are supposed to meet at the mahjong dojo today."
+  },
+  {
+    "line": 30,
+    "text": "Joseph and I agreed to play mahjong together after he comes back after finishing the filming of his show, and I was planning on meeting up with him after helping Hana Ninomiya today."
+  },
+  {
+    "line": 31,
+    "text": "{character:Hana Ninomiya}Have you made plans to play mahjong with someone? You should go if they've already arrived."
+  },
+  {
+    "line": 32,
+    "text": "{character:player}But we haven't finished doing everything we need to do here today."
+  },
+  {
+    "line": 33,
+    "text": "{character:Hana Ninomiya}Don't worry. I asked Nana to meet up with me here. She'll help me."
+  },
+  {
+    "line": 34,
+    "text": "{character:player}...Okay then. In that case, you should rest in the shade for a little longer. Be careful of heat stroke."
+  },
+  {
+    "line": 35,
+    "text": "Although I'm still worried about member recruitment and want to help Hana Ninomiya think of some ideas before I leave, I better accept her kind intentions since she said I should go first."
+  },
+  {
+    "line": 36,
+    "text": "I clean the dirt from my hands at a nearby sink. When I return to pack my things, I see Hana Ninomiya sitting there frowning while in a daze again."
+  },
+  {
+    "line": 37,
+    "text": "{character:Hana Ninomiya}(whisper) How annoying... Things have been going well with just me anyway..."
+  },
+  {
+    "line": 38,
+    "text": "Am I thinking too much about this? It sounds like Hana Ninomiya isn't that interested in member recruitment."
+  },
+  {
+    "line": 39,
+    "text": "Soon after I leave the gardening club, I see a familiar figure about to leave the school in the near distance."
+  },
+  {
+    "line": 40,
+    "text": "{character:player}Vice president, are you also working overtime here during the vacation?"
+  },
+  {
+    "line": 41,
+    "text": "Ren Kisaragi"
+  },
+  {
+    "line": 42,
+    "text": "{character:Ren Kisaragi}Why are you here?"
+  },
+  {
+    "line": 43,
+    "text": "{character:player}The gardening club doesn't have enough people, so I've come to help out."
+  },
+  {
+    "line": 44,
+    "text": "{character:Ren Kisaragi}Oh, I see. Don't forget to register your departure time when you leave."
+  },
+  {
+    "line": 45,
+    "text": "{character:player}W-Wait! Don't leave so quickly. There's something I want to ask you."
+  },
+  {
+    "line": 46,
+    "text": "{character:Ren Kisaragi}My cousin needs to see me urgently, so make it quick."
+  },
+  {
+    "line": 47,
+    "text": "{character:player}I also need to meet someone, so I'll get right to the point. Aren't you rushing too much with the gardening club's recruitment? I even heard that the gardening club will be shut down if no new members are recruited."
+  },
+  {
+    "line": 48,
+    "text": "{character:Ren Kisaragi}Asaha High School requires all clubs to meet a minimum member requirement before they can conduct activities. I'm just following the regulations."
+  },
+  {
+    "line": 49,
+    "text": "{character:Ren Kisaragi}The recruitment period was already over when Ninomiya rebuilt the gardening club, so she was allowed to conduct club activities alone due to special circumstances. Now that the new semester is starting, she'll naturally need to recruit new members."
+  },
+  {
+    "line": 50,
+    "text": "{character:player}But the recruitment of new members is something that depends on fate. Can you give her more time? Does it have to be resolved at the beginning of the semester?"
+  },
+  {
+    "line": 51,
+    "text": "{character:Ren Kisaragi}The beginning of the school semester is the best time to recruit new members. Do you think she'll be able to recruit new members if she misses this golden period?"
+  },
+  {
+    "line": 52,
+    "text": "{character:Ren Kisaragi}Since Ninomiya has rebuilt the gardening club, it's her duty as the club president to recruit more members and run the club smoothly. Since you've come to help her a few times, you should know very clearly that it's unrealistic for her to do everything in the club."
+  },
+  {
+    "line": 53,
+    "text": "{character:Ren Kisaragi}Isn't Ninomiya always saying that she wants to make herself more noticeable to others? However, based on her current situation, she's still one of those students who doesn't fit in. She won't manage to achieve what she wants by just working hard at the mahjong table while refusing to spend any effort on group activities of the club."
+  },
+  {
+    "line": 54,
+    "text": "Although Ren Kisaragi is stating his rational views coldly, I can hear that he also cares about Hana Ninomiya in his own way."
+  },
+  {
+    "line": 55,
+    "text": "Whether it is to share the workload of the club or expand her social circle to make herself more noticeable, like Ren Kisaragi said, it isn't a bad thing for Hana Ninomiya to recruit new members. However..."
+  },
+  {
+    "line": 56,
+    "text": "{character:player}I have another question. What has Ninomiya said about the recruitment of new members? Has she mentioned anything along the lines of... not wanting to recruit new members?"
+  },
+  {
+    "line": 57,
+    "text": "{character:Ren Kisaragi}No. I reminded her about this before the summer vacation started. She said she will think carefully about the recruitment of new members during the vacation."
+  },
+  {
+    "line": 58,
+    "text": "{character:player}I see... Sorry, I ended up asking you about so many things."
+  },
+  {
+    "line": 59,
+    "text": "{character:Ren Kisaragi}That's okay. If that's all, I'll be heading off first."
+  },
+  {
+    "line": 60,
+    "text": "{character:Ren Kisaragi}...And remember to register your departure time."
+  },
+  {
+    "line": 61,
+    "text": "{character:player}Is there something on my face that says \"I won't register my departure time\"?"
+  },
+  {
+    "line": 62,
+    "text": "Since Hana Ninomiya told Ren Kisaragi that she'll think carefully about the recruitment of new members, did she mumble that complaint to herself when I left because she is anxious about not being ready for the recruitment?"
+  },
+  {
+    "line": 63,
+    "text": "I guess that makes sense though. It is inevitable that she'll feel a little anxious as it's getting closer and closer to the start of the semester. It's been a while since the summer vacation started. If she discussed this with me earlier, we would have had more time to think of a solution."
+  },
+  {
+    "line": 64,
+    "text": "{character:player}Anyway, it's useless to think about that now. I'll go online and search about recruitment-related matters after I get home tonight so I can give her some ideas when we meet next time."
+  },
+  {
+    "line": 65,
+    "text": "During my break while helping out at the gardening club, I take out the notebook I brought with me."
+  },
+  {
+    "line": 66,
+    "text": "{character:player}Ninomiya, what ideas have you got about the recruitment of new club members so far? If you haven't got any yet, we can discuss it while we're resting."
+  },
+  {
+    "line": 67,
+    "text": "{character:Hana Ninomiya}Eh? I-It's okay. This matter is quite troublesome, so I'll just take my time thinking about it. You've already given me a lot of help."
+  },
+  {
+    "line": 68,
+    "text": "{character:player}It's easier to come up with ideas when there are more people thinking. There isn't much time until school starts again, so we should think of something now so that we can enjoy the rest of the vacation with peace of mind."
+  },
+  {
+    "line": 69,
+    "text": "{character:player}I won't be able to come over and help out as much later, so you won't need to work so hard if you manage to recruit more members. I'll also feel more at ease."
+  },
+  {
+    "line": 70,
+    "text": "{character:Hana Ninomiya}...I understand."
+  },
+  {
+    "line": 71,
+    "text": "{character:Hana Ninomiya}You're right... You can't come all the time. In fact, I've been causing you a lot of trouble all this time..."
+  },
+  {
+    "line": 72,
+    "text": "A trace of disappointment flashes across Hana Ninomiya's face, but before I can think deeply about it, she turns to enter the clubroom and takes a laptop out of the room."
+  },
+  {
+    "line": 73,
+    "text": "{character:Hana Ninomiya}I've drawn a poster for the club recruitment over the last few days. Can you take a look at it for me?"
+  },
+  {
+    "line": 74,
+    "text": "{character:player}Okay, it's a good idea to use a poster to attract new students to learn more about the club... Eh?"
+  },
+  {
+    "line": 75,
+    "text": "Hmm... displayed on the screen is a poster that is somewhat confusing. The words \"the gardening club is recruiting new members\" are clearly visible, but... I can't seem to identify what is drawn on the poster."
+  },
+  {
+    "line": 76,
+    "text": "{character:Hana Ninomiya}{var:player_nickname}, what... do you think about it?"
+  },
+  {
+    "line": 77,
+    "text": "Although I want to reply tactfully, the poster is the club's first impression for new students, so I decide to be honest."
+  },
+  {
+    "line": 78,
+    "text": "{character:player}To be honest... I can't really tell what you've drawn."
+  },
+  {
+    "line": 79,
+    "text": "{character:Hana Ninomiya}It's a girl who is wearing a dress and holding a sunflower. Look, here's the head, and here's the sunflower..."
+  },
+  {
+    "line": 80,
+    "text": "{character:player}Ohhhhh..."
+  },
+  {
+    "line": 81,
+    "text": "After hearing Hana Ninomiya's explanation, I am able to barely see a girl holding a sunflower instead of a girl who is wearing an apron and cooking with a slotted spoon..."
+  },
+  {
+    "line": 82,
+    "text": "Hana Ninomiya worked really hard to draw this poster for the club recruitment. I need to do my best to identify what it is and encourage her."
+  },
+  {
+    "line": 83,
+    "text": "{character:player}Um... Is this a girl who is wearing an apron and cooking with a slotted spoon? Um... the art is quite... abstract... but what does it have to do with the gardening club?"
+  },
+  {
+    "line": 84,
+    "text": "{character:Hana Ninomiya}This is a girl who is wearing a dress and holding a sunflower."
+  },
+  {
+    "line": 85,
+    "text": "{character:player}Er... R-Really?"
+  },
+  {
+    "line": 86,
+    "text": "{character:Hana Ninomiya}Thank you for your objective evaluation. It looks like other people really won't be able to understand this poster..."
+  },
+  {
+    "line": 87,
+    "text": "{character:Hana Ninomiya}Sigh... It's so hard trying to do this at the last minute. I've always had this problem. Everything looks so easy when I read about it in a book, but I always mess things up when I try to do it."
+  },
+  {
+    "line": 88,
+    "text": "{character:Hana Ninomiya}I guess it really is impossible to master drawing with a digital tablet after reading a few reference books..."
+  },
+  {
+    "line": 89,
+    "text": "{character:player}In all fairness, I think your way of thinking is quite disrespectful to art students. By the way, how much money did you spend on the digital tablet?"
+  },
+  {
+    "line": 90,
+    "text": "{character:Hana Ninomiya}It's a second-hand item I got from the online resale platform. I'll get rid of it tonight."
+  },
+  {
+    "line": 91,
+    "text": "{character:player}That's a reasonable decision... Let's forget about the club poster for now. In the worst case scenario, I can ask a manga artist I know for help."
+  },
+  {
+    "line": 92,
+    "text": "Even though procrastination is her greatest problem..."
+  },
+  {
+    "line": 93,
+    "text": "{character:player}In addition to the poster, you can also prepare some brochures to introduce the gardening club. It would be even better if we can make some promotional videos."
+  },
+  {
+    "line": 94,
+    "text": "{character:Hana Ninomiya}About this, the reason I was meeting up with Nana here the other day was to make a promotional video. Do you want to see the video we made?"
+  },
+  {
+    "line": 95,
+    "text": "{character:player}Of course! Show me now."
+  },
+  {
+    "line": 96,
+    "text": "Hana Ninomiya opens a video on the desktop of her laptop. The first thing I see is the gate of Asaha High School under a blue sky and white clouds."
+  },
+  {
+    "line": 97,
+    "text": "\"This is Asaha High School, a place with beautiful mornings and sunny afternoons.\""
+  },
+  {
+    "line": 98,
+    "text": "While listening to Hana Ninomiya's narration, the courtyard of the gardening club appears on the screen. Under the sun, the potted plants that have just been watered are exuding vitality..."
+  },
+  {
+    "line": 99,
+    "text": "\"When I saw this empty courtyard for the first time, I was a little uneasy because I was the only person there, but now that I have all these plants here, I can see exciting changes every day.\""
+  },
+  {
+    "line": 100,
+    "text": "In the end, a few words appear slowly in the center of the screen: \"We look forward to doing exciting club activities with you! Come join us at the Asaha High School gardening club.\""
+  },
+  {
+    "line": 101,
+    "text": "{character:Hana Ninomiya}What do you think about this promotional video?"
+  },
+  {
+    "line": 102,
+    "text": "{character:player}It's quite good and looks decent, but... why couldn't I see you in the video at all?"
+  },
+  {
+    "line": 103,
+    "text": "{character:Hana Ninomiya}I did appear in it. Look, that's me..."
+  },
+  {
+    "line": 104,
+    "text": "I look at where Hana Ninomiya is pointing and see her hands appear momentarily while she loosens the soil and her ankle appear momentarily while she waters the flowers... In short, there is no clear shot of her in the video. The last time I watched a video so seriously was when I was looking for ghosts in the corner of a video about paranormal things..."
+  },
+  {
+    "line": 105,
+    "text": "{character:player}Ninomiya, don't you think the promotional video would be more effective if you appear on the screen and interact with plants?"
+  },
+  {
+    "line": 106,
+    "text": "{character:Hana Ninomiya}Nana also said that, but I think that it's best to focus on plants since the video is meant to promote the gardening club. It's also a way to present the results of our efforts."
+  },
+  {
+    "line": 107,
+    "text": "{character:player}Um... You have a point."
+  },
+  {
+    "line": 108,
+    "text": "{character:player}Well, since we have a promotional video, we just need to draw a new poster and prepare some gifts for member recruitment."
+  },
+  {
+    "line": 109,
+    "text": "{character:Hana Ninomiya}It's getting late. Why don't we finish up with the rest of the work first? We can discuss member recruitment when we eat later."
+  },
+  {
+    "line": 110,
+    "text": "{character:player}You're right. I'll turn off your computer first then... Hmm? What's this Promotional Video 2 in the playlist? Did you make other videos?"
+  },
+  {
+    "line": 111,
+    "text": "{character:Hana Ninomiya}Ah! No! Y-You're not allowed to watch that one!"
+  },
+  {
+    "line": 112,
+    "text": "Before Hana Ninomiya can finish speaking, I already started playing the file called Promotional Video 2. She leans over and uses the touchpad in a hurry to try to stop the video but fails. In the end, she holds my face and turns it to one side."
+  },
+  {
+    "line": 113,
+    "text": "{character:Hana Ninomiya}L-Look somewhere else! This video won't be used!"
+  },
+  {
+    "line": 114,
+    "text": "{character:player}Ninomiya, don't you know that telling someone they aren't allowed to do something only makes them want to do it more...?"
+  },
+  {
+    "line": 115,
+    "text": "I struggle to get a clear look at the screen. \"Hana, don't be shy. Come here and say a few words to the camera.\" In the video, Hana Ninomiya, who is wearing a white dress, is pushed in front of the camera by Nana Shiraishi. She blushes as she picks up the microphone and stutters as she says something related to the recruitment. At the same time, she rubs the hem of her skirt from time to time with her other hand because she doesn't know what to do with it. She looks so cute when she is embarrassed like this."
+  },
+  {
+    "line": 116,
+    "text": "{character:player}By the way, I saw a white cloth flash by in the corner of the other video a few times. Were you also wearing this dress in that video?"
+  },
+  {
+    "line": 117,
+    "text": "{character:Hana Ninomiya}Nana said that it isn't necessary to rigidly wear the school uniform since this is a promotional video, so I brought a new dress I bought recently... But I didn't feel comfortable wearing plain clothes in the video, so I have no intention to use this video."
+  },
+  {
+    "line": 118,
+    "text": "{character:Hana Ninomiya}O-Okay! You've already seen it. You can turn it off now..."
+  },
+  {
+    "line": 119,
+    "text": "Haha! So the reason she doesn't want me to see this video is because she is embarrassed. It's such a shame. As I thought, Hana Ninomiya is quite attractive if she just dresses up a little bit. This Promotional Video 2 should be quite effective as a promotional video, but it's better to not use it if she doesn't want to use it."
+  },
+  {
+    "line": 120,
+    "text": "{character:player}This video has given me some inspiration. Ninomiya, if we take a screenshot of this part where you're hugging a sunflower, we can print this and use it as our poster."
+  },
+  {
+    "line": 121,
+    "text": "{character:Hana Ninomiya}Um... Wouldn't that be strange?"
+  },
+  {
+    "line": 122,
+    "text": "{character:player}Of course not. Your cuteness combined with the vibrant plants in the promotional video will definitely attract lots of new members. This is great! You don't need to worry about the poster now."
+  },
+  {
+    "line": 123,
+    "text": "{character:Hana Ninomiya}I think you're being too optimistic. I wouldn't be such a transparent person if all it takes to catch people's attention is a change of clothes... By the way, why do you seem more excited about our progress than me?"
+  },
+  {
+    "line": 124,
+    "text": "{character:player}You'll be able to take it easy after you manage to recruit some new members. You'll also be able to make new friends, so of course I'm happy for you. But..."
+  },
+  {
+    "line": 125,
+    "text": "{character:player}But if you don't want to recruit any new members at this time, you also don't need to force yourself."
+  },
+  {
+    "line": 126,
+    "text": "{character:Hana Ninomiya}Eh? Why would you say that?"
+  },
+  {
+    "line": 127,
+    "text": "{character:player}When I was about to leave after washing my hands last time, I heard you say something like \"things have been going well with just me anyway.\" Also, when I told you we would be discussing member recruitment today, you didn't look very happy either."
+  },
+  {
+    "line": 128,
+    "text": "{character:player}It's also been a while since the summer vacation started, so you probably would've started preparing sooner if you really wanted to recruit new members. That's why I started thinking that you didn't really want to."
+  },
+  {
+    "line": 129,
+    "text": "{character:Hana Ninomiya}I didn't expect you to hear my complaining... I was so busy being worried that day that I didn't notice you were beside me."
+  },
+  {
+    "line": 130,
+    "text": "{character:Hana Ninomiya}Sigh... You're right. I really don't want to recruit any new members in the near future."
+  },
+  {
+    "line": 131,
+    "text": "I'm guessing that the reason Hana Ninomiya doesn't want to recruit new members is related to having new interpersonal relationships."
+  },
+  {
+    "line": 132,
+    "text": "She once said that the president of the gardening club she was in during junior high school had social anxiety disorder. As far as I know, Hana Ninomiya doesn't have social anxiety disorder, but dealing with new interpersonal relationships is a problem for most people. As the president, she'll need to consider how to communicate with others and how to create a good atmosphere in the club, which will inevitably make her feel stressed."
+  },
+  {
+    "line": 133,
+    "text": "But this is just my guess. Only Hana Ninomiya will know the real reason. But since she hasn't told me, it isn't necessary for me to ask her either. I just hope she won't force herself to face a difficult situation because of the school's regulations."
+  },
+  {
+    "line": 134,
+    "text": "{character:player}You agreed directly when Ren Kisaragi talked to you about this matter. Why didn't you tell him what you really think?"
+  },
+  {
+    "line": 135,
+    "text": "{character:Hana Ninomiya}I know the vice president told me to recruit new members because he cares about me and the club, so I couldn't really say no to him at that time. Also, you know what the vice president is like... The gardening club's current situation is already a violation of the school regulations. At that time, I just couldn't tell him that I didn't want to recruit new members."
+  },
+  {
+    "line": 136,
+    "text": "{character:player}Well, it's not too late now. Shall we try to talk to Ren Kisaragi about this?"
+  },
+  {
+    "line": 137,
+    "text": "{character:Hana Ninomiya}Haha... Do you think you'll be able to convince him to let the gardening club continue like this? I'm glad that you understand how I feel about this, but I suggest that you give up on doing something that is impossible."
+  },
+  {
+    "line": 138,
+    "text": "{character:player}You seem to have a misunderstanding. I didn't say that the gardening club won't recruit new members."
+  },
+  {
+    "line": 139,
+    "text": "{character:Hana Ninomiya}Huh? What do you mean?"
+  },
+  {
+    "line": 140,
+    "text": "{character:player}In a moment like this, we need to thank our predecessors for being so wise. Hehe, I've thought of a good idea..."
+  },
+  {
+    "line": 141,
+    "text": "On the next day, Hana Ninomiya and I go to the student council office to look for Ren Kisaragi with two other people."
+  },
+  {
+    "line": 142,
+    "text": "{character:Hana Ninomiya}Vice president, these two are new members I've recruited. The gardening club doesn't need to recruit any new members, so I want to remove the gardening club's recruitment booth at the beginning of the semester."
+  },
+  {
+    "line": 143,
+    "text": "{character:Ren Kisaragi}These... are your so-called new members?"
+  },
+  {
+    "line": 145,
+    "text": "Ren Kisaragi looks at Nana Shiraishi and Eliisa standing beside us, then he stares at me."
+  },
+  {
+    "line": 146,
+    "text": "{character:Ren Kisaragi}This is your idea?"
+  },
+  {
+    "line": 147,
+    "text": "{character:player}This is the best outcome that Ninomiya and I came up with after discussing this matter. Isn't that right?"
+  },
+  {
+    "line": 148,
+    "text": "{character:Hana Ninomiya}Y-Yes."
+  },
+  {
+    "line": 149,
+    "text": "My idea is to copy what Usumi Ishihara did to save the pastry club - find people to become nominal members of the gardening club."
+  },
+  {
+    "line": 150,
+    "text": "Naturally, Ren Kisaragi sees right through my little ploy. A look of obvious annoyance appears on the vice president's face. Evidently, he has recalled some unpleasant memories."
+  },
+  {
+    "line": 151,
+    "text": "{character:Ren Kisaragi}Is the gardening club planning on changing its name to the problem children club? I hope you're not intentionally making trouble for me when I'm at my busiest."
+  },
+  {
+    "line": 152,
+    "text": "Nana Shiraishi"
+  },
+  {
+    "line": 153,
+    "text": "{character:Nana Shiraishi}Hey! Vice president, that doesn't sound very nice. Liisa Liisa and I are serious about joining the gardening club. I often help out at the gardening club, you know."
+  },
+  {
+    "line": 154,
+    "text": "Eliisa"
+  },
+  {
+    "line": 155,
+    "text": "{character:Eliisa}Y-Yeah! Liisa Liisa and Shaun are looking forward to joining the gardening club!"
+  },
+  {
+    "line": 156,
+    "text": "{character:Hana Ninomiya}H-Hold on! Eliisa, the potted plants in the club are not for eating. Some of the plants are bad for Shaun's health!"
+  },
+  {
+    "line": 157,
+    "text": "{character:Eliisa}You don't need to worry about that, Hana. Shaun just likes to play in a place where there are lots of plants... I think."
+  },
+  {
+    "line": 158,
+    "text": "{character:Ren Kisaragi}...Even if they are serious about joining the club, each club needs at least four members."
+  },
+  {
+    "line": 159,
+    "text": "{character:player}Do honorary members count?"
+  },
+  {
+    "line": 160,
+    "text": "{character:Ren Kisaragi}What do you think? Also, at least one of the members must be a new student in their first year of high school."
+  },
+  {
+    "line": 161,
+    "text": "{character:player}Oh, that's not a problem. She's almost here."
+  },
+  {
+    "line": 162,
+    "text": "Ransei"
+  },
+  {
+    "line": 163,
+    "text": "{character:Ransei}I'm sorry, Master. I was held up by something."
+  },
+  {
+    "line": 164,
+    "text": "Ransei arrives just as I mention her. Everyone we contacted last night has arrived."
+  },
+  {
+    "line": 165,
+    "text": "{character:player}The new semester hasn't started yet, so Ransei is still a first-year student. There's nothing else you can pick on now, right?"
+  },
+  {
+    "line": 166,
+    "text": "{character:Ren Kisaragi}...The school allocates limited funds to clubs every year, so I won't allow any clubs that don't conduct activities seriously to exist. Ninomiya, can you guarantee that these people will participate in club activities properly?"
+  },
+  {
+    "line": 167,
+    "text": "{character:Hana Ninomiya}Vice president, please let me apologize to you first. I'm really sorry about this. I should have started preparing to recruit new students right after I rebuilt the gardening club, but I've dragged it out until now. I know that you only asked me to start recruiting new members because you care about me and the gardening club. Thank you for that."
+  },
+  {
+    "line": 168,
+    "text": "{character:Hana Ninomiya}Although Nana and Eliisa are new to gardening, they are both my good friends. As fellow problem children, we often end up doing physical labor together voluntarily when we get punished, so I don't need to worry about our tacit understanding at least. I'll take responsibility for teaching them gardening knowledge."
+  },
+  {
+    "line": 169,
+    "text": "{character:Ren Kisaragi}It's your freedom to maintain your current social circle, but have you considered what will happen to the gardening club after you graduate?"
+  },
+  {
+    "line": 170,
+    "text": "{character:Hana Ninomiya}I know what you're worried about, but I'm not mentally ready for it yet. If I face my new juniors who join the club with a half-hearted attitude, I don't think I'll be a good club president."
+  },
+  {
+    "line": 171,
+    "text": "{character:Hana Ninomiya}That's why I hope you can give me some more time. I'll do my best to prepare myself for the club recruitment in the next semester!"
+  },
+  {
+    "line": 172,
+    "text": "{character:Ren Kisaragi}...Don't forget what you just said. I'll be watching the gardening club's activities closely this semester."
+  },
+  {
+    "line": 173,
+    "text": "{character:player}(whisper) Phew... this matter is over now."
+  },
+  {
+    "line": 174,
+    "text": "And so, the matter of the gardening club's member recruitment was put on hold for now. Nana Shiraishi and the others say goodbye to us and leave one after the other. As it's still early, Hana Ninomiya and I decide to go back to the gardening club to loosen the soil of the potted plants and water them."
+  },
+  {
+    "line": 175,
+    "text": "{character:player}Although they're only nominal members, since they've joined the club now, don't go easy on them, Ninomiya. Make them do some work. Who knows when Ren Kisaragi will come here to conduct an inspection."
+  },
+  {
+    "line": 176,
+    "text": "{character:Hana Ninomiya}Don't forget that you promised to buy each of them milk tea for a whole week to thank them for helping."
+  },
+  {
+    "line": 177,
+    "text": "{character:player}All the more reason to make them come and work then! If they don't, the money I spend on buying them milk tea will be wasted!"
+  },
+  {
+    "line": 178,
+    "text": "If there are only two people, it'll be very busy even if there are only simple tasks to do."
+  },
+  {
+    "line": 179,
+    "text": "But... when I look at the smile on Hana Ninomiya's face, I think it would be nice if this time that belongs only to the two of us lasts for just a little longer..."
+  },
+  {
+    "line": 180,
+    "text": "{character:player}Maybe I'm thinking too much about it, but Ninomiya, do you... actually not want to recruit new members?"
+  },
+  {
+    "line": 181,
+    "text": "{character:Hana Ninomiya}Eh... You... How did you find out?"
+  },
+  {
+    "line": 182,
+    "text": "{character:player}When I was about to leave after washing my hands last time, I heard you say something like \"things have been going well with just me anyway.\" That gave me a vague feeling that this might be the case. Anyway, your words indicate that I'm right about this."
+  },
+  {
+    "line": 183,
+    "text": "{character:player}Ninomiya, are you worried that you might not get along with the new members of the club?"
+  },
+  {
+    "line": 184,
+    "text": "How to manage interpersonal relationships with newcomers is difficult both at school and in the workplace. As the president, Hana Ninomiya will need to consider how to communicate with others and how to create a good atmosphere in the club, which will inevitably make her feel stressed."
+  },
+  {
+    "line": 185,
+    "text": "{character:Hana Ninomiya}Well... I've always been doing everything at the gardening club by myself. It's a lot of work to take care of flowers and plants, and I'm worried that my juniors will think I'm annoying. I also don't know whether I'll be a good president who can lead my juniors to complete club activities smoothly."
+  },
+  {
+    "line": 186,
+    "text": "{character:Hana Ninomiya}But these troubles will only exist if we manage to recruit new members. Maybe no one will notice me when we are recruiting new members. That would be embarrassing, and..."
+  },
+  {
+    "line": 187,
+    "text": "{character:Hana Ninomiya}What will I do if you never come back again..."
+  },
+  {
+    "line": 188,
+    "text": "Hana Ninomiya is sitting down against the wall and hugging her knees with her hands while looking at me slightly sadly. Her words and her attitude leave me a little confused."
+  },
+  {
+    "line": 189,
+    "text": "{character:player}Why would you think that I would never come back again?"
+  },
+  {
+    "line": 190,
+    "text": "{character:Hana Ninomiya}I know that you're proactively helping me think of ideas to recruit new members because you want to find other people to share my burden. I know you have good intentions..."
+  },
+  {
+    "line": 191,
+    "text": "{character:Hana Ninomiya}But I can't help but wonder... if you're so eager to find other people to help me because you think that helping me with the gardening club is too troublesome..."
+  },
+  {
+    "line": 192,
+    "text": "{character:player}Um... Ninomiya, you're worried about nothing. I'll come to help you as long as you ask me to."
+  },
+  {
+    "line": 193,
+    "text": "{character:Hana Ninomiya}I know I'm worried about nothing, but...! Once we recruit new gardening club members, I'll definitely get fewer opportunities to spend time alone with you like this..."
+  },
+  {
+    "line": 194,
+    "text": "{character:Hana Ninomiya}Although it's very tiring to take care of the plants all the time, when I get to be busy with you during the vacation like this, I feel happy no matter how tough it is. After all... we have so many shared memories here... I-I really feel very happy..."
+  },
+  {
+    "line": 195,
+    "text": "...Yes, we have a lot of shared memories here. We have been busy here, been happy here, and even had one of our very few conflicts here. However, that conflict brought us closer to each other."
+  },
+  {
+    "line": 196,
+    "text": "{character:player}I also feel very happy that I have been able to tend to these flowers and plants here with you, Ninomiya. I dare say that I know better than anyone else how much effort you've put into tending to them... That's precisely why I think it's such a pity."
+  },
+  {
+    "line": 197,
+    "text": "{character:Hana Ninomiya}Such a pity?"
+  },
+  {
+    "line": 198,
+    "text": "{character:player}I want to let more new students of Asaha High School know that they have a senpai called Hana Ninomiya who rebuilt the abandoned gardening club and single-handedly made these potted plants bloom so beautifully."
+  },
+  {
+    "line": 199,
+    "text": "Just like how beautiful plants should not be buried, a girl as outstanding as Hana Ninomiya deserves to be known to more people."
+  },
+  {
+    "line": 200,
+    "text": "{character:player}I promise you that I'll still come here to help out from time to time even if the club manages to recruit new members. We can let the club members take a break from club activities during school vacations, then we'll be able to take care of everything by ourselves like we are doing now."
+  },
+  {
+    "line": 201,
+    "text": "{character:player}Trust me, Ninomiya. There will be a lot of time that belongs exclusively to us in the future."
+  },
+  {
+    "line": 202,
+    "text": "{character:Hana Ninomiya}...You better keep your word."
+  },
+  {
+    "line": 203,
+    "text": "{character:player}Yes! It's a promise!"
+  },
+  {
+    "line": 204,
+    "text": "I hope this promise will give Hana Ninomiya the courage to keep moving forward and make a fresh start..."
+  },
+  {
+    "line": 205,
+    "text": "Time flies like an arrow. The summer vacation ends in the blink of an eye, and even the first week of school has passed."
+  },
+  {
+    "line": 206,
+    "text": "After school on Friday, I ask Nana Shiraishi and Hana Ninomiya to meet me at a restaurant so I can ask them how the recruitment of new gardening club members has been going."
+  },
+  {
+    "line": 207,
+    "text": "{character:Nana Shiraishi}Junior, your idea is great! The effect of using the photo of Hana in that dress as the poster is amazing!"
+  },
+  {
+    "line": 208,
+    "text": "{character:Hana Ninomiya}Geez... Should I say that it was too effective...? All the boys who came at the beginning were only interested in asking about the girl in the photo."
+  },
+  {
+    "line": 209,
+    "text": "{character:Nana Shiraishi}I get so angry when you mention that. Hana was sitting right in front of them... Are they blind?!"
+  },
+  {
+    "line": 210,
+    "text": "{character:Hana Ninomiya}The shop {var:player_nickname} found is so unreliable. They went overboard with the editing."
+  },
+  {
+    "line": 211,
+    "text": "{character:player}I feel wronged! I only asked the shop to enlarge that photo and print it."
+  },
+  {
+    "line": 212,
+    "text": "All I can say is that Hana Ninomiya really is a lot prettier in a dress, especially when she is smiling brightly like in the photo, which makes her look completely different."
+  },
+  {
+    "line": 213,
+    "text": "I hope she can also smile so kindly at the mahjong table next time."
+  },
+  {
+    "line": 214,
+    "text": "{character:player}What happened in the end? Did you manage to recruit any new members?"
+  },
+  {
+    "line": 215,
+    "text": "{character:Hana Ninomiya}We recruited three juniors who are interested in the gardening club and managed to meet the minimum member requirement."
+  },
+  {
+    "line": 216,
+    "text": "{character:player}How are you getting along with the new members?"
+  },
+  {
+    "line": 217,
+    "text": "{character:Nana Shiraishi}Speaking of this, hehe, I never realized that Hana is such a natural at being the president. I heard that she scared one of the juniors so badly that she started crying on the first day."
+  },
+  {
+    "line": 218,
+    "text": "{character:Hana Ninomiya}That's not true! I... I just got a little anxious when I spoke because I didn't think she was using the right method. I apologized to her afterwards! I'll be more careful next time..."
+  },
+  {
+    "line": 219,
+    "text": "{character:player}You're still an inexperienced club president after all. You'll need more time to get used to this identity. You can do it, President Ninomiya!"
+  },
+  {
+    "line": 220,
+    "text": "{character:Hana Ninomiya}By the way, {var:player_nickname}, do you have the time to come to the club tomorrow?"
+  },
+  {
+    "line": 221,
+    "text": "{character:player}Sure thing. What do you need me for? Is there a lot to do now that school has started again?"
+  },
+  {
+    "line": 222,
+    "text": "{character:Hana Ninomiya}That's not it. I want to introduce you to our juniors. After all, you're... an honorary member of our gardening club! Other than me, you're the most reliable person, so we'll be relying on you to help out when I'm not available!"
+  },
+  {
+    "line": 223,
+    "text": "{character:player}Whoa... You're even going to introduce me properly. I'm getting nervous now since it sounds so serious."
+  },
+  {
+    "line": 224,
+    "text": "But since this is the club president's request, there's no reason for me, an honorary member of the gardening club, to say no, right?"
+  },
+  {
+    "line": 225,
+    "text": ""
+  },
+  {
+    "line": 226,
+    "text": "Several days later"
+  },
+  {
+    "line": 227,
+    "text": "Answer truthfully"
+  },
+  {
+    "line": 228,
+    "text": "Answer tactfully"
+  },
+  {
+    "line": 229,
+    "text": "Persuade Hana Ninomiya to not force herself"
+  },
+  {
+    "line": 230,
+    "text": "Ask her if she actually doesn't want to recruit new members"
+  },
+  {
+    "line": 231,
+    "text": "The first few days after the summer vacation ends"
+  }
+]

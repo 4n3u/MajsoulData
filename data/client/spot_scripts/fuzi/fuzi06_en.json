@@ -1,0 +1,1914 @@
+[
+  {
+    "line": 1,
+    "text": "This story started... three days before another summer weekend soon after my trip with Nadeshiko."
+  },
+  {
+    "line": 2,
+    "text": "player"
+  },
+  {
+    "line": 3,
+    "text": "{character:player}...Your birthday party?!"
+  },
+  {
+    "line": 4,
+    "text": "For a short moment, my suddenly raised voice covers the chirping of cicadas who are focused on creating a midsummer atmosphere outside the window. Originally leaning lazily on the sofa, I suddenly sit up straight."
+  },
+  {
+    "line": 5,
+    "text": "Nadeshiko"
+  },
+  {
+    "line": 6,
+    "text": "{character:Nadeshiko}My birthday is just an excuse. I mainly want to hang out with my friends. Remember to keep the weekend free."
+  },
+  {
+    "line": 7,
+    "text": "{character:player}Haha, thanks for inviting me. I'll be there."
+  },
+  {
+    "line": 8,
+    "text": "My excited expression in the video call window on the mobile phone is a stark contrast to Nadeshiko's calm expression. Fortunately, after getting to know her better over this time, I am now able to clearly identify the signs of joy under her stern expression."
+  },
+  {
+    "line": 9,
+    "text": "{character:Nadeshiko}Yea, I'll come over to pick you up. Well, I gotta go. Chat later."
+  },
+  {
+    "line": 10,
+    "text": "{character:player}...Oh, what's the add..."
+  },
+  {
+    "line": 11,
+    "text": "Beep—"
+  },
+  {
+    "line": 12,
+    "text": "The video call has ended, leaving a callous combination of words and numbers on the screen: Call duration: 00:01:02."
+  },
+  {
+    "line": 13,
+    "text": "{character:player}...You didn't tell me the address..."
+  },
+  {
+    "line": 14,
+    "text": "Fine. Even though we've gotten closer, I still need to adapt to Nadeshiko's extremely direct and simple way of chatting. Just as I open the messaging app to send her my question, a message notification pops up at the top of the screen."
+  },
+  {
+    "line": 15,
+    "text": "[Message]"
+  },
+  {
+    "line": 17,
+    "text": "{character:player}I know, right?... Wait, what's this?"
+  },
+  {
+    "line": 18,
+    "text": "When I take a closer look, I see this message that seems to be talking directly to my inner thoughts is from an unfamiliar group chat called \"Ultimate Challenge.\" My finger moves away from my chat with Nadeshiko and taps this group chat instead. After that several new messages pop up in the group chat."
+  },
+  {
+    "line": 19,
+    "text": "Chihori Terasaki"
+  },
+  {
+    "line": 21,
+    "text": "Kana Fujita"
+  },
+  {
+    "line": 22,
+    "text": "{character:Kana Fujita} (starry eyes.jpg) That's so amazing!"
+  },
+  {
+    "line": 23,
+    "text": "Ayane Kisaragi"
+  },
+  {
+    "line": 24,
+    "text": "{character:Ayane Kisaragi}It was exactly the same for me. I had left something at her place before, so I thought I would tell her that I'll be coming by to pick it up and take the cake there before 12 o'clock to celebrate her birthday with her. But when I called, she asked me if I bought an ice cream cake and said she'll come to me instead since it was so hot. I felt so frustrated at that moment!"
+  },
+  {
+    "line": 25,
+    "text": "{character:Kana Fujita}You left something at her place? What is it?"
+  },
+  {
+    "line": 26,
+    "text": "{character:Ayane Kisaragi}Ah! That's not the point right now. Let's welcome {var:player_nickname}, who just joined us!"
+  },
+  {
+    "line": 27,
+    "text": "{character:player}...Just \"joined us?\""
+  },
+  {
+    "line": 28,
+    "text": "I perceptively identify the keywords in the chat and quickly send my first message as a newcomer in the chat."
+  },
+  {
+    "line": 29,
+    "text": "...After chatting for a bit in the group, I finally understand what everything is about. In short, this chat is an \"alliance of challengers\" with the mission to give Nadeshiko a surprise for her birthday this year."
+  },
+  {
+    "line": 30,
+    "text": "The three members of the group are friends who will attend Nadeshiko's birthday party this weekend, and the reason they formed this temporary alliance is that they always failed to give Nadeshiko a surprise for her birthday, and the straightforward Nadeshiko gave the following replies in the past years—"
+  },
+  {
+    "line": 31,
+    "text": "{character:Nadeshiko}Haha, I like surprises too, but I know you too well to not figure everything out. What? Pretend not to know? That's way too lame and unnecessary for us."
+  },
+  {
+    "line": 32,
+    "text": "{character:Nadeshiko}...Hmm... I think I already know something I shouldn't know yet. Should we just skip this part for my future birthday celebrations? The important thing is for us to hang out anyway. What do you think?"
+  },
+  {
+    "line": 33,
+    "text": "{character:Nadeshiko}Huh? A challenge? You see this as a challenge? In that case, I'll be looking forward to what you'll come up with this year. I can't wait to see who will win."
+  },
+  {
+    "line": 34,
+    "text": "...As I listen to them in the group, I feel like I can see Nadeshiko's expression as she says these things."
+  },
+  {
+    "line": 35,
+    "text": "Looking at it like this, it really is an ultimate challenge to give the smart and straightforward Nadeshiko a birthday surprise. But if we manage to pull it off, these friends will feel really good about themselves and Nadeshiko will be happier than ever, right?"
+  },
+  {
+    "line": 36,
+    "text": "{character:player}Haha, I understand now. Count me in! What's your plan this year? I'll do my best to cooperate!"
+  },
+  {
+    "line": 37,
+    "text": "{character:Kana Fujita}Stare—.jpg"
+  },
+  {
+    "line": 37,
+    "text": "{character:Chihori Terasaki}Stare—.jpg"
+  },
+  {
+    "line": 37,
+    "text": "{character:Ayane Kisaragi}Stare—.jpg"
+  },
+  {
+    "line": 38,
+    "text": "{character:player}..."
+  },
+  {
+    "line": 39,
+    "text": "{character:Ayane Kisaragi}This is why we need you to join us this year, {var:player_nickname}. You can be in charge of this year's surprise plan!"
+  },
+  {
+    "line": 40,
+    "text": "{character:player}Me? Why do you want me to do it?"
+  },
+  {
+    "line": 41,
+    "text": "{character:Kana Fujita}I have a hunch that you'll come up with something unexpected, {var:player_nickname}! You're even as lucky as Kana sometimes!"
+  },
+  {
+    "line": 42,
+    "text": "{character:Chihori Terasaki}According to my investigations, things planned by {var:player_nickname} have a higher-than-average success rate when compared with the other citizens of One Han City. You're already amazing enough that you deserve an exclusive interview for an issue of Extraordinary People. I'll also be able to collect more materials through this incident."
+  },
+  {
+    "line": 43,
+    "text": "{character:player}...Hold on! If I had such powerful special abilities, I would have used them ages ago!"
+  },
+  {
+    "line": 44,
+    "text": "{character:Ayane Kisaragi}Your objection is overruled! We already decided on this before you joined us."
+  },
+  {
+    "line": 45,
+    "text": "{character:player}I see... So this isn't a discussion—you're just notifying me."
+  },
+  {
+    "line": 46,
+    "text": "{character:Kana Fujita}Don't worry! I'll do my best to help you!"
+  },
+  {
+    "line": 48,
+    "text": "My phone keeps vibrating as my friends send me words of encouragement, which quickly drowns out my weak protests."
+  },
+  {
+    "line": 49,
+    "text": "{character:player}...Fine then... I'm afraid I'll lose sight of myself if I keep hearing all this flattery you're throwing at me... I will think of a plan, but I need some peace and quiet to sort out my thoughts first."
+  },
+  {
+    "line": 50,
+    "text": "{character:Kana Fujita}Good luck! You can do it!"
+  },
+  {
+    "line": 51,
+    "text": "Satisfied with my response, my friends agree to let me go off the grid for a while. I close the group chat and start sorting my thoughts."
+  },
+  {
+    "line": 52,
+    "text": "To give Nadeshiko a birthday surprise, the most important thing is to find out where she wants to throw her birthday party this year. But based on what they just told me, it's very likely that I'll catch her attention if I ask her about it directly."
+  },
+  {
+    "line": 53,
+    "text": "To be safe, I better find out through more indirect methods."
+  },
+  {
+    "line": 54,
+    "text": "I type down three indirect investigation approaches on my phone and fall deep in thought as I decide where to start—"
+  },
+  {
+    "line": 55,
+    "text": "Maybe the family members Nadeshiko grew up with would know more about where she might throw the party or what food she likes. Let's search for some clues from this angle. I think of a place and set off immediately."
+  },
+  {
+    "line": 56,
+    "text": "Motorcycle For Life driving center—this is where Nadeshiko invited me to be her student. Although there's a reason why we were here, this is where we had our first close interaction."
+  },
+  {
+    "line": 57,
+    "text": "At first, I thought this was just an ordinary driving school, but I later found out this is one place where Nadeshiko's father works and is a place Nadeshiko has been visiting since she was little."
+  },
+  {
+    "line": 58,
+    "text": "The person who told me this is the driving instructor I met that day, who is an important elder who watched her grow. Maybe I'll be able to find some clues if I chat with him."
+  },
+  {
+    "line": 59,
+    "text": "But things aren't going as smoothly as planned."
+  },
+  {
+    "line": 60,
+    "text": "Driving Instructor"
+  },
+  {
+    "line": 61,
+    "text": "{character:Driving Instructor}...Nadeshiko's preferences for these things? I'm not really sure. I can probably tell you if you ask me what type of motorcycle, helmet, or race track she likes though."
+  },
+  {
+    "line": 62,
+    "text": "{character:Nadeshiko}I see..."
+  },
+  {
+    "line": 62,
+    "text": "{character:player}I see..."
+  },
+  {
+    "line": 63,
+    "text": "I didn't expect the driving instructor to give me this answer after I tell him why I've come."
+  },
+  {
+    "line": 65,
+    "text": "{character:player}!?"
+  },
+  {
+    "line": 66,
+    "text": "{character:Driving Instructor}Follow me. I'll take you to her father. Don't be nervous—you're someone Nadeshiko actively asked for help, so you're bound to meet her father one day!"
+  },
+  {
+    "line": 67,
+    "text": "...Something sounds wrong about what he said, but I can't really say what it is. The enthusiastic instructor takes me to the maintenance room..."
+  },
+  {
+    "line": 68,
+    "text": "Nadeshiko's Father"
+  },
+  {
+    "line": 70,
+    "text": "Although the man in front of me is in his fifties and has gray hair, he still looks quite burly and muscular. He stares at me without saying anything."
+  },
+  {
+    "line": 71,
+    "text": "{character:player}...Hi, you must be Nadeshiko's father. Sorry to disturb you, I'm {var:player_nickname}."
+  },
+  {
+    "line": 72,
+    "text": "{character:Nadeshiko's Father}..."
+  },
+  {
+    "line": 73,
+    "text": "{character:player}..."
+  },
+  {
+    "line": 74,
+    "text": "{character:Nadeshiko's Father}...!!! It's you!"
+  },
+  {
+    "line": 75,
+    "text": "{character:player}...?!"
+  },
+  {
+    "line": 76,
+    "text": "Stop! Why are you charging at me with a wrench in your hand?! We can resolve this with words!"
+  },
+  {
+    "line": 77,
+    "text": "{character:Nadeshiko's Father}...Hahaha, I remember now. You're the person who Nadeshiko watched the sunset with last time!"
+  },
+  {
+    "line": 78,
+    "text": "You've been staring at me with such sharp eyes for a while, and this is what you've been wanting to say to me?"
+  },
+  {
+    "line": 79,
+    "text": "{character:player}...Yes, that's me."
+  },
+  {
+    "line": 80,
+    "text": "After interacting with Nadeshiko's father for such a short period of time, I finally understand where Nadeshiko picked up her tendency to hide her enthusiasm behind a cold expression."
+  },
+  {
+    "line": 81,
+    "text": "I explain why I've come to Nadeshiko's father."
+  },
+  {
+    "line": 82,
+    "text": "{character:Nadeshiko's Father}...A birthday surprise, hahaha! That's so nice of you! To be honest, even though it's great that she has such an independent and free personality, I've wondered whether she'll miss out on so many wonderful experiences because of this, like romance, intimacy, sweetness, and being taken care of gently..."
+  },
+  {
+    "line": 84,
+    "text": "A complex emotion fills my heart as he talks so candidly and bluntly to me. I realize that there's an important commitment behind his seemingly casual reply."
+  },
+  {
+    "line": 85,
+    "text": "{character:player}Well, you don't need to worry about it anymore."
+  },
+  {
+    "line": 86,
+    "text": "When our eyes meet, we convey the answers to our questions and share our thoughts with each other through our eyes. As the concern in his eyes disappears, he smiles heartily and answers my initial question after chuckling."
+  },
+  {
+    "line": 87,
+    "text": "{character:Nadeshiko's Father}About her birthday... I'm ashamed to say this, but I've been taking her with me wherever I go for work since she was young because it's easier to take care of her that way, and not even her birthday was an exception."
+  },
+  {
+    "line": 88,
+    "text": "{character:Nadeshiko's Father}After she grew a little older, I realized that this wasn't that good for her and asked her where she wanted to go for her birthday. She said: \"I'll go out and play, but you don't need to know where I'll be playing. I'm always here with you when you're working, so I think I have the right and freedom to go wherever I want alone on my birthday, right?\" Can you imagine a ten-year-old girl saying something that brutal?"
+  },
+  {
+    "line": 89,
+    "text": "{character:player}Haha, the fact that she can express her thoughts so honestly with you means that she treats you like a trusted friend. What happened later? Where did she go to play in the end?"
+  },
+  {
+    "line": 90,
+    "text": "{character:Nadeshiko's Father}Here."
+  },
+  {
+    "line": 91,
+    "text": "{character:player}What?"
+  },
+  {
+    "line": 92,
+    "text": "{character:Nadeshiko's Father}Yes, you heard right. Here. Although she said she would go out and play, every year, she chose to spend her birthday here with me."
+  },
+  {
+    "line": 93,
+    "text": "{character:player}Haha, I think she really does love motorcycles and she really felt like she needed to fight for her right to choose freely."
+  },
+  {
+    "line": 94,
+    "text": "{character:Nadeshiko's Father}Haha, you sure understand her. I'm her father, and I only realized this after many years as she got older. She loves motorcycles more than many other things, including her birthday..."
+  },
+  {
+    "line": 96,
+    "text": "{character:Nadeshiko's Father}Yes... You're right... Wait, there was one exception!"
+  },
+  {
+    "line": 97,
+    "text": "{character:Nadeshiko's Father}...When she was in high school, she once told me that she wanted to invite her classmates to a really popular restaurant for a party. That was the only time... Oh right, speaking of this, she mentioned that restaurant when she messaged me a few days ago and said she remembered that place well. Is it possible that she wants to take you and your friends there?"
+  },
+  {
+    "line": 98,
+    "text": "A restaurant that Nadeshiko mentioned a few days ago? Instantly intrigued, I ask Nadeshiko's father to find their chat records and soon confirm the restaurant on my phone. It's a restaurant called Cute Mix, which is known in One Han City for its warm service and cute style."
+  },
+  {
+    "line": 99,
+    "text": "{character:Nadeshiko's Father}It looks like a good place for young people to have a gathering. What are you waiting for? Go and check it out. Maybe she's already contacted the place."
+  },
+  {
+    "line": 100,
+    "text": "{character:player}Yeah..."
+  },
+  {
+    "line": 101,
+    "text": "Having discovered a lot, with a trace of hesitation, I leave the driving school at Nadeshiko's father's urging and check the three investigation approaches I wrote down earlier."
+  },
+  {
+    "line": 103,
+    "text": "Her friends who've been to her birthday party before should have a better chance of guessing where she will hold her birthday party this time correctly."
+  },
+  {
+    "line": 103,
+    "text": "{character:Narration}Her friends who've been to her birthday party before should have a better chance of guessing where she will hold her birthday party this time correctly."
+  },
+  {
+    "line": 104,
+    "text": "I open the group chat and ask them whether they know anything about the venue of the birthday party."
+  },
+  {
+    "line": 105,
+    "text": "{character:Kana Fujita}I was busy with work every time she had her birthday, so I'm definitely going this year!"
+  },
+  {
+    "line": 106,
+    "text": "{character:Ayane Kisaragi}Gatherings organized by Nadeshiko... I suddenly remembered something funny, lol."
+  },
+  {
+    "line": 107,
+    "text": "{character:Kana Fujita}?"
+  },
+  {
+    "line": 107,
+    "text": "{character:player}?"
+  },
+  {
+    "line": 107,
+    "text": "{character:Nadeshiko}?"
+  },
+  {
+    "line": 108,
+    "text": "{character:player}Can you elaborate?"
+  },
+  {
+    "line": 109,
+    "text": "{character:Ayane Kisaragi}This happened when we were in high school, and I was her senior. As she was always troubled about finding ways to make herself cuter, I recommended her a restaurant that has a cute style to give her inspiration. But I didn't expect her to organize her birthday there..."
+  },
+  {
+    "line": 110,
+    "text": "{character:Ayane Kisaragi}In the end, the cuteness of that place was too much. In addition to dreamy decorations, there was a special birthday performance in which employees dress up as fairy tale characters, put a tiara on the birthday girl, hold up a neon light board with her name on it, and sing birthday songs in a circle around her. And it's a special birthday song that you'll never forget! I'll search for it now!"
+  },
+  {
+    "line": 111,
+    "text": "{character:Kana Fujita}(voice message) \"A Cute Cute World...?\""
+  },
+  {
+    "line": 112,
+    "text": "{character:Ayane Kisaragi}Yes, that's the one! Is it still popular among students nowadays?"
+  },
+  {
+    "line": 113,
+    "text": "{character:Kana Fujita}...I think I know which place now. (stunned Kana.jpg)"
+  },
+  {
+    "line": 114,
+    "text": "{character:Chihori Terasaki}If it's that place, it's more of a \"social phenomenon\" than just a popular place."
+  },
+  {
+    "line": 116,
+    "text": "The image of a sixteen-year-old Nadeshiko being forced to sit in a crowd with a small crystal tiara on her head, listening to the cheerful singing of employees in a place filled with pink bubbles and moving stiffly to make cute poses makes me laugh really rudely with my phone in my hand."
+  },
+  {
+    "line": 117,
+    "text": "{character:player}Hahahaha! Thanks for telling me what to avoid. I don't think Nadeshiko will ever want to experience that again in her life. Let's get back to the topic and think about where she'll want to go this year."
+  },
+  {
+    "line": 118,
+    "text": "{character:Ayane Kisaragi}Oh yes, we got sidetracked."
+  },
+  {
+    "line": 119,
+    "text": "{character:Chihori Terasaki}(link) What about this place?"
+  },
+  {
+    "line": 120,
+    "text": "Chihori sends the link of a sports bar that mainly serves specialty drinks."
+  },
+  {
+    "line": 121,
+    "text": "{character:Chihori Terasaki}When Nadeshiko takes a break, she sometimes asks me to drink here. We would chat, listen to music, and watch motorcycle races on the television... This is a good place for a dinner gathering, and people can get some exercise too. I think this place is quite likely."
+  },
+  {
+    "line": 122,
+    "text": "{character:player}Hmm... I think this bar is the one Nadeshiko recommended to me before. She seems to like this place a lot."
+  },
+  {
+    "line": 123,
+    "text": "{character:Kana Fujita}... (stunned Kana.jpg)"
+  },
+  {
+    "line": 124,
+    "text": "{character:Chihori Terasaki}Why don't you go there and ask around instead of just guessing? Maybe Nadeshiko has already contacted them."
+  },
+  {
+    "line": 125,
+    "text": "Time is running out. Should I listen to Chihori's recommendation and check out this sports bar, or should I keep investigating information from other channels?"
+  },
+  {
+    "line": 127,
+    "text": "With this thought in mind, I search Nadeshiko's CatChat again."
+  },
+  {
+    "line": 128,
+    "text": "Nadeshiko's homepage isn't updated very frequently, and most updates are her complaints that reflect her mood at that time. There is basically nothing that is obviously related to her birthday preferences."
+  },
+  {
+    "line": 129,
+    "text": "Until I scroll to more than a month ago and see what she wrote about the day we watched the sunset."
+  },
+  {
+    "line": 130,
+    "text": "{character:player}Reading this invokes so many memories... But I still don't have any clues about the location of the birthday party..."
+  },
+  {
+    "line": 132,
+    "text": "As I'm looking at the photo and reliving my memories, a message notification from Nadeshiko pops up at the top of my phone. She has sent me a question mark, which stands out because there's nothing else in the message. I'm confused at first, but then I take a deep breath when I realize why she messaged me that—"
+  },
+  {
+    "line": 133,
+    "text": "{character:player}OH NO! What did I do? Why did I hit the Like button?!"
+  },
+  {
+    "line": 134,
+    "text": "The glaring bright red Like at the bottom of the post about the sunset seems to be mocking my shaky hands."
+  },
+  {
+    "line": 136,
+    "text": "I need to calm down. What can I say without making her feel suspicious?"
+  },
+  {
+    "line": 137,
+    "text": "As they say, a father knows their daughter the best. Also, Nadeshiko actively mentioned this restaurant where she held a birthday party before to her father not too long ago. I decide to go to this popular restaurant to find out."
+  },
+  {
+    "line": 138,
+    "text": "This popular restaurant is located inside a mall in the CBD of One Han City. Although I've heard of it before on the Internet, this is my first time visiting it in person."
+  },
+  {
+    "line": 140,
+    "text": "Employee"
+  },
+  {
+    "line": 141,
+    "text": "{character:Employee}Ah! What a cute customer! Welcome to Cute Mix!"
+  },
+  {
+    "line": 142,
+    "text": "{character:player}Haha, hi."
+  },
+  {
+    "line": 143,
+    "text": "{character:Employee}Cute customer, you'll need to get in the queue and wait to dine at our restaurant today. If you're bored, we have a mahjong challenge for customers, and those who beat our employees in a mahjong game get a 12% discount off their bill today! Would you like to try?"
+  },
+  {
+    "line": 144,
+    "text": "The service is so considerate even when you're waiting for a table! I feel like the chance that Nadeshiko has chosen this restaurant has increased! Although I really want to play mahjong right now, I better deal with business first."
+  },
+  {
+    "line": 145,
+    "text": "I say no politely and tell the employee why I'm here. She listens patiently and looks like she remembers something after looking at Nadeshiko's photo."
+  },
+  {
+    "line": 146,
+    "text": "{character:Employee}Oh, this customer. I remember this Miss Nadeshiko. She came last weekend."
+  },
+  {
+    "line": 147,
+    "text": "{character:player}...Last weekend?"
+  },
+  {
+    "line": 148,
+    "text": "The timing of her visit surprises me."
+  },
+  {
+    "line": 149,
+    "text": "{character:Employee}Yes, we have a special event on weekends. Customers can make an appointment with us to learn how to make our signature dishes. They can then choose to take it away or eat it at our restaurant. Miss Nadeshiko was one of the customers who made an appointment last weekend."
+  },
+  {
+    "line": 150,
+    "text": "{character:Employee}To be honest, the reason I remember her is because of her outstanding temperament and an incident that happened."
+  },
+  {
+    "line": 151,
+    "text": "{character:player}An incident?"
+  },
+  {
+    "line": 152,
+    "text": "{character:Employee}Yes, Miss Nadeshiko was very serious during the lesson and the food she made was the best among all the students, but she wasn't happy with the result and requested to make it again. Out of curiosity, I asked her who she was going to share the food with, but she got angry with me and ignored me..."
+  },
+  {
+    "line": 153,
+    "text": "{character:Employee}Ah, as an employee, I really shouldn't ask questions about their private affairs. I'm so sorry!"
+  },
+  {
+    "line": 154,
+    "text": "The employee makes a very guilty expression. Meanwhile, I find this situation strangely familiar. It reminded me of when Nadeshiko was so engrossed in changing her teaching plan that she didn't hear me when we were at the driving school, so I start comforting the employee."
+  },
+  {
+    "line": 155,
+    "text": "{character:player}Based on my understanding of Nadeshiko, she doesn't get angry that easily. She was probably completely focused on making the dishes that she didn't hear your question. But if you're really sorry about this, I can pass the words."
+  },
+  {
+    "line": 156,
+    "text": "{character:Employee}Is that why? ...Phew, that would be so great, thank you! After the class ended last weekend, she made another appointment for this weekend to make our signature dishes again. I was thinking of apologizing to her in person when I see her again on the weekend."
+  },
+  {
+    "line": 157,
+    "text": "{character:player}Huh? She made an appointment to come again this weekend?"
+  },
+  {
+    "line": 158,
+    "text": "{character:Employee}Yes. You said her birthday is this weekend, right? I think she is planning to invite all of you here and cook for you."
+  },
+  {
+    "line": 159,
+    "text": "{character:Employee}You also came to us to try to prepare a birthday surprise for her. What a splendid relationship! What do you want us to do? We'll do everything we can to help!"
+  },
+  {
+    "line": 160,
+    "text": "{character:player}Haha, thanks..."
+  },
+  {
+    "line": 162,
+    "text": "According to the information provided by the employee, I can confirm that Nadeshiko is planning on inviting her friends to this restaurant this weekend and cooking for everyone!"
+  },
+  {
+    "line": 163,
+    "text": "I quickly notify everyone in the Ultimate Challenge group. Everyone and the restaurant employees help out to decorate the restaurant. I also order a birthday cake for her. When I think about how I'll get to eat food cooked by Nadeshiko on the day, I just can't wait for the weekend to arrive."
+  },
+  {
+    "line": 164,
+    "text": "However..."
+  },
+  {
+    "line": 165,
+    "text": "{character:player}...Camping???"
+  },
+  {
+    "line": 166,
+    "text": "It takes three seconds for me to respond after hearing Nadeshiko's words on the motorcycle, and I almost fall off."
+  },
+  {
+    "line": 167,
+    "text": "At this moment, we're on our way to the gathering point. In the rear-view mirror, I can see Nadeshiko squinting dangerously."
+  },
+  {
+    "line": 168,
+    "text": "{character:Nadeshiko}You don't like it? It's too late to say no now."
+  },
+  {
+    "line": 169,
+    "text": "{character:player}...Ahaha, that's not it. I'm just a little excited because I didn't expect that we'll be going camping."
+  },
+  {
+    "line": 170,
+    "text": "My voice gets quieter as I speak. How could it be camping? I thought we would be going to Cute Mix... My eyes black out momentarily when I think of everyone waiting to \"ambush\" Nadeshiko with a surprise at Cute Mix and the decorated venue."
+  },
+  {
+    "line": 171,
+    "text": "{character:Nadeshiko}Oh? Hold on, didn't I tell you about the venue? You're right, I think I forgot to tell you because I was too busy."
+  },
+  {
+    "line": 173,
+    "text": "{character:Nadeshiko}What? Why would you have such strange thoughts? Of course I forgot. But you don't need to worry about preparing food for camping. I arranged everything and even ordered a set meal from a restaurant. We can just take it directly when we get there in a moment."
+  },
+  {
+    "line": 174,
+    "text": "{character:player}...The set meal wouldn't happen to be from Cute Mix, right?"
+  },
+  {
+    "line": 175,
+    "text": "{character:Nadeshiko}Huh? How did you guess that?"
+  },
+  {
+    "line": 176,
+    "text": "Nadeshiko seems to realize something. She brakes and parks the motorcycle on the side of the road. At this point, all I can do is explain what happened."
+  },
+  {
+    "line": 177,
+    "text": "{character:player}...Well, so..."
+  },
+  {
+    "line": 178,
+    "text": "After a brief explanation."
+  },
+  {
+    "line": 179,
+    "text": "{character:Nadeshiko}Hahaha! I didn't expect you to join them in this challenge. That's so surprising!"
+  },
+  {
+    "line": 180,
+    "text": "{character:player}Surprising? But we lost the challenge..."
+  },
+  {
+    "line": 182,
+    "text": "{character:player}...Hmm, it looks like this is the best solution."
+  },
+  {
+    "line": 183,
+    "text": "Nothing is more trustworthy than the advice of friends, so I go to this sports bar immediately."
+  },
+  {
+    "line": 184,
+    "text": "Bar Owner"
+  },
+  {
+    "line": 185,
+    "text": "{character:Bar Owner}What did you just say? Can you speak a little louder?"
+  },
+  {
+    "line": 186,
+    "text": "In this sports bar with avant-garde and bold decorations, an exciting motorcycle race with commentary is being played on a large projection screen. Half of the people here are sitting at a table, watching the live broadcast while chatting and drinking, while the other half are watching sports such as baseball, billiards, and squash, which are just as popular."
+  },
+  {
+    "line": 187,
+    "text": "The sounds of commentaries, cheering, and various ball games merge together to compose a unique urban nocturne."
+  },
+  {
+    "line": 188,
+    "text": "I go up to the bar, open Nadeshiko's photo on my phone, and loudly repeat my reason for visiting. After seeing Nadeshiko's photo on my phone, the bar owner finally looks away from the big screen and focuses on our conversation."
+  },
+  {
+    "line": 189,
+    "text": "{character:Bar Owner}You say you're a friend of Miss Nadeshiko, and you want to know whether she'll be coming here next weekend? Haha, why don't you just ask her if you're her friend? Stop acting. Miss Nadeshiko comes here often, and you're not the only person who has asked me for her contact information and when she'll be coming here after seeing her here, yet I haven't told anyone. This happens way too often, and I'm not someone who will betray my customers' privacy."
+  },
+  {
+    "line": 190,
+    "text": "{character:player}You've got it wrong. I really am her friend. I have a special reason for asking you."
+  },
+  {
+    "line": 191,
+    "text": "Flabbergasted, I tell the bar owner the reason and provide some evidence to support my words. After that, his attitude changes."
+  },
+  {
+    "line": 192,
+    "text": "{character:Bar Owner}Sorry, it looks like I really did misunderstand you. To make up for it, I can very confidently tell you that you guessed right. She will definitely celebrate her birthday here this weekend."
+  },
+  {
+    "line": 193,
+    "text": "{character:player}Did she tell you that herself?"
+  },
+  {
+    "line": 194,
+    "text": "The bar owner's confidence is a pleasant surprise to me."
+  },
+  {
+    "line": 195,
+    "text": "{character:Bar Owner}Well, not really."
+  },
+  {
+    "line": 196,
+    "text": "{character:Bar Owner}Youngster, wipe that doubtful expression off your face and listen to me. Last week, Miss Nadeshiko came here and asked if I could teach her how to mix some drinks because she wanted to make some drinks for her friends in a few days."
+  },
+  {
+    "line": 197,
+    "text": "{character:Bar Owner}I agreed because it's not like I'll be teaching her any business secrets. I noticed that she was learning so seriously during the lesson, so I asked her if she wanted to prepare a surprise for someone important to her. Can you guess what happened? She usually acts so cool, but she actually got shy and pretended not to hear me. Haha! I must have hit the nail on the head."
+  },
+  {
+    "line": 198,
+    "text": "The bar owner bursts into laughter with his hands on his hips. Meanwhile, I was reminded of when Nadeshiko was so engrossed in changing her teaching plan that she didn't hear me when we were at the driving school."
+  },
+  {
+    "line": 199,
+    "text": "{character:player}Based on my understanding of Nadeshiko, she was probably not embarrassed but instead completely focused on making the drink that she didn't hear your question."
+  },
+  {
+    "line": 200,
+    "text": "{character:Bar Owner}Huh? Really?"
+  },
+  {
+    "line": 201,
+    "text": "{character:player}Uh-huh."
+  },
+  {
+    "line": 202,
+    "text": "{character:Bar Owner}Fine then... Even if we rule out that detail, my information must still be accurate because Miss Nadeshiko ordered lots of alcohol from me and told me to get everything ready before the weekend! What would she need all that for if it isn't for her birthday party? Youngster, didn't you want to surprise her? Stop hesitating. Think about what you want to do, and I'll support you! You need to act fast to make things happen!"
+  },
+  {
+    "line": 203,
+    "text": "{character:player}Haha, thank you."
+  },
+  {
+    "line": 204,
+    "text": "...Hmm, has Nadeshiko really decided to hold her party here?"
+  },
+  {
+    "line": 226,
+    "text": ""
+  },
+  {
+    "line": 229,
+    "text": "The cute atmosphere of this restaurant doesn't look like a dining environment Nadeshiko would enjoy. My understanding of Nadeshiko tells me I should consider other possible options first."
+  },
+  {
+    "line": 230,
+    "text": "I better consider other information first."
+  },
+  {
+    "line": 233,
+    "text": "{character:player}Oh, I pressed the button by mistake."
+  },
+  {
+    "line": 234,
+    "text": "{character:Nadeshiko}I see. I thought you liked it because you wanted to go on another trip with me. Why were you checking out something I posted a month ago?"
+  },
+  {
+    "line": 235,
+    "text": "!!!"
+  },
+  {
+    "line": 236,
+    "text": "So that's what she was wondering about."
+  },
+  {
+    "line": 237,
+    "text": "But I can't change my answer now."
+  },
+  {
+    "line": 238,
+    "text": "{character:player}Haha, a friend asked me if there are any fun places around here, and I thought of that trip."
+  },
+  {
+    "line": 239,
+    "text": "{character:Nadeshiko}Which friend is this?"
+  },
+  {
+    "line": 240,
+    "text": "...Which friend? Um..."
+  },
+  {
+    "line": 241,
+    "text": "While I'm hesitating about what to say, Nadeshiko calls me, and I decide to bite the bullet and answer it."
+  },
+  {
+    "line": 242,
+    "text": "{character:Nadeshiko}What's going on?"
+  },
+  {
+    "line": 243,
+    "text": "Nadeshiko gets straight to the point, and her calm tone seems to tell me she has seen through me. I decide to surrender in my heart."
+  },
+  {
+    "line": 244,
+    "text": "{character:player}Sorry, the thing is, I wanted to know where you'll be having your birthday party, so I wanted to see what you've been up to recently."
+  },
+  {
+    "line": 245,
+    "text": "{character:Nadeshiko}...Huh?"
+  },
+  {
+    "line": 246,
+    "text": "Strangely, Nadeshiko sounds surprised."
+  },
+  {
+    "line": 247,
+    "text": "{character:Nadeshiko}What? Um, I thought you were thinking of going there with someone else... Ahem... It's nothing then."
+  },
+  {
+    "line": 249,
+    "text": "After being taken aback for a moment, I suddenly understand and smile."
+  },
+  {
+    "line": 250,
+    "text": "{character:player}Don't worry, there's nothing like that. That scenery is our exclusive memory."
+  },
+  {
+    "line": 251,
+    "text": "{character:Nadeshiko}...Hey! I've never made such an unreasonable request! What were you saying before? Oh, the location of the birthday party, right? Did I forget to tell you? Um, okay, I think I did forget to tell you. We're going camping, and I've arranged the campsite and everything. I'll pick you up when it's time..."
+  },
+  {
+    "line": 253,
+    "text": "Nadeshiko sounds a little flustered, but just as I'm about to tease her, she changes the subject."
+  },
+  {
+    "line": 254,
+    "text": "{character:Nadeshiko}Wait a minute! Why are you looking at my CatChat instead of asking me about it directly?"
+  },
+  {
+    "line": 255,
+    "text": "{character:player}Um..."
+  },
+  {
+    "line": 256,
+    "text": "{character:Nadeshiko}I know! You must be planning to find out where we'll be going and secretly prepare a surprise there! Did Kana and the others rope you into that surprise challenge?"
+  },
+  {
+    "line": 257,
+    "text": "{character:player}..."
+  },
+  {
+    "line": 258,
+    "text": "What's going on? How did she suddenly guess the answer? And why does she sound like she's just won?"
+  },
+  {
+    "line": 259,
+    "text": "{character:Nadeshiko}Haha, has the cat got your tongue? It's a shame that I saw through your plan this year. Help me tell them to try harder next year. This year, you can just enjoy my camping gathering."
+  },
+  {
+    "line": 260,
+    "text": "{character:player}Yeah, I... guess that's all we can do now."
+  },
+  {
+    "line": 261,
+    "text": "Between tears and laughter, I can only surrender to the situation."
+  },
+  {
+    "line": 262,
+    "text": "{character:player}I deleted this photo by mistake, so I was thinking of saving it from your album."
+  },
+  {
+    "line": 263,
+    "text": "{character:Nadeshiko}Okay, but why didn't you just ask me for the original photo?"
+  },
+  {
+    "line": 264,
+    "text": "{character:player}Well, you're also in this photo, so I feel bad about losing it..."
+  },
+  {
+    "line": 265,
+    "text": "{character:Nadeshiko}I'm hurt by how little faith you have in me. Give me a sec."
+  },
+  {
+    "line": 266,
+    "text": "{character:player}Okay."
+  },
+  {
+    "line": 267,
+    "text": "Phew! That was close!"
+  },
+  {
+    "line": 268,
+    "text": "Beep—"
+  },
+  {
+    "line": 269,
+    "text": "Before long, Nadeshiko sends me all the photos that were taken during the trip."
+  },
+  {
+    "line": 271,
+    "text": "{character:player}Oh, what's this?"
+  },
+  {
+    "line": 272,
+    "text": "Suddenly, I notice something strange about one of the photos Nadeshiko sent to me. It's a photo Nadeshiko took of the inn's courtyard. The strange thing about it is that the sky is sunny and the ground is dry."
+  },
+  {
+    "line": 273,
+    "text": "It was clearly raining on that day we went there. Even if the rain has stopped, the ground shouldn't be dry. I immediately send this photo to Nadeshiko."
+  },
+  {
+    "line": 274,
+    "text": "{character:player}What's this?"
+  },
+  {
+    "line": 275,
+    "text": "{character:Nadeshiko}Oh, I sent you that one by mistake. I took that photo when I went back to visit the inn later. Do you still remember that the innkeeper has a lot of camping experience? I just happen to be interested in that type of outdoor experience right now, so I went back to ask him about it."
+  },
+  {
+    "line": 276,
+    "text": "Aha!"
+  },
+  {
+    "line": 277,
+    "text": "Suddenly, I feel like I see a light bulb of wisdom lighting up about my head with the words \"camping\" shining brightly inside the light bulb. I suppress my excitement and keep chatting with Nadeshiko for a little longer before ending the conversation."
+  },
+  {
+    "line": 278,
+    "text": "I quickly search my phone for the innkeeper's contact details and contact him."
+  },
+  {
+    "line": 279,
+    "text": "{character:player}Hi, it's me, {var:player_nickname}."
+  },
+  {
+    "line": 280,
+    "text": "Innkeeper"
+  },
+  {
+    "line": 281,
+    "text": "{character:Innkeeper}Oh, it's you."
+  },
+  {
+    "line": 282,
+    "text": "After chatting with the innkeeper for a while, he gladly tells me a piece of good news: Nadeshiko asked him a lot about his camping experience, and he recommended a campsite his friend runs to Nadeshiko. Upon hearing that, I just know I'm on the right track."
+  },
+  {
+    "line": 283,
+    "text": "{character:Innkeeper}...You want to give her a birthday surprise? Haha, how interesting. I understand. I'll contact the manager for you."
+  },
+  {
+    "line": 284,
+    "text": "{character:player}Thank you!"
+  },
+  {
+    "line": 285,
+    "text": "After talking to the innkeeper, I manage to successfully contact the manager of the campsite. Since the innkeeper put in a word for me, after hearing that Nadeshiko and I are friends, the manager tells me that Nadeshiko has indeed booked a camping spot at the campsite."
+  },
+  {
+    "line": 286,
+    "text": "I relax after hearing this. Everything will be easy to sort out now that I have an exact location."
+  },
+  {
+    "line": 287,
+    "text": "I tell everyone this piece of information in the group chat and start planning our birthday surprise plan."
+  },
+  {
+    "line": 288,
+    "text": "Nadeshiko's familiar motorcycle stops in front of me once again early in the morning of this weekend day."
+  },
+  {
+    "line": 315,
+    "text": "Nadeshiko takes out her mobile phone to contact her other friends. Little does she know that I've also opened the group chat quickly to tell them the current situation."
+  },
+  {
+    "line": 316,
+    "text": "According to our original plan, the manager agreed to tell Nadeshiko when we arrive that the campsite she booked at the foot of the mountain can't be used for some reason and that she'll get a free upgrade to a campsite in the middle of the mountain as an apology. When she agrees and arrives there, she'll find the birthday party we've prepared for her."
+  },
+  {
+    "line": 317,
+    "text": "However, based on what Nadeshiko just told me, she has her own expectations for this camping experience. If we follow our original plan, Nadeshiko won't be able to set up a tent like she wanted and cook a meal for us, so I share this information with everyone in the group chat."
+  },
+  {
+    "line": 318,
+    "text": "{character:Kana Fujita}Why can't we use the campsite in the middle of the mountain?"
+  },
+  {
+    "line": 319,
+    "text": "{character:Chihori Terasaki}It's probably to prevent forest fires. Open flames really are prohibited in the campsite we prepared in the middle of the mountain."
+  },
+  {
+    "line": 320,
+    "text": "{character:Kana Fujita}Quick-witted.jpg Then why don't we cook at the campsite at the foot of the mountain and then eat it up there?"
+  },
+  {
+    "line": 321,
+    "text": "{character:Ayane Kisaragi}I don't think that's possible. If the kitchen is in another campsite, everyone will be tired after running around everywhere. We're going to have to choose between the two options."
+  },
+  {
+    "line": 322,
+    "text": "An unexpected situation has arisen. We need to decide between sticking to our original plan or changing our plans to adapt to the situation."
+  },
+  {
+    "line": 323,
+    "text": "Just like that, our birthday surprise challenge has failed, and Nadeshiko won't get a surprise for this year's birthday either."
+  },
+  {
+    "line": 324,
+    "text": "According to what they said, Nadeshiko also looks forward to getting a birthday surprise. With this thought in mind, I make a decision."
+  },
+  {
+    "line": 325,
+    "text": "{character:player}We can get the chefs in the kitchen to cook the food Nadeshiko prepared. We also prepared a lot of yummy food, right? Let's follow the original plan, as our surprise will definitely satisfy Nadeshiko."
+  },
+  {
+    "line": 326,
+    "text": "Everyone"
+  },
+  {
+    "line": 327,
+    "text": "{character:Everyone}Alright!"
+  },
+  {
+    "line": 328,
+    "text": "Seeing everyone's replies, I make up my mind and put away my phone before Nadeshiko finds out."
+  },
+  {
+    "line": 330,
+    "text": "{character:Nadeshiko}...It became unavailable at the last minute?"
+  },
+  {
+    "line": 331,
+    "text": "Campsite Manager"
+  },
+  {
+    "line": 332,
+    "text": "{character:Campsite Manager}Yeah, I'm really sorry about that. The area you reserved is closed today because the grassland irrigation pipe there is broken and needs to be repaired. I was so busy I didn't manage to inform you in time... But you don't need to worry, we'll upgrade you to a mountain campsite for free. The scenery there is even better!"
+  },
+  {
+    "line": 333,
+    "text": "{character:Nadeshiko}A mountain campsite? I won't get to cook my own food and build my own tent there, right?"
+  },
+  {
+    "line": 334,
+    "text": "{character:Campsite Manager}Um, yes... but a high-quality tent has already been set up there, and we can get some chefs to cook the food you prepare for you and take it to you when you want it. The mountain campsite also has audio-visual equipment, game consoles, and various entertainment activities to keep you and your friends happy!"
+  },
+  {
+    "line": 335,
+    "text": "When Nadeshiko lowers her head to decide what to do. The owner winks at me, and I quietly stick up my thumb."
+  },
+  {
+    "line": 336,
+    "text": "{character:Nadeshiko}{var:player_nickname}? What do you think?"
+  },
+  {
+    "line": 337,
+    "text": "Nadeshiko suddenly asks me what I think about this suggestion, so I quickly hide my thumb and act serious."
+  },
+  {
+    "line": 338,
+    "text": "{character:player}Oh, speaking of which, our friends should be on their way. Although it's a shame, I think the mountain campsite should be good too. As long as we're together, we'll have fun no matter where we are. We can come again another time to experience the things we missed out on today."
+  },
+  {
+    "line": 339,
+    "text": "{character:Nadeshiko}Okay then. In that case, please lead the way."
+  },
+  {
+    "line": 340,
+    "text": "{character:Campsite Manager}Thanks for your understanding! Please follow me."
+  },
+  {
+    "line": 341,
+    "text": "As we walk along the trail up the mountain, the scent of nature thickens around us. The sun pierces the dense canopies of trees to illuminate the stone path under our feet, making it look like a soft and dreamy carpet that isolates this place from the world below the mountain. As I walk, I find myself full of anticipation for the destination."
+  },
+  {
+    "line": 342,
+    "text": "{character:Campsite Manager}We're here. This is the mountain campsite. Please see if you're happy with it."
+  },
+  {
+    "line": 343,
+    "text": "{character:Nadeshiko}Thanks."
+  },
+  {
+    "line": 344,
+    "text": "Without thinking too much about it, Nadeshiko takes big strides into the camp we've decorated in advance. To her surprise..."
+  },
+  {
+    "line": 345,
+    "text": "*Bang!* *Bang!* *Bang!*"
+  },
+  {
+    "line": 346,
+    "text": "Our three friends who are waiting to \"ambush\" Nadeshiko in the campsite pull the party poppers in their hands, filling the air with golden confetti. Nadeshiko is so shocked by their appearance here and the beautifully decorated campsite that she just stands there."
+  },
+  {
+    "line": 347,
+    "text": "{character:Ayane Kisaragi}Happy birthday!"
+  },
+  {
+    "line": 348,
+    "text": "{character:Chihori Terasaki}Happy birthday, Nadeshiko."
+  },
+  {
+    "line": 349,
+    "text": "{character:Kana Fujita}Happy birthday!"
+  },
+  {
+    "line": 350,
+    "text": "{character:Nadeshiko}You guys... This..."
+  },
+  {
+    "line": 351,
+    "text": "Our wish has come true. We finally get to see Nadeshiko make some different expressions."
+  },
+  {
+    "line": 352,
+    "text": "{character:Kana Fujita}Hahahaha! I finally get to see you shocked speechless! This year's surprise is a big success! I need my camera! I want to take a photo of this! ... Where's my camera?"
+  },
+  {
+    "line": 353,
+    "text": "*Click*— Ayane Kisaragi stealthily takes a photo of this scene with an instant camera, which is already generating a photo."
+  },
+  {
+    "line": 354,
+    "text": "{character:Kana Fujita}Eh? Why do you have it?"
+  },
+  {
+    "line": 355,
+    "text": "{character:Ayane Kisaragi}You flippantly put it there on the table when you grabbed a party popper."
+  },
+  {
+    "line": 356,
+    "text": "{character:Kana Fujita}No way!"
+  },
+  {
+    "line": 357,
+    "text": "{character:Ayane Kisaragi}That's exactly what happened."
+  },
+  {
+    "line": 358,
+    "text": "{character:Kana Fujita}Terasaki senpai!"
+  },
+  {
+    "line": 359,
+    "text": "{character:Chihori Terasaki}Oh my... I didn't see what happened, so I can't comment."
+  },
+  {
+    "line": 360,
+    "text": "Watching the friendly banter in front of her, Nadeshiko finally regains some of her composure after being surprised. She turns and looks at me with a smile in her eyes."
+  },
+  {
+    "line": 361,
+    "text": "{character:Nadeshiko}I assume you're behind this?"
+  },
+  {
+    "line": 362,
+    "text": "{character:player}Happy birthday, Nadeshiko! I hope you enjoy this surprise."
+  },
+  {
+    "line": 363,
+    "text": "{character:Nadeshiko}Haha! Thanks a lot. I didn't expect you would be able to convince the campsite manager to go along with your plan. I thought they were planning to pretend to all arrive late or something. I underestimated you."
+  },
+  {
+    "line": 364,
+    "text": "{character:player}I'm happy as long as you like it. I was worried that I would ruin your plans for this camping experience by insisting on this plan. It's great that you're happy."
+  },
+  {
+    "line": 365,
+    "text": "{character:Nadeshiko}Well, although I do have some regrets about the camping experience, the feelings and consideration of my friends are more than enough to make up for it. Alright, let's start celebrating! And the first thing is—tell me exactly when you started planning this! Hmm?"
+  },
+  {
+    "line": 366,
+    "text": "...In the end, we have a not-very-camping-like happy birthday celebration with Nadeshiko at the mountain campsite where everything has been prepared in advance. I hope that we'll be able to surprise Nadeshiko and make Nadeshiko's wish come true at the same time next year."
+  },
+  {
+    "line": 367,
+    "text": "{character:player}We can't let Nadeshiko's preparations go to waste. Why don't we change the plan and find a way to move as much of our decorations to the campsite at the foot of the mountain?"
+  },
+  {
+    "line": 369,
+    "text": "We arrive at the camp after an hour. According to the plan, the owner who comes out to greet us should put on a little performance, but the plan has already changed..."
+  },
+  {
+    "line": 370,
+    "text": "{character:Campsite Manager}Welcome! Miss Nadeshiko, the campsite you reserved is ready, and you can start building the tent now. I'll take you there now."
+  },
+  {
+    "line": 371,
+    "text": "The manager winks at me secretly."
+  },
+  {
+    "line": 372,
+    "text": "Phew! It looks like they've told the manager about the changes in time. Now we just need to wait for them to move as many decorations as possible."
+  },
+  {
+    "line": 373,
+    "text": "Nadeshiko and I build the tent while everyone tells her they'll be late. Nadeshiko doesn't really care though, and chats happily with me during this time. She also starts to prepare the ingredients while we're working."
+  },
+  {
+    "line": 374,
+    "text": "We continue doing this until we receive their message."
+  },
+  {
+    "line": 376,
+    "text": "I look around me quickly. As expected, three people appear from behind the bushes not far away, as well as a decorative balloon that is rising into the air."
+  },
+  {
+    "line": 377,
+    "text": "{character:Nadeshiko}{var:player_nickname}, what are you looking at?"
+  },
+  {
+    "line": 378,
+    "text": "{character:player}!"
+  },
+  {
+    "line": 379,
+    "text": "I hold Nadeshiko down when I notice that she is about to look in that direction. At the same time, someone reaches out to drag that balloon back from the other side of the bush."
+  },
+  {
+    "line": 380,
+    "text": "{character:Nadeshiko}...Is there something over there?"
+  },
+  {
+    "line": 381,
+    "text": "Nadeshiko insists on looking over there anyway. Fortunately, she doesn't manage to see anything."
+  },
+  {
+    "line": 382,
+    "text": "{character:player}Oh... nothing. Nadeshiko, I'm getting a little hungry. Since they haven't arrived, shall we go and buy some food to eat?"
+  },
+  {
+    "line": 383,
+    "text": "{character:Nadeshiko}There are some snacks in the tent. I'm not hungry."
+  },
+  {
+    "line": 384,
+    "text": "{character:player}Oh... actually, I meant to say that I'm a little thirsty, not hungry. Why don't—"
+  },
+  {
+    "line": 385,
+    "text": "Before I can finish, Nadeshiko sticks a bottle of mineral water out, silencing my words. When she sees that I'm staring at her blankly without taking it, she makes an expression that says: \"Geez, I don't know what to do about you\" and very considerately opens the bottle cap before handing it to me again."
+  },
+  {
+    "line": 386,
+    "text": "{character:player}...Thank you. Shall we... I mean, shall we take a walk? They haven't arrived yet, so maybe we don't need to prepare these in such a rush?"
+  },
+  {
+    "line": 387,
+    "text": "{character:Nadeshiko}But I want to get as much done as possible. If I start the preparations at the last minute, it might be more trouble than I expected, and I might need more time too."
+  },
+  {
+    "line": 388,
+    "text": "{character:player}Haha, th-that does make sense."
+  },
+  {
+    "line": 389,
+    "text": "As I rack my brains to think of reasons to take Nadeshiko somewhere else, she suddenly stops what she's doing."
+  },
+  {
+    "line": 390,
+    "text": "{character:Nadeshiko}Let's go."
+  },
+  {
+    "line": 391,
+    "text": "{character:Nadeshiko}Since you keep inviting me, I can't just keep you hanging. Let's go on a walk around here like you suggested."
+  },
+  {
+    "line": 393,
+    "text": "Nadeshiko and I walk side-by-side on the soft lawn and admire the campsite's scenery. It's beautiful, but if we keep going, we'll be walking out of the campsite!"
+  },
+  {
+    "line": 394,
+    "text": "Bzzz— The mobile phone in my pocket finally vibrates."
+  },
+  {
+    "line": 395,
+    "text": "Seeing that Nadeshiko is wholeheartedly enjoying the scenery, I slow down to check my messages."
+  },
+  {
+    "line": 396,
+    "text": "\"All set!\""
+  },
+  {
+    "line": 397,
+    "text": "{character:player}Um, Nadeshiko, we've been walking for a while now. Shall we go back?"
+  },
+  {
+    "line": 398,
+    "text": "{character:Nadeshiko}Oh yeah. I think Ayane and the others should arrive soon. They're so slow."
+  },
+  {
+    "line": 399,
+    "text": "{character:player}Haha, they don't want to be late either. I'm sure there's a good reason."
+  },
+  {
+    "line": 400,
+    "text": "{character:Nadeshiko}Hehe, I can't wait to see what they have managed to achieve in 20 minutes. What about you?"
+  },
+  {
+    "line": 401,
+    "text": "{character:player}Obliviously that their last-minute decorations won't be as good as expected...!"
+  },
+  {
+    "line": 403,
+    "text": "{character:Nadeshiko}Haha, I knew it. I knew I was right. The three figures hiding behind the bush were a little too obvious."
+  },
+  {
+    "line": 404,
+    "text": "{character:player}...Oh, darn it! We were so close!"
+  },
+  {
+    "line": 405,
+    "text": "{character:Nadeshiko}Haha, I didn't expect you to participate in their surprise challenge thing. Unfortunately for you, I'm the winner again this year. In that case, as the \"loser,\" you should follow my instructions now."
+  },
+  {
+    "line": 406,
+    "text": "This game of preparing a surprise and trying to see through the surprise seems to have become a harmless game between Nadeshiko and her friends. I raise my hands to surrender."
+  },
+  {
+    "line": 407,
+    "text": "{character:player}I surrender. What do you want me to do, Nadeshiko?"
+  },
+  {
+    "line": 408,
+    "text": "After 15 minutes, I enter the camp anxiously and pretend to chat about the plan's detail with the other three. Then I tell them that the plan has changed and lure them out of the spot where they are hiding in the camp."
+  },
+  {
+    "line": 409,
+    "text": "Bang! The three of them are attacked by Nadeshiko's party poppers immediately after they get out"
+  },
+  {
+    "line": 410,
+    "text": "With a party popper in her hands, Nadeshiko looks at the three of them who are still in shock and covered with colorful confetti."
+  },
+  {
+    "line": 411,
+    "text": "{character:Nadeshiko}I noticed you guys this year, so you need to try harder next year."
+  },
+  {
+    "line": 412,
+    "text": "Friends"
+  },
+  {
+    "line": 413,
+    "text": "{character:Friends}...Ah! {var:player_nickname}, you betrayed us!"
+  },
+  {
+    "line": 414,
+    "text": "{character:player}Hahaha, sorry—"
+  },
+  {
+    "line": 415,
+    "text": "The dying flames of campfires at the foot of the mountain look like little spots of light."
+  },
+  {
+    "line": 416,
+    "text": "Although we didn't manage to complete the surprise challenge, everyone still had a great time. After learning about everything that happened today, Nadeshiko complained about how bad our performance was and how we didn't even think of a reason why they would be late."
+  },
+  {
+    "line": 417,
+    "text": "But she also decided to cook food and make drinks for everyone. She also domineeringly said that no one would be allowed to get in her way. As a result, we also had an unforgettable night like this."
+  },
+  {
+    "line": 419,
+    "text": "After confirming that everyone was asleep, I am ready to get inside my own tent to get some rest. Suddenly, a hand grabs my wrist."
+  },
+  {
+    "line": 420,
+    "text": "{character:player}...Nadeshiko?"
+  },
+  {
+    "line": 421,
+    "text": "Nadeshiko, who I had just accompanied back to her tent, has returned."
+  },
+  {
+    "line": 424,
+    "text": "I look at Nadeshiko under the dim light and realize how drunk she really is under her seemingly calm expression."
+  },
+  {
+    "line": 425,
+    "text": "{character:Nadeshiko}Follow me."
+  },
+  {
+    "line": 427,
+    "text": "Nadeshiko and I are inside the mountain campsite. Under the influence, she insisted on taking me here from the foot of the mountain half an hour ago."
+  },
+  {
+    "line": 428,
+    "text": "{character:player}Be careful and take your time. I remember the lights are around here... Let me look for..."
+  },
+  {
+    "line": 429,
+    "text": "{character:Nadeshiko}Hmm... Mmm!!"
+  },
+  {
+    "line": 430,
+    "text": "{character:player}Mmm!!"
+  },
+  {
+    "line": 431,
+    "text": "Nadeshiko, who was swaying on her feet stumbles for some reason. She tries to grab me for support but ends up pulling me down with her."
+  },
+  {
+    "line": 432,
+    "text": "Thump—"
+  },
+  {
+    "line": 433,
+    "text": "After some collisions, we inadvertently switch on a lamp in the small room. I squint to adjust to the warm light and look at Nadeshiko in front of me."
+  },
+  {
+    "line": 434,
+    "text": "{character:Nadeshiko}Oh..."
+  },
+  {
+    "line": 436,
+    "text": "{character:Nadeshiko}Oh... So this is where you decorated the party for me... It's a shame I didn't get to see what it looked like after everything is completed."
+  },
+  {
+    "line": 439,
+    "text": "{character:player}Eh?"
+  },
+  {
+    "line": 440,
+    "text": "Nadeshiko grabs a red ribbon next to her."
+  },
+  {
+    "line": 441,
+    "text": "{character:Nadeshiko}Give me your hand."
+  },
+  {
+    "line": 442,
+    "text": "{character:player}...?"
+  },
+  {
+    "line": 445,
+    "text": "{character:player}Nadeshiko, what are you doing?"
+  },
+  {
+    "line": 446,
+    "text": "{character:Nadeshiko}Leaving a mark."
+  },
+  {
+    "line": 447,
+    "text": "{character:player}What?"
+  },
+  {
+    "line": 448,
+    "text": "{character:Nadeshiko}You dummy. If I tie a bow on the surprise, I'll be able to recognize it immediately the next time it appears in front of me. I'll DEFINITELY recognize it with one glance!"
+  },
+  {
+    "line": 449,
+    "text": "Nadeshiko ties an uneven bow around my wrist, but she is really satisfied with herself and smiles drunkenly after patting it."
+  },
+  {
+    "line": 450,
+    "text": "{character:Nadeshiko}...It's beautiful... Everything is the way I like it..."
+  },
+  {
+    "line": 451,
+    "text": "As she speaks, her head starts to drop. Fortunately, I catch her quickly before she falls to the ground and rest her head on my palm."
+  },
+  {
+    "line": 452,
+    "text": "{character:player}Nadeshiko?"
+  },
+  {
+    "line": 453,
+    "text": "{character:Nadeshiko}...Zzz... Zzz..."
+  },
+  {
+    "line": 454,
+    "text": "She falls asleep on the pillow formed by my palm. Her slightly moist breath hits the skin of my wrist gently, imbuing even the slightly cool red ribbon with her warmth."
+  },
+  {
+    "line": 456,
+    "text": "{character:Chihori Terasaki}One year, I made her a birthday magazine and gave it to her pretending that it was the motorcycle magazine she has subscribed to, but she recognized it immediately because it had a different thickness than usual."
+  },
+  {
+    "line": 457,
+    "text": "{character:Chihori Terasaki}+1"
+  },
+  {
+    "line": 457,
+    "text": "{character:Ayane Kisaragi}+1"
+  },
+  {
+    "line": 458,
+    "text": "Ask Nadeshiko's family about what they know of her habits"
+  },
+  {
+    "line": 459,
+    "text": "Refer to her friends' experiences and past birthday celebration locations"
+  },
+  {
+    "line": 460,
+    "text": "Check out Nadeshiko's social media for clues"
+  },
+  {
+    "line": 461,
+    "text": "{character:Driving Instructor}But if you want to know all this, why don't you just ask her father directly? He's here today."
+  },
+  {
+    "line": 462,
+    "text": "Maintenance room of the driving school"
+  },
+  {
+    "line": 463,
+    "text": "Go to the restaurant"
+  },
+  {
+    "line": 464,
+    "text": "Ask about other information"
+  },
+  {
+    "line": 465,
+    "text": "{character:Nadeshiko's Father}I can finally stop worrying now, right?"
+  },
+  {
+    "line": 466,
+    "text": "Go to the sports bar"
+  },
+  {
+    "line": 467,
+    "text": "Sorry, I pressed the button by mistake."
+  },
+  {
+    "line": 468,
+    "text": "I deleted this photo by mistake, so I was thinking of saving it from your album."
+  },
+  {
+    "line": 471,
+    "text": "Decide that it is this restaurant"
+  },
+  {
+    "line": 472,
+    "text": "Investigate further through other channels"
+  },
+  {
+    "line": 473,
+    "text": "Three days later, on the day of the birthday"
+  },
+  {
+    "line": 474,
+    "text": "According to the information provided by the owner of the sports bar, I can confirm that Nadeshiko is planning on inviting her friends to this sports bar this weekend and making special drinks for everyone!"
+  },
+  {
+    "line": 475,
+    "text": "I quickly notify everyone in the Ultimate Challenge group. Everyone helps out to decorate the place with the support of the owner of the sports bar. I also order a birthday cake for her. When I think about how I'll get to try the special drink Nadeshiko makes for us on the day, I just can't wait for the weekend to arrive."
+  },
+  {
+    "line": 476,
+    "text": "{character:Nadeshiko}Oh? Didn't I tell you about the venue? I think I forgot to tell you because I was too busy."
+  },
+  {
+    "line": 478,
+    "text": "My voice gets quieter as I speak. How could it be camping? I thought we would be going to the sports bar??//nMy eyes black out momentarily when I think of the decorated venue."
+  },
+  {
+    "line": 479,
+    "text": "{character:player}...So you just forgot and it's not intentional?!"
+  },
+  {
+    "line": 480,
+    "text": "{character:Nadeshiko}What? Why would you have such strange thoughts? Of course I forgot. But you don't need to worry about preparing food for camping. I arranged everything and even prepared drinks. We can just take it from a bar I'm familiar with directly when we get there in a moment."
+  },
+  {
+    "line": 481,
+    "text": "{character:player}...You wouldn't happen to be talking about that sports bar, right?"
+  },
+  {
+    "line": 482,
+    "text": "{character:Nadeshiko}Yeah, but how did you guess that?"
+  },
+  {
+    "line": 483,
+    "text": "Nadeshiko seems to realize something and parks the motorcycle on the side of the road. At this point, all I can do is explain what happened."
+  },
+  {
+    "line": 484,
+    "text": "After explaining things briefly to Nadeshiko."
+  },
+  {
+    "line": 485,
+    "text": "{character:Nadeshiko}Hahaha! I didn't expect you to join them in this challenge. That's so surprising! Although I don't want to waste your preparations, I've prepared some special food in addition to the drinks for today's camping experience, so it wouldn't be very suitable at this restaurant."
+  },
+  {
+    "line": 486,
+    "text": "{character:player}Oh, I see."
+  },
+  {
+    "line": 487,
+    "text": "{character:Nadeshiko}So why don't we follow my original plan for today? We'll go get the alcohol I ordered and explain things to the owner before we leave, okay?"
+  },
+  {
+    "line": 488,
+    "text": "At the sports bar"
+  },
+  {
+    "line": 489,
+    "text": "Ask Nadeshiko's friends"
+  },
+  {
+    "line": 491,
+    "text": "Although Nadeshiko and Chihori go to this sports bar frequently, one of the attendees of the party is Kana Fujita, a high schooler who isn't supposed to drink alcohol, which means this venue isn't very suitable. I believe Nadeshiko won't forget that."
+  },
+  {
+    "line": 492,
+    "text": "Investigate via other channels."
+  },
+  {
+    "line": 493,
+    "text": "Ask Nadeshiko's family"
+  },
+  {
+    "line": 495,
+    "text": "{character:player}Huh?"
+  },
+  {
+    "line": 496,
+    "text": "{character:player}Oh, it's camping. Take it easy."
+  },
+  {
+    "line": 497,
+    "text": "{character:player}Thank you!"
+  },
+  {
+    "line": 499,
+    "text": "Follow the original plan"
+  },
+  {
+    "line": 500,
+    "text": "Change your mind and follow a different plan"
+  },
+  {
+    "line": 501,
+    "text": "Nadeshiko and I arrive at the destination, an outdoor camping venue on the outskirts of One Han City, after an hour. As planned, the campsite manager greeted us and said the script he prepared in advance with an apologetic expression on his face."
+  },
+  {
+    "line": 502,
+    "text": "Campsite"
+  },
+  {
+    "line": 504,
+    "text": "{character:player}Good!"
+  },
+  {
+    "line": 505,
+    "text": "{character:player}...Um, we rushed the preparations this time. I'll definitely give you a surprise you won't see coming next time."
+  },
+  {
+    "line": 507,
+    "text": "Twenty minutes later"
+  },
+  {
+    "line": 508,
+    "text": "I'm sure"
+  },
+  {
+    "line": 509,
+    "text": "Check other information first"
+  },
+  {
+    "line": 511,
+    "text": "{character:player}But I don't think she'll arrange her birthday party at the driving school since she's actively organizing it herself this year..."
+  },
+  {
+    "line": 512,
+    "text": "{character:Nadeshiko}{var:player_nickname}, Although I don't want to waste your preparations, I can't handle the enthusiastic service of that restaurant, so why don't we follow my original plan for today? We'll go get the food I ordered and explain things and apologize to the restaurant's owner before we leave."
+  },
+  {
+    "line": 516,
+    "text": "Go to the sports bar"
+  },
+  {
+    "line": 518,
+    "text": "I'm not sure. Check out Nadeshiko's social media for clues"
+  },
+  {
+    "line": 520,
+    "text": "{character:Nadeshiko's Father}..."
+  },
+  {
+    "line": 521,
+    "text": "Should I listen to his recommendation and check out this Cute Mix restaurant, or should I keep investigating information from other channels?"
+  },
+  {
+    "line": 524,
+    "text": "{character:player}Nadeshiko, are you okay?"
+  },
+  {
+    "line": 525,
+    "text": "\"Ding\"— The moment the door opened, an employee wearing a cute outfit starts smiling at me enthusiastically."
+  },
+  {
+    "line": 526,
+    "text": "{character:player}I get that. (ROFL.jpg)"
+  },
+  {
+    "line": 528,
+    "text": "Everyone's brains shut down instantly the moment I blurt that out."
+  },
+  {
+    "line": 529,
+    "text": "{character:player}Good night, everyone—"
+  },
+  {
+    "line": 530,
+    "text": "The flashlight of a mobile phone illuminates this quiet and empty room, revealing a small interior layout.//n—Although it's a little messy here, there are balloons printed with the words \"Happy Birthday\" on them, as well as some large gift boxes and large decorations."
+  },
+  {
+    "line": 533,
+    "text": "{character:Kana Fujita}That's enough chatting. Find a way to lead her away for a while. My legs are going numb!"
+  },
+  {
+    "line": 535,
+    "text": "I think to myself as I leave. Has Nadeshiko really decided to hold her party here?"
+  },
+  {
+    "line": 537,
+    "text": "I didn't expect the restaurant Ayane Kisaragi mentioned to be the same one her father suggested!"
+  },
+  {
+    "line": 538,
+    "text": "The image of a sixteen-year-old Nadeshiko being forced to sit in a crowd with a small crystal tiara on her head, listening to the cheerful singing of employees in a place filled with pink bubbles and moving stiffly to make cute poses makes me laugh really rudely with my phone in my hand. I'm more sure than ever that this isn't where she'll have her party."
+  },
+  {
+    "line": 540,
+    "text": "To find out what she's thinking, I better start searching from her social media. There might be some clues hidden in her daily records of her mood, so it might be the most direct way to get clues."
+  },
+  {
+    "line": 541,
+    "text": "To find out what she's thinking, her social media, where she records her mood daily should be the most direct way to get clues."
+  },
+  {
+    "line": 545,
+    "text": "With this thought in mind, I search Nadeshiko's CatChat."
+  },
+  {
+    "line": 547,
+    "text": "After returning home and searching for a while..."
+  },
+  {
+    "line": 548,
+    "text": "To find out what she's thinking, her social media moments, where she records her feelings daily should be the most direct way to get clues."
+  },
+  {
+    "line": 552,
+    "text": "To find out what she's really thinking, I should keep checking her social media. There might be some clues hidden in her daily records of her mood, so it might be the most direct way to get clues."
+  },
+  {
+    "line": 555,
+    "text": "With this thought in mind, I quickly leave this sports bar."
+  },
+  {
+    "line": 556,
+    "text": "Nadeshiko's CatChat homepage isn't updated very frequently, and most updates are her complaints that reflect her mood at that time. There is basically nothing that is obviously related to her birthday preferences."
+  },
+  {
+    "line": 563,
+    "text": "According to today's Internet social etiquette, it's quite obvious that there should be a reason for liking a CatChat post from more than ten days ago. Will my plan to prepare her a surprise be exposed here?!"
+  },
+  {
+    "line": 564,
+    "text": "I sit on the motorcycle quickly without waiting for her to speak."
+  },
+  {
+    "line": 565,
+    "text": "{character:Nadeshiko}Oh? You sure are proactive today."
+  },
+  {
+    "line": 566,
+    "text": "{character:player}Haha, I'll be following all your arrangements today since you're the birthday girl!"
+  },
+  {
+    "line": 568,
+    "text": "{character:player}Oh, so you forgot? I thought you wanted to give us a surprise."
+  },
+  {
+    "line": 570,
+    "text": "{character:Nadeshiko}To be honest, I was inspired by the innkeeper and wanted to experience some camping activities like building a tent, cooking food, and mixing drinks... I started preparing half a month in advance and learned how to do some of that. We'll go pick up the food and alcohol I ordered in advance from the shops."
+  },
+  {
+    "line": 571,
+    "text": "{character:Nadeshiko}...Fine, I guess that's okay too."
+  },
+  {
+    "line": 572,
+    "text": "{character:player}...I see! It sounds amazing. I can't wait!"
+  },
+  {
+    "line": 573,
+    "text": "{character:Nadeshiko}Hold on, I'll let everyone know now."
+  },
+  {
+    "line": 574,
+    "text": "I send my message quickly in the group chat. On our way to the campsite, I use every opportunity I get while Nadeshiko is getting the food and alcohol she ordered to discuss specific details with everyone."
+  },
+  {
+    "line": 578,
+    "text": "I decide to keep investigating via other channels."
+  },
+  {
+    "line": 581,
+    "text": "I was thinking of going to the driving school where Nadeshiko teaches to ask one of the driving instructors who watched her grow up for clues, but after checking the time, I realize that he should have left work by the time I arrive there. I should go home and check Nadeshiko's social media for clues today."
+  },
+  {
+    "line": 583,
+    "text": "{character:Nadeshiko's Father}Well... You're right about that... Oh yes, she recently mentioned a restaurant to me. She said it's a place she went to when she was still at school and that she remembered that place well! Is it possible that she wants to take you and your friends there?"
+  },
+  {
+    "line": 584,
+    "text": "A restaurant that Nadeshiko mentioned a few days ago? Instantly intrigued, I ask Nadeshiko's father to find their chat records and soon confirm the restaurant on my phone. It's the restaurant called Cute Mix that Ayane Kisaragi mentioned, which is known in One Han City for its warm service and cute style!"
+  },
+  {
+    "line": 585,
+    "text": "{character:player}Um.. Haha..."
+  },
+  {
+    "line": 590,
+    "text": "Having discovered a lot, with a trace of hesitation, I leave the driving school at Nadeshiko's father's urging."
+  },
+  {
+    "line": 592,
+    "text": "Based on what Ayane Kisaragi said, it's very unlikely that Nadeshiko will choose to celebrate her birthday at Cute Mix again. She probably told her father she remembered it well because she remembers the embarrassing situation from back then. This path leads to a dead end, so I better check her social media after I go home to see if there are other possibilities."
+  },
+  {
+    "line": 593,
+    "text": "After several urgent and secret discussions..."
+  },
+  {
+    "line": 594,
+    "text": "{character:Nadeshiko's Father}It looks like a good place for young people to have a gathering. This must be the place!"
+  },
+  {
+    "line": 595,
+    "text": "With this thought in mind, I decide to search Nadeshiko's CatChat again."
+  },
+  {
+    "line": 596,
+    "text": "Narration"
+  },
+  {
+    "line": 599,
+    "text": "I should go home and check Nadeshiko's social media for clues today."
+  },
+  {
+    "line": 600,
+    "text": "{character:Nadeshiko}Well, it's good..."
+  },
+  {
+    "line": 601,
+    "text": "{character:Nadeshiko}Hold on, did I forget to tell you we're going camping?"
+  },
+  {
+    "line": 602,
+    "text": "{character:Nadeshiko}Shush, darling... They're all asleep... Whether they were surrounded by reporters or forced to write a whole day's press release in an hour, they tried really hard to come here to celebrate my birthday, so let's not wake them up."
+  },
+  {
+    "line": 603,
+    "text": "{character:player}Um... why... why did you suddenly call me that... Also, aren't these things the excuses they gave you in the morning when they said they would be late? Aren't they also the same things you've been complaining about all night?"
+  },
+  {
+    "line": 604,
+    "text": "{character:Nadeshiko}Huh? I won't give you that chance, darling."
+  },
+  {
+    "line": 606,
+    "text": "...She still has such a strong presence even when she's drunk. I smile and give Nadeshiko my hand. In the next second, something cool and silky is wrapped around my wrist... It's the silk ribbon Nadeshiko was holding."
+  },
+  {
+    "line": 608,
+    "text": "{character:Messages}(Message) Although I know this is her style, it does leave me feeling powerless sometimes."
+  },
+  {
+    "line": 609,
+    "text": "{character:Nadeshiko}Aren't you going to be obedient, darling?"
+  },
+  {
+    "line": 610,
+    "text": "At this moment, the loosely tied knot seems to have the indissoluble binding power of a magical contract. I know that we'll be each other's surprise from now on. For example, Nadeshiko always likes to come right up to me and call me darling. In her words, this is just the beginning of the surprise..."
+  }
+]

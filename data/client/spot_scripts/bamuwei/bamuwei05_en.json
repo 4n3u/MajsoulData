@@ -1,0 +1,1122 @@
+[
+  {
+    "line": 10,
+    "text": "player"
+  },
+  {
+    "line": 295,
+    "text": "Hinata Takanashi"
+  },
+  {
+    "line": 296,
+    "text": "The sea looks absolutely stunning..."
+  },
+  {
+    "line": 297,
+    "text": "Beach, One Han City"
+  },
+  {
+    "line": 298,
+    "text": "Natsuki Shinomiya"
+  },
+  {
+    "line": 299,
+    "text": "Ah-ha! First one here!"
+  },
+  {
+    "line": 300,
+    "text": "Hideki Akechi"
+  },
+  {
+    "line": 301,
+    "text": "Looks like we've got this entire beach all to ourselves."
+  },
+  {
+    "line": 302,
+    "text": "Mirai"
+  },
+  {
+    "line": 303,
+    "text": "I mean, it's not really beach season yet, is it?"
+  },
+  {
+    "line": 304,
+    "text": "But the sun feels so perfect today!"
+  },
+  {
+    "line": 305,
+    "text": "Definitely! Plenty of sunlight without the scorching heat."
+  },
+  {
+    "line": 306,
+    "text": "Hey, you slowpokes! Don't leave me hanging out here by myself! Catch up already!"
+  },
+  {
+    "line": 307,
+    "text": "Since a few friends had some free time lately, I thought it'd be fun to get everyone to the beach."
+  },
+  {
+    "line": 308,
+    "text": "The water's too chilly for swimming right now, but that hasn't stopped everyone from having fun."
+  },
+  {
+    "line": 309,
+    "text": "Especially Hinata and Mirai, who are running around like excited kids."
+  },
+  {
+    "line": 310,
+    "text": "Yui Yagi"
+  },
+  {
+    "line": 311,
+    "text": "..."
+  },
+  {
+    "line": 312,
+    "text": "Watching the others play from afar, Yui narrows her eyes slightly, as if the sun is too bright for her."
+  },
+  {
+    "line": 313,
+    "text": "Though we've been talking a lot recently, this is my first time inviting her out. I still can't quite figure out what's going on in her mind..."
+  },
+  {
+    "line": 314,
+    "text": "Everyone seems to be enjoying themselves."
+  },
+  {
+    "line": 316,
+    "text": "Yes, they are. Are you enjoying yourself too?"
+  },
+  {
+    "line": 317,
+    "text": "I don't know."
+  },
+  {
+    "line": 318,
+    "text": "Yui neither confirms nor denies... better to steer the conversation elsewhere."
+  },
+  {
+    "line": 319,
+    "text": "Speaking of beaches, when was the last time you visited one?"
+  },
+  {
+    "line": 320,
+    "text": "10 years and 3 months ago."
+  },
+  {
+    "line": 321,
+    "text": "That's quite a long time..."
+  },
+  {
+    "line": 322,
+    "text": "Wait, you remember it down to the month?"
+  },
+  {
+    "line": 323,
+    "text": "Yes, it was the first time I went to the beach with my family."
+  },
+  {
+    "line": 324,
+    "text": "I didn't know how to swim then, which was disappointing, so I took swimming lessons afterward."
+  },
+  {
+    "line": 325,
+    "text": "Oh? So you can swim now?"
+  },
+  {
+    "line": 326,
+    "text": "Are you doubting me?"
+  },
+  {
+    "line": 327,
+    "text": "No, not at all! I'd never do that."
+  },
+  {
+    "line": 328,
+    "text": "That said, I'm having a hard time imagining Yui in the water."
+  },
+  {
+    "line": 329,
+    "text": "I'd love to prove it to you, but the ocean's still off-limits for swimming."
+  },
+  {
+    "line": 330,
+    "text": "What a pity."
+  },
+  {
+    "line": 332,
+    "text": "How about we go beachcombing instead?"
+  },
+  {
+    "line": 334,
+    "text": "It's okay, searching for seashells on the beach is fun too."
+  },
+  {
+    "line": 335,
+    "text": "Hearing this, Yui suddenly turns her gaze toward me."
+  },
+  {
+    "line": 336,
+    "text": "Wh-what's wrong?"
+  },
+  {
+    "line": 337,
+    "text": "Senpai..."
+  },
+  {
+    "line": 338,
+    "text": "If I find any pretty shells, I'll give them to you."
+  },
+  {
+    "line": 340,
+    "text": "Sure, thank you."
+  },
+  {
+    "line": 342,
+    "text": "Sure, I'll try to find some nice ones too."
+  },
+  {
+    "line": 343,
+    "text": "Hey! How about a game of beach volleyball?!"
+  },
+  {
+    "line": 344,
+    "text": "Hehehe... I knew someone would suggest this. Look! I came prepared with a ball!"
+  },
+  {
+    "line": 345,
+    "text": "Ah, this must be the work of some divine power... the god of spheres has blessed me with its power!"
+  },
+  {
+    "line": 346,
+    "text": "I mean, people typically bring volleyballs to the beach anyway..."
+  },
+  {
+    "line": 347,
+    "text": "It does sound fun, though. Are you and {var:player_nickname} joining us, Yui?"
+  },
+  {
+    "line": 348,
+    "text": "Of course, I'd never turn down a game."
+  },
+  {
+    "line": 349,
+    "text": "Next to me, Yui nods slightly, her face as unreadable as always."
+  },
+  {
+    "line": 350,
+    "text": "After drawing lots to form teams, I'm grouped with Yui and Hideki."
+  },
+  {
+    "line": 351,
+    "text": "I assumed Yui wouldn't be athletic, but she's surprisingly skilled at volleyball."
+  },
+  {
+    "line": 352,
+    "text": "But none of us has had any professional training, so the match basically looks like a bunch of amateurs just fumbling around..."
+  },
+  {
+    "line": 353,
+    "text": "Here it comes!"
+  },
+  {
+    "line": 354,
+    "text": "Hmph!"
+  },
+  {
+    "line": 355,
+    "text": "Take this!"
+  },
+  {
+    "line": 356,
+    "text": "Haha, it's nice to get some exercise once in a while."
+  },
+  {
+    "line": 357,
+    "text": "Mmm, this is fun."
+  },
+  {
+    "line": 358,
+    "text": "Nice one! We just scored!"
+  },
+  {
+    "line": 359,
+    "text": "The game has been neck and neck, and now we're at 20-19, our match point."
+  },
+  {
+    "line": 360,
+    "text": "Nooo... we can't afford to lose this one!"
+  },
+  {
+    "line": 361,
+    "text": "I'm going all out! Take this! Midnight Inferno!"
+  },
+  {
+    "line": 362,
+    "text": "Big talk, slow walk. I jumped the gun trying to block that slowpoke..."
+  },
+  {
+    "line": 363,
+    "text": "{var:player_nickname}! Catch it!"
+  },
+  {
+    "line": 364,
+    "text": "The volleyball soars toward my head."
+  },
+  {
+    "line": 365,
+    "text": "I track the ball while checking my teammates' positions from the corner of my eye. Yui is standing back, and she seems to be looking at me."
+  },
+  {
+    "line": 366,
+    "text": "Somehow I can feel the confidence in her eyes. But..."
+  },
+  {
+    "line": 367,
+    "text": "A quick look at the other side shows all three opponents standing deep in their court, with the net area completely unguarded."
+  },
+  {
+    "line": 368,
+    "text": "If I could just tap the ball over to their front court, we'd win. What's the best move here?"
+  },
+  {
+    "line": 370,
+    "text": "Set the ball for Yui."
+  },
+  {
+    "line": 372,
+    "text": "Use a fake-out shot."
+  },
+  {
+    "line": 373,
+    "text": "Yui, this one's yours!"
+  },
+  {
+    "line": 374,
+    "text": "...!"
+  },
+  {
+    "line": 375,
+    "text": "Yui's eyes flash with determination as she jumps high into the air..."
+  },
+  {
+    "line": 376,
+    "text": "Whoosh – Yui's powerful spike hits nothing but thin air."
+  },
+  {
+    "line": 377,
+    "text": "That's quite the powerful whiff, Yui."
+  },
+  {
+    "line": 378,
+    "text": "How did I miss?"
+  },
+  {
+    "line": 379,
+    "text": "After that, the other team seized the momentum and eventually defeated us."
+  },
+  {
+    "line": 380,
+    "text": "After the match, Yui just stood there, staring silently at the volleyball rolling across the sand."
+  },
+  {
+    "line": 381,
+    "text": "It's obvious she's feeling pretty down..."
+  },
+  {
+    "line": 382,
+    "text": "Yui?"
+  },
+  {
+    "line": 383,
+    "text": "My hand position during the spike should have been correct..."
+  },
+  {
+    "line": 384,
+    "text": "Maybe I jumped too soon?"
+  },
+  {
+    "line": 385,
+    "text": "But if I could increase the momentum, perhaps I can maintain kinetic energy while controlling my midair posture better..."
+  },
+  {
+    "line": 386,
+    "text": "Yui finds a stick from somewhere and begins writing complex calculations in the sand."
+  },
+  {
+    "line": 388,
+    "text": "Yui, the sun's starting to set."
+  },
+  {
+    "line": 390,
+    "text": "Don't worry, it's just a friendly game!"
+  },
+  {
+    "line": 391,
+    "text": "Yui doesn't seem to hear me, still absorbed in her diagrams and calculations..."
+  },
+  {
+    "line": 392,
+    "text": "Can I get you something to drink?"
+  },
+  {
+    "line": 393,
+    "text": "I'd like an iced coffee."
+  },
+  {
+    "line": 394,
+    "text": "Sure thing."
+  },
+  {
+    "line": 395,
+    "text": "My angle is perfect! I start by aiming high toward their back court, then suddenly flip my wrist to hit a clean, straight shot to their undefended front court."
+  },
+  {
+    "line": 396,
+    "text": "Natsuki lunges desperately toward the ball, but he's just a split second too slow."
+  },
+  {
+    "line": 397,
+    "text": "When the volleyball hits the sand, the match ends with our victory."
+  },
+  {
+    "line": 398,
+    "text": "Argh, I just couldn't get there in time!"
+  },
+  {
+    "line": 399,
+    "text": "That was so cool... I had no idea you were faking..."
+  },
+  {
+    "line": 400,
+    "text": "Seeing the disappointed looks on my opponents' faces gives me a little rush of pride."
+  },
+  {
+    "line": 401,
+    "text": "As I turn to celebrate with my teammates, I suddenly notice something's not right."
+  },
+  {
+    "line": 402,
+    "text": "Senpai..."
+  },
+  {
+    "line": 403,
+    "text": "... (staring)"
+  },
+  {
+    "line": 404,
+    "text": "Oh, I see..."
+  },
+  {
+    "line": 405,
+    "text": "Sorry, were you waiting for me to set the ball for you?"
+  },
+  {
+    "line": 406,
+    "text": "Now that I think about it, Yui's position was ideal for a spike."
+  },
+  {
+    "line": 407,
+    "text": "{var:player_nickname}, seriously. As the team leader, you should be more considerate of Yui's feelings."
+  },
+  {
+    "line": 408,
+    "text": "Hold on a second?! Since when am I the team leader?!"
+  },
+  {
+    "line": 409,
+    "text": "Senpai."
+  },
+  {
+    "line": 410,
+    "text": "Yui gives my shoulder a little poke with her finger."
+  },
+  {
+    "line": 411,
+    "text": "Buy me coffee and I'll forgive you."
+  },
+  {
+    "line": 412,
+    "text": "Eh? Coffee?"
+  },
+  {
+    "line": 413,
+    "text": "Despite what she's saying, Yui doesn't appear angry at all. If anything, she seems almost... happy?"
+  },
+  {
+    "line": 414,
+    "text": "Is she just playing a joke on me...?"
+  },
+  {
+    "line": 415,
+    "text": "Alright. What kind of coffee would you like?"
+  },
+  {
+    "line": 416,
+    "text": "Just a regular iced coffee, thanks."
+  },
+  {
+    "line": 417,
+    "text": "This is a good opportunity to get some drinks to refresh ourselves after playing. Luckily, there's a vending machine in the nearby parking lot where I easily buy a can of iced coffee."
+  },
+  {
+    "line": 418,
+    "text": "I might as well buy drinks for everyone else too."
+  },
+  {
+    "line": 419,
+    "text": "With this in mind, I load all the drinks into a bag. But when I get back to the beach, I'm met with an unexpected situation."
+  },
+  {
+    "line": 420,
+    "text": "Yui is gone."
+  },
+  {
+    "line": 421,
+    "text": "Has anyone seen Yui?"
+  },
+  {
+    "line": 422,
+    "text": "Eh? Yui?"
+  },
+  {
+    "line": 423,
+    "text": "You're right. Where did Yui go?"
+  },
+  {
+    "line": 424,
+    "text": "Weird... I can see from one end of this beach to the other, so she shouldn't be hard to find."
+  },
+  {
+    "line": 425,
+    "text": "At that moment, I suddenly remember what Yui and I talked about earlier."
+  },
+  {
+    "line": 426,
+    "text": "Did she go into the ocean alone to prove she can swim because I doubted her earlier?!"
+  },
+  {
+    "line": 427,
+    "text": "I'll search along the shoreline!"
+  },
+  {
+    "line": 428,
+    "text": "Good idea! We'll all spread out and search!"
+  },
+  {
+    "line": 429,
+    "text": "If I'm right about this... this could be serious."
+  },
+  {
+    "line": 430,
+    "text": "We decide to split up and comb the beach, but none of us can find Yui."
+  },
+  {
+    "line": 431,
+    "text": "There's no way she was pulled out to sea by the waves, right...?"
+  },
+  {
+    "line": 433,
+    "text": "Growing increasingly worried, I follow the shoreline until I reach a rocky area."
+  },
+  {
+    "line": 434,
+    "text": "The beach gives way to an unbroken stretch of large, jagged rocks that march right out into the ocean."
+  },
+  {
+    "line": 436,
+    "text": "Phew. Finally, there you are."
+  },
+  {
+    "line": 437,
+    "text": "Senpai? What's wrong?"
+  },
+  {
+    "line": 438,
+    "text": "Yui doesn't seem to realize what's happened, her eyes clear and curious despite her typical lack of expression."
+  },
+  {
+    "line": 439,
+    "text": "Thank goodness you're alright... everyone's been worried sick. I need to let them know you're safe."
+  },
+  {
+    "line": 440,
+    "text": "Wait."
+  },
+  {
+    "line": 441,
+    "text": "Don't tell them where we are just yet."
+  },
+  {
+    "line": 442,
+    "text": "Hm?"
+  },
+  {
+    "line": 443,
+    "text": "While I don't know why Yui wants this, I respect her wish and simply message the group: \"Found Yui, everything's fine.\""
+  },
+  {
+    "line": 444,
+    "text": "I put my phone away, and Yui climbs up onto the rocks to join me."
+  },
+  {
+    "line": 445,
+    "text": "As she gets closer, I see she's holding several small shimmering white fragments in her palm."
+  },
+  {
+    "line": 446,
+    "text": "You came all the way out here... for shells."
+  },
+  {
+    "line": 447,
+    "text": "She must have been so focused on finding seashells that she wandered to this hidden spot without realizing."
+  },
+  {
+    "line": 448,
+    "text": "Yes, but they're not particularly rare..."
+  },
+  {
+    "line": 449,
+    "text": "Still, I'd like you to have them."
+  },
+  {
+    "line": 450,
+    "text": "Thank you, Yui. I appreciate it."
+  },
+  {
+    "line": 451,
+    "text": "There's no need for thanks between us."
+  },
+  {
+    "line": 452,
+    "text": "Eh...?"
+  },
+  {
+    "line": 453,
+    "text": "Senpai..."
+  },
+  {
+    "line": 454,
+    "text": "Hmm?"
+  },
+  {
+    "line": 455,
+    "text": "Could you stay and talk with me for a bit?"
+  },
+  {
+    "line": 456,
+    "text": "Of course."
+  },
+  {
+    "line": 457,
+    "text": "She nods, looking satisfied."
+  },
+  {
+    "line": 458,
+    "text": "The waves crash against the rocks with a soothing sound that's both relaxing and pleasant to the ear."
+  },
+  {
+    "line": 459,
+    "text": "We sit side by side on the rocks, enjoying the peaceful sea and looking out toward the horizon."
+  },
+  {
+    "line": 460,
+    "text": "Back in ancient times, I doubt anyone believed the earth beneath them was a sphere."
+  },
+  {
+    "line": 461,
+    "text": "But there was an ancient civilization that believed the earth was a hemisphere supported on an elephant's back."
+  },
+  {
+    "line": 462,
+    "text": "And beneath that elephant lurked a turtle even larger than the elephant."
+  },
+  {
+    "line": 463,
+    "text": "That's quite fascinating, don't you think?"
+  },
+  {
+    "line": 465,
+    "text": "I wonder what it was like for people to first discover they were living on a gigantic sphere."
+  },
+  {
+    "line": 466,
+    "text": "With how far technology has come, will we ever be truly surprised by a discovery again?"
+  },
+  {
+    "line": 467,
+    "text": "As the sun sinks, its brilliant light traces the outline of Yui's face."
+  },
+  {
+    "line": 468,
+    "text": "There's something in her expression that I can't quite grasp yet."
+  },
+  {
+    "line": 469,
+    "text": "You know so much. Is that from your scientist parents' influence?"
+  },
+  {
+    "line": 470,
+    "text": "Yes. They taught me a lot of things when they were still alive."
+  },
+  {
+    "line": 471,
+    "text": "Wait...?"
+  },
+  {
+    "line": 472,
+    "text": "Yui combs her fingers through her long hair and nods."
+  },
+  {
+    "line": 473,
+    "text": "They were in a plane crash before I started middle school."
+  },
+  {
+    "line": 474,
+    "text": "Don't give me that look..."
+  },
+  {
+    "line": 475,
+    "text": "It's all in the past now. I've learned to let it go."
+  },
+  {
+    "line": 476,
+    "text": "I see... thank you for telling me."
+  },
+  {
+    "line": 477,
+    "text": "You're incredibly strong, Yui."
+  },
+  {
+    "line": 478,
+    "text": "It's more like I've gotten so used to being alone that sometimes I feel afraid of how things are now."
+  },
+  {
+    "line": 479,
+    "text": "I love spending time with all of you, but I don't know how to show you my feelings."
+  },
+  {
+    "line": 480,
+    "text": "After all, I barely even know how to smile."
+  },
+  {
+    "line": 481,
+    "text": "Senpai..."
+  },
+  {
+    "line": 482,
+    "text": "What should I do?"
+  },
+  {
+    "line": 483,
+    "text": "I can help you practice smiling."
+  },
+  {
+    "line": 484,
+    "text": "I can tell when you're happy, you know."
+  },
+  {
+    "line": 485,
+    "text": "It's never too late to start practicing. I'm sure you'll be smiling naturally in no time."
+  },
+  {
+    "line": 486,
+    "text": "A natural smile..."
+  },
+  {
+    "line": 487,
+    "text": "What kind of practice should we do?"
+  },
+  {
+    "line": 488,
+    "text": "Well... let me think about it."
+  },
+  {
+    "line": 489,
+    "text": "To be frank, I don't really know exactly what we should do either."
+  },
+  {
+    "line": 490,
+    "text": "Perhaps we could start by exercising your facial muscles?"
+  },
+  {
+    "line": 492,
+    "text": "Do you mean the levator labii superioris, orbicularis oris, or masseter muscles?"
+  },
+  {
+    "line": 493,
+    "text": "Or maybe the orbicularis oculi, zygomaticus minor, or depressor anguli oris?"
+  },
+  {
+    "line": 494,
+    "text": "Or rather, the mentalis?"
+  },
+  {
+    "line": 495,
+    "text": "S-sorry, I don't understand any of those terms..."
+  },
+  {
+    "line": 496,
+    "text": "But the human face has about 30 different muscles."
+  },
+  {
+    "line": 498,
+    "text": "At this point, Yui's eyes suddenly grow wide."
+  },
+  {
+    "line": 499,
+    "text": "Are you saying everyone practices this advanced mental exercise every day?"
+  },
+  {
+    "line": 500,
+    "text": "That's exhausting... no wonder people often say socializing is complicated..."
+  },
+  {
+    "line": 502,
+    "text": "Let me put it this way..."
+  },
+  {
+    "line": 503,
+    "text": "Look, like this – just use your index fingers to push up the corners of your mouth."
+  },
+  {
+    "line": 504,
+    "text": "That's a basic smile right there. Wanna try?"
+  },
+  {
+    "line": 505,
+    "text": "Yui puts her index fingers against the corners of her mouth and pushes them up hard. The result looks extremely unnatural and rather funny..."
+  },
+  {
+    "line": 506,
+    "text": "She made a completely mechanical smile."
+  },
+  {
+    "line": 507,
+    "text": "So Yui really doesn't know how to smile..."
+  },
+  {
+    "line": 508,
+    "text": "Why are you laughing?"
+  },
+  {
+    "line": 509,
+    "text": "Ah, sorry about that."
+  },
+  {
+    "line": 510,
+    "text": "Watching you give it your all is just too adorable – I couldn't help myself."
+  },
+  {
+    "line": 511,
+    "text": "Adorable? Me?"
+  },
+  {
+    "line": 512,
+    "text": "Without a word, Yui stares intently at my face."
+  },
+  {
+    "line": 513,
+    "text": "I hope I didn't upset her..."
+  },
+  {
+    "line": 514,
+    "text": "Ah – so this is where Yui has been hiding!"
+  },
+  {
+    "line": 516,
+    "text": "Following behind her are the rest of our friends. Natsuki is carrying the drinks I bought earlier, and just like that, our group is reunited."
+  },
+  {
+    "line": 517,
+    "text": "Got busted. Too bad."
+  },
+  {
+    "line": 518,
+    "text": "Hmm? What was that?"
+  },
+  {
+    "line": 519,
+    "text": "Nothing."
+  },
+  {
+    "line": 520,
+    "text": "We play among the rocks, all six of us, bathed in the soft afterglow."
+  },
+  {
+    "line": 521,
+    "text": "Tiny fish swim happily back and forth in the numerous tide pools between the rocks."
+  },
+  {
+    "line": 523,
+    "text": "As we're all observing the tiny world in the tide pools, Yui suddenly stands up and points to something nearby."
+  },
+  {
+    "line": 524,
+    "text": "Following her gesture, I spot a strange creature trying to scale a rock, its back covered with writhing tentacles."
+  },
+  {
+    "line": 525,
+    "text": "That's a hermit crab."
+  },
+  {
+    "line": 526,
+    "text": "Is THAT what hermit crabs look like?!"
+  },
+  {
+    "line": 528,
+    "text": "Though this is my first time seeing one alive."
+  },
+  {
+    "line": 529,
+    "text": "I see... hold on, did you just..."
+  },
+  {
+    "line": 530,
+    "text": "Did you just smile?"
+  },
+  {
+    "line": 531,
+    "text": "I can't be completely sure, but I don't think I was imagining it. For just a moment, Yui's lips curved up at the corners."
+  },
+  {
+    "line": 532,
+    "text": "Eh?"
+  },
+  {
+    "line": 533,
+    "text": "I could be wrong. But from what I saw, you were definitely smiling just now."
+  },
+  {
+    "line": 534,
+    "text": "Is that so?"
+  },
+  {
+    "line": 535,
+    "text": "...That's great."
+  },
+  {
+    "line": 536,
+    "text": "Yui says softly, before turning her attention back to the tiny world at her feet."
+  },
+  {
+    "line": 537,
+    "text": "Her smile still needs practice, but perhaps success isn't too far off."
+  },
+  {
+    "line": 538,
+    "text": "Until then, I'll enjoy this journey with her."
+  },
+  {
+    "line": 539,
+    "text": "Really?"
+  },
+  {
+    "line": 540,
+    "text": "Of course."
+  },
+  {
+    "line": 541,
+    "text": "When you're happy, your eyes crinkle slightly, as if you're looking at something bright."
+  },
+  {
+    "line": 542,
+    "text": "Your lips might not move, but that's still your own special way of smiling."
+  },
+  {
+    "line": 543,
+    "text": "That's how I've come to recognize it, at least."
+  },
+  {
+    "line": 544,
+    "text": "You really are fascinating."
+  },
+  {
+    "line": 545,
+    "text": "Wait, I think I've heard Yui say something similar before..."
+  },
+  {
+    "line": 546,
+    "text": "What's so fascinating about me?"
+  },
+  {
+    "line": 547,
+    "text": "You always notice things that nobody else does."
+  },
+  {
+    "line": 557,
+    "text": "I always feel happy when I'm with you."
+  },
+  {
+    "line": 558,
+    "text": "All these compliments are making me feel a little self-conscious."
+  },
+  {
+    "line": 559,
+    "text": "Uh, well... um... the ocean looks gorgeous, doesn't it?"
+  },
+  {
+    "line": 560,
+    "text": "Yes, it's stunning."
+  },
+  {
+    "line": 561,
+    "text": "Wow, the entire sky is painted red now."
+  },
+  {
+    "line": 562,
+    "text": "Let's watch the sunset together."
+  },
+  {
+    "line": 563,
+    "text": "We can just stay here until the sun sinks into the sea."
+  },
+  {
+    "line": 564,
+    "text": "Okay."
+  },
+  {
+    "line": 565,
+    "text": "It's beautiful."
+  },
+  {
+    "line": 566,
+    "text": "We turn our gaze toward the distant sunset. If only this moment could stretch on just a little longer..."
+  },
+  {
+    "line": 567,
+    "text": "Ah – so this is where Yui has been hiding!"
+  },
+  {
+    "line": 569,
+    "text": "Following behind her are the rest of our friends, and just like that, our group is finally reunited."
+  },
+  {
+    "line": 570,
+    "text": "We play among the rocks, all six of us, bathed in the soft afterglow."
+  },
+  {
+    "line": 571,
+    "text": "Tiny fish swim happily back and forth in the numerous tide pools between the rocks."
+  },
+  {
+    "line": 572,
+    "text": "Senpai, I need to tell you something."
+  },
+  {
+    "line": 573,
+    "text": "While the others are absorbed in the tiny world below, Yui speaks in a volume only I can hear."
+  },
+  {
+    "line": 574,
+    "text": "What is it?"
+  },
+  {
+    "line": 576,
+    "text": "But actually, I've always wanted to share these joys with someone else."
+  },
+  {
+    "line": 577,
+    "text": "So being able to call everyone – especially you, senpai – my friends makes me incredibly happy."
+  },
+  {
+    "line": 578,
+    "text": "Playing mahjong or coming to the beach like this... these are things I wouldn't have even imagined doing before."
+  },
+  {
+    "line": 579,
+    "text": "So, thank you."
+  },
+  {
+    "line": 580,
+    "text": "For showing me this whole new world."
+  },
+  {
+    "line": 581,
+    "text": "When Yui finishes speaking, the sun slowly dips below the horizon behind her."
+  },
+  {
+    "line": 583,
+    "text": "To my eyes, she's smiling."
+  },
+  {
+    "line": 584,
+    "text": "I should be the one thanking you, Yui."
+  },
+  {
+    "line": 585,
+    "text": "After all, haven't I too discovered a new world all my own... thanks to her?"
+  },
+  {
+    "line": 586,
+    "text": "I want to see even more expressions on Yui's face in the future."
+  },
+  {
+    "line": 587,
+    "text": "But for now, I'll keep these thoughts to myself."
+  },
+  {
+    "line": 597,
+    "text": "As a red glow bathes the entire world, a subtle yet unmistakable smile graces Yui's lips."
+  },
+  {
+    "line": 598,
+    "text": "The View From Your Side"
+  },
+  {
+    "line": 599,
+    "text": "Yui says this, half to me and half to herself."
+  },
+  {
+    "line": 602,
+    "text": "Yui... please be okay!"
+  },
+  {
+    "line": 603,
+    "text": "Yes, fascinating indeed."
+  },
+  {
+    "line": 607,
+    "text": "Climbing onto one of the rocks, I spot a reassuring figure below. It's Yui, crouching on the sand, hidden from everyone's view by the tall rocks."
+  },
+  {
+    "line": 608,
+    "text": "Which muscle exactly?"
+  },
+  {
+    "line": 609,
+    "text": "To create a perfect smile, I need to precisely control every single muscle's movement."
+  },
+  {
+    "line": 610,
+    "text": "Hold on, hold on, it's not complicated at all!"
+  },
+  {
+    "line": 611,
+    "text": "I turn toward the sound of the voice and see Hinata standing at the foot of the rocks, waving up at us."
+  },
+  {
+    "line": 612,
+    "text": "These little fish probably have no idea Earth is a sphere either."
+  },
+  {
+    "line": 613,
+    "text": "In addition to living in shells, hermit crabs sometimes carry sea anemones on their backs for protection."
+  },
+  {
+    "line": 614,
+    "text": "And you're very considerate."
+  },
+  {
+    "line": 615,
+    "text": "Kind to everyone."
+  },
+  {
+    "line": 616,
+    "text": "I turn toward the sound of the voice and see Hinata standing at the foot of the rocks, waving up at us."
+  },
+  {
+    "line": 617,
+    "text": "I always thought reading books and brewing coffee brought me joy."
+  }
+]

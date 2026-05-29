@@ -1,0 +1,279 @@
+17:player
+
+570:Campus Day
+571:Today's the arts festival open day at Asaha High, and my plan is simple: see the exhibits. But then... I run into someone I never expected to see at the school gate.
+573:Morning, Xenia.
+575:Xenia? What brings you here?
+576:Xenia
+577:Good morning, {var:player_nickname}. Have you come for the arts festival as well?
+578:I am. What are you still doing out here?
+579:That's right. Waiting for someone, are you?
+580:It's... a bit of a story. I came here hoping to develop an appreciation for the arts of the commoners.
+581:But when I was at the entrance, I was somehow mistaken for a new transfer student.
+582:The student, who introduced herself as the president of the photography club, handed me this...
+583:What is it?
+584:It contains a file for flyers, presumably something the photography club prepared for the arts festival.
+585:The president, who was in quite a state, insisted that the success of their exhibition hinged on these flyers, and implored me to see to their production.
+586:Hmph, how quaint. A rare opportunity to experience the life of a common student. Since I've been tasked with this, I suppose I shall humor them.
+587:Let's see... another three minutes, I should think.
+588:Come again?
+589:I've taken the liberty of inviting a top design agency in One Han City. Their team will be here in three minutes with state-of-the-art printing equipment.
+590:Huh...?
+591:But... there's a print shop right over there!
+592:I have to see the caliber of a design team a noble would hire.
+593:Whoa, Xenia, don't you think that's a little... excessive? We can just go to a nearby print shop for something like this.
+594:A "print shop"?
+595:Hmm, fascinating. It simply prints them out, sheet by sheet, with no need to cooperate with a design agency.
+596:Two hundred meters away, inside the print shop
+597:Print Shop
+598:I must admit, the common folk have their share of convenient contraptions. I've decided: I shall have a printer installed in my study at the manor.
+599:Shop Owner
+600:All done, Miss. Will you be paying now, or should I put it on an account?
+601:Do you take payment cards?
+602:What she means is, someone from the photography club will be by to settle the bill later!
+603:Right... of course. Thank you, have a great day!
+604:Next up is distributing these flyers. Come now, my dear guide {var:player_nickname}, your rare opportunity to instruct me has arrived.
+605:Playing Field
+606:Your guide? When did that happen?
+607:I'm not really feeling it... Is there a salary?
+608:I have just now appointed you, of course. You should accept this position with the utmost gratitude.
+609:...I'll give it my best shot!
+610:Naturally, my reward will not disappoint. I can guarantee you'll be wanting for nothing for at least the next year.
+611:Miss Xenia – no, Lady Xenia, your wish is my command.
+612:Excellent. Then for our first step, you shall instruct me on the proper etiquette.
+613:What sort of etiquette?
+614:For distributing flyers, of course. As this is my first time partaking in such a commoner activity, I must know how to conduct myself appropriately.
+615:For instance, at what angle must I bow when presenting one? Where must my gaze be fixed, and for how long? And then there are the precise words and phrases...
+616:Whoa, whoa, hold on! It's not nearly that complicated!
+617:When you're handing out the flyers, you just need to go up to the other students and say something simple like, "Hey, come check out the photo exhibition!" Nothing complex. Just be natural and friendly, and you'll be fine.
+618:Ah, "friendly"... Like so?
+619:No, not a full formal curtsy!
+620:Oh? Is that not how one expresses friendliness among the common folk? How peculiar...
+621:R-right! We're losing time, let's just get started!
+622:Ahem. Excuse me! Might I trouble you to accept this flyer? The photography club's exhibition is commencing shortly, and I hear it is quite the spectacle.
+623:Classroom
+624:Student A
+625:Whoa, she's gorgeous... O-okay! I'll be there! Thank you!
+626:Something about Xenia's phrasing felt a little off, but you couldn't argue with the results – the flyers were disappearing.
+627:There, that should suffice. Hmph, simple enough. Hmm...? Guide, what is this?
+628:Do you mean the drawing on the blackboard, Xenia? It must be a student project...
+629:It's my first time seeing this sort of blackboard art created with chalk by commoners. How fascinating.
+630:Although if the title were moved two inches to the right, the overall composition would be far more harmonious.
+631:You're right, but that would cover up the duty roster. And keeping the duty roster clear... well, that's a matter of etiquette in blackboard art, you know.
+632:I see! In that case, one must adhere to it strictly!
+633:The students here are rather dispersed. Guide, do you have any suggestions?
+634:What if we post one of the flyers on that bulletin board? It's a prominent location, so it should be quite effective.
+635:An excellent suggestion. I officially recognize your talent as a guide!
+636:Hmm? And this... on the bulletin board... Is it a love letter from a commoner student? But why would one hide one's name when declaring one's heart?
+637:To stay off the dean's radar, obviously.
+638:It's the unique, bittersweet beauty of a youthful secret crush.
+639:These commoner students are more adept at survival than I anticipated.
+640:It's beyond my comprehension. When one encounters a desirable individual, one should ensure one's name is remembered at the earliest opportunity.
+641:Well, I've definitely remembered the name "Xenia."
+642:N-naturally! A name as brilliant as "Xenia" isn't one just anyone gets to know.
+643:What is that foolish grin for...? We should be on our way to the next spot!
+644:Phew... that's all the flyers for this area. Guide, perhaps we should get a bite to eat?
+645:School Cafeteria
+646:Would you really be interested in the ordinary food at the school cafeteria?
+647:Good, because I'm starting to get hungry myself...
+648:If one is to truly experience school life, sampling the diet of the commoner student is an essential part of the process.
+649:I imagined as much. The work of a guide is quite strenuous, after all. It will be my treat – a small reward for your service.
+650:Oh, I recognize this commoner dish. It is called "oden," is it not? I didn't realize it was sold in schools...
+651:I wonder how the local flavor compares...//nGreetings. Two orders of oden, if you please. Thank you.
+652:Cafeteria Staff
+653:Haha, you must be new here! My oden is beloved by everyone on this campus! Here, have a couple of extra fish balls, a little welcome gift!
+654:Oh? In that case, I mustn't be rude... Here, Guide. This is for you.
+655:Mmm... The texture is more layered than I anticipated. This is surprisingly pleasant.
+656:It seems you're fitting into the student role perfectly, Xenia.
+658:Student B
+659:Mmm... it's pretty good. The radish is also very juicy today... Here, you have this.
+660:(Stares)...
+661:Ahem... {var:player_nickname}, you may also have one of my fish balls.
+662:Eh?
+663:If one is to experience the life of a commoner student in its entirety, then one must not neglect the etiquette of interacting with one's peers.
+664:Xenia, about that...
+665:(Whispers) Sharing food like that... it implies a relationship that goes beyond simple friendship.
+666:Huh?!
+667:Th-the flyers are all distributed! We mustn't dawdle! Come, accompany me to inform the photography club that our task is complete –
+668:Club President
+669:Thanks so much, Xenia. I can't believe you handed out all the flyers already.
+670:Exhibition Entrance
+671:It was my pleasure. Is there anything else I can assist with?
+672:Mmm, I don't think so. Oh, you're the new transfer student, aren't you? Would you like to see our photography exhibition?
+673:Is that alright?
+674:Of course! We happen to have two admission tickets left. You've done so much for us, Xenia. I really wanted to repay your kindness!
+675:Hehe, if you insist. Guide, shall we?
+676:It is a photography exhibition on the theme of "Youth," held in a small student activity room. And while it is filled with all manner of photos, the decor is spartan.
+677:Exhibition Room
+678:Unused frames are piled haphazardly in a corner with cleaning supplies. The room's lighting is dim. Aside from the students who set it up, visitors are few and far between.
+679:This is so crude. It's practically an afterthought.
+680:Xenia?
+681:Xenia folds her arms, her brows furrowed as her gaze sweeps across the photos and their arrangement.
+682:You see, the light and composition in these pieces are commendable, but the presentation is so disorganized.
+683:There are no proper spotlights. The frame materials clash horribly with the works themselves. Even the invitations are just printed on plain copy paper. This is less an exhibition and more a workshop for art students... It is utterly unprofessional.
+684:It's just a student exhibition. I'm sure everyone did their best.
+685:Is that so? And yet, look at this work. It captures the elation of students after school so perfectly. It fully expresses the dynamism of youth.
+686:And this one, a shot of students so completely absorbed in their studies. The way their concentration was captured... even a seasoned pro would be hard-pressed to get a shot like that.
+687:For these brilliant works to be buried by such a poor setting, to go completely unnoticed... It is a true pity...
+688:Club Member A
+689:No! I refuse to just give up!
+690:Xenia, it sounds like the photography club members over there are having a disagreement...?
+691:Oh?
+692:Club Member B
+693:Well, what do you want to do? We're not a professional gallery. It makes sense that nobody's interested.
+694:Club Member C
+695:Exactly. We handed out flyers, we all did our best to promote it... There are so many other interesting things happening today. We can't exactly drag people here. Since no one's coming, we might as well go enjoy the arts festival ourselves.
+696:But... this is my last high school photography exhibition before I graduate... To have it all just end so half-heartedly... I can't accept that.
+697:...
+698:Xenia's gaze shifts to the girl, whose voice is already breaking. Unconsciously, Xenia's fingers begin to twist a strand of her hair.
+700:They've worked hard, but perhaps they just lacked an opportunity.
+701:Lacking an opportunity, you say...
+702:Hmph. I remember being trapped at home, forced into those endless, tedious etiquette lessons. I couldn't even go for a walk without having to report it. I felt... powerless and miserable then, too.
+703:Anyway, this feeling of wanting to do something, but being unable to... I know it all too well.
+704:{var:player_nickname}, tell me. If I were to borrow some unused display stands from the City Art Museum, and perhaps lend a few studies from my family's private collection to complement these student works... do you think that might make this exhibition a bit more respectable?
+705:You'd be willing to help them, Xenia?
+706:Do not misunderstand. I simply cannot abide seeing such free-spirited talent buried. Besides, if these commoners can be shown what a true artistic presentation looks like, you could consider it... my contribution to the community.
+707:Anyway, with my experience viewing exhibitions and my own aesthetic sensibility, I am certain this exhibition will shine after I've re-planned it. What do you say?
+708:I'm all for you using your noble influence, Xenia.
+709:Or maybe we should try solving this the way a student would?
+710:I see... But what exactly does that entail...?
+711:I don't think you need to worry about whether it's the "noble way" or the "commoner way," Xenia. Just say what's on your mind.
+712:After all, that feeling you had – of wanting to do something but being unable to – it's the same feeling everyone here has right now.
+713:So just be bold and do what you think is right. Say what you truly feel. As for the specifics...
+714:You know the saying: give a man a fish and you feed him for a day; teach him to fish and you feed him for a lifetime. Why not share your experience with them?
+715:I see... Yes, I understand.
+716:You are a very competent guide indeed. Very well, I am going in. Be sure to watch me closely.
+717:Go get 'em, Xenia!
+718:Everyone, it seems you are all mistaken about one crucial thing!
+720:Huh? Isn't that the new transfer student?
+721:Essence? Dignity? We're not really in the mood for a philosophical debate right now.
+722:Yeah, we can't even keep this tiny exhibition afloat.
+723:That is precisely the matter I wish to discuss.
+724:Xenia's gaze sweeps over the room, pausing on each student's face for two seconds, like a queen inspecting her knights.
+725:My art tutor at the Royal Academy once told me, "A true artist can make a stone tell its story."
+726:Xenia strides to the window and throws it open, letting the sounds of the arts festival rush into the quiet room.
+727:Listen! There are dozens of other clubs out there, all fighting for the same attention. And what are you doing? Hiding your works away in this room, hoping some admirer will stumble in by chance. Tell me, how is that any different from a princess locked in a tower by a witch, only waiting to be rescued?
+728:I am not saying you will be cursed, of course. But your work will die, unnoticed and unloved.
+729:Huh...? Our work... cursed? No...! That's horrible! I don't want that!
+730:D-don't say such terrifying things...
+731:We know that! But we've done everything we can think of, so what else are we supposed to do? We want to solve this too, you know!
+732:Precisely. The solution is to act. I believe that anyone capable of capturing these images must also possess a strong will to act.
+733:You're right, Xenia... but what more can we do?
+734:Since you ask for my counsel, and based on my experience with countless excellent exhibitions, I will say this –
+735:The theme of this exhibition is "Youth." So, what are you waiting for? You should take these works out of this room and claim the most youthful stage this campus has to offer, should you not?
+736:The most youthful stage... you mean... Of course! We can turn the entire campus into our gallery!
+737:Precisely. Use the entire campus as your gallery. Let every photograph find its most lively and fitting location.
+738:For example... that photo of the food. It's the oden from the cafeteria, is it not? Since it's a beloved, shared memory, why not display it in a prominent spot in the cafeteria itself?
+739:Oh, that's a great idea! Displaying the photos in the locations where they were taken would be much more impactful!
+740:Fantastic! We could put that photo of the slam dunk next to the basketball court. It'll create an interactive photo op where students on the court can line up their shot with the one in the picture!
+741:Oh, and following that same logic, let's place the photo of the track champion crossing the finish line right beside the running track. There's no way you could walk past that and not think of the sports festival!
+742:Yes! That's the whole point! We want to help people relive the best moments of their time at school. And if they're not coming to us, then we'll just have to bring the memories straight to them!
+743:Surrounded by a buzz of excitement, Xenia turns to me with a beaming smile.
+744:{var:player_nickname}, will you accompany me in placing these works in their rightful homes?
+745:With that, Xenia and I get to work. We move around campus, "setting up the exhibition" piece by piece.
+747:Now where should this one go?
+748:It just looks like ordinary clouds. It has nothing to do with youth on campus. Is it really part of the exhibition?
+749:Let me see... I think I know where this was taken. Come with me, Xenia.
+750:We're on a grassy slope. The wind brings with it the sounds of laughter from the playing fields. On the school broadcast, an announcer's cheerful voice details the events of the arts festival.
+751:What have you brought me here for?
+752:Xenia, here, lie down for a moment.
+753:Is this some sort of cryptic commoner ritual?
+754:A flicker of confusion crosses Xenia's face, but seeing I don't hesitate, she follows suit. Gathering her skirt, she lies down on the grass as well.
+755:She looks slightly tired from the long day, but there's a smile tugging at the corners of her mouth as a gentle breeze lifts the strands of her hair.
+756:Very well, as you wish. You may begin your explanation now, my dear guide {var:player_nickname}.
+757:The scent of fresh grass mingles with the fragrance of her hair. I take a moment to collect my scattered thoughts, then clear my throat.
+759:If I'm figuring this right, this photo was taken during finals week for the high schools in One Han City. At the end of each semester here, students go through a round of rigorous exams to test what they've learned.
+761:Hehe, what an interesting detail.
+762:Is that all you have to say?
+763:Yes.
+764:What? I thought that was merely the beginning of the story.
+765:Oh, right. I forgot you probably wouldn't understand the true terror of "final exams." Let me see, how can I explain it...
+766:Explain it in terms a noble would understand.
+767:Explain it in terms of mahjong.
+768:Imagine spending day after day mastering the etiquette of a noble lady, all for the honor of your family, only to finally, successfully, hold your coming-of-age ball.
+769:Thank you. Now I feel as though I was there myself...
+770:It's like that feeling when you just can't bring yourself to leave the mahjong dojo without a single win, so you stay there all day, grinding it out until you finally get one.
+771:Th-that... The lives of these commoner students are just too dreadful.
+772:So, that student had just endured a long and arduous period of study. And when her exams were over, she ran out of the school building and let herself sink into the soft embrace of the grass... Before her was the vast blue sky, with clouds drifting freely... And in that moment, she took this photograph.
+773:She was expressing that feeling... When all of your hard work pays off, in that single moment, your very breath becomes as light as a cloud... Simple, happy, and free. Just as she understands youth to be. Is that it?
+774:You have a gift for empathy, Xenia.
+775:Hehe, I would say it is you... who led me into a fascinating story.
+776:Although we cannot know the photographer's true intention, your guidance has allowed me to feel the connection between this photo and this youthful campus. Thank you. Now, let us finish installing this piece together.
+777:Alright.
+778:It would be my honor.
+779:Everyone's hard work paid off. The school's online forum blew up with chatter about the photo exhibition, and the event itself was a resounding success! While the students are celebrating, "the mysterious transfer student Xenia" and I quietly make our exit.
+780:Today's campus experience did not disappoint. I am even tempted to ask the principal of Asaha High to arrange a transfer for me, so that I might stay here and experience it for longer.
+781:Oh, did I forget to mention? The principal and my father have been friends for many years.
+782:For you, Xenia, that's not surprising at all...
+783:It is a strange thing... Before you showed me how to communicate with the students, I never would have imagined that commoners could create such interesting, artistic works with such simple resources.
+784:And then you taught me about the duty roster, saying those crooked chalk marks represented a pledge to take turns with classroom chores. It immediately reminded me of our own code of honor among the nobility, where keeping one's word is a matter of pride. I found the parallel quite fascinating.
+785:And the oden from the cafeteria... There was nothing precious in it, just humble ingredients, and yet I found myself savoring every last bite.
+786:And beyond all that... If you hadn't been there, patiently playing along with my role as a transfer student, handing out flyers with me on campus... If you hadn't smiled and said, "You're cute when you try so hard to act like a common student"...
+787:Then I believe this little trip would have been no different from the others – just a fleeting, superficial tour. But this time... I felt like I truly became a part of this place. I forgot who I was supposed to be and all the rules that come with it, and for a moment, it felt as if this simple, vibrant life could be mine forever.
+788:Anyway, it is very important to have a reliable traveling companion. For your performance as a guide today, I will give you a score of... 90.
+789:And what of the other 10 points?
+790:To leave you room for improvement, of course!
+791:{var:player_nickname}, let us rest for a moment as well. Shall we lie here on the grass and enjoy the campus sky together?
+792:This feels... wonderfully free.
+793:Indeed.
+794:Wait!
+795:What is it?
+796:You were looking at me.
+797:You would only know that if you turned to look at me as well...
+798:O-of course not! I merely noticed it out of the corner of my eye!
+799:Hmm... I was just thinking that there is something on this campus even more worthy of admiration than the sky...
+800:Take, for example, the person lying here on the grass with me. And the way the sunlight sketches her profile against the sky.
+801:Watching the blush color her ears and the light in her eyes, I guess some things don't need to be explained. I'll keep my thoughts to myself... for now.
+802:With you involved, I find myself starting to look forward to this photography exhibition.
+803:Heh. If I'm going to intervene, I might as well give these commoners a lesson in what a truly splendid exhibition is all about.
+804:After a brief discussion with the photography club, Xenia made a single phone call. A team of professionals arrived shortly thereafter, bringing with them a mountain of equipment, and immediately got to work.
+805:Ouch, ouch – I must be dreaming! This morning we had plastic display boards, and now they've been replaced with mahogany frames? And look at these spotlights! These are the same kind they use at the City Art Museum!
+806:A short while later...
+807:And th-that piece in the center, the one under the red velvet cloth! It's an original masterpiece from the X Rose Art Foundation's collection! I heard the insurance on it alone would be enough to fund ten of our arts festivals!
+808:​Journalist
+809:Excuse me, student! Can you reveal how you convinced the mysterious X Rose to lend you a piece from their collection?!
+810:​Art Enthusiast
+811:This whole setup is on par with a professional gallery. Seriously, Asaha High has some hidden gems. Do you know who curated this?
+812:Aside from the masterpiece anchoring the show, these student pieces have a lot of potential as well. I'm quite impressed!
+813:Principal
+814:Pardon me... let me through, please...//nI-I can't believe what I'm seeing. Whose work is this? Which class managed to put on an exhibition like this?
+815:Photography Club Members
+816:P-principal? We...
+817:Greetings, Principal. It was me. I'm just an ordinary visitor. I was only helping out.
+819:Shh – Principal! I merely wish to experience campus life discreetly. Please, lower your voice!
+820:Understood! Discreet! We must be discreet!
+821:Quickly now! Make sure Miss Xenia and her friend are treated as honored guests. And see to it that the press is taken care of, as well!
+823:Huh?!
+824:...So much for being discreet.
+825:Haha, perhaps the principal's definition of "discreet" is a little different.
+826:And so, for the sake of appearances, we tour Asaha High as honored guests. Xenia maintains her elegant smile, but I can see a faint glimmer of disappointment in her eyes.
+827:Aaargh, if I'd known it would turn out like this... I'd rather have stayed home and watched the maid water the flowers!
+828:I see. I must admit, I am also curious to see what kind of professional team a noble would bring in.
+829:Hehe, I shall not disappoint.
+830:Design Team
+831:You mean to say, you summoned us all the way out here to print this flyer?
+832:Yes. Please produce it to the highest possible standard. I have already sent you the requirements via email... Hmm? Judging by your expression, is there some issue?
+833:No, none at all. If Miss Xenia requires it, then you must have your reasons!
+834:Then allow us to confirm your request one last time, Miss Xenia. You wish for us to use... 300g velvet-textured specialty paper, with double-sided 24-karat gold foil, hand-embossed patterns on the corners, and the school emblem printed in a custom royal blue ink... Is that correct?
+835:Correct. And put each flyer in its own envelope, sealed with wax to show our sincerity.
+836:Th-these specifications... The foil-stamping and embossing processes alone will require at least three days. And each wax seal must be made by hand. I am afraid...
+837:There is no need for concern. I can afford whatever rush fee you require. Simply have it done as quickly as possible!
+838:I understand...! Rest assured, Miss Xenia! We will reallocate all of our resources to this job! We will finish on time!
+839:Three hours later, the team returns with a stack of flyers so exquisite they can be considered works of art. Each is housed in a velvet envelope, with the wax seal of Xenia's family crest gleaming in the sun. However...
+840:Club Member
+841:Xenia, thank you so much... But we just received a notice. Because so few people came to the exhibition today, the organizers have decided to close it early. These flyers... I don't think we'll be needing them.
+842:Is that so? What a pity...//nSince they are no longer needed, please accept them as samples.
+843:Thank you, Miss Xenia!!!
+844:The materials, so painstakingly crafted, have all gone to waste, and Xenia loses all interest in visiting the arts festival.
+845:Honestly, to cancel an exhibition simply because of a temporary lack of an audience... Do commoners have so little faith in their own art? If only they had waited until my flyers were complete... Things might have turned out very differently!
+846:What's that look for...? Don't tell me... Did I genuinely take too long on the flyers?
+847:Very well. It seems I must re-evaluate my understanding of "efficiency" in the commoners' world.
+848:Do not laugh at me! When I am in better spirits, you're going to show me the rest of the sights in One Han City. Got it?
+851:Phew, that's "The Finish Line" in place. Now for the last one –
+852:Actually, I happened to notice the date on this photo, "Clouds."
+853:In other words, this "Clouds" was most likely taken by a student who had just finished their final exams and was finally able to relax.
+854:Helping out?! Wait... that painting is "The Unbound Rose"! It belongs to the X Rose Art Foundation! That would mean... Don't tell me... are you Miss Xenia?!
+855:Get a red carpet rolled out – from the school gate all the way to the main hall! Someone put some stately music on the PA system, now! And security! Where is our security?! We need at least ten people out here to maintain order!
+858:A commoner's regret... expressed with such... raw honesty.
+859:The essence of art is not to "wait to be seen," but to "proclaim the dignity of its existence."
+860:Wow! Today's fish balls are amazing! So springy and delicious... Here, try one! What are you waiting for? Open up.

@@ -1,0 +1,870 @@
+[
+  {
+    "line": 2,
+    "text": "player"
+  },
+  {
+    "line": 685,
+    "text": "Fuuka Minami"
+  },
+  {
+    "line": 686,
+    "text": "Ume"
+  },
+  {
+    "line": 687,
+    "text": "???"
+  },
+  {
+    "line": 688,
+    "text": "Take"
+  },
+  {
+    "line": 689,
+    "text": "Eliisa"
+  },
+  {
+    "line": 690,
+    "text": "Shaun"
+  },
+  {
+    "line": 691,
+    "text": "Hannah"
+  },
+  {
+    "line": 692,
+    "text": "Ledgers lay strewn around the gloomy room. I shudder slightly as a muffled clattering sound comes from one of its dark corners."
+  },
+  {
+    "line": 693,
+    "text": "...Is this really the place?"
+  },
+  {
+    "line": 694,
+    "text": "I look back at Ume. She seems utterly unfazed by the scene before us."
+  },
+  {
+    "line": 695,
+    "text": "As for why we're here, it all started this morning."
+  },
+  {
+    "line": 696,
+    "text": "My dear secretary, I may need you to run over to the accounting office for me today."
+  },
+  {
+    "line": 697,
+    "text": "Accounting?"
+  },
+  {
+    "line": 698,
+    "text": "Yes, Bamboo Cloud's finance department."
+  },
+  {
+    "line": 699,
+    "text": "Sounds pretty important. Are you sure I'm the one that should be going?"
+  },
+  {
+    "line": 700,
+    "text": "Relax, they just handle staff matters. You won't find any trade secrets there."
+  },
+  {
+    "line": 701,
+    "text": "Besides, you're mine. Why shouldn't you be the one going?"
+  },
+  {
+    "line": 702,
+    "text": "Okay, then what do you need me to do?"
+  },
+  {
+    "line": 703,
+    "text": "Nian Lao, the manager over there, is out sick today. Unfortunately, two temp workers are coming in for interviews later, and I'm not confident that Take is up to the task alone. I'd like you to go help him."
+  },
+  {
+    "line": 704,
+    "text": "Ume, could you bring {var:player_nickname} to the accounting office, please?"
+  },
+  {
+    "line": 705,
+    "text": "Here we are. Go on in."
+  },
+  {
+    "line": 706,
+    "text": "I have no choice but to comply and step in first."
+  },
+  {
+    "line": 707,
+    "text": "Please move your left foot five centimeters. You're stepping on the \"Confidential Financial Analysis Report for Second Quarter Menu Development.\""
+  },
+  {
+    "line": 708,
+    "text": "Prompted by a slightly boyish, disembodied voice, I hastily take a step back..."
+  },
+  {
+    "line": 709,
+    "text": "Now you're on the \"Third Quarter Monthly Finance Report Management Sheet.\""
+  },
+  {
+    "line": 710,
+    "text": "And behind that is the \"Accounting Operations Case Study Analysis.\""
+  },
+  {
+    "line": 711,
+    "text": "This place is a mess..."
+  },
+  {
+    "line": 712,
+    "text": "I've just entered the room only to be forced back out again."
+  },
+  {
+    "line": 713,
+    "text": "Take, this is {var:player_nickname}, the person in charge of this year's celebration. Come out and say hello."
+  },
+  {
+    "line": 714,
+    "text": "With that, a young boy's head pops out from a stack of ledgers."
+  },
+  {
+    "line": 715,
+    "text": "He expertly navigates around the ledgers scattered on the floor and comes to stand before us. Wiping a thin layer of sweat and dust from his brow, he reveals a face that, despite its hint of youthfulness, bears a mature and earnest expression."
+  },
+  {
+    "line": 716,
+    "text": "You? Switching from fighting to writing after yesterday's martial arts exam?"
+  },
+  {
+    "line": 717,
+    "text": "...Whatever happened to worker solidarity?"
+  },
+  {
+    "line": 718,
+    "text": "Nian Lao is out sick today, and we have the temp worker interviews later. Ms. Fuuka wasn't sure if you could handle it by yourself, so she sent {var:player_nickname} here to lend a hand. You'll be working together as a team."
+  },
+  {
+    "line": 719,
+    "text": "...I can handle it on my own. I'm not an idiot like Jiu Hua."
+  },
+  {
+    "line": 720,
+    "text": "Turning his head slightly, Take mutters to himself under his breath. He then turns to face me."
+  },
+  {
+    "line": 721,
+    "text": "If you're going to help me with the temp worker interviews, you need to be good with numbers and think quickly at the very least. I'll test you with some basic questions now."
+  },
+  {
+    "line": 722,
+    "text": "Take a seat outside. I'll bring you a pen and paper."
+  },
+  {
+    "line": 723,
+    "text": "As I watch Take gingerly sidestep the ledgers on the floor, I can't take it anymore – I have to ask:"
+  },
+  {
+    "line": 724,
+    "text": "Was this place... always such a mess?"
+  },
+  {
+    "line": 725,
+    "text": "Of course not!"
+  },
+  {
+    "line": 726,
+    "text": "The boy's calm tone suddenly rises a few decibels, revealing the bluntness expected of one his age."
+  },
+  {
+    "line": 727,
+    "text": "This is accounting! Accounting! Bamboo Cloud could be in total chaos and this place would still be in pristine condition!"
+  },
+  {
+    "line": 728,
+    "text": "Then... how did it end up like this?"
+  },
+  {
+    "line": 729,
+    "text": "Well... Someone came in yesterday after hours and turned the place upside down. They made a mess of the books, but luckily the core data isn't kept in this room."
+  },
+  {
+    "line": 730,
+    "text": "Do you have an inkling of who did this?"
+  },
+  {
+    "line": 731,
+    "text": "Possibly... but I'm not certain."
+  },
+  {
+    "line": 732,
+    "text": "I bend down to take a closer look at the ledgers scattered at the door. To my surprise, I see marks all over the pages that look like bird footprints."
+  },
+  {
+    "line": 733,
+    "text": "My newfound detective instincts kick in, and I think back to Jiu Hua's pigeons from a few days ago – If I recall correctly, some of them were carrying pens and paper in their beaks..."
+  },
+  {
+    "line": 734,
+    "text": "I raise my head back up to look at Take. I didn't expect to see him nervously watching my reaction."
+  },
+  {
+    "line": 735,
+    "text": "That's the moment I realize that my hypothesis is correct, and Take is thinking the same thing – we can't let Ume know."
+  },
+  {
+    "line": 736,
+    "text": "Ahem... Take, you were going to test me?"
+  },
+  {
+    "line": 737,
+    "text": "Oh, right. Here you go."
+  },
+  {
+    "line": 738,
+    "text": "It's July 6th, and the six guests at table 28 ordered ten plates of braised tripe, generating a revenue of 6,000 Coppers. If the cost of labor and materials adds up to 4,000 Coppers, what is the profit margin on braised tripe for this table?"
+  },
+  {
+    "line": 739,
+    "text": "50 percent... Do you really need to test me on something like that?"
+  },
+  {
+    "line": 740,
+    "text": "Heh, not bad. You weren't thrown off by distracting information. I hope you can keep it up during the interviews."
+  },
+  {
+    "line": 741,
+    "text": "So you were actually testing me as an interviewer..."
+  },
+  {
+    "line": 742,
+    "text": "Huh? Is this the place?"
+  },
+  {
+    "line": 743,
+    "text": "Just as Take and I are trying to distract Ume, I hear a familiar voice – it's Hannah."
+  },
+  {
+    "line": 744,
+    "text": "Looks like the candidates are arriving. According to her resume, Miss Hannah has relevant experience. I hope she'll be of help to you."
+  },
+  {
+    "line": 745,
+    "text": "I think she works at Tenhoukaku... She should be pretty experienced."
+  },
+  {
+    "line": 746,
+    "text": "Whew, that was a close one. I was nearly late! Huh? Mr. Wolf, what are you doing here?"
+  },
+  {
+    "line": 747,
+    "text": "Eliisa? You're one of the candidates?"
+  },
+  {
+    "line": 748,
+    "text": "Mr. Wolf! Liisa Liisa missed you so much!"
+  },
+  {
+    "line": 749,
+    "text": "Baa!"
+  },
+  {
+    "line": 750,
+    "text": "Eliisa and Shaun come running in for a big hug."
+  },
+  {
+    "line": 751,
+    "text": "Ahem, as one of the interviewers, I'll remind you that this is a public setting. Also... please refrain from being too familiar with the candidates, or it will compromise the fairness of the assessment."
+  },
+  {
+    "line": 752,
+    "text": "Hearing Take's words, I sigh and use each hand to lift Shaun and Eliisa off me."
+  },
+  {
+    "line": 753,
+    "text": "Speaking of which, with your math skills, Eliisa... how did you make it to the interview round?"
+  },
+  {
+    "line": 754,
+    "text": "Hehe! Ready to be impressed, Mr. Wolf? Liisa Liisa was the only candidate in the preliminary round to count to 1,000 without making a single mistake!"
+  },
+  {
+    "line": 755,
+    "text": "I beat 99 percent of the other candidates!"
+  },
+  {
+    "line": 756,
+    "text": "Seriously? THAT was the preliminary test? And how could 99 percent of the other candidates not even be able to count to 1,000?!"
+  },
+  {
+    "line": 757,
+    "text": "According to feedback from staff who were present, the majority started getting drowsy after 100. Not only was Eliisa the only person to make it to 1,000 without falling asleep, but she also seemed remarkably hyper as well."
+  },
+  {
+    "line": 758,
+    "text": "Numbers will only torment someone unable to appreciate their intrinsic beauty. From this perspective, Miss Eliisa may actually be a mathematical genius."
+  },
+  {
+    "line": 759,
+    "text": "And it would seem that the world has only discovered one percent of the genius Eliisa was born with."
+  },
+  {
+    "line": 760,
+    "text": "Since our two candidates are here, why don't we begin with a written test?"
+  },
+  {
+    "line": 761,
+    "text": "Careful, Shaun –"
+  },
+  {
+    "line": 762,
+    "text": "A few cloven hoofprints have now been added to the bird footprints covering the ledgers..."
+  },
+  {
+    "line": 763,
+    "text": "There are ten questions, and you'll each be given a calculator. You have five minutes to complete them."
+  },
+  {
+    "line": 764,
+    "text": "As soon as Take finishes speaking, Hannah and Eliisa jump into battle mode. Their progress, however, is exceedingly slow."
+  },
+  {
+    "line": 765,
+    "text": "The calculator looks tiny in Hannah's hand, and the pads of her fingers are so broad that they press three or four buttons at once. \"Beep, beep, beep\" echoes through the room... Thankfully, this will only last five minutes."
+  },
+  {
+    "line": 766,
+    "text": "As for Eliisa, she's actually doing calculations the old-fashioned way – on paper. Meanwhile, Shaun has taken her calculator off to the side and is rhythmically tapping the \"6\" button."
+  },
+  {
+    "line": 767,
+    "text": "I declare the winner of this test to be... Miss Eliisa."
+  },
+  {
+    "line": 768,
+    "text": "Five minutes later"
+  },
+  {
+    "line": 769,
+    "text": "I glance at the disastrous exam papers – one is blank because the tester couldn't figure out how to use the calculator, and the other is covered in red Xs, with a measly total of 3 points."
+  },
+  {
+    "line": 770,
+    "text": "You seem quite calm, Take."
+  },
+  {
+    "line": 771,
+    "text": "They weren't even the most baffling interviewees we've had, it's almost a relief in a way."
+  },
+  {
+    "line": 772,
+    "text": "That's a relief? What exactly have you experienced up to now?"
+  },
+  {
+    "line": 773,
+    "text": "You know... Just looked at over 100 resumes and interviewed 20 to 30 candidates."
+  },
+  {
+    "line": 774,
+    "text": "I see... That expression on Take's face isn't calm... It's apathy."
+  },
+  {
+    "line": 775,
+    "text": "Now for the second round of the interview: Please compare these numbers and indicate which is greater in value."
+  },
+  {
+    "line": 776,
+    "text": "I gawk at him. Apathy is one thing, but this is going too far!"
+  },
+  {
+    "line": 777,
+    "text": "You're the manager, Ume! Do something!"
+  },
+  {
+    "line": 778,
+    "text": "To the left is 18, and to the right is 19. Is he serious?! How could anyone get this wrong?"
+  },
+  {
+    "line": 779,
+    "text": "This one's bigger."
+  },
+  {
+    "line": 780,
+    "text": "Huh?"
+  },
+  {
+    "line": 781,
+    "text": "Eliisa's finger... is pointing to number 18."
+  },
+  {
+    "line": 782,
+    "text": "81 is obviously bigger than 61! There's no way Liisa Liisa would get an easy question like that wrong!"
+  },
+  {
+    "line": 783,
+    "text": "Miss Eliisa, you got it upside down."
+  },
+  {
+    "line": 784,
+    "text": "Hearing that, Eliisa quickly rotates her paper right side up..."
+  },
+  {
+    "line": 785,
+    "text": "Ooh... So it's 18 and 19!"
+  },
+  {
+    "line": 786,
+    "text": "You may have taken the wrong steps, but you got the result absolutely right!"
+  },
+  {
+    "line": 787,
+    "text": "Huh?"
+  },
+  {
+    "line": 788,
+    "text": "18 equals four times four plus two. 19 equals three times three plus ten."
+  },
+  {
+    "line": 789,
+    "text": "It's obvious: Add a Pair to four Kans, and 18 is a win with Four Quads! As for 19, well... you can't win with three Triplets and ten orphans. That makes 18 stronger, which means that 18 is greater than 19!"
+  },
+  {
+    "line": 790,
+    "text": "It looks like Miss Hannah's arithmetic skills can only be practically applied to mahjong..."
+  },
+  {
+    "line": 791,
+    "text": "Looks like this question exceeded the standard difficulty."
+  },
+  {
+    "line": 792,
+    "text": "Take, get a hold of yourself!"
+  },
+  {
+    "line": 793,
+    "text": "Ladies, we'll now proceed to the final logic test."
+  },
+  {
+    "line": 794,
+    "text": "Take's brows furrow slightly. After a brief moment of thought, he writes down the following question on a piece of paper..."
+  },
+  {
+    "line": 795,
+    "text": "Four houses stand side by side in a picturesque village. Before each house is planted either plum trees, orchids, bamboo, or chrysanthemums. The owner of each house has a special hobby – illustrating picture books, listening to crosstalk, drinking tea, or calculating on the abacus."
+  },
+  {
+    "line": 796,
+    "text": "Through some local gossip, we learn the following:"
+  },
+  {
+    "line": 797,
+    "text": "The person living in the house farthest to the left likes drinking tea. Orchids are planted at the entrance of the second house. The owner of the third house is skilled at using an abacus but has not planted plum trees. Chrysanthemums are planted at the entrance of the house farthest to the right, and its owner doesn't like to draw."
+  },
+  {
+    "line": 798,
+    "text": "So, what does the person who planted plum trees in front of their house like to do for fun?"
+  },
+  {
+    "line": 799,
+    "text": "Huh? Huh!! {var:Shake}"
+  },
+  {
+    "line": 800,
+    "text": "My head's itchy, could my brain be growing? This must be what they call a \"head-scratcher.\""
+  },
+  {
+    "line": 801,
+    "text": "(whispers) Help Liisa Liisa, Mr. Wolf!"
+  },
+  {
+    "line": 802,
+    "text": "I glance at the question. When Ume and Take aren't looking, I whisper the answer to Eliisa:"
+  },
+  {
+    "line": 804,
+    "text": "Illustrating picture books"
+  },
+  {
+    "line": 806,
+    "text": "Listening to crosstalk"
+  },
+  {
+    "line": 808,
+    "text": "Drinking tea"
+  },
+  {
+    "line": 810,
+    "text": "Calculating on the abacus"
+  },
+  {
+    "line": 811,
+    "text": "They like illustrating picture books!"
+  },
+  {
+    "line": 812,
+    "text": "Wrong."
+  },
+  {
+    "line": 813,
+    "text": "They like listening to crosstalk!"
+  },
+  {
+    "line": 814,
+    "text": "Nope."
+  },
+  {
+    "line": 815,
+    "text": "They like drinking tea!"
+  },
+  {
+    "line": 816,
+    "text": "Oh? Your reasoning skills are pretty impressive."
+  },
+  {
+    "line": 817,
+    "text": "They like calculating on the abacus!"
+  },
+  {
+    "line": 818,
+    "text": "Look at the abacus in my hands and really think about it... Who likes using an abacus?"
+  },
+  {
+    "line": 819,
+    "text": "I'll give you a hint."
+  },
+  {
+    "line": 820,
+    "text": "Chrysanthemums are planted at the entrance of the house farthest to the right, and its owner doesn't like drawing. The owner of the first house likes tea, and the owner of the third house likes using an abacus..."
+  },
+  {
+    "line": 821,
+    "text": "So the owner of the house to the far right with the chrysanthemums likes crosstalk!"
+  },
+  {
+    "line": 822,
+    "text": "Right, leaving one last hobby for the owner of the second house with the orchids..."
+  },
+  {
+    "line": 823,
+    "text": "Oh, I know, I know! They like illustrating picture books!"
+  },
+  {
+    "line": 824,
+    "text": "Correct, and that narrows it down. The owner of the first house likes drinking tea, and the owner of the third house likes calculating on the abacus but didn't plant plum trees."
+  },
+  {
+    "line": 825,
+    "text": "Which one has plum trees outside their house?"
+  },
+  {
+    "line": 826,
+    "text": "Hehe, I got it."
+  },
+  {
+    "line": 827,
+    "text": "Yeah, Liisa Liisa too!"
+  },
+  {
+    "line": 828,
+    "text": "As they speak, everyone's eyes shift over to me."
+  },
+  {
+    "line": 829,
+    "text": "Hey, don't look at me like that! I know the answer too! The one with the plum trees likes tea!"
+  },
+  {
+    "line": 830,
+    "text": "Take, was it necessary for this question to be based that closely on reality?"
+  },
+  {
+    "line": 831,
+    "text": "What do you mean?"
+  },
+  {
+    "line": 832,
+    "text": "The four house owners refer to Ran, Kiku, Take, and me."
+  },
+  {
+    "line": 833,
+    "text": "What?! Then the person with the plum trees... is you, Ume? You like drinking tea?"
+  },
+  {
+    "line": 834,
+    "text": "It's probably more accurate to say that everyone on Champion Street likes tea. And when it comes to clearing your head, nothing beats a strong cup of tea."
+  },
+  {
+    "line": 835,
+    "text": "I see, then by that logic, Kiku – rather, Jiu Hua – likes crosstalk?"
+  },
+  {
+    "line": 836,
+    "text": "Which means that the one who likes illustrating picture books is Ran."
+  },
+  {
+    "line": 837,
+    "text": "And let's leave it at that!"
+  },
+  {
+    "line": 838,
+    "text": "You only get this anxious when Ran's name is brought up."
+  },
+  {
+    "line": 839,
+    "text": "Who is this Ran anyway?"
+  },
+  {
+    "line": 840,
+    "text": "Ran spent much of his early years at home due to illness. He often looked after Take and Jiu Hua when they were young."
+  },
+  {
+    "line": 841,
+    "text": "That sounds like a heartwarming story, no?"
+  },
+  {
+    "line": 842,
+    "text": "You wouldn't be saying that if your childhood bedtime stories were all about the ghosts of people who died of hanging, starvation, and drowning..."
+  },
+  {
+    "line": 843,
+    "text": "Better hope Ran doesn't find out you've been complaining about him behind his back, or you'll be begging Ms. Fuuka to save you again."
+  },
+  {
+    "line": 844,
+    "text": "Seemingly recalling some traumatic memory, Take's expression shifts as some of the color drains from his face."
+  },
+  {
+    "line": 845,
+    "text": "Ahem... Anyway, let's take a look at the test results."
+  },
+  {
+    "line": 846,
+    "text": "Miss Hannah, you're sharp when it comes to applied mathematics, but I'm afraid you're just not the right fit for our business's needs."
+  },
+  {
+    "line": 847,
+    "text": "Miss Eliisa, you have a gift for mathematics, but I'm afraid it will be a while yet before that gift is fully developed."
+  },
+  {
+    "line": 848,
+    "text": "And so, the person we will actually take on as a temp worker is... {var:player_nickname}."
+  },
+  {
+    "line": 849,
+    "text": "Huh... Wait, huh?! What do you mean? I thought I was an interviewer, not an interviewee!"
+  },
+  {
+    "line": 850,
+    "text": "You can switch seamlessly between the roles of interviewer and interviewee. Believe in yourself, I know you can do it."
+  },
+  {
+    "line": 851,
+    "text": "No way, I'm not doing it! Besides... I don't even know what a temp worker does."
+  },
+  {
+    "line": 852,
+    "text": "What else? Just..."
+  },
+  {
+    "line": 853,
+    "text": "Ahem, forgive the interruption, but I believe I have a good reason for you to accept the temp job, {var:player_nickname}. Before that, let's circle back to our initial topic."
+  },
+  {
+    "line": 854,
+    "text": "Our initial topic?"
+  },
+  {
+    "line": 855,
+    "text": "Yes – Who is responsible for ransacking the accounting office?"
+  },
+  {
+    "line": 856,
+    "text": "Take and I automatically step back in unison. We can see the guilt written on each other's faces."
+  },
+  {
+    "line": 857,
+    "text": "We've received a lot of complaints on the employee hotline lately, mostly about \"the decline in the quality of staff meals with poultry.\" Apparently, the meat is being cut into chunks that are too small, then overcooked by the chef, resulting in dry, flavorless meals that have to be thrown away and re-made... However, there has been no change to Bamboo Cloud's kitchen staff."
+  },
+  {
+    "line": 858,
+    "text": "Ume pulls out a \"food loss list\" and waves it in front of our faces."
+  },
+  {
+    "line": 859,
+    "text": "Jiu Hua has already confessed. Do you two still intend to cover for her?"
+  },
+  {
+    "line": 860,
+    "text": "Ume directs these words to me. Her expression is perfectly amiable, but her eyes are icy."
+  },
+  {
+    "line": 861,
+    "text": "That reminds me – {var:player_nickname}, you happened to be alone with Jiu Hua in the courtyard yesterday."
+  },
+  {
+    "line": 862,
+    "text": "You didn't have anything to do with this, did you?"
+  },
+  {
+    "line": 863,
+    "text": "I see, she didn't want me to settle the accounts... she wanted to settle an account with me."
+  },
+  {
+    "line": 864,
+    "text": "Were you involved in the haphazard chopping of ingredients that made things difficult for the kitchen?"
+  },
+  {
+    "line": 865,
+    "text": "I wasn't, honest. I was just helping Jiu Hua round up some runaway chickens, ducks, and pigeons, that’s all."
+  },
+  {
+    "line": 866,
+    "text": "Whew... It wasn't me that sold you out this time, Jiu Hua."
+  },
+  {
+    "line": 867,
+    "text": "What's that supposed to mean?"
+  },
+  {
+    "line": 868,
+    "text": "Ume is bluffing. Jiu Hua is so stubborn that she'd die before confessing to anything, no matter how many times she's been caught before."
+  },
+  {
+    "line": 869,
+    "text": "It was only a guess, but I must thank you for confirming it. Now, if you could just sign and provide your thumbprint in the \"witness\" column here, that would be great."
+  },
+  {
+    "line": 870,
+    "text": "I'm sorry, Jiu Hua, I've been outfoxed..."
+  },
+  {
+    "line": 871,
+    "text": "I close my eyes and firmly press my thumb to the paper."
+  },
+  {
+    "line": 872,
+    "text": "You may now begin your temp work."
+  },
+  {
+    "line": 873,
+    "text": "Ume regards my signature and thumbprint with satisfaction, then carefully folds up the paper and slips it into her pocket."
+  },
+  {
+    "line": 874,
+    "text": "How was any of that... related to the temp work?"
+  },
+  {
+    "line": 875,
+    "text": "I've got a bad feeling about this."
+  },
+  {
+    "line": 876,
+    "text": "The temp work is... to clean up this place."
+  },
+  {
+    "line": 877,
+    "text": "Huh? Then why did the interview include math problems?"
+  },
+  {
+    "line": 878,
+    "text": "Those are account books on the floor. How can they be tidied away without any math skills? Anyway, next is..."
+  },
+  {
+    "line": 879,
+    "text": "Next, you and Take will give this room a serious cleaning. Think of it as making amends for your conniving attempt to cover for your \"associate's\" crimes. As for Jiu Hua, Ran will have a \"nice chat\" with her later."
+  },
+  {
+    "line": 880,
+    "text": "As for our two interviewees, please follow me out."
+  },
+  {
+    "line": 881,
+    "text": "After Ume has left with Eliisa and Hannah, I look at the complete and utter chaos of the accounting room. Everything goes dark before my eyes..."
+  },
+  {
+    "line": 882,
+    "text": "Jiu Hua is the culprit. Shouldn't she be here helping us out?"
+  },
+  {
+    "line": 883,
+    "text": "Forget it, Jiu Hua would be more of a hindrance than a help to us."
+  },
+  {
+    "line": 884,
+    "text": "I see... Well, unless we want to miss dinner, there's no time to lose. Let's do this!"
+  },
+  {
+    "line": 885,
+    "text": "After several hours of taxing work, Take and I have finally managed to make the room presentable again."
+  },
+  {
+    "line": 886,
+    "text": "Whew... I'm beat. Looks like Jiu Hua owes me one again."
+  },
+  {
+    "line": 887,
+    "text": "{var:player_nickname}."
+  },
+  {
+    "line": 888,
+    "text": "What is it?"
+  },
+  {
+    "line": 889,
+    "text": "I'm really glad I met you."
+  },
+  {
+    "line": 890,
+    "text": "Where's this coming from all of a sudden? You're making me blush..."
+  },
+  {
+    "line": 891,
+    "text": "Because now I know I'm not the only one who will be cleaning up Jiu Hua's messes from now on."
+  },
+  {
+    "line": 892,
+    "text": "Huh. I was expecting to hear something more... pleasant."
+  },
+  {
+    "line": 893,
+    "text": "Speaking of Jiu Hua, you two seem like you're about the same age."
+  },
+  {
+    "line": 894,
+    "text": "Ume didn't tell you? Jiu Hua is my..."
+  },
+  {
+    "line": 895,
+    "text": "What Take says next is whispered so softly that I can't make out a word of it."
+  },
+  {
+    "line": 896,
+    "text": "She's your what?"
+  },
+  {
+    "line": 897,
+    "text": "She's my older sister..."
+  },
+  {
+    "line": 898,
+    "text": "Hmph. That idiot Jiu Hua was born just 30 minutes before me. She's always saying she's my older sister, but she doesn't act like one, that's for sure."
+  },
+  {
+    "line": 899,
+    "text": "I see! No wonder you tried to cover for her in front of Ume."
+  },
+  {
+    "line": 900,
+    "text": "Anyway, you and I are now officially members of the \"Jiu Hua Trouble Cleanup Alliance.\""
+  },
+  {
+    "line": 901,
+    "text": "You can't just make up a weird alliance out of nowhere and drag people into it!"
+  },
+  {
+    "line": 902,
+    "text": "It's settled then. As thanks for your help today, dinner's on me."
+  },
+  {
+    "line": 903,
+    "text": "Take jumps up from the ground and extends a hand toward me with a smile."
+  },
+  {
+    "line": 904,
+    "text": "We'll put it on Jiu Hua's tab."
+  }
+]

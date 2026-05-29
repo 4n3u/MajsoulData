@@ -1,0 +1,1 @@
+local a=require("ExcelTool")local b=a.Block;local c=a.PackGet;local d={["id"]=1,["character"]=2,["type"]=3,["path"]=1004,["type_desc"]=1005}local e={nil,20000106,1,nil,"叹气"}local f=function(g,h)return c(g,h,d,e)end;local i={406,738,1202,1938,2403,2908,3104,4410,4914,6106,7411,8404,9313,9905,10711,11301,11504,11639,12116,12256,12520}local j={}return{tb=j,get=f,b2i=i}

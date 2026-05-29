@@ -1,0 +1,282 @@
+10:player
+
+
+295:Hinata Takanashi
+296:The sea looks absolutely stunning...
+297:Beach, One Han City
+298:Natsuki Shinomiya
+299:Ah-ha! First one here!
+300:Hideki Akechi
+301:Looks like we've got this entire beach all to ourselves.
+302:Mirai
+303:I mean, it's not really beach season yet, is it?
+304:But the sun feels so perfect today!
+305:Definitely! Plenty of sunlight without the scorching heat.
+306:Hey, you slowpokes! Don't leave me hanging out here by myself! Catch up already!
+307:Since a few friends had some free time lately, I thought it'd be fun to get everyone to the beach.
+308:The water's too chilly for swimming right now, but that hasn't stopped everyone from having fun.
+309:Especially Hinata and Mirai, who are running around like excited kids.
+310:Yui Yagi
+311:...
+312:Watching the others play from afar, Yui narrows her eyes slightly, as if the sun is too bright for her.
+313:Though we've been talking a lot recently, this is my first time inviting her out. I still can't quite figure out what's going on in her mind...
+314:Everyone seems to be enjoying themselves.
+316:Yes, they are. Are you enjoying yourself too?
+317:I don't know.
+318:Yui neither confirms nor denies... better to steer the conversation elsewhere.
+319:Speaking of beaches, when was the last time you visited one?
+320:10 years and 3 months ago.
+321:That's quite a long time...
+322:Wait, you remember it down to the month?
+323:Yes, it was the first time I went to the beach with my family.
+324:I didn't know how to swim then, which was disappointing, so I took swimming lessons afterward.
+325:Oh? So you can swim now?
+326:Are you doubting me?
+327:No, not at all! I'd never do that.
+328:That said, I'm having a hard time imagining Yui in the water.
+329:I'd love to prove it to you, but the ocean's still off-limits for swimming.
+330:What a pity.
+332:How about we go beachcombing instead?
+334:It's okay, searching for seashells on the beach is fun too.
+335:Hearing this, Yui suddenly turns her gaze toward me.
+336:Wh-what's wrong?
+337:Senpai...
+338:If I find any pretty shells, I'll give them to you.
+340:Sure, thank you.
+342:Sure, I'll try to find some nice ones too.
+343:Hey! How about a game of beach volleyball?!
+344:Hehehe... I knew someone would suggest this. Look! I came prepared with a ball!
+345:Ah, this must be the work of some divine power... the god of spheres has blessed me with its power!
+346:I mean, people typically bring volleyballs to the beach anyway...
+347:It does sound fun, though. Are you and {var:player_nickname} joining us, Yui?
+348:Of course, I'd never turn down a game.
+349:Next to me, Yui nods slightly, her face as unreadable as always.
+350:After drawing lots to form teams, I'm grouped with Yui and Hideki.
+351:I assumed Yui wouldn't be athletic, but she's surprisingly skilled at volleyball.
+352:But none of us has had any professional training, so the match basically looks like a bunch of amateurs just fumbling around...
+353:Here it comes!
+354:Hmph!
+355:Take this!
+356:Haha, it's nice to get some exercise once in a while.
+357:Mmm, this is fun.
+358:Nice one! We just scored!
+359:The game has been neck and neck, and now we're at 20-19, our match point.
+360:Nooo... we can't afford to lose this one!
+361:I'm going all out! Take this! Midnight Inferno!
+362:Big talk, slow walk. I jumped the gun trying to block that slowpoke...
+363:{var:player_nickname}! Catch it!
+364:The volleyball soars toward my head.
+365:I track the ball while checking my teammates' positions from the corner of my eye. Yui is standing back, and she seems to be looking at me.
+366:Somehow I can feel the confidence in her eyes. But...
+367:A quick look at the other side shows all three opponents standing deep in their court, with the net area completely unguarded.
+368:If I could just tap the ball over to their front court, we'd win. What's the best move here?
+370:Set the ball for Yui.
+372:Use a fake-out shot.
+373:Yui, this one's yours!
+374:...!
+375:Yui's eyes flash with determination as she jumps high into the air...
+376:Whoosh – Yui's powerful spike hits nothing but thin air.
+377:That's quite the powerful whiff, Yui.
+378:How did I miss?
+379:After that, the other team seized the momentum and eventually defeated us.
+380:After the match, Yui just stood there, staring silently at the volleyball rolling across the sand.
+381:It's obvious she's feeling pretty down...
+382:Yui?
+383:My hand position during the spike should have been correct...
+384:Maybe I jumped too soon?
+385:But if I could increase the momentum, perhaps I can maintain kinetic energy while controlling my midair posture better...
+386:Yui finds a stick from somewhere and begins writing complex calculations in the sand.
+388:Yui, the sun's starting to set.
+390:Don't worry, it's just a friendly game!
+391:Yui doesn't seem to hear me, still absorbed in her diagrams and calculations...
+392:Can I get you something to drink?
+393:I'd like an iced coffee.
+394:Sure thing.
+395:My angle is perfect! I start by aiming high toward their back court, then suddenly flip my wrist to hit a clean, straight shot to their undefended front court.
+396:Natsuki lunges desperately toward the ball, but he's just a split second too slow.
+397:When the volleyball hits the sand, the match ends with our victory.
+398:Argh, I just couldn't get there in time!
+399:That was so cool... I had no idea you were faking...
+400:Seeing the disappointed looks on my opponents' faces gives me a little rush of pride.
+401:As I turn to celebrate with my teammates, I suddenly notice something's not right.
+402:Senpai...
+403:... (staring)
+404:Oh, I see...
+405:Sorry, were you waiting for me to set the ball for you?
+406:Now that I think about it, Yui's position was ideal for a spike.
+407:{var:player_nickname}, seriously. As the team leader, you should be more considerate of Yui's feelings.
+408:Hold on a second?! Since when am I the team leader?!
+409:Senpai.
+410:Yui gives my shoulder a little poke with her finger.
+411:Buy me coffee and I'll forgive you.
+412:Eh? Coffee?
+413:Despite what she's saying, Yui doesn't appear angry at all. If anything, she seems almost... happy?
+414:Is she just playing a joke on me...?
+415:Alright. What kind of coffee would you like?
+416:Just a regular iced coffee, thanks.
+417:This is a good opportunity to get some drinks to refresh ourselves after playing. Luckily, there's a vending machine in the nearby parking lot where I easily buy a can of iced coffee.
+418:I might as well buy drinks for everyone else too.
+419:With this in mind, I load all the drinks into a bag. But when I get back to the beach, I'm met with an unexpected situation.
+420:Yui is gone.
+421:Has anyone seen Yui?
+422:Eh? Yui?
+423:You're right. Where did Yui go?
+424:Weird... I can see from one end of this beach to the other, so she shouldn't be hard to find.
+425:At that moment, I suddenly remember what Yui and I talked about earlier.
+426:Did she go into the ocean alone to prove she can swim because I doubted her earlier?!
+427:I'll search along the shoreline!
+428:Good idea! We'll all spread out and search!
+429:If I'm right about this... this could be serious.
+430:We decide to split up and comb the beach, but none of us can find Yui.
+431:There's no way she was pulled out to sea by the waves, right...?
+433:Growing increasingly worried, I follow the shoreline until I reach a rocky area.
+434:The beach gives way to an unbroken stretch of large, jagged rocks that march right out into the ocean.
+436:Phew. Finally, there you are.
+437:Senpai? What's wrong?
+438:Yui doesn't seem to realize what's happened, her eyes clear and curious despite her typical lack of expression.
+439:Thank goodness you're alright... everyone's been worried sick. I need to let them know you're safe.
+440:Wait.
+441:Don't tell them where we are just yet.
+442:Hm?
+443:While I don't know why Yui wants this, I respect her wish and simply message the group: "Found Yui, everything's fine."
+444:I put my phone away, and Yui climbs up onto the rocks to join me.
+445:As she gets closer, I see she's holding several small shimmering white fragments in her palm.
+446:You came all the way out here... for shells.
+447:She must have been so focused on finding seashells that she wandered to this hidden spot without realizing.
+448:Yes, but they're not particularly rare...
+449:Still, I'd like you to have them.
+450:Thank you, Yui. I appreciate it.
+451:There's no need for thanks between us.
+452:Eh...?
+453:Senpai...
+454:Hmm?
+455:Could you stay and talk with me for a bit?
+456:Of course.
+457:She nods, looking satisfied.
+458:The waves crash against the rocks with a soothing sound that's both relaxing and pleasant to the ear.
+459:We sit side by side on the rocks, enjoying the peaceful sea and looking out toward the horizon.
+460:Back in ancient times, I doubt anyone believed the earth beneath them was a sphere.
+461:But there was an ancient civilization that believed the earth was a hemisphere supported on an elephant's back.
+462:And beneath that elephant lurked a turtle even larger than the elephant.
+463:That's quite fascinating, don't you think?
+465:I wonder what it was like for people to first discover they were living on a gigantic sphere.
+466:With how far technology has come, will we ever be truly surprised by a discovery again?
+467:As the sun sinks, its brilliant light traces the outline of Yui's face.
+468:There's something in her expression that I can't quite grasp yet.
+469:You know so much. Is that from your scientist parents' influence?
+470:Yes. They taught me a lot of things when they were still alive.
+471:Wait...?
+472:Yui combs her fingers through her long hair and nods.
+473:They were in a plane crash before I started middle school.
+474:Don't give me that look...
+475:It's all in the past now. I've learned to let it go.
+476:I see... thank you for telling me.
+477:You're incredibly strong, Yui.
+478:It's more like I've gotten so used to being alone that sometimes I feel afraid of how things are now.
+479:I love spending time with all of you, but I don't know how to show you my feelings.
+480:After all, I barely even know how to smile.
+481:Senpai...
+482:What should I do?
+483:I can help you practice smiling.
+484:I can tell when you're happy, you know.
+485:It's never too late to start practicing. I'm sure you'll be smiling naturally in no time.
+486:A natural smile...
+487:What kind of practice should we do?
+488:Well... let me think about it.
+489:To be frank, I don't really know exactly what we should do either.
+490:Perhaps we could start by exercising your facial muscles?
+492:Do you mean the levator labii superioris, orbicularis oris, or masseter muscles?
+493:Or maybe the orbicularis oculi, zygomaticus minor, or depressor anguli oris?
+494:Or rather, the mentalis?
+495:S-sorry, I don't understand any of those terms...
+496:But the human face has about 30 different muscles.
+498:At this point, Yui's eyes suddenly grow wide.
+499:Are you saying everyone practices this advanced mental exercise every day?
+500:That's exhausting... no wonder people often say socializing is complicated...
+502:Let me put it this way...
+503:Look, like this – just use your index fingers to push up the corners of your mouth.
+504:That's a basic smile right there. Wanna try?
+505:Yui puts her index fingers against the corners of her mouth and pushes them up hard. The result looks extremely unnatural and rather funny...
+506:She made a completely mechanical smile.
+507:So Yui really doesn't know how to smile...
+508:Why are you laughing?
+509:Ah, sorry about that.
+510:Watching you give it your all is just too adorable – I couldn't help myself.
+511:Adorable? Me?
+512:Without a word, Yui stares intently at my face.
+513:I hope I didn't upset her...
+514:Ah – so this is where Yui has been hiding!
+516:Following behind her are the rest of our friends. Natsuki is carrying the drinks I bought earlier, and just like that, our group is reunited.
+517:Got busted. Too bad.
+518:Hmm? What was that?
+519:Nothing.
+520:We play among the rocks, all six of us, bathed in the soft afterglow.
+521:Tiny fish swim happily back and forth in the numerous tide pools between the rocks.
+523:As we're all observing the tiny world in the tide pools, Yui suddenly stands up and points to something nearby.
+524:Following her gesture, I spot a strange creature trying to scale a rock, its back covered with writhing tentacles.
+525:That's a hermit crab.
+526:Is THAT what hermit crabs look like?!
+528:Though this is my first time seeing one alive.
+529:I see... hold on, did you just...
+530:Did you just smile?
+531:I can't be completely sure, but I don't think I was imagining it. For just a moment, Yui's lips curved up at the corners.
+532:Eh?
+533:I could be wrong. But from what I saw, you were definitely smiling just now.
+534:Is that so?
+535:...That's great.
+536:Yui says softly, before turning her attention back to the tiny world at her feet.
+537:Her smile still needs practice, but perhaps success isn't too far off.
+538:Until then, I'll enjoy this journey with her.
+539:Really?
+540:Of course.
+541:When you're happy, your eyes crinkle slightly, as if you're looking at something bright.
+542:Your lips might not move, but that's still your own special way of smiling.
+543:That's how I've come to recognize it, at least.
+544:You really are fascinating.
+545:Wait, I think I've heard Yui say something similar before...
+546:What's so fascinating about me?
+547:You always notice things that nobody else does.
+557:I always feel happy when I'm with you.
+558:All these compliments are making me feel a little self-conscious.
+559:Uh, well... um... the ocean looks gorgeous, doesn't it?
+560:Yes, it's stunning.
+561:Wow, the entire sky is painted red now.
+562:Let's watch the sunset together.
+563:We can just stay here until the sun sinks into the sea.
+564:Okay.
+565:It's beautiful.
+566:We turn our gaze toward the distant sunset. If only this moment could stretch on just a little longer...
+567:Ah – so this is where Yui has been hiding!
+569:Following behind her are the rest of our friends, and just like that, our group is finally reunited.
+570:We play among the rocks, all six of us, bathed in the soft afterglow.
+571:Tiny fish swim happily back and forth in the numerous tide pools between the rocks.
+572:Senpai, I need to tell you something.
+573:While the others are absorbed in the tiny world below, Yui speaks in a volume only I can hear.
+574:What is it?
+576:But actually, I've always wanted to share these joys with someone else.
+577:So being able to call everyone – especially you, senpai – my friends makes me incredibly happy.
+578:Playing mahjong or coming to the beach like this... these are things I wouldn't have even imagined doing before.
+579:So, thank you.
+580:For showing me this whole new world.
+581:When Yui finishes speaking, the sun slowly dips below the horizon behind her.
+583:To my eyes, she's smiling.
+584:I should be the one thanking you, Yui.
+585:After all, haven't I too discovered a new world all my own... thanks to her?
+586:I want to see even more expressions on Yui's face in the future.
+587:But for now, I'll keep these thoughts to myself.
+597:As a red glow bathes the entire world, a subtle yet unmistakable smile graces Yui's lips.
+598:The View From Your Side
+599:Yui says this, half to me and half to herself.
+602:Yui... please be okay!
+603:Yes, fascinating indeed.
+607:Climbing onto one of the rocks, I spot a reassuring figure below. It's Yui, crouching on the sand, hidden from everyone's view by the tall rocks.
+608:Which muscle exactly?
+609:To create a perfect smile, I need to precisely control every single muscle's movement.
+610:Hold on, hold on, it's not complicated at all!
+611:I turn toward the sound of the voice and see Hinata standing at the foot of the rocks, waving up at us.
+612:These little fish probably have no idea Earth is a sphere either.
+613:In addition to living in shells, hermit crabs sometimes carry sea anemones on their backs for protection.
+614:And you're very considerate.
+615:Kind to everyone.
+616:I turn toward the sound of the voice and see Hinata standing at the foot of the rocks, waving up at us.
+617:I always thought reading books and brewing coffee brought me joy.

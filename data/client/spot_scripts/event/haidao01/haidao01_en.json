@@ -1,0 +1,766 @@
+[
+  {
+    "line": 1,
+    "text": "player"
+  },
+  {
+    "line": 402,
+    "text": "...Hmm? Isn't that Yuzu?"
+  },
+  {
+    "line": 403,
+    "text": "While wandering around in the amusement park, I see a person in an orange coat pacing back and forth not far away. Her furry tail sweeps over a nearby flower bed from time to time, knocking several petals off the flowers every time."
+  },
+  {
+    "line": 404,
+    "text": "After watching for two minutes, I decide to walk over and greet her to protect love, peace, and the flowers."
+  },
+  {
+    "line": 405,
+    "text": "Good morning, Yuzu. You've been looking here for a while now. Are you looking for something?"
+  },
+  {
+    "line": 406,
+    "text": "Could it be... that you're wondering about which ride to choose?"
+  },
+  {
+    "line": 407,
+    "text": "Yuzu"
+  },
+  {
+    "line": 408,
+    "text": "{var:player_nickname}? Good morning. Now's not the time to have fun. I'm on patrol right now, argh."
+  },
+  {
+    "line": 409,
+    "text": "Patrol?"
+  },
+  {
+    "line": 410,
+    "text": "I'm looking for naughty children who don't follow the rules."
+  },
+  {
+    "line": 411,
+    "text": "Naughty children?"
+  },
+  {
+    "line": 412,
+    "text": "Um, simply put, I'm looking for people who are causing trouble in the amusement park."
+  },
+  {
+    "line": 413,
+    "text": "People who are causing trouble?"
+  },
+  {
+    "line": 414,
+    "text": "You're not allowed to repeat what I just said! Argh!"
+  },
+  {
+    "line": 415,
+    "text": "Got it, argh!"
+  },
+  {
+    "line": 416,
+    "text": "Before the red pandas around Yuzu can get ready to attack me, I quickly raise my hands in surrender."
+  },
+  {
+    "line": 417,
+    "text": "Although it's fun to bully... I mean, tease, Yuzu from time to time, it's not worth it if I get beaten up because of it. Compared to their cute counterparts in the zoo, Yuzu's Red Panda Squad are quite fierce in a fight."
+  },
+  {
+    "line": 418,
+    "text": "The amusement park has a security system, and I believe it'll maintain public order and keep everyone safe, so I don't think you need to worry about that."
+  },
+  {
+    "line": 419,
+    "text": "Argh, {var:player_nickname}, you're too naive."
+  },
+  {
+    "line": 420,
+    "text": "When actions that can't be restrained by the rules take place, it is time for the Witch of Justice to perform her duties."
+  },
+  {
+    "line": 421,
+    "text": "For example, look behind you on the right, argh!"
+  },
+  {
+    "line": 422,
+    "text": "I look at where Yuzu is pointing and yikes... I see Kaavi sitting at a nearby stall, telling people's fortunes, which makes me feel like I'm in the streets of One Han City."
+  },
+  {
+    "line": 423,
+    "text": "Because they aren't that far from us, Yuzu and I can hear the conversation between Kaavi and her customer."
+  },
+  {
+    "line": 424,
+    "text": "???"
+  },
+  {
+    "line": 425,
+    "text": "Miss Kaavi, it's such a coincidence to see you here. I didn't think that you would even be working here."
+  },
+  {
+    "line": 426,
+    "text": "Judging from the clothing this person is wearing, I think this customer is a security guard of the amusement park. Shouldn't he be on patrol?"
+  },
+  {
+    "line": 427,
+    "text": "Kaavi"
+  },
+  {
+    "line": 428,
+    "text": "...Hmm."
+  },
+  {
+    "line": 429,
+    "text": "Security Guard"
+  },
+  {
+    "line": 430,
+    "text": "Can you tell my fortune for me?"
+  },
+  {
+    "line": 431,
+    "text": "What do you want to ask me about?"
+  },
+  {
+    "line": 432,
+    "text": "I want to know when you'll agree to be my girlfriend."
+  },
+  {
+    "line": 433,
+    "text": "...That's impossible."
+  },
+  {
+    "line": 434,
+    "text": "How do you know that without telling my fortune!? I don't believe you!"
+  },
+  {
+    "line": 435,
+    "text": "I understand..."
+  },
+  {
+    "line": 436,
+    "text": "The crystal ball tells me that we're not meant to be and that you won't have a girlfriend within five years."
+  },
+  {
+    "line": 437,
+    "text": "No, I don't accept that. Please tell my fortune again with tarot cards! I'm... I'm sure that you smiled at me when I walked past you on the street the other day. We must be bound together by destiny! It's proof that you hold me dear in your heart!"
+  },
+  {
+    "line": 438,
+    "text": "I stare dumbfoundedly at that customer who has opened my eyes with this new courtship method."
+  },
+  {
+    "line": 439,
+    "text": "She's telling you the truth. Fortune telling isn't even necessary to see that you two aren't meant to be. Everyone can see that, argh."
+  },
+  {
+    "line": 440,
+    "text": "When I wasn't paying attention, Yuzu walked over to the stall and started talking. Upon noticing this, I quickly follow her."
+  },
+  {
+    "line": 441,
+    "text": "Why are you suddenly speaking in support of Kaavi?"
+  },
+  {
+    "line": 442,
+    "text": "That bad woman isn't lying to people for once, so I can't ignore her if she's in trouble."
+  },
+  {
+    "line": 443,
+    "text": "What's more... Aren't you a security guard of this amusement park? Shouldn't you be on patrol? Why are you getting your fortune told here like a customer instead?"
+  },
+  {
+    "line": 444,
+    "text": "I... I... What would a grade school student like you know?!"
+  },
+  {
+    "line": 445,
+    "text": "G-Grade school student! Argh... Red Panda Squad, attack!"
+  },
+  {
+    "line": 446,
+    "text": "AHHH! Stop! Did you hear what I just said? Ouch... I'm warning you! I'm well-connected. Your... Ah! Stop biting me! Why are their bites so painful?!"
+  },
+  {
+    "line": 447,
+    "text": "Oh, so you're well-connected."
+  },
+  {
+    "line": 448,
+    "text": "I pick up my phone and record the scene, then I go to my chat with Osamu Saitou and send the video to him with a simple explanation. My movements are natural and effortless, and I don't need any recognition for my good deed."
+  },
+  {
+    "line": 449,
+    "text": "I've never lost to anyone in terms of connections in One Han City."
+  },
+  {
+    "line": 450,
+    "text": "...Oh? It's such a coincidence to see you guys here."
+  },
+  {
+    "line": 451,
+    "text": "First of all, I'm not helping you. I just don't like people who slack off during work hours, argh."
+  },
+  {
+    "line": 452,
+    "text": "Oh? I wasn't intending to thank you though."
+  },
+  {
+    "line": 453,
+    "text": "I knew it. A bad woman like you who lies all the time has no sense of what's good or evil!"
+  },
+  {
+    "line": 454,
+    "text": "If someone who has a legal license to operate a stall and is doing business honestly is a bad woman... Haha, you must be a bad child since you're enforcing the law without a license."
+  },
+  {
+    "line": 455,
+    "text": "Argh! I... I don't need anyone's permission to do my duty to uphold justice..."
+  },
+  {
+    "line": 456,
+    "text": "Ouch, I bit my tongue. It hurts."
+  },
+  {
+    "line": 457,
+    "text": "Haha... {var:player_nickname}, what do you think?"
+  },
+  {
+    "line": 458,
+    "text": "Eh?"
+  },
+  {
+    "line": 459,
+    "text": "{var:player_nickname}, who's side are you on?"
+  },
+  {
+    "line": 460,
+    "text": "Kaavi and Yuzu both take a step towards me and grab one hand each, then they look at me with bright eyes."
+  },
+  {
+    "line": 462,
+    "text": "Help Kaavi"
+  },
+  {
+    "line": 464,
+    "text": "Help Yuzu"
+  },
+  {
+    "line": 466,
+    "text": "Only children need to make decisions. Adults will just grab some popcorn and enjoy the show."
+  },
+  {
+    "line": 467,
+    "text": "Kaavi has a license for her stall? I must stand up for her then."
+  },
+  {
+    "line": 468,
+    "text": "Yuzu, you know..."
+  },
+  {
+    "line": 469,
+    "text": "Argh! People usually don't have anything nice to say when they start a sentence like that. I'm not going to listen."
+  },
+  {
+    "line": 470,
+    "text": "But..."
+  },
+  {
+    "line": 471,
+    "text": "Kaavi, let's solve the problem between us ourselves, argh."
+  },
+  {
+    "line": 472,
+    "text": "You..."
+  },
+  {
+    "line": 473,
+    "text": "Okay."
+  },
+  {
+    "line": 474,
+    "text": "Kaavi pulls Yuzu towards herself as she speaks. Kaavi holds Yuzu, who is noticeably shorter, tightly in front of her chest with both hands, and Yuzu's face turns red as she holds her breath and struggles desperately..."
+  },
+  {
+    "line": 475,
+    "text": "Damn it!"
+  },
+  {
+    "line": 476,
+    "text": "Let go of Yuzu! Come at me instead!"
+  },
+  {
+    "line": 477,
+    "text": "I don't think Yuzu is your match. I better help her."
+  },
+  {
+    "line": 478,
+    "text": "Argh! I don't need your help!"
+  },
+  {
+    "line": 479,
+    "text": "I'm helping you."
+  },
+  {
+    "line": 481,
+    "text": "Kaavi looks at us and smiles mysteriously, then she holds my arm."
+  },
+  {
+    "line": 485,
+    "text": "If you're going to help someone, you might as well help the one who is better endowed with virtue, right?"
+  },
+  {
+    "line": 486,
+    "text": "?"
+  },
+  {
+    "line": 487,
+    "text": "Her words sound like a trap, so I don't know whether I should agree with her or not."
+  },
+  {
+    "line": 488,
+    "text": "Argh! You! Y-Y-You... What nonsense are you saying?!"
+  },
+  {
+    "line": 489,
+    "text": "Haha, {var:player_nickname} seems to be tacitly agreeing by not saying anything."
+  },
+  {
+    "line": 490,
+    "text": "No, that's not true. Don't make things up."
+  },
+  {
+    "line": 491,
+    "text": "Yuzu, listen, you're not less in any way. You're already an adult."
+  },
+  {
+    "line": 492,
+    "text": "The atmosphere that is getting colder by the second makes me realize that my words haven't comforted Yuzu at all."
+  },
+  {
+    "line": 493,
+    "text": "I choose to be a spectator."
+  },
+  {
+    "line": 494,
+    "text": "After gently pushing their hands aside, I take a step back and pull out a pack of snacks I confiscated from Lin Lang in the morning and start to eat them."
+  },
+  {
+    "line": 495,
+    "text": "I must admit that the battle is very \"tragic\". Kaavi completely overpowers Yuzu thanks to her absolute advantage of having longer arms. With her arm stretched out and pushing against Yuzu's forehead, Yuzu is unable to reach Kaavi no matter how hard she tries."
+  },
+  {
+    "line": 496,
+    "text": "After finally consoling Yuzu, I manage to convince her to put aside her personal grudge for now and properly assess Kaavi's work."
+  },
+  {
+    "line": 497,
+    "text": "Fifteen minutes later"
+  },
+  {
+    "line": 498,
+    "text": "Tourist A"
+  },
+  {
+    "line": 499,
+    "text": "Hi, I'm looking for a good place to confess my love. Do you have any suggestions?"
+  },
+  {
+    "line": 500,
+    "text": "Please wait a moment... Okay, please choose a card and flip it over without changing its orientation."
+  },
+  {
+    "line": 501,
+    "text": "...The Star in the upright position... According to the guidance of Sirius, you'll find a suitable location for your love confession in the southeast direction."
+  },
+  {
+    "line": 502,
+    "text": "I see. Thanks! Sorry, can you also tell me where the toilet is?"
+  },
+  {
+    "line": 503,
+    "text": "It's on the left. Just go straight ahead."
+  },
+  {
+    "line": 504,
+    "text": "Look, she's just giving advice to tourists normally."
+  },
+  {
+    "line": 505,
+    "text": "She's only behaving herself because I'm watching her right now. But once I start patrolling somewhere else, argh..."
+  },
+  {
+    "line": 506,
+    "text": "Actually, the person who you said wasn't following the rules was the security guard, not Kaavi, right?"
+  },
+  {
+    "line": 507,
+    "text": "Argh?! Th-There's no such thing! {var:Shake}"
+  },
+  {
+    "line": 508,
+    "text": "I know everything. The truth is, you walked over to help Kaavi."
+  },
+  {
+    "line": 509,
+    "text": "Ahem!"
+  },
+  {
+    "line": 510,
+    "text": "O-Oh well, I'll let you go for now, you lying fortune teller. But I'll come back from time to time to check up on you, so don't even think of tricking others when I'm not around!"
+  },
+  {
+    "line": 511,
+    "text": "Haha... thanks for the hard work then."
+  },
+  {
+    "line": 512,
+    "text": "Although Yuzu didn't manage to get to a good start, she won't give up on looking seriously for troublemakers in this amusement park..."
+  },
+  {
+    "line": 513,
+    "text": "Kirara Fujimoto"
+  },
+  {
+    "line": 514,
+    "text": "Wow! This newly released eyeshadow suits summer so well, I must get it!"
+  },
+  {
+    "line": 515,
+    "text": "Nana Shiraishi"
+  },
+  {
+    "line": 516,
+    "text": "Really? Hmm, isn't the saturation a bit high? Let's ask someone else for an opinion!"
+  },
+  {
+    "line": 517,
+    "text": "Argh! Stop right now! It is very dangerous to walk while looking at your phone!"
+  },
+  {
+    "line": 518,
+    "text": "High saturation colors could work well on you. Why not try it out and see the result first?"
+  },
+  {
+    "line": 519,
+    "text": "Argh, how can you join the conversation so naturally?!"
+  },
+  {
+    "line": 520,
+    "text": "Shaun"
+  },
+  {
+    "line": 521,
+    "text": "Baa!"
+  },
+  {
+    "line": 522,
+    "text": "Eliisa"
+  },
+  {
+    "line": 523,
+    "text": "Wow, a-as expected of an amusement park run by Samu Corporation. The grass on the lawn is so fresh that Shaun is willing to eat it. Such fresh grass must cost a lot of money..."
+  },
+  {
+    "line": 524,
+    "text": "Argh! How can you eat the greenery?! Eliisa, you must stop Shaun now!"
+  },
+  {
+    "line": 525,
+    "text": "B-But Shaun is eating happily. Liisa Liisa can't stop it! Help me, Mr. Wolf! {var:Shake}"
+  },
+  {
+    "line": 526,
+    "text": "I'll help you... H-How come it's so strong?! Has something strange been mixed into the grass?!"
+  },
+  {
+    "line": 527,
+    "text": "Nadeshiko"
+  },
+  {
+    "line": 528,
+    "text": "Hah! With this nice weather, it's perfect to sit on the grass and have a drink!"
+  },
+  {
+    "line": 529,
+    "text": "Ayane Kisaragi"
+  },
+  {
+    "line": 530,
+    "text": "Geez, Chihori is only thinking about conducting interviews even in a place like this. A workaholic like her will miss her opportunity to get herself a good man!"
+  },
+  {
+    "line": 531,
+    "text": "Argh! Miss Kisaragi, Nadeshiko, drinking alcohol is prohibited in the amusement park! You're not allowed to get drunk and do silly things either!"
+  },
+  {
+    "line": 532,
+    "text": "Stop being so serious, Yuzu. In an amusement park, the most important thing is to have fun."
+  },
+  {
+    "line": 533,
+    "text": "Anyway, you have to stop drinking now. I'm going to confiscate all this alcohol... Argh? You over there, freeze now!"
+  },
+  {
+    "line": 534,
+    "text": "Huh? Isn't that Mirai?"
+  },
+  {
+    "line": 535,
+    "text": "I look in the direction where Yuzu has run off and see Mirai looking at the navigation robot with a screwdriver and a wrench."
+  },
+  {
+    "line": 536,
+    "text": "Mirai"
+  },
+  {
+    "line": 537,
+    "text": "This unit doesn't seem very smart. I get the feeling that his navigation robot's system can be improved. Let me see... I should be able to connect it to my computer if I take off this part..."
+  },
+  {
+    "line": 538,
+    "text": "Argh! It's prohibited to modify the robots of the amusement park without permission!"
+  },
+  {
+    "line": 539,
+    "text": "Eh? ...I'm just going to tweak its system. I don't think it'll go on a rampage or anything."
+  },
+  {
+    "line": 540,
+    "text": "So you've already assumed that the worse outcome would be that it would go on a rampage instead of breaking down... Anyway, you should put your tools away. Can you see how it's retreating whenever you move towards it? Its awareness of danger tells me that it's already smart enough."
+  },
+  {
+    "line": 541,
+    "text": "I follow Yuzu as she patrols everywhere. After coincidentally looking up at a nearby clock, I realize that more than an hour has slipped by unnoticed. During this time, Yuzu blew her little whistle every few minutes, surprising me with the number of troublemakers in the amusement park."
+  },
+  {
+    "line": 542,
+    "text": "What's more, I knew everyone she caught... Is it possible that the people I know are all overly carefree?"
+  },
+  {
+    "line": 543,
+    "text": "...Okay, I admit that I was naive. After accompanying you, I now realize just how diverse humans are."
+  },
+  {
+    "line": 544,
+    "text": "By the way, aren't you tired? Do you want to rest for a bit?"
+  },
+  {
+    "line": 545,
+    "text": "I am a little tired... {var:player_nickname}, why have you been patrolling with me? Don't you want to play and have fun?"
+  },
+  {
+    "line": 546,
+    "text": "To be honest, I don't really know why I started patrolling with you... It doesn't matter. We've been patrolling together for so long that I'm not going to fixate on the reason now."
+  },
+  {
+    "line": 547,
+    "text": "By the way, how much longer are you thinking of patrolling for? The amusement park is so big, and it's very tiring to patrol the area again and again."
+  },
+  {
+    "line": 548,
+    "text": "I was just thinking about that too. At times like this, I'm really envious of the birds flying in the sky. Argh... if I could fly, it would be really convenient to see who is causing trouble."
+  },
+  {
+    "line": 549,
+    "text": "That's true, it really is a lot easier to spot troublemakers from a higher vantage point... Oh, I know. Yuzu, follow me. I have a good idea."
+  },
+  {
+    "line": 550,
+    "text": "Argh? A turbo drop ride?"
+  },
+  {
+    "line": 551,
+    "text": "Well, don't you think you'll be able to conveniently observe the situation in the amusement park if you use this machine to rise up high in the sky?"
+  },
+  {
+    "line": 552,
+    "text": "Argh! {var:player_nickname}, you've come up with a brilliant idea!"
+  },
+  {
+    "line": 553,
+    "text": "After speaking, Yuzu grabs my hand and gets on the biggest turbo drop ride in the amusement park. However, after the guardrail is secured, I notice that she is getting more and more nervous."
+  },
+  {
+    "line": 554,
+    "text": "{var:player_nickname}... will we suddenly fall after reaching the highest point...?"
+  },
+  {
+    "line": 555,
+    "text": "Yes. Speaking of which, why are you starting to get scared now? You got on this ride so decisively that I thought you wouldn't be scared."
+  },
+  {
+    "line": 556,
+    "text": "I got on this ride without thinking too much because I thought you had a good idea... Argh, I can't touch the ground with my feet!"
+  },
+  {
+    "line": 557,
+    "text": "You'll only get more nervous if you look down. Just relax and don't think about what's going to happen. Just pretend you're on this machine to enjoy the scenery."
+  },
+  {
+    "line": 558,
+    "text": "Even if you say that..."
+  },
+  {
+    "line": 559,
+    "text": "Don't forget that we're still on patrol. The troublemakers in this amusement park will have nowhere to hide now. Does the Witch of Justice want to miss out on this opportunity to catch them?"
+  },
+  {
+    "line": 560,
+    "text": "Y-You're right. This is a good opportunity. Phew... Ah... I'm not nervous... I-I'll make sure not to look down..."
+  },
+  {
+    "line": 561,
+    "text": "...Argh! Miss Kisaragi and Nadeshiko have started to drink alcohol again!"
+  },
+  {
+    "line": 562,
+    "text": "How did they manage to drink so much in such a short period of time? I'm afraid she'll be sleeping by the time we get off the ride and go to them."
+  },
+  {
+    "line": 563,
+    "text": "Argh? The aquarium is actually designed in the shape of a fish? I always thought it was just an oval shape."
+  },
+  {
+    "line": 564,
+    "text": "Geez, the details of some buildings can only be seen clearly from a high place."
+  },
+  {
+    "line": 565,
+    "text": "...It's stopped. Have we reached the highest point?"
+  },
+  {
+    "line": 566,
+    "text": "...Argh? {var:player_nickname}, look! Does it look like that person is doing something strange?"
+  },
+  {
+    "line": 567,
+    "text": "Which... ah... {var:ShakeScene}"
+  },
+  {
+    "line": 568,
+    "text": "Before I can see the person Yuzu is talking about, I feel a strong sense of weightlessness, and the seat is being slowly lowered to the ground by the time I come to my senses."
+  },
+  {
+    "line": 569,
+    "text": "Phew... Fortunately, this ride isn't the type that bounces you back into the air, so the thrill ends in an instant. Yuzu, are you okay?"
+  },
+  {
+    "line": 570,
+    "text": "..."
+  },
+  {
+    "line": 571,
+    "text": "Yuzu?"
+  },
+  {
+    "line": 572,
+    "text": "Oh no, could she have been too frightened to react?"
+  },
+  {
+    "line": 573,
+    "text": "...I couldn't see it clearly."
+  },
+  {
+    "line": 574,
+    "text": "Huh?"
+  },
+  {
+    "line": 575,
+    "text": "Argh, the machine descended too quickly. I couldn't see what that person was doing."
+  },
+  {
+    "line": 576,
+    "text": "I only saw the situation on one side of the amusement park just now. {var:player_nickname}, let's take a seat on the other side and observe again."
+  },
+  {
+    "line": 577,
+    "text": "O-Okay then..."
+  },
+  {
+    "line": 578,
+    "text": "After riding on the turbo drop four times, Yuzu still feels that she hasn't observed everything carefully enough, so she takes me to the roller coaster, the frisbee, and other rides to monitor the situation of the amusement park from different angles."
+  },
+  {
+    "line": 579,
+    "text": "I never knew there were so many good ways to monitor the amusement park, argh! If I got on these rides when I started to play... I mean, to monitor the amusement park, then I wouldn't have gotten so tired from patrolling the area!"
+  },
+  {
+    "line": 580,
+    "text": "Hahahaha... As long as it works."
+  },
+  {
+    "line": 581,
+    "text": "After trying so many methods, I think the roller coaster is the best ride for monitoring the amusement park."
+  },
+  {
+    "line": 582,
+    "text": "Argh, {var:player_nickname}, let's go on the roller coaster again!"
+  },
+  {
+    "line": 583,
+    "text": "Say yes"
+  },
+  {
+    "line": 584,
+    "text": "Say no"
+  },
+  {
+    "line": 585,
+    "text": "Okay."
+  },
+  {
+    "line": 586,
+    "text": "After that Yuzu and I get on the roller coaster again and discover more troublemakers during our thrilling journey. Although there aren't many tourists, there is no shortage of troublemakers at all."
+  },
+  {
+    "line": 587,
+    "text": "After getting off the roller coaster again, Yuzu looks at me with sparkling eyes."
+  },
+  {
+    "line": 588,
+    "text": "W-Wait, let me catch my breath first... Yuzu, don't you feel sick or anything after playing for so long without resting?"
+  },
+  {
+    "line": 589,
+    "text": "Nope! I can have fun and catch troublemakers at the same time, so I'm incredibly excited right now!"
+  },
+  {
+    "line": 590,
+    "text": "I-I see..."
+  },
+  {
+    "line": 592,
+    "text": "Hmm? {var:player_nickname}, why is your expression so strange?"
+  },
+  {
+    "line": 593,
+    "text": "Why is it strange?"
+  },
+  {
+    "line": 594,
+    "text": "Well... you look like you want to barf, but you're also smiling at the same time."
+  },
+  {
+    "line": 595,
+    "text": "...It's probably because you're also smiling, Yuzu."
+  },
+  {
+    "line": 596,
+    "text": "Anyway, today's patrol should be over, argh... Since you've been so good, {var:player_nickname}, I'll reward you with a hearty meal."
+  },
+  {
+    "line": 597,
+    "text": "I look over at where Yuzu is pointing and see that the themed restaurant nearby is about to open. After getting on so many exciting rides, I feel like I won't really be able to eat much, but... when I look at Yuzu next to me and see her smiling like the first cherry blossoms have started to fall in spring, I feel like it would be nice to accompany her for a hearty meal too."
+  },
+  {
+    "line": 601,
+    "text": "Argh, even though I understand that you have good intentions, {var:player_nickname}, the Witch of Justice can't let others look down on her."
+  },
+  {
+    "line": 602,
+    "text": "So she's the type who becomes addicted to something after overcoming their fear of it..."
+  }
+]

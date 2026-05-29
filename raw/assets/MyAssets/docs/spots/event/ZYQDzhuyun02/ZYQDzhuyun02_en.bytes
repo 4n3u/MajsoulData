@@ -1,0 +1,218 @@
+2:player
+
+685:Fuuka Minami
+686:Ume
+687:???
+688:Take
+689:Eliisa
+690:Shaun
+691:Hannah
+692:Ledgers lay strewn around the gloomy room. I shudder slightly as a muffled clattering sound comes from one of its dark corners.
+693:...Is this really the place?
+694:I look back at Ume. She seems utterly unfazed by the scene before us.
+695:As for why we're here, it all started this morning.
+696:My dear secretary, I may need you to run over to the accounting office for me today.
+697:Accounting?
+698:Yes, Bamboo Cloud's finance department.
+699:Sounds pretty important. Are you sure I'm the one that should be going?
+700:Relax, they just handle staff matters. You won't find any trade secrets there.
+701:Besides, you're mine. Why shouldn't you be the one going?
+702:Okay, then what do you need me to do?
+703:Nian Lao, the manager over there, is out sick today. Unfortunately, two temp workers are coming in for interviews later, and I'm not confident that Take is up to the task alone. I'd like you to go help him.
+704:Ume, could you bring {var:player_nickname} to the accounting office, please?
+705:Here we are. Go on in.
+706:I have no choice but to comply and step in first.
+707:Please move your left foot five centimeters. You're stepping on the "Confidential Financial Analysis Report for Second Quarter Menu Development."
+708:Prompted by a slightly boyish, disembodied voice, I hastily take a step back...
+709:Now you're on the "Third Quarter Monthly Finance Report Management Sheet."
+710:And behind that is the "Accounting Operations Case Study Analysis."
+711:This place is a mess...
+712:I've just entered the room only to be forced back out again.
+713:Take, this is {var:player_nickname}, the person in charge of this year's celebration. Come out and say hello.
+714:With that, a young boy's head pops out from a stack of ledgers.
+715:He expertly navigates around the ledgers scattered on the floor and comes to stand before us. Wiping a thin layer of sweat and dust from his brow, he reveals a face that, despite its hint of youthfulness, bears a mature and earnest expression.
+716:You? Switching from fighting to writing after yesterday's martial arts exam?
+717:...Whatever happened to worker solidarity?
+718:Nian Lao is out sick today, and we have the temp worker interviews later. Ms. Fuuka wasn't sure if you could handle it by yourself, so she sent {var:player_nickname} here to lend a hand. You'll be working together as a team.
+719:...I can handle it on my own. I'm not an idiot like Jiu Hua.
+720:Turning his head slightly, Take mutters to himself under his breath. He then turns to face me.
+721:If you're going to help me with the temp worker interviews, you need to be good with numbers and think quickly at the very least. I'll test you with some basic questions now.
+722:Take a seat outside. I'll bring you a pen and paper.
+723:As I watch Take gingerly sidestep the ledgers on the floor, I can't take it anymore – I have to ask:
+724:Was this place... always such a mess?
+725:Of course not!
+726:The boy's calm tone suddenly rises a few decibels, revealing the bluntness expected of one his age.
+727:This is accounting! Accounting! Bamboo Cloud could be in total chaos and this place would still be in pristine condition!
+728:Then... how did it end up like this?
+729:Well... Someone came in yesterday after hours and turned the place upside down. They made a mess of the books, but luckily the core data isn't kept in this room.
+730:Do you have an inkling of who did this?
+731:Possibly... but I'm not certain.
+732:I bend down to take a closer look at the ledgers scattered at the door. To my surprise, I see marks all over the pages that look like bird footprints.
+733:My newfound detective instincts kick in, and I think back to Jiu Hua's pigeons from a few days ago – If I recall correctly, some of them were carrying pens and paper in their beaks...
+734:I raise my head back up to look at Take. I didn't expect to see him nervously watching my reaction.
+735:That's the moment I realize that my hypothesis is correct, and Take is thinking the same thing – we can't let Ume know.
+736:Ahem... Take, you were going to test me?
+737:Oh, right. Here you go.
+738:It's July 6th, and the six guests at table 28 ordered ten plates of braised tripe, generating a revenue of 6,000 Coppers. If the cost of labor and materials adds up to 4,000 Coppers, what is the profit margin on braised tripe for this table?
+739:50 percent... Do you really need to test me on something like that?
+740:Heh, not bad. You weren't thrown off by distracting information. I hope you can keep it up during the interviews.
+741:So you were actually testing me as an interviewer...
+742:Huh? Is this the place?
+743:Just as Take and I are trying to distract Ume, I hear a familiar voice – it's Hannah.
+744:Looks like the candidates are arriving. According to her resume, Miss Hannah has relevant experience. I hope she'll be of help to you.
+745:I think she works at Tenhoukaku... She should be pretty experienced.
+746:Whew, that was a close one. I was nearly late! Huh? Mr. Wolf, what are you doing here?
+747:Eliisa? You're one of the candidates?
+748:Mr. Wolf! Liisa Liisa missed you so much!
+749:Baa!
+750:Eliisa and Shaun come running in for a big hug.
+751:Ahem, as one of the interviewers, I'll remind you that this is a public setting. Also... please refrain from being too familiar with the candidates, or it will compromise the fairness of the assessment.
+752:Hearing Take's words, I sigh and use each hand to lift Shaun and Eliisa off me.
+753:Speaking of which, with your math skills, Eliisa... how did you make it to the interview round?
+754:Hehe! Ready to be impressed, Mr. Wolf? Liisa Liisa was the only candidate in the preliminary round to count to 1,000 without making a single mistake!
+755:I beat 99 percent of the other candidates!
+756:Seriously? THAT was the preliminary test? And how could 99 percent of the other candidates not even be able to count to 1,000?!
+757:According to feedback from staff who were present, the majority started getting drowsy after 100. Not only was Eliisa the only person to make it to 1,000 without falling asleep, but she also seemed remarkably hyper as well.
+758:Numbers will only torment someone unable to appreciate their intrinsic beauty. From this perspective, Miss Eliisa may actually be a mathematical genius.
+759:And it would seem that the world has only discovered one percent of the genius Eliisa was born with.
+760:Since our two candidates are here, why don't we begin with a written test?
+761:Careful, Shaun –
+762:A few cloven hoofprints have now been added to the bird footprints covering the ledgers...
+763:There are ten questions, and you'll each be given a calculator. You have five minutes to complete them.
+764:As soon as Take finishes speaking, Hannah and Eliisa jump into battle mode. Their progress, however, is exceedingly slow.
+765:The calculator looks tiny in Hannah's hand, and the pads of her fingers are so broad that they press three or four buttons at once. "Beep, beep, beep" echoes through the room... Thankfully, this will only last five minutes.
+766:As for Eliisa, she's actually doing calculations the old-fashioned way – on paper. Meanwhile, Shaun has taken her calculator off to the side and is rhythmically tapping the "6" button.
+767:I declare the winner of this test to be... Miss Eliisa.
+768:Five minutes later
+769:I glance at the disastrous exam papers – one is blank because the tester couldn't figure out how to use the calculator, and the other is covered in red Xs, with a measly total of 3 points.
+770:You seem quite calm, Take.
+771:They weren't even the most baffling interviewees we've had, it's almost a relief in a way.
+772:That's a relief? What exactly have you experienced up to now?
+773:You know... Just looked at over 100 resumes and interviewed 20 to 30 candidates.
+774:I see... That expression on Take's face isn't calm... It's apathy.
+775:Now for the second round of the interview: Please compare these numbers and indicate which is greater in value.
+776:I gawk at him. Apathy is one thing, but this is going too far!
+777:You're the manager, Ume! Do something!
+778:To the left is 18, and to the right is 19. Is he serious?! How could anyone get this wrong?
+779:This one's bigger.
+780:Huh?
+781:Eliisa's finger... is pointing to number 18.
+782:81 is obviously bigger than 61! There's no way Liisa Liisa would get an easy question like that wrong!
+783:Miss Eliisa, you got it upside down.
+784:Hearing that, Eliisa quickly rotates her paper right side up...
+785:Ooh... So it's 18 and 19!
+786:You may have taken the wrong steps, but you got the result absolutely right!
+787:Huh?
+788:18 equals four times four plus two. 19 equals three times three plus ten.
+789:It's obvious: Add a Pair to four Kans, and 18 is a win with Four Quads! As for 19, well... you can't win with three Triplets and ten orphans. That makes 18 stronger, which means that 18 is greater than 19!
+790:It looks like Miss Hannah's arithmetic skills can only be practically applied to mahjong...
+791:Looks like this question exceeded the standard difficulty.
+792:Take, get a hold of yourself!
+793:Ladies, we'll now proceed to the final logic test.
+794:Take's brows furrow slightly. After a brief moment of thought, he writes down the following question on a piece of paper...
+795:Four houses stand side by side in a picturesque village. Before each house is planted either plum trees, orchids, bamboo, or chrysanthemums. The owner of each house has a special hobby – illustrating picture books, listening to crosstalk, drinking tea, or calculating on the abacus.
+796:Through some local gossip, we learn the following:
+797:The person living in the house farthest to the left likes drinking tea. Orchids are planted at the entrance of the second house. The owner of the third house is skilled at using an abacus but has not planted plum trees. Chrysanthemums are planted at the entrance of the house farthest to the right, and its owner doesn't like to draw.
+798:So, what does the person who planted plum trees in front of their house like to do for fun?
+799:Huh? Huh!! {var:Shake}
+800:My head's itchy, could my brain be growing? This must be what they call a "head-scratcher."
+801:(whispers) Help Liisa Liisa, Mr. Wolf!
+802:I glance at the question. When Ume and Take aren't looking, I whisper the answer to Eliisa:
+804:Illustrating picture books
+806:Listening to crosstalk
+808:Drinking tea
+810:Calculating on the abacus
+811:They like illustrating picture books!
+812:Wrong.
+813:They like listening to crosstalk!
+814:Nope.
+815:They like drinking tea!
+816:Oh? Your reasoning skills are pretty impressive.
+817:They like calculating on the abacus!
+818:Look at the abacus in my hands and really think about it... Who likes using an abacus?
+819:I'll give you a hint.
+820:Chrysanthemums are planted at the entrance of the house farthest to the right, and its owner doesn't like drawing. The owner of the first house likes tea, and the owner of the third house likes using an abacus...
+821:So the owner of the house to the far right with the chrysanthemums likes crosstalk!
+822:Right, leaving one last hobby for the owner of the second house with the orchids...
+823:Oh, I know, I know! They like illustrating picture books!
+824:Correct, and that narrows it down. The owner of the first house likes drinking tea, and the owner of the third house likes calculating on the abacus but didn't plant plum trees.
+825:Which one has plum trees outside their house?
+826:Hehe, I got it.
+827:Yeah, Liisa Liisa too!
+828:As they speak, everyone's eyes shift over to me.
+829:Hey, don't look at me like that! I know the answer too! The one with the plum trees likes tea!
+830:Take, was it necessary for this question to be based that closely on reality?
+831:What do you mean?
+832:The four house owners refer to Ran, Kiku, Take, and me.
+833:What?! Then the person with the plum trees... is you, Ume? You like drinking tea?
+834:It's probably more accurate to say that everyone on Champion Street likes tea. And when it comes to clearing your head, nothing beats a strong cup of tea.
+835:I see, then by that logic, Kiku – rather, Jiu Hua – likes crosstalk?
+836:Which means that the one who likes illustrating picture books is Ran.
+837:And let's leave it at that!
+838:You only get this anxious when Ran's name is brought up.
+839:Who is this Ran anyway?
+840:Ran spent much of his early years at home due to illness. He often looked after Take and Jiu Hua when they were young.
+841:That sounds like a heartwarming story, no?
+842:You wouldn't be saying that if your childhood bedtime stories were all about the ghosts of people who died of hanging, starvation, and drowning...
+843:Better hope Ran doesn't find out you've been complaining about him behind his back, or you'll be begging Ms. Fuuka to save you again.
+844:Seemingly recalling some traumatic memory, Take's expression shifts as some of the color drains from his face.
+845:Ahem... Anyway, let's take a look at the test results.
+846:Miss Hannah, you're sharp when it comes to applied mathematics, but I'm afraid you're just not the right fit for our business's needs.
+847:Miss Eliisa, you have a gift for mathematics, but I'm afraid it will be a while yet before that gift is fully developed.
+848:And so, the person we will actually take on as a temp worker is... {var:player_nickname}.
+849:Huh... Wait, huh?! What do you mean? I thought I was an interviewer, not an interviewee!
+850:You can switch seamlessly between the roles of interviewer and interviewee. Believe in yourself, I know you can do it.
+851:No way, I'm not doing it! Besides... I don't even know what a temp worker does.
+852:What else? Just...
+853:Ahem, forgive the interruption, but I believe I have a good reason for you to accept the temp job, {var:player_nickname}. Before that, let's circle back to our initial topic.
+854:Our initial topic?
+855:Yes – Who is responsible for ransacking the accounting office?
+856:Take and I automatically step back in unison. We can see the guilt written on each other's faces.
+857:We've received a lot of complaints on the employee hotline lately, mostly about "the decline in the quality of staff meals with poultry." Apparently, the meat is being cut into chunks that are too small, then overcooked by the chef, resulting in dry, flavorless meals that have to be thrown away and re-made... However, there has been no change to Bamboo Cloud's kitchen staff.
+858:Ume pulls out a "food loss list" and waves it in front of our faces.
+859:Jiu Hua has already confessed. Do you two still intend to cover for her?
+860:Ume directs these words to me. Her expression is perfectly amiable, but her eyes are icy.
+861:That reminds me – {var:player_nickname}, you happened to be alone with Jiu Hua in the courtyard yesterday.
+862:You didn't have anything to do with this, did you?
+863:I see, she didn't want me to settle the accounts... she wanted to settle an account with me.
+864:Were you involved in the haphazard chopping of ingredients that made things difficult for the kitchen?
+865:I wasn't, honest. I was just helping Jiu Hua round up some runaway chickens, ducks, and pigeons, that’s all.
+866:Whew... It wasn't me that sold you out this time, Jiu Hua.
+867:What's that supposed to mean?
+868:Ume is bluffing. Jiu Hua is so stubborn that she'd die before confessing to anything, no matter how many times she's been caught before.
+869:It was only a guess, but I must thank you for confirming it. Now, if you could just sign and provide your thumbprint in the "witness" column here, that would be great.
+870:I'm sorry, Jiu Hua, I've been outfoxed...
+871:I close my eyes and firmly press my thumb to the paper.
+872:You may now begin your temp work.
+873:Ume regards my signature and thumbprint with satisfaction, then carefully folds up the paper and slips it into her pocket.
+874:How was any of that... related to the temp work?
+875:I've got a bad feeling about this.
+876:The temp work is... to clean up this place.
+877:Huh? Then why did the interview include math problems?
+878:Those are account books on the floor. How can they be tidied away without any math skills? Anyway, next is...
+879:Next, you and Take will give this room a serious cleaning. Think of it as making amends for your conniving attempt to cover for your "associate's" crimes. As for Jiu Hua, Ran will have a "nice chat" with her later.
+880:As for our two interviewees, please follow me out.
+881:After Ume has left with Eliisa and Hannah, I look at the complete and utter chaos of the accounting room. Everything goes dark before my eyes...
+882:Jiu Hua is the culprit. Shouldn't she be here helping us out?
+883:Forget it, Jiu Hua would be more of a hindrance than a help to us.
+884:I see... Well, unless we want to miss dinner, there's no time to lose. Let's do this!
+885:After several hours of taxing work, Take and I have finally managed to make the room presentable again.
+886:Whew... I'm beat. Looks like Jiu Hua owes me one again.
+887:{var:player_nickname}.
+888:What is it?
+889:I'm really glad I met you.
+890:Where's this coming from all of a sudden? You're making me blush...
+891:Because now I know I'm not the only one who will be cleaning up Jiu Hua's messes from now on.
+892:Huh. I was expecting to hear something more... pleasant.
+893:Speaking of Jiu Hua, you two seem like you're about the same age.
+894:Ume didn't tell you? Jiu Hua is my...
+895:What Take says next is whispered so softly that I can't make out a word of it.
+896:She's your what?
+897:She's my older sister...
+898:Hmph. That idiot Jiu Hua was born just 30 minutes before me. She's always saying she's my older sister, but she doesn't act like one, that's for sure.
+899:I see! No wonder you tried to cover for her in front of Ume.
+900:Anyway, you and I are now officially members of the "Jiu Hua Trouble Cleanup Alliance."
+901:You can't just make up a weird alliance out of nowhere and drag people into it!
+902:It's settled then. As thanks for your help today, dinner's on me.
+903:Take jumps up from the ground and extends a hand toward me with a smile.
+904:We'll put it on Jiu Hua's tab.

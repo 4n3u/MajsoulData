@@ -1,0 +1,2782 @@
+syntax = "proto3";
+
+package lq;
+
+enum GamePlayerState {
+  NULL = 0;
+  AUTH = 1;
+  SYNCING = 2;
+  READY = 3;
+}
+
+message Account {
+
+  message PlatformDiamond {
+    uint32 id = 1;
+    uint32 count = 2;
+  }
+
+  message PlatformSkinTicket {
+    uint32 id = 1;
+    uint32 count = 2;
+  }
+
+  message ChallengeLevel {
+    uint32 season = 1;
+    uint32 level = 2;
+    uint32 rank = 3;
+  }
+
+  message AchievementCount {
+    uint32 rare = 1;
+    uint32 count = 2;
+  }
+
+  message Badge {
+    uint32 id = 1;
+    uint32 achieved_time = 2;
+    uint32 achieved_counter = 3;
+  }
+
+  uint32 account_id = 1;
+  string nickname = 2;
+  uint32 login_time = 3;
+  uint32 logout_time = 4;
+  uint32 room_id = 5;
+  .lq.AntiAddiction anti_addiction = 6;
+  uint32 title = 7;
+  string signature = 8;
+  string email = 9;
+  uint32 email_verify = 10;
+  uint32 gold = 11;
+  uint32 diamond = 12;
+  uint32 avatar_id = 13;
+  uint32 vip = 14;
+  int32 birthday = 15;
+  string phone = 16;
+  uint32 phone_verify = 17;
+  repeated .lq.Account.PlatformDiamond platform_diamond = 18;
+  .lq.AccountLevel level = 21;
+  .lq.AccountLevel level3 = 22;
+  uint32 avatar_frame = 23;
+  uint32 skin_ticket = 24;
+  repeated .lq.Account.PlatformSkinTicket platform_skin_ticket = 25;
+  uint32 verified = 26;
+  repeated .lq.Account.ChallengeLevel challenge_levels = 27;
+  repeated .lq.Account.AchievementCount achievement_count = 28;
+  uint32 frozen_state = 29;
+  repeated uint32 loading_image = 30;
+  repeated .lq.FavoriteHu favorite_hu = 34;
+  repeated .lq.Account.Badge badges = 35;
+}
+
+message AccountAchievementSnapshot {
+
+  message RewardedGroupSnapshot {
+    uint32 rewarded_id = 1;
+  }
+
+  message AchievementVersion {
+    uint32 version = 1;
+  }
+
+  repeated .lq.AchievementProgress achievements = 1;
+  .lq.AccountAchievementSnapshot.RewardedGroupSnapshot rewarded_group = 2;
+  .lq.AccountAchievementSnapshot.AchievementVersion version = 3;
+}
+
+message AccountActiveState {
+  uint32 account_id = 1;
+  uint32 login_time = 2;
+  uint32 logout_time = 3;
+  bool is_online = 4;
+  .lq.AccountPlayingGame playing = 5;
+}
+
+message AccountActivityUpdate {
+
+  message ActivityBuffDataArrayDirty {
+    bool dirty = 1;
+    repeated .lq.ActivityBuffData value = 2;
+  }
+
+  repeated .lq.MineActivityData mine_data = 1;
+  repeated .lq.RPGActivity rpg_data = 2;
+  repeated .lq.ActivityFeedData feed_data = 3;
+  repeated .lq.ActivitySpotData spot_data = 4;
+  repeated .lq.ActivityFriendGiftData friend_gift_data = 5;
+  repeated .lq.ActivityUpgradeData upgrade_data = 6;
+  repeated .lq.ActivityGachaUpdateData gacha_data = 7;
+  repeated .lq.ActivitySimulationData simulation_data = 8;
+  repeated .lq.ActivityCombiningLQData combining_data = 9;
+  repeated .lq.ActivityVillageData village_data = 10;
+  repeated .lq.ActivityFestivalData festival_data = 11;
+  repeated .lq.ActivityIslandData island_data = 12;
+  repeated .lq.ActivityStoryData story_data = 14;
+  repeated .lq.ActivityChooseUpData choose_up_data = 15;
+  repeated .lq.SimulationV2Data simulation_v2_data = 16;
+  repeated .lq.ActivityQuestCrewChanges quest_crew_data = 17;
+  repeated .lq.ActivityShootData shoot_data = 18;
+  repeated .lq.ActivityBingoData bingo_data = 19;
+  repeated .lq.ActivitySnowballValueChanges snowball_data = 20;
+  repeated .lq.ActivityChooseGroupData choose_group_up_data = 21;
+  repeated .lq.ActivityMMODataChanges mmo_data = 22;
+  .lq.AccountActivityUpdate.ActivityBuffDataArrayDirty activity_buff = 23;
+}
+
+message AccountCacheView {
+  uint32 cache_version = 1;
+  uint32 account_id = 2;
+  string nickname = 3;
+  uint32 login_time = 4;
+  uint32 logout_time = 5;
+  bool is_online = 6;
+  uint32 room_id = 7;
+  uint32 title = 8;
+  uint32 avatar_id = 9;
+  uint32 vip = 10;
+  .lq.AccountLevel level = 11;
+  .lq.AccountPlayingGame playing_game = 12;
+  .lq.AccountLevel level3 = 13;
+  uint32 avatar_frame = 14;
+  uint32 verified = 15;
+  uint32 ban_deadline = 16;
+  uint32 comment_ban = 17;
+  uint32 ban_state = 18;
+}
+
+message AccountCharacterSnapshot {
+
+  message MainCharacterSnapshot {
+    uint32 character_id = 1;
+  }
+
+  message SkinsSnapshot {
+    repeated uint32 skin_list = 1;
+  }
+
+  message HiddenCharacter {
+    repeated uint32 hidden_list = 1;
+  }
+
+  repeated uint32 created_characters = 1;
+  repeated .lq.Character removed_characters = 2;
+  repeated .lq.Character modified_characters = 3;
+  .lq.AccountCharacterSnapshot.MainCharacterSnapshot main_character = 4;
+  .lq.AccountCharacterSnapshot.SkinsSnapshot skins = 5;
+  .lq.AccountCharacterSnapshot.HiddenCharacter hidden_characters = 6;
+}
+
+message AccountDetailStatistic {
+  repeated .lq.AccountStatisticByGameMode game_mode = 1;
+  repeated .lq.AccountStatisticByFan fan = 2;
+  uint32 liujumanguan = 3;
+  repeated .lq.AccountFanAchieved fan_achieved = 4;
+}
+
+message AccountDetailStatisticByCategory {
+  uint32 category = 1;
+  .lq.AccountDetailStatistic detail_statistic = 2;
+}
+
+message AccountDetailStatisticV2 {
+
+  message RankStatistic {
+
+    message RankData {
+
+      message RankLevelData {
+        uint32 rank_level = 1;
+        .lq.AccountDetailStatistic statistic = 2;
+      }
+
+      .lq.AccountDetailStatistic all_level_statistic = 1;
+      repeated .lq.AccountDetailStatisticV2.RankStatistic.RankData.RankLevelData level_data_list = 2;
+    }
+
+    .lq.AccountDetailStatisticV2.RankStatistic.RankData total_statistic = 1;
+    .lq.AccountDetailStatisticV2.RankStatistic.RankData month_statistic = 2;
+    uint32 month_refresh_time = 3;
+  }
+
+  message CustomizedContestStatistic {
+    .lq.AccountDetailStatistic total_statistic = 1;
+    .lq.AccountDetailStatistic month_statistic = 2;
+    uint32 month_refresh_time = 3;
+  }
+
+  message ChallengeStatistic {
+
+    message SeasonData {
+      uint32 season_id = 1;
+      .lq.AccountDetailStatistic statistic = 2;
+    }
+
+    .lq.AccountDetailStatistic all_season = 1;
+    repeated .lq.AccountDetailStatisticV2.ChallengeStatistic.SeasonData season_data_list = 2;
+  }
+
+  .lq.AccountDetailStatistic friend_room_statistic = 1;
+  .lq.AccountDetailStatisticV2.RankStatistic rank_statistic = 2;
+  .lq.AccountDetailStatisticV2.CustomizedContestStatistic customized_contest_statistic = 3;
+  .lq.AccountDetailStatistic leisure_match_statistic = 4;
+  .lq.AccountDetailStatisticV2.ChallengeStatistic challenge_match_statistic = 5;
+  .lq.AccountDetailStatistic activity_match_statistic = 6;
+  .lq.AccountDetailStatistic ab_match_statistic = 7;
+}
+
+message AccountFanAchieved {
+  uint32 mahjong_category = 1;
+  repeated .lq.AccountStatisticByFan fan = 2;
+  uint32 liujumanguan = 3;
+}
+
+message AccountGiftCodeRecord {
+  repeated string used_gift_code = 1;
+}
+
+message AccountLevel {
+  uint32 id = 1;
+  uint32 score = 2;
+}
+
+message AccountMahjongStatistic {
+
+  message RoundSummary {
+    uint32 total_count = 1;
+    uint32 rong_count = 2;
+    uint32 zimo_count = 3;
+    uint32 fangchong_count = 4;
+  }
+
+  message HuSummary {
+    uint32 total_count = 1;
+    uint32 dora_round_count = 2;
+    uint32 total_fan = 3;
+  }
+
+  message Liqi20Summary {
+    uint32 total_count = 1;
+    uint32 total_lidora_count = 2;
+    uint32 average_hu_point = 3;
+  }
+
+  message LiQi10Summary {
+    uint32 total_xuanshang = 1;
+    uint32 total_fanshu = 2;
+  }
+
+  message GameResult {
+    uint32 rank = 1;
+    int32 final_point = 2;
+  }
+
+  repeated uint32 final_position_counts = 1;
+  .lq.AccountMahjongStatistic.RoundSummary recent_round = 2;
+  .lq.AccountMahjongStatistic.HuSummary recent_hu = 3;
+  .lq.HighestHuRecord highest_hu = 4;
+  .lq.AccountMahjongStatistic.Liqi20Summary recent_20_hu_summary = 6;
+  .lq.AccountMahjongStatistic.LiQi10Summary recent_10_hu_summary = 7;
+  repeated .lq.AccountMahjongStatistic.GameResult recent_10_game_result = 8;
+}
+
+message AccountMailRecord {
+
+  message MailSnapshot {
+    uint32 mail_id = 1;
+    uint32 reference_id = 2;
+    uint32 create_time = 3;
+    uint32 expire_time = 4;
+    uint32 take_attachment = 5;
+    repeated .lq.RewardSlot attachments = 6;
+  }
+
+  repeated uint32 created_mails = 1;
+  repeated .lq.AccountMailRecord.MailSnapshot removed_mails = 2;
+  repeated .lq.AccountMailRecord.MailSnapshot modified_mails = 3;
+}
+
+message AccountMiscSnapshot {
+
+  message AccountVIPRewardSnapshot {
+    repeated uint32 rewarded = 1;
+  }
+
+  message MonthTicketInfo {
+    uint32 id = 1;
+    uint32 end_time = 2;
+    uint32 last_pay_time = 3;
+    uint32 record_start_time = 4;
+    repeated uint32 history = 5;
+  }
+
+  message AccountMonthTicketSnapshot {
+    repeated .lq.AccountMiscSnapshot.MonthTicketInfo tickets = 1;
+  }
+
+  message AccountVIP {
+    uint32 vip = 1;
+  }
+
+  message AccountRechargeInfo {
+
+    message RechargeRecord {
+      uint32 level = 1;
+      uint32 recharge_time = 2;
+    }
+
+    repeated .lq.AccountMiscSnapshot.AccountRechargeInfo.RechargeRecord records = 1;
+    uint32 has_data = 2;
+  }
+
+  message AccountMonthTicketSnapshotV2 {
+    uint32 end_time = 1;
+    uint32 last_pay_time = 2;
+    uint32 record_start_time = 3;
+    repeated uint32 history = 4;
+  }
+
+  .lq.FaithData faith_data = 1;
+  .lq.AccountMiscSnapshot.AccountVIPRewardSnapshot vip_reward_gained = 2;
+  .lq.AccountMiscSnapshot.AccountVIP vip = 3;
+  .lq.ShopInfo shop_info = 4;
+  .lq.AccountMiscSnapshot.AccountMonthTicketSnapshot month_ticket = 5;
+  .lq.AccountMiscSnapshot.AccountRechargeInfo recharged = 6;
+  .lq.AccountMiscSnapshot.AccountMonthTicketSnapshotV2 month_ticket_v2 = 7;
+}
+
+message AccountOwnerData {
+  repeated uint32 unlock_characters = 1;
+}
+
+message AccountPlayingGame {
+  string game_uuid = 1;
+  uint32 category = 2;
+  .lq.GameMetaData meta = 3;
+}
+
+message AccountResourceSnapshot {
+
+  message BagItemSnapshot {
+    uint32 resource_id = 1;
+    uint32 resource_count = 2;
+    uint32 resource_version = 3;
+  }
+
+  message CurrencySnapshot {
+    uint32 currency_id = 1;
+    uint32 currency_count = 2;
+  }
+
+  message TitleSnapshot {
+    repeated uint32 title_list = 1;
+  }
+
+  message UsedTitleSnapshot {
+    uint32 title_id = 1;
+  }
+
+  repeated .lq.AccountResourceSnapshot.BagItemSnapshot bag_item = 1;
+  repeated .lq.AccountResourceSnapshot.CurrencySnapshot currency = 2;
+  .lq.AccountResourceSnapshot.TitleSnapshot title = 3;
+  .lq.AccountResourceSnapshot.UsedTitleSnapshot used_title = 4;
+  uint32 currency_convert = 5;
+}
+
+message AccountSetting {
+  uint32 key = 1;
+  uint32 value = 2;
+}
+
+message AccountShiLian {
+  uint32 step = 1;
+  uint32 state = 2;
+}
+
+message AccountStatisticByFan {
+  uint32 fan_id = 1;
+  uint32 sum = 2;
+}
+
+message AccountStatisticByGameMode {
+
+  message RoundEndData {
+    uint32 type = 1;
+    uint32 sum = 2;
+  }
+
+  message RankScore {
+    uint32 rank = 1;
+    int32 score_sum = 2;
+    uint32 count = 3;
+  }
+
+  uint32 mode = 1;
+  uint32 game_count_sum = 2;
+  repeated uint32 game_final_position = 3;
+  uint32 fly_count = 4;
+  float gold_earn_sum = 5;
+  uint32 round_count_sum = 6;
+  float dadian_sum = 7;
+  repeated .lq.AccountStatisticByGameMode.RoundEndData round_end = 8;
+  uint32 ming_count_sum = 9;
+  uint32 liqi_count_sum = 10;
+  uint32 xun_count_sum = 11;
+  uint32 highest_lianzhuang = 12;
+  uint32 score_earn_sum = 13;
+  repeated .lq.AccountStatisticByGameMode.RankScore rank_score = 14;
+}
+
+message AccountStatisticData {
+  uint32 mahjong_category = 1;
+  uint32 game_category = 2;
+  .lq.AccountMahjongStatistic statistic = 3;
+  uint32 game_type = 4;
+}
+
+message AccountUpdate {
+
+  message NumericalUpdate {
+    uint32 id = 1;
+    uint32 final = 3;
+  }
+
+  message CharacterUpdate {
+    repeated .lq.Character characters = 2;
+    repeated uint32 skins = 3;
+    repeated uint32 finished_endings = 4;
+    repeated uint32 rewarded_endings = 5;
+  }
+
+  message AchievementUpdate {
+    repeated .lq.AchievementProgress progresses = 1;
+    repeated uint32 rewarded_group = 2;
+  }
+
+  message DailyTaskUpdate {
+    repeated .lq.TaskProgress progresses = 1;
+    repeated uint32 task_list = 2;
+  }
+
+  message TitleUpdate {
+    repeated uint32 new_titles = 1;
+    repeated uint32 remove_titles = 2;
+  }
+
+  message TaskUpdate {
+    repeated .lq.TaskProgress progresses = 1;
+    repeated uint32 task_list = 2;
+  }
+
+  message AccountChallengeUpdate {
+    repeated .lq.TaskProgress progresses = 1;
+    uint32 level = 2;
+    uint32 refresh_count = 3;
+    uint32 match_count = 4;
+    uint32 ticket_id = 5;
+    repeated uint32 task_list = 6;
+    repeated uint32 rewarded_season = 7;
+  }
+
+  message AccountABMatchUpdate {
+
+    message MatchPoint {
+      uint32 match_id = 1;
+      uint32 point = 2;
+    }
+
+    uint32 match_id = 1;
+    uint32 match_count = 2;
+    uint32 buy_in_count = 3;
+    uint32 point = 4;
+    bool rewarded = 5;
+    repeated .lq.AccountUpdate.AccountABMatchUpdate.MatchPoint match_max_point = 6;
+    bool quit = 7;
+  }
+
+  message SegmentTaskUpdate {
+    repeated .lq.SegmentTaskProgress progresses = 1;
+    repeated uint32 task_list = 2;
+  }
+
+  message MonthTicketUpdate {
+    uint32 end_time = 1;
+    uint32 last_pay_time = 2;
+  }
+
+  message MainCharacterUpdate {
+    uint32 character_id = 1;
+    uint32 skin_id = 2;
+  }
+
+  message BadgeUpdate {
+    repeated .lq.BadgeAchieveProgress progresses = 1;
+  }
+
+  repeated .lq.AccountUpdate.NumericalUpdate numerical = 1;
+  .lq.AccountUpdate.CharacterUpdate character = 2;
+  .lq.BagUpdate bag = 3;
+  .lq.AccountUpdate.AchievementUpdate achievement = 4;
+  .lq.AccountShiLian shilian = 5;
+  .lq.AccountUpdate.DailyTaskUpdate daily_task = 6;
+  .lq.AccountUpdate.TitleUpdate title = 7;
+  repeated uint32 new_recharged_list = 8;
+  .lq.AccountUpdate.TaskUpdate activity_task = 9;
+  .lq.AccountUpdate.TaskUpdate activity_flip_task = 10;
+  .lq.AccountUpdate.TaskUpdate activity_period_task = 11;
+  .lq.AccountUpdate.TaskUpdate activity_random_task = 12;
+  .lq.AccountUpdate.AccountChallengeUpdate challenge = 13;
+  .lq.AccountUpdate.AccountABMatchUpdate ab_match = 14;
+  .lq.AccountActivityUpdate activity = 15;
+  .lq.AccountUpdate.SegmentTaskUpdate activity_segment_task = 16;
+  .lq.AccountUpdate.MonthTicketUpdate month_ticket = 17;
+  .lq.AccountUpdate.MainCharacterUpdate main_character = 18;
+  .lq.AccountUpdate.BadgeUpdate badge = 19;
+}
+
+message AccSn {
+  .lq.AccountResourceSnapshot resource = 1;
+  .lq.AccountCharacterSnapshot character = 2;
+  .lq.AccountMailRecord mail = 3;
+  .lq.AccountAchievementSnapshot achievement = 4;
+  .lq.AccountMiscSnapshot misc = 5;
+  .lq.AccountGiftCodeRecord gift_code = 6;
+}
+
+message AccSnDa {
+  uint32 account_id = 1;
+  uint32 time = 2;
+  bytes snapshot = 3;
+}
+
+message AchievementProgress {
+  uint32 id = 1;
+  uint32 counter = 2;
+  bool achieved = 3;
+  bool rewarded = 4;
+  uint32 achieved_time = 5;
+}
+
+message Activity {
+  uint32 activity_id = 1;
+  uint32 start_time = 2;
+  uint32 end_time = 3;
+  string type = 4;
+}
+
+message ActivityAccumulatedPointData {
+  uint32 activity_id = 1;
+  int32 point = 2;
+  repeated uint32 gained_reward_list = 3;
+}
+
+message ActivityArenaData {
+  uint32 win_count = 1;
+  uint32 lose_count = 2;
+  uint32 activity_id = 3;
+  uint32 enter_time = 4;
+  uint32 daily_enter_count = 5;
+  uint32 daily_enter_time = 6;
+  uint32 max_win_count = 7;
+  uint32 total_win_count = 8;
+}
+
+message ActivityBingoCardData {
+
+  message BingoAchievedRecord {
+    uint32 pos = 1;
+    uint32 time = 2;
+  }
+
+  message BingoRewardRecord {
+    uint32 id = 1;
+    uint32 time = 2;
+  }
+
+  uint32 card_id = 1;
+  repeated uint32 achieved_pos = 2;
+  repeated uint32 rewarded_ids = 3;
+  uint32 state = 4;
+  repeated .lq.ActivityBingoCardData.BingoAchievedRecord achieved_records = 5;
+  repeated .lq.ActivityBingoCardData.BingoRewardRecord reward_records = 6;
+}
+
+message ActivityBingoData {
+  uint32 activity_id = 1;
+  repeated .lq.ActivityBingoCardData cards = 2;
+}
+
+message ActivityBuffData {
+  uint32 buff_id = 1;
+  uint32 level = 5;
+  uint32 count = 6;
+  uint32 update_time = 7;
+}
+
+message ActivityChooseGroupData {
+  uint32 activity_id = 1;
+  uint32 chest_id = 2;
+  uint32 selection_id = 3;
+}
+
+message ActivityChooseUpData {
+  uint32 activity_id = 1;
+  uint32 chest_id = 2;
+  uint32 selection = 3;
+  uint32 is_end = 4;
+}
+
+message ActivityCombiningData {
+
+  message BonusData {
+    uint32 count = 1;
+    uint32 update_time = 2;
+  }
+
+  uint32 activity_id = 1;
+  repeated .lq.ActivityCombiningWorkbench workbench = 2;
+  repeated .lq.ActivityCombiningOrderData orders = 3;
+  .lq.ActivityCombiningWorkbench recycle_bin = 4;
+  .lq.ActivityCombiningMenuData menu = 5;
+  uint32 current_order_id = 6;
+  .lq.ActivityCombiningData.BonusData bonus = 7;
+  repeated uint32 unlocked_craft = 8;
+  repeated .lq.ActivityCombiningPoolData craft_pool = 9;
+  repeated .lq.ActivityCombiningPoolData order_pool = 10;
+}
+
+message ActivityCombiningLQData {
+  uint32 activity_id = 1;
+  repeated .lq.ActivityCombiningWorkbench workbench = 2;
+  repeated .lq.ActivityCombiningOrderData orders = 3;
+  .lq.ActivityCombiningWorkbench recycle_bin = 4;
+  repeated uint32 unlocked_craft = 5;
+  uint32 daily_bonus_count = 6;
+}
+
+message ActivityCombiningMenuData {
+
+  message MenuRequire {
+    uint32 level = 1;
+    uint32 count = 2;
+  }
+
+  uint32 menu_group = 1;
+  repeated .lq.ActivityCombiningMenuData.MenuRequire generated = 2;
+  repeated .lq.ActivityCombiningMenuData.MenuRequire multi_generated = 3;
+}
+
+message ActivityCombiningOrderData {
+  uint32 id = 1;
+  uint32 pos = 2;
+  uint32 unlock_day = 4;
+  uint32 char_id = 5;
+  repeated uint32 finished_craft_id = 6;
+  repeated uint32 craft_id = 7;
+}
+
+message ActivityCombiningPoolData {
+  uint32 group = 1;
+  uint32 count = 2;
+}
+
+message ActivityCombiningWorkbench {
+  uint32 craft_id = 1;
+  uint32 pos = 2;
+}
+
+message ActivityFeedData {
+
+  message CountWithTimeData {
+    uint32 count = 1;
+    uint32 last_update_time = 2;
+  }
+
+  message GiftBoxData {
+    uint32 id = 1;
+    uint32 item_id = 2;
+    uint32 count = 3;
+    uint32 from_account_id = 4;
+    uint32 time = 5;
+    uint32 received = 6;
+  }
+
+  uint32 activity_id = 1;
+  uint32 feed_count = 2;
+  .lq.ActivityFeedData.CountWithTimeData friend_receive_data = 3;
+  .lq.ActivityFeedData.CountWithTimeData friend_send_data = 4;
+  repeated .lq.ActivityFeedData.GiftBoxData gift_inbox = 5;
+  uint32 max_inbox_id = 6;
+}
+
+message ActivityFestivalData {
+  uint32 activity_id = 1;
+  uint32 level = 2;
+  repeated .lq.FestivalProposalData proposal_list = 3;
+  repeated uint32 event_list = 4;
+  .lq.SignedTimeCounterData buy_record = 5;
+}
+
+message ActivityFriendGiftData {
+
+  message CountWithTimeData {
+    uint32 count = 1;
+    uint32 last_update_time = 2;
+    repeated uint32 send_friend_id = 3;
+  }
+
+  message GiftBoxData {
+    uint32 id = 1;
+    uint32 item_id = 2;
+    uint32 count = 3;
+    uint32 from_account_id = 4;
+    uint32 time = 5;
+    uint32 received = 6;
+  }
+
+  uint32 activity_id = 1;
+  uint32 max_inbox_id = 2;
+  .lq.ActivityFriendGiftData.CountWithTimeData receive_data = 3;
+  .lq.ActivityFriendGiftData.CountWithTimeData send_data = 4;
+  repeated .lq.ActivityFriendGiftData.GiftBoxData gift_inbox = 5;
+}
+
+message ActivityGachaData {
+  uint32 activity_id = 1;
+  repeated .lq.GachaRecord gained = 2;
+}
+
+message ActivityGachaUpdateData {
+  uint32 activity_id = 1;
+  repeated .lq.GachaRecord gained = 2;
+  uint32 remain_count = 3;
+}
+
+message ActivityIdTimeRecord {
+  uint32 id = 1;
+  uint32 time = 2;
+}
+
+message ActivityIslandData {
+  uint32 activity_id = 1;
+  uint32 zone = 2;
+  repeated .lq.IslandBagData bags = 3;
+  repeated .lq.IslandZoneData zones = 4;
+}
+
+message ActivityMarathonCheckData {
+  uint32 round = 1;
+  repeated uint32 item = 2;
+  string tile = 3;
+  uint32 tick = 4;
+  uint32 point = 5;
+  uint32 time_end = 6;
+}
+
+message ActivityMarathonData {
+
+  message MarathonRaceData {
+    string id = 1;
+    uint32 random_seed = 2;
+    uint32 start_time = 3;
+  }
+
+  message MarathonRaceHistory {
+    .lq.ActivityMarathonData.MarathonRaceData race_data = 1;
+    .lq.MarathonGameRecord record = 2;
+  }
+
+  uint32 activity_id = 1;
+  .lq.MarathonGameRecord highest_record = 2;
+  .lq.ActivityMarathonData.MarathonRaceData race_data = 3;
+  repeated .lq.ActivityMarathonData.MarathonRaceHistory history = 4;
+}
+
+message ActivityMMOData {
+
+  message ActivityMMOCharacterData {
+    uint32 character_id = 1;
+    repeated uint32 equipments = 2;
+  }
+
+  message ActivityMMOTeamData {
+    repeated .lq.ActivityMMOTeamMember members = 1;
+    repeated .lq.MMOActivityTeamCandidateData friend_list = 100;
+    uint32 friend_list_expire = 101;
+    repeated .lq.MMOActivityTeamCandidateData random_friends = 102;
+    uint32 daily_update_time = 103;
+    repeated .lq.MMOActivityTeamCandidateData npc_list = 104;
+  }
+
+  message ActivityMMOBagData {
+
+    message ActivityMMORandomRecord {
+      uint32 rarity = 1;
+      uint32 count = 2;
+    }
+
+    repeated .lq.ActivityMMOEquipmentData equipments = 1;
+    uint32 total_gain_count = 2;
+    uint32 total_fusion_count = 3;
+    repeated .lq.ActivityMMOData.ActivityMMOBagData.ActivityMMORandomRecord random_record = 100;
+  }
+
+  message ActivityMMOMapData {
+    uint32 level = 1;
+    uint32 random_seed = 2;
+    uint32 won = 3;
+    uint32 failed = 4;
+  }
+
+  message ActivityMMOSupportData {
+    uint32 last_receive_time = 1;
+    .lq.ActivityMMOSupportRecord most_supporter = 2;
+    uint32 receive_support_count = 3;
+    repeated .lq.ActivityMMOSupportRecord support_record = 100;
+  }
+
+  uint32 activity_id = 1;
+  .lq.ActivityMMOData.ActivityMMOCharacterData character = 2;
+  .lq.ActivityMMOData.ActivityMMOTeamData team = 3;
+  .lq.ActivityMMOData.ActivityMMOBagData bag = 4;
+  .lq.ActivityMMOData.ActivityMMOMapData map = 5;
+  .lq.ActivityMMOData.ActivityMMOSupportData support = 6;
+}
+
+message ActivityMMODataChanges {
+
+  message ActivityMMOCharacterDataChanges {
+    .lq.UInt32Dirty character_id = 1;
+    .lq.UInt32ArrayDirty equipments = 2;
+  }
+
+  message ActivityMMOTeamMemberArrayDirty {
+    bool dirty = 1;
+    repeated .lq.ActivityMMOTeamMember value = 2;
+  }
+
+  message ActivityMMOTeamDataChanges {
+    .lq.ActivityMMODataChanges.ActivityMMOTeamMemberArrayDirty members = 1;
+  }
+
+  message ActivityMMOEquipmentsArrayDirty {
+    bool dirty = 1;
+    repeated .lq.ActivityMMOEquipmentData value = 2;
+  }
+
+  message ActivityMMOBagDataChanges {
+    .lq.ActivityMMODataChanges.ActivityMMOEquipmentsArrayDirty equipments = 1;
+    .lq.UInt32Dirty total_gain_count = 2;
+    .lq.UInt32Dirty total_fusion_count = 3;
+  }
+
+  message ActivityMMOMapDataChanges {
+    .lq.UInt32Dirty level = 1;
+    .lq.UInt32Dirty random_seed = 2;
+    .lq.UInt32Dirty won = 3;
+    .lq.UInt32Dirty failed = 4;
+  }
+
+  message ActivityMMOSupportDataChanges {
+    .lq.UInt32Dirty last_receive_time = 1;
+    .lq.ActivityMMOSupportRecordDirty most_supporter = 2;
+    .lq.UInt32Dirty receive_support_count = 3;
+  }
+
+  uint32 activity_id = 1;
+  .lq.ActivityMMODataChanges.ActivityMMOCharacterDataChanges character = 2;
+  .lq.ActivityMMODataChanges.ActivityMMOTeamDataChanges team = 3;
+  .lq.ActivityMMODataChanges.ActivityMMOBagDataChanges bag = 4;
+  .lq.ActivityMMODataChanges.ActivityMMOMapDataChanges map = 5;
+  .lq.ActivityMMODataChanges.ActivityMMOSupportDataChanges support = 6;
+}
+
+message ActivityMMOEquipmentData {
+  uint32 id = 1;
+  uint32 stack = 2;
+}
+
+message ActivityMMOSupportRecord {
+  uint32 id = 1;
+  uint32 count = 2;
+  uint32 type = 3;
+  uint32 character_id = 4;
+  repeated uint32 equipments = 5;
+}
+
+message ActivityMMOSupportRecordDirty {
+  bool dirty = 1;
+  .lq.ActivityMMOSupportRecord value = 2;
+}
+
+message ActivityMMOTeamMember {
+  uint32 character_id = 1;
+  repeated uint32 equipments = 2;
+  uint32 id = 3;
+  uint32 type = 4;
+}
+
+message ActivityProgressRewardData {
+  uint32 activity_id = 1;
+  repeated uint32 rewarded_progresses = 2;
+}
+
+message ActivityQuestCrewChanges {
+
+  message QCMemberArrayDirty {
+    bool dirty = 1;
+    repeated .lq.QCMember value = 2;
+  }
+
+  message QCQuestArrayDirty {
+    bool dirty = 1;
+    repeated .lq.QCQuest value = 2;
+  }
+
+  uint32 activity_id = 1;
+  .lq.ActivityQuestCrewChanges.QCMemberArrayDirty members = 2;
+  .lq.ActivityQuestCrewChanges.QCQuestArrayDirty quest_board = 3;
+  .lq.UInt32ArrayDirty market_board = 4;
+}
+
+message ActivityQuestCrewData {
+  uint32 activity_id = 1;
+  repeated .lq.QCMember members = 2;
+  repeated .lq.QCQuest quest_board = 3;
+  repeated uint32 market_board = 4;
+}
+
+message ActivityQuestCrewEffectResult {
+
+  message QCQuestResultChange {
+    uint32 from = 1;
+    uint32 to = 2;
+  }
+
+  message QCQuestConsumeChange {
+    uint32 member_id = 1;
+    uint32 from = 2;
+    uint32 to = 3;
+  }
+
+  message QCItemReward {
+    repeated .lq.ExecuteReward execute_reward = 1;
+  }
+
+  .lq.ActivityQuestCrewEffectResult.QCQuestResultChange result_change = 1;
+  repeated .lq.ActivityQuestCrewEffectResult.QCQuestConsumeChange consumed_change = 2;
+  .lq.ActivityQuestCrewEffectResult.QCItemReward reward = 3;
+}
+
+message ActivityRankPointData {
+  uint32 leaderboard_id = 1;
+  int32 point = 2;
+  bool gained_reward = 3;
+  uint32 gainable_time = 4;
+}
+
+message ActivityShootData {
+  uint32 activity_id = 1;
+  uint32 level = 2;
+  repeated .lq.ActivityShootEnemyInfo enemies = 3;
+  repeated uint32 rewarded_ids = 4;
+  bool ended = 5;
+  repeated .lq.ActivityShootRewardRecord rewarded_records = 6;
+}
+
+message ActivityShootEnemyInfo {
+  uint32 group_id = 1;
+  uint32 enemy_id = 2;
+  uint32 hp = 3;
+}
+
+message ActivityShootEnemyInfoDirty {
+  uint32 dirty = 1;
+  repeated .lq.ActivityShootEnemyInfo enemies = 2;
+}
+
+message ActivityShootRewardRecord {
+  uint32 enemy_id = 1;
+  uint32 reward_id = 2;
+  uint32 rewarded_time = 3;
+}
+
+message ActivityShootValueChange {
+
+  message Uint32ValueDirty {
+    uint32 value = 1;
+    uint32 dirty = 2;
+  }
+
+  message RewardArrayDirty {
+    repeated uint32 reward_ids = 1;
+    uint32 dirty = 2;
+  }
+
+  .lq.ActivityShootValueChange.Uint32ValueDirty level = 1;
+  .lq.ActivityShootEnemyInfoDirty enemies = 2;
+  .lq.ActivityShootValueChange.RewardArrayDirty rewarded_ids = 3;
+}
+
+message ActivitySimulationDailyContest {
+  uint32 day = 1;
+  repeated uint32 characters = 2;
+  repeated .lq.ActivitySimulationGameRecord records = 3;
+  uint32 round = 4;
+}
+
+message ActivitySimulationData {
+  uint32 activity_id = 1;
+  repeated uint32 stats = 2;
+  uint32 stamina_update_time = 3;
+  repeated .lq.ActivitySimulationDailyContest daily_contest = 4;
+  repeated .lq.ActivitySimulationTrainRecord train_records = 5;
+}
+
+message ActivitySimulationGameRecord {
+  uint32 round = 1;
+  repeated uint32 seats = 2;
+  string uuid = 3;
+  uint32 start_time = 4;
+  repeated int32 scores = 5;
+  repeated .lq.ActivitySimulationGameRecordMessage messages = 6;
+}
+
+message ActivitySimulationGameRecordMessage {
+  uint32 type = 1;
+  repeated uint32 args = 2;
+  uint32 xun = 3;
+}
+
+message ActivitySimulationTrainRecord {
+  uint32 time = 1;
+  repeated int32 modify_stats = 2;
+  repeated uint32 final_stats = 3;
+  uint32 type = 4;
+}
+
+message ActivitySnowballData {
+  uint32 activity_id = 1;
+  uint32 level = 2;
+  repeated .lq.ActivitySnowballUpgrade upgrade = 3;
+  repeated uint32 rewarded_level = 4;
+  repeated uint32 finished_level = 5;
+  uint32 random_seed = 6;
+  string battle_id = 7;
+  uint32 level_finished_count = 8;
+  uint32 player_combo = 9;
+  repeated .lq.ActivityIdTimeRecord reward_records = 10;
+  repeated .lq.ActivityIdTimeRecord finish_records = 11;
+}
+
+message ActivitySnowballPlayerAction {
+  uint32 tick = 1;
+  uint32 track = 2;
+}
+
+message ActivitySnowballPlayerAttackedInfo {
+  uint32 target = 1;
+  uint32 track = 2;
+  uint32 damage = 3;
+  uint32 critia = 4;
+}
+
+message ActivitySnowballPlayerState {
+  uint32 player = 1;
+  uint32 hp = 2;
+  uint32 mp = 3;
+}
+
+message ActivitySnowballUpgrade {
+  uint32 id = 1;
+}
+
+message ActivitySnowballUpgradeDirty {
+  repeated .lq.ActivitySnowballUpgrade value = 1;
+  bool dirty = 2;
+}
+
+message ActivitySnowballValueChanges {
+  .lq.UInt32Dirty level = 1;
+  .lq.ActivitySnowballUpgradeDirty upgrade = 2;
+  .lq.UInt32ArrayDirty rewarded_level = 3;
+  .lq.UInt32ArrayDirty finished_level = 4;
+  .lq.UInt32Dirty level_finished_count = 5;
+  .lq.UInt32Dirty player_combo = 6;
+}
+
+message ActivitySpotData {
+
+  message SpotData {
+    uint32 unique_id = 1;
+    uint32 rewarded = 2;
+    repeated uint32 unlocked_ending = 3;
+    uint32 unlocked = 4;
+  }
+
+  uint32 activity_id = 1;
+  repeated .lq.ActivitySpotData.SpotData spots = 3;
+}
+
+message ActivityStoryData {
+  uint32 activity_id = 1;
+  repeated .lq.UnlockedStoryData unlocked_story = 2;
+}
+
+message ActivityUpgradeData {
+
+  message LevelGroup {
+    uint32 group_id = 1;
+    uint32 level = 2;
+  }
+
+  uint32 activity_id = 1;
+  repeated .lq.ActivityUpgradeData.LevelGroup groups = 2;
+  uint32 received_level = 3;
+}
+
+message ActivityVillageData {
+  uint32 activity_id = 1;
+  repeated .lq.VillageBuildingData buildings = 2;
+  repeated .lq.VillageTripData trip = 3;
+  repeated .lq.VillageTaskData tasks = 6;
+  uint32 round = 7;
+}
+
+message Announcement {
+  uint32 id = 1;
+  string title = 2;
+  string content = 3;
+  string header_image = 4;
+}
+
+message AntiAddiction {
+  uint32 online_duration = 1;
+}
+
+message BadgeAchieveProgress {
+  uint32 id = 1;
+  uint32 counter = 2;
+  uint32 achieved_counter = 3;
+  uint32 achieved_time = 4;
+}
+
+message Bag {
+  repeated .lq.Item items = 1;
+  repeated .lq.ItemGainRecords daily_gain_record = 2;
+}
+
+message BagUpdate {
+  repeated .lq.Item update_items = 1;
+  repeated .lq.ItemGainRecords update_daily_gain_record = 2;
+}
+
+message BannerActivityData {
+  uint32 activity_id = 1;
+  string tag_img_url = 2;
+  string banner_background_url = 3;
+  string banner_button_url = 4;
+  string tag_name = 5;
+  uint32 start_time = 6;
+  uint32 end_time = 7;
+  string url = 8;
+  uint32 type = 9;
+  uint32 sort = 10;
+  uint32 need_popout = 11;
+}
+
+message BillingGoods {
+  string id = 1;
+  string name = 2;
+  string desc = 3;
+  string icon = 4;
+  uint32 resource_id = 5;
+  uint32 resource_count = 6;
+}
+
+message BillingProduct {
+  .lq.BillingGoods goods = 1;
+  string currency_code = 2;
+  uint32 currency_price = 3;
+  uint32 sort_weight = 4;
+}
+
+message BillShortcut {
+  uint32 id = 1;
+  uint32 count = 2;
+  uint32 dealPrice = 3;
+}
+
+message BuyRecord {
+  uint32 id = 1;
+  uint32 count = 2;
+}
+
+message ChangeNicknameRecord {
+  string from = 1;
+  string to = 2;
+  uint32 time = 3;
+}
+
+message Character {
+  uint32 charid = 1;
+  uint32 level = 2;
+  uint32 exp = 3;
+  repeated .lq.ViewSlot views = 4;
+  uint32 skin = 5;
+  bool is_upgraded = 6;
+  repeated uint32 extra_emoji = 7;
+  repeated uint32 rewarded_level = 8;
+}
+
+message ChestData {
+  uint32 chest_id = 1;
+  uint32 total_open_count = 2;
+  uint32 consume_count = 3;
+  uint32 face_black_count = 4;
+}
+
+message ChestDataV2 {
+  uint32 chest_id = 1;
+  uint32 total_open_count = 2;
+  uint32 face_black_count = 3;
+  uint32 ticket_face_black_count = 4;
+}
+
+message ClientDeviceInfo {
+  string platform = 1;
+  string hardware = 2;
+  string os = 3;
+  string os_version = 4;
+  bool is_browser = 5;
+  string software = 6;
+  string sale_platform = 7;
+  string hardware_vendor = 8;
+  string model_number = 9;
+  uint32 screen_width = 10;
+  uint32 screen_height = 11;
+  string user_agent = 12;
+  uint32 screen_type = 13;
+}
+
+message ClientDeviceInfoLog {
+  .lq.ClientDeviceInfo device_info = 1;
+  uint32 login_time = 2;
+  uint32 account_id = 3;
+}
+
+message ClientVersionInfo {
+  string resource = 1;
+  string package = 2;
+}
+
+message CommentItem {
+  uint32 comment_id = 1;
+  uint32 timestamp = 2;
+  .lq.PlayerBaseView commenter = 3;
+  string content = 4;
+  uint32 is_banned = 5;
+}
+
+message ContestDetailRule {
+  uint32 init_point = 5;
+  uint32 fandian = 6;
+  bool can_jifei = 7;
+  uint32 tianbian_value = 8;
+  uint32 liqibang_value = 9;
+  uint32 changbang_value = 10;
+  uint32 noting_fafu_1 = 11;
+  uint32 noting_fafu_2 = 12;
+  uint32 noting_fafu_3 = 13;
+  bool have_liujumanguan = 14;
+  bool have_qieshangmanguan = 15;
+  bool have_biao_dora = 16;
+  bool have_gang_biao_dora = 17;
+  bool ming_dora_immediately_open = 18;
+  bool have_li_dora = 19;
+  bool have_gang_li_dora = 20;
+  bool have_sifenglianda = 21;
+  bool have_sigangsanle = 22;
+  bool have_sijializhi = 23;
+  bool have_jiuzhongjiupai = 24;
+  bool have_sanjiahele = 25;
+  bool have_toutiao = 26;
+  bool have_helelianzhuang = 27;
+  bool have_helezhongju = 28;
+  bool have_tingpailianzhuang = 29;
+  bool have_tingpaizhongju = 30;
+  bool have_yifa = 31;
+  bool have_nanruxiru = 32;
+  uint32 jingsuanyuandian = 33;
+  int32 shunweima_2 = 34;
+  int32 shunweima_3 = 35;
+  int32 shunweima_4 = 36;
+  bool bianjietishi = 37;
+  uint32 ai_level = 38;
+  bool have_zimosun = 39;
+  bool disable_multi_yukaman = 40;
+  uint32 guyi_mode = 41;
+  bool disable_leijiyiman = 42;
+  uint32 dora3_mode = 43;
+  uint32 xuezhandaodi = 44;
+  uint32 huansanzhang = 45;
+  uint32 chuanma = 46;
+  uint32 disable_double_yakuman = 62;
+  uint32 disable_composite_yakuman = 63;
+  uint32 enable_shiti = 64;
+  uint32 enable_nontsumo_liqi = 65;
+  uint32 disable_double_wind_four_fu = 66;
+  uint32 disable_angang_guoshi = 67;
+  uint32 enable_renhe = 68;
+  uint32 enable_baopai_extend_settings = 69;
+  uint32 fanfu = 70;
+}
+
+message ContestDetailRuleV2 {
+
+  message ExtraRule {
+    uint32 required_level = 1;
+    uint32 max_game_count = 2;
+  }
+
+  .lq.ContestDetailRule game_rule = 1;
+  .lq.ContestDetailRuleV2.ExtraRule extra_rule = 2;
+}
+
+message ContestGameMetaData {
+
+  message ContestTypeZoneData {
+    uint32 zone = 1;
+    uint32 contest_type = 2;
+  }
+
+  repeated .lq.ContestGameMetaData.ContestTypeZoneData type_list = 1;
+  uint32 rank_type = 2;
+}
+
+message CustomizedContestAbstract {
+  uint32 unique_id = 1;
+  uint32 contest_id = 2;
+  string contest_name = 3;
+  uint32 state = 4;
+  uint32 creator_id = 5;
+  uint32 create_time = 6;
+  uint32 start_time = 7;
+  uint32 finish_time = 8;
+  bool open = 9;
+  string public_notice = 10;
+  uint32 contest_type = 11;
+}
+
+message CustomizedContestBase {
+  uint32 unique_id = 1;
+  uint32 contest_id = 2;
+  string contest_name = 3;
+  uint32 state = 4;
+  uint32 creator_id = 5;
+  uint32 create_time = 6;
+  uint32 start_time = 7;
+  uint32 finish_time = 8;
+  bool open = 9;
+  uint32 contest_type = 10;
+  string public_notice = 11;
+  uint32 check_state = 12;
+  string checking_name = 13;
+  uint32 rank_type = 14;
+  bool show_team_rank = 15;
+}
+
+message CustomizedContestDetail {
+  uint32 unique_id = 1;
+  uint32 contest_id = 2;
+  string contest_name = 3;
+  uint32 state = 4;
+  uint32 create_time = 6;
+  uint32 start_time = 7;
+  uint32 finish_time = 8;
+  bool open = 9;
+  uint32 rank_rule = 10;
+  .lq.GameMode game_mode = 11;
+  string private_notice = 12;
+  uint32 observer_switch = 13;
+  uint32 emoji_switch = 14;
+  uint32 contest_type = 15;
+  uint32 disable_broadcast = 16;
+  uint32 signup_start_time = 17;
+  uint32 signup_end_time = 18;
+  uint32 signup_type = 19;
+  uint32 auto_match = 20;
+  uint32 rank_type = 21;
+  bool show_team_rank = 22;
+  uint32 tied_rank = 23;
+  uint32 match_start_time = 24;
+  uint32 match_end_time = 25;
+  uint32 open_rank_percent = 26;
+}
+
+message CustomizedContestExtend {
+  uint32 unique_id = 1;
+  string public_notice = 2;
+}
+
+message CustomizedContestGameEnd {
+
+  message Item {
+    uint32 account_id = 1;
+    string nickname = 2;
+    int32 total_point = 3;
+  }
+
+  repeated .lq.CustomizedContestGameEnd.Item players = 1;
+}
+
+message CustomizedContestGamePlan {
+  uint32 unique_id = 1;
+  string uuid = 2;
+  repeated uint32 ready_players = 3;
+  repeated uint32 account_ids = 4;
+  uint32 game_start_time = 5;
+  uint32 expired_time = 6;
+}
+
+message CustomizedContestGameStart {
+
+  message Item {
+    uint32 account_id = 1;
+    string nickname = 2;
+  }
+
+  repeated .lq.CustomizedContestGameStart.Item players = 1;
+}
+
+message CustomizedContestPlayerReport {
+  uint32 rank_rule = 1;
+  uint32 rank = 2;
+  int32 point = 3;
+  repeated uint32 game_ranks = 4;
+  uint32 total_game_count = 5;
+  uint32 rank_percent = 6;
+}
+
+message Error {
+  uint32 code = 1;
+  repeated uint32 u32_params = 2;
+  repeated string str_params = 3;
+  string json_param = 4;
+  uint32 level = 5;
+  string message = 6;
+}
+
+message ExchangeRecord {
+  uint32 exchange_id = 1;
+  uint32 count = 2;
+}
+
+message ExecuteResult {
+  uint32 id = 1;
+  int32 count = 2;
+}
+
+message ExecuteReward {
+  .lq.RewardSlot reward = 1;
+  .lq.RewardSlot replace = 2;
+  uint32 replace_count = 3;
+}
+
+message FaithData {
+  uint32 faith_id = 1;
+  uint32 total_open_count = 2;
+  uint32 consume_count = 3;
+  int32 modify_count = 4;
+}
+
+message FakeRandomRecords {
+  uint32 item_id = 1;
+  uint32 special_item_id = 2;
+  uint32 gain_count = 3;
+  repeated uint32 gain_history = 4;
+}
+
+message FavoriteHu {
+  uint32 category = 1;
+  uint32 type = 2;
+  .lq.HighestHuRecord hu = 3;
+  uint32 mode = 4;
+}
+
+message FeedActivityData {
+
+  message CountWithTimeData {
+    uint32 count = 1;
+    uint32 last_update_time = 2;
+  }
+
+  message GiftBoxData {
+    uint32 id = 1;
+    uint32 item_id = 2;
+    uint32 count = 3;
+    uint32 from_account_id = 4;
+    uint32 time = 5;
+    uint32 received = 6;
+  }
+
+  uint32 activity_id = 1;
+  uint32 feed_count = 2;
+  .lq.FeedActivityData.CountWithTimeData friend_receive_data = 3;
+  .lq.FeedActivityData.CountWithTimeData friend_send_data = 4;
+  repeated .lq.FeedActivityData.GiftBoxData gift_inbox = 5;
+}
+
+message FestivalProposalData {
+  uint32 id = 1;
+  uint32 proposal_id = 2;
+  uint32 pos = 3;
+}
+
+message Friend {
+  .lq.PlayerBaseView base = 1;
+  .lq.AccountActiveState state = 2;
+  string remark = 3;
+}
+
+message GachaRecord {
+  uint32 id = 1;
+  uint32 count = 2;
+}
+
+message GameConfig {
+  uint32 category = 1;
+  .lq.GameMode mode = 2;
+  .lq.GameMetaData meta = 3;
+}
+
+message GameConnectInfo {
+  string connect_token = 2;
+  string game_uuid = 3;
+  string location = 4;
+}
+
+message GameDetailRule {
+  uint32 time_fixed = 1;
+  uint32 time_add = 2;
+  uint32 dora_count = 3;
+  uint32 shiduan = 4;
+  uint32 init_point = 5;
+  uint32 fandian = 6;
+  bool can_jifei = 7;
+  uint32 tianbian_value = 8;
+  uint32 liqibang_value = 9;
+  uint32 changbang_value = 10;
+  uint32 noting_fafu_1 = 11;
+  uint32 noting_fafu_2 = 12;
+  uint32 noting_fafu_3 = 13;
+  bool have_liujumanguan = 14;
+  bool have_qieshangmanguan = 15;
+  bool have_biao_dora = 16;
+  bool have_gang_biao_dora = 17;
+  bool ming_dora_immediately_open = 18;
+  bool have_li_dora = 19;
+  bool have_gang_li_dora = 20;
+  bool have_sifenglianda = 21;
+  bool have_sigangsanle = 22;
+  bool have_sijializhi = 23;
+  bool have_jiuzhongjiupai = 24;
+  bool have_sanjiahele = 25;
+  bool have_toutiao = 26;
+  bool have_helelianzhuang = 27;
+  bool have_helezhongju = 28;
+  bool have_tingpailianzhuang = 29;
+  bool have_tingpaizhongju = 30;
+  bool have_yifa = 31;
+  bool have_nanruxiru = 32;
+  uint32 jingsuanyuandian = 33;
+  int32 shunweima_2 = 34;
+  int32 shunweima_3 = 35;
+  int32 shunweima_4 = 36;
+  bool bianjietishi = 37;
+  uint32 ai_level = 38;
+  bool have_zimosun = 39;
+  bool disable_multi_yukaman = 40;
+  uint32 fanfu = 41;
+  uint32 guyi_mode = 42;
+  uint32 dora3_mode = 43;
+  uint32 begin_open_mode = 44;
+  uint32 jiuchao_mode = 45;
+  uint32 muyu_mode = 46;
+  uint32 open_hand = 47;
+  uint32 xuezhandaodi = 48;
+  uint32 huansanzhang = 49;
+  uint32 chuanma = 50;
+  uint32 reveal_discard = 51;
+  uint32 field_spell_mode = 52;
+  uint32 zhanxing = 53;
+  uint32 tianming_mode = 54;
+  bool disable_leijiyiman = 60;
+  uint32 disable_double_yakuman = 62;
+  uint32 disable_composite_yakuman = 63;
+  uint32 enable_shiti = 64;
+  uint32 enable_nontsumo_liqi = 65;
+  uint32 disable_double_wind_four_fu = 66;
+  uint32 disable_angang_guoshi = 67;
+  uint32 enable_renhe = 68;
+  uint32 enable_baopai_extend_settings = 69;
+  uint32 yongchang_mode = 70;
+  uint32 hunzhiyiji_mode = 71;
+  uint32 wanxiangxiuluo_mode = 72;
+  uint32 beishuizhizhan_mode = 73;
+  repeated uint32 amusement_switches = 74;
+}
+
+message GameEndAction {
+  uint32 state = 1;
+}
+
+message GameEndResult {
+
+  message PlayerItem {
+    uint32 seat = 1;
+    int32 total_point = 2;
+    int32 part_point_1 = 3;
+    int32 part_point_2 = 4;
+    int32 grading_score = 5;
+    int32 gold = 6;
+  }
+
+  repeated .lq.GameEndResult.PlayerItem players = 1;
+}
+
+message GameFinalSnapshot {
+
+  message CalculateParam {
+    uint32 init_point = 1;
+    uint32 jingsuanyuandian = 2;
+    repeated int32 rank_points = 3;
+  }
+
+  message GameSeat {
+    uint32 type = 1;
+    uint32 account_id = 2;
+    .lq.NetworkEndpoint notify_endpoint = 3;
+    string client_address = 4;
+    bool is_connected = 5;
+  }
+
+  message FinalPlayer {
+    uint32 seat = 1;
+    int32 total_point = 2;
+    int32 part_point_1 = 3;
+    int32 part_point_2 = 4;
+    int32 grading_score = 5;
+    int32 gold = 6;
+  }
+
+  message AFKInfo {
+    uint32 deal_tile_count = 1;
+    uint32 moqie_count = 2;
+    uint32 seat = 3;
+  }
+
+  string uuid = 1;
+  uint32 state = 2;
+  uint32 category = 3;
+  .lq.GameMode mode = 4;
+  .lq.GameMetaData meta = 5;
+  .lq.GameFinalSnapshot.CalculateParam calculate_param = 6;
+  uint32 create_time = 7;
+  uint32 start_time = 8;
+  uint32 finish_time = 9;
+  repeated .lq.GameFinalSnapshot.GameSeat seats = 10;
+  repeated .lq.GameRoundSnapshot rounds = 11;
+  repeated .lq.PlayerGameView account_views = 12;
+  repeated .lq.GameFinalSnapshot.FinalPlayer final_players = 13;
+  repeated .lq.GameFinalSnapshot.AFKInfo afk_info = 14;
+  repeated .lq.PlayerGameView robot_views = 15;
+}
+
+message GameLiveHead {
+  string uuid = 1;
+  uint32 start_time = 2;
+  .lq.GameConfig game_config = 3;
+  repeated .lq.PlayerGameView players = 4;
+  repeated uint32 seat_list = 5;
+}
+
+message GameLiveSegment {
+  repeated .lq.GameLiveUnit actions = 1;
+}
+
+message GameLiveSegmentUri {
+  uint32 segment_id = 1;
+  string segment_uri = 2;
+}
+
+message GameLiveUnit {
+  uint32 timestamp = 1;
+  uint32 action_category = 2;
+  bytes action_data = 3;
+}
+
+message GameMetaData {
+  uint32 room_id = 1;
+  uint32 mode_id = 2;
+  uint32 contest_uid = 3;
+  .lq.ContestGameMetaData contest_info = 4;
+}
+
+message GameMode {
+  uint32 mode = 1;
+  bool ai = 4;
+  string extendinfo = 5;
+  .lq.GameDetailRule detail_rule = 6;
+  .lq.GameTestingEnvironmentSet testing_environment = 7;
+  .lq.GameSetting game_setting = 8;
+}
+
+message GameNewRoundState {
+  repeated uint32 seat_states = 1;
+}
+
+message GameNoopAction {
+}
+
+message GameRoundHuData {
+
+  message HuPai {
+    string tile = 1;
+    uint32 seat = 2;
+    uint32 liqi = 3;
+  }
+
+  message Fan {
+    uint32 id = 1;
+    uint32 count = 2;
+    uint32 fan = 3;
+  }
+
+  .lq.GameRoundHuData.HuPai hupai = 1;
+  repeated .lq.GameRoundHuData.Fan fans = 2;
+  uint32 score = 3;
+  uint32 xun = 4;
+  uint32 title_id = 5;
+  uint32 fan_sum = 6;
+  uint32 fu_sum = 7;
+  uint32 yakuman_count = 8;
+  uint32 biao_dora_count = 9;
+  uint32 red_dora_count = 10;
+  uint32 li_dora_count = 11;
+  uint32 babei_count = 12;
+  uint32 xuan_shang_count = 13;
+  uint32 pai_left_count = 14;
+}
+
+message GameRoundPlayer {
+  int32 score = 1;
+  uint32 rank = 2;
+  .lq.GameRoundPlayerResult result = 3;
+}
+
+message GameRoundPlayerFangChongInfo {
+  uint32 seat = 1;
+  string tile = 2;
+  uint32 pai_left_count = 3;
+}
+
+message GameRoundPlayerResult {
+  uint32 type = 1;
+  repeated string hands = 2;
+  repeated string ming = 3;
+  uint32 liqi_type = 4;
+  bool is_fulu = 5;
+  bool is_liujumanguan = 6;
+  uint32 lian_zhuang = 7;
+  .lq.GameRoundHuData hu = 8;
+  repeated .lq.GameRoundPlayerFangChongInfo fangchongs = 9;
+  bool liqi_fangchong = 10;
+  bool liqi_failed = 11;
+}
+
+message GameRoundSnapshot {
+  uint32 ju = 1;
+  uint32 ben = 2;
+  repeated .lq.GameRoundPlayer players = 3;
+}
+
+message GameRuleSetting {
+  uint32 round_type = 1;
+  bool shiduan = 2;
+  uint32 dora_count = 3;
+  uint32 thinking_type = 4;
+  bool use_detail_rule = 5;
+  .lq.ContestDetailRuleV2 detail_rule_v2 = 6;
+}
+
+message GameSetting {
+  uint32 emoji_switch = 1;
+}
+
+message GameTestingEnvironmentSet {
+  uint32 paixing = 1;
+  uint32 left_count = 2;
+  uint32 field_spell_var = 3;
+}
+
+message HighestHuRecord {
+  uint32 fanshu = 1;
+  uint32 doranum = 2;
+  string title = 3;
+  repeated string hands = 4;
+  repeated string ming = 5;
+  string hupai = 6;
+  uint32 title_id = 7;
+}
+
+message I18nContext {
+  string lang = 1;
+  string context = 2;
+}
+
+message IslandBagData {
+  uint32 id = 1;
+  string matrix = 2;
+  repeated .lq.IslandBagItemData items = 3;
+}
+
+message IslandBagItemData {
+  uint32 id = 1;
+  repeated uint32 pos = 2;
+  uint32 rotate = 3;
+  uint32 goods_id = 4;
+  uint32 price = 5;
+}
+
+message IslandGoodsData {
+  uint32 goods_id = 1;
+  int32 count = 2;
+  uint32 update_time = 3;
+}
+
+message IslandZoneData {
+  uint32 id = 1;
+  .lq.SignedTimeCounterData currency_used = 2;
+  repeated .lq.IslandGoodsData goods_records = 3;
+}
+
+message Item {
+  uint32 item_id = 1;
+  uint32 stack = 2;
+}
+
+message ItemGainRecord {
+  uint32 item_id = 1;
+  uint32 count = 2;
+}
+
+message ItemGainRecords {
+  uint32 record_time = 1;
+  uint32 limit_source_id = 2;
+  repeated .lq.ItemGainRecord records = 3;
+}
+
+message Mail {
+  uint32 mail_id = 1;
+  uint32 state = 2;
+  bool take_attachment = 3;
+  string title = 4;
+  string content = 5;
+  repeated .lq.RewardSlot attachments = 6;
+  uint32 create_time = 7;
+  uint32 expire_time = 8;
+  uint32 reference_id = 9;
+  repeated .lq.I18nContext title_i18n = 10;
+  repeated .lq.I18nContext content_i18n = 11;
+  uint32 template_id = 12;
+}
+
+message MaintainNotice {
+  uint32 maintain_time = 1;
+}
+
+message MarathonGameRecord {
+  uint32 point = 1;
+  uint32 distance = 2;
+  uint32 used_tick = 3;
+}
+
+message MineActivityData {
+  repeated .lq.Point dig_point = 1;
+  repeated .lq.MineReward map = 2;
+  uint32 id = 3;
+}
+
+message MineReward {
+  .lq.Point point = 1;
+  uint32 reward_id = 2;
+  bool received = 3;
+}
+
+message MMOActivityTeamCandidateData {
+  uint32 character_id = 1;
+  repeated uint32 equipments = 2;
+  uint32 id = 3;
+}
+
+message MonthTicketInfo {
+  uint32 id = 1;
+  uint32 end_time = 2;
+  uint32 last_pay_time = 3;
+}
+
+message NetworkEndpoint {
+  string family = 1;
+  string address = 2;
+  uint32 port = 3;
+}
+
+message NicknameSetting {
+  uint32 enable = 1;
+  repeated string nicknames = 2;
+}
+
+message OpenResult {
+  .lq.RewardSlot reward = 1;
+  .lq.RewardSlot replace = 2;
+}
+
+message PaymentSetting {
+
+  message WechatData {
+    bool disable_create = 1;
+    uint32 payment_source_platform = 2;
+    bool enable_credit = 3;
+  }
+
+  message AlipayData {
+    bool disable_create = 1;
+    uint32 payment_source_platform = 2;
+  }
+
+  uint32 open_payment = 1;
+  uint32 payment_info_show_type = 2;
+  string payment_info = 3;
+  .lq.PaymentSetting.WechatData wechat = 4;
+  .lq.PaymentSetting.AlipayData alipay = 5;
+}
+
+message PaymentSettingV2 {
+
+  message PaymentMaintain {
+    uint32 start_time = 1;
+    uint32 end_time = 2;
+    uint32 goods_click_action = 3;
+    string goods_click_text = 4;
+    repeated string enabled_channel = 5;
+  }
+
+  message PaymentSettingUnit {
+    string platform = 1;
+    bool is_show = 2;
+    uint32 goods_click_action = 3;
+    string goods_click_text = 4;
+    .lq.PaymentSettingV2.PaymentMaintain maintain = 5;
+    bool enable_for_frozen_account = 6;
+    string extra_data = 7;
+    repeated string enabled_channel = 8;
+  }
+
+  uint32 open_payment = 1;
+  repeated .lq.PaymentSettingV2.PaymentSettingUnit payment_platforms = 2;
+}
+
+message PlayerBaseView {
+  uint32 account_id = 1;
+  uint32 avatar_id = 2;
+  uint32 title = 3;
+  string nickname = 4;
+  .lq.AccountLevel level = 5;
+  .lq.AccountLevel level3 = 6;
+  uint32 avatar_frame = 7;
+  uint32 verified = 8;
+  uint32 is_banned = 9;
+}
+
+message PlayerGameView {
+  uint32 account_id = 1;
+  uint32 avatar_id = 2;
+  uint32 title = 3;
+  string nickname = 4;
+  .lq.AccountLevel level = 5;
+  .lq.Character character = 6;
+  .lq.AccountLevel level3 = 7;
+  uint32 avatar_frame = 8;
+  uint32 verified = 9;
+  repeated .lq.ViewSlot views = 10;
+  uint32 team_id = 11;
+  string team_name = 12;
+}
+
+message Point {
+  uint32 x = 1;
+  uint32 y = 2;
+}
+
+message QCMember {
+  uint32 member_id = 1;
+  .lq.TimeCounterData consumed_sta = 2;
+}
+
+message QCQuest {
+  uint32 quest_id = 1;
+  uint32 finished = 2;
+  uint32 finished_time = 3;
+}
+
+message QuestionnaireBrief {
+  uint32 id = 1;
+  uint32 version_id = 2;
+  uint32 effective_time_start = 3;
+  uint32 effective_time_end = 4;
+  repeated .lq.QuestionnaireReward rewards = 5;
+  string banner_title = 6;
+  string title = 7;
+  uint32 type = 8;
+}
+
+message QuestionnaireDetail {
+  uint32 id = 1;
+  uint32 version_id = 2;
+  uint32 effective_time_start = 3;
+  uint32 effective_time_end = 4;
+  repeated .lq.QuestionnaireReward rewards = 5;
+  string banner_title = 6;
+  string title = 7;
+  string announcement_title = 8;
+  string announcement_content = 9;
+  string final_text = 10;
+  repeated .lq.QuestionnaireQuestion questions = 11;
+  uint32 type = 12;
+}
+
+message QuestionnaireQuestion {
+
+  message QuestionOption {
+    string label = 1;
+    string value = 2;
+    bool allow_input = 3;
+  }
+
+  message NextQuestionData {
+
+    message QuestionCondition {
+      uint32 question_id = 1;
+      string op = 2;
+      repeated string values = 3;
+    }
+
+    message QuestionconditionWrapper {
+      repeated .lq.QuestionnaireQuestion.NextQuestionData.QuestionCondition conditions = 1;
+    }
+
+    uint32 target_question_id = 1;
+    repeated .lq.QuestionnaireQuestion.NextQuestionData.QuestionconditionWrapper conditions = 10;
+  }
+
+  uint32 id = 1;
+  string title = 2;
+  string describe = 3;
+  string type = 4;
+  string sub_type = 5;
+  repeated .lq.QuestionnaireQuestion.QuestionOption options = 6;
+  bool option_random_sort = 7;
+  bool require = 8;
+  uint32 max_choice = 9;
+  repeated .lq.QuestionnaireQuestion.NextQuestionData next_question = 10;
+  repeated string matrix_row = 11;
+  int32 option_random_sort_index = 12;
+}
+
+message QuestionnaireReward {
+  uint32 resource_id = 1;
+  uint32 count = 2;
+}
+
+message RandomCharacter {
+  uint32 character_id = 1;
+  uint32 skin_id = 2;
+}
+
+message RecordAnalysisedData {
+  repeated .lq.RecordRoundInfo round_infos = 1;
+}
+
+message RecordBaBeiInfo {
+  uint32 seat = 1;
+  bool is_zi_mo = 2;
+  bool is_chong = 3;
+  bool is_bei = 4;
+}
+
+message RecordCollectedData {
+  string uuid = 1;
+  string remarks = 2;
+  uint32 start_time = 3;
+  uint32 end_time = 4;
+}
+
+message RecordGame {
+
+  message AccountInfo {
+    uint32 account_id = 1;
+    uint32 seat = 2;
+    string nickname = 3;
+    uint32 avatar_id = 4;
+    .lq.Character character = 5;
+    uint32 title = 6;
+    .lq.AccountLevel level = 7;
+    .lq.AccountLevel level3 = 8;
+    uint32 avatar_frame = 9;
+    uint32 verified = 10;
+    repeated .lq.ViewSlot views = 11;
+  }
+
+  string uuid = 1;
+  uint32 start_time = 2;
+  uint32 end_time = 3;
+  .lq.GameConfig config = 5;
+  repeated .lq.RecordGame.AccountInfo accounts = 11;
+  .lq.GameEndResult result = 12;
+  repeated .lq.RecordGame.AccountInfo robots = 13;
+  uint32 standard_rule = 14;
+}
+
+message RecordGangInfo {
+  uint32 seat = 1;
+  uint32 type = 2;
+  string pai = 3;
+  bool is_dora = 4;
+  uint32 xun = 5;
+}
+
+message RecordHuleInfo {
+
+  message RecordFanInfo {
+    uint32 val = 1;
+    uint32 id = 2;
+  }
+
+  repeated string hand = 1;
+  repeated string ming = 2;
+  string hu_tile = 3;
+  uint32 seat = 4;
+  bool zimo = 5;
+  bool qinjia = 6;
+  bool liqi = 7;
+  repeated string doras = 8;
+  repeated string li_doras = 9;
+  bool yiman = 10;
+  uint32 count = 11;
+  repeated .lq.RecordHuleInfo.RecordFanInfo fans = 12;
+  uint32 fu = 13;
+  uint32 point_zimo_qin = 14;
+  uint32 point_zimo_xian = 15;
+  uint32 title_id = 16;
+  uint32 point_sum = 17;
+  uint32 dadian = 18;
+  bool is_jue_zhang = 19;
+  uint32 xun = 20;
+  uint32 ting_type = 21;
+  uint32 ting_mian = 22;
+}
+
+message RecordHulesInfo {
+  int32 seat = 1;
+  repeated .lq.RecordHuleInfo hules = 2;
+}
+
+message RecordLiqiInfo {
+  uint32 seat = 1;
+  uint32 score = 2;
+  bool is_w = 3;
+  bool is_zhen_ting = 4;
+  uint32 xun = 5;
+  bool is_success = 6;
+}
+
+message RecordListEntry {
+  uint32 version = 1;
+  string uuid = 2;
+  uint32 start_time = 3;
+  uint32 end_time = 4;
+  uint32 tag = 5;
+  uint32 subtag = 6;
+  repeated .lq.RecordPlayerResult players = 7;
+  uint32 standard_rule = 8;
+}
+
+message RecordLiujuInfo {
+  uint32 seat = 1;
+  uint32 type = 2;
+}
+
+message RecordNoTileInfo {
+  bool liujumanguan = 1;
+  repeated .lq.RecordNoTilePlayerInfo players = 2;
+}
+
+message RecordNoTilePlayerInfo {
+  bool tingpai = 3;
+  repeated string hand = 4;
+  repeated .lq.RecordTingPaiInfo tings = 5;
+  bool liuman = 6;
+}
+
+message RecordPeiPaiInfo {
+  uint32 dora_count = 1;
+  uint32 r_dora_count = 2;
+  uint32 bei_count = 3;
+}
+
+message RecordPlayerResult {
+  uint32 rank = 1;
+  uint32 account_id = 2;
+  string nickname = 3;
+  .lq.AccountLevel level = 4;
+  .lq.AccountLevel level3 = 5;
+  uint32 seat = 6;
+  int32 pt = 7;
+  int32 point = 8;
+  uint32 max_hu_type = 9;
+  uint32 action_liqi = 10;
+  uint32 action_rong = 11;
+  uint32 action_zimo = 12;
+  uint32 action_chong = 13;
+  uint32 verified = 14;
+}
+
+message RecordRoundInfo {
+  string name = 1;
+  uint32 chang = 2;
+  uint32 ju = 3;
+  uint32 ben = 4;
+  repeated uint32 scores = 5;
+  repeated .lq.RecordLiqiInfo liqi_infos = 7;
+  repeated .lq.RecordGangInfo gang_infos = 8;
+  repeated .lq.RecordPeiPaiInfo peipai_infos = 9;
+  repeated .lq.RecordBaBeiInfo babai_infos = 10;
+  .lq.RecordHulesInfo hules_info = 11;
+  .lq.RecordLiujuInfo liuju_info = 12;
+  .lq.RecordNoTileInfo no_tile_info = 13;
+  repeated .lq.RecordHulesInfo xiuluo_hules_info = 14;
+}
+
+message RecordTingPaiInfo {
+  string tile = 1;
+  bool haveyi = 2;
+  bool yiman = 3;
+  uint32 count = 4;
+  uint32 fu = 5;
+  uint32 biao_dora_count = 6;
+  bool yiman_zimo = 7;
+  uint32 count_zimo = 8;
+  uint32 fu_zimo = 9;
+}
+
+message ReqCommon {
+}
+
+message ResAccountUpdate {
+  .lq.Error error = 1;
+  .lq.AccountUpdate update = 2;
+}
+
+message ResCommon {
+  .lq.Error error = 1;
+}
+
+message RewardPlusResult {
+
+  message Exchange {
+    uint32 id = 1;
+    uint32 count = 2;
+    uint32 exchange = 3;
+  }
+
+  uint32 id = 1;
+  uint32 count = 2;
+  .lq.RewardPlusResult.Exchange exchange = 3;
+}
+
+message RewardSlot {
+  uint32 id = 1;
+  uint32 count = 2;
+}
+
+message RollingNotice {
+  string content = 2;
+  uint32 start_time = 3;
+  uint32 end_time = 4;
+  uint32 repeat_interval = 5;
+  repeated uint32 repeat_time = 7;
+  uint32 repeat_type = 8;
+}
+
+message Room {
+  uint32 room_id = 1;
+  uint32 owner_id = 2;
+  .lq.GameMode mode = 3;
+  uint32 max_player_count = 4;
+  repeated .lq.PlayerGameView persons = 5;
+  repeated uint32 ready_list = 6;
+  bool is_playing = 7;
+  bool public_live = 8;
+  uint32 robot_count = 9;
+  uint32 tournament_id = 10;
+  uint32 seq = 11;
+  string pre_rule = 12;
+  repeated .lq.PlayerGameView robots = 13;
+  repeated uint32 positions = 14;
+}
+
+message RPGActivity {
+  uint32 activity_id = 1;
+  string last_show_uuid = 5;
+  string last_played_uuid = 6;
+  .lq.RPGState current_state = 7;
+  .lq.RPGState last_show_state = 8;
+  repeated uint32 received_rewards = 9;
+  uint32 last_show_id = 10;
+}
+
+message RPGState {
+  uint32 player_damaged = 1;
+  uint32 monster_damaged = 2;
+  uint32 monster_seq = 3;
+}
+
+message SeerBrief {
+  string uuid = 1;
+  uint32 state = 2;
+  uint32 expire_time = 3;
+  repeated .lq.SeerScore player_scores = 4;
+  uint32 create_time = 5;
+}
+
+message SeerEvent {
+  int32 record_index = 1;
+  int32 seer_index = 2;
+  repeated .lq.SeerRecommend recommends = 3;
+}
+
+message SeerPrediction {
+  int32 action = 1;
+  int32 score = 2;
+}
+
+message SeerRecommend {
+  int32 seat = 1;
+  repeated .lq.SeerPrediction predictions = 2;
+}
+
+message SeerReport {
+  string uuid = 1;
+  repeated .lq.SeerEvent events = 2;
+  repeated .lq.SeerRound rounds = 3;
+}
+
+message SeerRound {
+  uint32 chang = 1;
+  uint32 ju = 2;
+  uint32 ben = 3;
+  repeated .lq.SeerScore player_scores = 4;
+}
+
+message SeerScore {
+  uint32 seat = 1;
+  uint32 rating = 2;
+}
+
+message SegmentTaskProgress {
+  uint32 id = 1;
+  uint32 counter = 2;
+  bool achieved = 3;
+  bool rewarded = 4;
+  bool failed = 5;
+  uint32 reward_count = 6;
+  uint32 achieved_count = 7;
+}
+
+message ServerSettings {
+  .lq.PaymentSetting payment_setting = 3;
+  .lq.PaymentSettingV2 payment_setting_v2 = 4;
+  .lq.NicknameSetting nickname_setting = 5;
+}
+
+message ShopInfo {
+
+  message SelectedPackageBuyRecord {
+    uint32 package_id = 1;
+    repeated .lq.BuyRecord buy_records = 2;
+  }
+
+  .lq.ZHPShop zhp = 1;
+  repeated .lq.BuyRecord buy_records = 2;
+  uint32 last_refresh_time = 3;
+  repeated .lq.ShopInfo.SelectedPackageBuyRecord selected_package_records = 4;
+}
+
+message SignedTimeCounterData {
+  int32 count = 1;
+  uint32 update_time = 2;
+}
+
+message SimulationActionData {
+
+  message ActionRiichiData {
+    uint32 seat = 1;
+  }
+
+  message ActionHuleData {
+
+    message HuleInfo {
+      uint32 fan = 1;
+      bool zimo = 2;
+      uint32 point = 3;
+      bool oya = 4;
+      uint32 player = 5;
+      uint32 chong = 6;
+      bool toutiao = 7;
+    }
+
+    repeated .lq.SimulationActionData.ActionHuleData.HuleInfo hule = 1;
+  }
+
+  message ActionFuluData {
+    uint32 seat = 1;
+  }
+
+  message ActionDiscardData {
+    uint32 seat = 1;
+    bool riichi = 2;
+  }
+
+  message ActionDealTileData {
+    uint32 seat = 1;
+  }
+
+  uint32 type = 1;
+  .lq.SimulationActionData.ActionRiichiData riichi = 2;
+  .lq.SimulationActionData.ActionHuleData hule = 3;
+  .lq.SimulationActionData.ActionFuluData fulu = 4;
+  .lq.SimulationActionData.ActionDiscardData discard_tile = 5;
+  .lq.SimulationActionData.ActionDealTileData deal_tile = 6;
+}
+
+message SimulationV2Ability {
+  uint32 luk = 1;
+  uint32 tec = 2;
+  uint32 ins = 3;
+  uint32 int = 4;
+  uint32 res = 5;
+}
+
+message SimulationV2Buff {
+  uint32 id = 1;
+  uint32 round = 2;
+  repeated uint32 store = 3;
+}
+
+message SimulationV2Data {
+  uint32 activity_id = 1;
+  .lq.SimulationV2SeasonData season = 2;
+  int32 highest_score = 3;
+  .lq.SimulationV2Ability upgrade = 4;
+  repeated uint32 event_pool = 5;
+  uint32 season_count = 6;
+}
+
+message SimulationV2Effect {
+  uint32 id = 1;
+}
+
+message SimulationV2Event {
+
+  message SimulationV2EventSelection {
+
+    message SimulationV2EventResult {
+      uint32 id = 1;
+      uint32 weight = 2;
+    }
+
+    uint32 id = 1;
+    repeated .lq.SimulationV2Event.SimulationV2EventSelection.SimulationV2EventResult results = 2;
+  }
+
+  uint32 id = 1;
+  repeated .lq.SimulationV2Event.SimulationV2EventSelection selections = 2;
+  uint32 next_round = 3;
+}
+
+message SimulationV2EventHistory {
+  uint32 id = 1;
+  uint32 round = 2;
+}
+
+message SimulationV2Match {
+
+  message SimulationV2Player {
+    uint32 id = 1;
+    bool main = 2;
+    uint32 ting = 4;
+    int32 score = 5;
+    uint32 fulu = 6;
+    bool riichi = 7;
+    repeated uint32 find_ting = 8;
+    uint32 seat = 9;
+    uint32 con_push_ting = 10;
+    uint32 con_keep_ting = 11;
+    bool ippatsu = 12;
+  }
+
+  .lq.SimulationV2MatchInfo info = 1;
+  repeated .lq.SimulationV2Match.SimulationV2Player players = 2;
+  repeated .lq.SimulationV2MatchHistory history = 3;
+  repeated uint32 rank = 4;
+  bool is_match_end = 5;
+  repeated .lq.SimulationActionData actions = 6;
+  repeated .lq.SimulationV2Buff buff_list = 9;
+  bool is_first_round = 10;
+  uint32 last_event_remain = 11;
+  repeated uint32 effected_buff_list = 12;
+  repeated uint32 triggered_story = 13;
+}
+
+message SimulationV2MatchHistory {
+
+  message RoundStartArgs {
+    .lq.SimulationV2MatchInfo info = 1;
+    repeated int32 scores = 2;
+    uint32 ting = 3;
+    repeated uint32 effected_buff_list = 4;
+  }
+
+  message RiichiArgs {
+    uint32 seat = 1;
+  }
+
+  message FuluArgs {
+    uint32 seat = 1;
+    uint32 ting = 2;
+    uint32 fulu = 3;
+  }
+
+  message HuleArgs {
+    uint32 seat = 1;
+    bool zimo = 2;
+    uint32 chong_seat = 3;
+    int32 point = 4;
+    int32 fan = 5;
+    repeated int32 score_modify = 6;
+  }
+
+  message PushTingArgs {
+    uint32 seat = 1;
+    uint32 ting = 2;
+  }
+
+  message FindTingArgs {
+    uint32 seat = 1;
+    uint32 target = 2;
+  }
+
+  message LiujuArgs {
+    repeated uint32 ting = 1;
+  }
+
+  message StoryArgs {
+    uint32 story_id = 1;
+  }
+
+  uint32 type = 1;
+  uint32 remain = 2;
+  repeated int32 score_modify = 3;
+  .lq.SimulationV2MatchHistory.RoundStartArgs round_start = 4;
+  .lq.SimulationV2MatchHistory.RiichiArgs riichi = 5;
+  .lq.SimulationV2MatchHistory.FuluArgs fulu = 6;
+  repeated .lq.SimulationV2MatchHistory.HuleArgs hule = 7;
+  .lq.SimulationV2MatchHistory.PushTingArgs push_ting = 8;
+  .lq.SimulationV2MatchHistory.FindTingArgs find_ting = 9;
+  .lq.SimulationV2MatchHistory.LiujuArgs liuju = 10;
+  .lq.SimulationV2MatchHistory.StoryArgs story = 11;
+}
+
+message SimulationV2MatchInfo {
+  uint32 chang = 1;
+  uint32 ju = 2;
+  uint32 ben = 3;
+  uint32 gong = 4;
+  uint32 remain = 5;
+}
+
+message SimulationV2MatchRecord {
+  repeated .lq.SimulationV2PlayerRecord players = 1;
+  uint32 round = 2;
+}
+
+message SimulationV2PlayerRecord {
+  uint32 id = 1;
+  bool main = 2;
+  int32 score = 3;
+  uint32 rank = 4;
+  uint32 seat = 5;
+}
+
+message SimulationV2Record {
+  uint32 hu_count = 1;
+  uint32 chong_count = 2;
+  uint32 highest_hu = 3;
+  repeated uint32 rank = 4;
+  uint32 round_count = 5;
+}
+
+message SimulationV2SeasonData {
+  uint32 round = 1;
+  .lq.SimulationV2Ability ability = 2;
+  repeated .lq.SimulationV2Effect effect_list = 3;
+  .lq.SimulationV2Match match = 4;
+  .lq.SimulationV2Event event = 5;
+  repeated .lq.SimulationV2EventHistory event_history = 6;
+  .lq.SimulationV2Record record = 7;
+  int32 total_score = 8;
+  repeated .lq.SimulationV2MatchRecord match_history = 9;
+}
+
+message SnowballActivityBossAction {
+
+  message SnowballActivityBossAttackInfo {
+    uint32 damage = 1;
+    uint32 is_con_attack = 2;
+  }
+
+  message SnowballActivityBossMPConsumeInfo {
+    uint32 mp_consume = 1;
+    uint32 before_delay = 2;
+    uint32 after_delay = 3;
+  }
+
+  uint32 tick = 1;
+  uint32 type = 2;
+  uint32 track = 3;
+  .lq.SnowballActivityBossAction.SnowballActivityBossAttackInfo attack_info = 4;
+  .lq.SnowballActivityBossAction.SnowballActivityBossMPConsumeInfo mp_consume_info = 5;
+}
+
+message StringArrayDirty {
+  bool dirty = 1;
+  repeated string value = 2;
+}
+
+message StringDirty {
+  bool dirty = 1;
+  string value = 2;
+}
+
+message TaskProgress {
+  uint32 id = 1;
+  uint32 counter = 2;
+  bool achieved = 3;
+  bool rewarded = 4;
+  bool failed = 5;
+  uint32 rewarded_time = 6;
+}
+
+message TimeCounterData {
+  uint32 count = 1;
+  uint32 update_time = 2;
+}
+
+message TransparentData {
+  string method = 1;
+  bytes data = 2;
+  string session = 3;
+  .lq.NetworkEndpoint remote = 4;
+}
+
+message UInt32ArrayDirty {
+  bool dirty = 1;
+  repeated uint32 value = 2;
+}
+
+message UInt32Dirty {
+  bool dirty = 1;
+  uint32 value = 2;
+}
+
+message UnlockedStoryData {
+  uint32 story_id = 1;
+  repeated uint32 finished_ending = 2;
+  repeated uint32 rewarded_ending = 3;
+  uint32 finish_rewarded = 4;
+  uint32 all_finish_rewarded = 5;
+}
+
+message ViewSlot {
+  uint32 slot = 1;
+  uint32 item_id = 2;
+  uint32 type = 3;
+  repeated uint32 item_id_list = 4;
+}
+
+message VillageBuildingData {
+  uint32 id = 1;
+  repeated .lq.VillageReward reward = 3;
+  repeated uint32 workers = 4;
+}
+
+message VillageReward {
+  uint32 id = 1;
+  uint32 count = 2;
+}
+
+message VillageTargetInfo {
+  string nickname = 1;
+  uint32 avatar = 2;
+  uint32 avatar_frame = 3;
+  uint32 title = 4;
+  uint32 verified = 5;
+}
+
+message VillageTaskData {
+  uint32 id = 1;
+  uint32 completed_count = 2;
+}
+
+message VillageTripData {
+  uint32 start_round = 1;
+  uint32 dest_id = 2;
+  repeated .lq.VillageReward reward = 3;
+  uint32 level = 4;
+  .lq.VillageTargetInfo info = 5;
+}
+
+message VoteData {
+  uint32 activity_id = 1;
+  uint32 vote = 2;
+  uint32 count = 3;
+}
+
+message Wrapper {
+  string name = 1;
+  bytes data = 2;
+}
+
+message ZHPShop {
+
+  message RefreshCount {
+    uint32 count = 1;
+    uint32 limit = 2;
+  }
+
+  repeated uint32 goods = 1;
+  repeated .lq.BuyRecord buy_records = 2;
+  .lq.ZHPShop.RefreshCount free_refresh = 3;
+  .lq.ZHPShop.RefreshCount cost_refresh = 4;
+}

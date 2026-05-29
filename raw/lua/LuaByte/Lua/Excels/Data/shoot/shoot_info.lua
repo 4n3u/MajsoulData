@@ -1,0 +1,1 @@
+local a=require("ExcelTool")local b=a.Pack;local c=a.Sub;local d=a.PackGet;local e=a.Dmap;local f={["activity_id"]=1,["missions_group_id"]=2,["level_count"]=3,["bullet_item_id"]=4}local g={nil,nil,nil,nil}local h=function(i,j)return d(i,j,f,g)end;local k={}k[251101]=b({251101,101,3,30900096},h)return{tb=k}

@@ -1,0 +1,1134 @@
+[
+  {
+    "line": 1,
+    "text": "player"
+  },
+  {
+    "line": 3,
+    "text": "Ein"
+  },
+  {
+    "line": 4,
+    "text": "You're incredible, {var:player_nickname}! You even managed to make a comeback in this situation."
+  },
+  {
+    "line": 5,
+    "text": "Haha, I just got lucky."
+  },
+  {
+    "line": 6,
+    "text": "After putting the scoring sticks away, I rise from fourth place to first place and become the ultimate winner of this game. I nod at the other two players in the game and stand up contently to stretch my body after sitting at the mahjong table all afternoon."
+  },
+  {
+    "line": 7,
+    "text": "Damn, if I kept that Red in the tenth turn, then I would've been able to win two turns before you."
+  },
+  {
+    "line": 8,
+    "text": "Are you still reviewing the log of the previous game? You can't always be so serious. You've got to learn to relax too, so get some rest now and start working hard again tomorrow."
+  },
+  {
+    "line": 9,
+    "text": "Sigh... I guess you're right."
+  },
+  {
+    "line": 10,
+    "text": "Ein stands up obediently and prepares to go outside with me for some fresh air, but he keeps talking about the game, and even his tail, which is usually raised high in the air, is hanging low behind him. It's obvious to anyone that he's unhappy about what happened."
+  },
+  {
+    "line": 11,
+    "text": "Hmm, Ein is still as persistent as ever when it comes to mahjong-related things... I should try to comfort him first."
+  },
+  {
+    "line": 12,
+    "text": "With this thought in mind, I quicken my pace to catch up to Ein so I can rub his furry tail and deliver my carefully considered message in a gentle tone to try to cheer him up."
+  },
+  {
+    "line": 13,
+    "text": "Ein, you've had quite a high winning percentage today, so you've done great... Huh? What's this...?"
+  },
+  {
+    "line": 14,
+    "text": "My hand on his tail freezes suddenly after feeling something unfamiliar. I open my palm in disbelief and pick up a strand of messy orange-red animal fur."
+  },
+  {
+    "line": 15,
+    "text": "{var:player_nickname}, why did you stop suddenly? Did you forget something?"
+  },
+  {
+    "line": 16,
+    "text": "I was trying to cheer you up, but now it seems that it has backfired... I feel a little complicated now."
+  },
+  {
+    "line": 17,
+    "text": "Huh?"
+  },
+  {
+    "line": 18,
+    "text": "I sigh deeply in my heart as I look at Ein, who still hasn't reacted to my words, and motion for him to look back at his tail while showing him the fox fur in my hand in front of him."
+  },
+  {
+    "line": 20,
+    "text": "Yes, you're right. It's fur that you've just shed."
+  },
+  {
+    "line": 21,
+    "text": "Although this might sound a little offensive... I feel like I need to give you a reminder since we're such good mahjong buddies. Ein, you may have a serious fur loss problem based on the amount of fur you lost when I touched your tail gently."
+  },
+  {
+    "line": 22,
+    "text": "Immediately after I finish speaking, Ein's big, furry tail disappears quickly behind him. Avoiding my eyes, Ein stands up straight and spreads his arms to try to cover the bald tip of his tail with his body."
+  },
+  {
+    "line": 23,
+    "text": "You've got it wrong. Th-This is quite natural. Foxes have a molting period every year, and even the warriors of my tribe are no exception."
+  },
+  {
+    "line": 24,
+    "text": "Although you sound very sincere, I still suspect that you're hiding something from me."
+  },
+  {
+    "line": 25,
+    "text": "Did Zechs say something to you? Ahem, well..."
+  },
+  {
+    "line": 26,
+    "text": "This has nothing to do with Zechs. It's mainly because I played with a little fox at Countless Springs for a long time when I was there a few days ago, and it didn't look like it was molting at all."
+  },
+  {
+    "line": 27,
+    "text": "If foxes do molt around this time of the year, then you should both be molting around the same time since you're both foxes, right?"
+  },
+  {
+    "line": 28,
+    "text": "Well... umm... er... a-actually, every fox has their own difficulties, so..."
+  },
+  {
+    "line": 29,
+    "text": "Judging from how you're stuttering, did I guess right?"
+  },
+  {
+    "line": 30,
+    "text": "..."
+  },
+  {
+    "line": 31,
+    "text": "With his amber-colored fox eyes, Ein looks at the sky, the ground, the mahjong table next to him, Ichihime who is busy with something, Wanjirou who is chatting, the scenery outside the door, and the noisy children. However, he doesn't look at me. Guilt is written all over his face."
+  },
+  {
+    "line": 33,
+    "text": "Ein, listen to me..."
+  },
+  {
+    "line": 34,
+    "text": "{var:player_nickname}, actually, this is what happened."
+  },
+  {
+    "line": 35,
+    "text": "After a short silence, Ein and I speak at the same time. We share a glance and a smile after realizing we were thinking the same thing, which sweeps away the awkward atmosphere. Ein then graciously acts like a gentleman."
+  },
+  {
+    "line": 36,
+    "text": "You go first."
+  },
+  {
+    "line": 37,
+    "text": "I just want to tell you that fur shedding isn't such a serious problem, so you don't need to hide anything, Ein. There's nothing to be afraid of. I'll help you find a solution to help you recover."
+  },
+  {
+    "line": 38,
+    "text": "Are you saying that you'll keep me company the whole time?"
+  },
+  {
+    "line": 39,
+    "text": "Yes, because like you said, we're best friends."
+  },
+  {
+    "line": 40,
+    "text": "I understand. {var:player_nickname}, you want to share my joys and sorrows."
+  },
+  {
+    "line": 41,
+    "text": "It's said the mood of an animal is reflected by the actions of its tail, and Ein seems to be proving the veracity of this statement right now as his tail, which he has been deliberately hiding behind his back, is now standing straight and trembling slightly. It's obvious that he's in a very good mood right now."
+  },
+  {
+    "line": 42,
+    "text": "But I still have some lingering concerns when I recall what happened the last time I shared his joys and sorrows... especially when I look subconsciously at a bare patch of flesh-colored skin at the tip of his tail, which forms a strong contrast with the orange-red fur all around it."
+  },
+  {
+    "line": 43,
+    "text": "I don't want him to become bald!!!"
+  },
+  {
+    "line": 44,
+    "text": "Ein, the bald patch on your tail is so obvious that any member of the Furry Conservation Association would go crazy if they saw it. Hmm, if we go to the hospital, it would be bad if someone who knows you sees you there, but how else can we treat your fur shedding problem, Ein...?"
+  },
+  {
+    "line": 45,
+    "text": "It's not actually that urgent. New fur will grow on my tail after a while."
+  },
+  {
+    "line": 46,
+    "text": "New fur... I know what we can do!"
+  },
+  {
+    "line": 47,
+    "text": "Clerk"
+  },
+  {
+    "line": 48,
+    "text": "Er... Welcome to Wellness & Happiness Pharmacy. How can I help you?"
+  },
+  {
+    "line": 50,
+    "text": "If you see two customers wearing hats, sunglasses, and large black coats enter the store during the evening shift, most people would wonder if they should call the police, but this clerk is still serving us with a smile. That's some serious professionalism."
+  },
+  {
+    "line": 51,
+    "text": "The authorities will come after us soon if you keep mumbling and acting suspiciously. I'm only doing this to protect your privacy. After all, Mr. Fox, you don't want anyone to know that you've come to buy hair growth serum, right?!"
+  },
+  {
+    "line": 52,
+    "text": "Is that a threat? It is, right? Where has my naive, cute, kind, brave, intelligent, and warm-hearted {var:player_nickname} gone?!"
+  },
+  {
+    "line": 53,
+    "text": "If you keep dawdling like this, you'll soon know that I can follow up my threats with violence."
+  },
+  {
+    "line": 54,
+    "text": "Encouraged by my \"kind\" smile, Ein finally reluctantly asks the clerk about the item we've come to buy."
+  },
+  {
+    "line": 55,
+    "text": "I... We want to buy a bottle of... hair growth serum. Is there any product you would recommend?"
+  },
+  {
+    "line": 56,
+    "text": "You've come at just the right time. We've just stocked a new anti-hair loss serum. Buy two bottles and you'll get one more bottle for free. It's also 20% off right now."
+  },
+  {
+    "line": 57,
+    "text": "I don't need it, but..."
+  },
+  {
+    "line": 58,
+    "text": "I saw the promotional poster in the window. What's special about this hair growth serum?"
+  },
+  {
+    "line": 59,
+    "text": "Please give me a few minutes to introduce this product to you. This serum is formulated with ginseng and oriental arborvitae, which effectively controls oil secretion and reduces dandruff. The company holds a special patent, and many influencers have recommended it on CatChat."
+  },
+  {
+    "line": 60,
+    "text": "I see. So this is basically a trending product promoted by Internet celebrities."
+  },
+  {
+    "line": 61,
+    "text": "Please don't let yourself be biased because of this. When a product becomes popular on the Internet, it's usually because it has features that people really like. You don't need to worry about this at all."
+  },
+  {
+    "line": 62,
+    "text": "What's more, you can get a free trial pack if you buy it today, but it's only available on a first-come, first-served basis while stock lasts."
+  },
+  {
+    "line": 63,
+    "text": "Now I understand why sales-related part-time jobs usually have higher pay. It's because very few people can resist buying something if they are guided bit by bit and lured with offers."
+  },
+  {
+    "line": 64,
+    "text": "Haha, you're really good at making jokes. I'm just recommending a product to you. But since you said that, have you already decided to buy it?"
+  },
+  {
+    "line": 65,
+    "text": "I... We need to think about it. We'll let you know if we need more help."
+  },
+  {
+    "line": 66,
+    "text": "Sure thing. Please take your time."
+  },
+  {
+    "line": 67,
+    "text": "After the clerk walks off, I move closer to Ein and ask him a question in a low voice."
+  },
+  {
+    "line": 68,
+    "text": "Ein, is there something you don't like about it?"
+  },
+  {
+    "line": 69,
+    "text": "No, no, no. I just have some doubts and want to know more about this product. The feelings of uneasiness I've had since entering this store have also been validated."
+  },
+  {
+    "line": 70,
+    "text": "After waving his finger at me to signal me to come closer, Ein puts his phone in front of my face and motions for me to read something together with him."
+  },
+  {
+    "line": 71,
+    "text": "{var:player_nickname}, this is some information I found online about this hair growth serum. Can you see anything strange about it?"
+  },
+  {
+    "line": 72,
+    "text": "Let me see. There seems to be nothing wrong with its composition, factory of production, official certification, or patent certificate... What is strange about it...?"
+  },
+  {
+    "line": 73,
+    "text": "Look over here! This company develops a hair growth serum, but the top of their chairman's head is bald! This doesn't make sense at all!"
+  },
+  {
+    "line": 74,
+    "text": "Ein points at the photo as he speaks indignantly and gestures excitedly with his hands. His eyes are also full of distrust."
+  },
+  {
+    "line": 75,
+    "text": "This really is strange. Is it possible that the chairman hasn't used his own company's product?"
+  },
+  {
+    "line": 76,
+    "text": "You agree with me, right? I have good reason to suspect that this hair growth serum isn't as effective as advertised, so we have absolutely no reason to buy it."
+  },
+  {
+    "line": 77,
+    "text": "Ads usually exaggerate the effects of products, but that doesn't mean the products won't work at all."
+  },
+  {
+    "line": 78,
+    "text": "B-But I don't need this type of thing at all!"
+  },
+  {
+    "line": 79,
+    "text": "Look at your balding tail. You've lost so much fur that it'll go completely bald sooner or later if you don't do anything about it."
+  },
+  {
+    "line": 80,
+    "text": "But..."
+  },
+  {
+    "line": 81,
+    "text": "Seeing that Ein has started hesitating, I decide to give him an extra push."
+  },
+  {
+    "line": 82,
+    "text": "I've come here to buy a hair growth serum with you during the precious time that I usually spend playing mahjong. You won't let my good intentions go to waste, right?"
+  },
+  {
+    "line": 83,
+    "text": "N-No way. I won't do anything to make you sad. It's just a hair growth serum. I'll buy it now."
+  },
+  {
+    "line": 84,
+    "text": "As if he is afraid that I'll misunderstand him, Ein straightens his back and pats his chest. The determined look in his eyes even makes me think that he is about to participate in the finals of a mahjong competition at the Mahjong Soul Shrine."
+  },
+  {
+    "line": 85,
+    "text": "Wonderful! That'll be 12,000 Coppers. Will you pay by card or by cash?"
+  },
+  {
+    "line": 86,
+    "text": "The clerk appears suddenly and smiles brightly while handing over an already-packaged hair growth serum gift box to Ein."
+  },
+  {
+    "line": 87,
+    "text": "12,000!!! I-I'll pay by cash, thanks. Sigh, I'm paying such a heavy price so that you get to stroke my furry tail again, {var:player_nickname}."
+  },
+  {
+    "line": 88,
+    "text": "In that case, I'll need to check up on you more closely after this. Remember to follow the instructions closely and use it at the right time every day. Start using it after you get home tonight. I'll check up on you."
+  },
+  {
+    "line": 89,
+    "text": "Ignoring Ein's distressed look, I lead him away forcefully without giving him any chance to regret anything. It isn't until after we part ways that I remember he was also about to tell me something when we were at the shrine."
+  },
+  {
+    "line": 90,
+    "text": "Hmm... it shouldn't be that important, right? I'll ask him the next time I see him."
+  },
+  {
+    "line": 91,
+    "text": "I was thinking of checking up on Ein every day, but I was caught up in other things, and a week had passed before things slowed down again."
+  },
+  {
+    "line": 92,
+    "text": "I wonder how Ein is doing. He should be at his part-time job right now, so maybe I should wait a little longer before..."
+  },
+  {
+    "line": 93,
+    "text": "{var:player_nickname}, what a coincidence, haha."
+  },
+  {
+    "line": 94,
+    "text": "Oh, speak of the \"fox,\" here he is. A familiar figure appears in front of me as hearty laughter rings in my ears."
+  },
+  {
+    "line": 95,
+    "text": "It must be my lucky day to run into you right after I left work today. Do you want to play mahjong together at the shrine? I won't lose to you today."
+  },
+  {
+    "line": 96,
+    "text": "Before that, let me take a look at your tail."
+  },
+  {
+    "line": 97,
+    "text": "Huh?"
+  },
+  {
+    "line": 98,
+    "text": "Ein, who was just so happy that his head was shaking around, suddenly seemed to be paralyzed. He opens his mouth to say something, but only a few incomprehensible sounds come out."
+  },
+  {
+    "line": 99,
+    "text": "Wait! Wait! People will think we're doing something strange if you get too close to me."
+  },
+  {
+    "line": 100,
+    "text": "This is the most secluded part of the whole street, and very few people pass by here. It won't take very long to check up on your tail anyway. You just need to cooperate with me and turn around."
+  },
+  {
+    "line": 101,
+    "text": "Don't be shy. It'll be over soon."
+  },
+  {
+    "line": 102,
+    "text": "To make sure Ein won't be able to run away, I forcefully trap him between myself and the wall, then grab his tail and examine it carefully."
+  },
+  {
+    "line": 103,
+    "text": "The bald part at the tip of your tail looks almost the same as last week. Ein, have you really been using the hair growth serum every day?"
+  },
+  {
+    "line": 104,
+    "text": "Umm, I... I guess so. I followed the instructions and applied a cold compress after using the essence."
+  },
+  {
+    "line": 105,
+    "text": "Hmm? I remember the instructions clearly state that you should apply a hot compress for half an hour before using the essence."
+  },
+  {
+    "line": 106,
+    "text": "!!!"
+  },
+  {
+    "line": 107,
+    "text": "Ein, you're usually so meticulous when it comes to other people's affairs, so why are you so careless about your own affairs?"
+  },
+  {
+    "line": 108,
+    "text": "As I already know that Ein is reluctant to use the hair growth serum, a seed of doubt quickly takes root in my heart when I see how ambiguous he is acting while trying to explain things and think about the mistake he made and his tail, which hasn't improved at all."
+  },
+  {
+    "line": 109,
+    "text": "Ein, did you really use the hair growth serum to treat your fur shedding problem?"
+  },
+  {
+    "line": 110,
+    "text": "Upon hearing my words, Ein's face turns as red as a beetroot, and he pulls his tail out of my hands with a little force. I don't know if it's because he is angry or embarrassed, but the color of his body gradually becomes the same color as his orange-red hair."
+  },
+  {
+    "line": 111,
+    "text": "It's not right to doubt others without any evidence"
+  },
+  {
+    "line": 112,
+    "text": "Without wavering, ask about the truth"
+  },
+  {
+    "line": 113,
+    "text": "Ein's tribe hunts for a living, and having a strong body is an essential requirement of a warrior. Now that I think about it, Ein has been influenced by his tribe since a young age, so there's no way he'll neglect his health."
+  },
+  {
+    "line": 114,
+    "text": "Maybe Ein is telling the truth when he says that every fox has their own difficulties... It's not right to rashly doubt another person based on a few trivial things."
+  },
+  {
+    "line": 115,
+    "text": "Hmm... I should think of a way to help Ein with his fur shedding problem first, and then play mahjong with him to make up for it."
+  },
+  {
+    "line": 116,
+    "text": "After deciding how I'll be using my time in my head, I look up and into his eyes again."
+  },
+  {
+    "line": 117,
+    "text": "I, actually..."
+  },
+  {
+    "line": 118,
+    "text": "I'm sorry, Ein. I shouldn't have doubted you. I'm only so anxious because I'm worried about your health."
+  },
+  {
+    "line": 119,
+    "text": "Actually, I'm really healthy. I'm telling the truth!"
+  },
+  {
+    "line": 120,
+    "text": "As Ichihime's owner, a friend to Wanjirou, Zechs, Hannah, and Emma, a regular of Soul and Countless Springs, and a friendly playmate to Mojito the black panther and Snowy Dumpling the snow fox, I'm well aware that a healthy animal shouldn't shed their fur like this. Ein, please don't hide your condition from me because you don't want me to worry about you."
+  },
+  {
+    "line": 121,
+    "text": "Okay, then you should also forget about the hair growth serum. Either way, I'll definitely recover soon with you by my side."
+  },
+  {
+    "line": 122,
+    "text": "I feel relieved to see how positive you are about this. I'll also accompany you every step of the way when you see a doctor."
+  },
+  {
+    "line": 123,
+    "text": "...See a doctor?"
+  },
+  {
+    "line": 124,
+    "text": "Since your fur shedding problem hasn't improved at all after so long, it looks like that hair growth serum might not be that suitable for you. I'm free this afternoon, so I can take you to see a doctor. I'll feel more relieved after that."
+  },
+  {
+    "line": 125,
+    "text": "Seeing that Ein is about to say something else, I quickly make an announcement that ends this one-sided argument."
+  },
+  {
+    "line": 126,
+    "text": "It's decided then. Let's go now!"
+  },
+  {
+    "line": 127,
+    "text": "A hospital is a solemn place where people will subconsciously lower their voices after stepping through its doors, and even the naughtiest child doesn't dare to cause trouble in front of a doctor."
+  },
+  {
+    "line": 128,
+    "text": "I take Ein with me to the dermatology department and sit on the bench outside it. Compared with the patients beside me who are waiting quietly for their number to be called, the fox who is constantly whispering in my ear and fidgeting seems a little out of place."
+  },
+  {
+    "line": 129,
+    "text": "The registration fee for a consultation with the dermatologist costs 2,000 Coppers! Sigh... This hurts so badly..."
+  },
+  {
+    "line": 130,
+    "text": "If you need any Coppers, I can..."
+  },
+  {
+    "line": 131,
+    "text": "It's not about the Coppers. I just think this expense isn't necessary."
+  },
+  {
+    "line": 132,
+    "text": "Haven't we already discussed this many times on the way here? It's not good to hide your illness because you're afraid of the treatment."
+  },
+  {
+    "line": 133,
+    "text": "But physical health isn't the only reason for shedding fur. It can also be caused by excessive work stress, finishing in fourth place too often in mahjong games, or staying up late. In these situations, a doctor won't really be able to help."
+  },
+  {
+    "line": 134,
+    "text": "If the bald patch on your tail is caused by those reasons, your condition should have improved by a little since last time. After all, it's been a week since we discovered your problem, and you would definitely have improved your work and rest habits after becoming aware of what's happened."
+  },
+  {
+    "line": 135,
+    "text": "About this, {var:player_nickname}, you should take full responsibility."
+  },
+  {
+    "line": 136,
+    "text": "What does this have to do with me?"
+  },
+  {
+    "line": 137,
+    "text": "You promised that you would keep me company until I recovered, but you didn't come to see me after that day, so I was constantly worried about whether you'd had any accidents. So... this is definitely an aftereffect of worrying too much about you!"
+  },
+  {
+    "line": 138,
+    "text": "...There are so many elements that I don't even know where to start. Although your tone and expression are quite sincere, your wagging tail has given you away. It sounds like an excuse to not see the doctor!"
+  },
+  {
+    "line": 139,
+    "text": "Well, it's not entirely an excuse."
+  },
+  {
+    "line": 140,
+    "text": "Embarrassed for having his thoughts exposed, Ein scratches his head and finally calms down for a while. The only sounds I can hear in the corridor now are a mechanical female voice calling out numbers from the help desk of the department and a few occasional soft replies."
+  },
+  {
+    "line": 141,
+    "text": "Hmm..."
+  },
+  {
+    "line": 142,
+    "text": "Next to me, Ein becomes increasingly and evidently anxious as patients enter the consultation room one by one. He taps the armrest of his seat subconsciously with his index finger, and his toes started pointing towards the exit when I wasn't paying attention."
+  },
+  {
+    "line": 143,
+    "text": "Everything I can see indicates that Ein really wants to escape from here."
+  },
+  {
+    "line": 144,
+    "text": "Reflecting on Ein's recent behavior, I realize that he's been acting out of character, both at the pharmacy and the hospital... After thinking about it several times, I gradually come up with a possible explanation."
+  },
+  {
+    "line": 145,
+    "text": "Are you afraid of taking medicine?"
+  },
+  {
+    "line": 146,
+    "text": "Is it possible that you didn't shed any fur in the first place?"
+  },
+  {
+    "line": 147,
+    "text": "Ein, are you... afraid of taking medicine?"
+  },
+  {
+    "line": 148,
+    "text": "Everyone is naturally apprehensive about taking medicine, and some people's reactions are especially obvious. They will keep worrying about when they will need to take medicine, and their emotions will overwhelm them, making them subconsciously want to escape the hospital. This is true even for a strong young man like Ein."
+  },
+  {
+    "line": 149,
+    "text": "When I see the look of surprise in Ein's eyes after I say this, I'm instantly sure that I'm right."
+  },
+  {
+    "line": 150,
+    "text": "Me? Afraid of taking medicine?"
+  },
+  {
+    "line": 151,
+    "text": "You are very reluctant to use a medicinal product like a hair growth serum or see a doctor even though you aren't very stubborn by nature. After thinking about it, the only possible explanation is that you have a fear of hospitals."
+  },
+  {
+    "line": 152,
+    "text": "It seems that I might have hit the nail on the head. Ein lowers his head and doesn't say anything. I feel a little bad seeing him huddled quietly on the chair when he is usually so lively and cheerful, but I still insist on taking him to see a doctor, so I try to comfort him by patting his shoulder."
+  },
+  {
+    "line": 153,
+    "text": "Ahhh! You gave me a fright when you raised your head like that!"
+  },
+  {
+    "line": 154,
+    "text": "{var:player_nickname}, listen to me. There's something I've been wanting to tell you."
+  },
+  {
+    "line": 155,
+    "text": "Ding-dong! The mechanical female voice at the help desk speaks suddenly, interrupting Ein's words. One hour and thirty-seven minutes after registering at the hospital, it's finally our turn."
+  },
+  {
+    "line": 156,
+    "text": "Paging System"
+  },
+  {
+    "line": 157,
+    "text": "Number 113, Ein, please go to dermatology specialist consultation room 3 now."
+  },
+  {
+    "line": 158,
+    "text": "It's your turn, Ein. Let's go and see the doctor first, then I'll listen carefully to what you want to tell me."
+  },
+  {
+    "line": 159,
+    "text": "The dermatologist who is seeing Ein is a male doctor in his fifties, and his expressionless face makes him look imposing. The nameplate with the words \"Chief Doctor\" on it makes him look even more authoritative and reliable."
+  },
+  {
+    "line": 160,
+    "text": "The most important thing is that he has a head of thick, black hair."
+  },
+  {
+    "line": 161,
+    "text": "Doctor"
+  },
+  {
+    "line": 162,
+    "text": "When did you notice that you were shedding fur?"
+  },
+  {
+    "line": 163,
+    "text": "About a week ago... some fur had shed from my tail..."
+  },
+  {
+    "line": 164,
+    "text": "Did you experience any strange sensations, such as itchiness or pain, at the site of fur loss before it happened? In the last few months before shedding fur, did you take any medicines or health products, such as vitamins or calcium tablets?"
+  },
+  {
+    "line": 165,
+    "text": "No, everything has been normal, and I eat a mixture of meat and vegetables in all three meals of the day. Everything is regular."
+  },
+  {
+    "line": 166,
+    "text": "Have you experienced symptoms of insomnia, dizziness, or tinnitus recently? Do you have any problems, such as back pain, cold hands or feet, or fatigue when getting up in the morning, in daily life?"
+  },
+  {
+    "line": 167,
+    "text": "Not at all. I'm very healthy."
+  },
+  {
+    "line": 168,
+    "text": "Please don't take offense at this, but have any elders in your family experienced similar frequent fur loss?"
+  },
+  {
+    "line": 169,
+    "text": "...Heaven forbid, please don't let my parents hear that."
+  },
+  {
+    "line": 170,
+    "text": "Time passes quickly while the doctor asks questions, and the doctor's expression gradually becomes serious. The handwriting on the medical record is nearly indecipherable, but the number of lines written gives me a rough idea of the situation."
+  },
+  {
+    "line": 171,
+    "text": "It looks like Ein's condition is quite serious..."
+  },
+  {
+    "line": 172,
+    "text": "Now that we've basically ruled out the conditions that may cause your fur loss, I'll need to examine the site of fur loss. Please enter the examination room inside, lie down on the bed, and expose your tail."
+  },
+  {
+    "line": 173,
+    "text": "Th-That doesn't seem necessary."
+  },
+  {
+    "line": 174,
+    "text": "Ein, who is already somewhat reluctant, refuses instantly with little hesitation, which makes the doctor look unhappily at him like I expected. Seeing the stalemate between them in the examination room, I resign myself to my fate and try to smooth things over between them."
+  },
+  {
+    "line": 175,
+    "text": "Help the doctor convince Ein to go ahead with the examination"
+  },
+  {
+    "line": 176,
+    "text": "Help Ein explain the situation to the doctor"
+  },
+  {
+    "line": 177,
+    "text": "Ein, I know it's a little embarrassing, but the doctor needs to thoroughly understand your problem to give you the most appropriate treatment plan, so an examination is necessary."
+  },
+  {
+    "line": 178,
+    "text": "A fox's tail isn't meant to be touched so casually by others."
+  },
+  {
+    "line": 179,
+    "text": "Huh? Who keeps asking me if I want to touch his tail and telling me that it feels very nice to touch his tail?"
+  },
+  {
+    "line": 180,
+    "text": "You're different from the others!"
+  },
+  {
+    "line": 181,
+    "text": "*coughs*..."
+  },
+  {
+    "line": 182,
+    "text": "Probably because he noticed that we've gone off-topic, the doctor breaks his silence and interrupts our conversation with a cough. He stands slowly and puts on medical gloves, then he gives me a command in an irrefutable tone."
+  },
+  {
+    "line": 183,
+    "text": "Follow me inside and pin him down on the hospital bed so I can examine him carefully."
+  },
+  {
+    "line": 184,
+    "text": "...O-Okay."
+  },
+  {
+    "line": 185,
+    "text": "Although Ein is an excellent hunter, he is no match for the two of us. Before long, due to our combined efforts, Ein is lying on a bed inside the consultation room obediently for the examination."
+  },
+  {
+    "line": 186,
+    "text": "Five minutes later"
+  },
+  {
+    "line": 187,
+    "text": "Can you really breathe with your face buried completely in the pillow?"
+  },
+  {
+    "line": 188,
+    "text": "To think a hunter like me would be pinned down like prey. Everyone in my tribe would make fun of me if they knew about this."
+  },
+  {
+    "line": 189,
+    "text": "Don't forget that a consultation room is a doctor's hunting grounds. You taught me that an excellent hunter never misses, so there's nothing to be ashamed of if you're defeated in someone else's territory."
+  },
+  {
+    "line": 190,
+    "text": "But my tail has been touched. I'm going to need to clean myself three times tonight! Three times!"
+  },
+  {
+    "line": 191,
+    "text": "He battles to raise his slender fingers in front of me and draws the number three. As if to emphasize his message, he deliberately waves his hand to the left and the right a few times, which makes his body sway slightly."
+  },
+  {
+    "line": 192,
+    "text": "In the next second, the doctor says something in his emotionless tone."
+  },
+  {
+    "line": 193,
+    "text": "Tsk, don't let go. Hold him tight."
+  },
+  {
+    "line": 194,
+    "text": "...Yes!"
+  },
+  {
+    "line": 195,
+    "text": "Doctor, the truth is that my friend has a fear of hospitals, and he may be extremely anxious if he needs to lie down on a hospital bed."
+  },
+  {
+    "line": 196,
+    "text": "Well... I can understand that. Many patients who come to the hospital feel anxious here, but I can't come up with an appropriate and targeted treatment plan unless I examine him."
+  },
+  {
+    "line": 197,
+    "text": "Maybe you can try doing it another way. Ein has only lost fur on his tail, so can he sit on a chair while you examine him?"
+  },
+  {
+    "line": 198,
+    "text": "Okay, I guess that's what we'll have to do."
+  },
+  {
+    "line": 199,
+    "text": "Wait, aren't either of you going to ask me about what I think?"
+  },
+  {
+    "line": 200,
+    "text": "Huh? Were you going to say no?"
+  },
+  {
+    "line": 201,
+    "text": "Of course... I wasn't. Anyway... please promise me that you won't get angry later, okay?"
+  },
+  {
+    "line": 202,
+    "text": "Doctor, how is Ein doing? Have you figured out what's causing the shedding?"
+  },
+  {
+    "line": 203,
+    "text": "After seeing that the doctor has let go of Ein's tail, I ignore the blushing fox next to me and quickly approach the doctor to ask about his situation."
+  },
+  {
+    "line": 204,
+    "text": "Yes, and the reason is quite clear too. The fur at the site of the most serious shedding should have been shaved off by a razor."
+  },
+  {
+    "line": 205,
+    "text": "...Huh?!"
+  },
+  {
+    "line": 206,
+    "text": "Look over here. The edges of the remaining fur here are very neat, so it's obvious that the fur didn't fall out naturally. If you look carefully, you can even see red paint hidden under the long fur beside it."
+  },
+  {
+    "line": 207,
+    "text": "I surmise that the fur at this so-called afflicted area should have been shaved off by its owner after it was stained with red paint that couldn't be washed off."
+  },
+  {
+    "line": 208,
+    "text": "But I clearly remember that Ein's tail was perfectly fine when I met him that day. The small patch of fur only came out when I touched his tail."
+  },
+  {
+    "line": 209,
+    "text": "I don't know about that. Maybe you can ask him yourself."
+  },
+  {
+    "line": 210,
+    "text": "We both look at Ein, who is sitting in front of the table after the examination. His hands are covering his face, and he is trying to avoid making eye contact with me."
+  },
+  {
+    "line": 211,
+    "text": "Ein, what's going on here?!"
+  },
+  {
+    "line": 212,
+    "text": "I guess I can't deny it any longer... Well, I've actually wanted to tell you this from the very beginning, but I kept getting interrupted every time I tried to explain."
+  },
+  {
+    "line": 213,
+    "text": "When I was at my part-time job a few days ago, I accidentally knocked over a bucket of paint next to me. Paint is really hard to clean, and the affected area was small, so I shaved the fur that was covered in paint in desperation."
+  },
+  {
+    "line": 214,
+    "text": "So the fur that fell out after I touched your tail was..."
+  },
+  {
+    "line": 215,
+    "text": "Ahem, after shaving the fur at the tip of my tail, I realized that my bare tail looked a little... unsightly. After thinking about it, I borrowed some glue from an old lady who lived next to me and glued the fur back onto my tail. Nobody would notice it unless they looked carefully, but then you suddenly touched it..."
+  },
+  {
+    "line": 216,
+    "text": "Oh, so now it's my fault?"
+  },
+  {
+    "line": 217,
+    "text": "No, no, no, of course everything is my fault. I felt too embarrassed to tell you that I had shaved my fur and then glued it back onto my tail, so I didn't know what to say to you."
+  },
+  {
+    "line": 218,
+    "text": "I finally worked up the courage to tell you everything honestly, but then you said you would keep me company until I recovered. I... I thought we would be able to spend more time together because of this, so I selfishly..."
+  },
+  {
+    "line": 219,
+    "text": "So that's the truth behind your fur loss."
+  },
+  {
+    "line": 220,
+    "text": "I'm sorry for making you worry about me for so long."
+  },
+  {
+    "line": 221,
+    "text": "Ein's voice becomes quieter and quieter until it disappears completely. He is a strong fox, but he looks at me timidly and expectantly with eyes that make him seem as innocent as a little white rabbit."
+  },
+  {
+    "line": 222,
+    "text": "Sigh, life is like a play, and we've met because of fate. I won't get mad at anyone, because who will take my place if I get sick..."
+  },
+  {
+    "line": 223,
+    "text": "{var:player_nickname}, what are you reciting?"
+  },
+  {
+    "line": 224,
+    "text": "The \"don't be angry\" chant. I need to calm myself down or else there will be news about a blood-stained consultation room in the evening news."
+  },
+  {
+    "line": 225,
+    "text": "Most likely because he knows he is in the wrong, Ein, who is just about to step forward, quickly retracts his steps and sits on the chair again where he makes a look that says \"punish me however you want.\""
+  },
+  {
+    "line": 226,
+    "text": "Even though I know he is just pretending, I find it difficult to ignore the look he is giving me. I take a deep breath and gradually calm down. In the end, I can't help smiling at Ein who keeps observing my expression carefully from the corner of his eye."
+  },
+  {
+    "line": 227,
+    "text": "This is good news. At least we know that you're healthy and have no fur shedding problems."
+  },
+  {
+    "line": 228,
+    "text": "I'm sorry to interrupt you, but this fur shedding consultation isn't over yet."
+  },
+  {
+    "line": 229,
+    "text": "Huh? Didn't you already find out what had really happened?"
+  },
+  {
+    "line": 230,
+    "text": "To be precise, that's just what you think is the truth. The fact is, upon examining you, I noticed that you do shed hair frequently. For example..."
+  },
+  {
+    "line": 231,
+    "text": "The doctor motions for Ein to turn around, then reaches out and strokes his tail from one end to the other. As his arm moves, strands of fox fur, both long and short, fly into the air, covering the nearby table and chairs in a layer of orange-red fur."
+  },
+  {
+    "line": 232,
+    "text": "Not wanting to believe what he just saw, Ein reaches out and gently rubs his tail. However, no matter how many times he does this, he finds fur on his hand, which means that he does have a fur shedding problem."
+  },
+  {
+    "line": 233,
+    "text": "This is impossible! I really do have a fur shedding problem?"
+  },
+  {
+    "line": 234,
+    "text": "Haha, you don't need to worry about it. Your situation isn't serious, and you'll get better if you take your medication on time."
+  },
+  {
+    "line": 235,
+    "text": "No way! This is impossible! I'm actually losing fur... I know, this is a dream!"
+  },
+  {
+    "line": 236,
+    "text": "This blow is so heavy that Ein seems to have trouble coming to terms with reality. When I see his fingers reaching for his arm to try to wake himself up with pain, I quickly stop him."
+  },
+  {
+    "line": 237,
+    "text": "Just face the reality, Ein. You are shedding fur."
+  },
+  {
+    "line": 238,
+    "text": "But this is really unscientific. I'm obviously very healthy, right?"
+  },
+  {
+    "line": 239,
+    "text": "Haha, sometimes fatigue can also cause fur loss. Perhaps you've been stressing about how to tell your friend the truth these past few days, which has caused the onset of this disease. Here's some medicine. Remember to make the patient take this every day after lunch."
+  },
+  {
+    "line": 240,
+    "text": "No problem. This time I'll make sure I check up on him closely!"
+  },
+  {
+    "line": 241,
+    "text": "No!!!"
+  },
+  {
+    "line": 242,
+    "text": "Ichihime, did you see where Ein went?"
+  },
+  {
+    "line": 243,
+    "text": "One week later"
+  },
+  {
+    "line": 244,
+    "text": "Ichihime"
+  },
+  {
+    "line": 245,
+    "text": "Master, you're early today, nyaa. I, Wanjirou, and that bad rabbit have accepted Mr. Ein's snacks and promised to not tell you that he is hiding in the storeroom on the east side because he wants to wait for you to leave before coming out to play mahjong, nyaa."
+  },
+  {
+    "line": 246,
+    "text": "Thanks, Ichihime, go and play with Wanjirou and the others. I won't bother you anymore."
+  },
+  {
+    "line": 247,
+    "text": "I smile as I hand the snacks in my hand to Ichihime, and we exchange a knowing look at the same time. After that, I walk slowly towards where Ein is hiding with a bowl of medicine in my hands."
+  },
+  {
+    "line": 248,
+    "text": "Ein's fur shedding incident has turned from a mistake into a fact, and he has started to cheer up and face reality after being dispirited for a period of time. However, I don't know whether it is divine punishment, but Ein's medicine is very bitter. Its bitter stench infiltrates every corner of Mahjong Soul Shrine whenever it is boiled."
+  },
+  {
+    "line": 249,
+    "text": "Sigh, as they say, good medicine is bitter. Why doesn't Ein understand this? I even come here specially every day to make sure he drinks every last drop of his medicine. This is all for his own good."
+  },
+  {
+    "line": 250,
+    "text": "Pfft... Even I have trouble convincing myself with this excuse, hahahaha. It's his fault for deceiving me for so long before. Making sure he drinks this bitter medicine is just payback for his deception."
+  },
+  {
+    "line": 251,
+    "text": "With this thought in mind, I stand still in front of the storeroom entrance, pull the door bolt gently, and call out to him in my gentlest voice."
+  },
+  {
+    "line": 252,
+    "text": "Come on, Ein. It's time to drink your medicine..."
+  },
+  {
+    "line": 253,
+    "text": "Ein, is it possible that you haven't actually shed any fur?"
+  },
+  {
+    "line": 254,
+    "text": "Wh-Why would you suddenly say that?"
+  },
+  {
+    "line": 255,
+    "text": "Aha, judging from your current expression... I take it that I'm right?"
+  },
+  {
+    "line": 256,
+    "text": "Umm, let's talk about this outside."
+  },
+  {
+    "line": 257,
+    "text": "The breeze is cooler in early autumn than in summer. Although Ein and I are standing in a hidden place, it is still well-ventilated, and the cool breeze carries a few yellowing leaves through the gap between us, setting the stage for the upcoming interrogation scene."
+  },
+  {
+    "line": 258,
+    "text": "I'll give you one chance. Tell me what you're hiding from me. Confess honestly, and all shall be forgotten, or else a lot of punishment will be coming your way."
+  },
+  {
+    "line": 259,
+    "text": "Ahem, actually... {var:player_nickname}, you guessed right. I didn't shed any fur."
+  },
+  {
+    "line": 260,
+    "text": "It wasn't a guess but a reasonable inference because it's completely illogical for you to be so reluctant to try a treatment like a hair growth serum. I thought about it again carefully and realized that the fur around the bald part of your tail had clear and neat edges, so it looked more like the fur had been cut off instead of falling off."
+  },
+  {
+    "line": 261,
+    "text": "You remember it so clearly after just a few glances. You're as observant as the scouts in my tribe."
+  },
+  {
+    "line": 262,
+    "text": "A few compliments aren't going to make me forget that a certain fox lied to me."
+  },
+  {
+    "line": 263,
+    "text": "Well, everything started when I went inside a bookstore that was being renovated for my part-time job a few days ago. When I was carrying books, I accidentally knocked over a bucket of paint next to me with my tail."
+  },
+  {
+    "line": 264,
+    "text": "It's really difficult to clean red paint, and I shaved off the fur at the tip of my tail in a moment of recklessness."
+  },
+  {
+    "line": 265,
+    "text": "If that's what happened, I should have noticed that your tail looked different soon after we met on that day."
+  },
+  {
+    "line": 266,
+    "text": "Ahem, well... my tail looked a little ugly without any fur, so I borrowed some glue from the old lady who lived next to me and glued my shaved fur to my tail to hide the bald patch. The glue probably wasn't very good quality, so when you touched it lightly..."
+  },
+  {
+    "line": 267,
+    "text": "Ein, it's hard to imagine that you would use a method that seems so obviously unreliable."
+  },
+  {
+    "line": 268,
+    "text": "Haha, now that I think about it, this really is something I really want to forget forever. Fortunately, you're the only one who knows about it, {var:player_nickname}."
+  },
+  {
+    "line": 269,
+    "text": "Possibly because he is tipped off by something in my expression, Ein stops smiling and leans over cautiously to apologize to me instead."
+  },
+  {
+    "line": 270,
+    "text": "I thought about telling you the truth, but I was interrupted when I started. You also said you would keep me company until I recovered, so..."
+  },
+  {
+    "line": 271,
+    "text": "Don't be angry. I'll play a lot of mahjong with you at the shrine today to make up for all the wasted time. You can also touch my tail whenever you want from now on. How about that?"
+  },
+  {
+    "line": 272,
+    "text": "He waggles his fluffy tail to the left and right in front of me and seems extremely confident that I will accept his offer and forgive him. To my frustration, I realize after thinking about it that I really can't turn him down."
+  },
+  {
+    "line": 273,
+    "text": "You've got it wrong. It's more like I'm playing mahjong with you. You're the one who is willing to spend all your time in a mahjong dojo. Also, I've always been allowed to touch your tail whenever I want, so this doesn't count as an apology at all!"
+  },
+  {
+    "line": 274,
+    "text": "As I speak, I reach out and rub the tail in front of me from one end to the other end to resolve the resentment in my heart."
+  },
+  {
+    "line": 275,
+    "text": "Huh? Wait a minute... What's this familiar yet unfamiliar feeling...?"
+  },
+  {
+    "line": 276,
+    "text": "Like last time, I open my palm in disbelief and look at the many clumps of messy orange-red animal fur on it."
+  },
+  {
+    "line": 277,
+    "text": "Ein, I think you really are shedding fur."
+  },
+  {
+    "line": 278,
+    "text": "What? That's not possible!"
+  },
+  {
+    "line": 279,
+    "text": "His calm demeanor disappears, and his face turns pale in an instant. He reaches out to rub his tail, sending orange-red fur flying everywhere, covering everything around him in a layer of orange-red fur."
+  },
+  {
+    "line": 280,
+    "text": "Whoa! It looks like it's quite serious too."
+  },
+  {
+    "line": 281,
+    "text": "No way! This isn't possible! {var:player_nickname}, what should I do now?!"
+  },
+  {
+    "line": 282,
+    "text": "Well... I'm not sure about that. You also said that every fox has their own difficulties."
+  },
+  {
+    "line": 283,
+    "text": "Ignoring Ein's plea for help, I turn and leave to go to a mahjong dojo. Behind me, Ein is still lost in shock after realizing he has a fur shedding problem, but he should go to a hospital to ask for help once he comes to terms with his situation."
+  },
+  {
+    "line": 284,
+    "text": "But I won't go with him this time. After all, those who lie to others should be punished for their actions."
+  },
+  {
+    "line": 286,
+    "text": "(whisper) Eliisa told me that even Shaun hides and doesn't want to be seen by others after losing its wool, let alone Ein. Oh well, maybe he has a reason for hiding it from me. I better not force him."
+  },
+  {
+    "line": 287,
+    "text": "Ron! Riichi, Ippatsu, Seat Wind - West, Half Flush, Dora 3, 16,000!"
+  },
+  {
+    "line": 288,
+    "text": "Where's the fur at the tip of my tail? Ahhhh! Th-The thing in your hand! Could it be?!"
+  }
+]

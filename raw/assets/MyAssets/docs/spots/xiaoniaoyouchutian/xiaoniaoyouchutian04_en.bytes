@@ -1,0 +1,260 @@
+
+17:player
+1121:The Flower Left in the Corner
+1122:Hearing that a new flower market with a wide variety of plants has opened in One Han City, I immediately think of the person who is always tending to flowers and greenery, and head to the gardening club at the National University of Fuuchi.
+1123:Gardening Club, National University of Fuuchi
+1124:The gardening club is rather quiet this weekend, save for a rhythmic clicking. I follow the sound and spot Hinata Takanashi, totally absorbed in photographing a sunflower.
+1125:Hinata Takanashi
+1126:Hmm... This angle should capture every single dewdrop on the leaves.
+1127:What if I... Oh, the backlight makes it look so adorable!
+1129:Hey, Hinata?
+1131:Found you!
+1132:Whoa?!
+1133:Phew... You scared the life out of me! I almost dropped the camera...
+1134:{var:player_nickname}, what are you doing here on the weekend?
+1135:Were you looking for me? Uh... have I kept you waiting?
+1136:Not at all, I just got here.
+1137:I knew I'd find you here.
+1138:That's a relief. I'd feel terrible if I'd kept you waiting...
+1139:Hehe, you know me so well.
+1140:So these are the new seedlings you've been telling me about?
+1141:Mm-hmm. They always remind me of going to see sunflowers in the countryside with my mom and dad when I was little.
+1142:It felt so warm, like the sun was giving me a big hug.
+1143:They're so busy lately... so I thought, why not grow my own little slice of sunshine?
+1144:I can definitely see them blooming already.
+1145:I know, right? They were so frail when I brought them home, but look at them now! They're total naturals in front of the camera.
+1146:I'm going to give them some fresh potting mix after this, so I asked Reina for a little time off. I'll be back at Éternité next weekend, I promise!
+1147:Well, if you're on a break, you wanna hang out with me today?
+1148:I actually came here to invite you to that huge new flower market that just opened.
+1149:A flower market? That sounds amazing! I bet there are so many unique plants, but...
+1150:Don't worry about the sunflowers. I'll help you take care of them when we get back!
+1151:Really? Okay then! Thank you so much, {var:player_nickname}!
+1152:Let's get going!
+1153:Whoa... this place is even bigger than I imagined!
+1154:Flower Market
+1155:{var:player_nickname}, look at this Bunny Succulent! It's like tiny bunnies with long ears, isn't it?
+1156:It's a bit on the small side, though... looks like it's starving for some fertilizer. I should tell the owner... but first, let me get a photo of it!
+1157:You really do enjoy giving plants their own photoshoots, don't you?
+1158:Well, they're all so adorable! I feel like every moment of their lives is worth capturing.
+1159:And whenever I look back at the pictures, I get to relive all the time I spent with them!
+1160:Let's make today a day to remember, then!
+1161:Eh? You mean you want to take a photo with me? I'd love to!
+1162:If we can, let's include the plants in the photo too. I hope you'll grow fond of them as well.
+1163:Let me see what else is on your camera!
+1164:What have you been photographing recently?
+1165:Oh, I've got some really good ones lately!
+1166:Check this out, that's the little bunny succulent from earlier, and here are my sunflower seedlings...
+1167:And this one...
+1168:Uh...
+1169:On the screen is a tiny bonsai tree. Its once-green needles are now covered in dull yellow patches, looking drained of life.
+1170:This one is a Buddhist pine. It suffered from major neglect. The roots were waterlogged, which led to a fungal outbreak of anthracnose and leaf blight...
+1171:They brought it to me as a last resort... I read every book I could find and tried everything, but I still couldn't...
+1172:Hinata...
+1173:Anyway, I'm supposed to be having fun with you, {var:player_nickname}! Let's talk about something more cheerful.
+1174:Are you sure you're alright?
+1175:I'm okay! It's over and done with. Come on, let's see what else they have!
+1176:Wow, they have everything! Thanksgiving cacti, baseball plants, even lithops... I've got to take some more shots!
+1177:Wait, is that...
+1178:Hey, those succulents have those same black spots you showed me earlier...
+1179:That's terrible... even in a professional shop like this, they're not being taken care of...
+1180:Sigh, how am I ever going to save up enough to buy them all and bring them back home...
+1181:Wait, what am I saying? You brought me here to have a good time. Let's go and...
+1182:???
+1183:What's the deal here?! I want an explanation right now!!
+1184:Sounds like someone's causing a scene.
+1185:Let's go check it out!
+1186:Customer
+1187:I've only had this Haworthia cooperi for a few days, and look at it! Why is it shriveling?
+1188:Acting Manager
+1189:My apologies, really... The manager is away, and I'm just filling in as the acting manager...
+1190:This is the one you bought, right? Let me take a look at it...
+1191:Maybe it's just... underwatered? Let's give it some water and see if it helps.
+1192:No, don't!
+1193:Huh?! Wh-what?! Who are you, miss...?
+1194:Look at the soil of this Haworthia cooperi – there's white powder in it. And see how the leaves are yellowing?
+1195:It's probably root mealybugs. Watering it now will just make the infestation spread!
+1196:Oh, really?! Wait... you're right! The manager told me about this... I almost made a huge mistake!
+1197:I've got a lot to learn... If I'd ruined these plants because of my own mistake... I don't even want to think about it.
+1198:I really owe you one! Is there anything here that catches your eye? Pick any plant you want, on the house! It's the least I can do.
+1199:Oh, it was nothing, really. You don't need to do that...
+1200:What about that bunny succulent you were admiring?
+1201:Surely you've earned it!
+1202:Plus, I'm sure the manager would feel much better knowing the plant is in your hands.
+1203:Well, if you insist... thank you! I'll just take this little one, if that's okay...
+1204:Really? That little bunny succulent is a bit of a runt... we didn't even think it would sell. Are you sure you don't want something better?
+1205:That's okay! I'll take good care of it and make sure it grows big and strong!
+1206:Well then, it's all yours. This little one is lucky to have someone like you. Come back anytime!
+1207:Shall we see what else the market has to offer?
+1208:You bet! There are so many more plants I want to see while we're here!
+1209:Alright, let's – wait a second. Is that who I think it is?
+1210:Sawako Kitami
+1211:Oh! What a pleasant surprise.
+1212:Mrs. Kitami! I didn't expect to see you here!
+1213:What brings you to the flower market today, Mrs. Kitami?
+1214:Well, the basil I was growing at home got some kind of mold... I had to toss it, which is such a shame for my cooking.
+1215:So I'm looking for a replacement. This one looks nice and lively. I'm sure the sauce will be wonderful!
+1216:You are making sauce with it?
+1217:Mm-hmm! You can make a lovely pesto with basil leaves. It goes so well with meat!
+1218:I'm still a bit worried, though. If I can't figure out what happened to my last one, I'm afraid I'll lose this one too...
+1219:Mold, huh? Yeah, that happens a lot with herbs.
+1220:It's probably gray mold or powdery mildew. I wish I could have seen it in person to be sure...
+1221:But please, Mrs. Kitami, if you ever have any more plant troubles, you're always welcome to ask me!
+1222:Haha, I'll keep that in mind! Thank you.
+1223:I kind of thought you'd be a bit sad about plants being used for food, Hinata.
+1224:Not at all! My grandma used to say that plants grow up so they can be useful. As long as they're appreciated, they're happy.
+1225:It's much better than just being thrown out and forgotten.
+1226:Oh, I feel exactly the same way! Respecting your ingredients is the secret to a truly delicious meal.
+1227:Oh, I should get some mint too! I've been meaning to make some mint sauce.
+1228:Mint sauce? I've always wanted to try that! Mrs. Kitami, would you mind teaching me?
+1229:Sure thing! If you'll be my "gardening consultant," I'll be your "cooking consultant." Haha!
+1230:What a powerful team...
+1231:I'm going to make mint sauce this weekend. You and {var:player_nickname} should definitely come by in the afternoon!
+1232:Thank you, Mrs. Kitami!
+1233:Thanks, Mrs. Kitami!
+1234:Sounds like a plan, then! I'll see you both soon.//nExcuse me, I'd like to pay for these!
+1235:And there she goes...
+1236:I can't wait to try Mrs. Kitami's food.
+1237:Ugh... I had a whole list of things I wanted to ask her about in my head...
+1238:Her ability in the kitchen is amazing...
+1239:You take really good care of others too, Hinata.
+1240:You're just as amazing in your own way, Hinata.
+1241:Eh...!
+1242:Because even with all these adorable plants around, you didn't get distracted.
+1243:You were still thinking about the gardening club and that little bunny succulent. You really care about every single one of them.
+1244:Mm-hmm! If I'm going to take them in, I have to be there for them!
+1245:I'm here to help if you ever need a hand!
+1246:Those plants are so lucky to have you.
+1247:Oh! You're so sweet, {var:player_nickname}!
+1248:Whether in the cafe or the gardening club, you're always helping me out. I hope I'm not being too much of a burden...
+1249:Hey, when you're free, let's go on a picnic sometime. I'll make the sandwiches!
+1250:I'm happy to help, but those sandwiches sound like a great bonus!
+1251:Awesome, it's settled! Let's get moving. There's still so much of the market left to see!
+1252:Th-thank you for the compliment, {var:player_nickname}...
+1253:I just want to do my best for them and be there whenever they need me...
+1254:Just like how I love spending time with my parents and my grandma.
+1255:And honestly... I'm just happy to be by your side right now, {var:player_nickname}.
+1256:Whew... there's still so much to see. Let's head that way!
+1257:...
+1258:Everything okay? Why'd you stop?
+1259:That new little bunny succulent... and those poor plants in the market...
+1260:Ugh... It feels like my list of plants to rescue and care for is growing faster than I can keep up with...
+1261:I get it. To you, saving a sick plant is more important than just getting a new one.
+1262:You got me there, {var:player_nickname}. Was it that obvious?
+1263:I've been watching you the whole time.
+1264:I know you pretty well by now.
+1265:Sorry, I didn't mean to...
+1266:Why apologize?
+1267:I know we were supposed to be having a great time together, but...
+1268:Seeing those sick plants just makes my heart ache. It's like I can't breathe...
+1269:I know it's unusual to treat plants like they're my own children... You probably think I'm weird, right?
+1270:There's nothing weird about it, Hinata.
+1271:D-do you really mean that?
+1272:I've seen how hard you study and how much love you put into every single plant.
+1273:You're just doing what makes you happy and being kind to living things. That's a wonderful quality, not a weird one.
+1274:You really think so, {var:player_nickname}?
+1275:Even if I have a dream that might be a little unrealistic...?
+1276:Absolutely.
+1277:Whatever the dream is, it's okay.
+1278:If you really believe in me, {var:player_nickname}, then I think I can find the courage to say it...
+1279:There's something I've always wanted to do...
+1280:I want to open a shop that's more than just a store. I want it to be a "plant nursery."
+1281:I'd take in all the sick and abandoned plants and care for them until they're strong enough to find a new home with someone who truly loves them.
+1282:Just like my grandma used to do.
+1283:When I was a kid, no one knew how to take care of my grandma's bonsai trees after she was gone. My parents almost got rid of them... it was heartbreaking.
+1284:I don't want any other plant to have to go through that.
+1285:So I want to build a place like that. A home where every plant, no matter how small, gets a second chance.
+1286:I'm working hard to save up for it, but that means I have to be realistic and pass on these sick plants we just saw for now.
+1287:But if I just walk away, what's the point of my dream in the first place?
+1288:{var:player_nickname}... I feel like I'm failing before I've even started. What should I do?
+1289:I've got an idea that might work.
+1290:Forget about the money. I'll help you take care of them!
+1291:Wait, really?
+1292:You've got a lot on your plate, but you don't have to do it alone. I'll be your partner.
+1293:{var:player_nickname}...
+1294:You're totally right. I was getting so caught up in the "future" that I forgot the "now."
+1295:I've got the dream, and I've got your help. Time to stop doubting and start doing!
+1296:Let's go, {var:player_nickname}! Let's get those little ones back to the "nursery"!
+1297:After you–
+1298:It's late already! Those poor plants in the corner need us – run, run, run!
+1299:Before I can react, Hinata suddenly grabs my hand and starts running back toward the shop we just left.
+1300:You're way stronger than you look! Even if you just tried to walk out with all those plants earlier, no one could've stopped you...
+1301:Easy there, Hinata! Save some strength, or we'll be too tired to carry the plants back!
+1302:I know! Just a little longer, everyone! I'm coming for you!
+1303:Oh, you again? Did you forget something?
+1304:Phew... Please... let me... have that one!
+1305:Which one are you talking about?
+1306:I'll take those ones over there...
+1307:And I'm taking these too!
+1308:These sick ones? Are you sure? That's like... a dozen pots.
+1309:Absolutely! Please, let me give them the care they need!
+1310:W-well, I can't say no to that kind of passion. Since you're doing me a favor, I'll give you a discount. It's a pleasure doing business with you!
+1311:By the time the last sick plant was settled in the gardening club, it was already pitch black outside.
+1312:Phew... That's the last one. Everyone's in a new pot now.
+1313:That's a whole lot of plants we just hauled in...
+1314:...
+1315:Uh oh.
+1316:You're only realizing it now?!
+1317:No turning back now, Hinata!
+1318:It took four whole hours just to repot, spray, and tag everything...
+1319:And that was just the emergency stuff. We still have to check on them every single day...
+1320:{var:player_nickname}... what are we going to do? I think we bit off more than we can chew...
+1321:Don't worry. We'll do this together.
+1322:Looks like we'll need some extra hands...
+1323:Sigh... Next time, I won't get so carried away.
+1324:{var:player_nickname}... You've got to stop me if I try this again!
+1325:Sure, but I'll need to hit the gym first to be strong enough to stop you. But right now...
+1326:There's no turning back. Let's make this work, Hinata!
+1327:Really?! {var:player_nickname}, do you have a plan? Tell me!
+1328:Use that big brain of yours!
+1329:We could reach out to everyone in One Han City!
+1330:If we start a CatChat account to show everyone how to nurse plants back to health...
+1331:It would save so many plants without you having to carry them all back here!
+1332:You can't run a nursery alone. You need a whole team of "specialists" and "caretakers" out there!
+1333:I get it! You want me to teach others so they can become "specialists" at saving plants, too!
+1334:That way... we can save so many more lives than I ever could alone!
+1335:Exactly! And to make sure people see it... we might need some "professional" help.
+1336:Professional help?
+1337:Yeah, someone who's a total "mega influencer" in One Han City.
+1338:Hibiki Himekawa
+1339:My schedule is packed with fans, you know. Saying yes to you is a huge favor, so don't forget that gift you owe me!
+1340:So, is this cute little "noob" the one you were talking about?
+1341:Whoa, it's actually her... Hibiki Himekawa! Um, hi... I'm Hinata Takanashi...
+1342:Yes. We're starting a CatChat account for plant care, and we need a professional like you to give it a boost.
+1343:Seriously? My stream is a sanctuary for hardcore gaming and legit entertainment, and you want me to promote... what, gardening?
+1344:I guess that's a no...?
+1345:But, {var:player_nickname} showed me your photos. I have to admit, your photography skills and plant knowledge are "hardcore" in their own way...
+1346:So, I'll give you guys a shot. We'll do a collab stream: "Emergency Plant Rescue for My Chat"!
+1347:But if this is all just a marketing stunt and you mess up, you're gonna get roasted.
+1348:No problem!
+1349:If it's for the plants... you can count on me!
+1350:Viewer A
+1351:Help me, Doc! Is this little guy gonna make it? I can't play my games without my plant bro!
+1352:Live in Hibiki's Stream
+1353:It's leaf scorch. Did you spill soda or something in there? Plants need clean water just like we do!
+1354:Viewer B
+1355:My orchid just went totally limp. What's wrong with it, Doc?
+1356:That's stem rot. You're gonna have to do some surgery and cut away those bad parts. Trust the process. Plants are tougher than they look!
+1357:Then grab some fungicide spray from the store. Use just a little bit, nice and even. I'll write the instructions down so you can take a screenshot!
+1358:Viewer C
+1359:LMAO Hibiki is just standing there like an NPC. The fans are gonna love this!
+1360:Viewer D
+1361:This plant expert is actually legit. No wonder Hibiki recommended her.
+1362:I'm reading the chat, you know! Say another word and you're banned for life!
+1363:{var:player_nickname}! We're blowing up! Look at all these new followers!
+1364:I didn't realize there were so many plants in One Han City waiting for someone to help them.
+1365:People are even coming to adopt the little ones from the club! I'm so glad we did this.
+1366:I never could have built this huge team of plant rescuers without you, {var:player_nickname}.
+1367:Thank you for giving me the strength to follow my dream!
+1368:You're doing great, "Professor" Hinata...!
+1369:P-professor...? Oh, I still have a lot to learn!
+1370:The bunny succulent – the one that witnessed the birth of the nursery – is sitting in the sun right now. It's still a bit small, but those "bunny ears" look so cute and healthy.
+1371:Look, {var:player_nickname}! I think it's finally starting to grow!
+1372:Well, it does have the best caretaker in the world looking after it.
+1373:Stop, you're making me blush!
+1374:Hinata blushes, then seems to remember something. She gently places the little bunny succulent in my palm and picks up her camera.
+1375:{var:player_nickname}, let's take a picture for our account's profile photo!
+1376:After all, this little one saw everything from the start... and this "nursery" is something we built together.
+1377:Sure!
+1378:I'd be happy to.
+1379:Later, the CatChat named "Sprout Nursery" updated its profile picture: a photo of two hands cupped together, cradling a lovingly tended bunny succulent.
+1380:Now, in a sunny corner, that little plant is growing strong, dreaming of the next spring and all the possibilities ahead.

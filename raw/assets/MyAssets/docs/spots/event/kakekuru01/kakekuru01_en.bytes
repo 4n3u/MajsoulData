@@ -1,0 +1,58 @@
+1:……
+3:Ah... The wind is just so nice.
+4:So nice that I just want to close my eyes and enjoy it...
+9:Who's there? I was enjoying my sleep...
+10:Never mind.
+14:{character:Mary Saotome}... So noisy.
+15:{character:???}She looks conscious but hasn't fully woken up yet.
+18:Br—breathe...
+20:???
+21:{character:Mary Saotome}Hmm... Hmm...
+22:{character:Mary Saotome}Hmmmmm! I—I can't breathe!
+23:{character:Mary Saotome}Who are you?! Pinching my nose while I'm sleeping? What's wrong with you?!
+25:Mary Saotome
+27:{character:Yumeko Jabami}Ah, you're finally awake.
+28:Yumeko Jabami
+29:{character:Mary Saotome}Yumeko... Jabami?
+30:{character:Yumeko Jabami}Yep, it's me.
+31:{character:Yumeko Jabami}I wasn't the one who blocked your nose, by the way. It was the sakura petals.
+32:{character:Mary Saotome}Oh, that's why... No! Stop lying, who else except you—Eh?
+35:{character:Mary Saotome}... Uh, Yumeko, isn't there a shrine like this near the school?
+37:{character:Mary Saotome}(Forget about the shrine, sakuras aren't supposed to bloom this time of year.)
+39:{character:Mary Saotome}(We shouldn't be 'here'.)
+42:{character:Mary Saotome}(But then again, in this globalized modern world, it's not completely impossible to see such a delicate shrine outside of Japan.)
+43:{character:Mary Saotome}One, two, three, four...
+45:{character:Mary Saotome}Torii. There are too many to count. Don't tell me they also have a Senbon Torii here.
+46:{character:Mary Saotome}(That's a little more "authentic" than necessary. Where are we, anyway?)
+48:{character:Mary Saotome}If anything happened to me, it'd be because you pinched my nose. And aren't you the one who fainted out of the blue?
+49:{character:Mary Saotome}You wanted to try some authentic local cuisines and told the chef to serve you their signature Mapo Tofu. Then you passed out after the first bite with a smile on your face.
+51:{character:Mary Saotome}With that smile, you looked like you went to heaven. And as your roommate, I had to be the one to carry you back. Unbelievable...
+52:{character:???}Woof? How rare, I'm usually not expecting anyone at this point of time, woof.
+54:{character:Mary Saotome}Who's there?
+55:{character:Yumeko Jabami}He speaks Japanese. It's someone we can communicate with.
+56:{character:???}Woof, why do I sense anticipation?!
+62:{character:Mary Saotome}... Dog.
+66:Wanjirou
+71:{character:Mary Saotome}D-D-D-DOOOOOOOOG MONSTER!{var:ShakeChar}
+135:{character:Mary&Yumeko}……//n……
+136: 
+145:{character:Mary&Yumeko}Eh...//nAh.
+147:{character:???}... Mary... Mary.
+148:{character:Yumeko Jabami}Yes? What's wrong, Mary? You look confused.
+149:As Mary comes to her senses, she remembers what happened before she passed out. She and Yumeko should be on the school's field trip overseas right now.
+150:{character:Yumeko Jabami}Eh? What are you counting, Mary?
+228:Mary&Yumeko
+229:{character:Mary Saotome}... Hmm.
+230:{character:Mary Saotome}What time is it…?
+231:{character:Mary Saotome}... Never mind, I'll sleep a little longer. The alarm hasn't gone off anyway.
+232:{character:Mary Saotome}(Sakura... Petals?)
+233:Puzzled and confused, Mary looks around, with her eyes following the sakura petals. She then realizes... They are under a huge torii.
+236:{character:Mary Saotome}(No, no, no, no... What am I talking about? Aside from these trivial matters, the weirdest thing is...)
+237:Considering the destination of their trip, this Japanese-styled scene doesn't really make any sense…
+238:{character:Yumeko Jabami}But I'm so glad you woke up, Mary. I panicked when I saw you faint out of the blue like that. You scared me.
+239:{character:Wanjirou}Is it true that high school girls are into the fluffy type of guys like me nowadays? I'm nervous, woof, woof, haha!
+241:{character:Wanjirou}It's the era of the dog! My time has come, woof! I'll show up that silly cat, woof!
+242:{character:Wanjirou}Umm? What's wrong? Something on my face? Ah, did I get something on my face when I was eating?
+243:{character:Wanjirou}Woof? You have sharp eyes. Yes, I am the noble Dog—
+245:{character:Wanjirou}I'm not a monster! I'm the Dog God! Woof!{var:ShakeChar}
+247:{character:???}Eh!

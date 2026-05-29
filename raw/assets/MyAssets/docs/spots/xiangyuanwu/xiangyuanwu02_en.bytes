@@ -1,0 +1,329 @@
+1:{character:Narration}Let me ask you, when you see a book dropped on the library floor, the first thing that comes to your mind is to pick it up, right?
+2:{character:Narration}And it wouldn't be too much of a stretch to catch a glimpse of the title of the book when you do that, right?
+4:{character:player}Pineapple... Instructor, Volume 4?
+5:{character:Narration}This novel is protected by a dust jacket. However the pattern on the cover can be seen through it, because the green dust jacket has been damaged after probably being turned too many times.
+6:{character:Narration}On the cover, two handsome men are holding hands and looking at each other... What you see in their eyes is probably not friendship but a passionate emotion that makes one feel they only have eyes for each other in this life.
+7:{character:Narration}However, like I just said, I didn't pick up this book because I've been a huge fan of this "Pineapple Instructor." In fact, I've never heard of this book before.
+8:{character:Narration}I just saw it on the floor by chance when I came to the library with Mai to borrow a book.
+9:Mai Aihara
+10:{character:Mai Aihara}Master, did you find any interesting books?
+11:{character:player}No! Not at all! There are so many books in this library, haha...
+12:{character:Narration}Mai, who is at the corner, turns around. I quickly hide the book behind me, not because I am worried she will get the wrong impression because most libraries collect some recreational works, but the thing is...
+13:{character:Narration}I feel like I've seen the green dust jacket of this book before.
+14:{character:Mai Aihara}Master... If you aren't looking for anything else, I want to look for some books on gardening.
+15:{character:player}Gardening?
+16:{character:Mai Aihara}Yes. It's almost the flowering season again, and I want to grow some hydrangeas. But I realized that there are a lot of things to look out for after doing some searching on the Internet.
+17:{character:Narration}Gardening... Flowers? I know! It's the Garden Files! The dust jacket of this "Pineapple Instructor" is exactly the same as the one on the book Mai calls the "Garden Files."
+18:{character:Narration}I remember that time when I asked Mai what was in the book under that dust jacket because I was curious. She looked very flustered and vaguely said it contained gardening information.
+19:{character:Mai Aihara}M-Master? Why did you suddenly stop talking? If you think it's inconvenient, I can go by myself.
+20:{character:player}...I'll go with you. The garden of the Temple of Moons looks so beautiful that I want to contribute to it.
+21:{character:Mai Aihara}O-Okay... That's great. I thought you no longer liked me...
+22:{character:Narration}There's no way I can dislike Mai, regardless of the contents of the "Garden Files."
+23:{character:Narration}The problem is... Library books usually don't have dust jackets, let alone one that is the same style as the one on "Garden Files."
+24:{character:Narration}If the book on the ground really is the same "Garden Files"... Based on how she acted last time, she must have lied about it being gardening information because she didn't want me to know about the existence of "Pineapple Instructor."
+25:{character:Narration}I don't dare to ask her directly for confirmation because she is very sensitive. If I'm right, she might be so embarrassed that she won't talk to me for a long time.
+26:{character:Mai Aihara}Let's go. I remember the bookshelf with gardening books is at...
+27:{character:Narration}I need to think of a way to indirectly remind her she dropped something. Or maybe I can put it somewhere she can get it by herself.
+28:{character:player}Hmm... We're looking for books now, right?
+29:{character:Mai Aihara}Yes. Although I have several alternatives, I still want to search for them personally.
+30:{character:player}That's great! Let's look carefully!
+31:{character:Mai Aihara}Eh? Um... I'll do my best.
+32:{character:Narration}I have an idea. I'll put this book on a shelf with gardening books on it so that she'll find it while looking for books. If I pretend not to see anything, she should put her "Garden Files" away herself.
+33:{character:player}Ah sorry, I need to go to the toilet. Mai, can you wait a few minutes for me?
+34:{character:Mai Aihara}Sure.
+35:{character:Narration}I make a random excuse so that I can run over to the shelf with the gardening books and put the "Garden Files" there.
+36:{character:Narration}However...
+37:{character:player}Why are these shelves only marked with numbers...? Which one is the shelf that contains gardening books?
+38:{character:Narration}I've heard about a system that classifies books by numbers called Universal Decimal Classification on the Internet, but I can't remember the specific rules all of a sudden.
+39:{character:Narration}Mai is still waiting for me, so I can't waste too much time. Where should I put the "Pineapple Instructor?"
+46:{character:Narration}Based on memory, I place the book on the fourth shelf and go back to Mai.
+47:{character:Mai Aihara}Ah... This book looks quite good. Master, I've found the book I need.
+48:{character:player}...I've failed.
+49:{character:Mai Aihara}Master?
+50:{character:Narration}In the end, Mai found the book she was looking for somewhere else. I put the "Garden Files" in the wrong place.
+51:{character:player}Maybe you should find a few more books as reference materials? I remember the fourth shelf has gardening related books.
+52:{character:Mai Aihara}The fourth shelf... Based on my memory, that should be where the language books are.
+53:{character:player}I... I see... Mai, can you wait for me again? I want to find some language reference books.
+54:{character:Mai Aihara}Sure, I'll wait for you over here.
+57:{character:Narration}Based on memory, I place the book on the fifth shelf and go back to Mai.
+58:{character:player}Maybe you should find a few more books as reference materials? I remember the fifth shelf has gardening related books.
+59:{character:Mai Aihara}Most of the books on the fifth shelf are about scientific theories. I don't really understand those complicated books.
+60:{character:Mai Aihara}Master, you can take a look at them if you're interested. I'll wait for you over here.
+61:{character:player}Okay... I'll be back soon then.
+63:{character:Narration}The sixth shelf is the one with gardening books on it.
+64:{character:player}Phew... I'm quite lucky. The Universal Decimal Classification system is easy to use, but those who don't understand it will surely be confused. They should really add a tag or something as a reminder.
+65:{character:Narration}I find a conspicuous place and put the "Garden Files" there before returning to where Mai is waiting for me. On my way back, I start to have some doubts. If Mai doesn't want anyone to know about the contents of the "Garden Files," why did she bring it to the library? Isn't it bad to accidentally lose it like this? It doesn't seem like something she would do given her cautious personality.
+66:{character:player}And the dust jacket is broken too... Mai doesn't seem like someone who doesn't cherish books.
+67:{character:Narration}Before I can sort out my thoughts, I return to where I was before and see Mai reading a book in the distance.
+68:{character:player}Sorry to keep you waiting.
+69:{character:Mai Aihara}Oh... I-It's okay. I didn't notice you coming over, Master.
+70:{character:Narration}Mai is so absorbed in the book she is reading that she almost dropped the book to the ground when I gave her a fright. I saw that it is a famous collection of romantic poems.
+71:{character:player}Mai, do you usually read poems?
+72:{character:Mai Aihara}Yes, I read some... I read some when I am free...
+73:{character:player}The romantic poems in this book are quite good, and the ones about the longing for hometown and loved ones are pretty beautiful too.
+74:{character:Mai Aihara}Eh... Master, you've read this before?
+75:{character:player}The humid air in my hometown, mixed with my mother's shouts during dinner, is engraved in my childhood memories..."
+76:{character:Mai Aihara}I-I also find this verse especially beautiful!
+77:{character:player}But the poet is most famous for his romantic poems, which are quite uplifting, unlike many sad love poems.
+78:{character:Mai Aihara}Yes! Hehe, I never thought you would also like this book, Master. I'm so happy you didn't tease me about it.
+79:{character:player}Tease you?
+80:{character:Mai Aihara}Because... my classmates mocked me for reading these things when I was in elementary school.
+81:{character:player}Well... It's the nature of most girls to like romantic things. Those who mocked you about this are just crude.
+82:{character:Mai Aihara}Thank you, Master. But that's why I... I feel bad about being seen reading these things. I can only read these books secretly.
+83:{character:Narration}Mai covers her face with the book and looks timidly toward me like a little rabbit. If she feels embarrassed about being seen reading this type of book, then "Pineapple Instructor"...
+84:{character:player}Don't worry, Mai! All carefully written books have their own unique charm. I won't let anyone laugh at you!
+85:{character:Mai Aihara}Eh? O-Okay. T-Thank you, Master.
+86:{character:Narration}I can't help getting excited, which makes Mai jump up in surprise. No matter what, to protect her sensitive heart, I must help her keep the "Garden Files" a secret.
+87:{character:Narration}After that, Mai and I go to the sixth shelf.
+88:{character:Mai Aihara}Ah... Here it is.
+89:{character:player}This seems to be a book about gardening. Mai, do you want to take a look at it?
+90:{character:Mai Aihara}Eh?
+90:{character:player}Eh?
+91:{character:player}Eh? Mai... What's wrong?
+92:{character:Narration}Mai suddenly jumped away from me as if she was electrocuted, giving me quite a scare.
+94:{character:Mai Aihara}S-Sorry. I didn't... do that on purpose...
+95:{character:Narration}Seeing her blushing and apologizing with such a flustered expression made me confused by the situation. But after I saw her tightly clenched right fist, I seem to understand something. When I reached out for the book just now, I think I touched the back of her right hand by accident.
+96:{character:player}Sorry, is my hand too cold?
+97:{character:Mai Aihara}No, it isn't you. I'm just... not used to suddenly having physical contact with other people...
+98:{character:Mai Aihara}Don't misunderstand me, Master! I don't dislike you, it's just that...
+99:{character:player}It's okay. Everyone has something they aren't used to. Mai, have you found the books you're looking for?
+100:{character:Mai Aihara}Yes, I've found them.
+101:{character:Narration}She doesn't seem to have noticed the "Garden Files." How can I remind her?
+102:{character:Narration}Speaking of which... she doesn't seem to have calmed down from the earlier incident. I hope she won't react too strongly when she sees the "Garden Files" in a moment...
+103:{character:player}Huh?
+104:{character:Mai Aihara}What is it, Master? Are you searching for a book?
+105:{character:player}Oh, no... Well... Did you take something from here just now?
+106:{character:Narration}I only realized just now that the "Garden Files" is no longer where it was.
+107:{character:Mai Aihara}I've been searching over here. I haven't had time to look at the shelf over there.
+108:{character:Narration}Mai's reaction is the same way as always, so I can only try my best to pretend to be calm. But inside my heart, the disappearance of the "Garden Files" has made me feel quite uneasy.
+109:{character:Narration}I keep checking if it was stuck inside another book, and even look back to check the shelf behind it, but the book is nowhere to be found.
+110:{character:Narration}While I am looking left and right, I hear an intelligent and indifferent voice behind me.
+112:{character:Nanaha Onodera}Welcome. What book are you looking for?
+113:{character:player}Onodera?
+114:{character:Nanaha Onodera}It's been a while, Mai.
+115:{character:Mai Aihara}Miss Onodera, it's been a while. I didn't expect to run into you here.
+117:{character:Nanaha Onodera}I'm working part time here...
+118:{character:Mai Aihara}Ah, I've finished reading the book you lent to me last time.
+119:{character:Nanaha Onodera}That was quick. The sequel... I'll give it to you the next time I pass by the Temple of Moons.
+120:{character:Mai Aihara}No need, I'll get it from you next time when I return books to you. You're already lending me books, so how can I make you come to me again...
+121:{character:Narration}The two chat intimately. Nanaha Onodera is an avid reader, so their chat is all about books.
+122:{character:player}So you two are book buddies?
+123:{character:Mai Aihara}Yes, Miss Onodera recommends very interesting books.
+124:{character:Mai Aihara}Oh right! Master, weren't you looking for a book just now? Miss Onodera is working part time here. Why don't you ask her?
+125:{character:player}Well... I'll keep looking. I remember seeing the book I was looking for when I passed by earlier.
+126:{character:Nanaha Onodera}I just sorted this shelf. If you can't find it there, maybe it was in the wrong place and I've put it back where it belongs.
+127:{character:Nanaha Onodera}Do you need any help? What's the name of the book?
+128:{character:player}The name is... is... Um, I'll look for it myself.
+129:{character:Narration}Mai is right next to me, so I can't just tell her I'm looking for "Pineapple Instructor," or else she'll instantly realize she has lost her "Garden Files."
+130:{character:Nanaha Onodera}Are you familiar with the Universal Decimal Classification System? You might not be able to find it if you aren't.
+131:{character:player}Don't worry, I'm familiar with the system. So you've returned the book to the shelf of its category, right?
+132:{character:Nanaha Onodera}Yes, I remember I just sorted...
+133:{character:player}Y-You don't have to recall the names of the books! Thank you for working so hard, Onodera. I'll take care of this myself.
+134:{character:Narration}I need to get the "Garden Files" back quickly. Since "Pineapple Instructor" has been returned to its original location, which shelf should it be on according to the Universal Decimal Classification System?
+138:{character:Narration}I'm at the seventh shelf. The books here are all about art.
+139:{character:player}Oh no! I think I'm at the wrong shelf. The book isn't here.
+140:{character:Mai Aihara}Master, Onodera said she remembers which books she just sorted.
+141:{character:Nanaha Onodera}Although {var:player_nickname} said I didn't need to recall which ones, there weren't many anyway.
+142:{character:Nanaha Onodera}It was a literary work, and it's on the shelf over there.
+143:{character:Narration}After speaking, Nanaha Onodera leads Mai to the shelf. What should I do? I can't think of a reason to stop her.
+144:{character:Mai Aihara}Master, I'm also interested in the book you're looking for. Can I come and take a look too?
+145:{character:player}Um... Well...
+146:{character:Narration}Should I lie and say I need to go to the toilet again? But even if I leave, Nanaha Onodera will find the "Garden Files." I'm... out of options.
+149:{character:Narration}I'm at the ninth shelf. The books here are about history, geography, etc.
+150:{character:player}Oh no! I'm at the wrong shelf. The book wouldn't be here.
+152:{character:Narration}I'm at the eighth shelf. "Pineapple Instructor" is a novel, so it should be on a shelf with literary works... Found it! It's the damaged green dust jacket!
+153:{character:Mai Aihara}Master, Miss Onodera said she remembers which books she just sorted.
+154:{character:Narration}I quickly find the "Garden Files," but just as I'm about to take it from the shelf, Mai and Nanaha walk over suddenly.
+155:{character:Nanaha Onodera}Although {var:player_nickname} said I didn't need to recall which ones, there weren't many anyway. If I remember correctly... Oh? It looks like you've found it.
+156:{character:Narration}I didn't expect them to come here too. They can both see the "Garden Files" in the green dust jacket.
+157:{character:Nanaha Onodera}{var:player_nickname}... so you like this type of book? You have good taste.
+158:{character:Mai Aihara}It's a book that even Miss Onodera would recommend? I'm looking forward to it even more.
+159:{character:Mai Aihara}...Huh? Um... Is that... Eh?
+160:{character:Narration}Mai's innocent expression suddenly becomes stiff due to embarrassment. The corners of her mouth twitch slightly, and her eyes glaze over like she is trying to escape reality.
+161:{character:Narration}Without a doubt, she has recognized that this is the "Pineapple Instructor" she lost. I can already imagine the ensuing desperate situation...
+164:{character:Nanaha Onodera}This doesn't seem like a book from this library.
+165:{character:Narration}Nanaha Onodera will first wonder why there is a dust jacket, and she might find traces left by Mai in the book when she flips through it. Mai is an honest person, so I wouldn't be surprised if she wrote her name on the book.
+166:{character:Nanaha Onodera}Is this Mai's book? "Pineapple Instructor"... Hiding it in a dust jacket? That's a nice trick.
+167:{character:Narration}Mai is incredibly embarrassed and can't understand why the book is here. But she will soon realize the fact that I was looking for it and misunderstand my intentions...
+168:{character:Mai Aihara}Master, are you bullying me on purpose? Do you dislike me so much?
+169:{character:Nanaha Onodera}{var:player_nickname}, you're using books to bully others? That's such bad taste.
+170:{character:Narration}In my imagination, the two look at me harshly...
+172:{character:Narration}Stop right there. I'm exaggerating too much. Instead of worrying about it wildly, I should be thinking of how to fix the situation.
+173:{character:player}I'm really sorry!
+174:{character:Narration}I can only avoid the worst situation by keeping Mai's secret, so I decide to take a desperate measure by bowing my head to Nanaha Onodera and apologizing.
+175:{character:Nanaha Onodera}{var:player_nickname}, I'm a librarian, not a banker. I don't like people bowing their heads to me in apology.
+176:{character:player}I'm sorry, this is my book. I wanted to take it back secretly, but you found out about it in the end...
+177:{character:Nanaha Onodera}...Your book?
+178:{character:Narration}As soon as I say this, the two people in front of me show a look of surprise, as if they don't quite understand what I'm talking about.
+179:{character:Nanaha Onodera}You... are into this genre?
+180:{character:player}Yes, I love this book so much! I can't stop reading it after I bought it, and I carry it everywhere with me.
+181:{character:player}I accidentally brought it into the reading room when Mai invited me to come to the library today. I'm really sorry for violating the library's rules and causing you trouble.
+182:{character:Narration}I bow my head and apologize again in front of the screen that reads "Library Regulation No. 3: It is forbidden to bring your own books into the reading room!" Even I have started to believe the nonsense I'm spouting.
+183:{character:Narration}But for some reason, the astonished look on their faces is still there. They don't look convinced at all.
+184:{character:Mai Aihara}No... that's impossible. How can this "Pineapple Instructor" be yours, Master?
+185:{character:player}It's true! I love this book! I love "Pineapple Instructor!"
+186:{character:Nanaha Onodera}How surprising... I didn't realize {var:player_nickname} liked this type of taboo friendship.
+187: Girl Passing By
+188:{character:Girl Passing By}Mom! What's a taboo friendship?
+189: Girl's Mother
+190:{character:Girl's Mother}Shush! Don't look at that weirdo. Let's go.
+191:{character:Narration}So this is what committing social suicide feels like... But this shame is nothing as long as I can help Mai keep her secret...
+192:{character:player}Anyway... I brought this book to the library by mistake. Mai, you haven't seen it before, right?
+193:{character:Mai Aihara}Eh? No... Well...
+194:{character:Narration}To convince Nanaha Onodera, I keep winking at Mai to get her to support my story.
+195:{character:Mai Aihara}Master... Master, do you really like "Pineapple Instructor?"
+196:{character:player}Y-Yes!
+197:{character:Narration}However... the way she looks at me becomes even weirder after that. She doesn't look moved like she is being protected. Instead, she looks happy like she has found someone who understands her.
+198:{character:Mai Aihara}Um.. M-Master, do you only support One True Pairing or multiple pairings? What... What do you think about rival pairings?
+199:{character:player}... One True Pairing? multiple pairings? rival pairings?
+200:{character:Nanaha Onodera}Sorry, let me interject... {var:player_nickname}, can you check again that there isn't a barcode at the back?
+201:{character:Nanaha Onodera}I won't be able to explain myself to my boss if I let you treat the library's book as your own book by mistake.
+202:{character:player}Why would there be a barcode on my own book...
+203:{character:Narration}How could there be a library barcode on Mai's "Garden Files?" However, when I opened the dust jacket to check the last page...
+204:{character:player}There really is a barcode?! T-That's strange... Why is this book the only one that has a dust jacket?
+205:{character:Nanaha Onodera}Some of the older books are wrapped in dust jackets before they are put on the shelf. Only the cover of this "Pineapple Instructor" has been damaged, so it has been placed in one.
+206:{character:Mai Aihara}But why is this dust jacket the same as the one I use?
+207:{character:Nanaha Onodera}Did you forget that you recommended this type of dust jacket to me? I thought it was great, so I got the head librarian to buy some and try them out.
+208:{character:Nanaha Onodera}What a shame. People have still managed to damage it even though it is quite sturdy.
+209:{character:Narration}The library also uses dust jackets? And they are the same type as the one Mai uses? If this is all true, could it be... that everything is just a misunderstanding?
+210:{character:Mai Aihara}Then this book really is the library's property... Master, do you also use the same dust jacket?
+211:{character:Narration}It has a similar dust jacket and just happened to fall onto the ground behind Mai, causing me to mistake it for the "Garden Files."
+212:{character:Narration}All the questions in my heart have been solved. After all, someone as serious as Mai would never bring her own books to the library, let alone a book that will make her feel embarrassed.
+213:{character:player}...To tell the truth, I also use the same dust jacket at home, so I got it wrong by mistake.
+214:{character:Nanaha Onodera}Hehe... In that case, {var:player_nickname}, are you still taking this book out?
+215:{character:player}Okay... No, no! I have this one. Ahahahaha... D-Do you have the next volume? I'll take that one out.
+216:{character:Nanaha Onodera}Hehe... I'll get it for you in a moment.
+217:{character:Narration}Nanaha looks at Mai meaningfully before she walks off. Could she have seen through my act...?
+218:{character:Mai Aihara}Master, did you say this book is yours because... Thank you.
+219:{character:player}Why are you thanking me?
+220:{character:Narration}Mai seemed to be mumbling about something, but I was still feeling relieved after the false alarm that I didn't hear her properly.
+221:{character:Mai Aihara}No... I-It's nothing.
+227:{character:Mai Aihara}Master, please leave the books anywhere you like.
+228:{character:player}Okay, I'll leave them on this coffee table then. Ahaha...
+229:{character:Narration}We are both out of breath when we get back to the shrine. I didn't expect books to be so heavy. Even though we both carried half, we still had to rest several times on the way back.
+230:{character:player}I can finally relax. This trip to the library ended up being so complicated.
+231:{character:Mai Aihara}It must have been hard on you, Master. It was all because of me that you were misunderstood like that...
+232:{character:Narration}Maybe it's because of her training as a priestess, but Mai isn't as weak as she looks. On our way back, she kept asking me about the truth of the library incident despite the fatigue from carrying the books. The lame story I came up with at the beginning couldn't fool anyone... In the end, I confessed everything to her.
+233:{character:Mai Aihara}Master, I was completely oblivious even though you did so much for me... Thank you.
+234:{character:player}You've been thanking me the entire way back. Let's just forget it. This was a misunderstanding, and instead of being helpful, my actions caused a commotion.
+235:{character:Mai Aihara}That's not true. Master, you've helped me a lot. If you weren't there, I would have...
+236:{character:player}You would have?
+237:{character:Mai Aihara}N-Nothing... I just want to know. When you... When you thought that book was the "Garden Files," did you make fun of me?
+238:{character:Narration}Mai keeps hesitating. Suddenly, her face turns red when she thinks of something. She lowers her head vigorously and tries to look up at the same time, revealing a timid expression that makes her look like a little rabbit.
+239:{character:Narration}My heart immediately softens, and I can't help but respond to her in a more serious and gentle way.
+240:{character:player}Don't worry, I'll never make fun of Mai.
+241:{character:player}Just like that collection of romantic poems. Even if "Pineapple Instructor" isn't for everyone, as long as it was written with heart, some readers will definitely be moved by it.
+242:{character:player}So when I thought it was your book, I just hoped... that you won't feel embarrassed because the book was exposed in front of everyone.
+243:{character:Mai Aihara}Ah... Thank you, Master! I'm... really happy to hear you say that...
+244:{character:Narration}Mai looks even more embarrassed after hearing my words. She is smiling happily, but she doesn't dare to raise her face to look at me.
+245:{character:Mai Aihara}Oh... I'll make you some tea now. It won't take long... Ah!
+246:{character:Narration}It turns out that walking with your head down and not looking ahead really is dangerous. The shy Mai tries to escape to the kitchen, but she bumps into the bookshelf at the door when she turns around and is about to fall.
+247:{character:player}Watch out!
+248:{character:Narration}I reach out to pull her in a hurry, only to pull her in right in front of me because I used too much strength.
+249:{character:player}Eh?
+249:{character:Mai Aihara}Eh?
+250:{character:Narration}I quickly support her by the shoulders to prevent her from directly colliding with me. After that, I recall the scene in the library. I remember that she isn't very used to being touched by other people.
+251:{character:player}Are you okay? Um...
+252:{character:Narration}Oh no! Although I didn't really have a choice because of the situation, I still got too close to Mai. She jumped up in fright when my finger touched her before. Now that we're in this position... I can't imagine how big her reaction will be.
+253:{character:Mai Aihara}...Thank you, Master. I'm... okay now.
+254:{character:Narration}Just before I decide to let go of her, Mai stands up on her own and thanks me.
+255:{character:player}Ah, as long as you're okay.
+256:{character:Narration}To my surprise, she doesn't have any reaction. She just walks past me slowly and adjusts her clothes silently.
+257:{character:Mai Aihara}I'll go and make some tea then. Thank you, Master...
+258:{character:player}O-Okay...
+259:{character:Narration}Only the blush on her face has not dissipated.
+260:{character:player}...How strange... Is she no longer afraid of being touched?
+261:{character:Narration}When we were at the library before, Mai panicked when I touched her hand. How can she be so calm now? The only thing that happened since then was the "Pineapple Instructor" incident...
+262:{character:player}Hmm... That shouldn't be the reason. I already explained that it was a misunderstanding. I should just sit down and wait for her to come back with the tea.
+263:{character:Narration}I start to pick up the items that fell off the bookshelf and return them to their places. However, when I bent down to pick up the items on the ground, I see an opened book on the ground... The header of the paper says: "Pineapple Instructor, Volume 3."
+264:{character:Narration}I pick up the book and flip through it. It has that familiar cover and green dust jacket. The events that just took place in the library are revived in my mind again.
+265:{character:Narration}Why did a book fall to the ground where Mai was walking? Why did she look so panicked? Why did she keep asking me about my attitude towards "Pineapple Instructor?"
+266:{character:Narration}All these questions in my head lead me to the truth—
+267:{character:Narration}Volume 4 of "Pineapple Instructor" is the sequel to the "Garden Files" that Mai wanted to borrow from the library but accidentally dropped on the floor. Mai likes "Pineapple Instructor" but doesn't dare to tell others, which is why she was so nervous when she saw me take out the book and kept testing me on what I thought about the book.
+268:{character:player}Everyone, what do you think? I, {var:player_nickname}, made the above deduction based on one book that fell on the ground.
+269:{character:Narration}After playing a reasoning game in my head for a while, I figure the tea is almost ready, so I put the scattered books back on the bookshelf and pretend that nothing happened.
+270:{character:Narration}The "Garden Files" is Mai's secret. I'll keep this secret for her until she wants to talk about it herself.
+271:{character:player}The truth isn't really that important sometimes.
+273:{character:player}...Speaking of which, One True Pairing, multiple pairings, rival pairings... What do they mean? Should I learn more about this type of thing to understand Mai better?
+274:{character:Narration}I turn on my computer and enter those curious keywords in the search engine...
+275:{character:Narration}I opened the door to a new world on that night.
+279:{character:Narration}I miscalculated. I didn't think I would put it on the wrong shelf. I have to get the "Garden Files" back.
+280:{character:player}Huh? This is strange... I'm sure I put the book here earlier.
+281:{character:Narration}I return to the place where I put the book only to find "Pineapple Instructor" isn't there.
+282: Librarian
+283:{character:Librarian}Are you looking for a book? I just sorted this shelf and moved the books that are in the wrong category somewhere else.
+284:{character:player}Eh? But a private belonging of mine was on that shelf.
+285:{character:Librarian}A private belonging? Are you referring to... a book?
+286:{character:Narration}The librarian before me suddenly frowns. She props up her glasses with her hand and then points right at the electronic screen in the direction of the hall with a finger as straight as a pointer.
+287:{character:Librarian}Library Regulation No. 3: It is forbidden to bring your own books into the reading room!
+288:{character:player}I-I'm sorry! I'll be careful next time. But for now... I just want to find my own book.
+289:{character:Librarian}It should be kept under custody if it is a personal belonging. Come with me.
+290:{character:Narration}Afterwards, the stern but warm-hearted librarian took me with her to ask around, but everyone said they had not seen any missing books.
+291:{character:Narration}Because I have already spent a lot of time, I decide to go back to Mai first in case she starts getting worried about me. I will search for the "Garden Files" later.
+293:{character:Narration}However, I never got the chance to act alone before we returned to the Temple of Moons.
+294:{character:player}Okay, I'll leave it on the coffee table then. Hehe...
+295:{character:Mai Aihara}It must have been hard on you, Master. It's all because I took out so many books.
+296:{character:player}It's alright. Well, I still have something to do, so I need to leave first...
+297:{character:Mai Aihara}Leave? Right now?
+298:{character:Narration}Mai still hasn't realized that her "Garden Files" is missing. I feel guilty about keeping this from her, but it's more important right now to get back to the library as soon as possible to find it.
+299:{character:player}It won't take long. I'll be back very soon.
+300:{character:Narration}The "Garden Files" must still be in the library. The crisis will be averted if I can get it back in time and put it on the shelf in the living room.
+301:{character:Narration}I observe the bookshelf as I think to myself. You can tell by the wide variety of books on it that Mai really likes to read.
+302:{character:Narration}On the bookshelf is a book with a green spine. At first, I thought it was just a book that looked similar to the "Garden Files," but then I saw the words "Garden Files" written on the side with a marker pen.
+303:{character:Mai Aihara}Okay, I understand. But Master, would you like to drink a cup of tea before you leave?
+304:{character:Narration}I take two steps closer to observe it carefully while pretending that nothing is happening. In the end, I confirm that this is indeed the "Garden Files" I saw before.
+305:{character:player}...Now that I think about it, I'll go there some other day.
+306:{character:Mai Aihara}Eh? Are you not leaving now?
+307:{character:player}Yea, I've decided to stay and have a cup of tea. Is that okay, Mai?
+308:{character:Mai Aihara}Of course. Please give me a moment.
+309:{character:Narration}I also feel relieved as I watch Mai runs happily to the kitchen. My conclusion is that the book that I picked up at the library is probably not the "Garden Files."
+310:{character:Narration}Now that I think about it, that was just a library book that fell behind Mai and had the same dust jacket as the "Garden Files." I jumped to conclusion when I decided it was Mai's book.
+311:{character:player}The matter is sorted out now since I don't need to go back to the library. I should read a book and take a break for a while.
+312:{character:Narration}With that thought in mind, I pick up a book that we just took out and start reading it.
+315:{character:Narration}Unable to think of any other ideas, I follow Nanaha Onodera to the bookshelf where the novels are placed.
+316:{character:Mai Aihara}I can't wait to see the book Master likes.
+317:{character:Narration}The longer I look at Mai's smiling face, the greater the despair in my heart. I'm even on the verge of seeing hallucinations—
+318:{character:Nanaha Onodera}Oh? This doesn't seem like a book from this library.
+319:{character:Narration}Once she finds the "Garden Files," Nanaha Onodera will wonder why it has a dust jacket, and then she might find traces left by Mai in the book when she flips through it. Mai is an honest person, so I wouldn't be surprised if she wrote her name on the book.
+320:{character:Narration}Mai will be incredibly embarrassed and won't understand why the book is here. But she will soon realize the fact that I was looking for it and misunderstand my intentions...
+321:{character:player}F-Found it! This is the book I've been looking for!
+322:{character:Narration}I can only prevent the situation from getting worse by keeping Mai's secret. With my quick wits, I pull a random book with a green cover from the shelf.
+323:{character:Mai Aihara}This... This is the book you like, Master?
+324:{character:player}Y-Yes! I like this book, "I'm a Novice With S-level M-Magic Skills who Finally Became the Strongest Hero A-After Becoming a Warrior..."
+325:{character:Narration}What is this title? "I'm a Novice With S-level Magic Skills who Finally Became the Strongest Hero After Becoming a Warrior but was still Killed by the Demon King With One Blow." I can't even read the whole thing in one breath.
+326:{character:Nanaha Onodera}{var:player_nickname}, the fans call this book "Magic S".
+327:{character:player}Is that so? I... I love "Magic S!" It's great stress relief, and reading it before going to bed really helps me with my sleep.
+328:{character:Mai Aihara}I... I see... Although the title is a little long, the characters on the cover look quite cute.
+329:{character:player}Yes! I've found the book I'm looking for. Thank you, Onodera.
+330:{character:Narration}For a moment, I thought Mai saw through me, but Mai doesn't seem to suspect a thing. The "Garden Files" shouldn't be found for now.
+331:{character:Nanaha Onodera}You're quite lucky. "Magic S" is quite popular, and this book was just returned not too long ago.
+332:{character:player}It's really that popular?
+333:{character:Nanaha Onodera}Is this really the book you're looking for?
+334:{character:Narration}Oh no!
+335:{character:player}I-Is there a problem?
+336:{character:Nanaha Onodera}...Nope. I'll help you check out the book. Just come over to claim it from the management desk later.
+337:{character:Narration}Surprisingly, Nanaha Onodera, who should have seen through my lie, has decided to turn a blind eye.
+338:{character:Narration}With that, I'm lucky enough to help Mai keep her secret, but I also have to leave the "Garden Files" in the library for now.
+339:{character:Narration}Soon after that, Mai and I carry all the books we borrowed from the library to the Temple of Moons.
+340:{character:player}It's alright. Well, I still have something to do, so I need to leave first...
+341:{character:Narration}The "Garden Files" is still in the library. The crisis will be averted if I can get it back in time and put it on the shelf in the living room.
+342:{character:Narration}Now that I think about it carefully, that was just a library book that fell behind Mai and has the same dust jacket as the "Garden Files." I jumped to conclusion when I decided it was Mai's book.
+343:{character:Narration}With that thought in mind, I pick up a book that we just borrowed and start reading it.
+344:{character:player}Eh? This book is...
+349: 
+354:{character:Narration}...Oh, it's you again!
+355: "I'm a Novice With S-level Magic Skills who Finally Became the Strongest Hero After Becoming a Warrior but was still Killed by the Demon King With One Blow"
+357: Put it on the fifth shelf
+358: Put it on the sixth shelf
+359: The eighth shelf
+360: The ninth shelf
+361:  
+362: Put it on the fourth shelf
+363: The seventh shelf
+364: What I'm imagining—
+365: Reality—
+366: Narration
+367:player
+368: Nanaha Onodera
+369:{character:Narration}I take two steps closer to observe it carefully while pretending that nothing is happening. In the end, I confirm that this is indeed the "Garden Files" I saw before.
+370: Soon after, Mai and I find all the books she wanted to borrow and return to the Temple of Moons.

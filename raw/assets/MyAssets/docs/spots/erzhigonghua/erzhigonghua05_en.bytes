@@ -1,0 +1,341 @@
+1:player
+2:{character:player}Ah... It's a little hot today, but it's such a nice day for plants to soak up the sunlight.
+3:After the midterm exams, the clubs of Asaha High School gradually resumed their activities one after another, and the gardening club Hana Ninomiya is in is no exception.
+4:To prepare for the exams, Hana Ninomiya has only been taking basic care of the plants during this time and has left all the remaining miscellaneous chores until this weekend. After hearing about this, I decide to come help her because I feel it'll be difficult for her to do everything alone.
+5:Nana Shiraishi
+6:{character:Nana Shiraishi}Junior, have you already finished moving all the potted plants on that side? You're quite quick.
+7:Other than me, Nana Shiraishi, who likes to pay visits to various clubs, also volunteered to come and help. The thing is, I found out after starting that the club has more potted plants than I expected, so her help is really appreciated.
+8:{character:Nana Shiraishi}Where's Hana? Why isn't she here?
+9:{character:player}She said some tools have been damaged, so she's gone out to buy new ones.
+10:{character:Nana Shiraishi}I've finished moving everything on my side too. Let's rest for a while and wait for her to come back. Ah, I'm all sweaty now.
+11:Hana Ninomiya
+12:{character:Hana Ninomiya}I'm back.
+13:While we chat, Hana Ninomiya returns with a plastic bag in her hands. She pulls a bottled drink out of the bag and hands it to Nana Shiraishi.
+14:{character:Hana Ninomiya}Thanks a lot, Nana. Have a drink.
+15:{character:Nana Shiraishi}Thanks, Hana! I'm so thirsty right now.
+16:{character:Hana Ninomiya}It's strange how you're thanking me even though you're the one helping me.
+17:{character:Nana Shiraishi}Oh, you're right. Um, it doesn't matter! These details aren't important anyway. By the way, Hana, you're not treating me like a friend! How can you ask someone who doesn't even go to our school for help first when you need manpower?
+18:{character:Hana Ninomiya}Well, you're always busy helping out at so many different clubs, so I thought it would be better to let you get some rest on the weekend.
+19:{character:Nana Shiraishi}Hmph! You're underestimating my stamina! The busier I am with activities, the more energetic I get! In fact, I'll probably go rusty if I laze around at home. I need to keep myself busy every day so that I can be a bright and beautiful high school girl for even longer!
+20:{character:player}I understand the theory, but you'll only buy yourself more time until you graduate from high school.
+21:{character:Nana Shiraishi}You don't get it. The important things are your temperament and spirit! Just like how a man will always be a child at heart, Nana Shiraishi will always be a high school girl!
+22:{character:Hana Ninomiya}Does that mean I'm the type of person who will get old really quickly? After all, I like to stay indoors...
+23:{character:Nana Shiraishi}No way! Hana, you definitely get enough exercise from taking care of so many potted plants alone.
+24:{character:Nana Shiraishi}But if you're worried, would you like to go jogging with me in the morning tomorrow?
+25:{character:Hana Ninomiya}Maybe not. I prefer to keep myself young by getting enough sleep every day.
+26:Although Hana Ninomiya always says she is an invisible person, there are still people who care about her and get along well with her. I feel relieved that she isn't especially lonely at school.
+27:{character:Hana Ninomiya}{var:player_nickname}, this bottle of water is for you.
+28:{character:player}I won't say thanks in case you say I'm strange too.
+29:{character:Hana Ninomiya}I won't object if you do thank me.
+30:{character:player}Wow... What's with the discrimination? Not only do you want me to thank you, but you didn't even say thanks to me like you did to Nana. I'm so hurt.
+31:{character:Hana Ninomiya}I've already expressed my thanks by giving you a drink. You even made such a troublesome promise, so today's matters are nothing compared to that.
+32:Such a troublesome promise? Oh, could she be referring to what I said about not letting her have a "lonely death"?
+33:{character:Nana Shiraishi}Sniff, sniff... I smell some gossip.
+34:{character:Nana Shiraishi}A troublesome promise, huh? Hey, is it just me, or do you seem a lot closer to our junior here recently? Is it because you two have a promise you can't share with anyone else?
+35:{character:Hana Ninomiya}I-It's not a big deal. You two should get some rest while I get to work.
+36:After speaking, Hana Ninomiya runs away to the potted plants in the distance with reddened ears.
+37:{character:Nana Shiraishi}Ah, she ran away! In that case, I'll need you, the only other person who knows what happened, to answer my question.
+38:{character:player}Do you think I'll tell you anything?
+39:{character:Nana Shiraishi}What?! You won't?!
+40:{character:player}What makes you think I will...
+41:{character:Nana Shiraishi}Our friendship, of course! Well, I'll share a piece of good news with you, my good friend - our school will be holding the school festival soon.
+42:{character:player}Oh, now that you mention it, the school festival really is almost upon us.
+43:Asaha High School holds its school festival after the midterm exams in the second half of the school year every year. They say it's so that students can relax and have fun, but it's also held for adult reasons like showing the school's culture to the outside world, so it is often very lively.
+44:{character:player}Based on your tone, is there something special about this year's school festival?
+45:{character:Nana Shiraishi}Hehe... Junior, aren't you at all curious about the theme of our class activity?
+46:{character:player}Since you're making it sound so mysterious, it would be rude not to ask. Can you please tell me the theme of your class activity, Nana-senpai?
+47:{character:Nana Shiraishi}You'll have to tell me the promise between you and Hana first.
+48:{character:player}Oh, then you don't need to tell me. I'll ask Ninomiya about it.
+49:{character:Nana Shiraishi}Eh! No, don't ask her! Come over here.
+50:Nana Shiraishi quickly drags me back to my original position after seeing me starting to get up, then she looks at where Hana Ninomiya is.
+51:{character:Nana Shiraishi}We'll be performing a stage play this time, and the original work our script is based on is a novel called "The House of Music." Have you heard of it before?
+52:{character:player}It sounds familiar. What about it? Since you stopped me from asking Ninomiya about it... will she be performing on stage?
+53:{character:Nana Shiraishi}The registration time for performers will be at our class meeting in two weeks. After all, we need to apply for a venue and wait for the student council to approve our application.
+54:{character:Nana Shiraishi}Before all that happens, I want to ask you to find out if Hana is interested. If she is, please persuade her to register.
+55:{character:player}I can do that, but why get me to do it? Isn't it faster and more efficient if you talk to her directly?
+56:{character:Nana Shiraishi}Well, I asked her, and she said she doesn't intend to perform.
+57:{character:Nana Shiraishi}That's what she said, but I clearly saw her eyes light up when I announced the name of the stage play. And when she noticed that I was looking at her, she turned around and pretended to be admiring the scenery. Her reaction is super suspicious.
+58:{character:Nana Shiraishi}What's more, she has been reading the novel the stage play is based on from time to time recently, so I've been wondering if she has started to change her mind and just hasn't made a decision yet. Maybe she'll be willing to go on stage if you encourage her!
+59:{character:player}...Okay, I'll ask her afterwards.
+60:"Liking the original work is one thing, but performing on stage is another." Although I want to say that, if Hana Ninomiya really does want to perform, it would be a shame if she misses out on this opportunity. Maybe she really will make up her mind to perform if someone encourages her.
+61:{character:Nana Shiraishi}I'll leave it to you then, but you need to be quick. If Hana hasn't made up her mind by the day the registrations start, she might not be able to play the role of the character she likes.
+62:{character:Nana Shiraishi}I need to help out at some other clubs now, and I've already told Hana. If I finish up early over there, I'll come back later to help you move the potted plants back.
+63:{character:player}Sure, see you later.
+64:{character:Nana Shiraishi}(loudly) Hana, I'll be going now!
+65:Hana Ninomiya raises her head and waves goodbye in response to Nana Shiraishi's words.
+66:Now that Hana Ninomiya and I are the only two people left in the courtyard, I'll have a chat with her about participating in the stage play while we work.
+67:After resting for a while, I walk over to Hana Ninomiya and see her moving a potted plant toward the club classroom.
+68:{character:player}Is it already time to move the potted plants back inside?
+69:{character:Hana Ninomiya}Just this one. It's really sunny today, and this moth orchid can't be exposed to too much sunlight, so I'm moving it to another place.
+70:{character:player}Oh! Are there any other plants that need to be moved?
+71:{character:Hana Ninomiya}Move the pot of red Rieger begonia next to your right foot here for me too. That one also can't be exposed to too much sunlight, and it was watered not too long ago, so it might get in the way when it's time to water all the potted plants together later.
+72:{character:player}Don't people say that it's better to water plants every day in summer?
+73:{character:Hana Ninomiya}It's very easy for the roots of Rieger begonias to rot if they are watered too often. Three times a week is about right in summer.
+74:{character:player}I see...
+75:Under Hana Ninomiya's guidance, I water and fertilize the potted plants in an orderly manner. During the process, I notice that many plants in the gardening club need to be cared for in particular ways. Moreover, Ninomiya actually remembers the key points for caring for each plant.
+76:{character:player}You're like a moving plant encyclopedia. I would be so flustered if I had to take care of so many plants.
+77:{character:Hana Ninomiya}I've just gained experience naturally after taking care of them for so long. These flowers are blooming so well now, but you have no idea how many of them I've killed up until now.
+78:{character:Hana Ninomiya}I have a good memory, but it's completely different when you actually need to put what you know into practice. Isn't there a saying along the lines of "knowing is one thing, and doing is another"?
+79:{character:player}Even so, it's amazing that you can take care of so many potted plants by yourself. Why don't you choose some varieties that are easier to care for? It'll make your work easier.
+80:{character:Hana Ninomiya}It's a lot of work to take care of them, but you get such a great sense of accomplishment when you see humble seeds bloom into gorgeous flowers, right? Club activities would be so boring if I just fertilize and water plants mechanically.
+81:{character:player}Haha, good point. A bright and beautiful high school girl needs to experience some challenges and troubles in everyday life to become more energetic.
+82:"Humble seeds bloom into gorgeous flower"... Isn't that a good description of Hana Ninomiya right now? Her magnificence at the mahjong table makes her no less gorgeous than these flowers.
+83:If she gets the chance to act in a stage play she likes, maybe she will also shine as brightly as she does when playing mahjong. When I think of this, I get more excited about seeing Hana Ninomiya perform on stage.
+84:{character:Hana Ninomiya}We can start moving the potted plants back after another half an hour. Thanks for the hard work. I'll read a book while I rest now. {var:player_nickname}, you can go first if you have something to do. I can move them slowly by myself.
+85:Hana Ninomiya pulls out a book from her bag and sits on a stone chair. I glance at the cover and see that this book is "The House of Music", which Nana Shiraishi mentioned.
+86:{character:player}Nana told me that your class will be performing a stage play for the school festival.
+87:{character:Hana Ninomiya}Yeah. If you want to watch it, {var:player_nickname}, I can get you a good seat on the day.
+88:{character:player}Thanks in advance. By the way, is the book you're holding the original work the stage play's script is based on?
+89:{character:Hana Ninomiya}Yes. It's a story with a happy atmosphere, and it's quite suitable for a stage play performance during the school festival.
+90:{character:player}I see. About this stage play...
+91:{character:Hana Ninomiya}I won't be taking part in it.
+92:{character:player}Eh? I-I haven't said anything yet.
+93:{character:Hana Ninomiya}Didn't Nana ask you to persuade me to participate in the stage play?
+94:{character:player}...Is it that obvious?
+95:{character:Hana Ninomiya}Nana kept looking in my direction when she was talking to you over there, and now you're asking me about the stage play. Well, isn't it obvious then? As Jane would say, "this is just a reasonable inference based on the evidence at hand."
+96:{character:player}As expected of an informant of a great detective. I can't hide the truth from you. It's not often that you get to act in a stage play you like. Ninomiya, don't you want to perform on stage?
+97:{character:Hana Ninomiya}Liking the original work is one thing, but wanting to perform on stage is another.
+98:That's what I thought earlier too... Just as I decide to tell Nana Shiraishi later that she's thinking too much, the words Hana Ninomiya whispers under her breath change my mind.
+99:{character:Hana Ninomiya}(whisper) Why waste time on something that is impossible...
+100:I recall that Hana Ninomiya once performed in a stage play when she was in elementary school. At that time, she signed up to play the part of the female lead but failed to get the part. Is she still feeling sad about that failure?
+101:{character:player}Will you really not register for a part? The fact that Nana and I are both trying to persuade you shows that we think you can do it. Go give it a try.
+102:{character:Hana Ninomiya}Thanks for believing in me, but I don't believe in myself. Anyway, let's not talk about this. I know the outcome better than anyone else.
+103:{character:player}Okay then... But it isn't like you at all to give up just like that without trying.
+104:{character:Hana Ninomiya}...There's something I need to do, so I need to go now. You should go too. I'll come back later to move the potted plants, so you don't need to worry about them.
+105:{character:player}Huh? So suddenly? W-Wait up! Ninomiya!
+106:Hana Ninomiya suddenly makes a sullen expression while we are chatting and leaves without looking back. She doesn't stop no matter what I shout out behind her.
+107:{character:player}I... Did I say something that made her angry?
+108:I wait for a while, but Hana Ninomiya doesn't come back, so I can only go home first.
+109:After returning home, I call Nana Shiraishi and tell her about the unhappy conclusion to my conversation with Hana Ninomiya in the afternoon.
+110:{character:Nana Shiraishi}So something like that happened. I was wondering why you left Hana all alone there.
+111:{character:Nana Shiraishi}I'm sorry! It's my fault that Hana is unhappy with you now. I'll buy you a drink another day.
+112:{character:player}Don't say that. I'll also apologize to her properly later on.
+113:{character:Nana Shiraishi}I guess so. Hana isn't a petty person. I'm sure you'll be able to reconcile if you explain things to her.
+114:{character:Nana Shiraishi}But I just don't get it. Hana keeps saying that she wants to make herself more noticeable, so isn't this stage play a good chance to do that? Why won't she give it a go?
+115:{character:Nana Shiraishi}And based on what you said about the afternoon, I get the feeling that Hana isn't simply unwilling to take part in the stage play. It sounds like she is resisting it emotionally.
+116:{character:player}I got the same feeling too. She is really negative about this. Maybe there's something other than her failure to get the part of the female lead that we don't know about. If we can solve this problem... maybe she will be willing to go on stage.
+117:{character:Nana Shiraishi}Of course, this is just a speculation.
+118:{character:Nana Shiraishi}...Okay, coming! My little brother wants me to teach him how to do his homework, so I'll hang up now.
+119:{character:player}Sure, good night.
+120:Nana Shiraishi's energetic voice disappears after the phone call ends. My room becomes quiet again, but I can't seem to calm down.
+121:{character:player}I just can't stop thinking about it... Is it true that Ninomiya doesn't want to try again after just one failed attempt?
+122:{character:player}Is there anyone who knows Hana Ninomiya well who can give me some advice?
+123:After thinking about it for a while, I decide to call Jane, who often asks Hana Ninomiya to help her with detective work, to see if this great detective can deduce anything.
+124:Jane
+125:{character:Jane}...Assistant, you should ask a telepath about this instead of asking me.
+126:{character:Jane}Detectives aren't gods. Reasoning requires basic deduction. Don't tell me you think detectives are able to know the whole story after getting a flash of inspiration like in manga?
+127:{character:player}Isn't that the case?
+128:{character:Jane}Apologize to me now! Apologize to me and my grandmother now!
+129:{character:player}Sorry, that was rude of me. Well... in your conversations with Ninomiya, have you ever noticed anything related to this?
+130:{character:Jane}No. Ninomiya and I only talk about things related to cases and school. She rarely talks about herself.
+131:{character:player}Sigh... I guess there's nothing I can do about it then.
+132:{character:Jane}That's not necessarily the case.
+133:{character:player}Oh?! Grandmaster! What advice do you have for me? I'll make notes now.
+134:{character:Jane}Although it might be strange to hear this from a detective like me, there are some truths that you don't need to know.
+135:{character:Jane}For example, your feelings about wanting her to grasp this opportunity may not necessarily be correct. You think you're encouraging her with good intentions because you're assuming she wants to perform, but what if that's not the case?
+136:{character:player}...You make a good point. Maybe we said a lot of things that burdened her with our wishful thinking about wanting her to perform on stage.
+137:Like what Jane said, the truth isn't important. If Hana Ninomiya doesn't want to perform on stage, why must I find out the reason to persuade her to do so?
+138:{character:Jane}Anyway, you'd better apologize to Ninomiya properly after this and reconcile with her, or else I won't be able to get you two to complete tasks for me as a team. However, I do wonder why Ninomiya doesn't want to perform.
+139:{character:player}Didn't you just tell me not to dig into that...
+140:{character:Jane}It's a detective's instinct to be interested in mysteries. Didn't you say that Ninomiya has been reading the novel the stage play is based on? That means it's possible that she really does want to perform on stage, just that something is preventing her from making up her mind.
+141:{character:Jane}I'll think about it when I don't have any cases to investigate, and I'll tell you if I think of anything.
+142:{character:player}I'll be looking forward to your reply then, great detective.
+143:After hanging up, although I had already decided to stop investigating the reason why Hana Ninomiya doesn't want to perform on stage, the last thing Jane said before hanging up makes it impossible for me to completely let go of this matter.
+144:If Hana Ninomiya really wants to perform, would she have new regrets if she misses out on this opportunity?
+145:I... Is there anything I can do?
+146:I remember that Kana Fujita and Hana Ninomiya were classmates in elementary school. Maybe she knows something.
+147:Kana Fujita
+148:{character:Kana Fujita}{var:player_nickname}, why did you suddenly think of calling me?
+149:{character:player}There's something I want to ask you. It's like this...
+150:I tell Kana Fujita about the stage play and Hana Ninomiya's refusal to perform on stage. After that, she asks me a question instead.
+151:{character:Kana Fujita}Is it possible that the stage play Hana's class is performing is "The House of Music"?
+152:{character:player}Did Nana Shiraishi already tell you this? I don't think I mentioned what stage play they would be performing.
+153:{character:Kana Fujita}I knew it... No wonder Hana is so against it. She might perform if it's any other stage play, but she probably won't if it's "The House of Music."
+154:{character:Kana Fujita}{var:player_nickname}, you know that Hana and I performed in a stage play when we were in elementary school, right?
+155:{character:player}Yeah, that's why I called you... Wait a minute, don't tell me...?
+156:{character:Kana Fujita}Yes, our class also performed "The House of Music." Hana really wanted to play the part of the female lead, but everyone ignored her, and she ended up playing the part of a tree in the background.
+157:{character:Kana Fujita}Although she won an award for working hard, that's definitely not a pleasant memory. I even congratulated her thoughtlessly at the time... Luckily, Hana didn't ignore me because of this incident.
+158:{character:player}...If that's true, then it's normal for her to not want to perform in the stage play.
+159:{character:Kana Fujita}Although I also want to see her active on the stage, it's better not to force her if she doesn't want to.
+160:{character:player}You're right. Thank you for telling me all this.
+161:{character:Kana Fujita}You're welcome. I've still got work to do, so let's talk again another time.
+162:{character:player}Sure, let's play mahjong together when you're free.
+163:Her class is finally performing a stage play again after so many years, but it happens to be the same play. I wonder how Hana Ninomiya felt when she found out about this coincidence that day.
+164:Was she unable to accept what happened? Or... Well, regardless of how she feels about it, the things I said during the day were thoughtless and offensive. In fact, I would like to call her now and apologize to her if it's possible.
+165:{character:player}...I better apologize to her properly in person.
+166:As for the stage play... Like what Kana Fujita said, it's best if we don't force Hana Ninomiya in case we make her relive some unpleasant memories.
+167:{character:player}But is it really best to just let things end like this...
+168:I decide to call Ren Kisaragi. I hear that his list of problem children not only has their names but also various information about them. Maybe I'll find some clues there.
+169:Ren Kisaragi
+170:{character:Ren Kisaragi}Yes, I did investigate those problem children because they kept breaking the school rules.
+171:{character:Ren Kisaragi}But this concerns the privacy of the school's students. Do you think I will tell non-school personnel this information?
+172:{character:player}I don't think you will.
+173:{character:Ren Kisaragi}I'm busy over here, so I'll hang up now if you don't have anything else to say.
+174:Ren Kisaragi hangs up the call before I can reply. It looks like he is quite busy.
+175:Okay, I don't think that will work. Is there anyone else I can ask?
+176:The next weekend, I go to the courtyard of Asaha High School and find Hana Ninomiya tending to the plants busily as I expected.
+177:{character:Hana Ninomiya}You... Why have you come?
+178:{character:player}I've come to help. Your enthusiastic classmate Nana said she will be going out to have fun with her family, so I thought you would need some help.
+179:{character:Hana Ninomiya}...How are you so sure that I'll be here? Aren't you worried that you'll come here for nothing?
+180:{character:player}According to my calculations, it should almost be time to water the Rieger begonia. Also, since the weather is good today, I was thinking that you would probably want to move the potted plants outside so they can soak up some sunlight.
+181:{character:player}I'll go water the flowers now... Oh right, it's quite sunny right now, so I'll move these flowers to a shady place since they can't handle too much sun.
+182:{character:Hana Ninomiya}Okay. I'm so envious of your learning ability. You remembered all the key points even though I only told you once.
+183:{character:player}That's not entirely true. These last few days, I've been reading up on ways to take care of flowers and plants on the Internet whenever I have time. Since I want to help you, it would be more efficient if I knew these key points.
+184:{character:player}I'm doing okay now, but I might forget some details once it starts to get busy. But you did say that the more plants you take care of, the more experienced you'll become, so I'll definitely be able to do better if I put more thought and effort into it.
+185:{character:Hana Ninomiya}That's true, but there are things that can't be achieved even if you put in thought and effort...
+186:Hana Ninomiya still seems to be a little depressed. Fortunately, things haven't gotten awkward between us after the unhappy end of our conversation the other day.
+187:After toiling about for a while, we decide to take a break. Hana Ninomiya finds a place to sit down and starts reading, but she isn't reading "The House of Music" today.
+188:{character:player}Have you already finished reading the book from last time?
+189:{character:Hana Ninomiya}Yes, so I didn't bring it with me today. I've actually read that book several times already, and I just suddenly felt like reading it that day...
+190:Hana Ninomiya covers her face with the book, and I vaguely hear her whisper, "It's in the past now..." It's obvious that she wants to avoid this topic.
+191:{character:player}...Ninomiya, you said you have a good memory. Since you've read it several times, I believe you know the lines by heart. In that case, let's put on a performance now!
+192:{character:Hana Ninomiya}Huh? Wh-What performance?
+193:{character:player}But before that, I want to apologize to you properly... I'm sorry for trying to persuade you to participate in the stage play without caring about your feelings. I even said something terrible like "it isn't like you to..."
+194:{character:Hana Ninomiya}...Actually, I should be apologizing to you instead. {var:player_nickname}, you kindly came to help me, yet I abandoned you here and left.
+195:{character:Hana Ninomiya}I know you and Nana were encouraging me with good intentions, but I...
+196:{character:player}It's okay. Ninomiya, I'll respect your decision to not register for the stage play, but that won't stop us from putting on a performance now.
+197:{character:Hana Ninomiya}Well... That's why I was asking you what you meant when you said that.
+198:{character:player}The literal meaning. Let's perform the stage play of "The House of Music" here!
+199:{character:Hana Ninomiya}...Huh?
+200:{character:player}Is there a reason we can't?
+201:{character:Hana Ninomiya}That's not the issue here. Can you tell me why you suddenly want to perform a stage play?
+202:{character:player}Although I said I would respect your decision, I'm still worried that you'll have some regrets if you miss this opportunity.
+203:{character:player}So I've decided to make this courtyard our stage. Ninomiya, this means you can perform in a stage play you like without participating in the class performance.
+204:{character:Hana Ninomiya}But we don't have an audience. Don't you feel like it's a little silly of us to amuse ourselves like this?
+205:{character:player}But we do have an audience. Look, the potted plants you've been taking meticulous care of are sitting straight over there, waiting to enjoy your performance.
+206:{character:Hana Ninomiya}Th-This is sophistry!
+207:{character:player}Hahaha, like you said, we really are just amusing ourselves, but it doesn't matter if there's no audience and if the stage is smaller. To me, all that matters is that you're the female lead.
+208:I can't think of a way to make up for her past regrets. All I can do is to do my best to make her happy right here and right now.
+209:{character:player}I believe this will be a brilliant performance. Are you willing to step on this stage with me, Ninomiya?
+210:{character:Hana Ninomiya}...We don't have enough actors if you're all we have.
+211:{character:player}A-Aren't we only performing scenes that only require the male and female leads?
+212:{character:Hana Ninomiya}Since you put in so much effort to build me this stage, of course we need to start from the beginning.
+213:Hana Ninomiya takes a book from her bag and hands it to me. It is the novel "The House of Music". Maybe it is because it's so hot today, but her cheeks seem slightly red under the sun.
+214:{character:Hana Ninomiya}You can read this book when you forget the lines. Let's start now and not keep our audience waiting.
+215:{character:player}Haven't you finished reading it? Why are you still carrying it with you?
+216:{character:Hana Ninomiya}Ah, I suddenly don't feel like performing the stage play.
+217:{character:player}No, don't! Let's start now! I speak first, right...?
+218:{character:Hana Ninomiya}...Hehe.
+219:A pleasant breeze blows by. This afternoon, this small courtyard of Asaha High School is our secret stage...
+220:{character:player}Ninomiya, you said you have a good memory. Since you've read it several times, I believe you know the lines by heart. This is a great advantage if you want to sign up for the part of the female lead.
+221:{character:Hana Ninomiya}...I've said this many times already. I'm not thinking of signing up.
+222:{character:player}Kana told me that you also took part in a stage play when you were in elementary school, and it was also "The House of Music."
+223:{character:Hana Ninomiya}Then you should understand why I don't want to sign up. You only need to experience some things once in your life.
+224:{character:player}I understand how you feel, but I've noticed that you've started to re-read the novel of "The House of Music" recently. If you really want to forget that unhappy experience, you should be trying to avoid everything related to it.
+225:{character:Hana Ninomiya}...I just suddenly felt like reading it. There's no other reason.
+227:Hana Ninomiya sounds a little impatient. She puts away her book and starts getting up to leave.
+228:{character:player}Wait! Ninomiya, do you still remember how we met?
+229:{character:Hana Ninomiya}...I remember. Why are you suddenly bringing it up?
+230:{character:player}You once complained that I kept pestering you after I lost to you once. Well... It's because I like you, Hana Ninomiya.
+231:{character:Hana Ninomiya}Um...
+232:{character:Hana Ninomiya}You... What are you trying to say?!
+233:{character:player}I remember that I was surprised by your tenacity the first time we played. Whenever I thought you would give up, you would discard tiles cleverly to turn the situation around.
+234:{character:player}After watching you play mahjong next to you for so long, I've learned that you are not only tenacious, but also able to react to the changing situation on the mahjong table calmly. I've never seen you regret your decisions or give up when you're at a disadvantage.
+235:{character:player}You're always able to grasp that little bit of hope and make yourself shine. You said I'm one of the only people who notice you, but I actually find it strange how someone as dazzling as you is always ignored by others.
+236:{character:Hana Ninomiya}S-Stop it... Don't you think what you're saying is very embarrassing?!
+237:{character:player}I'm just telling you what I really think. I really like you for how determined you are. That's why I'm worried that you'll have new regrets if you avoid signing up this time... I'm even worried that it'll affect the confidence you've built up at the mahjong table.
+238:{character:Hana Ninomiya}These two things are completely unrelated.
+239:{character:player}Ninomiya, I want to know why you are giving up this time. Is it because you think that you have a low chance of being selected, or are you unable to muster up the courage to sign up because you're worried that you'll get cold feet?
+240:Hana Ninomiya once wondered whether she had also voted for Kana Fujita like everyone else and that it was just her wishful thinking that she had raised her hand to sign up for the role of the female lead.
+241:{character:player}I didn't consider your feelings the other day. The things I said must have made you really unhappy. I'm sorry, Ninomiya.
+242:{character:player}But... I'm not going to take back what I said. It's not a bad idea to give up to avoid failure, but the Hana Ninomiya I know... won't do that!
+243:{character:player}Ninomiya, if you have even the slightest intention to participate in the stage play, I hope you can muster the courage to sign up.
+244:It's precisely because she has doubts about her past that I hope she can put it behind her for good.
+245:{character:Hana Ninomiya}...
+246:Of course, it's my wishful thinking that she will try hard to get the part. I can't deny that I'm selfishly hoping she is still the Hana Ninomiya I know so well.
+247:I hesitated before coming here today. What would I do if Hana Ninomiya becomes even more angry with me after listening to what I said? What if she ignores me forever?
+248:But I still decide to tell her what I really think. If I run away from my truest thoughts first, how can I expect her to be determined enough to face everything?
+249:{character:Hana Ninomiya}You... You really are very selfish. Do you know how much your words are weighing on me?! How can you not blush after saying all that?!
+250:{character:player}Sorry... I'm feeling a little embarrassed too now that I think about it...
+251:{character:Hana Ninomiya}Geez... It's really frustrating! I finally managed to stop thinking about signing up... but after hearing you say all that, it's impossible for me to just give up...
+252:{character:player}Eh? Ninomiya, y-you're willing to sign up?
+253:{character:Hana Ninomiya}Isn't that what you want?
+254:{character:player}Of course it is!
+255:{character:Hana Ninomiya}Fine... I'll try one more time. After all, someone likes... someone has expectations for me, so I'll be too spineless if I don't do anything about it!
+256:Her lenses become brighter. A determined look without a trace of hesitation that I'm very familiar with appears on Hana Ninomiya's face.
+257:{character:Hana Ninomiya}Since I've decided to sign up, I'll need to read the original work again quickly to familiarize myself with the details!
+258:{character:player}I thought you said you didn't bring it...
+259:{character:Hana Ninomiya}...I suddenly don't feel like signing up.
+260:{character:player}I didn't say anything! Start preparing now! Read it a few more times...
+261:{character:Nana Shiraishi}Hi! Sorry for making you wait.
+262:{character:player}It's okay. I just arrived too. What's the result of the registration?
+263:{character:Nana Shiraishi}Here's my phone. Look at it yourself.
+264:It's the weekend, and I've asked Nana Shiraishi to come to a restaurant near Asaha High School so I can see the videos she took on the day of the class meeting.
+265:In the video, after hearing the class monitor ask: "Who wants to sign up to be the female lead?" Hana Ninomiya raises her hand decisively and stands up to speak.
+266:{character:Hana Ninomiya}I want to sign up to be the female lead because I love the original novel of "The House of Music". I've watched the adapted movie many times too, and I think the female lead Miriam is a very charming character...
+267:{character:Nana Shiraishi}You're such a worrywart. You're even making the effort to confirm whether Hana signed up.
+268:{character:player}That's not it. I believe that Ninomiya will definitely sign up for the part, and I just don't want to miss out on that moment.
+269:Not everything is perfect in real life. Hana Ninomiya failed to get the part of the female lead by a narrow margin, but... looking at the relieved smile on her face, I believe she has made peace with her past regrets. At least... she'll never doubt her own courage again.
+270:{character:player}Hmm? Sorry, I need to take a phone call.
+271:{character:Hana Ninomiya}It's almost time, and everyone else except Nana has arrived. Did you forget to tell her?
+272:{character:player}She's with me right now. I'll come over with her in a moment.
+273:{character:Hana Ninomiya}Okay, I'll go and get ready then. See you later.
+274:{character:Nana Shiraishi}Was that Hana?
+275:{character:player}Yeah. Do you have anything to do after this? I'll take you somewhere...
+276:I guide Nana Shiraishi to the courtyard of the gardening club, where several people we know are already sitting and waiting.
+277:{character:Nana Shiraishi}Oh? You're all here.
+278:Ransei
+279:{character:Ransei}Master, why did you ask me to come here?
+280:{character:Kana Fujita}{var:player_nickname}, you said something fun will happen. You can tell us now, right?
+281:Other than Ransei and Kana Fujita, Eliisa, Kirara Fujimoto, and several others are here too. One thing they all have in common is that they are lucky enough to be fellow problem children on Ren's list.
+282:{character:player}I think everyone is here. Ahem! I've invited all of you here today to watch a stage play performance!
+283:Kirara Fujimoto
+284:{character:Kirara Fujimoto}A stage play? {var:player_nickname}, will you be performing? It's going to be interesting!
+285:Eliisa
+286:{character:Eliisa}I only see Mr. Wolf here. Ah! Liisa Liisa understands, you're performing a stand-up comedy!
+287:{character:player}A stand-up comedy and a stage play are two entirely different things... Of course I won't be the only one on the stage. Let's welcome today's female lead - Hana Ninomiya - to the stage!
+288:{character:Nana Shiraishi}Eh? Don't tell me you two will be performing "The House of Music"!
+289:{character:player}Correct! Nana gets one point.
+290:{character:Kana Fujita}We're competing to answer first?! This is one of my strengths! I'm ready for the next question!
+291:{character:player}No, there aren't any more. This isn't a real variety show...
+292:{character:Nana Shiraishi}Have you done this for Hana?
+293:{character:player}Yeah, it took me a while to convince her.
+294:Although it's a shame that Hana Ninomiya didn't get the part, it doesn't mean she won't get the chance to perform.
+295:Since she has the courage to sign up, even if both the stage and audience are smaller, I hope that she will be able to perform one of her favorite stage plays. She is the female lead I want to see on the stage.
+296:{character:Ransei}Master, why hasn't Ninomiya-senpai come out yet?
+297:{character:player}This is strange... I've already asked her to come out...
+298:{character:Hana Ninomiya}...I-I'm right here.
+299:{character:player}Huh?! Ninomiya, when did you get here?!
+300:Was I too focused on chatting with the others? I didn't realize that Hana Ninomiya was behind me at all.
+301:{character:Hana Ninomiya}(whisper) About just then... {var:player_nickname}, why don't we tell everyone it's just a joke and skip the performance...
+302:Th-This is strange. Why does it seem like Hana Ninomiya is becoming increasingly transparent? Could it be that she has become more transparent because of stage fright?!
+303:{character:Nana Shiraishi}...What are you just standing there for?! Don't you speak first in the opening scene?
+304:{character:player}Oh! You're right.
+305:I need to make the first move. At this point, I can't let Hana Ninomiya run away from this stage where she will shine!
+306:{character:player}Ahem... Sister Margaret has told me about the situation. Miss Miriam, you've come here to apply to be the governess here, right?
+307:{character:Hana Ninomiya}Y-Yes...
+308:{character:player}Let me show you around the manor. Remember, there are some rooms you must not enter...
+309:As I speak, I hold Hana Ninomiya's hand and walk around the courtyard like I'm showing her the rooms.
+310:{character:Nana Shiraishi}You can do it, Hana! Now's the time to show off your beautiful singing!
+311:{character:Kirara Fujimoto}Oh? There's even singing?!
+312:{character:Eliisa}Liisa Liisa is looking forward to it!
+313:Maybe the others can see that Hana Ninomiya has stage fright, so they all start cheering for her. With everyone's encouragement, Hana Ninomiya starts to act like herself again.
+314:{character:Hana Ninomiya}I'm confident. Let them test me! I'm confident that I'll be in control of the world because I'm confident in myself!
+315:{character:Hana Ninomiya}I'm confident in the sun. I'm confident in the rain... I believe spring will arrive as promised!
+316:Her joyful singing merges with the wind, which makes the potted plants sway, as if they are paying tribute to the owner who has been taking care of them.
+317:Just like how Hana Ninomiya wants to be a spark that lights up the world for the potted plants, I also hope to be a star that lights up her dreams...
+318:{character:player}Hold your horses, Ninomiya. I'm not trying to persuade you to sign up.
+319:{character:player}I'm sorry for trying to persuade you to participate in the stage play without caring about your feelings. I even said something terrible like "it isn't like you to..."
+320:{character:player}It's okay. Ninomiya, I respect your decision not to register for the stage play. Actually, if you want to perform in the stage play, you don't have to sign up as an actor.
+321:{character:Hana Ninomiya}What are you saying?
+322:{character:player}I watched other people's rehearsals of the stage play of "The House of Music" online and found that there are a lot of narrations. If it's the same for the version your class is performing, then it would also be good if you could be the narrator since you've got such a beautiful voice.
+323:{character:Hana Ninomiya}...Oh, so that's what you're thinking. I'm sorry. I thought you were going to persuade me to sign up for the part again, so I subconsciously wanted to run away.
+324:{character:player}I was going to persuade you to sign up for the role of the female lead, but... I decided to respect your decision in the end. You don't need to force yourself if you don't want to do it.
+325:{character:player}I just think it's a shame if you don't participate in this stage play since you like it so much. I want you to enjoy this class activity as much as possible. Sign up to be the narrator, Ninomiya.
+326:{character:Hana Ninomiya}...I can't decide now.
+327:{character:player}Eh? Is it still too much to be the narrator?
+328:Have her unpleasant memories of the past made her reject a stage play with this theme to such an extent?!
+329:{character:Hana Ninomiya}{var:player_nickname}, although you say that I have a beautiful voice, that's just your subjective opinion. Also, it's useless to have just a beautiful voice if it doesn't have any emotions.
+330:{character:Hana Ninomiya}Unless... you're willing to be my audience and evaluate my narration performance after actually listening to it.
+331:{character:player}I see what you mean. Sure thing!
+332:{character:Hana Ninomiya}Let's get on with it them.
+333:As she speaks, Hana Ninomiya takes out the novel version of "The House of Music" from her bag. I knew it. She hasn't put this performance behind her completely.
+334:{character:Hana Ninomiya}I'll start narrating now...
+335:In the courtyard, the wind carries Hana Ninomiya's voice into my ears, and the potted plants around me keep me company as I listen quietly to her gentle words.
+336:This is truly a masterpiece. I can understand why Hana Ninomiya loves "The House of Music" so much.
+337:I like it even more since the narrator has such a beautiful voice.
+338:
+339:Half an hour later
+340:Persuade Hana Ninomiya to participate in the stage play again
+341:Persuade her to participate in the stage play in another form
+342:Several days later

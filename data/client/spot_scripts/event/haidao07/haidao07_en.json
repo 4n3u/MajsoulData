@@ -1,0 +1,554 @@
+[
+  {
+    "line": 3,
+    "text": "player"
+  },
+  {
+    "line": 289,
+    "text": "???"
+  },
+  {
+    "line": 290,
+    "text": "Tickets to the Sky Garden dinner party are now available. Register now to become a member and participate in the luck draw..."
+  },
+  {
+    "line": 291,
+    "text": "That voice sounds familiar..."
+  },
+  {
+    "line": 292,
+    "text": "As expected, I see Fu Ji shouting loudly into a megaphone after I walk around the corner towards the direction of the sound."
+  },
+  {
+    "line": 293,
+    "text": "Fu Ji"
+  },
+  {
+    "line": 294,
+    "text": "There are also many Luck and Fortune discount coupons up for grabs!"
+  },
+  {
+    "line": 295,
+    "text": "How do I participate in the draw?"
+  },
+  {
+    "line": 296,
+    "text": "{var:player_nickname}?!"
+  },
+  {
+    "line": 297,
+    "text": "Fu Ji seems startled when she turns around and sees me, and she even raises her hand to pat her chest."
+  },
+  {
+    "line": 298,
+    "text": "Hehe, in your case... since you're a loyal customer of Luck and Fortune..."
+  },
+  {
+    "line": 299,
+    "text": "She leans towards me and whispers in my ear."
+  },
+  {
+    "line": 303,
+    "text": "In the end, Fu Ji keeps her word and gives me a ticket to the Sky Garden dinner party when she packs up. However..."
+  },
+  {
+    "line": 304,
+    "text": "Two hours later"
+  },
+  {
+    "line": 305,
+    "text": "I've been with you here at this lucky draw stall for two hours now, and I've only seen people draw Luck and Fortune discount coupons. Is it possible... that there are no tickets to the Sky Garden dinner party in the box?"
+  },
+  {
+    "line": 306,
+    "text": "Sigh, are all young people so suspicious nowadays? Luck is a fickle thing. Some people might only need one draw, whereas others might need one hundred."
+  },
+  {
+    "line": 308,
+    "text": "Haha, our integrity is the reason we've been able to do business for so many years. You can ask my fan if you don't believe me."
+  },
+  {
+    "line": 309,
+    "text": "...I believe you."
+  },
+  {
+    "line": 310,
+    "text": "Excellent. I hope you have lots of fun tonight."
+  },
+  {
+    "line": 312,
+    "text": "By the time I arrive at the Sky Garden, many people have already gathered in their respective groups, but I still manage to notice two acquaintances, Osamu Saitou and Xenia, with my sharp eyes, so I walk over to greet them."
+  },
+  {
+    "line": 313,
+    "text": "After night falls"
+  },
+  {
+    "line": 314,
+    "text": "Good evening to you two."
+  },
+  {
+    "line": 315,
+    "text": "Xenia"
+  },
+  {
+    "line": 316,
+    "text": "Good evening, {var:player_nickname}."
+  },
+  {
+    "line": 317,
+    "text": "Osamu Saitou"
+  },
+  {
+    "line": 318,
+    "text": "Good evening."
+  },
+  {
+    "line": 319,
+    "text": "I was just asking Miss Xenia about her experience of the amusement park. Why don't you tell me what you think too?"
+  },
+  {
+    "line": 320,
+    "text": "Sure."
+  },
+  {
+    "line": 321,
+    "text": "Which ride of the amusement park is most memorable to you two?"
+  },
+  {
+    "line": 322,
+    "text": "In my case... well, there are too many exciting rides here, so I can't decide which one is the most memorable right now... What about you, Xenia?"
+  },
+  {
+    "line": 323,
+    "text": "Well, it's naturally the... the..."
+  },
+  {
+    "line": 324,
+    "text": "The...?"
+  },
+  {
+    "line": 325,
+    "text": "Umm... it's a ride I haven't experienced before! But I can't really say which one is the most fun right now."
+  },
+  {
+    "line": 326,
+    "text": "What an unexpected answer. It looks like the amusement park needs lots of improvements."
+  },
+  {
+    "line": 327,
+    "text": "Secretary"
+  },
+  {
+    "line": 328,
+    "text": "Excuse me, but I'll need to interrupt you for a moment."
+  },
+  {
+    "line": 331,
+    "text": "I need to head off first. Enjoy your chat."
+  },
+  {
+    "line": 332,
+    "text": "Sigh--"
+  },
+  {
+    "line": 333,
+    "text": "Xenia sighs in relief after Osamu Saitou leaves, and she looks so much more relaxed."
+  },
+  {
+    "line": 334,
+    "text": "Are you really nervous?"
+  },
+  {
+    "line": 335,
+    "text": "Yes. Mr. Saitou has some business dealings with my family, and he almost found out that I was on the roller coaster."
+  },
+  {
+    "line": 336,
+    "text": "Is there something wrong with that?"
+  },
+  {
+    "line": 337,
+    "text": "If he finds out that I was yelling out loudly on a roller coaster, he might see my family in a different light."
+  },
+  {
+    "line": 338,
+    "text": "I thought you don't care about what the world thinks."
+  },
+  {
+    "line": 340,
+    "text": "Xenia tilts her head and makes a troubled expression."
+  },
+  {
+    "line": 341,
+    "text": "I knew I got too carried away when I yelled out on the roller coaster today... but I couldn't control myself. I'm so embarrassed..."
+  },
+  {
+    "line": 342,
+    "text": "The thing is, on a roller coaster, everyone is so busy releasing their own stress that they don't really care about who's sitting next to them, so don't worry about it."
+  },
+  {
+    "line": 343,
+    "text": "R-Really?"
+  },
+  {
+    "line": 344,
+    "text": "Yes."
+  },
+  {
+    "line": 345,
+    "text": "Phew! I can stop worrying about that now... Huh? Why have so many people gathered up over there?"
+  },
+  {
+    "line": 346,
+    "text": "I look in the direction of Xenia's gaze and see that many people have gathered together in the plaza downstairs."
+  },
+  {
+    "line": 348,
+    "text": "In fact, watching the fireworks from the plaza is probably more in line with the normal life of most citizens."
+  },
+  {
+    "line": 350,
+    "text": "{var:player_nickname}, I want to experience what it's like to watch the fireworks from the plaza. Do you want to come with me?"
+  },
+  {
+    "line": 352,
+    "text": "Go to the plaza with Xenia"
+  },
+  {
+    "line": 354,
+    "text": "Stay in the Sky Garden"
+  },
+  {
+    "line": 355,
+    "text": "Xenia's bright eyes tell me that she is curious about the life of commoners again. In that case, I might as well go with her since... the plaza looks far livelier than the Sky Garden."
+  },
+  {
+    "line": 356,
+    "text": "Sure."
+  },
+  {
+    "line": 357,
+    "text": "Xenia and I arrive at the plaza just in time to hear the announcement that the fireworks display is about to start, which excites the thick crowd and makes everyone move around eagerly. There were even a couple of times that Xenia and I were almost separated by the crowd."
+  },
+  {
+    "line": 358,
+    "text": "There are so many people... {var:player_nickname}, can I hold your hand?"
+  },
+  {
+    "line": 359,
+    "text": "Xenia turns to look at me and extends her left hand to me politely."
+  },
+  {
+    "line": 360,
+    "text": "That's a good idea. It would be bad if we got separated."
+  },
+  {
+    "line": 361,
+    "text": "Holding each other's hands tightly, we move through the crowd with great difficulty to find a good place to enjoy the fireworks. However, the first firework shoots up into the night sky, illuminating our faces, before we can find a good place to watch."
+  },
+  {
+    "line": 362,
+    "text": "After that, the second and third fireworks also shoot up into the sky... filling the dark night sky with brilliant colors and making the crowd exclaim loudly with each wave of fireworks."
+  },
+  {
+    "line": 363,
+    "text": "Why don't we watch them from here? Xenia, can you see them clearly?"
+  },
+  {
+    "line": 364,
+    "text": "I can. It feels like I can see them just as clearly from here as from the Sky Garden... Oh, is it rude of me to say that?"
+  },
+  {
+    "line": 365,
+    "text": "Not at all."
+  },
+  {
+    "line": 367,
+    "text": "Little Child"
+  },
+  {
+    "line": 368,
+    "text": "Fireworks! They're so beautiful!!!"
+  },
+  {
+    "line": 369,
+    "text": "A childish shout from beside us interrupts our conversation. Amused by this childish shout, people start cheering and shouting as well."
+  },
+  {
+    "line": 370,
+    "text": "Xenia, do you want to join them?"
+  },
+  {
+    "line": 371,
+    "text": "Huh?"
+  },
+  {
+    "line": 372,
+    "text": "Do you remember how you felt on the roller coaster? It's the same here. You don't need to worry about what other people think. Here, you're not Xenia the young lady, but Xenia, an ordinary girl who is excited by the fireworks just like everyone else."
+  },
+  {
+    "line": 373,
+    "text": "They... They're so beautiful!!!"
+  },
+  {
+    "line": 374,
+    "text": "After a moment of hesitation, Xenia takes a deep breath and raises her hands, putting them in front of her mouth like a trumpet. Although her voice isn't as loud as the crowd around her, it's far louder than her usual speaking voice."
+  },
+  {
+    "line": 375,
+    "text": "It feels amazing, right?"
+  },
+  {
+    "line": 376,
+    "text": "Yes!"
+  },
+  {
+    "line": 377,
+    "text": "They're so beautiful!!!"
+  },
+  {
+    "line": 378,
+    "text": "I'm so happy!!!"
+  },
+  {
+    "line": 380,
+    "text": "Huh?!"
+  },
+  {
+    "line": 381,
+    "text": "Her last sentence catches me by surprise and makes my face flush with embarrassment. The next moment, Xenia looks at me with a happy and joyful expression under the night sky that has been illuminated by the fireworks."
+  },
+  {
+    "line": 382,
+    "text": "Sometimes, happiness is a simple thing. It could be something as simple as two people watching brilliant fireworks together."
+  },
+  {
+    "line": 383,
+    "text": "I'm really happy to be watching the fireworks with Xenia!!!"
+  },
+  {
+    "line": 384,
+    "text": "I'll stay here."
+  },
+  {
+    "line": 385,
+    "text": "But you'll be left all alone here..."
+  },
+  {
+    "line": 386,
+    "text": "I'll be fine. I don't really like large crowds, so I'll be more comfortable here."
+  },
+  {
+    "line": 387,
+    "text": "I was worried that you would feel lonely if you were to watch the fireworks alone. Since you'll be fine, I'm going to head down there now."
+  },
+  {
+    "line": 388,
+    "text": "I wave and see Xenia running down like a happy bird with her hands holding the hem of her skirt. Meanwhile, I wait for the fireworks display to start with lots of sumptuous food around me."
+  },
+  {
+    "line": 389,
+    "text": "Why are you all alone here?"
+  },
+  {
+    "line": 390,
+    "text": "Osamu Saitou's voice coming from behind me indicates that he's returned after finishing what he was doing."
+  },
+  {
+    "line": 391,
+    "text": "Xenia prefers the lively atmosphere of the plaza, so she's gone down there to watch the fireworks."
+  },
+  {
+    "line": 392,
+    "text": "I see. Her parents did mention that she's quite interested in the recreational activities of the common people."
+  },
+  {
+    "line": 393,
+    "text": "Have you finished your work?"
+  },
+  {
+    "line": 394,
+    "text": "Not yet, but there's still some time until my next meeting, so I can watch the fireworks with you here."
+  },
+  {
+    "line": 395,
+    "text": "After all, leaving a VIP who has come here upon my invitation to watch the fireworks alone here is not my idea of hospitality."
+  },
+  {
+    "line": 396,
+    "text": "Your invitation? But I got my ticket... from Fu Ji."
+  },
+  {
+    "line": 397,
+    "text": "Yes, I was busy today, so I asked the owner of Luck and Fortune to give you the ticket on my behalf."
+  },
+  {
+    "line": 399,
+    "text": "Is something wrong?"
+  },
+  {
+    "line": 401,
+    "text": "I suddenly understand why Fu Ji was acting so strangely today and silently note to myself that she is the most cunning businessperson in One Han City."
+  },
+  {
+    "line": 403,
+    "text": "After Osamu Saitou finishes speaking, a gorgeous firework shoots up into the sky in front of my eyes and fills the air with golden light."
+  },
+  {
+    "line": 404,
+    "text": "It's beautiful..."
+  },
+  {
+    "line": 406,
+    "text": "The plaza downstairs suddenly sounds a lot noisier after the night sky becomes silent again. Beside me, Osamu Saitou suddenly asks me a question."
+  },
+  {
+    "line": 407,
+    "text": "Can I ask you something?"
+  },
+  {
+    "line": 408,
+    "text": "Sure, if I can be of any help to you."
+  },
+  {
+    "line": 409,
+    "text": "I noticed that other than Xenia, some other customers who were originally here in the Sky Garden also went down to the plaza to watch the fireworks."
+  },
+  {
+    "line": 410,
+    "text": "Do you think the plaza is more attractive to everyone than this observation deck that was specially built here in the Sky Garden?"
+  },
+  {
+    "line": 411,
+    "text": "I think it depends on people's preferences. Some people prefer a quieter place with a better view."
+  },
+  {
+    "line": 412,
+    "text": "Others, like Xenia, might like the atmosphere of cheering together as a group for something joyous, kind of like being at a music festival, more than simply watching fireworks..."
+  },
+  {
+    "line": 413,
+    "text": "That's just my opinion, and I can't speak for everyone."
+  },
+  {
+    "line": 414,
+    "text": "No, your opinion is very important to me... because you're also an important customer of this amusement park. I think it'll be necessary to redivide the plaza again later to make it more convenient for people to watch the fireworks."
+  },
+  {
+    "line": 415,
+    "text": "Looking at the expression Osamu Saitou is making when he's thinking seriously, I make a comment with a tinge of emotion."
+  },
+  {
+    "line": 416,
+    "text": "I think SAMU Joy Island will become the best amusement park in One Han City."
+  },
+  {
+    "line": 417,
+    "text": "Why do you say that?"
+  },
+  {
+    "line": 418,
+    "text": "Because the person running it is always thinking about the tourists and is willing to consider things from their perspective."
+  },
+  {
+    "line": 419,
+    "text": "If a project that is meant to serve the people isn't driven by the interests of the people, that project will be a failure."
+  },
+  {
+    "line": 420,
+    "text": "T-That's such an official-sounding answer."
+  },
+  {
+    "line": 421,
+    "text": "What about you then?"
+  },
+  {
+    "line": 422,
+    "text": "What about me?"
+  },
+  {
+    "line": 423,
+    "text": "Will SAMU Joy Island become your favorite amusement park?"
+  },
+  {
+    "line": 424,
+    "text": "It already is my favorite amusement park!"
+  },
+  {
+    "line": 425,
+    "text": "That's good."
+  },
+  {
+    "line": 426,
+    "text": "Osamu Saitou turns around and looks at me sincerely."
+  },
+  {
+    "line": 427,
+    "text": "I hope you'll enjoy it even more the next time I invite you here."
+  },
+  {
+    "line": 428,
+    "text": "It would be an insult to our relationship to make you enter the draw for these prizes. I'll give you one after we're done here."
+  },
+  {
+    "line": 429,
+    "text": "Umm... Is that really okay?"
+  },
+  {
+    "line": 430,
+    "text": "Of course! I've told you before, right? Come to Luck and Fortune more often because I can even give you good luck. See? My words have come true now."
+  },
+  {
+    "line": 431,
+    "text": "I'm not very happy about what you just said. I suggest that you take that back..."
+  },
+  {
+    "line": 432,
+    "text": "Fu Ji packs her things neatly, then she turns and leaves. For some reason, I get the feeling that she's leaving in quite a hurry. But since I have the ticket now, I should look forward to the fireworks show in the evening. After all, the main reason it's been difficult to get a ticket is the official slogan on CatChat that says this is the best place to watch the fireworks display."
+  },
+  {
+    "line": 433,
+    "text": "President, a customer wants to discuss something with you over there."
+  },
+  {
+    "line": 434,
+    "text": "Okay, I'll go there now..."
+  },
+  {
+    "line": 435,
+    "text": "Yes, but a lady's etiquette is about more than dealing with what others think."
+  },
+  {
+    "line": 436,
+    "text": "I think they're here to watch the fireworks display. The Sky Garden can only fit so many people, so the people who don't have a ticket will probably go to the plaza to watch the fireworks."
+  },
+  {
+    "line": 437,
+    "text": "The way of life of a commoner, huh..."
+  },
+  {
+    "line": 440,
+    "text": "Actually, there's nothing wrong with the Sky Garden, but I've had enough of places that are built for people to admire the landscape from up high. I've never been able to enjoy something like this as part of a crowd on the ground."
+  },
+  {
+    "line": 441,
+    "text": "I'm so happy to watch the fireworks with {var:player_nickname}!!!"
+  },
+  {
+    "line": 442,
+    "text": "On your... behalf?"
+  },
+  {
+    "line": 443,
+    "text": "...No, not at all. Thank you for the ticket."
+  },
+  {
+    "line": 444,
+    "text": "The fireworks display is about to start."
+  },
+  {
+    "line": 445,
+    "text": "Osamu Saitou and I both stop talking as we enjoy this magnificent fireworks show in silence. After seeing the fireworks that form the amusement park's logo, which signal the end of the show in the sky, I reluctantly withdraw my gaze."
+  }
+]

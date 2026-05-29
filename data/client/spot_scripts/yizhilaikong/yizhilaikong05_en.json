@@ -1,0 +1,1430 @@
+[
+  {
+    "line": 2,
+    "text": "The commercial strip is crowded with people. After great lengths, Sora Ichinose and I finally manage to escape from the crowd. We lean against the wall and take a few deep breaths. The joy we felt when we went out is gone without a trace."
+  },
+  {
+    "line": 3,
+    "text": "player"
+  },
+  {
+    "line": 4,
+    "text": "{character:player}I once had the opportunity to spend a leisurely weekend, but I didn't cherish it and only regretted it after it was too late. If I get to choose again, I will definitely choose not to go out!"
+  },
+  {
+    "line": 5,
+    "text": "Sora Ichinose"
+  },
+  {
+    "line": 6,
+    "text": "{character:Sora Ichinose}A celebration is being held on this part of the commercial strip recently. I thought you came here specially to take part in the fun."
+  },
+  {
+    "line": 7,
+    "text": "{character:player}I don't have the hobby of being squeezed into a can of sardines... If I knew about this celebration, I would have gone to Mahjong Soul Shrine to play mahjong with Ichihime and the others."
+  },
+  {
+    "line": 8,
+    "text": "I look around me. The last hope in my heart is wiped out by the crowds of people around me. I sigh with resignation and take Sora into a boba shop that is less crowded in comparison."
+  },
+  {
+    "line": 9,
+    "text": "{character:player}Depending on the situation, we might have to stay here for a while and plan our afternoon itinerary. Hmm... would you like something to drink?"
+  },
+  {
+    "line": 10,
+    "text": "I check the drink menu carefully and nudge the boy beside me with my elbow. I've known about Sora's physical condition for a long time and know that there are many foods he needs to avoid, so I decide to ask him before ordering."
+  },
+  {
+    "line": 11,
+    "text": "However, Sora still hasn't responded by the time there are only two or three people left in the queue at the front. I turn around, all puzzled, and see him staring blankly at a promotional poster on the wall."
+  },
+  {
+    "line": 12,
+    "text": "{character:player}Is that an escape room? Haha, I didn't expect to see the poster of this place in a boba shop."
+  },
+  {
+    "line": 13,
+    "text": "{character:Sora Ichinose}{var:player_nickname}, you know about this escape room?"
+  },
+  {
+    "line": 14,
+    "text": "{character:player}This place used to be an immersive performance theater that opens every year around Halloween. Tickets for their \"The Heart of Samuel\" were so hard to come by, and I even watched it with Mai. The owner once mentioned to me that they were preparing to create other immersive experiences at times other than Halloween to make money to pay for the venue's rent, but I didn't expect them to build an escape room in the end."
+  },
+  {
+    "line": 15,
+    "text": "{character:player}Radio, subway station billboards, in-store posters, and leaflets handed out on the street… ads promoting this escape room have been everywhere in the past week. With all those promotions and the good reviews the theater has accumulated over the years, the place has become really popular."
+  },
+  {
+    "line": 16,
+    "text": "I look through the stack of leaflets I received on the road just now. Sure enough, I found one with the same style as the poster."
+  },
+  {
+    "line": 17,
+    "text": "{character:Sora Ichinose}\"The Butterfly Effect\", \"Crazy Thursday\", \"Shrine of Another World\", \"Brokeback Notebook\", \"Enticing Stories About Werewolves and Vampires\"...?"
+  },
+  {
+    "line": 18,
+    "text": "Sora takes the leaflet and reads out the names printed on it one by one. Seeing that we are digressing in a rather \"strange\" direction, I interrupt him immediately to protect the mental health of this minor."
+  },
+  {
+    "line": 19,
+    "text": "{character:player}Ahem, the names of the escape rooms aren't important. According to the reviews on the Internet, \"Shrine of Another World\" is currently the most popular escape room. Some people say that this is the most fun escape room in One Han City."
+  },
+  {
+    "line": 20,
+    "text": "{character:player}Young people love this type of game, so this store is attractive to both puzzle-solving enthusiasts and many customers who mainly want to make friends."
+  },
+  {
+    "line": 21,
+    "text": "{character:Sora Ichinose}Sounds great."
+  },
+  {
+    "line": 23,
+    "text": "Sora's interest in the escape rooms is completely undisguised, so I thought he would immediately agree to my proposal. But to my surprise, he didn't agree immediately."
+  },
+  {
+    "line": 24,
+    "text": "{character:Sora Ichinose}But... We need at least four people to play these escape rooms. We're missing two people."
+  },
+  {
+    "line": 25,
+    "text": "{character:player}Is that what you're worried about? I'll call some people and ask if they're interested. We should be able to find someone to play with us in no time."
+  },
+  {
+    "line": 26,
+    "text": "{character:Sora Ichinose}Ask... who?"
+  },
+  {
+    "line": 27,
+    "text": "{character:player}Family, friends, mahjong friends—you can call whoever you want. It's the weekend today, so there should be many people who want to go out and relax."
+  },
+  {
+    "line": 28,
+    "text": "My excitement for the escape room sweeps away my feelings of frustration. I immediately take out my mobile phone and start calling people. At the same time, I don't forget to pat Sora on the shoulder to indicate that he should also contact his friends."
+  },
+  {
+    "line": 29,
+    "text": "It turns out that reality is very different from my expectations. Everyone is very enthusiastic about the weekend, and everyone I invited told me they had already made arrangements. To think I even need to \"reserve\" my friends in advance to meet them on the weekend..."
+  },
+  {
+    "line": 30,
+    "text": "I hang up the phone after getting rejected again. When I turn around, I see Sora leaning against the wall in a daze. He twists and rotates the Rubik's Cube on his mobile phone pendant in his hand, which is what Sora usually does when he is sad."
+  },
+  {
+    "line": 31,
+    "text": "{character:player}Joseph and Kana still have work to do for their company. Hinata said the café is so busy with customers that she doesn't feel right about asking for leave, and Usumi didn't even answer the phone, probably hiding somewhere because he did something to make the vice president angry again..."
+  },
+  {
+    "line": 32,
+    "text": "{character:Sora Ichinose}Big sis said she needs to buy groceries with mom and doesn't have any time to play an escape room with us."
+  },
+  {
+    "line": 33,
+    "text": "{character:player}We were careless. I never expected our escape room adventure to end before it even started."
+  },
+  {
+    "line": 34,
+    "text": "I'm a little annoyed because our plan keeps getting interrupted for various reasons. After confirming that there's no one I can invite on my contact list, I look at Sora because I'm unwilling to just go home like this."
+  },
+  {
+    "line": 35,
+    "text": "{character:player}Maybe I have a way to find some companions."
+  },
+  {
+    "line": 36,
+    "text": "{character:Sora Ichinose}What is it?"
+  },
+  {
+    "line": 37,
+    "text": "{character:player}You only called your sister, right? If you don't mind, we can call your classmates. You're all around the same age, so you should all be interested in this type of game."
+  },
+  {
+    "line": 38,
+    "text": "It seems that Sora never expected me to say this. He subconsciously grips the Rubik's Cube pendant in his hand tightly and makes a shocked expression."
+  },
+  {
+    "line": 39,
+    "text": "{character:Sora Ichinose}*Coughing* But I don't know everyone that well."
+  },
+  {
+    "line": 40,
+    "text": "{character:player}Eh? But haven't you been in middle school for some time now? How... Do you have any difficulties at school?"
+  },
+  {
+    "line": 41,
+    "text": "{character:Sora Ichinose}It's my own fault... Right after school started, I took two consecutive weeks off school due to my physical condition. By the time I could go back to school, everyone had already become good friends with each other."
+  },
+  {
+    "line": 42,
+    "text": "{character:Sora Ichinose}Although my classmates do invite me to join them in group activities, I always have to take leave suddenly, so everyone has to do my part for me. I've caused them a lot of trouble even though I never intended to."
+  },
+  {
+    "line": 43,
+    "text": "{character:player}So you kept your distance from everyone because you feel guilty?"
+  },
+  {
+    "line": 44,
+    "text": "{character:Sora Ichinose}*Coughing* It's not that complicated. I just haven't spent my time with them. Even the teachers of my non-core subjects can't call me by name, let alone the other students."
+  },
+  {
+    "line": 45,
+    "text": "Although Sora is speaking in a calm and unhurried tone, I can tell that he's unhappy about his failure to have a good relationship with his classmates."
+  },
+  {
+    "line": 46,
+    "text": "{character:Sora Ichinose}So... Don't you think it'll be strange if I suddenly invite them to come out and do something together?"
+  },
+  {
+    "line": 47,
+    "text": "{character:player}But don't you want to become friends with your classmates? No one can understand how you feel if you hide everything deep inside your heart. You'll never know until you try. Maybe your classmates want to become friends with you and are just waiting for a chance to interact with you."
+  },
+  {
+    "line": 48,
+    "text": "{character:Akira}..."
+  },
+  {
+    "line": 48,
+    "text": "{character:Sora Ichinose}..."
+  },
+  {
+    "line": 49,
+    "text": "After I finally manage to convince Sora, he takes out his phone, writes a message seriously, and sends the message to his group of classmates to invite them to play the escape room game together. He puts up a nonchalant front, but the rapid movement of his eyelashes betrays his nervousness."
+  },
+  {
+    "line": 50,
+    "text": "The sweet aroma of boba tea fills the air, and the sunlight is as warm as ever, but Sora's eyebrows droop lower and lower over time. He looks like a child abandoned by the whole world, and his helplessness is exposed for all to see at this moment."
+  },
+  {
+    "line": 51,
+    "text": "Buzzzz—"
+  },
+  {
+    "line": 52,
+    "text": "Just as I am about to say something to comfort him, the mobile phone on the table starts vibrating. He glances at it before handing the phone to me in surprise and motions for me to read it together."
+  },
+  {
+    "line": 55,
+    "text": "{character:Sora Ichinose}So... do we have to team up with strangers?"
+  },
+  {
+    "line": 56,
+    "text": "{character:player}Isn't that better? Maybe we'll have two new friends to play mahjong with after this game."
+  },
+  {
+    "line": 57,
+    "text": "Sora isn't at all shy, so he agrees to my proposal after a slight moment of hesitation."
+  },
+  {
+    "line": 58,
+    "text": "{character:Sora Ichinose}That's indeed a great idea. Should we go there now?"
+  },
+  {
+    "line": 59,
+    "text": "{character:player}There's no rush. Let's rest here for now and save our energy for when we go to the escape room. Reviews for this boba shop seem great. Would you like something to drink?"
+  },
+  {
+    "line": 60,
+    "text": "{character:Sora Ichinose}I'll have the same thing as you."
+  },
+  {
+    "line": 61,
+    "text": "{character:player}Go and get us some seats first. I'll be back soon."
+  },
+  {
+    "line": 62,
+    "text": "After half an hour, Sora and I are standing in front of the doors of the escape room. The extensive advertisements have attracted a lot of customers like us to the store. Fortunately, the employees here are well-trained, and they didn't make any mistakes despite the busy business."
+  },
+  {
+    "line": 63,
+    "text": "Sora takes the initiative to talk to an employee. He expresses our intention in a concise and clear manner and wants the employee to help us find others who would be willing to play together."
+  },
+  {
+    "line": 64,
+    "text": "Shop Employee"
+  },
+  {
+    "line": 65,
+    "text": "{character:Shop Employee}It's the weekend today, and there are many customers here today. You should be able to find others who are willing to play with you soon. I suggest that you decide which escape room you want to experience first. That would make things easier."
+  },
+  {
+    "line": 66,
+    "text": "{character:Sora Ichinose}We want to experience the \"Shrine of Another World\" escape room."
+  },
+  {
+    "line": 67,
+    "text": "{character:Shop Employee}Sure thing. I'll sort it out right now. Please go to the service counter and choose a time slot."
+  },
+  {
+    "line": 68,
+    "text": "{character:Sora Ichinose}I'll come with you."
+  },
+  {
+    "line": 69,
+    "text": "{character:Shop Employee}Right this way."
+  },
+  {
+    "line": 70,
+    "text": "The employee makes a standard smile in my direction and leads Sora to the service counter. In my boredom, I flip through the customer log and try to get some clues in advance."
+  },
+  {
+    "line": 71,
+    "text": "Just as I am about to extract some useful information from the many voice messages, I suddenly hear the sound of people chatting quietly."
+  },
+  {
+    "line": 72,
+    "text": "??? A"
+  },
+  {
+    "line": 73,
+    "text": "{character:??? A}W-What's this? Are my eyes playing tricks on me? So it's true that straight-A students don't spend all their time in the library..."
+  },
+  {
+    "line": 74,
+    "text": "??? B"
+  },
+  {
+    "line": 75,
+    "text": "{character:??? B}It looks like he's with a friend."
+  },
+  {
+    "line": 76,
+    "text": "{character:??? A}On my way here, I think I overheard them say they wanna play the most popular escape room, and that they haven't got suitable companions. Should we invite them to play with us?"
+  },
+  {
+    "line": 77,
+    "text": "{character:??? B}I guess we can... but I don't know him very well..."
+  },
+  {
+    "line": 78,
+    "text": "{character:??? A}Me too... I finally mustered up the courage to ask him about a math problem last time, but I got interrupted by something else."
+  },
+  {
+    "line": 79,
+    "text": "{character:??? B}...Forget it then?"
+  },
+  {
+    "line": 80,
+    "text": "{character:??? A}That would be a shame. We rarely see each other at school. Since we're lucky enough to meet outside, don't you think we should give it a go?"
+  },
+  {
+    "line": 81,
+    "text": "These two voices sound very young. I look over out of curiosity and see two students wearing Dewdrop Middle School uniforms. Although it isn't clear why they're wearing their school uniform when they're shopping on the weekend, it makes it easy to deduce what they're talking about."
+  },
+  {
+    "line": 82,
+    "text": "Dewdrop Middle School, straight-A student, with a friend... Based on what they said, it's clear who they're talking about."
+  },
+  {
+    "line": 83,
+    "text": " As I expected, the two boys approach us after Sora returns from the service counter."
+  },
+  {
+    "line": 84,
+    "text": "{character:??? A}Straight-A, what a coincidence!"
+  },
+  {
+    "line": 85,
+    "text": "{character:Sora Ichinose}Michihito, Akira, hello."
+  },
+  {
+    "line": 86,
+    "text": "Michihito"
+  },
+  {
+    "line": 87,
+    "text": "{character:Michihito}I didn't expect to see you here. It's such a coincidence. Ahem, I heard the employee say that you're looking for someone to play an escape room with. Akira and I are also looking for a team. Do you mind if the four of us form a team?"
+  },
+  {
+    "line": 88,
+    "text": "{character:Sora Ichinose}You want to team up with us?"
+  },
+  {
+    "line": 89,
+    "text": "{character:Michihito}Don-Don't worry about it if it isn't convenient for you. Just pretend I never asked..."
+  },
+  {
+    "line": 90,
+    "text": "{character:Sora Ichinose}I'm okay, but I need to ask {var:player_nickname} about it."
+  },
+  {
+    "line": 91,
+    "text": "{character:Michihito}Eh?"
+  },
+  {
+    "line": 91,
+    "text": "{character:Sora Ichinose}Eh?"
+  },
+  {
+    "line": 92,
+    "text": "Sora isn't too shocked to see his classmates who suddenly appeared in front of us. Maybe he saw them before I did. This child is used to keeping everything to himself... He probably agreed so readily because he actually really wants to interact more with his classmates."
+  },
+  {
+    "line": 93,
+    "text": "{character:player}We're thinking of playing the \"Shrine of Another World\" escape room. You're welcome to join us if you also want to play this one."
+  },
+  {
+    "line": 94,
+    "text": "{character:Michihito}No problem! By the way, this is our first time playing an escape room. Please guide us."
+  },
+  {
+    "line": 95,
+    "text": "{character:player}It's also our first time coming to this place. We'll be relying on Sora to solve the puzzles."
+  },
+  {
+    "line": 97,
+    "text": "{character:Michihito}Ahhhh! Where did you suddenly come from?"
+  },
+  {
+    "line": 98,
+    "text": "The child called Michihito is obviously more energetic and outgoing than his friend. He seems to always have something to say, which makes the atmosphere between the four people in the room less awkward."
+  },
+  {
+    "line": 99,
+    "text": "Even so, it doesn't look like Sora is that close with his classmates. It wouldn't be an exaggeration to say that they are just strangers who know each other, which concerns me. When I store my belongings, I walk a little slower on purpose to try and find out the reason for this from his classmates."
+  },
+  {
+    "line": 100,
+    "text": "{character:Michihito}I never expected the straight-A student to say yes to us. I was ready to be rejected."
+  },
+  {
+    "line": 101,
+    "text": "{character:player}Why did you think Sora would reject you?"
+  },
+  {
+    "line": 102,
+    "text": "{character:Michihito}Well, the main reason is... he rarely comes to class, and even when he does, it's to prepare for the Math Olympiad. He rarely has any interaction with someone who sucks at studying like me. I feel like he should be more interested in more profound things like studying how a rocket is launched or extremely complex things. That seems to match his image of a straight-A student."
+  },
+  {
+    "line": 103,
+    "text": "{character:player}Haha, don't make Sora out to be that extraordinary. After all, he's just a middle school student like you guys."
+  },
+  {
+    "line": 104,
+    "text": "{character:Michihito}Haha, I know, but I couldn't get my head around it so quickly."
+  },
+  {
+    "line": 105,
+    "text": "I know that Sora always has to take leave from school due to his health, but I never realized it would have such a large impact on him making friends. I keep thinking about this until after everyone has stored their personal belongings."
+  },
+  {
+    "line": 106,
+    "text": "{character:Shop Employee}Everyone, please wear the blindfold because our adventure to another world is about to begin. This escape room consists of seven rooms, and the fastest completion time so far is 46 minutes."
+  },
+  {
+    "line": 107,
+    "text": "The employee hands me a blindfold respectfully. I sense a hint of danger from this due to my familiarity with this practice..."
+  },
+  {
+    "line": 108,
+    "text": "{character:player}Can I not wear it?"
+  },
+  {
+    "line": 110,
+    "text": "Deprived of light and vision by the blindfold, I am guided forward by the employee. Along the way, Michihito screams and howls all the way as he calls out for Akira, which makes the employee guiding me laugh out loud."
+  },
+  {
+    "line": 111,
+    "text": "{character:Michihito}A-Akira, are you there? AHHHH! I'm so scared! Why isn't anyone talking? Help me—"
+  },
+  {
+    "line": 112,
+    "text": "Akira"
+  },
+  {
+    "line": 113,
+    "text": "{character:Akira}...I'm here."
+  },
+  {
+    "line": 114,
+    "text": "{character:Sora Ichinose}{var:player_nickname}... Are you there?"
+  },
+  {
+    "line": 115,
+    "text": "{character:player}I'm here too."
+  },
+  {
+    "line": 116,
+    "text": "{character:Sora Ichinose}Okay..."
+  },
+  {
+    "line": 120,
+    "text": "The mobile phone keeps vibrating, and it isn't long before there are more than 99 new messages in the group chat."
+  },
+  {
+    "line": 121,
+    "text": "{character:player}What are you waiting for? Reply to the messages."
+  },
+  {
+    "line": 122,
+    "text": "{character:Sora Ichinose}*Coughing* Um... Yes."
+  },
+  {
+    "line": 123,
+    "text": "Sora's fingertips tap the phone screen at a lightning-fast speed. I can't see what they are saying from where I am, but I can tell they have agreed on something by the smiling eyes of the person beside me."
+  },
+  {
+    "line": 124,
+    "text": "{character:Sora Ichinose}Michihito said he and Akira had just finished watching a movie and can team up with us. But he said it'll be around another half an hour before they will be here, so we'll have to wait for a little longer."
+  },
+  {
+    "line": 126,
+    "text": "{character:Sora Ichinose}Okay."
+  },
+  {
+    "line": 127,
+    "text": "{character:player}There seem to be fewer people in the queue in front of the counter now. Do you want a drink, Sora?"
+  },
+  {
+    "line": 128,
+    "text": "{character:Sora Ichinose}Yes!"
+  },
+  {
+    "line": 129,
+    "text": "{character:player}Do you want to take a look at the drinks menu? There are a lot of sweets options here. Do you prefer tiramisu or apple pancake with syrup?"
+  },
+  {
+    "line": 130,
+    "text": "{character:Sora Ichinose}I don't mind!"
+  },
+  {
+    "line": 131,
+    "text": "The sweet aroma in the boba tea store makes this moment more delightful. The boy's good mood is undisguised, and he makes a smile that can melt all negative emotions."
+  },
+  {
+    "line": 132,
+    "text": "I hope this escape room adventure can make him happier for a longer time."
+  },
+  {
+    "line": 133,
+    "text": "Sora and I arrive at the store ten minutes before the agreed time. He talks to the employee to reserve an escape room session first, then we sit on the sofa near the entrance to wait for his companions to arrive."
+  },
+  {
+    "line": 134,
+    "text": "Before long, two boys wearing the same school uniform appear. Although I don't understand why Sora's classmates are wearing their school uniform when they're shopping on the weekend, it makes it easy for me to identify them in the crowd."
+  },
+  {
+    "line": 135,
+    "text": "{character:player}Sora, your classmates are over there."
+  },
+  {
+    "line": 136,
+    "text": "{character:Michihito}Straight-A, we're sorry it took us a while to get here."
+  },
+  {
+    "line": 137,
+    "text": "{character:Sora Ichinose}This is {var:player_nickname}. We'll be playing the escape room together today. {var:player_nickname}, this is Michihito, and the one next to him is Akira. They're both my classmates."
+  },
+  {
+    "line": 139,
+    "text": "{character:Akira}H-Hi..."
+  },
+  {
+    "line": 140,
+    "text": "{character:Michihito}Wow! Is this your friend? Your friend looks really amazing. Please carry me because this is my first time playing an escape room game."
+  },
+  {
+    "line": 141,
+    "text": "{character:player}It's also our first time coming to this place. Let's help each other!"
+  },
+  {
+    "line": 142,
+    "text": "The atmosphere cools down quickly after everyone makes polite greetings. The teenagers are making awkward polite smiles and are even standing uncomfortably."
+  },
+  {
+    "line": 143,
+    "text": "Although I had heard Sora mention that he isn't very close with his classmates, seeing this scene still surprised me. His description was way too conservative because this scene was no different from strangers meeting for the first time."
+  },
+  {
+    "line": 144,
+    "text": "{character:Shop Employee}Excuse me, have your companions all arrived? The \"Shrine of Another World\" escape room you reserved is almost ready. We can start at any time."
+  },
+  {
+    "line": 145,
+    "text": "{character:Michihito}We're here! I can't wait to explore the escape room!"
+  },
+  {
+    "line": 146,
+    "text": "{character:Shop Employee}Okay, please leave your personal belongings with me. I'll return them to you after the game ends. Please wear the blindfold because our adventure to another world is about to begin. This escape room consists of seven rooms, and the fastest completion time so far is 46 minutes."
+  },
+  {
+    "line": 147,
+    "text": "Deprived of light and vision by the blindfold, I am guided forward by the employee. Along the way, Michihito screams and howls all the way as he calls out for his companions, which makes the employee guiding me laugh out loud."
+  },
+  {
+    "line": 148,
+    "text": "{character:Michihito}Akira, are you there? AHHHH! I'm so scared! Why isn't anyone talking? Help me—"
+  },
+  {
+    "line": 149,
+    "text": "As the employee's footsteps fade into the distance. The crisp sound of a lock signals the beginning of the game. Our escape room adventure has officially started."
+  },
+  {
+    "line": 150,
+    "text": "I pull off my blindfold and regain my deprived sight. In front of me is the familiar scene of Japanese-style corridors, small bridges, and flowing water. This place is quiet and peaceful, which is completely different from the dark and scary escape room I was expecting."
+  },
+  {
+    "line": 151,
+    "text": "{character:player}...The flowers, plants, and trees are arranged in exactly the same layout as the courtyard of the Mahjong Soul Shrine. Even the flowers have the same scent here! The designer of this escape room really put their heart into it."
+  },
+  {
+    "line": 152,
+    "text": "{character:player}I wouldn't be surprised at all if Ichihime and Wanjirou suddenly appear. This place looks like just a miniature version of the Mahjong Soul Shrine!"
+  },
+  {
+    "line": 153,
+    "text": "{character:Sora Ichinose}The owner of this store once said in an interview that each escape room is based on a real place, and that a lot of money has been spent on spices and vegetation to give customers the most authentic experience."
+  },
+  {
+    "line": 154,
+    "text": "{character:player}There was an interview? Sora, so you've been paying attention to this store for a while now?"
+  },
+  {
+    "line": 155,
+    "text": "{character:Sora Ichinose}I just did some research on our way here. Having more information will increase our chances of completing this escape room."
+  },
+  {
+    "line": 156,
+    "text": "{character:Michihito}Is this what they call \"the calm before the storm\"? Will an evil god or rebellious priestess suddenly appear the moment we relax our guard?"
+  },
+  {
+    "line": 157,
+    "text": "{character:Sora Ichinose}The \"Shrine of Another World\" escape room we chose is more about solving mysteries. This type of escape room usually doesn't have many horror elements, so don't worry about that."
+  },
+  {
+    "line": 159,
+    "text": "{character:player}After hearing that there aren't any horror elements, Michihito becomes more proactive almost immediately."
+  },
+  {
+    "line": 160,
+    "text": "{character:Akira}...Um."
+  },
+  {
+    "line": 161,
+    "text": "{character:player}Akira, you look like you have something to say. What is it?"
+  },
+  {
+    "line": 162,
+    "text": "Three pairs of eyes look at Akira, whose body is visibly tense. He doesn't react for a few seconds before finishing his sentence."
+  },
+  {
+    "line": 163,
+    "text": "{character:Akira}Well, after all, he is afraid of the dark, heights, water, and ghosts."
+  },
+  {
+    "line": 164,
+    "text": "{character:Michihito}Hey! Akira, don't expose me like that! I have a reputation to preserve too..."
+  },
+  {
+    "line": 165,
+    "text": "The light relieves the tension, and the boys become lively again in an instant. The relaxed atmosphere affects even Sora, who forgets about solving the puzzle for now."
+  },
+  {
+    "line": 166,
+    "text": "Guardian"
+  },
+  {
+    "line": 167,
+    "text": "{character:Guardian}Muhahahahah! Good afternoon, everybody! I am the guardian of this shrine! You can call me the \"Divine Will\". I have good news and bad news for you. What do you want to hear first?"
+  },
+  {
+    "line": 168,
+    "text": "A strange voice is broadcast in the escape room, interrupting the relaxed and pleasant conversation. Everyone unanimously chooses Sora as the representative to answer the question."
+  },
+  {
+    "line": 169,
+    "text": "{character:Sora Ichinose}We want to listen to the good news first."
+  },
+  {
+    "line": 171,
+    "text": "{character:Guardian}To protect this shrine from the influence of evil forces, the kannushi separated this shrine from the real world and transferred it to this pocket dimension. However, this place has long been eroded by the power of darkness, and a demon is about to awaken. Everyone, including you, will become its sacrifice."
+  },
+  {
+    "line": 172,
+    "text": "{character:Sora Ichinose}What's the good news?"
+  },
+  {
+    "line": 173,
+    "text": "{character:Guardian}The good news is that the kannushi predicted this and left clues in the shrine. If you follow the clues and find the final secret room, you will be able to activate the portal of light and return to the real world."
+  },
+  {
+    "line": 174,
+    "text": "{character:Guardian}If you fail to find the portal left behind by the kannushi before time runs out, you will have to face the demon's wrath alone."
+  },
+  {
+    "line": 175,
+    "text": "{character:Sora Ichinose}What are the kannushi's clues?"
+  },
+  {
+    "line": 176,
+    "text": "{character:Guardian}Muhaha! Finally a question about something important! My answer is... I don't know! It could be a piece of paper or a painting. I do not have the courage to pry about the kannushi's business."
+  },
+  {
+    "line": 178,
+    "text": "{character:Michihito}A demon, sacrifices, another world... EEEEK! I thought there are no horror elements!"
+  },
+  {
+    "line": 179,
+    "text": "{character:Akira}This is just a background setting to make the experience more immersive."
+  },
+  {
+    "line": 180,
+    "text": "{character:player}Let's start looking for clues now. There's a lot to investigate in this room, and I'm afraid it'll take a lot of time."
+  },
+  {
+    "line": 181,
+    "text": "The bright light saves us a lot of time when we search for clues. Michihito and Akira very naturally team up to help each other, forming a sharp contrast with Sora who is acting alone."
+  },
+  {
+    "line": 182,
+    "text": "{character:player}Sora, is there anything you need me to help you with?"
+  },
+  {
+    "line": 183,
+    "text": "{character:Sora Ichinose}There's a combination lock on the door. {var:player_nickname}, you can keep an eye out for items related to numbers."
+  },
+  {
+    "line": 184,
+    "text": "If this escape room really is a one-to-one replica of the Mahjong Soul Shrine, I'm definitely the one who knows this place best among the four of us. However, not long after I start searching, the broadcast notifies us that the puzzle has been solved."
+  },
+  {
+    "line": 186,
+    "text": "So fast! That was my first thought when I heard the guardian. The puzzle of the first room of an escape room is usually not too complicated, but it's still amazing that it was solved so quickly."
+  },
+  {
+    "line": 187,
+    "text": "{character:player}Haha, it's so relaxing to play problem-solving games with Sora."
+  },
+  {
+    "line": 188,
+    "text": "{character:Michihito}Who am I? Where am I? What should I do? Everything happened so quickly, as if some wondrous experience is missing."
+  },
+  {
+    "line": 190,
+    "text": "{character:Akira}...Watch out."
+  },
+  {
+    "line": 191,
+    "text": "{character:Michihito}Hmm? What out for what?"
+  },
+  {
+    "line": 193,
+    "text": "{character:Michihito}No way! I'm not that unlucky, am I...? Akira, you have to protect me!"
+  },
+  {
+    "line": 194,
+    "text": "Sora doesn't participate in the playful quarreling of his peers. He is standing between them, but he doesn't know how to blend in."
+  },
+  {
+    "line": 195,
+    "text": "Contrary to the first room, the second room is very dimly lit, and the lantern can barely illuminate the outline of the entire space. There is no furniture here, and everything is in plain sight. The room is so empty it makes one panic."
+  },
+  {
+    "line": 196,
+    "text": "Fortunately, there isn't much room to explore here, and it isn't necessary for the four of us to take action separately. I lean on the wall and feel my way forward inch-by-inch, using the most primitive way to find the exit."
+  },
+  {
+    "line": 197,
+    "text": "{character:Michihito}Everyone, come here! There seems to be a mechanism here."
+  },
+  {
+    "line": 198,
+    "text": "Everyone pays attention to Michihito, who has been afraid of everything so far and has been walking between his two classmates to make himself feel safer. Because of this reason, Sora should have already searched the walls that Michihito can touch. Given Sora's attention to detail, he shouldn't have missed anything."
+  },
+  {
+    "line": 199,
+    "text": "After pressing down on the raised mechanism on the wall with our fingers, secret doors open on both sides of the room with a loud bang. From time to time, strange noises can be heard from the narrow and deep corridors behind the doors. Although I know it is just music played by an employee, I still flinch in my heart."
+  },
+  {
+    "line": 201,
+    "text": "{character:Michihito}Ahhhhhhhhh! What does \"I hope you stay safe and sound\" mean? If we fail to complete the mission and get the key, would we be captured and eaten by the demon?"
+  },
+  {
+    "line": 202,
+    "text": "{character:Akira}...You are really absorbed in the story."
+  },
+  {
+    "line": 203,
+    "text": "No matter how strange the background setting read out by the employee, our most important goal is to get the key and escape. According to my previous experience of playing other escape rooms, it'll be more efficient if we split into compatible groups, and everyone will even grow closer."
+  },
+  {
+    "line": 204,
+    "text": "{character:Michihito}Since we need to split into two groups, why don't we..."
+  },
+  {
+    "line": 205,
+    "text": "{character:player}Why don't we split into groups based on where we're standing right now? Sora and I will go to the room on the left, and you guys will go to the room on the right. I don't know what challenges lie ahead, but the better we know our group members, the better our teamwork."
+  },
+  {
+    "line": 206,
+    "text": "{character:Michihito}I agree 100%! Akira is very brave, so I won't feel so scared if he's with me."
+  },
+  {
+    "line": 207,
+    "text": "{character:Akira}I only look brave because you are too chicken-hearted."
+  },
+  {
+    "line": 208,
+    "text": "{character:Michihito}Akira, what has my image become in your eyes?!"
+  },
+  {
+    "line": 209,
+    "text": "{character:Akira}...That's something that can only be understood and can't be expressed in words."
+  },
+  {
+    "line": 210,
+    "text": "After watching the two noisy people leave, Sora and I step into the corridor on the other side. The path had a wicked curve, and we finally reach our destination after going through an unknown number of turns."
+  },
+  {
+    "line": 211,
+    "text": "The layout here is like a mahjong table version of Alice in Wonderland. The floor is the tabletop, the walls are the edge of the table, and there are large and small mahjong tiles neatly stacked on the side. In this environment, we have become the discordant factors that don't seem to fit in."
+  },
+  {
+    "line": 213,
+    "text": "{character:player}It'll take at least an hour to flip through all these mahjong tiles. There should be some important information you haven't told us, right?"
+  },
+  {
+    "line": 215,
+    "text": "I look up and see a logical reasoning problem engraved on the ceiling, except the handwriting... is terrible, to say the least."
+  },
+  {
+    "line": 216,
+    "text": "{character:player}Solving reasoning questions is Sora's specialty. It seems that Lady Luck is still on our side."
+  },
+  {
+    "line": 217,
+    "text": "However, Sora doesn't move at all. He stands there and lets the wind blowing from nowhere mess up his hair."
+  },
+  {
+    "line": 218,
+    "text": "{character:player}What is it? Are you feeling unwell?"
+  },
+  {
+    "line": 219,
+    "text": "{character:Sora Ichinose}I'm still okay, so you don't need to worry about me."
+  },
+  {
+    "line": 220,
+    "text": "{character:player}But you look a little troubled. You clearly discovered the secret door's mechanism earlier, but you didn't say anything about it. Why is that? It's just the two of us here, so you can tell me if you don't mind."
+  },
+  {
+    "line": 221,
+    "text": "{character:Sora Ichinose}Because I want to become friends with Michihito and Akira."
+  },
+  {
+    "line": 222,
+    "text": "{character:player}Hmm... But what does that have to do with this?"
+  },
+  {
+    "line": 223,
+    "text": "{character:Sora Ichinose}It's just like how everyone is attracted by a Rubik's Cube—feeling happy is a prerequisite for making friends. I just wanted to increase the chance of success. I thought doing this would make them happier."
+  },
+  {
+    "line": 224,
+    "text": "The boy sighs lightly while frowning, expressing feelings of helplessness and confusion."
+  },
+  {
+    "line": 225,
+    "text": "{character:Sora Ichinose}But I think I messed everything up again. It would have been nice if the employee let me bring a Rubik's Cube into the escape room..."
+  },
+  {
+    "line": 226,
+    "text": "{character:player}But Sora, the Rubik's Cube is not the only thing that you are good at. You'll never make true friends if you pander to them blindly."
+  },
+  {
+    "line": 227,
+    "text": "{character:Sora Ichinose}Really?"
+  },
+  {
+    "line": 228,
+    "text": "{character:player}Those people weren't attracted by the Rubik's Cube, but you who were playing the Rubik's Cube. In my eyes, you have a lot of strengths. You're good at math and can solve any problem related to numbers. You've also read a lot of books and are far more knowledgeable than your peers."
+  },
+  {
+    "line": 229,
+    "text": "{character:player}These are all your strengths. If you show people who you really are, I'm certain they'll be attracted to you. That's what happened to me."
+  },
+  {
+    "line": 230,
+    "text": "{character:Sora Ichinose}It's as simple as that?"
+  },
+  {
+    "line": 231,
+    "text": "{character:player}Of course! Making friends isn't that complicated."
+  },
+  {
+    "line": 232,
+    "text": "How Sora usually acts, his confidence at the Math Olympiad, how serious he is when he studies coffee, how excited he looks when he talks about science... He is far more dazzling in all those situations than he is now."
+  },
+  {
+    "line": 233,
+    "text": "There are so many amazing things about this child for people to discover. No one will reject such an outstanding person."
+  },
+  {
+    "line": 234,
+    "text": "{character:Sora Ichinose}You're wrong."
+  },
+  {
+    "line": 235,
+    "text": "{character:player}Eh?"
+  },
+  {
+    "line": 236,
+    "text": "{character:Sora Ichinose}We first met in the mahjong room of the Temple of Moons. At that time, someone who was playing at your table had to leave early, so I took their place. Although you asked me to play first, your dazzling appearance on the mahjong table had attracted my eyes to you for a long time."
+  },
+  {
+    "line": 237,
+    "text": "{character:Sora Ichinose}Thank you, {var:player_nickname}. I know what to do now."
+  },
+  {
+    "line": 238,
+    "text": "Sora raises his head and forgets everything depressing him before. As I look at the slightly red tips of his ears, I feel happy about my choice in teaming up with him."
+  },
+  {
+    "line": 239,
+    "text": "Oh? You want to know whether we've cracked the puzzle? With Sora helping me, of course we got the key."
+  },
+  {
+    "line": 240,
+    "text": "{character:Michihito}Straight-A, what should we do next?"
+  },
+  {
+    "line": 241,
+    "text": "{character:Akira}Ichinose, are you looking for this?"
+  },
+  {
+    "line": 242,
+    "text": "{character:Michihito}Straight-A, take a look at this—"
+  },
+  {
+    "line": 243,
+    "text": "{character:Akira}I-Ichinose..."
+  },
+  {
+    "line": 244,
+    "text": "In the next rooms, Sora won over his classmates with his intelligence, becoming the leader of the team. We solved the puzzles at lightning-fast speed with the help of the strongest member one could ask for. In about half an hour, we have solved the puzzles of four rooms and entered the last room of \"Shrine of Another World\"."
+  },
+  {
+    "line": 245,
+    "text": "An old picture frame, a cobweb-covered sofa, a tattered bookshelf... There is even an incomplete magic circle that looks like a slowly unfolding net drawn on the ground in the center of the room. Everyone subconsciously avoids this area when walking."
+  },
+  {
+    "line": 246,
+    "text": "{character:Sora Ichinose}Although this looks like a trap, we can't solve the puzzle unless we complete the magic circle. Michihito, you and Akira will search around the sofa and the picture frame. {var:player_nickname} and I will search the bookshelf. If we're fast enough, we might even break the record for clearing this escape room."
+  },
+  {
+    "line": 247,
+    "text": "{character:Michihito}No problem! Leave it to us."
+  },
+  {
+    "line": 248,
+    "text": "Generally speaking, the last room of an escape room will have more difficult puzzles and mechanisms than the previous rooms. Firmly believing that details are the key to success, I study every item on the shelf carefully."
+  },
+  {
+    "line": 249,
+    "text": "To my surprise, the designer of this room guessed my mentality perfectly and hid a trap on the bookshelf. After a loud click, the walls on both sides begin to move forward slowly."
+  },
+  {
+    "line": 251,
+    "text": "The person who calls himself the guardian talks in an uncharacteristically gentle voice, but I couldn't smile at all. There's no way I can say that I am \"lucky\" to trigger such a terrible mechanism."
+  },
+  {
+    "line": 252,
+    "text": "{character:Michihito}What?! What should we do?! Straight-A, save me!"
+  },
+  {
+    "line": 253,
+    "text": "The constantly approaching walls fill me with a sense of dread, making even me nervous, let alone the boys around me. Fortunately, Sora kept his cool and calmed everyone down without wasting too much time."
+  },
+  {
+    "line": 254,
+    "text": "{character:Sora Ichinose}According to the clues we found when we searched separately before, we must activate the magic circle to leave."
+  },
+  {
+    "line": 255,
+    "text": "{character:Akira}I found a lockbox in a cushion of the sofa."
+  },
+  {
+    "line": 256,
+    "text": "{character:player}In it is a clipping of a poster that says you must listen to the demon's heartbeat to get the code."
+  },
+  {
+    "line": 257,
+    "text": "{character:Sora Ichinose}The demon's heartbeat... I get it! There are a number of heart-related books on the shelf."
+  },
+  {
+    "line": 258,
+    "text": "Sora presses the number on the lockbox and takes out an incomplete magic circle diagram, then I help him complete the magic circle."
+  },
+  {
+    "line": 259,
+    "text": "{character:Guardian}Muhahahahaha! You really managed to escape! It seems that the demon king's revival plan will be postponed. Although I'm not happy about it, cunning mortals, congratulations on returning to reality—"
+  },
+  {
+    "line": 260,
+    "text": "The exit opens after the sentence finishes, and the employee smiles politely while guiding us out. Although I know in my heart that the store won't really let us get crushed, I take a deep breath after leaving the escape room. It feels so great to be free."
+  },
+  {
+    "line": 261,
+    "text": "Each of the four people in our group has a different reaction. Michihito, who was most immersed in the story, was terrified by the final mechanism and was absentminded until after we left the room. Fortunately, he recovered very quickly and started hugging the people around him and cheering when he learned that we broke the fastest record."
+  },
+  {
+    "line": 262,
+    "text": "Unfortunately, Sora is right next to him, and Sora doesn't seem to be used to such physical contact. He struggles awkwardly, only to be hugged even tighter."
+  },
+  {
+    "line": 263,
+    "text": "{character:Michihito}We're saved! We survived!"
+  },
+  {
+    "line": 264,
+    "text": "{character:Sora Ichinose}Your choice of words is inaccurate. You should say we completed the puzzle."
+  },
+  {
+    "line": 265,
+    "text": "{character:Michihito}From now on, you're my \"savior\". My admiration for you is as endless as a surging river and is unstoppable like a flooding river!"
+  },
+  {
+    "line": 266,
+    "text": "{character:Sora Ichinose}*Coughing* That's so over the top."
+  },
+  {
+    "line": 267,
+    "text": "{character:Michihito}Is this the difference between a straight-A student and me? Can I play escape room games with you again next time?"
+  },
+  {
+    "line": 268,
+    "text": "{character:Sora Ichinose}Of course you can."
+  },
+  {
+    "line": 269,
+    "text": "{character:Michihito}What about other activities? Like playing mahjong or going to an arcade?"
+  },
+  {
+    "line": 270,
+    "text": "{character:Sora Ichinose}Yeah, you can send me a message or call me on the phone."
+  },
+  {
+    "line": 271,
+    "text": "{character:Michihito}Oh, does that mean we're now... friends? I've always wanted to be friends with a straight-A student."
+  },
+  {
+    "line": 272,
+    "text": "{character:Sora Ichinose}We're friends as long as you are okay with it."
+  },
+  {
+    "line": 273,
+    "text": "The boy who has been hugged tightly struggles to regain some freedom in the tight embrace. He then looks at his classmate seriously."
+  },
+  {
+    "line": 274,
+    "text": "{character:Michihito}Yes! Of course I am! Akira is willing too. You're both my friends!"
+  },
+  {
+    "line": 275,
+    "text": "{character:Akira}...Can you be quieter? Everyone in the lobby is staring at us."
+  },
+  {
+    "line": 277,
+    "text": "{character:Sora Ichinose}No."
+  },
+  {
+    "line": 278,
+    "text": "Sora, who has broken free from the shackles, stands beside me with a familiar smile on his lips and the long-overdue mischievousness and playfulness for his age."
+  },
+  {
+    "line": 279,
+    "text": "{character:Sora Ichinose}I've been getting ready to invite {var:player_nickname} to play mahjong together at the shrine tomorrow."
+  },
+  {
+    "line": 280,
+    "text": "{character:Michihito}I can go too—"
+  },
+  {
+    "line": 281,
+    "text": "{character:Akira}No, you can't. You still need to finish your homework."
+  },
+  {
+    "line": 282,
+    "text": "{character:Michihito}This is the worst piece of news I've gotten all day..."
+  },
+  {
+    "line": 283,
+    "text": "{character:Shop Employee}Excuse me, these are the items you stored with us earlier. Please check that you have everything."
+  },
+  {
+    "line": 284,
+    "text": " The employee returns our belongings to us. The Rubik's Cube pendant that is dangling in the wind on Sora's mobile phone is particularly eye-catching. He grabs the Rubik's Cube and fiddles with it a few times habitually to restore it to normal."
+  },
+  {
+    "line": 285,
+    "text": "{character:Michihito}No matter how many times I've seen it, I still think it's amazing every time I see you solve the Rubik's Cube."
+  },
+  {
+    "line": 286,
+    "text": "This is how Sora usually makes friends, and it helped him make his first group of friends. He looks at the Rubik's Cube in his hand and puts it in his pocket after smiling."
+  },
+  {
+    "line": 287,
+    "text": "{character:Sora Ichinose}I can teach you later."
+  },
+  {
+    "line": 288,
+    "text": "{character:Michihito}Woohoo! I also want to learn how to solve burr puzzles!"
+  },
+  {
+    "line": 289,
+    "text": "{character:Akira}Me too..."
+  },
+  {
+    "line": 290,
+    "text": "Our group of two quickly becomes a group of four. Although my ears are filled with the sound of chatter, it doesn't feel noisy to me at all. Sora attaches great importance to his Rubik's Cube, but I know he no longer needs it to make friends."
+  },
+  {
+    "line": 291,
+    "text": "It looks like we'll have two new friends to play mahjong with in the future. Hmm... It's time to practice my mahjong skills again."
+  },
+  {
+    "line": 292,
+    "text": "{character:player}Why don't we split into two groups by playing rock paper scissors?"
+  },
+  {
+    "line": 293,
+    "text": "To give Sora more opportunities to interact with his classmates. I propose to use a familiar game to split into two groups to become closer."
+  },
+  {
+    "line": 294,
+    "text": "The boys hesitate after hearing my proposal. After several rounds of rock paper scissors without any tacit understanding, I form a team with the boy called Akira, and Sora forms a team with the enthusiastic Michihito."
+  },
+  {
+    "line": 295,
+    "text": "However, they didn't engage in friendly interactions as I expected... After Akira and I start acting alone, the scene becomes the exact opposite of \"warm and sweet.\""
+  },
+  {
+    "line": 297,
+    "text": "I look at a huge block of ice that is half the height of a person in front of me, I fall deep into thought."
+  },
+  {
+    "line": 298,
+    "text": "{character:player}Are you sure you understand the meaning of \"small\"?"
+  },
+  {
+    "line": 299,
+    "text": "{character:Guardian}This is indeed a small object compared with the size of a demon. I very thoughtfully prepared two ice picks for you. Now, let me hear the sound of ice breaking!"
+  },
+  {
+    "line": 300,
+    "text": "{character:player}The guardian claims to want to help us to return to the real world, but keeps mentioning the demon every few sentences. Is it possible that we're caught in a trap that would awaken the demon instead? Akira, what do you think?"
+  },
+  {
+    "line": 301,
+    "text": "{character:Akira}Hmm."
+  },
+  {
+    "line": 302,
+    "text": "{character:player}This challenge is completely physical. I hope we can complete it soon."
+  },
+  {
+    "line": 303,
+    "text": "After separating from his classmate, Akira seems to become a different person. He becomes a person with few words and answers every question with fewer than two words. He even looks uncomfortable whenever I approach him. Even looking at each other in the eye is a luxury, let alone having a pleasant conversation."
+  },
+  {
+    "line": 304,
+    "text": "The moment I got the key, Akira turns and leaves, as if he is running away, leaving me alone to face the chaos of the broken ice on the ground."
+  },
+  {
+    "line": 305,
+    "text": "{character:player}I never expected Akira, who has such a vicious tongue, to have a hidden fear of social situations, which makes me really curious about how Michihito managed to start talking to him in the first place."
+  },
+  {
+    "line": 306,
+    "text": "{character:Michihito}AHHHHH—"
+  },
+  {
+    "line": 307,
+    "text": "While I mumble under my breath, Michihito's terrified screams pierce the walls into my ears. About ten minutes later, Sora brings the frightened Michihito back to the meeting point. I don't know what happened, but both of them have unhappy expressions on their faces."
+  },
+  {
+    "line": 308,
+    "text": "{character:player}What happened?"
+  },
+  {
+    "line": 309,
+    "text": "{character:Sora Ichinose}I..."
+  },
+  {
+    "line": 310,
+    "text": "{character:Michihito}It's my fault... I held Ichinose back. Ahaha, if only I managed to find the clue sooner."
+  },
+  {
+    "line": 311,
+    "text": "The change in the form of address from \"Straight-A\" to \"Ichinose\" catches my attention, even if there did seem to be some misunderstandings between them. However, getting recklessly involved in the relationship between young people can easily cause a backlash, so I have no choice but to hold my silence."
+  },
+  {
+    "line": 312,
+    "text": "Sora seems to also have noticed this detail. There is an obvious pause in his movement when he steps forward, but he quickly resumes his usual pace."
+  },
+  {
+    "line": 313,
+    "text": "{character:Sora Ichinose}Since we've got the key, let's open the exit and go to the next room."
+  },
+  {
+    "line": 314,
+    "text": "{character:Michihito}Yes! Let's not waste any time!"
+  },
+  {
+    "line": 315,
+    "text": "The two boys work together tacitly to keep focusing on the game and avoid talking about what happened just now, so I can only suppress the doubts in my heart for the time being. It just seems that my plan of helping Sora make friends during this group challenge has failed. The next game session is my last hope."
+  },
+  {
+    "line": 316,
+    "text": "However, the atmosphere between us hasn't improved at all by the time we step into the last room. Sora has almost no communication with the other two people."
+  },
+  {
+    "line": 317,
+    "text": "Can a team with such poor communication solve the final puzzle and escape from the room? The answer, of course, is no."
+  },
+  {
+    "line": 318,
+    "text": "While searching for clues, I touch a mechanism by mistake. After a loud sound, the walls on both sides begin to move forward slowly."
+  },
+  {
+    "line": 320,
+    "text": "{character:Michihito}What?! What should we do?! Save me!"
+  },
+  {
+    "line": 321,
+    "text": "{character:Akira}The store won't really crush you, but my arm will be bruised all over if you don't let go now."
+  },
+  {
+    "line": 322,
+    "text": "The constantly approaching walls fill me with a sense of dread, making even me nervous, let alone the boys around me. Only Sora has managed to keep calm. He even silently speeds up his search for clues."
+  },
+  {
+    "line": 323,
+    "text": "As time passes, the space available for us to move in becomes smaller and smaller, and the emotions of the boy gradually reach a critical point. Time seems to pass even faster in the chaos, and in the end, we rely on the guardian to provide us with the password to leave the escape room."
+  },
+  {
+    "line": 324,
+    "text": "Light shines into the escape room from outside, which is difficult for us to adjust after spending so long in the darkness. What's more uncomfortable is the mood of our group. Since we relied on the store's hints to find the exit, no matter how we look at it, we failed the challenge."
+  },
+  {
+    "line": 325,
+    "text": "{character:Sora Ichinose}Excuse me, can you explain the last puzzle to me?"
+  },
+  {
+    "line": 326,
+    "text": "{character:Shop Employee}Of course. Actually, you got really close to solving the puzzle, but one of your friends put a book that is a clue under the sofa cushion, which is why you couldn't solve the puzzle in the end."
+  },
+  {
+    "line": 327,
+    "text": "{character:Michihito}Oh, I messed everything up again... I'm so sorry, Ichinose."
+  },
+  {
+    "line": 328,
+    "text": "{character:Sora Ichinose}We only had a 50% chance to complete the challenge anyway, so you don't need to apologize to me."
+  },
+  {
+    "line": 329,
+    "text": "{character:Michihito}Ahem, it's getting late. Akira and I still need to go to the library, so we'll leave first."
+  },
+  {
+    "line": 330,
+    "text": "{character:player}Okay, take care then."
+  },
+  {
+    "line": 331,
+    "text": "{character:Michihito}Bye, Ichinose."
+  },
+  {
+    "line": 332,
+    "text": "{character:Sora Ichinose}Bye."
+  },
+  {
+    "line": 333,
+    "text": "After watching Sora's two classmates leave, Sora and I become a group of two again. Since he hasn't said anything, I ask him about what happened when we split up?"
+  },
+  {
+    "line": 334,
+    "text": "{character:player}Sora, if you don't mind, can you tell me what happened when you were with Michihito? You were both so quiet in the second half of the game, which didn't seem to match your desire to make friends with your classmates."
+  },
+  {
+    "line": 335,
+    "text": "{character:player}Is it something you don't want to tell me?"
+  },
+  {
+    "line": 337,
+    "text": "{character:Sora Ichinose}We encountered a reasoning problem that required two people to work together, but Michihito and I don't know each other that well, and it would be too overbearing of me to directly command him, so we had to find the clues by ourselves. However, many clues were scattered all over the room..."
+  },
+  {
+    "line": 338,
+    "text": "{character:Sora Ichinose}Now that I think about it, at first, Michihito would ask questions around me, but he stopped talking after he saw that I was busy. Maybe he got a little unhappy because I was too busy solving the puzzle and ignored him. I thought it would make him happier to leave the dark room if we can solve the puzzle quickly, but... I seem to have made a mess of things."
+  },
+  {
+    "line": 339,
+    "text": "The boy sighs and focuses on the Rubik's Cube in his hands to hide the sadness in his heart. Sora wants to make friends more than anyone else, but he just doesn't know how to do it."
+  },
+  {
+    "line": 340,
+    "text": "The friendship between young people is the purest and warmest, and it would be a pity to miss it. Combined with what Michihito said earlier, I basically understood the source of all problems."
+  },
+  {
+    "line": 341,
+    "text": "{character:player}Perhaps everything is just a misunderstanding."
+  },
+  {
+    "line": 342,
+    "text": "{character:player}You wanted to solve the puzzle and leave the escape room quickly because you knew Michihito was afraid of the dark, but Michihito thought he annoyed you by constantly asking you questions, so he chose to keep quiet to not get in your way of solving the puzzle. You misunderstood that and it made you even more reluctant to approach him."
+  },
+  {
+    "line": 343,
+    "text": "{character:Sora Ichinose}I thought he was angry. It'll be great if he wasn't angry."
+  },
+  {
+    "line": 344,
+    "text": "Sora's eyebrows and eyes relax. He looks in the direction his classmates left. The green branches of the trees on both sides of the road sway in the wind like they are waving to him."
+  },
+  {
+    "line": 346,
+    "text": "Probably because the employee was aware of the awkward atmosphere before, he doesn't come forward to invite us until Sora's eyebrows relax. I am about to nod when I see Sora take the pen and paper from the employee first."
+  },
+  {
+    "line": 347,
+    "text": "{character:Sora Ichinose}Since it's a misunderstanding, it'll be better to explain things in person. I want to invite Michihito and Akira to play another escape room game. {var:player_nickname}, will you play with us?"
+  },
+  {
+    "line": 348,
+    "text": "{character:player}Of course, don't forget you need four people to play these escape rooms."
+  },
+  {
+    "line": 349,
+    "text": "It seems that this afternoon wasn't fruitless. Well... Why don't we go and play mahjong with Ichihime and the others at Mahjong Soul Shrine then?"
+  },
+  {
+    "line": 350,
+    "text": "{character:player}Since we can't continue shopping today, why don't we play an escape room game? This store is just next to the commercial strip, and it'll only take us 15 minutes to walk there."
+  },
+  {
+    "line": 351,
+    "text": "Why don't you try to contact your classmates?"
+  },
+  {
+    "line": 352,
+    "text": ""
+  },
+  {
+    "line": 353,
+    "text": "Let's try our luck at the escape room."
+  },
+  {
+    "line": 354,
+    "text": "[Group Chat Message] Jiang Shan (No Escape from Bad Luck): I love playing escape room games! But I don't have enough pocket money this week. Can I play with you next week?//n[Group Chat Message] Anju Suzumiya: Record, the key information \"escape room\" was detected at 2:23 pm."
+  },
+  {
+    "line": 355,
+    "text": "[Group Chat Message] Natalie: Is that the new escape room? I heard that the pancakes next door are super delicious!//n[Group Chat Message] Jiang Shan (No Escape from Bad Luck): ...//n[Group Chat Message] Jiang Shan (No Escape from Bad Luck): Are you sure pancakes are the focus right now?!"
+  },
+  {
+    "line": 356,
+    "text": "[Group Chat Message]Michihito: Me, me, me, me, me! I'm about to come with Akira. The four of us can form a team!//n[Group Chat Message] Michihito: @Sora Ichinose Straight-A, look at me! I can go— (tries his best to capture Sora's attention)//n[Group Chat Message] Akira: ..."
+  },
+  {
+    "line": 357,
+    "text": "{character:player}That's okay, we can sit down at the boba shop and rest up before we challenge the escape room."
+  },
+  {
+    "line": 358,
+    "text": "{character:player}Hello!"
+  },
+  {
+    "line": 359,
+    "text": "{character:Shop Employee}For a better game experience, please cooperate with me."
+  },
+  {
+    "line": 360,
+    "text": "{character:player}Why don't we try our luck at the escape room? It isn't uncommon for people to not have enough people. Maybe the employee can help us find two other players."
+  },
+  {
+    "line": 361,
+    "text": "{character:Shop Employee}Let's start since you've already decided. Please follow me to the storage lockers where you can store your personal belongings."
+  },
+  {
+    "line": 362,
+    "text": "{character:Michihito}That's great! Haha, what are we doing now? Should we start looking for clues?"
+  },
+  {
+    "line": 363,
+    "text": "{character:Guardian}Muhahahahaha! I'll tell you the bad news first then!"
+  },
+  {
+    "line": 364,
+    "text": "{character:Guardian}Of course, a nice person like me is more than willing to help you. If you get stuck, you can ask me for a hint. But... you'll be punished accordingly every time you ask for help. That's all for now. Good luck!"
+  },
+  {
+    "line": 365,
+    "text": "{character:Guardian}Boom! Boom! Boom! Boom! Muhaha! I didn't expect you to solve the first puzzle so quickly. The demon lord will be very satisfied with such clever minds... Um, I mean, you must find the clues of the kannushi quickly to go to the next room and find a way to return to the real world."
+  },
+  {
+    "line": 366,
+    "text": "{character:Michihito}Um, what I'm trying to say is that solving the puzzle shouldn't be our only goal. There are many easter eggs waiting for us to discover in the room, which will also be fun. Um... forget it. That's not important. Let's hurry to the next room."
+  },
+  {
+    "line": 367,
+    "text": "{character:player}Akira is telling you to be careful of the mechanisms in the rooms. After all, a demon can appear at any time to capture you!"
+  },
+  {
+    "line": 368,
+    "text": "{character:Guardian}You four must really be in a hurry to return to the real world. You managed to find the secret room so quickly. There is half a key in each of the two rooms. You need to split into two groups to complete the task at the same time to get them. Muhaha! I've wished you good luck many times already, so this time... I hope you stay safe and sound!"
+  },
+  {
+    "line": 369,
+    "text": "Team up with Sora."
+  },
+  {
+    "line": 370,
+    "text": "Play rock paper scissors to split into two groups."
+  },
+  {
+    "line": 371,
+    "text": "{character:Guardian}Muhahahah! Pitiful sacrifices! I'm delighted to tell you the rules of completing this puzzle. After all, I might be the last person to talk to you in this alternate world. Mahjong is a traditional game in One Han City, and it is no exception in this alternate world. The key you need is embedded in one of these 136 mahjong tiles."
+  },
+  {
+    "line": 372,
+    "text": "{character:Guardian}Correct! What an intelligent mortal! You can use your reasoning to find out which mahjong tile the key is hidden in. The puzzle is above you."
+  },
+  {
+    "line": 373,
+    "text": "{character:Guardian}Oh! You managed to find the hidden stage. How \"lucky\" of you! You'll be squashed flat if you can't activate the portal in ten minutes. Haha! Good luck!"
+  },
+  {
+    "line": 374,
+    "text": "{character:Michihito}Sora! Hehe, since we're friends now, you won't mind if I call you that, right? Why don't we play another escape room game tomorrow? I'm sure we'll do better this time!"
+  },
+  {
+    "line": 375,
+    "text": "{character:Guardian}You two have a very simple mission. The key you need is inside this small block of ice, and you just need to find a way to melt it. Muhahaha! Lady Luck really is looking over you two."
+  },
+  {
+    "line": 376,
+    "text": "{character:Guardian}Oh! You managed to find the hidden stage. How \"lucky\" of you! You'll be squashed flat if you can't activate the portal in 30 minutes. Haha! Good luck!"
+  },
+  {
+    "line": 377,
+    "text": "{character:Sora Ichinose}I just don't know how to talk to him. We didn't actually have any conflicts."
+  },
+  {
+    "line": 378,
+    "text": "{character:Shop Employee}Customers, our store sincerely invites you to participate in our latest event. If you write down your experience or recommendations in the guestbook, you'll have the opportunity to win a free escape room experience coupon that can be used whenever you want!"
+  },
+  {
+    "line": 380,
+    "text": "The temperature becomes comfortable after the rain continues to fall in autumn. After hiding in an air-conditioned room for a whole summer, I'm finally able to go out and get some fresh air. I can't wait to ask Sora to go somewhere to relax together."
+  },
+  {
+    "line": 381,
+    "text": "However... I didn't expect that so many people would have the same idea as me!"
+  },
+  {
+    "line": 382,
+    "text": "Ten minutes later"
+  }
+]

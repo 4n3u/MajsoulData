@@ -1,0 +1,1 @@
+local a=require("ExcelTool")local b=a.Pack;local c=a.Sub;local d=a.PackGet;local e=a.Dmap;local f={["id"]=1,["good_id"]=2,["good_count"]=3}local g={700001,nil,1}local h=function(i,j)return d(i,j,f,g)end;local k={}k[700001]={b({false,5001},h),b({false,5002},h),b({false,5003},h),b({false,5004},h),b({false,2201},h)}return{tb=k}

@@ -1,0 +1,1094 @@
+[
+  {
+    "line": 1,
+    "text": "Heavy snow covers the city with a layer of silver as the wind drives busy pedestrians forward. The crunching sound made when the soles of pedestrians' shoes step on the snow adds a musical feeling to the snow-covered streets."
+  },
+  {
+    "line": 2,
+    "text": "Romance is something the people of this city have never lost. Music lovers from all walks of life have gathered in front of the opera house, and not even the cold can dampen their love for music. I look left and right and soon find the person I'm meeting."
+  },
+  {
+    "line": 3,
+    "text": "A young man with blond hair and blue eyes is standing in front of the steps with his hands in his pockets. Standing tall and straight with handsome features, wide shoulders, and a narrow waist, he has the temperament of an aristocrat even though he is dressed in casual clothes, which makes him very eye-catching in the crowd."
+  },
+  {
+    "line": 4,
+    "text": "player"
+  },
+  {
+    "line": 5,
+    "text": "{character:player}Club president! I'm over here!"
+  },
+  {
+    "line": 6,
+    "text": "I wave as I shout out to Akechi and only stop when he notices me and starts walking towards me."
+  },
+  {
+    "line": 7,
+    "text": "As the smart mahjong table invented by Mirai suddenly malfunctioned, I was invited to be the temporary training partner of the National University of Fuuchi Mahjong Club and attend club activities with them. The mahjong club won a friendly match at a nearby school last week, so Hideki Akechi has specially invited me to watch an opera show to thank me."
+  },
+  {
+    "line": 8,
+    "text": "Hideki Akechi"
+  },
+  {
+    "line": 9,
+    "text": "{character:Hideki Akechi}We aren't at the mahjong club. I prefer you to call me directly by my name in private."
+  },
+  {
+    "line": 10,
+    "text": "{character:player}Sorry, I picked up the habit of calling you that from Natsuki and the others during the club training... When did you arrive? You must have been waiting for some time already."
+  },
+  {
+    "line": 11,
+    "text": "The water vapor escaping from my mouth quickly liquefies into a fine white water mist in the outdoor environment. I suddenly shiver in the hazy fog, and bounce a few times on each leg to keep myself warm with the exercise."
+  },
+  {
+    "line": 12,
+    "text": "{character:Hideki Akechi}I only arrived five minutes before you. There's still some time until the show starts, so do you want to take a look around the place first? This is One Han City's grandest opera house, so it'll be a waste to not take a good tour of it while you're here."
+  },
+  {
+    "line": 13,
+    "text": "{character:player}That sounds great! It would be even better if a certain kind person is willing to explain things to me."
+  },
+  {
+    "line": 14,
+    "text": "{character:Hideki Akechi}Of course! It would be my honor."
+  },
+  {
+    "line": 15,
+    "text": "The walls and roof made of reinforced concrete keep the cold and noise outside the building, and the marble floor is polished so brightly that it looks like a mirror and can even vaguely reflect the outline of the lights on the ceiling."
+  },
+  {
+    "line": 16,
+    "text": "I follow Hideki Akechi and listen to him slowly introduce the history and background of this building to me. The building's obscure design concepts are conveyed in a simple and interesting way, which is refreshing and mesmerizing."
+  },
+  {
+    "line": 17,
+    "text": "{character:Hideki Akechi}It is said that the designer of this theater got a precious luminous pearl before starting on the designs and loved it so much that they incorporated the concept of a pearl into the architectural design. That's why the theater is a massive oval-shaped building, even though most people think it looks more like an alien's UFO."
+  },
+  {
+    "line": 18,
+    "text": "{character:player}Well, if you didn't tell me this, with my poor imagination, I would only think that it looks like an eggshell."
+  },
+  {
+    "line": 19,
+    "text": "{character:Hideki Akechi}You wouldn't exactly be wrong. Eggshells protect the vitality inside them and give birth to new artistic creations that can break out at any time. Whether it is the Renaissance or an emerging trend, they can always usher in a new era."
+  },
+  {
+    "line": 20,
+    "text": "{character:player}That sounds so much more interesting, club president... um, Hideki... You sure know a lot about this place."
+  },
+  {
+    "line": 21,
+    "text": "{character:Hideki Akechi}My father loved to listen to opera very much. He believed that music can make people become better. He brought me here all the time ever since I was six years old. The most frequently we came here was about two or three times a month."
+  },
+  {
+    "line": 22,
+    "text": "{character:Hideki Akechi}At that time, the One Han City Opera House was still a rather traditional old-fashioned building. The \"eggshell\" we see now is what it looks like after it was expanded."
+  },
+  {
+    "line": 23,
+    "text": "{character:player}No wonder you know so much about the opera house..."
+  },
+  {
+    "line": 24,
+    "text": "He is never stingy with his time and energy when it comes to studying something he's interested in. Maybe that's why Hideki Akechi is such an outstanding person."
+  },
+  {
+    "line": 25,
+    "text": "Time passes quickly. Before we know it, the show is about to start. On the way to the ticket booth, the drink shop in the opera house catches my attention. Seeing that I was interested, the employee welcomed us enthusiastically."
+  },
+  {
+    "line": 26,
+    "text": "Employee"
+  },
+  {
+    "line": 27,
+    "text": "{character:Employee}\"You love me, and I love you. Love is so sweet that it makes the winter warm.\" For our third anniversary, we've released a special drink called \"Sweet Love.\" Wanna give it a try? It's not only delicious but can also warm your hands up."
+  },
+  {
+    "line": 28,
+    "text": "{character:Employee}Buy one and get a second drink for half price. It's a great deal."
+  },
+  {
+    "line": 29,
+    "text": "After noticing that Hideki Akechi and I are together, the clever employee immediately adds."
+  },
+  {
+    "line": 30,
+    "text": "{character:player}Well..."
+  },
+  {
+    "line": 32,
+    "text": "{character:Hideki Akechi}So the \"buy one get the second for half price\" marketing tactic does work on you. If I knew this before, I would have used a different tactic when asking you to help the club."
+  },
+  {
+    "line": 33,
+    "text": "{character:player}That's not entirely it. Being outside for so long makes my body kinda stiff. I could really do with a cup of something hot to keep my hands warm."
+  },
+  {
+    "line": 34,
+    "text": "{character:Hideki Akechi}...I'm sorry, I didn't notice that. Would it be better if you wear another jacket?"
+  },
+  {
+    "line": 35,
+    "text": "{character:player}No, I'll be okay. I just need a little time. Put your jacket back on first."
+  },
+  {
+    "line": 36,
+    "text": "I reject his proposal with a wave of my hand and take the bag the employee hands over to Hideki Akechi before he can take it."
+  },
+  {
+    "line": 37,
+    "text": "{character:player}Hmm? What's this? I thought I only ordered two cups..."
+  },
+  {
+    "line": 38,
+    "text": "{character:Employee}The gentleman next to you requested these."
+  },
+  {
+    "line": 39,
+    "text": "I look at Hideki Akechi in confusion. He smiles and takes the bag with the tea inside and takes out the two \"extra\" cups."
+  },
+  {
+    "line": 40,
+    "text": "{character:Hideki Akechi}These two cups contain warm tap water, which you can use to warm your hands. It's better to enjoy the tea since the shopkeeper worked so hard to make it."
+  },
+  {
+    "line": 41,
+    "text": "His voice has a charismatic magic to it that makes people believe him unconditionally. I can see from the undisguised charmed look on the employee's face that he had been charmed by Hideki Akechi."
+  },
+  {
+    "line": 42,
+    "text": "{character:Hideki Akechi}Let's go. The show is about to start, so we should get our tickets checked."
+  },
+  {
+    "line": 43,
+    "text": "An opera show usually runs for about three hours. To not become one of those annoying people who keep going to the toilet and interrupting everyone around them, I decide to drink fewer fluids around this time. I shake my head, reject the employee's offer, and lead Hideki Akechi straight to the ticket gate."
+  },
+  {
+    "line": 44,
+    "text": "However, I'm still thinking about that shop filled with the sweet aroma of tea when we get to the ticket gate."
+  },
+  {
+    "line": 45,
+    "text": "{character:player}It smelled so good. I bet the tea tastes great..."
+  },
+  {
+    "line": 46,
+    "text": "I mumble to myself as we wait for our tickets to be checked."
+  },
+  {
+    "line": 47,
+    "text": "{character:Hideki Akechi}There are so many people in the queue. By the looks of it, we'll probably need to wait for 20 minutes... {var:player_nickname}, wait for me here. I'll be right back."
+  },
+  {
+    "line": 48,
+    "text": "{character:player}Hmm? Where are you..."
+  },
+  {
+    "line": 49,
+    "text": "Hideki Akechi turns and leaves, disappearing around a corner, before I can finish speaking."
+  },
+  {
+    "line": 50,
+    "text": "As I get so bored that I'm about to study the posters hanging on the walls of the opera house, Hideki Akechi finally reappears with a paper bag that looks really familiar."
+  },
+  {
+    "line": 51,
+    "text": "{character:player}Huh? Isn't this... that drink called \"Sweet Love?\""
+  },
+  {
+    "line": 52,
+    "text": "{character:Hideki Akechi}I noticed that you kept rubbing your hands from time to time when we were taking a tour through the opera house earlier. I think it must be because you were outside for too long. I thought... maybe you could do with a cup of warm tea."
+  },
+  {
+    "line": 53,
+    "text": "{character:player}So you left just then to buy me this milk tea?"
+  },
+  {
+    "line": 54,
+    "text": "{character:Hideki Akechi}You don't like it? You looked like you regretted not getting it when we left that shop."
+  },
+  {
+    "line": 55,
+    "text": "{character:player}No, I love it. I just didn't think you would notice."
+  },
+  {
+    "line": 56,
+    "text": "{character:Hideki Akechi}I invited you here today to thank you, so your feelings come first today."
+  },
+  {
+    "line": 57,
+    "text": "Hideki Akechi reaches into the paper bag and pulls out one of the drinks for me."
+  },
+  {
+    "line": 58,
+    "text": "{character:Hideki Akechi}This one is yours. It's pretty hot, so be careful not to burn yourself."
+  },
+  {
+    "line": 59,
+    "text": "{character:player}Thanks... But your cup doesn't seem to be hot. Did the employee make a mistake?"
+  },
+  {
+    "line": 60,
+    "text": "{character:Hideki Akechi}Haha, that's because I don't need to warm my hands with a drink. I only bought two cups because..."
+  },
+  {
+    "line": 61,
+    "text": "{character:player}Because...?"
+  },
+  {
+    "line": 62,
+    "text": "{character:Hideki Akechi}Because the second cup is half price."
+  },
+  {
+    "line": 63,
+    "text": "{character:Hideki Akechi}..."
+  },
+  {
+    "line": 63,
+    "text": "{character:player}..."
+  },
+  {
+    "line": 64,
+    "text": "Although Hideki Akechi doesn't look like someone who would be attracted by the \"buy one get the second for half price\" marketing tactic, his words make me laugh out loud."
+  },
+  {
+    "line": 65,
+    "text": "{character:Hideki Akechi}Let's go. It's almost our turn to have our ticket checked."
+  },
+  {
+    "line": 66,
+    "text": "Only after entering the performance hall do I realize how little I know about this \"largest opera house of One Han City.\""
+  },
+  {
+    "line": 67,
+    "text": "A space that has no obvious boundaries and is composed of gold and red spreads throughout the hall. Exquisite gold-plated statues are perfectly integrated into the area as decorations. Seeing the whole area in the same color gives me the illusion that I've shrunk down."
+  },
+  {
+    "line": 68,
+    "text": "{character:player}It's really shocking that this performance hall that can accommodate 5,000 people is almost full."
+  },
+  {
+    "line": 69,
+    "text": "{character:Hideki Akechi}Music is a medium that allows people to communicate without speaking the same language, and people only need a moment to understand the emotions conveyed by actors. This wonderful feeling is why opera shows always have such a big audience."
+  },
+  {
+    "line": 70,
+    "text": "{character:Hideki Akechi}What's more, this performance features many famous opera actors, so I'm actually not surprised about this."
+  },
+  {
+    "line": 71,
+    "text": "{character:player}Oh... The ticket must have been really expensive. I feel bad for making you spend so much money on it."
+  },
+  {
+    "line": 72,
+    "text": "{character:Hideki Akechi}It's not a lot compared with your smile, which makes everything worth it. Besides, I also learned something new from you today."
+  },
+  {
+    "line": 73,
+    "text": "{character:player}You did?!"
+  },
+  {
+    "line": 74,
+    "text": "Hideki Akechi shakes the cup in his hand gently, causing the liquid to make a distinct water sound when it hits the wall of the cup."
+  },
+  {
+    "line": 75,
+    "text": "{character:Hideki Akechi}I was curious, so I got the same drink as yours, and it tastes so much better than I expected... How should I put it? Compared to the boba tea I usually have, its aftertaste has a romantic aroma."
+  },
+  {
+    "line": 76,
+    "text": "Everyone enters the venue while we speak. A bell tolls three times in the theater to remind everyone the show is about to begin. I make a shush gesture to Hideki Akechi and sit upright there waiting for the curtain to rise."
+  },
+  {
+    "line": 77,
+    "text": "Actress A"
+  },
+  {
+    "line": 78,
+    "text": "{character:Actress A}I'm coming! I'm coming! Stop torturing my poor doorbell. It's... Oh, excuse me, I thought my roommate had returned. Who are you looking for?"
+  },
+  {
+    "line": 79,
+    "text": "Actor B"
+  },
+  {
+    "line": 80,
+    "text": "{character:Actor B}Is this where Mr. Kane lives? I made an appointment with him yesterday."
+  },
+  {
+    "line": 81,
+    "text": "{character:Actress A}Oh, I think you've got the wrong place. Mr. Kane lives next door. The Labrador in his garden is extremely fierce, so be careful when you pass by."
+  },
+  {
+    "line": 82,
+    "text": "{character:Actor B}Yes, I did go to the wrong place, until you opened the door. The moment you opened that door, I realized that God must have led me here. Beautiful lady, I'm twenty-four years old, with healthy parents and a well-off family, and I'm planning to..."
+  },
+  {
+    "line": 83,
+    "text": "{character:Actress A}Wait! Why are you telling me all this?"
+  },
+  {
+    "line": 84,
+    "text": "{character:Actor B}Because I fell in love with you the moment you opened the door."
+  },
+  {
+    "line": 85,
+    "text": "The show we're watching is called \"Apricot Blossom Rain,\" and it is one of the ten major opera shows. This show tells the tale of a girl from an ordinary family who meets a young nobleman and how they quickly fall in love despite the disparity in their status and the constraints of secular ethics. In this tale, the father of the young nobleman insists on making his son marry the daughter of a noble family with similar status, forcing the two protagonists to break up and causing irreparable regrets."
+  },
+  {
+    "line": 86,
+    "text": "On the stage, the actor playing the role of a young, rich, and bohemian nobleman puts on a very likable performance, winning bursts of good-natured laughter from the audience."
+  },
+  {
+    "line": 87,
+    "text": "When he gets down on one knee in the heavy snow created by a snow machine on the stage with a rose in his hand and sings to the audience, his love fills the performance hall, so powerful that it'll move even the most indifferent person."
+  },
+  {
+    "line": 88,
+    "text": "However... I can't shake the feeling that he's missing something... As I wonder about this, I subconsciously look next to myself."
+  },
+  {
+    "line": 89,
+    "text": "Hideki Akechi, who is sitting next to me, is smiling calmly like always. As he sits there quietly, revealing his gentle and considerate temperament. \"Now this is what a real young nobleman should be like,\" I think to myself."
+  },
+  {
+    "line": 90,
+    "text": "{character:Hideki Akechi}?"
+  },
+  {
+    "line": 91,
+    "text": "Noticing my eyes on him, Hideki Akechi asks me with his eyes if I need his help. I quickly shake my head to tell him that I'm fine and focus on the stage again."
+  },
+  {
+    "line": 92,
+    "text": "A heavy symphony is played as the stubborn and conservative father discovers his son's love affair. To him, this is a betrayal of the family, so he gives orders to lock his son up at home and force him to meet the daughter of another noble family to bring his \"lost\" son back on the \"right\" path in life."
+  },
+  {
+    "line": 93,
+    "text": "The lovers were forcibly separated, and the young nobleman pretended to follow his father's arrangement to protect his beloved. But those who are madly in love don't think very rationally. When he learned his father planned to announce his engagement at his birthday party, he made an important decision..."
+  },
+  {
+    "line": 94,
+    "text": "{character:Actor B}Beautiful ladies, flowers, gold, and sweet smiles. Everything is so pleasing to the eye. I have an important announcement to make. Yes, right now, at my birthday party."
+  },
+  {
+    "line": 95,
+    "text": "Actor C"
+  },
+  {
+    "line": 96,
+    "text": "{character:Actor C}Everyone, I apologize for my son's rudeness. I'll have someone take him back to his room... Listen, now is not the time for you to be so headstrong. If you have any conscience at all as the heir of the family, just shut up and go upstairs, and I'll pretend that never happened."
+  },
+  {
+    "line": 97,
+    "text": "{character:Actor B}No, father! I've made up my mind."
+  },
+  {
+    "line": 98,
+    "text": "{character:Actor C}Be quiet!"
+  },
+  {
+    "line": 99,
+    "text": "{character:Actor B}I won't stop even if you beat my back with your cane. If you lock me in my room, I'll shout loudly every day. Even if you pull out my tongue, I'll still write down everything I want to say on paper."
+  },
+  {
+    "line": 100,
+    "text": "{character:Actor B}I-I'm in love with a young editor of the newspaper! She's a girl who loves life and longs for freedom and romance. Even the sun pales in comparison when she laughs. I'm head over heels for her, and love her with my entire heart."
+  },
+  {
+    "line": 101,
+    "text": "{character:Actor B}Be it the past, present, or future, she's the only one I'll love! Just like how she'll only love me. I must marry her and have her take on my surname."
+  },
+  {
+    "line": 102,
+    "text": "{character:Actor C}Shut up, you ungrateful child! Are you crazy?!"
+  },
+  {
+    "line": 103,
+    "text": "{character:Actor B}Father, being in love with someone doesn't break any laws. I just want to give her my everything..."
+  },
+  {
+    "line": 104,
+    "text": "{character:Actor C}Why do you think you have such a noble status? Everything you have is from your family! It seems that I've indulged you so much that you think I'm soft and kind. I'll show you the fate of someone who angers the head of the family! I hope you can still be so naive after I'm done with you... Someone come and take him away! It's time for him to learn some lessons!"
+  },
+  {
+    "line": 105,
+    "text": "This young man who has always been well off never thought that one day his worst enemy would be his own father. He struggled and tried hard to convince him to change his mind, but he was still locked in a dark basement. His spirit, and even his body started dying slowly."
+  },
+  {
+    "line": 106,
+    "text": "Seeing a free and unrestrained person get tortured until he looks like he has nothing to live for touches my heart even though I know it's part of the script."
+  },
+  {
+    "line": 107,
+    "text": "The young nobleman, who had everything taken from him, takes a deep breath and opens his mouth in preparation to express his longing for his lover to the moonlight. I can already imagine how sad and beautiful his next poetic words will be. I and the entire audience are looking forward to them."
+  },
+  {
+    "line": 108,
+    "text": "{character:Actor B}My beloved, for you, I'm willing to sacrifice my life to—Eh?!"
+  },
+  {
+    "line": 109,
+    "text": "However, after the actor started singing one line, the stage was plunged into endless darkness after a short cry..."
+  },
+  {
+    "line": 110,
+    "text": "player"
+  },
+  {
+    "line": 111,
+    "text": "{character:player}...?"
+  },
+  {
+    "line": 112,
+    "text": "The pitch-black darkness of the theater seems like it is about to drag people into the abyss. Recalling the interrupted singing, it seems that something has happened on the stage."
+  },
+  {
+    "line": 113,
+    "text": "{character:Hideki Akechi}{var:player_nickname}, are you okay?"
+  },
+  {
+    "line": 114,
+    "text": "{character:player}I'm fine. Um, is this... part of the opera show?"
+  },
+  {
+    "line": 115,
+    "text": "{character:Hideki Akechi}Unfortunately, no. Although it sounds unbelievable... there's a power outage here at the opera house. Ahem, I knew shouldn't have chosen to watch an opera."
+  },
+  {
+    "line": 116,
+    "text": "{character:player}Why do you say that?"
+  },
+  {
+    "line": 117,
+    "text": "{character:Hideki Akechi}Well, I actually hesitated before coming here... The most famous operas in the world are basically all tragedies, and I can never shake the feeling that they are alluding to something unlucky."
+  },
+  {
+    "line": 118,
+    "text": "{character:player}Huh?! I always thought you were a staunch materialist. Do you actually care about something like this?"
+  },
+  {
+    "line": 119,
+    "text": "{character:Hideki Akechi}I go back to my grandma's house in the countryside every summer vacation. She has her own beliefs but never forces me to accept them. She spends most of her time taking care of the Buddhist altars at home by herself. It wasn't much later that I found out she had affected me more than I thought."
+  },
+  {
+    "line": 120,
+    "text": "{character:player}Like not saying anything disrespectful in shrines or never saying divorce lightly? Hmm, I'm just giving examples."
+  },
+  {
+    "line": 121,
+    "text": "{character:Hideki Akechi}Well... you can think of it like that. I don't want to think this way either, but the fact is, we encountered a power outage while watching a tragic opera at the opera house. You should know that this has never happened here since this opera house was built. I finally got the chance to invite you to something, and this happens..."
+  },
+  {
+    "line": 122,
+    "text": "There is a hint of frustration in Hideki Akechi's voice. It looks like he really does care a lot about this night out. I look at the performance hall, which is so dark that I can't even see my fingers, and don't know whether I should laugh or cry. At this moment, I don't know if I should praise his intuition or not."
+  },
+  {
+    "line": 123,
+    "text": "Staff A"
+  },
+  {
+    "line": 124,
+    "text": "{character:Staff A}Dear audience, the opera house is currently experiencing a power outage. We expect the backup power to activate within 15 minutes. Please stay calm and stay in your seat. Thank you for your cooperation."
+  },
+  {
+    "line": 125,
+    "text": "Unable to use the broadcasting system because that requires power, the manager of the opera house can only shout through a simple loudspeaker to try to calm everyone down. The sudden power outage during the performance confuses and dissatisfies the audience. Fortunately, everyone is still quite calm for the time being, and nothing too chaotic has happened."
+  },
+  {
+    "line": 126,
+    "text": "In addition to the shouting manager, some staff members with flashlights have appeared in the aisles between the seats to maintain order at the scene."
+  },
+  {
+    "line": 127,
+    "text": "The flashlights return some light to the theater, and I sit completely relaxed in my chair. Using the weak light, I look at Hideki Akechi beside me. Almost as if he can sense my actions, he turns his head to me too and smiles at me."
+  },
+  {
+    "line": 128,
+    "text": "One minute... Two minutes... Three minutes... Time passes by, second by second, seeming to flow slower than usual because of the darkness. More than 15 minutes have passed, but there is no sign of light returning to the opera house."
+  },
+  {
+    "line": 129,
+    "text": "The staff members who are maintaining order keep walking back and forth with their flashlights. Unfortunately, for a performance hall that can accommodate more than a thousand people, the light of a few flashlights is like a drop in the bucket. The audience's patience has been exhausted by the backup power supply that hasn't been activated for some reason and the long wait."
+  },
+  {
+    "line": 130,
+    "text": "The audience, which has been quiet for all this time, starts to protest. The current situation is really unfriendly for people who are scared of the dark."
+  },
+  {
+    "line": 131,
+    "text": "To avoid falling and getting injured while walking, after thinking for a while, I decide to stay in my seat and wait for the lights to turn back on."
+  },
+  {
+    "line": 132,
+    "text": "The audience around me keeps asking staff members about the situation of the power outage. As the darkness has lasted much longer than expected, I can feel that people's patience is about to run out."
+  },
+  {
+    "line": 133,
+    "text": "Audience A"
+  },
+  {
+    "line": 134,
+    "text": "{character:Audience A}Let me go! Let me go home—"
+  },
+  {
+    "line": 135,
+    "text": "The thing I was worrying about the most happened. The young woman sitting next to me on the other side is especially scared of the dark, and is having an emotional breakdown after enduring the darkness for so long. She screams as she stands and tries to feel her way out of the hall in the darkness."
+  },
+  {
+    "line": 136,
+    "text": "Staff B"
+  },
+  {
+    "line": 137,
+    "text": "{character:Staff B}Excuse me, lady, the backup power supply will be on soon. You have nothing to worry about."
+  },
+  {
+    "line": 138,
+    "text": "{character:Audience A}I don't want to stay here! Let me go home! I want to go home!"
+  },
+  {
+    "line": 139,
+    "text": "{character:Staff B}Wait, lady—"
+  },
+  {
+    "line": 140,
+    "text": "The nearest staff member waves a flashlight while coming closer. The young woman starts moving towards the exit before the staff can finish talking. Because I'm the closest to her, I get stepped on a few times because she is moving at a disorderly pace and I can't get out of her way in time."
+  },
+  {
+    "line": 141,
+    "text": "{character:player}Argh—"
+  },
+  {
+    "line": 142,
+    "text": "{character:Hideki Akechi}Are you okay?"
+  },
+  {
+    "line": 143,
+    "text": "Upon hearing my cry of pain, Hideki Akechi immediately turns on the flashlight of his phone. The dim light reveals a clear shoe print on my shoe, which is evidently the handiwork of the young woman."
+  },
+  {
+    "line": 144,
+    "text": "{character:player}Thank god she wasn't wearing heels, otherwise you'll be coming to the hospital with me."
+  },
+  {
+    "line": 145,
+    "text": "{character:Hideki Akechi}I'm relieved that you're okay... The next time I invite you to watch an opera, I'll make sure I choose a comedy."
+  },
+  {
+    "line": 146,
+    "text": "{character:player}Sure, but it looks like it won't be long until everyone's gone if this continues."
+  },
+  {
+    "line": 147,
+    "text": "After the first person leaves, it doesn't take long before more people start to leave after losing their patience in the darkness. Under the influence of a few particularly panicked members of the audience, the scene quickly falls into chaos. Although the staff members keep yelling out for people to stay calm and stay in their seats, more and more people get up and move towards the exit in the darkness."
+  },
+  {
+    "line": 148,
+    "text": "The sound of footsteps, banging, and mobile phones dropping onto the ground mix together... This is the first time such a chaotic situation has taken place in the theater. Fortunately, most of the audience is still rational, exiting the building in an orderly fashion."
+  },
+  {
+    "line": 149,
+    "text": "While everyone is busy leaving the venue, the backup power supply finally kicks in, making the entire performance hall bright again."
+  },
+  {
+    "line": 150,
+    "text": "Very few people are still in their seats in the previously fully seated hall. Meanwhile, the aisles that were empty have become extremely congested."
+  },
+  {
+    "line": 151,
+    "text": "Not in the mood to observe other people, I turn my gaze back to Hideki Akechi. Unlike everyone else in the chaotic audience, he has been smiling the whole time. Although he expressed his frustration in the darkness before, the smile on his face right now is like a beautiful mask that hides his true appearance."
+  },
+  {
+    "line": 152,
+    "text": "Opera house broadcast"
+  },
+  {
+    "line": 153,
+    "text": "{character:Opera house broadcast}Hi everyone, we apologize for the terrible viewing experience. After discussing this with the performers, we have decided to cancel this show and will arrange for you to watch another show within one week. If you are unable to watch the show due to any time clashes, you can go to the box office to request a refund."
+  },
+  {
+    "line": 154,
+    "text": "{character:Opera house broadcast}The staff of the opera house would like to express their sincerest apologies to you all for this power outage."
+  },
+  {
+    "line": 155,
+    "text": "The announcement is played at a timely moment, giving the audience who are leaving the perfect excuse to do so. The curtain of the stage is lowered slowly, covering up the figures of the actors who are busy packing up the props. It seems that I'll have to wait until next time to finish watching this romantic love story between the young nobleman and the commoner girl."
+  },
+  {
+    "line": 156,
+    "text": "Since we won't be able to finish watching the show, Hideki Akechi and I get up and join the crowd leaving the opera house."
+  },
+  {
+    "line": 157,
+    "text": "{character:player}Things are looking bad... Hmm, Hideki, what should we do now?"
+  },
+  {
+    "line": 158,
+    "text": "{character:Hideki Akechi}Oh? Are you so sure I have a solution?"
+  },
+  {
+    "line": 159,
+    "text": "{character:player}Of course. My instinct tells me that you have a way to fix this. Haha, I guess you can call it \"blind\" trust."
+  },
+  {
+    "line": 160,
+    "text": "I can't see Hideki Akechi's expression in the darkness, but I can tell from the smile I hear in his voice that he is not affected by the power outage in the theater and is in a surprisingly good mood."
+  },
+  {
+    "line": 161,
+    "text": "A staff member soon comes with a flashlight to confirm the situation. I see Hideki Akechi stand up and say something in the staff's ear, after which something seems to have dawned on the staff. It's a pity that the audience area is too noisy for me to hear what they are saying."
+  },
+  {
+    "line": 162,
+    "text": "{character:player}What did you just say to the staff?"
+  },
+  {
+    "line": 163,
+    "text": "I asked Hideki Akechi the question on my mind after the staff left. Instead of answering my question directly, he laughs refreshingly."
+  },
+  {
+    "line": 164,
+    "text": "{character:Hideki Akechi}You'll find out soon."
+  },
+  {
+    "line": 165,
+    "text": "{character:player}Huh?"
+  },
+  {
+    "line": 166,
+    "text": "{character:Actor B}My dear beloved..."
+  },
+  {
+    "line": 167,
+    "text": "I suddenly hear singing in the theater, and despite the darkness around me, I instinctively look towards the source of the sound—the stage! The actors have continued their performance!"
+  },
+  {
+    "line": 168,
+    "text": "{character:player}Did you get the staff to tell the actors to continue with the performance?"
+  },
+  {
+    "line": 169,
+    "text": "{character:Hideki Akechi}Music is one of the fastest ways to quiet everyone down. This performance hall was built with the most comprehensive acoustic design control. The designer did this to allow the audience to enjoy the same opera performance with the same sound quality wherever they are sitting."
+  },
+  {
+    "line": 170,
+    "text": "{character:Hideki Akechi}If it wasn't because the investors of the opera house forcefully expanding it into a huge performance hall that can fit 5,000 people, today's power outage would not have had any impact on the show as power wouldn't be necessary to make singers' voices heard."
+  },
+  {
+    "line": 171,
+    "text": "{character:player}You even know these details. Did you take the time to learn about these things?"
+  },
+  {
+    "line": 172,
+    "text": "{character:Hideki Akechi}There's no harm in knowing more about things you're interested in, right?"
+  },
+  {
+    "line": 173,
+    "text": "{character:player}That's true."
+  },
+  {
+    "line": 174,
+    "text": "Hideki Akechi's facial features are only vaguely visible to me in the darkness. He raises his right hand to make a shush gesture."
+  },
+  {
+    "line": 175,
+    "text": "{character:Hideki Akechi}Shush—the next part is the only 10-minute solo singing performance by the male protagonist in the whole show. It was once rated as \"the most touching musical love poem\" by the media, and it's the part I want you to see the most today."
+  },
+  {
+    "line": 176,
+    "text": "The ethereal singing is full of longing for his lover and his determination to protect her. Although I can't see the scene on the stage, I immediately think of the century-old castle in which the affectionate young man is locked up."
+  },
+  {
+    "line": 177,
+    "text": "The melody, the rhythm of pauses, the beautiful harmony, and even the breathing sounds made by the actor are just perfect and gives people the irresistible urge to follow the singing and resonate with the feelings of yearning, mourning, joy, and lament."
+  },
+  {
+    "line": 178,
+    "text": "The singing cuts through the noise and forces its way into the eardrums of every member of the audience, calming their restless hearts. The music seems to pause time and make everything gentle and beautiful. This is the magical power of music!"
+  },
+  {
+    "line": 179,
+    "text": "{character:Actor B}From the very first time I laid eyes on you, I decided that you are the one for me... I once asked myself if the person who stole my soul is an angel or a devil... But I know that you're just an ordinary girl... The thing that made me the way I am is the pure love for you in my heart..."
+  },
+  {
+    "line": 180,
+    "text": "Enchanted by the angelic singing, I turn on the flashlight function of my phone and try to illuminate the stage. Hideki Akechi does exactly the same thing at about the same time as me. He looks at the phone in my hand with his smiling blue eyes."
+  },
+  {
+    "line": 181,
+    "text": "Spurred by our actions, the audience members around us follow suit. Unfortunately, the light of our phones is too weak and could only barely illuminate blurred figures moving back and forth on the stage."
+  },
+  {
+    "line": 182,
+    "text": "{character:player}What a shame... We would have been able to see the actors' movements if it wasn't for the power outage."
+  },
+  {
+    "line": 183,
+    "text": "{character:Hideki Akechi}But it also makes the performance unique."
+  },
+  {
+    "line": 184,
+    "text": "{character:player}You're right. This solo is meant to express the conflicted feelings in the male protagonist's heart, and the darkness brings out a different type of beauty."
+  },
+  {
+    "line": 185,
+    "text": "At the end of the solo, the male protagonist makes up his mind to resist his father's dictatorship. Fueled by his love, he escapes the cold basement and rushes to his lover's residence."
+  },
+  {
+    "line": 186,
+    "text": "The very moment the male and female protagonists meet, embrace, and sing together, the backup power supply finally kicks in, and the lighting, choreography, and music embellish the love expressed at this moment."
+  },
+  {
+    "line": 187,
+    "text": "{character:Actor B}I must tell you frankly that although my heart is no nobler than another person's heart, I love you with all my heart..."
+  },
+  {
+    "line": 188,
+    "text": "{character:Actress A}Love is such a wondrous word..."
+  },
+  {
+    "line": 189,
+    "text": "{character:Actor B}It is my decision to be under your spell! No matter how enviable my past status was, the truly enviable thing I have is the favor of the women I love."
+  },
+  {
+    "line": 190,
+    "text": "{character:Actress A}I've asked myself countless times about what I was thinking the moment I made my promise to you. I know there are many sacrifices to be made in the future, but I still want to accept your rose... This idea is so insane that I feel like I've lost my mind!"
+  },
+  {
+    "line": 191,
+    "text": "{character:Actor B}Admit it, my lover, we're destined to be together forever!"
+  },
+  {
+    "line": 192,
+    "text": "{character:Actress A}I admit it, my lover, I hope we'll be together forever and ever..."
+  },
+  {
+    "line": 193,
+    "text": "I turn off the torchlight function of my phone and watch the performance on the stage calmly. Ah! Today is a great day to cry for someone else's beautiful love!"
+  },
+  {
+    "line": 194,
+    "text": "{character:Opera house broadcast}Hi everyone, we apologize for the terrible viewing experience. After discussing this with the performers, we will arrange another performance within one week, and you can reserve a seat for free with tonight's ticket. If you are unable to watch the show due to any time clashes, we will give you a certain amount of compensation for the ticket."
+  },
+  {
+    "line": 195,
+    "text": "{character:Opera house broadcast}Lastly, the staff of the opera house would like to express their sincerest apologies to you all for this power outage."
+  },
+  {
+    "line": 196,
+    "text": "The unhappiness caused by the power outage is soon forgotten in the singing. The three-hour performance ends quickly, and I'm still immersed in it when I walk out of the opera house."
+  },
+  {
+    "line": 197,
+    "text": "{character:Hideki Akechi}The night is still early. {var:player_nickname}, would you like to have a coffee together if you don't have anything else planned? It'll be my apology for the power outage incident."
+  },
+  {
+    "line": 198,
+    "text": "{character:player}Haha, no one can foresee that. It's not your fault, so you don't need to apologize so seriously."
+  },
+  {
+    "line": 199,
+    "text": "{character:Hideki Akechi}Either way, it was my lack of foresight. I just hope you won't just remember the power outage when you recall our get-together tonight."
+  },
+  {
+    "line": 200,
+    "text": "Hideki Akechi frowns slightly, like something is troubling him. This makes me realize that he cares greatly about what I think of tonight's incident. His serious look makes me want to comfort him."
+  },
+  {
+    "line": 201,
+    "text": "{character:player}Life is full of surprises, and no one knows whether they will get a good one or a bad one. The power outage may have affected our experience, but the opera show was never the most important thing."
+  },
+  {
+    "line": 202,
+    "text": "The cold breeze blows past us without stopping for anything. The snow-covered branches of an evergreen pine finally tilt under the weight as flying snowflakes dance in the air and fall to the ground."
+  },
+  {
+    "line": 204,
+    "text": "{character:Hideki Akechi}I see. Then let me try again. I want to spend more time with you. Can I invite you to have a cup of coffee with me?"
+  },
+  {
+    "line": 205,
+    "text": "{character:player}Of course you can. That's what I was thinking too."
+  },
+  {
+    "line": 206,
+    "text": "{character:Employee}Hi! What can I get you?"
+  },
+  {
+    "line": 207,
+    "text": "{character:Hideki Akechi}The usual signature set meal. What about you?"
+  },
+  {
+    "line": 208,
+    "text": "{character:player}I'll have the same."
+  },
+  {
+    "line": 209,
+    "text": "{character:Employee}Great, please wait a moment."
+  },
+  {
+    "line": 210,
+    "text": "The café Hideki Akechi chooses has an elegant environment, retro and gorgeous decorations that don't feel extravagant, and well-grown succulents placed in front of the bright window walls. The lights and sunlight blend in together on the wall, creating a tranquil atmosphere."
+  },
+  {
+    "line": 211,
+    "text": "{character:player}The employee seems to know you. Do you come often?"
+  },
+  {
+    "line": 212,
+    "text": "{character:Hideki Akechi}It's been a while since the last time I've been here. We used to meet up at cafés for our club get-togethers as our members love the desserts here."
+  },
+  {
+    "line": 213,
+    "text": "{character:player}No wonder you seem so familiar with this place."
+  },
+  {
+    "line": 214,
+    "text": "Any desserts that can get Hideki Akechi's approval are definitely unique and special. With this thought in mind, I relax and hum along with the love song playing in the café."
+  },
+  {
+    "line": 215,
+    "text": "{character:Hideki Akechi}You're quite good at that."
+  },
+  {
+    "line": 216,
+    "text": "Sitting opposite me, Akechi nods slightly and compliments me without any hesitation."
+  },
+  {
+    "line": 217,
+    "text": "{character:player}You heard of this song before?"
+  },
+  {
+    "line": 218,
+    "text": "{character:Hideki Akechi}Ahem, this song is quite popular recently, and I've heard a bunch of people mention it."
+  },
+  {
+    "line": 219,
+    "text": "{character:player}I'm a little surprised that you also listen to pop love songs."
+  },
+  {
+    "line": 220,
+    "text": "{character:Hideki Akechi}Well... um, I do listen to them occasionally."
+  },
+  {
+    "line": 221,
+    "text": "Hideki Akechi clasps his hands together and presses downwards with his palms. According to my extensive movie-watching experience, this is a micro-movement that people make in TV shows when they feel guilty."
+  },
+  {
+    "line": 222,
+    "text": "I think about what I just said. Did I say something wrong? Maybe he doesn't really like to listen to pop love songs?"
+  },
+  {
+    "line": 223,
+    "text": "I better change the topic. After all, I can't really imagine someone who looks as elegant as Hideki Akechi standing in a concert, waving a fluorescent stick to support idols on the stage."
+  },
+  {
+    "line": 224,
+    "text": "{character:player}Um, I wonder if our desserts are ready yet. I'm starting to feel a little hungry..."
+  },
+  {
+    "line": 225,
+    "text": "{character:Hideki Akechi}I'll go take a look!"
+  },
+  {
+    "line": 226,
+    "text": "Although Hideki Akechi always smiles calmly, after hanging out with him more often recently, I've learned to read his micro-expressions a little better than before, so I notice that he is secretly relieved."
+  },
+  {
+    "line": 227,
+    "text": "His smile is like a protective barrier, and I won't be able to tear it down for the moment."
+  },
+  {
+    "line": 228,
+    "text": "It looks like I'll need to find another chance to learn more about him. Maybe he'll be willing to share more about what he likes and dislikes with me one day."
+  },
+  {
+    "line": 229,
+    "text": "It's obvious that Hideki Akechi has trouble with topics related to pop music. The lengths to which he is trying to hide it makes me feel mischievous and want to see the embarrassed look on his face when he can no longer hide it."
+  },
+  {
+    "line": 230,
+    "text": "And also this is a rare opportunity where I get to know Hideki Akechi better, and I obliviously don't want to miss it. So I start discussing this pop song again instead of changing the topic."
+  },
+  {
+    "line": 231,
+    "text": "{character:player}Hideki, have you really heard of this song before?"
+  },
+  {
+    "line": 232,
+    "text": "My unexpected question freezes the smile on his face for an instant. He blinks and stops smiling, then he looks outside through the window."
+  },
+  {
+    "line": 233,
+    "text": "{character:player}Um... Looks like I guessed right then."
+  },
+  {
+    "line": 234,
+    "text": "{character:Hideki Akechi}Um..."
+  },
+  {
+    "line": 235,
+    "text": "The background music of the café changes again. The melody of the piano fills the small space and seems to greatly slow down the flow of time."
+  },
+  {
+    "line": 236,
+    "text": "He opens his mouth but doesn't make a sound, as if he doesn't know what to say. Seeing him being so uncomfortable, I sign inwardly. As I'm about to drop the topic, Hideki Akechi tilts his head and starts speaking hesitantly."
+  },
+  {
+    "line": 237,
+    "text": "{character:Hideki Akechi}I just didn't want there to be a gap between us, {var:player_nickname}."
+  },
+  {
+    "line": 238,
+    "text": "{character:player}Huh?"
+  },
+  {
+    "line": 239,
+    "text": "{character:Hideki Akechi}Although we have traveled together, we meet at the mahjong club of the university most of the time. I'm good at managing the club, so I might have given you the impression that I'm someone who can do anything."
+  },
+  {
+    "line": 240,
+    "text": "{character:Hideki Akechi}I thought that if you realized that there's something I'm not good at, you might get disappointed... or even lose trust in me."
+  },
+  {
+    "line": 241,
+    "text": "After saying this, Hideki Akechi raises his head and shows me a familiar smile."
+  },
+  {
+    "line": 242,
+    "text": "{character:Hideki Akechi}But that's okay. If you want to see this side of me, I can keep showing you this."
+  },
+  {
+    "line": 243,
+    "text": "He said it in such a matter-of-fact way that it takes me a few seconds to realize what he really means."
+  },
+  {
+    "line": 244,
+    "text": "{character:player}But rather than seeing you perfect in all aspects, I want to get to know the real Hideki Akechi more."
+  },
+  {
+    "line": 245,
+    "text": "{character:Hideki Akechi}But the real me might not be that perfect. Is that okay?"
+  },
+  {
+    "line": 246,
+    "text": "{character:player}Of course. I have all sorts of shortcomings, but that hasn't made you alienate me."
+  },
+  {
+    "line": 247,
+    "text": "His translucent and clear blue eyes flicker as if they can talk."
+  },
+  {
+    "line": 248,
+    "text": "{character:Hideki Akechi}Sorry, I don't know much about pop music. I know more about classical music. That band called Red-crowned Crane and that song... I've never heard of them before."
+  },
+  {
+    "line": 249,
+    "text": "{character:player}Haha, both pop music and classical music are just ways people use to express their feelings and emotions through musical notes. If I had to compare them, I would say pop music allows us to express our feelings more openly. I would like to show you if we get the chance."
+  },
+  {
+    "line": 250,
+    "text": "{character:Employee}Excuse me, here are the two signature set meals you ordered."
+  },
+  {
+    "line": 251,
+    "text": "The arrival of the employee with our food interrupts our discussion about classical music and pop music. I rub my stomach and find that I really am a little hungry. However... the employee seems to have brought us something more than our coffee and desserts."
+  },
+  {
+    "line": 252,
+    "text": "{character:Hideki Akechi}...What's this?"
+  },
+  {
+    "line": 253,
+    "text": "{character:Employee}This is a mascot that we're giving out as merch for our collaboration with the Wild Music Festival. Each customer who orders the signature set meal gets one. At the same time, you can also go to the front desk to draw a prize after dining. There's a first, second, and third prize, as well as participation prizes. The top reward is two tickets to the music festival."
+  },
+  {
+    "line": 254,
+    "text": "{character:Hideki Akechi}Wild Music Festival?"
+  },
+  {
+    "line": 255,
+    "text": "{character:Employee}It's basically an outdoor pop music performance event. Established bands and up-and-coming pop stars will perform on stage during the event. If you want to learn more about pop music, this is a great opportunity for you to go \"wild\" at the music festival. I think that's everything you ordered. Please enjoy your meal."
+  },
+  {
+    "line": 256,
+    "text": "{character:Hideki Akechi}Thanks."
+  },
+  {
+    "line": 257,
+    "text": "Hideki Akechi's eyes linger on the music festival mascot for a while. After a moment of hesitation, he raises his head and looks at me."
+  },
+  {
+    "line": 258,
+    "text": "{character:Hideki Akechi}In that case... {var:player_nickname}, will you go to the Wild Music Festival with me?"
+  },
+  {
+    "line": 259,
+    "text": "{character:player}Haha, you've already decided that you'll win the grand prize before drawing for it? Wouldn't you feel embarrassed if you don't win the tickets?"
+  },
+  {
+    "line": 260,
+    "text": "{character:Hideki Akechi}I want to invite you to go with me even if we don't win the top prize. It would be a perfect invitation. Besides, the prize draw seems like a good reason to invite you to have coffee with me again since the chance of winning the prize is doubled if there are two of us."
+  },
+  {
+    "line": 261,
+    "text": "His half-joking words make me feel that Hideki Akechi is no longer as unreachable as he used to be. Instead, he feels closer, like a neighbor."
+  },
+  {
+    "line": 262,
+    "text": "{character:player}Sure thing. Then I'll be the one to enlighten you about pop music."
+  },
+  {
+    "line": 263,
+    "text": "Hideki Akechi smiles after hearing me accept his invitation, but there's something different about his smile this time. If I had to describe what's different about it, I would say this smile is from the heart."
+  },
+  {
+    "line": 264,
+    "text": "Oh right, the music festival... There won't be an emergency power outage this time, right?"
+  },
+  {
+    "line": 265,
+    "text": "Buy two cups"
+  },
+  {
+    "line": 266,
+    "text": ""
+  },
+  {
+    "line": 267,
+    "text": "Forget it"
+  },
+  {
+    "line": 268,
+    "text": "Wait for the staff members to make arrangements"
+  },
+  {
+    "line": 269,
+    "text": "Try to soothe the other people here"
+  },
+  {
+    "line": 270,
+    "text": "Change the topic"
+  },
+  {
+    "line": 271,
+    "text": "Pursue to the topic to learn more"
+  },
+  {
+    "line": 272,
+    "text": "A long time passes without anyone realizing it..."
+  },
+  {
+    "line": 273,
+    "text": "The aroma of tea mixed with the faint sweetness of nectar wafts into my nose with unstoppable momentum. Without hesitation, I reach out and raise two fingers to indicate that I want two cups."
+  },
+  {
+    "line": 274,
+    "text": "While I'm scrambling frantically to avoid the falling snow, Hideki Akechi suddenly starts laughing."
+  }
+]

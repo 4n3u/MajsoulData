@@ -1,0 +1,1498 @@
+[
+  {
+    "line": 420,
+    "text": "\"In the country where the mountains are lush and rivers are slender, I rest against the window after returning home. The spring breeze doesn't understand what the rain is thinking, yet it smiles as people bustle about in alleys in the rain...\""
+  },
+  {
+    "line": 421,
+    "text": "Attracted by the tranquil and serene scene described in this elegant poem, I set aside a weekend to visit this leisurely old town not far from One Han City to feast on this unique scenery with my own eyes."
+  },
+  {
+    "line": 422,
+    "text": "However, things never go according to plan in real life. Soon after I arrive in the old town, my mobile phone, which has the crucial task of navigating my path, chooses this time of all times to go on strike and can't be turned on again despite all my efforts, so I have no choice but to ask the only person around me at that time—a child playing on the road—for help, and the child readily draws a super simple version of a map leading to the scenic spot for me."
+  },
+  {
+    "line": 423,
+    "text": "Because of this, I'm now \"happily\" lost!"
+  },
+  {
+    "line": 424,
+    "text": "player"
+  },
+  {
+    "line": 425,
+    "text": "{character:player}Where... am I?"
+  },
+  {
+    "line": 426,
+    "text": "The complicated layout of the streets and the white walls and black tiles that all look the same have made my poor judgment even worse. Every corner looks so familiar yet so foreign to me. Maybe it's because I'm too far away from the main street, but I can't see anyone around me. Holding a road map that is no longer useful, I have no idea where to go."
+  },
+  {
+    "line": 427,
+    "text": "{character:player}I should go back the way I came. If I can still find the way I took when I came here..."
+  },
+  {
+    "line": 428,
+    "text": "???"
+  },
+  {
+    "line": 429,
+    "text": "{character:???}{var:player_nickname}?"
+  },
+  {
+    "line": 430,
+    "text": "Just when I feel completely lost, I hear a familiar voice from behind me, which is a godsend to me in my difficult situation. I turn around and see Hideki Akechi walking briskly toward me."
+  },
+  {
+    "line": 431,
+    "text": "Hideki Akechi"
+  },
+  {
+    "line": 432,
+    "text": "{character:Hideki Akechi}It really is you. I thought I mistook someone else for you. Why are you here?"
+  },
+  {
+    "line": 433,
+    "text": "{character:player}Well... It's a long story."
+  },
+  {
+    "line": 434,
+    "text": "I shake my phone with its completely black screen and tell Hideki how I got lost."
+  },
+  {
+    "line": 435,
+    "text": "{character:Hideki Akechi}I see. All the buildings have the same style here, so it's really easy for tourists visiting for the first time to get lost... Your phone going on strike is also a rather \"deadly\" problem."
+  },
+  {
+    "line": 436,
+    "text": "{character:player}Hideki, are you also here to sightsee? ...Hmm, wait a minute, you are not lost as well, are you?"
+  },
+  {
+    "line": 437,
+    "text": "{character:Hideki Akechi}Haha, I'm not lost. After all, I count as half a local here."
+  },
+  {
+    "line": 438,
+    "text": "{character:player}Eh?!"
+  },
+  {
+    "line": 439,
+    "text": "{character:Hideki Akechi}The Akechi family house is right here in this old town. I used to come here to live with my grandma for periods of time during the holidays."
+  },
+  {
+    "line": 440,
+    "text": "Hideki's eyes seem to embrace the sunlight when he mentions his grandma, giving off a clear and gentle light."
+  },
+  {
+    "line": 441,
+    "text": "In the past, Hideki told me a story of the town he lived in when he was a child. The place he described was like something from an ink painting, untouched by the dust of the mundane world and far away from the hustle and bustle of the city."
+  },
+  {
+    "line": 442,
+    "text": "It can even be said that Hideki's influence is the main reason I was attracted to come to this old town after seeing its promotional information."
+  },
+  {
+    "line": 443,
+    "text": "{character:player}So this is the place. What a coincidence..."
+  },
+  {
+    "line": 444,
+    "text": "{character:Hideki Akechi}When it comes to visiting an old town, no one knows how to appreciate its unique beauty better than a \"local.\" If you don't mind, let me be your tour guide."
+  },
+  {
+    "line": 445,
+    "text": "{character:player}Aren't you here to take care of something? Won't I get in your way?"
+  },
+  {
+    "line": 446,
+    "text": "{character:Hideki Akechi}Not at all. I just have a habit of coming back here when I'm free to take a look around the place. After all, this old town is filled with many warm memories of my childhood. This is the only place where I can temporarily free myself from some of my heavy burdens and enjoy a relaxing holiday."
+  },
+  {
+    "line": 447,
+    "text": "{character:Hideki Akechi}Since you're not saying no, I'm going to take that as a yes. Is there any place you want to visit in particular?"
+  },
+  {
+    "line": 448,
+    "text": "I want to go to the block that has been trending online"
+  },
+  {
+    "line": 449,
+    "text": "Let Hideki recommend a place"
+  },
+  {
+    "line": 450,
+    "text": "{character:player}Since I'm here, how can I not visit the famous block that has been trending online? There must be something special about it to become a scenic spot."
+  },
+  {
+    "line": 451,
+    "text": "{character:Hideki Akechi}The block that has been trending online? Got it."
+  },
+  {
+    "line": 452,
+    "text": "If being able to meet someone who can help you when you're lost is considered lucky, then I must be super lucky to have run into Hideki in this foreign old town."
+  },
+  {
+    "line": 453,
+    "text": ""
+  },
+  {
+    "line": 454,
+    "text": "With him around, everything is arranged so well that I can just sit back and relax, letting him take care of deciding the route and pretty much everything else. Hideki doesn't disappoint me and quickly takes me away from this deserted street to a lively scenic spot."
+  },
+  {
+    "line": 455,
+    "text": "The old town described in the poem has a serene and tranquil temperament, but the neighborhood in front of me has a unique rural atmosphere and a certain vitality that can't be ignored."
+  },
+  {
+    "line": 456,
+    "text": "Unlike the urban commercial strips filled with high-rise buildings, the bustling crowds and shops here seem to be a thing of the last century. In the crowd, some people sing and drink as they walk, while others look around everywhere as they walk around in the summer breeze."
+  },
+  {
+    "line": 457,
+    "text": "{character:player}Hmm... Until seeing things here with my own eyes, I would never have imagined that white walls, black tiles, and colorful neon signboards could appear in the same scene so harmoniously. I think it's worth it to come here just to experience this unique scene."
+  },
+  {
+    "line": 458,
+    "text": "{character:Hideki Akechi}Haha, you're happy with just this? {var:player_nickname}, you're such a happy and easily satisfied person."
+  },
+  {
+    "line": 459,
+    "text": "{character:player}As they say, \"life is short,\" so why shouldn't I try to enjoy it while it lasts?"
+  },
+  {
+    "line": 460,
+    "text": "{character:Hideki Akechi}Yes, you make a good point. That must be why I always seem to relax when I'm with you."
+  },
+  {
+    "line": 461,
+    "text": "Crowd"
+  },
+  {
+    "line": 462,
+    "text": "{character:Crowd}Amazing—!"
+  },
+  {
+    "line": 463,
+    "text": "The sudden burst of applause in front of us interrupts our conversation. A booth over there is surrounded tightly by a crowd, and some performance seems to be going on. Even the children passing by are begging their fathers to hold them up so they can see. The continuous cheers manage to arouse my curiosity, making me stand on my tiptoes to try to see what's going on in the middle of the crowd."
+  },
+  {
+    "line": 464,
+    "text": "As I look around everywhere, a pair of strong hands grab my sleeves and helps me up the stone steps by the road. Like a loyal knight, the owner of these hands opens up a space that seems like paradise for me in the middle of the thick crowd."
+  },
+  {
+    "line": 465,
+    "text": "{character:Hideki Akechi}You should have a better view from here."
+  },
+  {
+    "line": 466,
+    "text": "The extra height expands my field of vision, allowing my vision to pierce the dark crowd and see a white curtain."
+  },
+  {
+    "line": 467,
+    "text": "{character:Hideki Akechi}Ah, it's a shadow puppet show. No wonder so many tourists have been attracted here."
+  },
+  {
+    "line": 468,
+    "text": "{character:player}Shadow puppet show?"
+  },
+  {
+    "line": 469,
+    "text": "{character:Hideki Akechi}Yes, it's a traditional form of art that originated among the people. In a shadow puppet show, artists tell stories by manipulating silhouettes of cardboard characters behind the curtain and using percussion and string instruments. It's a very unique form of expression."
+  },
+  {
+    "line": 470,
+    "text": "{character:player}It sounds so fascinating. Why have I never seen any performances like that in One Han City? Wait a minute, why does the story being told right now sound so familiar..."
+  },
+  {
+    "line": 471,
+    "text": " Accompanied by the performer's special singing voice, a member of the local gentry with burly arms and a thick waist appears on the curtain, instantly attracting my attention."
+  },
+  {
+    "line": 472,
+    "text": "Shadow Puppeteer"
+  },
+  {
+    "line": 473,
+    "text": "{character:Shadow Puppeteer}She should be embroidering dragons and phoenixes in her boudoir since she's the young lady of her family. Instead, she set her sights on studying in Hangzhou. She's just too willful..."
+  },
+  {
+    "line": 474,
+    "text": "{character:Shadow Puppeteer}I miss her too much to let her travel so far... Yet I'm afraid her illness will become worse if I don't let her. I can't make up my mind..."
+  },
+  {
+    "line": 475,
+    "text": "The young lady dresses up as a man to go to school and falls in love with a poor man in her class. Soon after the two express their love for one another, she receives a letter from her father telling her he has arranged a marriage for her. The daughter returns home with her lover, who wins her father's approval with his talent. In the end, the two tie the knot, attracting thousands of butterflies to congratulate them on their wedding day."
+  },
+  {
+    "line": 476,
+    "text": "The performer's movements make the paper puppet move every so smoothly and naturally that it almost seems to be alive. Fascinated by the show, I feel like I had become a character in the play. It isn't until the performer turns off the lights and walks in front of the curtain that I come back to my senses."
+  },
+  {
+    "line": 477,
+    "text": "Clapping and cheering for the show are the best ways of showing appreciation, so I don't hesitate to give it my highest evaluation."
+  },
+  {
+    "line": 478,
+    "text": "{character:Hideki Akechi}It looks like the performer is in a good mood today."
+  },
+  {
+    "line": 479,
+    "text": "{character:player}The tipping basin in front of the curtain is overflowing with copper coins, so it's only natural that the performer is happy."
+  },
+  {
+    "line": 480,
+    "text": "{character:Hideki Akechi}Yeah... but that's not all. I watched his performance soon after this block was developed, and he also performed today's Butterfly Fairy Tale."
+  },
+  {
+    "line": 481,
+    "text": "{character:Hideki Akechi}But last time, the father forced his daughter to marry the rich playboy he chose for his daughter, going as far as to separate the lovers and forcing his daughter's lover to die. His daughter also chose to die instead of obeying him, committing suicide on her lover's tombstone on the way to the wedding ceremony. After that, they both turned into butterflies and flew away."
+  },
+  {
+    "line": 482,
+    "text": "{character:player}It's said that people usually prefer a tragic ending for the protagonists, but I prefer a happy ending for this show."
+  },
+  {
+    "line": 483,
+    "text": "{character:Hideki Akechi}Yeah, that's what I think too. Actually, I was a little worried at the beginning because I thought this might be another tragedy that hints at bad luck..."
+  },
+  {
+    "line": 484,
+    "text": "Hideki's eyelids lower, and he looks a little uneasy. It seems that last time's accident put the young club president under a lot of pressure. I touch the top of his head where his light gold hair is warmed by the sun. Without realizing..."
+  },
+  {
+    "line": 485,
+    "text": "{character:player}The club president is so cute when he expresses his true feelings to me."
+  },
+  {
+    "line": 486,
+    "text": "{character:Hideki Akechi}Huh?"
+  },
+  {
+    "line": 487,
+    "text": "Oh no! I said what I was thinking out loud!"
+  },
+  {
+    "line": 488,
+    "text": "{character:player}Hahahaha... Nothing. By the way, I think today's events are not an omen of bad luck but a joyful reunion, which is a good omen."
+  },
+  {
+    "line": 489,
+    "text": "{character:Hideki Akechi}Is that what you think? ...Hmm, I also think that today's show is a good omen."
+  },
+  {
+    "line": 490,
+    "text": "Hideki smiles as he reaches out to help me down the steps. It looks like his mood has improved."
+  },
+  {
+    "line": 491,
+    "text": "{character:Hideki Akechi}Where are we going next?"
+  },
+  {
+    "line": 492,
+    "text": "{character:player}You want me to pick a place?"
+  },
+  {
+    "line": 493,
+    "text": "{character:Hideki Akechi}Yeah. I've realized that my luck improves when I'm with you. You're like my \"lucky star,\" so I want you to pick the next place."
+  },
+  {
+    "line": 494,
+    "text": "I want to go to the entertainment area"
+  },
+  {
+    "line": 495,
+    "text": "I want to go to the food area"
+  },
+  {
+    "line": 496,
+    "text": "Probably because I'm influenced by the shadow puppet show, I can't stop myself from walking towards the booths in the entertainment area to experience elegant folk arts up close again."
+  },
+  {
+    "line": 497,
+    "text": "It turns out that my decision is absolutely correct. I saw a woman walking on stilts, a fire-breathing young man, and a stunt performer who showed everyone how to \"walk\" on water by moving quickly through the air... My experiences during this time reminded me that there really are a lot of talented people all around us."
+  },
+  {
+    "line": 498,
+    "text": "{character:player}If I ask the performers to teach me, do you think they will take me on as an apprentice?"
+  },
+  {
+    "line": 499,
+    "text": "{character:Hideki Akechi}As they say, it takes ten years of practice to shine for one minute on stage. Many of these performers have been doing this since they were little. I'm afraid you won't be able to leave this town in the next ten years if they accept you."
+  },
+  {
+    "line": 500,
+    "text": "{character:player}Um... I'll need to reconsider then."
+  },
+  {
+    "line": 501,
+    "text": "{character:Hideki Akechi}If you're just interested in folk arts, maybe you can learn something simpler first."
+  },
+  {
+    "line": 502,
+    "text": "{character:player}What do you mean?"
+  },
+  {
+    "line": 503,
+    "text": "Following Hideki Akechi's gaze, I look at a booth in the corner. Unlike the other booths that are attracting tourists with difficult performances, the owner of this booth is a middle-aged man wearing ordinary clothes who neither shouts out loudly nor takes the initiative to solicit customers. He is just sitting there, fanning himself with his eyes closed, only opening his eyes occasionally to cheer for the passing performers."
+  },
+  {
+    "line": 504,
+    "text": "If not for Hideki Akechi's reminder, I would have just treated him as a very leisurely tourist."
+  },
+  {
+    "line": 505,
+    "text": "As we get closer to the booth, a faint ink fragrance surrounds Hideki and me. When I see the rice paper and ink spread out on the table, I instantly understand what makes this booth special."
+  },
+  {
+    "line": 506,
+    "text": "{character:player}Live painting? In an era where most people draw on digital boards, this form of painting has become quite rare."
+  },
+  {
+    "line": 507,
+    "text": "{character:Hideki Akechi}Although you're right about it being a painting, this form of painting is called blow painting to be precise."
+  },
+  {
+    "line": 508,
+    "text": "Booth Owner"
+  },
+  {
+    "line": 509,
+    "text": "{character:Booth Owner}Oh? I didn't think any young people would still know about this form of art."
+  },
+  {
+    "line": 510,
+    "text": "The booth owner who is reclining on the seat sits up and stretches lazily. He takes out a homemade cigarette from his pocket, puts it into his mouth, and takes his time walking over to us."
+  },
+  {
+    "line": 511,
+    "text": "{character:Hideki Akechi}Are you a painter from Qingyun Dojo? My grandma loved your paintings, and I always saw a few new blow paintings with the \"Qingyin\" stamp on them whenever I came back to visit her every year."
+  },
+  {
+    "line": 512,
+    "text": "{character:Booth Owner}It's no wonder that you know so much about this."
+  },
+  {
+    "line": 513,
+    "text": "{character:player}Qingyun Dojo? I think I saw that name on the ad screen at the entrance here. It's a dojo where painters who have all sorts of painting styles gather together."
+  },
+  {
+    "line": 514,
+    "text": "{character:Booth Owner}It sounds so posh. Just think about it literally. Blow painting is a form of painting where the painter \"draws\" by blowing onto ink or paint on paper instead of using a brush."
+  },
+  {
+    "line": 515,
+    "text": "{character:player}A way of painting that doesn't require a brush..."
+  },
+  {
+    "line": 516,
+    "text": "{character:Booth Owner}Our ancestors used stones to paint on stone walls and also painted directly with their hands... Brushes are by no means irreplaceable in the painting process."
+  },
+  {
+    "line": 517,
+    "text": "Seeing that Hideki and I are genuinely interested in blow paintings, the booth owner decides to give us a live performance. He straightens his messy air and starts to focus. His lazy and dispirited demeanor disappears, and even his eyes seem sharper."
+  },
+  {
+    "line": 518,
+    "text": "As if it understands the instructions it was just given, the paint scatters and rushes in different directions, moving according to the strength of the blowing, and eventually forms a picture of a peculiar shape."
+  },
+  {
+    "line": 519,
+    "text": "{character:player}It looks so easy..."
+  },
+  {
+    "line": 520,
+    "text": "{character:Booth Owner}Haha, it isn't very difficult to start off with. Would you two like to make a blow painting to give to someone important to you? I vouch with my character... um, my wallet, that it'll be a meaningful gift."
+  },
+  {
+    "line": 521,
+    "text": "{character:player}Right now? Um, don't drawing lessons usually start with sketching cubes and triangles?"
+  },
+  {
+    "line": 522,
+    "text": "{character:Booth Owner}You are very demanding of yourself, I see. But creation is about doing whatever you want. Even if the shape isn't perfect, your painting is a good painting as long as viewers can sense its charm."
+  },
+  {
+    "line": 523,
+    "text": "{character:Hideki Akechi}This is the first time either of us try this, so please be patient with us."
+  },
+  {
+    "line": 524,
+    "text": "{character:Booth Owner}Don't worry."
+  },
+  {
+    "line": 525,
+    "text": "{character:Booth Owner}Blow... Blow... Keep blowing... Blow over here! It's looking great. It's easy, right?"
+  },
+  {
+    "line": 526,
+    "text": ""
+  },
+  {
+    "line": 527,
+    "text": "\"My brain knows exactly what to do, but my hands don't\" describes my situation perfectly. I feel a little short of breath after blowing for a while, but I finally manage to draw a simple plum blossom painting with the booth owner's extremely hands-on teaching."
+  },
+  {
+    "line": 528,
+    "text": "{character:player}I take back what I said earlier. This is hard!"
+  },
+  {
+    "line": 529,
+    "text": "{character:Hideki Akechi}I think it's impressive that you managed to complete a painting even though it's your first time doing a blow painting. You'll improve quickly as long as you practice more in the future."
+  },
+  {
+    "line": 530,
+    "text": "After teaching me, the booth owner collapses into his chair and doesn't want to make any more comments. It seems that he's finally realized that teaching me how to make a blow painting is a very tiring activity. On the contrary, Hideki, who has just finished his painting, observes my work carefully and points out some deficiencies, which brings back my confidence that had just disappeared."
+  },
+  {
+    "line": 531,
+    "text": "{character:player}Ahem, if the booth owner is as gentle as you, Hideki, I think I would have done better... Sorry, he didn't have much time to teach you because he was busy helping me."
+  },
+  {
+    "line": 532,
+    "text": "{character:Hideki Akechi}It's okay. I learned a lot from what he told you. As they say, all artists are eccentric, so we need to learn to be accommodating and tolerant."
+  },
+  {
+    "line": 533,
+    "text": "{character:Booth Owner}Hey, I can hear everything you're saying!"
+  },
+  {
+    "line": 534,
+    "text": "Hearing the booth owner feigning to be angry, I offer timely words of praise, expressing my admiration and appreciation for folk art."
+  },
+  {
+    "line": 535,
+    "text": "{character:Booth Owner}Alright, alright. No flattery you can say will be better than if you can show me a good painting you made yourself. But... this painting here is pretty good. Aren't you going to take it with you?"
+  },
+  {
+    "line": 536,
+    "text": "The booth owner is standing in front of another table and asks this question while pointing at Hideki's painting on the table, which reminds me that I haven't seen Hideki's painting yet."
+  },
+  {
+    "line": 537,
+    "text": "{character:player}Oh yeah, let me see your painting."
+  },
+  {
+    "line": 538,
+    "text": "{character:Hideki Akechi}Um, well..."
+  },
+  {
+    "line": 539,
+    "text": "I walk over to the other table quickly and look at the paper on it. There is a smiling figure on the snow-white rice paper. Although it looks a little abstract, I can still recognize with one glance that it's me!"
+  },
+  {
+    "line": 540,
+    "text": "Hideki looks a little nervous after following me here and seeing my reaction to his painting."
+  },
+  {
+    "line": 541,
+    "text": "{character:Hideki Akechi}Sorry, by the time I realized, I had already... Um, I've pretty much finished with it."
+  },
+  {
+    "line": 542,
+    "text": "{character:player}So this is what I look like in your eyes."
+  },
+  {
+    "line": 543,
+    "text": "{character:Hideki Akechi}Um... not entirely. Due to skill limitations, I don't think I managed to express even one-thousandth of your excellence."
+  },
+  {
+    "line": 544,
+    "text": "{character:player}But I already think it's amazing. I love it! If you don't mind, can you give this to me?"
+  },
+  {
+    "line": 545,
+    "text": "The dense leaves of the trees on both sides of the road form a huge umbrella for tourists, and the warm breeze carries the fragrance of the pagoda tree through the crowd. After staring blankly for a few seconds, the corners of Hideki's mouth curl into a good-looking smile."
+  },
+  {
+    "line": 546,
+    "text": "After that, he gives me the blow painting he made. My silhouette is reflected in his clear blue pupils."
+  },
+  {
+    "line": 547,
+    "text": "{character:Hideki Akechi}Of course you can have it, but I'll do my best to make something better. I hope you'll let me exchange that painting for this inferior one when that happens."
+  },
+  {
+    "line": 548,
+    "text": "The club president's perfectionism is acting up again! But things seem different this time. Instead of just being about making the painting more perfect, his eyes are filled with expectations—expectations for growth."
+  },
+  {
+    "line": 549,
+    "text": "{character:player}Sure."
+  },
+  {
+    "line": 550,
+    "text": "{character:Booth Owner}I might as well see things through to the end. I'll make an exception and frame the pictures for you this time. Just leave me your address, and I'll send you the framed paintings after a while. I hope you two will watch over each other and keep helping each other in the future!"
+  },
+  {
+    "line": 551,
+    "text": "{character:player}You're already losing money by giving away paint and paper, and now you're even framing it for us for free? Will your business last like this?"
+  },
+  {
+    "line": 552,
+    "text": "{character:Booth Owner}Haha, I'm not really running this booth to sell paintings. I just want more people to know about blow paintings so that this art won't disappear in the river of time."
+  },
+  {
+    "line": 553,
+    "text": "{character:Booth Owner}You don't need to be courteous with me, young man. Treat it as a gift for your grandmother. The support of your grandmother and other old folks around here is why the dojo is still running. Thank her for me."
+  },
+  {
+    "line": 554,
+    "text": "{character:Hideki Akechi}Thank you... I think she already knows."
+  },
+  {
+    "line": 555,
+    "text": "After saying bye to the owner of the blow painting booth, Hideki and I go straight to the food area to appease our grumbling stomachs. After running around for so long, I feel physically exhausted and sit on a bench by the road to rest after eating and drinking my fill."
+  },
+  {
+    "line": 556,
+    "text": "While traveling, it goes without saying that you have to taste the local specialties! Without any hesitation, I take Hideki with me to the booths in the food area."
+  },
+  {
+    "line": 557,
+    "text": "In the hands of the booth owner, it doesn't take long for common ingredients like eggs, starch, white sugar, and water to become a golden round cake. The sweet smell brings out the glutton in me and makes my stomach growl unceremoniously."
+  },
+  {
+    "line": 558,
+    "text": "{character:player}\"Sanbunian, or non-stick imperial pudding\"? What a funny name..."
+  },
+  {
+    "line": 559,
+    "text": "{character:Hideki Akechi}Haha, the name of this local snack implies that it won't stick to the plate, chopsticks, or your teeth when you eat it."
+  },
+  {
+    "line": 560,
+    "text": "{character:Hideki Akechi}According to the legends, an emperor passing through this area in ancient times tasted this dessert at the home of a local official. He thought it had a smooth and pleasant texture and just the right balance of sweetness and saltiness, so he gave this dish this name and made it an imperial cuisine."
+  },
+  {
+    "line": 561,
+    "text": "{character:player}An imperial cuisine? Then I simply must try it! Hmm... What's this taste... It seems a little... fishy and salty?"
+  },
+  {
+    "line": 562,
+    "text": "To describe the taste with one word is somewhat inaccurate as a hint of a spicy fishy taste spread in my mouth at first, followed by a mellow and fragrant aftertaste."
+  },
+  {
+    "line": 563,
+    "text": "{character:Hideki Akechi}Hmm... That should be the deep-fried fish skin you're tasting."
+  },
+  {
+    "line": 564,
+    "text": "{character:player}That's also a local specialty?"
+  },
+  {
+    "line": 565,
+    "text": "{character:Hideki Akechi}That's right. After it is marinated in a special way, a mandarin fish is washed and dried before it is deep fried with a special sauce. Although it smells quite special, the meat is extremely smooth and tender, and it has a unique taste."
+  },
+  {
+    "line": 566,
+    "text": "{character:Hideki Akechi}In the past, when fishmongers wanted to transport their fish inland to sell them, they would spray lightly salted water on the fresh fish when loading them to prevent them from going bad. That's the origin of this dish."
+  },
+  {
+    "line": 567,
+    "text": "No matter which booth I stop at, Hideki seems to know something about the snacks they are selling. In addition to being able to briefly explain the preparation method of each snack, he can even tell me related legends and stories. He is an amazing food commentator."
+  },
+  {
+    "line": 568,
+    "text": "There's no way that an ordinary food enjoyer will know so much about these dishes. After listening to Hideki's explanation of another local snack, I express my doubts."
+  },
+  {
+    "line": 569,
+    "text": "{character:player}Hideki, you even know about this?!"
+  },
+  {
+    "line": 570,
+    "text": "{character:Hideki Akechi}Well, actually..."
+  },
+  {
+    "line": 571,
+    "text": "Elderly Man"
+  },
+  {
+    "line": 572,
+    "text": "{character:Elderly Man}Oh, if it isn't the well-behaved boy from the Akechi family?"
+  },
+  {
+    "line": 573,
+    "text": "Before Hideki can answer me, an elderly man who suddenly appears next to the food stall interrupts him and pats him on the shoulder very naturally before passing over two piping hot skewers of meat that are fresh off the grill."
+  },
+  {
+    "line": 574,
+    "text": "{character:Elderly Man}Is this your friend? Here, take these skewers on the house. You don't come back often, so you should eat more while you're here!"
+  },
+  {
+    "line": 575,
+    "text": "{character:Hideki Akechi}You've been saying that to me every year since I was a child... {var:player_nickname}, let me introduce this man to you. This elderly man lives next to my family house. This first-class chef is the owner of this snack bar."
+  },
+  {
+    "line": 576,
+    "text": "{character:Elderly Man}Hahaha, you flatter me. I am no first-class chef. This snack bar is still running thanks to people like you who are willing to patronize my business."
+  },
+  {
+    "line": 577,
+    "text": "{character:player}Well-behaved boy...?"
+  },
+  {
+    "line": 578,
+    "text": "{character:Elderly Man}I'm referring to Hideki. Compared with my naughty grandchild, Hideki has always been so well-behaved since he was a child, so I call him that."
+  },
+  {
+    "line": 579,
+    "text": "{character:Elderly Man}It feels like it was just yesterday. You were only this tall at that time, and you were completely covered by the countertop when you came to help your grandma with the shopping. I heard a voice but couldn't see anyone... I thought I encountered a supernatural event in broad daylight."
+  },
+  {
+    "line": 580,
+    "text": "{character:player}Hahaha, so something that interesting happened in the past."
+  },
+  {
+    "line": 581,
+    "text": "{character:Hideki Akechi}Ahem, that's all from a long time ago... We'll stop holding you up from your business for now. I'll visit you at home a little later."
+  },
+  {
+    "line": 582,
+    "text": "{character:Elderly Man}Good boy. I heard some acrobats are having a performance here today. You can take your friend over to watch."
+  },
+  {
+    "line": 583,
+    "text": "Seeing that we're chatting about interesting things that happened when he was a child, Hideki interjects just in time. The elderly man also stops talking about this. He smiles and waves and even recommends another place for us to go."
+  },
+  {
+    "line": 584,
+    "text": "Hideki heaves a sigh of relief. As we're preparing to leave, the elderly man leans toward me and \"whispers\" in my ear."
+  },
+  {
+    "line": 585,
+    "text": "{character:Elderly Man}He's doing this on purpose because he doesn't want you to know about the embarrassing things that happened in his childhood, hahaha."
+  },
+  {
+    "line": 586,
+    "text": "{character:Elderly Man}A few days ago, he came to me especially to ask about the local snacks, so I guessed he was thinking of showing someone important to him around the town. That person must be you."
+  },
+  {
+    "line": 587,
+    "text": "{character:Elderly Man}Haha, this child thinks he can hide everything well, but once you get to know him, you'll realize that everything is so obvious."
+  },
+  {
+    "line": 588,
+    "text": "{character:Hideki Akechi}Ahem, okay, we need to go to the next place now. We'll chat later."
+  },
+  {
+    "line": 589,
+    "text": "The elderly man's \"whispers\" are really not whispers at all. I see a flush of red spread from the tip of Hideki's ears to his cheeks. Finally, at this moment, he pulls me away from the booth like we're running away from it, and the elderly man's hearty laughter follows us all the way."
+  },
+  {
+    "line": 590,
+    "text": "After leaving the food area, on the way to the entertainment area to watch performances, Hideki and I tacitly say nothing. We walk slowly, one behind the other."
+  },
+  {
+    "line": 591,
+    "text": "{character:player}I..."
+  },
+  {
+    "line": 591,
+    "text": "{character:Hideki Akechi}I..."
+  },
+  {
+    "line": 592,
+    "text": "Just as I open my mouth he turns his head like he is about to say something to me, then we look each other in the eye and burst into laughter."
+  },
+  {
+    "line": 593,
+    "text": "{character:Hideki Akechi}You don't need to take his words to heart."
+  },
+  {
+    "line": 594,
+    "text": "{character:player}Why is that?"
+  },
+  {
+    "line": 595,
+    "text": "{character:Hideki Akechi}I don't want to give you any pressure. I... want you to just have fun today."
+  },
+  {
+    "line": 596,
+    "text": "{character:player}Well, I really am having a lot of fun, but... He said you made a lot of preparations for someone important. That... shouldn't be me, who you happened to meet on the street by chance, right...?"
+  },
+  {
+    "line": 597,
+    "text": "I drag out the sound of my words on purpose. Sure enough, the red color I saw earlier returned to his cheeks again. It seems that this old town really is a place where he lets down his guard completely. He is so cute like this. If I don't take this opportunity to \"bully\" him a little, I feel like I won't get the chance to after he returns to One Han City and becomes that unpredictable young heir again."
+  },
+  {
+    "line": 598,
+    "text": "{character:Hideki Akechi}{var:player_nickname}, I never realized you had such a wicked side to you. It seems that this trip really is a very \"worthwhile adventure\" because it has given us the chance to learn new things about each other."
+  },
+  {
+    "line": 599,
+    "text": "The midsummer afternoon sun warms the breeze slightly, which makes the air between us warmer when it blows past our ears. Hideki seems alarmed. He clenches his fist with one hand and puts it next to his mouth, then he coughs lightly and turns around as if he doesn't want me to notice his slightly red cheeks."
+  },
+  {
+    "line": 600,
+    "text": "{character:Hideki Akechi}I was thinking of inviting you to visit this town and have some fun, but I didn't expect I would run into you here, so I couldn't prepare for this trip as well as I was hoping to."
+  },
+  {
+    "line": 601,
+    "text": "{character:Hideki Akechi}When I've prepared everything next time, I hope you will accept my invitation and come here to experience this place again. Is that okay?"
+  },
+  {
+    "line": 602,
+    "text": "With Hideki leading the way, we soon arrive at the entertainment area to watch performances. There are so many different types of folk arts to see, but it's a shame that I'm already exhausted after running around for so long already, so I can only sit on a bench by the road to rest."
+  },
+  {
+    "line": 603,
+    "text": "{character:player}I can finally get some rest! Wow, it takes so much stamina just to tour around... I really envy the people who live in the area because they can come and experience something fun and different every day."
+  },
+  {
+    "line": 605,
+    "text": "{character:Hideki Akechi}You're right, even this old town has such a lively block now."
+  },
+  {
+    "line": 606,
+    "text": "{character:player}That sounds a little strange to me... Didn't you live in this old town in the past? Why does it sound like you're just as unfamiliar with this place as me?"
+  },
+  {
+    "line": 607,
+    "text": "{character:Hideki Akechi}Well... As I got older, I spent less and less time here, so I missed out on its changes."
+  },
+  {
+    "line": 608,
+    "text": "As he speaks, Hideki points at the block in front of us."
+  },
+  {
+    "line": 609,
+    "text": "{character:Hideki Akechi}In fact, until I went to university, this street was just a plain dirt road. There wasn't even an asphalt road here, and a thick layer of dust and sand rises whenever a car drives through it."
+  },
+  {
+    "line": 610,
+    "text": "{character:Hideki Akechi}At that time, people used to set up a mahjong table under the pagoda tree at the intersection and invite others to play with them. Those who couldn't get a seat at the table would stand beside it and wait for the next game. They would even borrow chairs from the shops on the street when watching people play."
+  },
+  {
+    "line": 611,
+    "text": "{character:player}It's a very warm scene."
+  },
+  {
+    "line": 612,
+    "text": "{character:Hideki Akechi}Yeah, which is why the plan to develop this town didn't go well at first. Everyone was afraid that their peaceful days would be ruined and the town's original order would be lost."
+  },
+  {
+    "line": 613,
+    "text": "{character:Hideki Akechi}However, when the whole world is developing rapidly, it's sometimes unavoidable to make choices you don't like. Just like this old town, which now looks completely different from how I remember it."
+  },
+  {
+    "line": 614,
+    "text": "I look at the intersection of the block. A huge screen displaying a map of this scenic spot now occupies the quarter. The dilapidated small mahjong table is no longer there."
+  },
+  {
+    "line": 615,
+    "text": "Hideki seems to be going through an emotional moment while looking at the bustling neighborhood. He also seems to be looking into the distant past at the same time."
+  },
+  {
+    "line": 616,
+    "text": "{character:player}No matter how this old town changes, one thing is certain—the happiness in your memories will never fade away. Even if high-rise buildings are built here in the future, this old town will always be the same town that brings you happiness if you never forget its past appearance."
+  },
+  {
+    "line": 617,
+    "text": "{character:player}Those beautiful, tranquil, and warm parts of your past will always belong exclusively to you. They will always be memories that belong exclusively to you, Hideki."
+  },
+  {
+    "line": 618,
+    "text": "{character:Hideki Akechi}Memories that belong exclusively to me..."
+  },
+  {
+    "line": 619,
+    "text": "Hideki repeats my words under his breath, then his eyes become brighter."
+  },
+  {
+    "line": 620,
+    "text": "{character:Hideki Akechi}You're right. I already have many things that are worth protecting. I shouldn't obsess over the past."
+  },
+  {
+    "line": 621,
+    "text": "{character:player}Yeah! And if we keep creating new happy memories, when we look back, our memories will be full of happy scenes."
+  },
+  {
+    "line": 622,
+    "text": "{character:Hideki Akechi}In that case... let's go to this old town's only mahjong dojo to have an exciting match."
+  },
+  {
+    "line": 623,
+    "text": "{character:player}Huh? Don't you think you're changing the topic too suddenly...?"
+  },
+  {
+    "line": 624,
+    "text": "{character:Hideki Akechi}I want {var:player_nickname} to also have beautiful memories of this old town, and there's no question that mahjong can make you happy."
+  },
+  {
+    "line": 625,
+    "text": "{character:Hideki Akechi}Don't underestimate the mahjong experts of this old town though. If you don't pay attention, they take all your points."
+  },
+  {
+    "line": 626,
+    "text": "{character:player}I see you're egging me on. It's not very wise but it's working! Let's go to the mahjong dojo. I'm not going to do my best!"
+  },
+  {
+    "line": 627,
+    "text": "When I recall my trip to this old town many years later, I remember Hideki's smile and the extremely rare True Nine Gates on the mahjong table."
+  },
+  {
+    "line": 628,
+    "text": "Like Hideki said, we all gained irreplaceable exclusive memories."
+  },
+  {
+    "line": 629,
+    "text": "{character:player}Well... I can't think of anything good since you asked me so suddenly. Since you're such a good tour guide, Hideki, can you plan the rest of the trip?"
+  },
+  {
+    "line": 630,
+    "text": "{character:Hideki Akechi}Of course I can. Let me see... {var:player_nickname} might like to go to..."
+  },
+  {
+    "line": 631,
+    "text": "The soft chirping of birds fills my ears. Crips and melodious sounds mix with the fragrance of the soil. Hideki tilts his head and thinks for a while before bursting into laughter."
+  },
+  {
+    "line": 632,
+    "text": "{character:Hideki Akechi}Follow me. I've thought of a place you should like."
+  },
+  {
+    "line": 633,
+    "text": "I thought Hideki would take me to the newly developed block of the old town. Instead, he took me to a sparsely populated old alley."
+  },
+  {
+    "line": 634,
+    "text": "The old alley is not at all wide, and the years have left their marks on the bluestone road. The wind blows at a moderate pace, sweeping fallen flowers all over the bluestone road and spreading their fragrance to farther places."
+  },
+  {
+    "line": 635,
+    "text": "Children who are chasing ducks, kind old people, desperate parents who are helping their children with their homework... This old alley doesn't reject me, an outsider, at all. Instead, it generously embraces me, showing me a type of liveliness and vitality that is completely different from the bustling crowds of the famous block."
+  },
+  {
+    "line": 636,
+    "text": "Hideki, who is walking at the front, is very familiar with this place and would stop from time to time to remind me to be careful of loose stone slabs."
+  },
+  {
+    "line": 637,
+    "text": "{character:player}Hideki, do you come here often?"
+  },
+  {
+    "line": 638,
+    "text": "{character:Hideki Akechi}Well... I guess. Whenever I came back to my family house, my grandma would always request me to get off public transport at the entrance of the ally and walk through the old alley alone to find her. Sometimes I'm carrying so many things that I need to stop to rest two or three times along the way."
+  },
+  {
+    "line": 639,
+    "text": "{character:player}I wish they would make the alley wider, then cars can drive inside here directly, and you wouldn't need to have such a hard time."
+  },
+  {
+    "line": 640,
+    "text": "{character:Hideki Akechi}Actually, I'm the opposite. I like how it is now."
+  },
+  {
+    "line": 641,
+    "text": "{character:player}Oh? Why is that?"
+  },
+  {
+    "line": 642,
+    "text": "Neighbor A"
+  },
+  {
+    "line": 643,
+    "text": "{character:Neighbor A}Ah, it's the boy from the Akechi family. You are back? Is it the summer holidays again?"
+  },
+  {
+    "line": 644,
+    "text": "A concerned greeting interrupts our conversation. Hideki looks at me apologetically and turns his head to greet the neighbor politely."
+  },
+  {
+    "line": 645,
+    "text": "{character:Hideki Akechi}Yes, and I'll be staying here for a while this time."
+  },
+  {
+    "line": 646,
+    "text": "{character:Neighbor A}If you need anything, come to me at any time. Don't be shy."
+  },
+  {
+    "line": 647,
+    "text": "Neighbor B"
+  },
+  {
+    "line": 648,
+    "text": "{character:Neighbor B}Hideki, we just picked some fruit from the trees at home. Take two home with you for a taste..."
+  },
+  {
+    "line": 649,
+    "text": "Neighbor C"
+  },
+  {
+    "line": 650,
+    "text": "{character:Neighbor C}These are sunflower seeds from my garden. I guarantee you'll like them!"
+  },
+  {
+    "line": 651,
+    "text": "{character:Hideki Akechi}Thank you..."
+  },
+  {
+    "line": 652,
+    "text": "I follow Hideki, watching as a bystander as he greets the enthusiastic neighbors. Everyone shows kindness to him from the bottom of their hearts, and Hideki gradually relaxes amid the warm greetings. At this moment, he isn't the almighty president of the mahjong club but a child loved by elders."
+  },
+  {
+    "line": 653,
+    "text": "{character:Hideki Akechi}Sorry, I didn't expect that to take so much time."
+  },
+  {
+    "line": 654,
+    "text": "{character:player}It's alright. I think... I understand why you like this place. No one can refuse such sincerity."
+  },
+  {
+    "line": 655,
+    "text": "{character:Hideki Akechi}Yes, it's more accurate to say that I like this close neighborhood instead of this old alley... Ah, we're here."
+  },
+  {
+    "line": 656,
+    "text": "Hideki takes me in front of a tall gatehouse. Exquisite carvings are carved onto its walls, and green creepers cling to its steeple-shaped sloping roof, giving it a dignified yet gentle appearance."
+  },
+  {
+    "line": 657,
+    "text": "{character:player}This is..."
+  },
+  {
+    "line": 658,
+    "text": "{character:Hideki Akechi}You should have guessed by now, right? This is our destination, the Akechi family house."
+  },
+  {
+    "line": 659,
+    "text": "{character:player}!!!"
+  },
+  {
+    "line": 660,
+    "text": "{character:Hideki Akechi}The most attractive thing about an old town isn't its unique buildings but its unique slow lifestyle. I thought you would be able to experience that most directly here."
+  },
+  {
+    "line": 661,
+    "text": "{character:Hideki Akechi}My father has never come here again since my grandma passed away due to an illness. I am currently the only one living here, so you don't need to worry about disturbing others."
+  },
+  {
+    "line": 662,
+    "text": "As Hideki opens the gate, an antique courtyard fills my vision. The pavilion, pool, poolside pavilion, and evergreen pine and cypress trees all complement each other and are embellished with white jade railings and glazed tiles of various colors, coming together to show an ancient charm."
+  },
+  {
+    "line": 663,
+    "text": "But that's not all. The pergola with lush branches and the lovely well in the corner make the courtyard look much warmer. It can be seen that Hideki's grandmother was a person who loved life."
+  },
+  {
+    "line": 664,
+    "text": "{character:player}This place doesn't look like it is almost always vacant..."
+  },
+  {
+    "line": 665,
+    "text": "{character:Hideki Akechi}I make some time to live here for a short time during my vacation every year, so I've arranged for some people to take care of the family home."
+  },
+  {
+    "line": 666,
+    "text": "When I think that this is where Hideki lived when he was a child, I can't help but want to get closer. My feet start moving by themselves..."
+  },
+  {
+    "line": 667,
+    "text": "Sit under the pergola"
+  },
+  {
+    "line": 668,
+    "text": "Take a look of the well"
+  },
+  {
+    "line": 669,
+    "text": "The most attractive thing in the whole courtyard is undoubtedly the grape vine trellis in the corner. Of course, it's not just because I'm thirsty and want to have some fruits after walking for so long, but also because my intuition tells me this vine has a story."
+  },
+  {
+    "line": 670,
+    "text": "As I sit on the bench under the vine trellis, a sweet aroma with a slightly herbal smell hits my nostrils, giving me an irresistible urge to close my eyes and take a deep breath."
+  },
+  {
+    "line": 671,
+    "text": "{character:Hideki Akechi}Grapes are in season right now. Want to try some?"
+  },
+  {
+    "line": 672,
+    "text": "{character:player}Can I?"
+  },
+  {
+    "line": 673,
+    "text": "Hideki answers my question with his actions. He picks a bunch of grapes, washes them with water from the well, and hands them to me on a plate. The grapes are plump, with a watery figure faintly exposed under the purple skin, pretty much inviting people to eat them."
+  },
+  {
+    "line": 674,
+    "text": "I take one grape and bite it gently in my mouth. Its sweet and sour juice fills my mouth instantly as a cool feeling travels from the tip of my tongue to the bottom of my heart, banishing the summer heat from my body."
+  },
+  {
+    "line": 675,
+    "text": "{character:player}It's so sweet..."
+  },
+  {
+    "line": 676,
+    "text": "{character:Hideki Akechi}My grandma personally selected this grape seedling, and she especially requested for the sweetest breed. When I was planting it later, I accidentally broke a leaf by stepping on it, which distressed grandma for a long time."
+  },
+  {
+    "line": 677,
+    "text": "{character:player}You planted it yourself? Wow, that's interesting all right, but it's difficult for me to imagine you sweating profusely with your sleeves rolled up as you dig holes and fill them up."
+  },
+  {
+    "line": 678,
+    "text": "{character:Hideki Akechi}Now that I think about it, it was really hard. I had to make more than a dozen trips back and forth just to transport the sandy loam soil. After planting it, I had to fill it up with soil and pack it tight myself... However, the only thing on my mind was: \"I'm about to have my own grape vine\", so I didn't care about how tired I was physically."
+  },
+  {
+    "line": 679,
+    "text": "{character:Hideki Akechi}If I knew at that time that this vine would become a place to get shade as well as a stage of horror, maybe I wouldn't have been so eager."
+  },
+  {
+    "line": 680,
+    "text": "{character:player}Stage? Grape vines? It's very misleading if you only say half of your sentence like this..."
+  },
+  {
+    "line": 681,
+    "text": "{character:Hideki Akechi}To be precise, it was my grandma's exclusive stage."
+  },
+  {
+    "line": 682,
+    "text": "The branches and leaves of the grape vines all reach out for the sun, forming a patch of green shade over the bench. Hideki sits down beside me, and the light shining through gaps leaves mottled dots on his clothes."
+  },
+  {
+    "line": 683,
+    "text": "{character:Hideki Akechi}During the day, this vine is a hero who holds an umbrella to block the sun. When the sun sets, it shows us another side of itself."
+  },
+  {
+    "line": 684,
+    "text": "{character:Hideki Akechi}The branches and leaves prevent moonlight from pouring in, making this part of the bench darker than everywhere else. When the evening breeze blows, the whole grape trellis will make a rustling sound, as if something is hiding behind your back..."
+  },
+  {
+    "line": 685,
+    "text": "{character:Hideki Akechi}Grandma loves to tell me ghost stories in an environment like that. For example, the tale of the little girl in the red suspender dress, the 13th step that suddenly appears, the rattling sound beside the railway, the woman wearing a huge mask who suddenly appears after school..."
+  },
+  {
+    "line": 686,
+    "text": "{character:player}And then she will take off her mask and ask you: \"Am I beautiful\"? I've heard that story. She'll try to kill you no matter what you say. I was troubled by this for a long time."
+  },
+  {
+    "line": 687,
+    "text": "{character:Hideki Akechi}Haha, yes. You can laugh at me if you want, but after hearing this ghost story, I found an excuse to make our butler, Mr. Ayame, drop me off and pick me up for a whole semester."
+  },
+  {
+    "line": 688,
+    "text": "{character:player}Haha! Does this count as childhood trauma that your grandma inadvertently gave you? Did she know about it?"
+  },
+  {
+    "line": 689,
+    "text": "{character:Hideki Akechi}It wasn't really inadvertent. That was basically grandma's goal."
+  },
+  {
+    "line": 690,
+    "text": "{character:player}Huh?"
+  },
+  {
+    "line": 691,
+    "text": "{character:Hideki Akechi}Because of my father's influence, I am used to keeping everyone at a \"safe distance\" from me to prevent them from knowing what I really think. I was also like that with my family."
+  },
+  {
+    "line": 692,
+    "text": "{character:Hideki Akechi}But grandma disagreed with that. She believed that the whole family is the backup of every member in it, so everyone should be close to each other."
+  },
+  {
+    "line": 693,
+    "text": "{character:player}Which means your grandma told you a ghost story on purpose to make you ask for help?"
+  },
+  {
+    "line": 694,
+    "text": "{character:Hideki Akechi}Yes, you're absolutely correct. Grandma would also deliberately scare me occasionally. I guess this counts as one of her... bad habits."
+  },
+  {
+    "line": 695,
+    "text": "{character:player}What did she do...?"
+  },
+  {
+    "line": 696,
+    "text": "{character:Hideki Akechi}Oh, I've been meaning to ask you. Where did you buy the doll on your shoulder?"
+  },
+  {
+    "line": 697,
+    "text": "{character:player}...What doll?"
+  },
+  {
+    "line": 698,
+    "text": "Hideki suddenly mentions something completely irrelevant to what we were talking about. I stare at my empty shoulders for a while before realizing... Is it possible that he saw something supernatural?!"
+  },
+  {
+    "line": 699,
+    "text": "While I'm thinking this, a cold gust of wind blows by my ear, making my hairs stand on end. Frightened, I move to the other side and grab Hideki's sleeve."
+  },
+  {
+    "line": 700,
+    "text": "{character:Hideki Akechi}Things like that."
+  },
+  {
+    "line": 701,
+    "text": "{character:player}...STOP RIGHT THERE! I don't want to have any nightmares tonight!"
+  },
+  {
+    "line": 702,
+    "text": "{character:Hideki Akechi}{var:player_nickname}, you can lean on me. I'm most willing to lend you my shoulder."
+  },
+  {
+    "line": 703,
+    "text": "{character:player}Is this how your grandma used to comfort you?"
+  },
+  {
+    "line": 704,
+    "text": "{character:Hideki Akechi}Grandma likes how I held her hand tightly when I was afraid. She said that's how a child should act, and that they should crawl into the arms of adults when they are afraid. So, although I was no longer frightened by ghost stories when I started high school, I still occasionally pretended to be scared to cheer her up."
+  },
+  {
+    "line": 705,
+    "text": "{character:Hideki Akechi}It's been a long time since I've sat and chatted with anyone under the grape vines like this since grandma passed away. Thank you for agreeing to come. Now that I think about it, since I met you, I seem to have done many things I never thought I would do."
+  },
+  {
+    "line": 706,
+    "text": "{character:Hideki Akechi}But I don't dislike that and even find myself hoping for these things to happen sometimes. For example, when you moved towards me without hesitating just now, I suddenly figured out that I want to see more sides of you and show you more sides of me, Hideki Akechi."
+  },
+  {
+    "line": 707,
+    "text": "Hideki holds my hand and looks at me."
+  },
+  {
+    "line": 708,
+    "text": "{character:Hideki Akechi}If it's possible, please let me be someone you can rely on."
+  },
+  {
+    "line": 709,
+    "text": "{character:Hideki Akechi}You don't have to answer me so soon. I just want to tell you how I feel. Please don't let this weigh on your heart."
+  },
+  {
+    "line": 710,
+    "text": "The flowers blooming in the morning sun swing their petals, and a breeze picks up in the peaceful courtyard, making the grapevines rustle, as if they have answered for me. Hideki smiles with his eyes and extends an invitation to me again."
+  },
+  {
+    "line": 711,
+    "text": "{character:Hideki Akechi}This fragrance... Do you want to try some pagoda tree flower cakes?"
+  },
+  {
+    "line": 712,
+    "text": "{character:player}Aha, it's rare for you to change the subject so abruptly, Hideki, so... what exactly is this pagoda tree flower cake?"
+  },
+  {
+    "line": 713,
+    "text": "{character:Hideki Akechi}In short, it's a dessert made out of flowers."
+  },
+  {
+    "line": 714,
+    "text": "{character:Hideki Akechi}According to folklore, if you plant a pagoda tree in front of your door, wealth will come naturally. Almost every household in this old town will plant a pagoda tree outside their door, so the courtyard is filled with the fragrance of its flowers every summer when the flowers bloom. Adults will pick the flowers and make them into desserts, and some gluttonous children would even secretly pick the flowers and eat them directly."
+  },
+  {
+    "line": 715,
+    "text": "{character:player}Elders like your grandma should believe quite strongly in folklore and feng shui. So there must be pagoda trees planted here too, right?"
+  },
+  {
+    "line": 716,
+    "text": "{character:Hideki Akechi}Yes, there's one outside the courtyard door. Do you want to take a look?"
+  },
+  {
+    "line": 717,
+    "text": "{character:player}Of course. I also want to have a good taste of these pagoda tree flowers."
+  },
+  {
+    "line": 718,
+    "text": "{character:Hideki Akechi}I'll pick some extra flowers for you then, but remember to wash them thoroughly before eating them."
+  },
+  {
+    "line": 719,
+    "text": "{character:player}Got it!"
+  },
+  {
+    "line": 720,
+    "text": "On a hot summer day, it's a human survival instinct to stay close to water. I don't know if my mind is playing tricks on me or not, but I feel like it's colder around the well, so I can't resist reaching out to touch the inner wall of the well and greedily absorb the coolness."
+  },
+  {
+    "line": 721,
+    "text": "{character:Hideki Akechi}Be careful, I'm lowering the bucket now."
+  },
+  {
+    "line": 722,
+    "text": "{character:player}Oh, okay..."
+  },
+  {
+    "line": 723,
+    "text": "Hideki easily lifts the heavy wooden barrel, sinks it into the well, then tightens the rope in his hand and pulls it up to the ground bit by bit. The barrel only shakes slightly during this time, and not even one drop of water is spilled out."
+  },
+  {
+    "line": 724,
+    "text": "{character:player}I thought you were the weak type, Hideki, but you're surprisingly strong."
+  },
+  {
+    "line": 725,
+    "text": "{character:Hideki Akechi}That sounds a little ambiguous. According to what happens in TV dramas, now I need to prove to you that I'm very strong, and this will take place in the dead of night."
+  },
+  {
+    "line": 726,
+    "text": "{character:player}Ahahahahaha... Are you the same Hideki Akechi I know? Or did my ears play tricks on me?"
+  },
+  {
+    "line": 727,
+    "text": "Hideki chuckles where he is standing, seemingly satisfied with my reaction. His smile is as gentle as always, but there's also a trace of slyness in it, as if he didn't really care about his bold words just now."
+  },
+  {
+    "line": 728,
+    "text": "I can see that Hideki is very relaxed in this courtyard filled with his childhood memories. At least... he has learned to make a joke."
+  },
+  {
+    "line": 729,
+    "text": "{character:player}Oh, it feels so cool... It's such bliss to wash your hands with well water in summer."
+  },
+  {
+    "line": 730,
+    "text": "{character:Hideki Akechi}Let's keep the happiness coming then. Let's chill some fruits. In addition to grapes and lychees, why don't we also chill a watermelon?"
+  },
+  {
+    "line": 731,
+    "text": "Hideki puts the fruits in a wooden barrel and skillfully sinks it into the well water. I look at his busy back and find it difficult to link him with that young heir who was always smiling in One Han City."
+  },
+  {
+    "line": 732,
+    "text": "{character:Hideki Akechi}My grandma taught me this method. Any fruit that is soaked for a while in the well will become cool and refreshing. One time, I was lazy and put fruits inside the water tank in the corner of the courtyard, but the final effect was nowhere near what I wanted."
+  },
+  {
+    "line": 733,
+    "text": "{character:player}Hideki, so even you will slack off? I thought you're a machine that never slacks off."
+  },
+  {
+    "line": 734,
+    "text": "{character:Hideki Akechi}When I first started living here with grandma, many neighbors thought the same thing about me. They would praise me for being a good child whenever I helped out with the housework. For a long time, the kids in the neighborhood hated hearing the name \"Hideki Akechi\" the most."
+  },
+  {
+    "line": 735,
+    "text": "{character:player}Oh... I think I can understand how everyone is thinking."
+  },
+  {
+    "line": 736,
+    "text": "{character:Hideki Akechi}By all rights, having such a sensible and well-behaved grandson is something to be happy about, yet grandma never praised me for these reasons."
+  },
+  {
+    "line": 737,
+    "text": "{character:player}Why is that?"
+  },
+  {
+    "line": 738,
+    "text": "{character:Hideki Akechi}Well... Let me think about my wording... I know—grandma thinks children should be lively, and it's very important to be \"naughty.\""
+  },
+  {
+    "line": 739,
+    "text": "{character:Hideki Akechi}Grandma tried all sorts of things to make me more lively. For example, she would make time every day to take me out to play with my friends or buy a bunch of snacks to \"tempt\" me... Some time later, grandma found out that I was unmoved by these and would sigh whenever she remembered this."
+  },
+  {
+    "line": 740,
+    "text": "{character:player}Haha, your grandma is such a lovely elder."
+  },
+  {
+    "line": 741,
+    "text": "{character:Hideki Akechi}That's why I always have some regrets. If I can turn back time, I should be able to do even better."
+  },
+  {
+    "line": 742,
+    "text": "The topic is starting to get heavy. The relaxation Hideki shows in this courtyard is also a way of making up for the regrets of his youth."
+  },
+  {
+    "line": 743,
+    "text": "I want to comfort him, but I'm also afraid of mentioning something that will make him sad, so I don't answer for a while. Hideki very keenly notices the change in the atmosphere and changes the subject with a smile."
+  },
+  {
+    "line": 744,
+    "text": "{character:Hideki Akechi}I don't know if you noticed or not, but the air around the house is slightly sweeter than at the place where you got lost. According to folklore, if you plant a pagoda tree in front of your door, wealth will come naturally. Almost every household in this old town will plant a pagoda tree outside their door, so the courtyard is filled with the fragrance of its flowers every summer when the flowers bloom."
+  },
+  {
+    "line": 745,
+    "text": "{character:player}Speaking of that... it does seem to be the case."
+  },
+  {
+    "line": 746,
+    "text": "{character:Hideki Akechi}There's also a pagoda tree planted at the Akechi family home. It's just outside the gate of the backyard. Would you like to go and take a look? When I was young, children around my age would often climb the pagoda trees to pick their flowers and eat them. Occasionally, they would encounter unfriendly bees and end up being chased around."
+  },
+  {
+    "line": 747,
+    "text": "{character:player}I hope that won't happen to us today."
+  },
+  {
+    "line": 748,
+    "text": "{character:Hideki Akechi}I can't promise you that. You don't need to worry though, because I'll protect you."
+  },
+  {
+    "line": 749,
+    "text": "Hideki insists on taking care of the physical flower picking activity, which gives me a lot of free time to look at this tree that \"was transplanted here since the Akechi family bought this old home and has witnessed all the history of the Akechi family.\""
+  },
+  {
+    "line": 750,
+    "text": "It really is... a massive pagoda tree. According to my visual inspection, not even two people are enough to fully hug its trunk. Being in such close contact with the tree makes me feel that I have been infused with the rich fragrance of the pagoda tree."
+  },
+  {
+    "line": 751,
+    "text": "{character:player}Hmm? There seems to be some pattern carved here."
+  },
+  {
+    "line": 752,
+    "text": "A familiar badge mark on the trunk catches my attention. If I remember correctly, this is a magical seal that appears when a hero and a heroine sign a contract in a classic manga many years ago. Counting back the years since this manga was released with my fingers, I come to the conclusion that the only person who could have carved this mark on the trunk is Hideki."
+  },
+  {
+    "line": 753,
+    "text": "{character:Hideki Akechi}You're really observant. Even I've forgotten about this. I think I did this when I was in elementary school to record a buried secret."
+  },
+  {
+    "line": 754,
+    "text": "{character:player}Is it similar to how the protagonist of the manga writes a letter and puts it inside a tree hole so he can take it out and give it to his crush when he grows up? Secrets are seldom delivered accurately. This type of plot usually belongs to the deeply affectionate deuteragonist."
+  },
+  {
+    "line": 755,
+    "text": "{character:Hideki Akechi}I did get the idea to bury a letter for myself from the manga, but it has nothing to do with a crush. Come to think of it... it's been almost ten years since I buried this secret."
+  },
+  {
+    "line": 756,
+    "text": "{character:player}\"Ten years has passed! Let's welcome the return of the Dragon King!\" According to how the manga goes, everything will be revealed now."
+  },
+  {
+    "line": 757,
+    "text": "{character:Hideki Akechi}Haha, you do make some sense. Let's get moving then."
+  },
+  {
+    "line": 758,
+    "text": "Thanks to Hideki's proactiveness, we dig down vertically along the marks on the trunk and soon find a slightly rusty iron box."
+  },
+  {
+    "line": 759,
+    "text": "He reaches out to brush off the dirt on the iron box and keeps rubbing its corners like he is hesitating about something."
+  },
+  {
+    "line": 760,
+    "text": "{character:player}Should I give you some privacy?"
+  },
+  {
+    "line": 761,
+    "text": "{character:Hideki Akechi}That's not it. I'm willing to share everything about me with you. It's just that this letter... I was ten years old at that time, and I had a massive argument with my father. I was very emotional when I wrote this letter and write many of my negative and extreme thoughts in it."
+  },
+  {
+    "line": 762,
+    "text": "{character:Hideki Akechi}Now that I think about it, even I think those conflicts are insignificant, but they put tremendous pressure on me when I was just ten."
+  },
+  {
+    "line": 763,
+    "text": "Hideki has always shown everyone his capable side and rarely reveals his fragile and confused emotions. I take a step forward and stand opposite him."
+  },
+  {
+    "line": 764,
+    "text": "{character:player}Whatever is written in that letter, it is part of the past that you can't change. What's important in life is the present and the future."
+  },
+  {
+    "line": 765,
+    "text": "{character:player}Our predecessors teach us to use history as a mirror to learn what we've gained or lost. If you treat the letter of the past you're holding as a mirror, maybe you'll have a better idea of what you really want."
+  },
+  {
+    "line": 766,
+    "text": "{character:player}After all, the Hideki Akechi I know isn't someone who runs away from things."
+  },
+  {
+    "line": 767,
+    "text": "*Chirp* A sparrow flies over suddenly and finishes my sentence. Hideki's eyes are surprisingly bright as he gently opens the box that has been buried for many years."
+  },
+  {
+    "line": 768,
+    "text": "To our surprise, the letter inside the box isn't the letter of resentment and anger he wrote as a child."
+  },
+  {
+    "line": 769,
+    "text": "{character:player}\"To my grandson Hideki, if you see this, I hope you think of me and smile.\" Huh...?"
+  },
+  {
+    "line": 770,
+    "text": "{character:Hideki Akechi}This is... a letter grandma wrote to me."
+  },
+  {
+    "line": 771,
+    "text": "\"I woke up in the middle of the night and discovered your little secret by accident. I swapped your letter without your permission. Although I don't know if you'll come back for it in the future, I still want to say sorry to you.\""
+  },
+  {
+    "line": 772,
+    "text": "\"Hideki, are you now a junior high school student, high school student, university student, or have you already started working? Have you found someone you like yet, or are you still always alone?\""
+  },
+  {
+    "line": 773,
+    "text": "\"Haha, don't be shy. You know grandma won't make fun of you. Actually, none of those questions are what I care about the most. What I really want to ask you is: are you living happily now?\""
+  },
+  {
+    "line": 774,
+    "text": "\"Happily. Yes, that's the word. Whether you're an ordinary person or the future successor of the Akechi family, your happiness should be the only criteria that you base all your decisions and actions on.\""
+  },
+  {
+    "line": 775,
+    "text": "\"Grandma hopes that you are opening this letter in a happy and cheerful situation. That's my only expectation for you. —Your grandma who loves you forever.\""
+  },
+  {
+    "line": 776,
+    "text": "This short letter contains all the expectations of an elder for her grandson, and it is surprisingly concise. Through the gentle and neat handwriting, I feel like I can see the kind old woman who is sitting in front of a table worrying about her grandson late at night."
+  },
+  {
+    "line": 777,
+    "text": "{character:Hideki Akechi}Since I was a child, my father taught me that I need to grow up to become a good politician and shoulder the responsibility of the entire Akechi family. He arranged a lot of homework for me, which took up almost all my time, to ensure I would be an outstanding successor to him."
+  },
+  {
+    "line": 778,
+    "text": "{character:Hideki Akechi}But I'm not a robot who can accept and follow all his instructions perfectly. The more pressure he put on me, the more I wanted to resist..."
+  },
+  {
+    "line": 779,
+    "text": "{character:Hideki Akechi}Although I ran for the position of president of the middle school student council and the president of the mahjong club, deep in my heart, I have always been rejecting matters related to them because I feel that my personal success reflects the success of my father's education."
+  },
+  {
+    "line": 780,
+    "text": "{character:player}But you're so suitable for these roles, don't you think?"
+  },
+  {
+    "line": 781,
+    "text": "{character:Hideki Akechi}Yes, so I tried to ignore that feeling and the joy in my heart. When I did this, I felt happy and at ease."
+  },
+  {
+    "line": 782,
+    "text": "{character:Hideki Akechi}I never wanted anyone to discover that, especially my father, but it seems like it isn't important anymore."
+  },
+  {
+    "line": 783,
+    "text": "Hideki folds his grandma's letter again and stores it carefully in his bosom."
+  },
+  {
+    "line": 784,
+    "text": "{character:Hideki Akechi}The letter lets me know that I have always been loved by many people too. My life belongs to me. I don't live for my father's or my grandma's expectations."
+  },
+  {
+    "line": 785,
+    "text": "{character:Hideki Akechi}I shouldn't be swayed by other people's opinions and perceptions because I am irreplaceable in my own life. If I am to answer grandma's question now, I think... I am happy, and I will choose a life that makes me happy in the future."
+  },
+  {
+    "line": 786,
+    "text": "{character:player}I'm sure your grandma will be happy if she could hear you say that."
+  },
+  {
+    "line": 787,
+    "text": "{character:Hideki Akechi}Thank you... I'm sure she'll be even happier if she knows that I brought you here to our family home because this directly answers another question she asked in her letter."
+  },
+  {
+    "line": 788,
+    "text": "{character:player}...Eh?!"
+  },
+  {
+    "line": 789,
+    "text": "The sun hides behind the clouds, creating the most suitable atmosphere for the moment. Hideki walks up to me and raises his hand to take a petal that has fallen on his head."
+  },
+  {
+    "line": 790,
+    "text": "{character:Hideki Akechi}In the future, can I invite you to come here with me often?"
+  },
+  {
+    "line": 791,
+    "text": "{character:player}Yes..."
+  },
+  {
+    "line": 792,
+    "text": "We can't disappoint our elders, right?"
+  },
+  {
+    "line": 793,
+    "text": ""
+  }
+]

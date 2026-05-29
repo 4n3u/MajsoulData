@@ -1,15 +1,22 @@
 name: Data Update
 
 on:
+  schedule:
+    # 10:00 KST
+    - cron: '0 1 * * *'
   workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force data regeneration even when the remote version is unchanged'
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
-  group: "pages"
+  group: "data-update"
   cancel-in-progress: false
 
 jobs:
@@ -19,57 +26,63 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          node-version: '20'
+          python-version: '3.12'
 
-      - name: Install Node.js dependencies
-        run: npm install
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.23.4'
 
-      - name: Install protobuf compiler
+      - name: Install protocol documentation tools
         run: |
           sudo apt-get update
           sudo apt-get install -y protobuf-compiler
+          go install github.com/pseudomuto/protoc-gen-doc/cmd/protoc-gen-doc@v1.5.1
+          echo "$HOME/go/bin" >> "$GITHUB_PATH"
 
-      - name: Install protoc-gen-doc
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Update data
         run: |
-          curl -L -o protoc-gen-doc.tar.gz https://github.com/pseudomuto/protoc-gen-doc/releases/download/v1.5.1/protoc-gen-doc_1.5.1_linux_amd64.tar.gz
-          tar -xzf protoc-gen-doc.tar.gz protoc-gen-doc
-          sudo mv protoc-gen-doc /usr/local/bin/protoc-gen-doc
-          sudo chmod +x /usr/local/bin/protoc-gen-doc
-          rm protoc-gen-doc.tar.gz
-          echo "PROTOC_GEN_DOC_PATH=$(command -v protoc-gen-doc)" >> $GITHUB_ENV
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.force }}" = "true" ]; then
+            python main.py
+          else
+            python main.py --skip-if-current
+          fi
 
-      - name: Run main.js to download and process data
-        run: node main.js
+      - name: Validate generated data
+        run: |
+          python -m unittest discover -s tests -v
+          python -m compileall -q main.py src tests
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          count = 0
+          for root in (Path("data"), Path("raw")):
+              for path in root.rglob("*.json"):
+                  json.loads(path.read_text(encoding="utf-8"))
+                  count += 1
+          print(f"json ok: {count}")
+          PY
+          files=$(find data/protocol/proto -maxdepth 1 -name '*.proto' -printf '%f\n' | sort)
+          protoc --proto_path=data/protocol/proto --descriptor_set_out=/tmp/majsoul_protocol.desc $files
 
       - name: Commit and push changes
         id: commit_changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add -f docs/ web/
+          git add -A data/ raw/
           if git diff --staged --quiet; then
             echo "No changes to commit"
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
-            VERSION=$(node -e "const fs=require('fs');const p='web/version.json';try{const v=JSON.parse(fs.readFileSync(p,'utf8')).version||'unknown';process.stdout.write(String(v));}catch{process.stdout.write('unknown');}")
-            git commit -m "Update to version $VERSION"
+            git commit -m "Update data"
             git push
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-        with:
-          enablement: true
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./web
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4

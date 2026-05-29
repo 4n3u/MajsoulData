@@ -1,0 +1,498 @@
+{
+  "newmap": true,
+  "Spots": [
+    {
+      "spotid": 0,
+      "rewardid": 0,
+      "SceneMap": [
+        {
+          "SceneID": 0,
+          "background": 0,
+          "effect": 0,
+          "_background": "blackbg.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [],
+          "haveChat": true,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 2,
+            "charid": 0,
+            "skinid": 405101,
+            "content_id": 1,
+            "charname_id": 12,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            },
+            "content": "……起来……起来……鹭巢……",
+            "charname": "???"
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "title": "场景0",
+          "transinfo": "",
+          "img_char_name": ""
+        },
+        {
+          "SceneID": 0,
+          "background": 0,
+          "effect": 0,
+          "_background": "blackbg.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [],
+          "haveChat": true,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 2,
+            "charid": 200051,
+            "skinid": 405101,
+            "content_id": 2,
+            "charname_id": 13,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            },
+            "content": "痛……好痛……",
+            "charname": "鹫巢岩"
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "title": "场景1",
+          "transinfo": "",
+          "img_char_name": ""
+        },
+        {
+          "SceneID": 0,
+          "background": 0,
+          "effect": 0,
+          "_background": "blackbg.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [],
+          "haveChat": true,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 2,
+            "charid": 0,
+            "skinid": 405101,
+            "content_id": 3,
+            "charname_id": 12,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            },
+            "content": "给我起来，鹭巢。",
+            "charname": "???"
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "title": "场景2",
+          "transinfo": "",
+          "img_char_name": ""
+        },
+        {
+          "SceneID": 0,
+          "background": 0,
+          "effect": 0,
+          "_background": "blackbg.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [],
+          "haveChat": true,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 2,
+            "charid": 200051,
+            "skinid": 405101,
+            "content_id": 4,
+            "charname_id": 13,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            },
+            "content": "好痛……谁……是谁……",
+            "charname": "鹫巢岩"
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "title": "场景3",
+          "transinfo": "",
+          "img_char_name": ""
+        },
+        {
+          "SceneID": 0,
+          "background": 0,
+          "effect": 0,
+          "_background": "blackbg.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [
+            {
+              "char_name": "鹫巢岩",
+              "char_name_id": 0,
+              "character_id": "200051",
+              "skin_id": "405101",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": false,
+              "pos": 1,
+              "cur_pos": 0
+            }
+          ],
+          "haveChat": true,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 2,
+            "charid": 200051,
+            "skinid": 405101,
+            "content_id": 5,
+            "charname_id": 13,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            },
+            "content": "是哪个混蛋那么大胆？！！！！！",
+            "charname": "鹫巢岩"
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "title": "场景4",
+          "transinfo": "",
+          "img_char_name": ""
+        },
+        {
+          "SceneID": 0,
+          "background": 0,
+          "effect": 0,
+          "_background": "blackbg.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [
+            {
+              "char_name": "鹫巢岩",
+              "char_name_id": 0,
+              "character_id": "200051",
+              "skin_id": "405101",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": false,
+              "pos": 1,
+              "cur_pos": 0
+            }
+          ],
+          "haveChat": true,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 3,
+            "charid": 0,
+            "skinid": 405101,
+            "content_id": 6,
+            "charname_id": 0,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 3,
+              "style": 0
+            },
+            "content": "「狂人」醒了，在近乎失去一切的边界线，这个被人称为帝王的男人凭借着超乎常人的执念回到了最后的战场。",
+            "charname": ""
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "title": "场景5",
+          "transinfo": "",
+          "img_char_name": ""
+        },
+        {
+          "SceneID": 0,
+          "background": 0,
+          "effect": 0,
+          "_background": "blackbg.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [
+            {
+              "char_name": "一姬",
+              "char_name_id": 0,
+              "character_id": "200001",
+              "skin_id": "400101",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": false,
+              "pos": 1,
+              "cur_pos": 0
+            },
+            {
+              "char_name": "汪次郎",
+              "char_name_id": 0,
+              "character_id": "200012",
+              "skin_id": "401201",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": false,
+              "pos": 2,
+              "cur_pos": 0
+            }
+          ],
+          "haveChat": true,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 3,
+            "charid": 0,
+            "skinid": 405101,
+            "content_id": 7,
+            "charname_id": 0,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 3,
+              "style": 0
+            },
+            "content": "他感觉自己做了一场梦，尚未清醒的脑海中，依稀浮现着两个奇妙的身影。",
+            "charname": ""
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "title": "场景6",
+          "transinfo": "",
+          "img_char_name": ""
+        },
+        {
+          "SceneID": 0,
+          "background": 0,
+          "effect": 0,
+          "_background": "blackbg.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [],
+          "haveChat": true,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 3,
+            "charid": 0,
+            "skinid": 405101,
+            "content_id": 8,
+            "charname_id": 0,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 3,
+              "style": 0
+            },
+            "content": "依稀记得它们自称是「神」……",
+            "charname": ""
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "title": "场景7",
+          "transinfo": "",
+          "img_char_name": ""
+        },
+        {
+          "SceneID": 0,
+          "background": 0,
+          "effect": 0,
+          "_background": "blackbg.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [
+            {
+              "char_name": "赤木茂",
+              "char_name_id": 0,
+              "character_id": "200050",
+              "skin_id": "405002",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": false,
+              "pos": 1,
+              "cur_pos": 0
+            }
+          ],
+          "haveChat": true,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 3,
+            "charid": 200050,
+            "skinid": 405003,
+            "content_id": 9,
+            "charname_id": 0,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 3,
+              "style": 0
+            },
+            "content": "咯咯咯……终究是上了年纪老糊涂了吗？鹭巢，对你这种人而言，根本不会有那么可爱的神明现身在你面前。",
+            "charname": ""
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "title": "场景8",
+          "transinfo": "",
+          "img_char_name": ""
+        },
+        {
+          "SceneID": 0,
+          "background": 0,
+          "effect": 0,
+          "_background": "blackbg.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [
+            {
+              "char_name": "赤木茂",
+              "char_name_id": 0,
+              "character_id": "200050",
+              "skin_id": "405002",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": false,
+              "pos": 1,
+              "cur_pos": 0
+            }
+          ],
+          "haveChat": true,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 2,
+            "charid": 200050,
+            "skinid": 405003,
+            "content_id": 10,
+            "charname_id": 14,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            },
+            "content": "会在你这种老不死的面前现身的，只有「死神」。",
+            "charname": "赤木茂"
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "title": "场景9",
+          "transinfo": "",
+          "img_char_name": ""
+        },
+        {
+          "SceneID": 0,
+          "background": 0,
+          "effect": 0,
+          "_background": "blackbg.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [
+            {
+              "char_name": "鹫巢岩",
+              "char_name_id": 0,
+              "character_id": "200051",
+              "skin_id": "405102",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": false,
+              "pos": 1,
+              "cur_pos": 0
+            }
+          ],
+          "haveChat": true,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 2,
+            "charid": 200051,
+            "skinid": 405101,
+            "content_id": 11,
+            "charname_id": 13,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            },
+            "content": "咔……咔咔咔！说得没错！赤木！你也一样！那种荒唐的梦境根本不可能存在，今晚会迎接你我的，除死神以外别无他物！",
+            "charname": "鹫巢岩"
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "title": "场景10",
+          "transinfo": "",
+          "img_char_name": ""
+        }
+      ],
+      "endspotid": 0
+    }
+  ]
+}

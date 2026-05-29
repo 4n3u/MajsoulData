@@ -1,0 +1,671 @@
+[
+  {
+    "id": 118201,
+    "activity_id": 1182,
+    "key_item_id": 309035,
+    "key_amount": null,
+    "unlock_task_id": null,
+    "sort": 1,
+    "unlock_time": null,
+    "content_path": "event/kakekuru00",
+    "ending_id": [],
+    "ending_res": null,
+    "title": {
+      "chs": "『渊』的修学之旅",
+      "chs_t": "『淵』的修學之旅",
+      "jp": "「淵」の修学旅行",
+      "en": "Gamblers' Field Trip",
+      "kr": ""
+    },
+    "subtitle": {
+      "chs": "序",
+      "chs_t": "序",
+      "jp": "プロローグ",
+      "en": "Prologue",
+      "kr": ""
+    },
+    "content": {
+      "chs": "胜负无处不在，即便是轻松的修学旅行也……",
+      "chs_t": "勝負無處不在，即便是輕鬆的修學旅行也……",
+      "jp": "勝ち負けこそ学園のすべて、たとえ楽しい修学旅行であっても。",
+      "en": "Victory and defeat are omnipresent, even in a relaxing field trip...",
+      "kr": ""
+    }
+  },
+  {
+    "id": 118202,
+    "activity_id": 1182,
+    "key_item_id": 309035,
+    "key_amount": 200000,
+    "unlock_task_id": null,
+    "sort": 2,
+    "unlock_time": null,
+    "content_path": "event/kakekuru01",
+    "ending_id": [],
+    "ending_res": null,
+    "title": {
+      "chs": "从花香中醒来",
+      "chs_t": "從花香中醒來",
+      "jp": "花香る目覚め",
+      "en": "Awaken by the Flowers' Aroma",
+      "kr": ""
+    },
+    "subtitle": {
+      "chs": "第一幕",
+      "chs_t": "第一幕",
+      "jp": "Act.1",
+      "en": "Scene I",
+      "kr": ""
+    },
+    "content": {
+      "chs": "既然是在梦中，那发生什么奇怪的事情都是理所应当的……",
+      "chs_t": "既然是在夢中，那發生什麼奇怪的事情都是理所應當的……",
+      "jp": "夢の中なら、何があってもおかしくない…",
+      "en": "Since it is a dream, anything uncanny could happen...",
+      "kr": ""
+    }
+  },
+  {
+    "id": 118203,
+    "activity_id": 1182,
+    "key_item_id": 309035,
+    "key_amount": 400000,
+    "unlock_task_id": null,
+    "sort": 3,
+    "unlock_time": null,
+    "content_path": "event/kakekuru02",
+    "ending_id": [],
+    "ending_res": null,
+    "title": {
+      "chs": "缘",
+      "chs_t": "緣",
+      "jp": "腐れ縁",
+      "en": "Fate",
+      "kr": ""
+    },
+    "subtitle": {
+      "chs": "第二幕",
+      "chs_t": "第二幕",
+      "jp": "Act.2",
+      "en": "Scene II",
+      "kr": ""
+    },
+    "content": {
+      "chs": "他乡遇故知，总不是坏事……",
+      "chs_t": "他鄉遇故知，總不是壞事……",
+      "jp": "迷い込んだ先の神社に思わぬ出会い。一人ぽっちよりはマシ…？",
+      "en": "It is always a good thing to meet a friend in a foreign country...",
+      "kr": ""
+    }
+  },
+  {
+    "id": 118204,
+    "activity_id": 1182,
+    "key_item_id": 309035,
+    "key_amount": 600000,
+    "unlock_task_id": null,
+    "sort": 4,
+    "unlock_time": null,
+    "content_path": "event/kakekuru03",
+    "ending_id": [],
+    "ending_res": null,
+    "title": {
+      "chs": "神社迷途",
+      "chs_t": "神社迷途",
+      "jp": "迷子にご注意を",
+      "en": "Lost in the Shrine",
+      "kr": ""
+    },
+    "subtitle": {
+      "chs": "第三幕",
+      "chs_t": "第三幕",
+      "jp": "Act.3",
+      "en": "Scene III",
+      "kr": ""
+    },
+    "content": {
+      "chs": "啊……糟糕，这神社比预想的要大啊……",
+      "chs_t": "啊……糟糕，這神社比預想的要大啊……",
+      "jp": "あー…まずい。この神社、思ったより広いかも。",
+      "en": "Ah... Good grief, this Shrine is bigger than expected...",
+      "kr": ""
+    }
+  },
+  {
+    "id": 118205,
+    "activity_id": 1182,
+    "key_item_id": 309035,
+    "key_amount": 800000,
+    "unlock_task_id": null,
+    "sort": 5,
+    "unlock_time": null,
+    "content_path": "event/kakekuru04",
+    "ending_id": [],
+    "ending_res": null,
+    "title": {
+      "chs": "各自的课题",
+      "chs_t": "各自的課題",
+      "jp": "各々の望み",
+      "en": "The Subject",
+      "kr": ""
+    },
+    "subtitle": {
+      "chs": "第四幕",
+      "chs_t": "第四幕",
+      "jp": "Act.4",
+      "en": "Scene IV",
+      "kr": ""
+    },
+    "content": {
+      "chs": "深夜向来是鏖战的好时候，最不缺的就是时间……",
+      "chs_t": "深夜向來是鏖戰的好時候，最不缺的就是時間……",
+      "jp": "深夜こそギャンブルの時間、夜明けまではまだまだ長い。",
+      "en": "The best time for a fierce battle is always late at night, as time is not an issue...",
+      "kr": ""
+    }
+  },
+  {
+    "id": 118206,
+    "activity_id": 1182,
+    "key_item_id": 309035,
+    "key_amount": 1000000,
+    "unlock_task_id": null,
+    "sort": 6,
+    "unlock_time": null,
+    "content_path": "event/kakekuru05",
+    "ending_id": [],
+    "ending_res": null,
+    "title": {
+      "chs": "归路",
+      "chs_t": "歸路",
+      "jp": "帰り道",
+      "en": "The Way Back",
+      "kr": ""
+    },
+    "subtitle": {
+      "chs": "尾声",
+      "chs_t": "尾聲",
+      "jp": "エピローグ",
+      "en": "Epilogue",
+      "kr": ""
+    },
+    "content": {
+      "chs": "回家可别忘了随身物品哦……",
+      "chs_t": "回家可別忘了隨身物品哦……",
+      "jp": "お帰りの際、お忘れ物のないようお気を付けください。",
+      "en": "Please do not forget your belongings while leaving...",
+      "kr": ""
+    }
+  },
+  {
+    "id": 123401,
+    "activity_id": 1234,
+    "key_item_id": null,
+    "key_amount": null,
+    "unlock_task_id": null,
+    "sort": 1,
+    "unlock_time": "2021-10-01 05:00:00+08",
+    "content_path": "event/akagi00",
+    "ending_id": [],
+    "ending_res": null,
+    "title": {
+      "chs": "序",
+      "chs_t": "序",
+      "jp": "プロローグ",
+      "en": "Prologue",
+      "kr": ""
+    },
+    "content": {
+      "chs": "某个雨夜后，迎来了一位诞生于黑暗中的天才……",
+      "chs_t": "某個雨夜後，迎來了一位誕生于黑暗中的天才……",
+      "jp": "とある雨の夜に、闇に降り立つ天才が生まれた。",
+      "en": "A genius was born from that same darkness after a rainy night...",
+      "kr": ""
+    }
+  },
+  {
+    "id": 123402,
+    "activity_id": 1234,
+    "key_item_id": null,
+    "key_amount": null,
+    "unlock_task_id": null,
+    "sort": 2,
+    "unlock_time": "2021-11-06 05:00:00+08",
+    "content_path": "event/akagi01",
+    "ending_id": [],
+    "ending_res": null,
+    "title": {
+      "chs": "尾声",
+      "chs_t": "尾聲",
+      "jp": "エピローグ",
+      "en": "Epilogue",
+      "kr": ""
+    },
+    "content": {
+      "chs": "「狂人」醒了，在近乎失去一切的边界线……",
+      "chs_t": "「狂人」醒了，在近乎失去一切的邊界線……",
+      "jp": "「狂人」が目を覚ました。すべてを失うそのギリギリの境界線上から…",
+      "en": "The madman has awakened. Just as he's about to lose everything…",
+      "kr": ""
+    }
+  },
+  {
+    "id": 22040701,
+    "activity_id": 220407,
+    "key_item_id": null,
+    "key_amount": null,
+    "unlock_task_id": null,
+    "sort": 1,
+    "unlock_time": "2022-03-27 05:00:00+08",
+    "content_path": "event/huiye1",
+    "ending_id": [],
+    "ending_res": null,
+    "title": {
+      "chs": "开幕",
+      "chs_t": "開幕",
+      "jp": "プロローグ",
+      "en": "Opening",
+      "kr": "오프닝"
+    },
+    "content": {
+      "chs": "恋爱，即是战争！",
+      "chs_t": "戀愛，即是戰爭！",
+      "jp": "即ち恋愛は戦！",
+      "en": "Love is, in fact, a war!",
+      "kr": ""
+    }
+  },
+  {
+    "id": 22040702,
+    "activity_id": 220407,
+    "key_item_id": null,
+    "key_amount": null,
+    "unlock_task_id": null,
+    "sort": 2,
+    "unlock_time": "2022-05-02 05:00:00+08",
+    "content_path": "event/huiye2",
+    "ending_id": [],
+    "ending_res": null,
+    "title": {
+      "chs": "幕间",
+      "chs_t": "幕間",
+      "jp": "インターローグ",
+      "en": "Interlude",
+      "kr": "인터루드"
+    },
+    "content": {
+      "chs": "无关恋爱头脑战的麻将对决，火热进行中……",
+      "chs_t": "無關戀愛頭腦戰的麻將對決，火熱進行中……",
+      "jp": "恋愛頭脳戦とは全く関係のない麻雀対決、白熱！",
+      "en": "The battle of wits on love has now become a pure, heated battle of Mahjong, and the battle continues…",
+      "kr": ""
+    }
+  },
+  {
+    "id": 22040703,
+    "activity_id": 220407,
+    "key_item_id": null,
+    "key_amount": null,
+    "unlock_task_id": null,
+    "sort": 3,
+    "unlock_time": "2022-05-07 05:00:00+08",
+    "content_path": "event/huiye3",
+    "ending_id": [],
+    "ending_res": null,
+    "title": {
+      "chs": "尾声",
+      "chs_t": "尾聲",
+      "jp": "エピローグ",
+      "en": "Finale",
+      "kr": "피날레"
+    },
+    "content": {
+      "chs": "今天的胜利，平手。",
+      "chs_t": "今天的勝利，平手。",
+      "jp": "本日の勝敗、引き分け。",
+      "en": "And everybody is a winner today.",
+      "kr": ""
+    }
+  },
+  {
+    "id": 22110601,
+    "activity_id": 221106,
+    "key_item_id": null,
+    "key_amount": null,
+    "unlock_task_id": null,
+    "sort": 1,
+    "unlock_time": null,
+    "content_path": "event/2211saki01",
+    "ending_id": [],
+    "ending_res": null,
+    "title": {
+      "chs": "神社与……兔女郎？",
+      "chs_t": "神社與……兔女郎？",
+      "jp": "神社と……コスプレ？",
+      "en": "A Shrine and... A Bunny Girl?",
+      "kr": "신사와……토끼님?"
+    },
+    "content": {
+      "chs": "这搭配，也别有一番风味？",
+      "chs_t": "這搭配，也別有一番風味？",
+      "jp": "この組み合わせは新鮮……かも。",
+      "en": "Although it's strange, it's quite... unique...",
+      "kr": "이 조합, 독특한데?"
+    }
+  },
+  {
+    "id": 22110602,
+    "activity_id": 221106,
+    "key_item_id": null,
+    "key_amount": null,
+    "unlock_task_id": null,
+    "sort": 2,
+    "unlock_time": "2022-11-23 05:00:00+08",
+    "content_path": "event/2211saki02",
+    "ending_id": [],
+    "ending_res": null,
+    "title": {
+      "chs": "Good morning，未来视",
+      "chs_t": "Good morning，未來視",
+      "jp": "おはよう、未来を見る人。",
+      "en": "Good Morning, Foresight",
+      "kr": "Good morning, 미래 예지"
+    },
+    "content": {
+      "chs": "清醒后，少女看到的，是战场。",
+      "chs_t": "清醒後，少女看到的，是戰場。",
+      "jp": "目覚めた少女が目にしたもの、それはすなわち戦場。",
+      "en": "When the girl awakens, the battlefield is waiting for her.",
+      "kr": "정신을 차리고 소녀가 본 것은 전쟁터였다."
+    }
+  },
+  {
+    "id": 22110603,
+    "activity_id": 221106,
+    "key_item_id": null,
+    "key_amount": null,
+    "unlock_task_id": null,
+    "sort": 3,
+    "unlock_time": "2022-11-30 05:00:00+08",
+    "content_path": "event/2211saki03",
+    "ending_id": [],
+    "ending_res": null,
+    "title": {
+      "chs": "同样的想法",
+      "chs_t": "同樣的想法",
+      "jp": "通じ合う心",
+      "en": "Great Minds Think Alike",
+      "kr": "같은 생각"
+    },
+    "content": {
+      "chs": "想到一起了呢~",
+      "chs_t": "想到一起了呢~",
+      "jp": "同じこと、考えちゃったね。",
+      "en": "We thought of the same thing~",
+      "kr": "같은 생각했구나~"
+    }
+  },
+  {
+    "id": 23040701,
+    "activity_id": 230407,
+    "key_item_id": null,
+    "key_amount": null,
+    "unlock_task_id": null,
+    "sort": 1,
+    "unlock_time": null,
+    "content_path": "event/codegeass01",
+    "ending_id": [],
+    "ending_res": null,
+    "title": {
+      "chs": "开幕",
+      "chs_t": "開幕",
+      "jp": "プロローグ",
+      "en": "Opening",
+      "kr": "오프닝"
+    }
+  },
+  {
+    "id": 23040702,
+    "activity_id": 230407,
+    "key_item_id": null,
+    "key_amount": null,
+    "unlock_task_id": null,
+    "sort": 2,
+    "unlock_time": "2023-05-03 05:00:00+08",
+    "content_path": "event/codegeass02",
+    "ending_id": [],
+    "ending_res": null,
+    "title": {
+      "chs": "幕间",
+      "chs_t": "幕間",
+      "jp": "インターローグ",
+      "en": "Interlude",
+      "kr": "인터루드"
+    }
+  },
+  {
+    "id": 23040703,
+    "activity_id": 230407,
+    "key_item_id": null,
+    "key_amount": null,
+    "unlock_task_id": null,
+    "sort": 3,
+    "unlock_time": "2023-05-10 05:00:00+08",
+    "content_path": "event/codegeass03",
+    "ending_id": [],
+    "ending_res": null,
+    "title": {
+      "chs": "尾声",
+      "chs_t": "尾聲",
+      "jp": "エピローグ",
+      "en": "Finale",
+      "kr": "피날레"
+    }
+  },
+  {
+    "id": 23111601,
+    "activity_id": 231116,
+    "key_item_id": null,
+    "key_amount": null,
+    "unlock_task_id": null,
+    "sort": 1,
+    "unlock_time": null,
+    "content_path": "event/yiliya01",
+    "ending_id": [],
+    "ending_res": null,
+    "title": {
+      "chs": "Day1 圣雀战争开幕",
+      "chs_t": "Day1 聖雀戰爭開幕",
+      "jp": "Act.1",
+      "en": "Day 1 The Holy Mahjong War Begins",
+      "kr": "Day 1 The Holy Mahjong War Begins"
+    }
+  },
+  {
+    "id": 23111602,
+    "activity_id": 231116,
+    "key_item_id": null,
+    "key_amount": null,
+    "unlock_task_id": null,
+    "sort": 2,
+    "unlock_time": "2023-11-20 05:00:00+08",
+    "content_path": "event/yiliya02",
+    "ending_id": [],
+    "ending_res": null,
+    "title": {
+      "chs": "Day2 黑夜的枪声",
+      "chs_t": "Day2 黑夜的槍聲",
+      "jp": "Act.2",
+      "en": "Day 2 Gunshots at Night",
+      "kr": "Day 2 Gunshots at Night"
+    }
+  },
+  {
+    "id": 23111603,
+    "activity_id": 231116,
+    "key_item_id": null,
+    "key_amount": null,
+    "unlock_task_id": null,
+    "sort": 3,
+    "unlock_time": "2023-11-25 05:00:00+08",
+    "content_path": "event/yiliya03",
+    "ending_id": [],
+    "ending_res": null,
+    "title": {
+      "chs": "Day3 舞与魔术",
+      "chs_t": "Day3 舞與魔術",
+      "jp": "Act.3",
+      "en": "Day 3 Dance and Magic",
+      "kr": "Day 3 Dance and Magic"
+    }
+  },
+  {
+    "id": 23111604,
+    "activity_id": 231116,
+    "key_item_id": null,
+    "key_amount": null,
+    "unlock_task_id": null,
+    "sort": 4,
+    "unlock_time": "2023-11-30 05:00:00+08",
+    "content_path": "event/yiliya04",
+    "ending_id": [],
+    "ending_res": null,
+    "title": {
+      "chs": "Day4 三位一体的奇迹",
+      "chs_t": "Day4 三位一體的奇跡",
+      "jp": "Act.4",
+      "en": "Day 4 The Miracle of the Trinity",
+      "kr": "Day 4 The Miracle of the Trinity"
+    }
+  },
+  {
+    "id": 24040101,
+    "activity_id": 240406,
+    "key_item_id": null,
+    "key_amount": null,
+    "unlock_task_id": null,
+    "sort": 1,
+    "unlock_time": null,
+    "content_path": "event/BA01",
+    "ending_id": [],
+    "ending_res": null,
+    "title": {
+      "chs": "EP1",
+      "chs_t": "EP1",
+      "jp": "EP1",
+      "en": "EP1",
+      "kr": "EP1"
+    },
+    "subtitle": {
+      "chs": "欢迎光临朝叶高校庆典！",
+      "chs_t": "歡迎光臨朝葉高校慶典！",
+      "jp": "朝葉高校学園祭へようこそ！",
+      "en": "Welcome to Asaha High School Festival!",
+      "kr": "아사바 고등학교 축제에 오신 걸 환영합니다!"
+    }
+  },
+  {
+    "id": 24040102,
+    "activity_id": 240406,
+    "key_item_id": null,
+    "key_amount": null,
+    "unlock_task_id": null,
+    "sort": 2,
+    "unlock_time": "2024-04-20 05:00:00+08",
+    "content_path": "event/BA02",
+    "ending_id": [],
+    "ending_res": null,
+    "title": {
+      "chs": "EP2",
+      "chs_t": "EP2",
+      "jp": "EP2",
+      "en": "EP2",
+      "kr": "EP2"
+    },
+    "subtitle": {
+      "chs": "麻将的初体验",
+      "chs_t": "麻將的初體驗",
+      "jp": "麻雀初体験",
+      "en": "First Time Playing Mahjong",
+      "kr": "마작 첫 경험"
+    }
+  },
+  {
+    "id": 24040103,
+    "activity_id": 240406,
+    "key_item_id": null,
+    "key_amount": null,
+    "unlock_task_id": null,
+    "sort": 3,
+    "unlock_time": "2024-04-23 05:00:00+08",
+    "content_path": "event/BA03",
+    "ending_id": [],
+    "ending_res": null,
+    "title": {
+      "chs": "EP3",
+      "chs_t": "EP3",
+      "jp": "EP3",
+      "en": "EP3",
+      "kr": "EP3"
+    },
+    "subtitle": {
+      "chs": "恶党的作派",
+      "chs_t": "惡黨的作派",
+      "jp": "アウトローの作法",
+      "en": "The Way of Outlaws",
+      "kr": "무법자의 방식"
+    }
+  },
+  {
+    "id": 24040104,
+    "activity_id": 240406,
+    "key_item_id": null,
+    "key_amount": null,
+    "unlock_task_id": null,
+    "sort": 4,
+    "unlock_time": "2024-04-26 05:00:00+08",
+    "content_path": "event/BA04",
+    "ending_id": [],
+    "ending_res": null,
+    "title": {
+      "chs": "EP4",
+      "chs_t": "EP4",
+      "jp": "EP4",
+      "en": "EP4",
+      "kr": "EP4"
+    },
+    "subtitle": {
+      "chs": "心跳不已的选美",
+      "chs_t": "心跳不已的選美",
+      "jp": "ドキドキコンテスト",
+      "en": "The Heart Pounding Beauty Pageant",
+      "kr": "두근두근 콘테스트"
+    }
+  },
+  {
+    "id": 24040105,
+    "activity_id": 240406,
+    "key_item_id": null,
+    "key_amount": null,
+    "unlock_task_id": null,
+    "sort": 5,
+    "unlock_time": "2024-04-29 05:00:00+08",
+    "content_path": "event/BA05",
+    "ending_id": [],
+    "ending_res": null,
+    "title": {
+      "chs": "EP5",
+      "chs_t": "EP5",
+      "jp": "EP5",
+      "en": "EP5",
+      "kr": "EP5"
+    },
+    "subtitle": {
+      "chs": "梦的终点站",
+      "chs_t": "夢的終點站",
+      "jp": "夢の終点",
+      "en": "Dream's End",
+      "kr": "꿈의 종착점"
+    }
+  }
+]

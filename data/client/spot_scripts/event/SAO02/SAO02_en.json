@@ -1,0 +1,202 @@
+[
+  {
+    "line": 6,
+    "text": "player"
+  },
+  {
+    "line": 50,
+    "text": "An Otherworldly Encounter"
+  },
+  {
+    "line": 51,
+    "text": "Kirito"
+  },
+  {
+    "line": 52,
+    "text": "...That reminds me – what is this place?"
+  },
+  {
+    "line": 54,
+    "text": "Wait, wait, wait..."
+  },
+  {
+    "line": 56,
+    "text": "So, this is actually..."
+  },
+  {
+    "line": 57,
+    "text": "You mean, you don't know what's going on either? Oh well, I was only just summoned here out of nowhere myself."
+  },
+  {
+    "line": 58,
+    "text": "Summoned out of nowhere?"
+  },
+  {
+    "line": 59,
+    "text": "Yeah. A hidden monster-slaying quest popped up on my screen. Just when I hit \"Accept,\" I saw this blinding flash of light. When I came to my senses again, I was here."
+  },
+  {
+    "line": 60,
+    "text": "...Strange. This isn't some sort of bug, is it?"
+  },
+  {
+    "line": 61,
+    "text": "Ichihime"
+  },
+  {
+    "line": 62,
+    "text": "Kirito, please help us, nyaa!"
+  },
+  {
+    "line": 63,
+    "text": "Sure. I accepted the quest, so I intend to see it through. But first things first – let's take stock of the situation."
+  },
+  {
+    "line": 65,
+    "text": "We're counting on you, Kirito."
+  },
+  {
+    "line": 66,
+    "text": "Leave it to me. The streets aren't safe right now, we'd better hurry..."
+  },
+  {
+    "line": 67,
+    "text": "Huh...?! {var:player_nickname}, Ichihime! Watch out!"
+  },
+  {
+    "line": 68,
+    "text": "Nyaa nyaa nyaaaa?!"
+  },
+  {
+    "line": 69,
+    "text": "Kirito suddenly lunges forward with a swing of his sword to block an incoming arrow."
+  },
+  {
+    "line": 70,
+    "text": "These monsters have ranged attacks, too?!"
+  },
+  {
+    "line": 71,
+    "text": "Monsters"
+  },
+  {
+    "line": 72,
+    "text": "ROOOAAAR!"
+  },
+  {
+    "line": 73,
+    "text": "Oh no, nyaa...! We're surrounded, there's no way we can make a run for it now, nyaa..."
+  },
+  {
+    "line": 74,
+    "text": "That big dark one looks tough! Are you sure you'll be okay on your own, Kirito, nyaa?!"
+  },
+  {
+    "line": 75,
+    "text": "Who said I was on my own?"
+  },
+  {
+    "line": 76,
+    "text": "Asuna! Switch!"
+  },
+  {
+    "line": 77,
+    "text": "Asuna"
+  },
+  {
+    "line": 78,
+    "text": "Hyaaaah!!"
+  },
+  {
+    "line": 79,
+    "text": "Grrurgh...!"
+  },
+  {
+    "line": 80,
+    "text": "Wow! She's so pretty, nyaa!"
+  },
+  {
+    "line": 81,
+    "text": "Perfect timing, Asuna!"
+  },
+  {
+    "line": 82,
+    "text": "Now's not the time for compliments...! You gave us all a fright, running off so suddenly like that."
+  },
+  {
+    "line": 83,
+    "text": "Haha, sorry about that. But I knew you'd catch up with me, Asuna."
+  },
+  {
+    "line": 84,
+    "text": "O-of course! We rushed over as fast as we could!//nEveryone, let's take them down!"
+  },
+  {
+    "line": 85,
+    "text": "Leafa"
+  },
+  {
+    "line": 86,
+    "text": "Got it! I'll send these weaklings flying with my wind magic!"
+  },
+  {
+    "line": 87,
+    "text": "Amazing! You took out most of those monsters in no time, nyaa!"
+  },
+  {
+    "line": 88,
+    "text": "But the biggest one is still... Huh? Is that... a laser sight?"
+  },
+  {
+    "line": 89,
+    "text": "Sinon"
+  },
+  {
+    "line": 90,
+    "text": "Wind speed confirmed. Ballistics calculated..."
+  },
+  {
+    "line": 91,
+    "text": "Locked on... Fire!"
+  },
+  {
+    "line": 92,
+    "text": "Monster"
+  },
+  {
+    "line": 93,
+    "text": "Ghk––!!"
+  },
+  {
+    "line": 94,
+    "text": "So strong... That wiped them all out..."
+  },
+  {
+    "line": 95,
+    "text": "Looks like everyone's here."
+  },
+  {
+    "line": 96,
+    "text": "I'd like to ask where we are... but I guess that'll have to wait."
+  },
+  {
+    "line": 97,
+    "text": "Agreed. Let's find a safe place to regroup and assess the situation first."
+  },
+  {
+    "line": 99,
+    "text": "I know One Han City like the back of my hand! As for a safe place... there's a cafe nearby, follow me!"
+  },
+  {
+    "line": 100,
+    "text": "Alright, let's get going!"
+  },
+  {
+    "line": 103,
+    "text": "You're Ichihime, right? And the one beside you... Your nickname reads {var:player_nickname}... Cool name. Nice to meet you both."
+  },
+  {
+    "line": 104,
+    "text": "{var:player_nickname}, are you familiar with the area? If you've been here before, you should have quite a bit of intel already."
+  }
+]

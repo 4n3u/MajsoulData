@@ -1,0 +1,646 @@
+[
+  {
+    "line": 3,
+    "text": "player"
+  },
+  {
+    "line": 344,
+    "text": "???"
+  },
+  {
+    "line": 345,
+    "text": "Hello, would you like to take a photo to commemorate your aquarium visit?"
+  },
+  {
+    "line": 346,
+    "text": "Huh?!"
+  },
+  {
+    "line": 347,
+    "text": "I'm strolling around the aquarium when someone suddenly taps my shoulder from behind me. When I turn around, I see Hinata Takanashi smiling brightly at me, camera poised to take a close-up photo of me."
+  },
+  {
+    "line": 348,
+    "text": "!"
+  },
+  {
+    "line": 349,
+    "text": "Hinata Takanashi"
+  },
+  {
+    "line": 350,
+    "text": "Wow! {var:player_nickname}, you look great from this angle too!"
+  },
+  {
+    "line": 351,
+    "text": "The camera is practically in my face, so how could I possibly look good... Huh, it's actually not bad. Should have trusted your photography skills."
+  },
+  {
+    "line": 352,
+    "text": "Hmph! How dare you doubt my photography skills! It's time to show you what I can really do."
+  },
+  {
+    "line": 353,
+    "text": "Check out these marine plants I shot today. What do you think?"
+  },
+  {
+    "line": 354,
+    "text": "Hinata Takanashi approaches me and raises her hands to show me the fruits of her efforts. Her camera is filled with photos of marine plants of various shapes."
+  },
+  {
+    "line": 355,
+    "text": "This is a great photo of seaweed."
+  },
+  {
+    "line": 356,
+    "text": "It looks fresh and appetizing, right?"
+  },
+  {
+    "line": 357,
+    "text": "Is this supposed to be a food guide?"
+  },
+  {
+    "line": 358,
+    "text": "Haha, it's mainly because of the lighting in the tank that it looks especially crystal clear and fresh."
+  },
+  {
+    "line": 359,
+    "text": "Senpai, are you also here to see the marine life too?"
+  },
+  {
+    "line": 360,
+    "text": "Yui, you're here!"
+  },
+  {
+    "line": 361,
+    "text": "Following Hinata Takanashi's gaze, I look behind me and see Yui Yagi's hand that is hovering in the air above my shoulder."
+  },
+  {
+    "line": 362,
+    "text": "Did you two conspire to scare me from behind?"
+  },
+  {
+    "line": 363,
+    "text": "Yui Yagi"
+  },
+  {
+    "line": 364,
+    "text": "Did we succeed?"
+  },
+  {
+    "line": 366,
+    "text": "Yes"
+  },
+  {
+    "line": 368,
+    "text": "No"
+  },
+  {
+    "line": 369,
+    "text": "Yes, you gave me a fright."
+  },
+  {
+    "line": 370,
+    "text": "You're lying."
+  },
+  {
+    "line": 371,
+    "text": "You don't believe me?!"
+  },
+  {
+    "line": 372,
+    "text": "Your acting sucks."
+  },
+  {
+    "line": 373,
+    "text": "Is that why? I immediately cover my chest and make a frightened expression, then I make an exclamation in a monotone--"
+  },
+  {
+    "line": 374,
+    "text": "Oh, I'm so scared--"
+  },
+  {
+    "line": 375,
+    "text": "..."
+  },
+  {
+    "line": 376,
+    "text": "..."
+  },
+  {
+    "line": 377,
+    "text": "..."
+  },
+  {
+    "line": 378,
+    "text": "That's better than before, but you can do better next time."
+  },
+  {
+    "line": 379,
+    "text": "Maybe my eyes are playing a trick on me, but I seem to see the corners of Yui Yagi's mouth turn up slightly."
+  },
+  {
+    "line": 380,
+    "text": "But... if this makes you happy, then I'll try my best to be scared next time."
+  },
+  {
+    "line": 381,
+    "text": "Hinata already gave me a fright, so it won't be so easy to scare me again."
+  },
+  {
+    "line": 382,
+    "text": "I'm so disappointed."
+  },
+  {
+    "line": 384,
+    "text": "Stop! That's a scary thought."
+  },
+  {
+    "line": 385,
+    "text": "No way! {var:player_nickname}, you always seem to have some cute reactions, so... that's why I get the urge to play pranks on you."
+  },
+  {
+    "line": 386,
+    "text": "Never mind. If it makes you happy, then it isn't a big deal to let you scare me like this."
+  },
+  {
+    "line": 387,
+    "text": "Senpai, you're so nice."
+  },
+  {
+    "line": 388,
+    "text": "Yeah, you're such a nice person."
+  },
+  {
+    "line": 389,
+    "text": "Thanks, but being told that I'm a nice person is not gonna make me happy. Let's talk about something else. Didn't you two come together?"
+  },
+  {
+    "line": 390,
+    "text": "That's so forced. You lose five points."
+  },
+  {
+    "line": 391,
+    "text": "We came together, but we split up because Yui wanted to chat with the starfish over there for a while, and then I met you."
+  },
+  {
+    "line": 392,
+    "text": "Chatting with a starfish? Yui, do you like starfishes?"
+  },
+  {
+    "line": 393,
+    "text": "From a nutritional point of view, yes."
+  },
+  {
+    "line": 394,
+    "text": "But they taste average."
+  },
+  {
+    "line": 395,
+    "text": "... Can you comment on them from a perspective that doesn't involve eating them?"
+  },
+  {
+    "line": 396,
+    "text": "From another perspective..."
+  },
+  {
+    "line": 397,
+    "text": "Yeah..."
+  },
+  {
+    "line": 398,
+    "text": "They're really profound."
+  },
+  {
+    "line": 399,
+    "text": "What do you mean?"
+  },
+  {
+    "line": 400,
+    "text": "Starfishes recover rapidly after getting hurt and can build new tissues and organs within a few days."
+  },
+  {
+    "line": 401,
+    "text": "So if you cut off the feet of a starfish, you'll end up with several starfishes unless you cook them."
+  },
+  {
+    "line": 402,
+    "text": "I suddenly feel phantom pain in my arms and legs."
+  },
+  {
+    "line": 403,
+    "text": "Wow, if they can regrow that quickly, then someone who loves eating starfishes will never run out of starfishes to eat if they breed a few of them at home!"
+  },
+  {
+    "line": 404,
+    "text": "Theoretically, yes."
+  },
+  {
+    "line": 405,
+    "text": "The starfishes didn't work so hard to develop this regenerative ability evolutionally to make it more convenient for humans to eat them."
+  },
+  {
+    "line": 406,
+    "text": "Do you think that starfish exist as a group or as individuals?"
+  },
+  {
+    "line": 407,
+    "text": "The topic changed so quickly!"
+  },
+  {
+    "line": 408,
+    "text": "As individuals"
+  },
+  {
+    "line": 409,
+    "text": "As a group"
+  },
+  {
+    "line": 410,
+    "text": "I think they exist as individuals."
+  },
+  {
+    "line": 411,
+    "text": "Why do you think that?"
+  },
+  {
+    "line": 412,
+    "text": "Until a starfish is sliced up, you never know how many starfish it'll become in the future, but it's just one starfish at this moment."
+  },
+  {
+    "line": 413,
+    "text": "Wow! {var:player_nickname}, I feel like you just came up with a new scientific law."
+  },
+  {
+    "line": 414,
+    "text": "Yeah, and it's called {var:player_nickname}'s starfish."
+  },
+  {
+    "line": 415,
+    "text": "No such scientific law exists..."
+  },
+  {
+    "line": 416,
+    "text": "I think they exist as a group."
+  },
+  {
+    "line": 417,
+    "text": "Why do you think that?"
+  },
+  {
+    "line": 418,
+    "text": "I subconsciously turn my head to one side because I don't dare to look directly into their anticipation-filled eyes."
+  },
+  {
+    "line": 419,
+    "text": "Because the starfishes remind me of slimes..."
+  },
+  {
+    "line": 420,
+    "text": "That made me think that a starfish can be seen as a combination of many smaller starfish."
+  },
+  {
+    "line": 421,
+    "text": "Eh, that kind of makes sense too. {var:player_nickname}, you're so smart!"
+  },
+  {
+    "line": 422,
+    "text": "Senpai, you're so knowledgeable. You get five points."
+  },
+  {
+    "line": 423,
+    "text": "Apparently, my fantasy knowledge is actually useful sometimes, which makes me breathe a sigh of relief."
+  },
+  {
+    "line": 424,
+    "text": "You two are so skilled in the art of overpraising people."
+  },
+  {
+    "line": 425,
+    "text": "Speaking of combinations and overpraising, an octopus has three hearts, two memory systems, and 500 million neurons, yet it won't become three octopuses if it is cut into three pieces."
+  },
+  {
+    "line": 426,
+    "text": "That's such an awkward way to change the topic."
+  },
+  {
+    "line": 427,
+    "text": "What if you divide them into three equal parts and ensure each part has a heart?"
+  },
+  {
+    "line": 428,
+    "text": "No, all you'll get is octopus sashimi that is ready to be served... Hmm, it'll taste more wonderful if you dip it in honey when you eat it."
+  },
+  {
+    "line": 429,
+    "text": "Octopuses are actually highly intelligent. I think they would feel really sad if they knew what you two are thinking..."
+  },
+  {
+    "line": 430,
+    "text": "Let's leave the cute starfish and octopuses alone and go somewhere else."
+  },
+  {
+    "line": 431,
+    "text": "Senpai, that topic change's so forced. You lose five points."
+  },
+  {
+    "line": 432,
+    "text": "The corners of Yui Yagi's mouth seem to raise slightly when she sees me at a loss for words."
+  },
+  {
+    "line": 433,
+    "text": "Actually, there's someone here in the aquarium right now who knows a lot about the ocean."
+  },
+  {
+    "line": 434,
+    "text": "Oh, I know who you're talking about."
+  },
+  {
+    "line": 435,
+    "text": "Yes, it's that person."
+  },
+  {
+    "line": 436,
+    "text": "I knew it!"
+  },
+  {
+    "line": 437,
+    "text": "Stop! Nobody speaks in riddles in One Han City! Who are you talking about?"
+  },
+  {
+    "line": 438,
+    "text": "It's the person over there!"
+  },
+  {
+    "line": 439,
+    "text": "I look at where she is pointing and see two familiar people, Joseph and Sora Ichinose, standing next to a large water tank close to us."
+  },
+  {
+    "line": 440,
+    "text": "So it's someone I know."
+  },
+  {
+    "line": 441,
+    "text": "Senpai, you sure know a lot of people, very well-connected."
+  },
+  {
+    "line": 442,
+    "text": "Why don't we ask the amazing Mr. Joseph? I chatted with him for a while when I passed by earlier, and he told me a lot about the habits of many marine plants and how they can be eaten."
+  },
+  {
+    "line": 443,
+    "text": "As I look at Hinata Takanashi and Yui Yagi walking in front of me, I start to wonder whether I'm at an aquarium or a restaurant."
+  },
+  {
+    "line": 444,
+    "text": "Hi guys."
+  },
+  {
+    "line": 445,
+    "text": "Sora Ichinose"
+  },
+  {
+    "line": 446,
+    "text": "Ahem... hello, {var:player_nickname}."
+  },
+  {
+    "line": 447,
+    "text": "Joseph"
+  },
+  {
+    "line": 448,
+    "text": "Oh, my partner, you're here at the aquarium too! Well, are you having fun?"
+  },
+  {
+    "line": 449,
+    "text": "Yes, I've learned many... profound things about the sea."
+  },
+  {
+    "line": 450,
+    "text": "It looks like you're also very thirsty for marine knowledge. I just happen to be telling this little boy about mysterious marine creatures and stories of adventurers who admire them, haha."
+  },
+  {
+    "line": 452,
+    "text": "Stories of adventurers? Mr. Joseph, can we listen to them too?"
+  },
+  {
+    "line": 453,
+    "text": "Of course, my lovely lady. We were just talking about the sea creature with the longest lifespan that the adventurers encountered during their journey. Do you know what it is?"
+  },
+  {
+    "line": 454,
+    "text": "I know! It's a turtle."
+  },
+  {
+    "line": 455,
+    "text": "No, no, no."
+  },
+  {
+    "line": 456,
+    "text": "People always use turtles as a symbol of longevity. How can my answer be wrong?"
+  },
+  {
+    "line": 457,
+    "text": "The belief that turtles live for a very long time is actually a misconception of humans. The average lifespan of a tortoise is 30-50 years. Sea turtles do live longer than them, but their average lifespan is only about 100-150 years."
+  },
+  {
+    "line": 458,
+    "text": "Yes, the little boy is right."
+  },
+  {
+    "line": 459,
+    "text": "Arctic surf clams."
+  },
+  {
+    "line": 460,
+    "text": "Are you talking about the red shellfish that is always featured in sashimi platters?"
+  },
+  {
+    "line": 461,
+    "text": "Oh no, my train of thought has been led astray without me realizing it..."
+  },
+  {
+    "line": 462,
+    "text": "Haha, actually, the arctic clam sashimi that is often eaten is cooked. This type of clam becomes red after it has been cooked and frozen. Fresh arctic surf clams, on the other hand... Ah, there are two over there. Can you see them?"
+  },
+  {
+    "line": 463,
+    "text": "We look at where Joseph is pointing and see two shellfish on a stone in a water tank. Each of them is about half the size of an adult male's palm."
+  },
+  {
+    "line": 464,
+    "text": "I don't think we can see the color of the shellfish's meat like this."
+  },
+  {
+    "line": 465,
+    "text": "Their meat is bright white, soft, and tender when they have just been fished out of the sea."
+  },
+  {
+    "line": 466,
+    "text": "You've eaten them raw before?"
+  },
+  {
+    "line": 467,
+    "text": "Of course, but it's thanks to a storm we encountered at sea that I got the chance to."
+  },
+  {
+    "line": 468,
+    "text": "Mr. Joseph, can you tell me that part of the story?"
+  },
+  {
+    "line": 469,
+    "text": "Haha, you really are interested in adventures, little boy. It was a sea adventure many years ago. It was a stormy day, and our ship was unlucky enough to run aground and sink. Fortunately, we were rescued by a nearby fishing boat after drifting for a while."
+  },
+  {
+    "line": 470,
+    "text": "This fishing boat fishes exclusively for artic surf clams, and the cabin was filled with plump arctic surf clams far larger than these two little guys. They were so delicious... Partner, you should try them sometimes. I'll never forget how they tasted."
+  },
+  {
+    "line": 471,
+    "text": "If I need to have such an adventure to be able to try it, then I prefer to eat it cooked..."
+  },
+  {
+    "line": 472,
+    "text": "Haha, but any food you get after experiencing many dangers tastes particularly delicious. That's one of the most meaningful things about adventures."
+  },
+  {
+    "line": 473,
+    "text": "Let's get back to the lifespan of an arctic surf clam."
+  },
+  {
+    "line": 474,
+    "text": "Pfft! {var:player_nickname}, you're changing the topic again."
+  },
+  {
+    "line": 475,
+    "text": "According to a news report from some time ago, it can live for over 1,000 years."
+  },
+  {
+    "line": 476,
+    "text": "A-a thousand years?!"
+  },
+  {
+    "line": 477,
+    "text": "Living for over a thousand years is certainly impressive, but it's not the creature with the longest lifespan that we're talking about."
+  },
+  {
+    "line": 478,
+    "text": "I once saw its miraculous \"reverse aging\" in the tropical seas firsthand. Nature truly is amazing!"
+  },
+  {
+    "line": 479,
+    "text": "Reverse aging... Are you talking about the immortal jellyfish?"
+  },
+  {
+    "line": 480,
+    "text": "Bingo! You may be young, little boy, but you know just as much as adults."
+  },
+  {
+    "line": 481,
+    "text": "No, I just... have a habit of reading books and news."
+  },
+  {
+    "line": 482,
+    "text": "I notice that Sora Ichinose looks a little disappointed, as if he wanted to say something but decided not to say anything in the end."
+  },
+  {
+    "line": 491,
+    "text": "What are you two whispering about so secretively?"
+  },
+  {
+    "line": 492,
+    "text": "Senpai, you're keeping a secret from us."
+  },
+  {
+    "line": 493,
+    "text": "Eh? You have a secret you can't share with us?"
+  },
+  {
+    "line": 494,
+    "text": "I glance at Sora Ichinose, who starts shaking his head uneasily. It looks like he doesn't want everyone to know about what we were talking about, so we'll keep it as our little secret for now."
+  },
+  {
+    "line": 495,
+    "text": "\"Grumble--\" Suddenly, someone's stomach starts grumbling, which gives me an idea."
+  },
+  {
+    "line": 496,
+    "text": "It's nothing. We just felt hungry because you guys keep talking about delicious seafood."
+  },
+  {
+    "line": 497,
+    "text": "Speaking of that, surely you all know that this aquarium has an amazing seafood restaurant, right?"
+  },
+  {
+    "line": 498,
+    "text": "There really is a seafood restaurant... They don't source their ingredients locally from this aquarium, right?"
+  },
+  {
+    "line": 499,
+    "text": "Doesn't that mean the aquatic friends we just made over there might become tonight's dinner?"
+  },
+  {
+    "line": 500,
+    "text": "The conversations between you adults sure are dangerous, whether for a middle schooler or for these innocent aquarium creatures..."
+  },
+  {
+    "line": 501,
+    "text": "Yes, senpai is really dangerous."
+  },
+  {
+    "line": 502,
+    "text": "Haha, don't worry! The seafood restaurant sources its ingredients from all over the world. The reason why I'm here today is because I'm the one who meticulously selected these ingredients during my adventures."
+  },
+  {
+    "line": 503,
+    "text": "Let's go, my friends! It isn't enough to just look at and listen to the mysteries of the oceans. You also need to experience them with your taste buds, haha!"
+  },
+  {
+    "line": 504,
+    "text": "Something doesn't sound right, but I'll let it slide this time..."
+  },
+  {
+    "line": 505,
+    "text": "I follow my friends to the restaurant. On the way, I look back at my \"new friends\" in the water tanks. The ocean really is a mysterious and interesting place. Maybe it'll be a good idea to go on an adventure with Joseph next time."
+  },
+  {
+    "line": 508,
+    "text": "Hehe, so I managed to scare you, {var:player_nickname}. Although Yui and I didn't agree to scare you, it feels even more satisfying that I managed to scare you unintentionally."
+  },
+  {
+    "line": 509,
+    "text": "I've told you before, I'm not a little boy. I'm already a middle school student..."
+  },
+  {
+    "line": 510,
+    "text": "Sora, what's wrong?"
+  },
+  {
+    "line": 511,
+    "text": "Never mind..."
+  },
+  {
+    "line": 512,
+    "text": "Why do you look a little unhappy?"
+  },
+  {
+    "line": 513,
+    "text": "The truth is, I'm really envious of Mr. Joseph's life."
+  },
+  {
+    "line": 514,
+    "text": "The adventures?"
+  },
+  {
+    "line": 515,
+    "text": "Yes, although they sound really dangerous, Mr. Joseph is healthy and can travel wherever he wants to witness the miracles of nature."
+  },
+  {
+    "line": 516,
+    "text": "Sora, you can do that too. You just need to take good care of your body. You might not be able to live forever like the immortal jellyfish, but you can still aim to live for 1,000 years like an arctic surf clam!"
+  },
+  {
+    "line": 517,
+    "text": "When we mentioned arctic surf clams just then, I bet the first thing you thought of was the arctic surf clam sashimi that is usually eaten, right? I... don't want to aim to become food."
+  }
+]

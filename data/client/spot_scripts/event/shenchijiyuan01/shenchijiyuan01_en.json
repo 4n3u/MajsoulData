@@ -1,0 +1,134 @@
+[
+  {
+    "line": 4,
+    "text": "player"
+  },
+  {
+    "line": 72,
+    "text": "Begins With a Step"
+  },
+  {
+    "line": 73,
+    "text": "???"
+  },
+  {
+    "line": 74,
+    "text": "Mm-hm...! That aura feels just right! This is great! You must be {var:player_nickname}!"
+  },
+  {
+    "line": 75,
+    "text": "Well, if there's nothing else, I gotta run!"
+  },
+  {
+    "line": 76,
+    "text": "Wait, wait, wait!"
+  },
+  {
+    "line": 78,
+    "text": "Who... are you?"
+  },
+  {
+    "line": 80,
+    "text": "Where to? To do what?"
+  },
+  {
+    "line": 81,
+    "text": "Chi Lin"
+  },
+  {
+    "line": 82,
+    "text": "Ahem...! I am Chi Lin, the Lady of the Horse Palace. I come to these lands bearing blessings..."
+  },
+  {
+    "line": 83,
+    "text": "Ughhh, the formal talk is wearing me out! Look, I'm a deity! I grant wishes and offer blessings!"
+  },
+  {
+    "line": 84,
+    "text": "I-is that so..."
+  },
+  {
+    "line": 85,
+    "text": "...Well, that's the plan, anyway. For some reason, wishes for smooth sailing at work are surprisingly popular this year..."
+  },
+  {
+    "line": 86,
+    "text": "I've already got a mountain of work to do...! At this rate, I'll never finish collecting all these wishes!"
+  },
+  {
+    "line": 88,
+    "text": "Uh... sure, but how exactly do we go about collecting wishes?"
+  },
+  {
+    "line": 89,
+    "text": "Well, there's really only one way to do it... I have to go visit everyone, door-to-door!"
+  },
+  {
+    "line": 90,
+    "text": "And as for the blessings, I'll just infuse my divine power into some food and hand it out! It's a big holiday, after all – nobody's gonna say no to delicious treats!"
+  },
+  {
+    "line": 91,
+    "text": "Wait... Chi Lin, are you really running out to collect these wishes all by yourself?!"
+  },
+  {
+    "line": 92,
+    "text": "(Meanwhile, a certain someone from before was basically waiting for tributes to be delivered right to her doorstep...)"
+  },
+  {
+    "line": 93,
+    "text": "Huh? What's the matter?"
+  },
+  {
+    "line": 94,
+    "text": "Let me get this straight...! Even though you did just claim to be a deity or whatever..."
+  },
+  {
+    "line": 95,
+    "text": "What? You don't think I look like one? Oh... Hahaha... Well, I'm not really good at the whole serious thing!"
+  },
+  {
+    "line": 96,
+    "text": "I just can't get the hang of Li Yang's style... But as you can see, I'm still the real deal!"
+  },
+  {
+    "line": 97,
+    "text": "I'm not saying I don't believe you..."
+  },
+  {
+    "line": 98,
+    "text": "All you need me to do is plan your routes?"
+  },
+  {
+    "line": 99,
+    "text": "Great!"
+  },
+  {
+    "line": 100,
+    "text": "Exactly!"
+  },
+  {
+    "line": 101,
+    "text": "But won't it be difficult... collecting everyone's wishes by yourself?"
+  },
+  {
+    "line": 102,
+    "text": "That's why I'm asking for your help! Hehe, and getting to help a deity out is pretty cool, huh?"
+  },
+  {
+    "line": 103,
+    "text": "A journey of a thousand miles begins with a single step, as the saying goes. When it comes to work, if you can start it, you can finish it!"
+  },
+  {
+    "line": 104,
+    "text": "So, I'd better saddle up and get going! Later, {var:player_nickname}!"
+  },
+  {
+    "line": 105,
+    "text": "Wait...! Let me at least explain how traffic lights work first! Heyyy!"
+  },
+  {
+    "line": 108,
+    "text": "So... Could you help me? Please? Even if it's just planning my routes around One Han City!"
+  }
+]

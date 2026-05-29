@@ -1,0 +1,1318 @@
+[
+  {
+    "line": 1,
+    "text": "{character:Narration}Let me ask you, when you see a book dropped on the library floor, the first thing that comes to your mind is to pick it up, right?"
+  },
+  {
+    "line": 2,
+    "text": "{character:Narration}And it wouldn't be too much of a stretch to catch a glimpse of the title of the book when you do that, right?"
+  },
+  {
+    "line": 4,
+    "text": "{character:player}Pineapple... Instructor, Volume 4?"
+  },
+  {
+    "line": 5,
+    "text": "{character:Narration}This novel is protected by a dust jacket. However the pattern on the cover can be seen through it, because the green dust jacket has been damaged after probably being turned too many times."
+  },
+  {
+    "line": 6,
+    "text": "{character:Narration}On the cover, two handsome men are holding hands and looking at each other... What you see in their eyes is probably not friendship but a passionate emotion that makes one feel they only have eyes for each other in this life."
+  },
+  {
+    "line": 7,
+    "text": "{character:Narration}However, like I just said, I didn't pick up this book because I've been a huge fan of this \"Pineapple Instructor.\" In fact, I've never heard of this book before."
+  },
+  {
+    "line": 8,
+    "text": "{character:Narration}I just saw it on the floor by chance when I came to the library with Mai to borrow a book."
+  },
+  {
+    "line": 9,
+    "text": "Mai Aihara"
+  },
+  {
+    "line": 10,
+    "text": "{character:Mai Aihara}Master, did you find any interesting books?"
+  },
+  {
+    "line": 11,
+    "text": "{character:player}No! Not at all! There are so many books in this library, haha..."
+  },
+  {
+    "line": 12,
+    "text": "{character:Narration}Mai, who is at the corner, turns around. I quickly hide the book behind me, not because I am worried she will get the wrong impression because most libraries collect some recreational works, but the thing is..."
+  },
+  {
+    "line": 13,
+    "text": "{character:Narration}I feel like I've seen the green dust jacket of this book before."
+  },
+  {
+    "line": 14,
+    "text": "{character:Mai Aihara}Master... If you aren't looking for anything else, I want to look for some books on gardening."
+  },
+  {
+    "line": 15,
+    "text": "{character:player}Gardening?"
+  },
+  {
+    "line": 16,
+    "text": "{character:Mai Aihara}Yes. It's almost the flowering season again, and I want to grow some hydrangeas. But I realized that there are a lot of things to look out for after doing some searching on the Internet."
+  },
+  {
+    "line": 17,
+    "text": "{character:Narration}Gardening... Flowers? I know! It's the Garden Files! The dust jacket of this \"Pineapple Instructor\" is exactly the same as the one on the book Mai calls the \"Garden Files.\""
+  },
+  {
+    "line": 18,
+    "text": "{character:Narration}I remember that time when I asked Mai what was in the book under that dust jacket because I was curious. She looked very flustered and vaguely said it contained gardening information."
+  },
+  {
+    "line": 19,
+    "text": "{character:Mai Aihara}M-Master? Why did you suddenly stop talking? If you think it's inconvenient, I can go by myself."
+  },
+  {
+    "line": 20,
+    "text": "{character:player}...I'll go with you. The garden of the Temple of Moons looks so beautiful that I want to contribute to it."
+  },
+  {
+    "line": 21,
+    "text": "{character:Mai Aihara}O-Okay... That's great. I thought you no longer liked me..."
+  },
+  {
+    "line": 22,
+    "text": "{character:Narration}There's no way I can dislike Mai, regardless of the contents of the \"Garden Files.\""
+  },
+  {
+    "line": 23,
+    "text": "{character:Narration}The problem is... Library books usually don't have dust jackets, let alone one that is the same style as the one on \"Garden Files.\""
+  },
+  {
+    "line": 24,
+    "text": "{character:Narration}If the book on the ground really is the same \"Garden Files\"... Based on how she acted last time, she must have lied about it being gardening information because she didn't want me to know about the existence of \"Pineapple Instructor.\""
+  },
+  {
+    "line": 25,
+    "text": "{character:Narration}I don't dare to ask her directly for confirmation because she is very sensitive. If I'm right, she might be so embarrassed that she won't talk to me for a long time."
+  },
+  {
+    "line": 26,
+    "text": "{character:Mai Aihara}Let's go. I remember the bookshelf with gardening books is at..."
+  },
+  {
+    "line": 27,
+    "text": "{character:Narration}I need to think of a way to indirectly remind her she dropped something. Or maybe I can put it somewhere she can get it by herself."
+  },
+  {
+    "line": 28,
+    "text": "{character:player}Hmm... We're looking for books now, right?"
+  },
+  {
+    "line": 29,
+    "text": "{character:Mai Aihara}Yes. Although I have several alternatives, I still want to search for them personally."
+  },
+  {
+    "line": 30,
+    "text": "{character:player}That's great! Let's look carefully!"
+  },
+  {
+    "line": 31,
+    "text": "{character:Mai Aihara}Eh? Um... I'll do my best."
+  },
+  {
+    "line": 32,
+    "text": "{character:Narration}I have an idea. I'll put this book on a shelf with gardening books on it so that she'll find it while looking for books. If I pretend not to see anything, she should put her \"Garden Files\" away herself."
+  },
+  {
+    "line": 33,
+    "text": "{character:player}Ah sorry, I need to go to the toilet. Mai, can you wait a few minutes for me?"
+  },
+  {
+    "line": 34,
+    "text": "{character:Mai Aihara}Sure."
+  },
+  {
+    "line": 35,
+    "text": "{character:Narration}I make a random excuse so that I can run over to the shelf with the gardening books and put the \"Garden Files\" there."
+  },
+  {
+    "line": 36,
+    "text": "{character:Narration}However..."
+  },
+  {
+    "line": 37,
+    "text": "{character:player}Why are these shelves only marked with numbers...? Which one is the shelf that contains gardening books?"
+  },
+  {
+    "line": 38,
+    "text": "{character:Narration}I've heard about a system that classifies books by numbers called Universal Decimal Classification on the Internet, but I can't remember the specific rules all of a sudden."
+  },
+  {
+    "line": 39,
+    "text": "{character:Narration}Mai is still waiting for me, so I can't waste too much time. Where should I put the \"Pineapple Instructor?\""
+  },
+  {
+    "line": 46,
+    "text": "{character:Narration}Based on memory, I place the book on the fourth shelf and go back to Mai."
+  },
+  {
+    "line": 47,
+    "text": "{character:Mai Aihara}Ah... This book looks quite good. Master, I've found the book I need."
+  },
+  {
+    "line": 48,
+    "text": "{character:player}...I've failed."
+  },
+  {
+    "line": 49,
+    "text": "{character:Mai Aihara}Master?"
+  },
+  {
+    "line": 50,
+    "text": "{character:Narration}In the end, Mai found the book she was looking for somewhere else. I put the \"Garden Files\" in the wrong place."
+  },
+  {
+    "line": 51,
+    "text": "{character:player}Maybe you should find a few more books as reference materials? I remember the fourth shelf has gardening related books."
+  },
+  {
+    "line": 52,
+    "text": "{character:Mai Aihara}The fourth shelf... Based on my memory, that should be where the language books are."
+  },
+  {
+    "line": 53,
+    "text": "{character:player}I... I see... Mai, can you wait for me again? I want to find some language reference books."
+  },
+  {
+    "line": 54,
+    "text": "{character:Mai Aihara}Sure, I'll wait for you over here."
+  },
+  {
+    "line": 57,
+    "text": "{character:Narration}Based on memory, I place the book on the fifth shelf and go back to Mai."
+  },
+  {
+    "line": 58,
+    "text": "{character:player}Maybe you should find a few more books as reference materials? I remember the fifth shelf has gardening related books."
+  },
+  {
+    "line": 59,
+    "text": "{character:Mai Aihara}Most of the books on the fifth shelf are about scientific theories. I don't really understand those complicated books."
+  },
+  {
+    "line": 60,
+    "text": "{character:Mai Aihara}Master, you can take a look at them if you're interested. I'll wait for you over here."
+  },
+  {
+    "line": 61,
+    "text": "{character:player}Okay... I'll be back soon then."
+  },
+  {
+    "line": 63,
+    "text": "{character:Narration}The sixth shelf is the one with gardening books on it."
+  },
+  {
+    "line": 64,
+    "text": "{character:player}Phew... I'm quite lucky. The Universal Decimal Classification system is easy to use, but those who don't understand it will surely be confused. They should really add a tag or something as a reminder."
+  },
+  {
+    "line": 65,
+    "text": "{character:Narration}I find a conspicuous place and put the \"Garden Files\" there before returning to where Mai is waiting for me. On my way back, I start to have some doubts. If Mai doesn't want anyone to know about the contents of the \"Garden Files,\" why did she bring it to the library? Isn't it bad to accidentally lose it like this? It doesn't seem like something she would do given her cautious personality."
+  },
+  {
+    "line": 66,
+    "text": "{character:player}And the dust jacket is broken too... Mai doesn't seem like someone who doesn't cherish books."
+  },
+  {
+    "line": 67,
+    "text": "{character:Narration}Before I can sort out my thoughts, I return to where I was before and see Mai reading a book in the distance."
+  },
+  {
+    "line": 68,
+    "text": "{character:player}Sorry to keep you waiting."
+  },
+  {
+    "line": 69,
+    "text": "{character:Mai Aihara}Oh... I-It's okay. I didn't notice you coming over, Master."
+  },
+  {
+    "line": 70,
+    "text": "{character:Narration}Mai is so absorbed in the book she is reading that she almost dropped the book to the ground when I gave her a fright. I saw that it is a famous collection of romantic poems."
+  },
+  {
+    "line": 71,
+    "text": "{character:player}Mai, do you usually read poems?"
+  },
+  {
+    "line": 72,
+    "text": "{character:Mai Aihara}Yes, I read some... I read some when I am free..."
+  },
+  {
+    "line": 73,
+    "text": "{character:player}The romantic poems in this book are quite good, and the ones about the longing for hometown and loved ones are pretty beautiful too."
+  },
+  {
+    "line": 74,
+    "text": "{character:Mai Aihara}Eh... Master, you've read this before?"
+  },
+  {
+    "line": 75,
+    "text": "{character:player}The humid air in my hometown, mixed with my mother's shouts during dinner, is engraved in my childhood memories...\""
+  },
+  {
+    "line": 76,
+    "text": "{character:Mai Aihara}I-I also find this verse especially beautiful!"
+  },
+  {
+    "line": 77,
+    "text": "{character:player}But the poet is most famous for his romantic poems, which are quite uplifting, unlike many sad love poems."
+  },
+  {
+    "line": 78,
+    "text": "{character:Mai Aihara}Yes! Hehe, I never thought you would also like this book, Master. I'm so happy you didn't tease me about it."
+  },
+  {
+    "line": 79,
+    "text": "{character:player}Tease you?"
+  },
+  {
+    "line": 80,
+    "text": "{character:Mai Aihara}Because... my classmates mocked me for reading these things when I was in elementary school."
+  },
+  {
+    "line": 81,
+    "text": "{character:player}Well... It's the nature of most girls to like romantic things. Those who mocked you about this are just crude."
+  },
+  {
+    "line": 82,
+    "text": "{character:Mai Aihara}Thank you, Master. But that's why I... I feel bad about being seen reading these things. I can only read these books secretly."
+  },
+  {
+    "line": 83,
+    "text": "{character:Narration}Mai covers her face with the book and looks timidly toward me like a little rabbit. If she feels embarrassed about being seen reading this type of book, then \"Pineapple Instructor\"..."
+  },
+  {
+    "line": 84,
+    "text": "{character:player}Don't worry, Mai! All carefully written books have their own unique charm. I won't let anyone laugh at you!"
+  },
+  {
+    "line": 85,
+    "text": "{character:Mai Aihara}Eh? O-Okay. T-Thank you, Master."
+  },
+  {
+    "line": 86,
+    "text": "{character:Narration}I can't help getting excited, which makes Mai jump up in surprise. No matter what, to protect her sensitive heart, I must help her keep the \"Garden Files\" a secret."
+  },
+  {
+    "line": 87,
+    "text": "{character:Narration}After that, Mai and I go to the sixth shelf."
+  },
+  {
+    "line": 88,
+    "text": "{character:Mai Aihara}Ah... Here it is."
+  },
+  {
+    "line": 89,
+    "text": "{character:player}This seems to be a book about gardening. Mai, do you want to take a look at it?"
+  },
+  {
+    "line": 90,
+    "text": "{character:Mai Aihara}Eh?"
+  },
+  {
+    "line": 90,
+    "text": "{character:player}Eh?"
+  },
+  {
+    "line": 91,
+    "text": "{character:player}Eh? Mai... What's wrong?"
+  },
+  {
+    "line": 92,
+    "text": "{character:Narration}Mai suddenly jumped away from me as if she was electrocuted, giving me quite a scare."
+  },
+  {
+    "line": 94,
+    "text": "{character:Mai Aihara}S-Sorry. I didn't... do that on purpose..."
+  },
+  {
+    "line": 95,
+    "text": "{character:Narration}Seeing her blushing and apologizing with such a flustered expression made me confused by the situation. But after I saw her tightly clenched right fist, I seem to understand something. When I reached out for the book just now, I think I touched the back of her right hand by accident."
+  },
+  {
+    "line": 96,
+    "text": "{character:player}Sorry, is my hand too cold?"
+  },
+  {
+    "line": 97,
+    "text": "{character:Mai Aihara}No, it isn't you. I'm just... not used to suddenly having physical contact with other people..."
+  },
+  {
+    "line": 98,
+    "text": "{character:Mai Aihara}Don't misunderstand me, Master! I don't dislike you, it's just that..."
+  },
+  {
+    "line": 99,
+    "text": "{character:player}It's okay. Everyone has something they aren't used to. Mai, have you found the books you're looking for?"
+  },
+  {
+    "line": 100,
+    "text": "{character:Mai Aihara}Yes, I've found them."
+  },
+  {
+    "line": 101,
+    "text": "{character:Narration}She doesn't seem to have noticed the \"Garden Files.\" How can I remind her?"
+  },
+  {
+    "line": 102,
+    "text": "{character:Narration}Speaking of which... she doesn't seem to have calmed down from the earlier incident. I hope she won't react too strongly when she sees the \"Garden Files\" in a moment..."
+  },
+  {
+    "line": 103,
+    "text": "{character:player}Huh?"
+  },
+  {
+    "line": 104,
+    "text": "{character:Mai Aihara}What is it, Master? Are you searching for a book?"
+  },
+  {
+    "line": 105,
+    "text": "{character:player}Oh, no... Well... Did you take something from here just now?"
+  },
+  {
+    "line": 106,
+    "text": "{character:Narration}I only realized just now that the \"Garden Files\" is no longer where it was."
+  },
+  {
+    "line": 107,
+    "text": "{character:Mai Aihara}I've been searching over here. I haven't had time to look at the shelf over there."
+  },
+  {
+    "line": 108,
+    "text": "{character:Narration}Mai's reaction is the same way as always, so I can only try my best to pretend to be calm. But inside my heart, the disappearance of the \"Garden Files\" has made me feel quite uneasy."
+  },
+  {
+    "line": 109,
+    "text": "{character:Narration}I keep checking if it was stuck inside another book, and even look back to check the shelf behind it, but the book is nowhere to be found."
+  },
+  {
+    "line": 110,
+    "text": "{character:Narration}While I am looking left and right, I hear an intelligent and indifferent voice behind me."
+  },
+  {
+    "line": 112,
+    "text": "{character:Nanaha Onodera}Welcome. What book are you looking for?"
+  },
+  {
+    "line": 113,
+    "text": "{character:player}Onodera?"
+  },
+  {
+    "line": 114,
+    "text": "{character:Nanaha Onodera}It's been a while, Mai."
+  },
+  {
+    "line": 115,
+    "text": "{character:Mai Aihara}Miss Onodera, it's been a while. I didn't expect to run into you here."
+  },
+  {
+    "line": 117,
+    "text": "{character:Nanaha Onodera}I'm working part time here..."
+  },
+  {
+    "line": 118,
+    "text": "{character:Mai Aihara}Ah, I've finished reading the book you lent to me last time."
+  },
+  {
+    "line": 119,
+    "text": "{character:Nanaha Onodera}That was quick. The sequel... I'll give it to you the next time I pass by the Temple of Moons."
+  },
+  {
+    "line": 120,
+    "text": "{character:Mai Aihara}No need, I'll get it from you next time when I return books to you. You're already lending me books, so how can I make you come to me again..."
+  },
+  {
+    "line": 121,
+    "text": "{character:Narration}The two chat intimately. Nanaha Onodera is an avid reader, so their chat is all about books."
+  },
+  {
+    "line": 122,
+    "text": "{character:player}So you two are book buddies?"
+  },
+  {
+    "line": 123,
+    "text": "{character:Mai Aihara}Yes, Miss Onodera recommends very interesting books."
+  },
+  {
+    "line": 124,
+    "text": "{character:Mai Aihara}Oh right! Master, weren't you looking for a book just now? Miss Onodera is working part time here. Why don't you ask her?"
+  },
+  {
+    "line": 125,
+    "text": "{character:player}Well... I'll keep looking. I remember seeing the book I was looking for when I passed by earlier."
+  },
+  {
+    "line": 126,
+    "text": "{character:Nanaha Onodera}I just sorted this shelf. If you can't find it there, maybe it was in the wrong place and I've put it back where it belongs."
+  },
+  {
+    "line": 127,
+    "text": "{character:Nanaha Onodera}Do you need any help? What's the name of the book?"
+  },
+  {
+    "line": 128,
+    "text": "{character:player}The name is... is... Um, I'll look for it myself."
+  },
+  {
+    "line": 129,
+    "text": "{character:Narration}Mai is right next to me, so I can't just tell her I'm looking for \"Pineapple Instructor,\" or else she'll instantly realize she has lost her \"Garden Files.\""
+  },
+  {
+    "line": 130,
+    "text": "{character:Nanaha Onodera}Are you familiar with the Universal Decimal Classification System? You might not be able to find it if you aren't."
+  },
+  {
+    "line": 131,
+    "text": "{character:player}Don't worry, I'm familiar with the system. So you've returned the book to the shelf of its category, right?"
+  },
+  {
+    "line": 132,
+    "text": "{character:Nanaha Onodera}Yes, I remember I just sorted..."
+  },
+  {
+    "line": 133,
+    "text": "{character:player}Y-You don't have to recall the names of the books! Thank you for working so hard, Onodera. I'll take care of this myself."
+  },
+  {
+    "line": 134,
+    "text": "{character:Narration}I need to get the \"Garden Files\" back quickly. Since \"Pineapple Instructor\" has been returned to its original location, which shelf should it be on according to the Universal Decimal Classification System?"
+  },
+  {
+    "line": 138,
+    "text": "{character:Narration}I'm at the seventh shelf. The books here are all about art."
+  },
+  {
+    "line": 139,
+    "text": "{character:player}Oh no! I think I'm at the wrong shelf. The book isn't here."
+  },
+  {
+    "line": 140,
+    "text": "{character:Mai Aihara}Master, Onodera said she remembers which books she just sorted."
+  },
+  {
+    "line": 141,
+    "text": "{character:Nanaha Onodera}Although {var:player_nickname} said I didn't need to recall which ones, there weren't many anyway."
+  },
+  {
+    "line": 142,
+    "text": "{character:Nanaha Onodera}It was a literary work, and it's on the shelf over there."
+  },
+  {
+    "line": 143,
+    "text": "{character:Narration}After speaking, Nanaha Onodera leads Mai to the shelf. What should I do? I can't think of a reason to stop her."
+  },
+  {
+    "line": 144,
+    "text": "{character:Mai Aihara}Master, I'm also interested in the book you're looking for. Can I come and take a look too?"
+  },
+  {
+    "line": 145,
+    "text": "{character:player}Um... Well..."
+  },
+  {
+    "line": 146,
+    "text": "{character:Narration}Should I lie and say I need to go to the toilet again? But even if I leave, Nanaha Onodera will find the \"Garden Files.\" I'm... out of options."
+  },
+  {
+    "line": 149,
+    "text": "{character:Narration}I'm at the ninth shelf. The books here are about history, geography, etc."
+  },
+  {
+    "line": 150,
+    "text": "{character:player}Oh no! I'm at the wrong shelf. The book wouldn't be here."
+  },
+  {
+    "line": 152,
+    "text": "{character:Narration}I'm at the eighth shelf. \"Pineapple Instructor\" is a novel, so it should be on a shelf with literary works... Found it! It's the damaged green dust jacket!"
+  },
+  {
+    "line": 153,
+    "text": "{character:Mai Aihara}Master, Miss Onodera said she remembers which books she just sorted."
+  },
+  {
+    "line": 154,
+    "text": "{character:Narration}I quickly find the \"Garden Files,\" but just as I'm about to take it from the shelf, Mai and Nanaha walk over suddenly."
+  },
+  {
+    "line": 155,
+    "text": "{character:Nanaha Onodera}Although {var:player_nickname} said I didn't need to recall which ones, there weren't many anyway. If I remember correctly... Oh? It looks like you've found it."
+  },
+  {
+    "line": 156,
+    "text": "{character:Narration}I didn't expect them to come here too. They can both see the \"Garden Files\" in the green dust jacket."
+  },
+  {
+    "line": 157,
+    "text": "{character:Nanaha Onodera}{var:player_nickname}... so you like this type of book? You have good taste."
+  },
+  {
+    "line": 158,
+    "text": "{character:Mai Aihara}It's a book that even Miss Onodera would recommend? I'm looking forward to it even more."
+  },
+  {
+    "line": 159,
+    "text": "{character:Mai Aihara}...Huh? Um... Is that... Eh?"
+  },
+  {
+    "line": 160,
+    "text": "{character:Narration}Mai's innocent expression suddenly becomes stiff due to embarrassment. The corners of her mouth twitch slightly, and her eyes glaze over like she is trying to escape reality."
+  },
+  {
+    "line": 161,
+    "text": "{character:Narration}Without a doubt, she has recognized that this is the \"Pineapple Instructor\" she lost. I can already imagine the ensuing desperate situation..."
+  },
+  {
+    "line": 164,
+    "text": "{character:Nanaha Onodera}This doesn't seem like a book from this library."
+  },
+  {
+    "line": 165,
+    "text": "{character:Narration}Nanaha Onodera will first wonder why there is a dust jacket, and she might find traces left by Mai in the book when she flips through it. Mai is an honest person, so I wouldn't be surprised if she wrote her name on the book."
+  },
+  {
+    "line": 166,
+    "text": "{character:Nanaha Onodera}Is this Mai's book? \"Pineapple Instructor\"... Hiding it in a dust jacket? That's a nice trick."
+  },
+  {
+    "line": 167,
+    "text": "{character:Narration}Mai is incredibly embarrassed and can't understand why the book is here. But she will soon realize the fact that I was looking for it and misunderstand my intentions..."
+  },
+  {
+    "line": 168,
+    "text": "{character:Mai Aihara}Master, are you bullying me on purpose? Do you dislike me so much?"
+  },
+  {
+    "line": 169,
+    "text": "{character:Nanaha Onodera}{var:player_nickname}, you're using books to bully others? That's such bad taste."
+  },
+  {
+    "line": 170,
+    "text": "{character:Narration}In my imagination, the two look at me harshly..."
+  },
+  {
+    "line": 172,
+    "text": "{character:Narration}Stop right there. I'm exaggerating too much. Instead of worrying about it wildly, I should be thinking of how to fix the situation."
+  },
+  {
+    "line": 173,
+    "text": "{character:player}I'm really sorry!"
+  },
+  {
+    "line": 174,
+    "text": "{character:Narration}I can only avoid the worst situation by keeping Mai's secret, so I decide to take a desperate measure by bowing my head to Nanaha Onodera and apologizing."
+  },
+  {
+    "line": 175,
+    "text": "{character:Nanaha Onodera}{var:player_nickname}, I'm a librarian, not a banker. I don't like people bowing their heads to me in apology."
+  },
+  {
+    "line": 176,
+    "text": "{character:player}I'm sorry, this is my book. I wanted to take it back secretly, but you found out about it in the end..."
+  },
+  {
+    "line": 177,
+    "text": "{character:Nanaha Onodera}...Your book?"
+  },
+  {
+    "line": 178,
+    "text": "{character:Narration}As soon as I say this, the two people in front of me show a look of surprise, as if they don't quite understand what I'm talking about."
+  },
+  {
+    "line": 179,
+    "text": "{character:Nanaha Onodera}You... are into this genre?"
+  },
+  {
+    "line": 180,
+    "text": "{character:player}Yes, I love this book so much! I can't stop reading it after I bought it, and I carry it everywhere with me."
+  },
+  {
+    "line": 181,
+    "text": "{character:player}I accidentally brought it into the reading room when Mai invited me to come to the library today. I'm really sorry for violating the library's rules and causing you trouble."
+  },
+  {
+    "line": 182,
+    "text": "{character:Narration}I bow my head and apologize again in front of the screen that reads \"Library Regulation No. 3: It is forbidden to bring your own books into the reading room!\" Even I have started to believe the nonsense I'm spouting."
+  },
+  {
+    "line": 183,
+    "text": "{character:Narration}But for some reason, the astonished look on their faces is still there. They don't look convinced at all."
+  },
+  {
+    "line": 184,
+    "text": "{character:Mai Aihara}No... that's impossible. How can this \"Pineapple Instructor\" be yours, Master?"
+  },
+  {
+    "line": 185,
+    "text": "{character:player}It's true! I love this book! I love \"Pineapple Instructor!\""
+  },
+  {
+    "line": 186,
+    "text": "{character:Nanaha Onodera}How surprising... I didn't realize {var:player_nickname} liked this type of taboo friendship."
+  },
+  {
+    "line": 187,
+    "text": " Girl Passing By"
+  },
+  {
+    "line": 188,
+    "text": "{character:Girl Passing By}Mom! What's a taboo friendship?"
+  },
+  {
+    "line": 189,
+    "text": " Girl's Mother"
+  },
+  {
+    "line": 190,
+    "text": "{character:Girl's Mother}Shush! Don't look at that weirdo. Let's go."
+  },
+  {
+    "line": 191,
+    "text": "{character:Narration}So this is what committing social suicide feels like... But this shame is nothing as long as I can help Mai keep her secret..."
+  },
+  {
+    "line": 192,
+    "text": "{character:player}Anyway... I brought this book to the library by mistake. Mai, you haven't seen it before, right?"
+  },
+  {
+    "line": 193,
+    "text": "{character:Mai Aihara}Eh? No... Well..."
+  },
+  {
+    "line": 194,
+    "text": "{character:Narration}To convince Nanaha Onodera, I keep winking at Mai to get her to support my story."
+  },
+  {
+    "line": 195,
+    "text": "{character:Mai Aihara}Master... Master, do you really like \"Pineapple Instructor?\""
+  },
+  {
+    "line": 196,
+    "text": "{character:player}Y-Yes!"
+  },
+  {
+    "line": 197,
+    "text": "{character:Narration}However... the way she looks at me becomes even weirder after that. She doesn't look moved like she is being protected. Instead, she looks happy like she has found someone who understands her."
+  },
+  {
+    "line": 198,
+    "text": "{character:Mai Aihara}Um.. M-Master, do you only support One True Pairing or multiple pairings? What... What do you think about rival pairings?"
+  },
+  {
+    "line": 199,
+    "text": "{character:player}... One True Pairing? multiple pairings? rival pairings?"
+  },
+  {
+    "line": 200,
+    "text": "{character:Nanaha Onodera}Sorry, let me interject... {var:player_nickname}, can you check again that there isn't a barcode at the back?"
+  },
+  {
+    "line": 201,
+    "text": "{character:Nanaha Onodera}I won't be able to explain myself to my boss if I let you treat the library's book as your own book by mistake."
+  },
+  {
+    "line": 202,
+    "text": "{character:player}Why would there be a barcode on my own book..."
+  },
+  {
+    "line": 203,
+    "text": "{character:Narration}How could there be a library barcode on Mai's \"Garden Files?\" However, when I opened the dust jacket to check the last page..."
+  },
+  {
+    "line": 204,
+    "text": "{character:player}There really is a barcode?! T-That's strange... Why is this book the only one that has a dust jacket?"
+  },
+  {
+    "line": 205,
+    "text": "{character:Nanaha Onodera}Some of the older books are wrapped in dust jackets before they are put on the shelf. Only the cover of this \"Pineapple Instructor\" has been damaged, so it has been placed in one."
+  },
+  {
+    "line": 206,
+    "text": "{character:Mai Aihara}But why is this dust jacket the same as the one I use?"
+  },
+  {
+    "line": 207,
+    "text": "{character:Nanaha Onodera}Did you forget that you recommended this type of dust jacket to me? I thought it was great, so I got the head librarian to buy some and try them out."
+  },
+  {
+    "line": 208,
+    "text": "{character:Nanaha Onodera}What a shame. People have still managed to damage it even though it is quite sturdy."
+  },
+  {
+    "line": 209,
+    "text": "{character:Narration}The library also uses dust jackets? And they are the same type as the one Mai uses? If this is all true, could it be... that everything is just a misunderstanding?"
+  },
+  {
+    "line": 210,
+    "text": "{character:Mai Aihara}Then this book really is the library's property... Master, do you also use the same dust jacket?"
+  },
+  {
+    "line": 211,
+    "text": "{character:Narration}It has a similar dust jacket and just happened to fall onto the ground behind Mai, causing me to mistake it for the \"Garden Files.\""
+  },
+  {
+    "line": 212,
+    "text": "{character:Narration}All the questions in my heart have been solved. After all, someone as serious as Mai would never bring her own books to the library, let alone a book that will make her feel embarrassed."
+  },
+  {
+    "line": 213,
+    "text": "{character:player}...To tell the truth, I also use the same dust jacket at home, so I got it wrong by mistake."
+  },
+  {
+    "line": 214,
+    "text": "{character:Nanaha Onodera}Hehe... In that case, {var:player_nickname}, are you still taking this book out?"
+  },
+  {
+    "line": 215,
+    "text": "{character:player}Okay... No, no! I have this one. Ahahahaha... D-Do you have the next volume? I'll take that one out."
+  },
+  {
+    "line": 216,
+    "text": "{character:Nanaha Onodera}Hehe... I'll get it for you in a moment."
+  },
+  {
+    "line": 217,
+    "text": "{character:Narration}Nanaha looks at Mai meaningfully before she walks off. Could she have seen through my act...?"
+  },
+  {
+    "line": 218,
+    "text": "{character:Mai Aihara}Master, did you say this book is yours because... Thank you."
+  },
+  {
+    "line": 219,
+    "text": "{character:player}Why are you thanking me?"
+  },
+  {
+    "line": 220,
+    "text": "{character:Narration}Mai seemed to be mumbling about something, but I was still feeling relieved after the false alarm that I didn't hear her properly."
+  },
+  {
+    "line": 221,
+    "text": "{character:Mai Aihara}No... I-It's nothing."
+  },
+  {
+    "line": 227,
+    "text": "{character:Mai Aihara}Master, please leave the books anywhere you like."
+  },
+  {
+    "line": 228,
+    "text": "{character:player}Okay, I'll leave them on this coffee table then. Ahaha..."
+  },
+  {
+    "line": 229,
+    "text": "{character:Narration}We are both out of breath when we get back to the shrine. I didn't expect books to be so heavy. Even though we both carried half, we still had to rest several times on the way back."
+  },
+  {
+    "line": 230,
+    "text": "{character:player}I can finally relax. This trip to the library ended up being so complicated."
+  },
+  {
+    "line": 231,
+    "text": "{character:Mai Aihara}It must have been hard on you, Master. It was all because of me that you were misunderstood like that..."
+  },
+  {
+    "line": 232,
+    "text": "{character:Narration}Maybe it's because of her training as a priestess, but Mai isn't as weak as she looks. On our way back, she kept asking me about the truth of the library incident despite the fatigue from carrying the books. The lame story I came up with at the beginning couldn't fool anyone... In the end, I confessed everything to her."
+  },
+  {
+    "line": 233,
+    "text": "{character:Mai Aihara}Master, I was completely oblivious even though you did so much for me... Thank you."
+  },
+  {
+    "line": 234,
+    "text": "{character:player}You've been thanking me the entire way back. Let's just forget it. This was a misunderstanding, and instead of being helpful, my actions caused a commotion."
+  },
+  {
+    "line": 235,
+    "text": "{character:Mai Aihara}That's not true. Master, you've helped me a lot. If you weren't there, I would have..."
+  },
+  {
+    "line": 236,
+    "text": "{character:player}You would have?"
+  },
+  {
+    "line": 237,
+    "text": "{character:Mai Aihara}N-Nothing... I just want to know. When you... When you thought that book was the \"Garden Files,\" did you make fun of me?"
+  },
+  {
+    "line": 238,
+    "text": "{character:Narration}Mai keeps hesitating. Suddenly, her face turns red when she thinks of something. She lowers her head vigorously and tries to look up at the same time, revealing a timid expression that makes her look like a little rabbit."
+  },
+  {
+    "line": 239,
+    "text": "{character:Narration}My heart immediately softens, and I can't help but respond to her in a more serious and gentle way."
+  },
+  {
+    "line": 240,
+    "text": "{character:player}Don't worry, I'll never make fun of Mai."
+  },
+  {
+    "line": 241,
+    "text": "{character:player}Just like that collection of romantic poems. Even if \"Pineapple Instructor\" isn't for everyone, as long as it was written with heart, some readers will definitely be moved by it."
+  },
+  {
+    "line": 242,
+    "text": "{character:player}So when I thought it was your book, I just hoped... that you won't feel embarrassed because the book was exposed in front of everyone."
+  },
+  {
+    "line": 243,
+    "text": "{character:Mai Aihara}Ah... Thank you, Master! I'm... really happy to hear you say that..."
+  },
+  {
+    "line": 244,
+    "text": "{character:Narration}Mai looks even more embarrassed after hearing my words. She is smiling happily, but she doesn't dare to raise her face to look at me."
+  },
+  {
+    "line": 245,
+    "text": "{character:Mai Aihara}Oh... I'll make you some tea now. It won't take long... Ah!"
+  },
+  {
+    "line": 246,
+    "text": "{character:Narration}It turns out that walking with your head down and not looking ahead really is dangerous. The shy Mai tries to escape to the kitchen, but she bumps into the bookshelf at the door when she turns around and is about to fall."
+  },
+  {
+    "line": 247,
+    "text": "{character:player}Watch out!"
+  },
+  {
+    "line": 248,
+    "text": "{character:Narration}I reach out to pull her in a hurry, only to pull her in right in front of me because I used too much strength."
+  },
+  {
+    "line": 249,
+    "text": "{character:player}Eh?"
+  },
+  {
+    "line": 249,
+    "text": "{character:Mai Aihara}Eh?"
+  },
+  {
+    "line": 250,
+    "text": "{character:Narration}I quickly support her by the shoulders to prevent her from directly colliding with me. After that, I recall the scene in the library. I remember that she isn't very used to being touched by other people."
+  },
+  {
+    "line": 251,
+    "text": "{character:player}Are you okay? Um..."
+  },
+  {
+    "line": 252,
+    "text": "{character:Narration}Oh no! Although I didn't really have a choice because of the situation, I still got too close to Mai. She jumped up in fright when my finger touched her before. Now that we're in this position... I can't imagine how big her reaction will be."
+  },
+  {
+    "line": 253,
+    "text": "{character:Mai Aihara}...Thank you, Master. I'm... okay now."
+  },
+  {
+    "line": 254,
+    "text": "{character:Narration}Just before I decide to let go of her, Mai stands up on her own and thanks me."
+  },
+  {
+    "line": 255,
+    "text": "{character:player}Ah, as long as you're okay."
+  },
+  {
+    "line": 256,
+    "text": "{character:Narration}To my surprise, she doesn't have any reaction. She just walks past me slowly and adjusts her clothes silently."
+  },
+  {
+    "line": 257,
+    "text": "{character:Mai Aihara}I'll go and make some tea then. Thank you, Master..."
+  },
+  {
+    "line": 258,
+    "text": "{character:player}O-Okay..."
+  },
+  {
+    "line": 259,
+    "text": "{character:Narration}Only the blush on her face has not dissipated."
+  },
+  {
+    "line": 260,
+    "text": "{character:player}...How strange... Is she no longer afraid of being touched?"
+  },
+  {
+    "line": 261,
+    "text": "{character:Narration}When we were at the library before, Mai panicked when I touched her hand. How can she be so calm now? The only thing that happened since then was the \"Pineapple Instructor\" incident..."
+  },
+  {
+    "line": 262,
+    "text": "{character:player}Hmm... That shouldn't be the reason. I already explained that it was a misunderstanding. I should just sit down and wait for her to come back with the tea."
+  },
+  {
+    "line": 263,
+    "text": "{character:Narration}I start to pick up the items that fell off the bookshelf and return them to their places. However, when I bent down to pick up the items on the ground, I see an opened book on the ground... The header of the paper says: \"Pineapple Instructor, Volume 3.\""
+  },
+  {
+    "line": 264,
+    "text": "{character:Narration}I pick up the book and flip through it. It has that familiar cover and green dust jacket. The events that just took place in the library are revived in my mind again."
+  },
+  {
+    "line": 265,
+    "text": "{character:Narration}Why did a book fall to the ground where Mai was walking? Why did she look so panicked? Why did she keep asking me about my attitude towards \"Pineapple Instructor?\""
+  },
+  {
+    "line": 266,
+    "text": "{character:Narration}All these questions in my head lead me to the truth—"
+  },
+  {
+    "line": 267,
+    "text": "{character:Narration}Volume 4 of \"Pineapple Instructor\" is the sequel to the \"Garden Files\" that Mai wanted to borrow from the library but accidentally dropped on the floor. Mai likes \"Pineapple Instructor\" but doesn't dare to tell others, which is why she was so nervous when she saw me take out the book and kept testing me on what I thought about the book."
+  },
+  {
+    "line": 268,
+    "text": "{character:player}Everyone, what do you think? I, {var:player_nickname}, made the above deduction based on one book that fell on the ground."
+  },
+  {
+    "line": 269,
+    "text": "{character:Narration}After playing a reasoning game in my head for a while, I figure the tea is almost ready, so I put the scattered books back on the bookshelf and pretend that nothing happened."
+  },
+  {
+    "line": 270,
+    "text": "{character:Narration}The \"Garden Files\" is Mai's secret. I'll keep this secret for her until she wants to talk about it herself."
+  },
+  {
+    "line": 271,
+    "text": "{character:player}The truth isn't really that important sometimes."
+  },
+  {
+    "line": 273,
+    "text": "{character:player}...Speaking of which, One True Pairing, multiple pairings, rival pairings... What do they mean? Should I learn more about this type of thing to understand Mai better?"
+  },
+  {
+    "line": 274,
+    "text": "{character:Narration}I turn on my computer and enter those curious keywords in the search engine..."
+  },
+  {
+    "line": 275,
+    "text": "{character:Narration}I opened the door to a new world on that night."
+  },
+  {
+    "line": 279,
+    "text": "{character:Narration}I miscalculated. I didn't think I would put it on the wrong shelf. I have to get the \"Garden Files\" back."
+  },
+  {
+    "line": 280,
+    "text": "{character:player}Huh? This is strange... I'm sure I put the book here earlier."
+  },
+  {
+    "line": 281,
+    "text": "{character:Narration}I return to the place where I put the book only to find \"Pineapple Instructor\" isn't there."
+  },
+  {
+    "line": 282,
+    "text": " Librarian"
+  },
+  {
+    "line": 283,
+    "text": "{character:Librarian}Are you looking for a book? I just sorted this shelf and moved the books that are in the wrong category somewhere else."
+  },
+  {
+    "line": 284,
+    "text": "{character:player}Eh? But a private belonging of mine was on that shelf."
+  },
+  {
+    "line": 285,
+    "text": "{character:Librarian}A private belonging? Are you referring to... a book?"
+  },
+  {
+    "line": 286,
+    "text": "{character:Narration}The librarian before me suddenly frowns. She props up her glasses with her hand and then points right at the electronic screen in the direction of the hall with a finger as straight as a pointer."
+  },
+  {
+    "line": 287,
+    "text": "{character:Librarian}Library Regulation No. 3: It is forbidden to bring your own books into the reading room!"
+  },
+  {
+    "line": 288,
+    "text": "{character:player}I-I'm sorry! I'll be careful next time. But for now... I just want to find my own book."
+  },
+  {
+    "line": 289,
+    "text": "{character:Librarian}It should be kept under custody if it is a personal belonging. Come with me."
+  },
+  {
+    "line": 290,
+    "text": "{character:Narration}Afterwards, the stern but warm-hearted librarian took me with her to ask around, but everyone said they had not seen any missing books."
+  },
+  {
+    "line": 291,
+    "text": "{character:Narration}Because I have already spent a lot of time, I decide to go back to Mai first in case she starts getting worried about me. I will search for the \"Garden Files\" later."
+  },
+  {
+    "line": 293,
+    "text": "{character:Narration}However, I never got the chance to act alone before we returned to the Temple of Moons."
+  },
+  {
+    "line": 294,
+    "text": "{character:player}Okay, I'll leave it on the coffee table then. Hehe..."
+  },
+  {
+    "line": 295,
+    "text": "{character:Mai Aihara}It must have been hard on you, Master. It's all because I took out so many books."
+  },
+  {
+    "line": 296,
+    "text": "{character:player}It's alright. Well, I still have something to do, so I need to leave first..."
+  },
+  {
+    "line": 297,
+    "text": "{character:Mai Aihara}Leave? Right now?"
+  },
+  {
+    "line": 298,
+    "text": "{character:Narration}Mai still hasn't realized that her \"Garden Files\" is missing. I feel guilty about keeping this from her, but it's more important right now to get back to the library as soon as possible to find it."
+  },
+  {
+    "line": 299,
+    "text": "{character:player}It won't take long. I'll be back very soon."
+  },
+  {
+    "line": 300,
+    "text": "{character:Narration}The \"Garden Files\" must still be in the library. The crisis will be averted if I can get it back in time and put it on the shelf in the living room."
+  },
+  {
+    "line": 301,
+    "text": "{character:Narration}I observe the bookshelf as I think to myself. You can tell by the wide variety of books on it that Mai really likes to read."
+  },
+  {
+    "line": 302,
+    "text": "{character:Narration}On the bookshelf is a book with a green spine. At first, I thought it was just a book that looked similar to the \"Garden Files,\" but then I saw the words \"Garden Files\" written on the side with a marker pen."
+  },
+  {
+    "line": 303,
+    "text": "{character:Mai Aihara}Okay, I understand. But Master, would you like to drink a cup of tea before you leave?"
+  },
+  {
+    "line": 304,
+    "text": "{character:Narration}I take two steps closer to observe it carefully while pretending that nothing is happening. In the end, I confirm that this is indeed the \"Garden Files\" I saw before."
+  },
+  {
+    "line": 305,
+    "text": "{character:player}...Now that I think about it, I'll go there some other day."
+  },
+  {
+    "line": 306,
+    "text": "{character:Mai Aihara}Eh? Are you not leaving now?"
+  },
+  {
+    "line": 307,
+    "text": "{character:player}Yea, I've decided to stay and have a cup of tea. Is that okay, Mai?"
+  },
+  {
+    "line": 308,
+    "text": "{character:Mai Aihara}Of course. Please give me a moment."
+  },
+  {
+    "line": 309,
+    "text": "{character:Narration}I also feel relieved as I watch Mai runs happily to the kitchen. My conclusion is that the book that I picked up at the library is probably not the \"Garden Files.\""
+  },
+  {
+    "line": 310,
+    "text": "{character:Narration}Now that I think about it, that was just a library book that fell behind Mai and had the same dust jacket as the \"Garden Files.\" I jumped to conclusion when I decided it was Mai's book."
+  },
+  {
+    "line": 311,
+    "text": "{character:player}The matter is sorted out now since I don't need to go back to the library. I should read a book and take a break for a while."
+  },
+  {
+    "line": 312,
+    "text": "{character:Narration}With that thought in mind, I pick up a book that we just took out and start reading it."
+  },
+  {
+    "line": 315,
+    "text": "{character:Narration}Unable to think of any other ideas, I follow Nanaha Onodera to the bookshelf where the novels are placed."
+  },
+  {
+    "line": 316,
+    "text": "{character:Mai Aihara}I can't wait to see the book Master likes."
+  },
+  {
+    "line": 317,
+    "text": "{character:Narration}The longer I look at Mai's smiling face, the greater the despair in my heart. I'm even on the verge of seeing hallucinations—"
+  },
+  {
+    "line": 318,
+    "text": "{character:Nanaha Onodera}Oh? This doesn't seem like a book from this library."
+  },
+  {
+    "line": 319,
+    "text": "{character:Narration}Once she finds the \"Garden Files,\" Nanaha Onodera will wonder why it has a dust jacket, and then she might find traces left by Mai in the book when she flips through it. Mai is an honest person, so I wouldn't be surprised if she wrote her name on the book."
+  },
+  {
+    "line": 320,
+    "text": "{character:Narration}Mai will be incredibly embarrassed and won't understand why the book is here. But she will soon realize the fact that I was looking for it and misunderstand my intentions..."
+  },
+  {
+    "line": 321,
+    "text": "{character:player}F-Found it! This is the book I've been looking for!"
+  },
+  {
+    "line": 322,
+    "text": "{character:Narration}I can only prevent the situation from getting worse by keeping Mai's secret. With my quick wits, I pull a random book with a green cover from the shelf."
+  },
+  {
+    "line": 323,
+    "text": "{character:Mai Aihara}This... This is the book you like, Master?"
+  },
+  {
+    "line": 324,
+    "text": "{character:player}Y-Yes! I like this book, \"I'm a Novice With S-level M-Magic Skills who Finally Became the Strongest Hero A-After Becoming a Warrior...\""
+  },
+  {
+    "line": 325,
+    "text": "{character:Narration}What is this title? \"I'm a Novice With S-level Magic Skills who Finally Became the Strongest Hero After Becoming a Warrior but was still Killed by the Demon King With One Blow.\" I can't even read the whole thing in one breath."
+  },
+  {
+    "line": 326,
+    "text": "{character:Nanaha Onodera}{var:player_nickname}, the fans call this book \"Magic S\"."
+  },
+  {
+    "line": 327,
+    "text": "{character:player}Is that so? I... I love \"Magic S!\" It's great stress relief, and reading it before going to bed really helps me with my sleep."
+  },
+  {
+    "line": 328,
+    "text": "{character:Mai Aihara}I... I see... Although the title is a little long, the characters on the cover look quite cute."
+  },
+  {
+    "line": 329,
+    "text": "{character:player}Yes! I've found the book I'm looking for. Thank you, Onodera."
+  },
+  {
+    "line": 330,
+    "text": "{character:Narration}For a moment, I thought Mai saw through me, but Mai doesn't seem to suspect a thing. The \"Garden Files\" shouldn't be found for now."
+  },
+  {
+    "line": 331,
+    "text": "{character:Nanaha Onodera}You're quite lucky. \"Magic S\" is quite popular, and this book was just returned not too long ago."
+  },
+  {
+    "line": 332,
+    "text": "{character:player}It's really that popular?"
+  },
+  {
+    "line": 333,
+    "text": "{character:Nanaha Onodera}Is this really the book you're looking for?"
+  },
+  {
+    "line": 334,
+    "text": "{character:Narration}Oh no!"
+  },
+  {
+    "line": 335,
+    "text": "{character:player}I-Is there a problem?"
+  },
+  {
+    "line": 336,
+    "text": "{character:Nanaha Onodera}...Nope. I'll help you check out the book. Just come over to claim it from the management desk later."
+  },
+  {
+    "line": 337,
+    "text": "{character:Narration}Surprisingly, Nanaha Onodera, who should have seen through my lie, has decided to turn a blind eye."
+  },
+  {
+    "line": 338,
+    "text": "{character:Narration}With that, I'm lucky enough to help Mai keep her secret, but I also have to leave the \"Garden Files\" in the library for now."
+  },
+  {
+    "line": 339,
+    "text": "{character:Narration}Soon after that, Mai and I carry all the books we borrowed from the library to the Temple of Moons."
+  },
+  {
+    "line": 340,
+    "text": "{character:player}It's alright. Well, I still have something to do, so I need to leave first..."
+  },
+  {
+    "line": 341,
+    "text": "{character:Narration}The \"Garden Files\" is still in the library. The crisis will be averted if I can get it back in time and put it on the shelf in the living room."
+  },
+  {
+    "line": 342,
+    "text": "{character:Narration}Now that I think about it carefully, that was just a library book that fell behind Mai and has the same dust jacket as the \"Garden Files.\" I jumped to conclusion when I decided it was Mai's book."
+  },
+  {
+    "line": 343,
+    "text": "{character:Narration}With that thought in mind, I pick up a book that we just borrowed and start reading it."
+  },
+  {
+    "line": 344,
+    "text": "{character:player}Eh? This book is..."
+  },
+  {
+    "line": 349,
+    "text": ""
+  },
+  {
+    "line": 354,
+    "text": "{character:Narration}...Oh, it's you again!"
+  },
+  {
+    "line": 355,
+    "text": " \"I'm a Novice With S-level Magic Skills who Finally Became the Strongest Hero After Becoming a Warrior but was still Killed by the Demon King With One Blow\""
+  },
+  {
+    "line": 357,
+    "text": " Put it on the fifth shelf"
+  },
+  {
+    "line": 358,
+    "text": " Put it on the sixth shelf"
+  },
+  {
+    "line": 359,
+    "text": " The eighth shelf"
+  },
+  {
+    "line": 360,
+    "text": " The ninth shelf"
+  },
+  {
+    "line": 361,
+    "text": ""
+  },
+  {
+    "line": 362,
+    "text": " Put it on the fourth shelf"
+  },
+  {
+    "line": 363,
+    "text": " The seventh shelf"
+  },
+  {
+    "line": 364,
+    "text": " What I'm imagining—"
+  },
+  {
+    "line": 365,
+    "text": " Reality—"
+  },
+  {
+    "line": 366,
+    "text": " Narration"
+  },
+  {
+    "line": 367,
+    "text": "player"
+  },
+  {
+    "line": 368,
+    "text": " Nanaha Onodera"
+  },
+  {
+    "line": 369,
+    "text": "{character:Narration}I take two steps closer to observe it carefully while pretending that nothing is happening. In the end, I confirm that this is indeed the \"Garden Files\" I saw before."
+  },
+  {
+    "line": 370,
+    "text": " Soon after, Mai and I find all the books she wanted to borrow and return to the Temple of Moons."
+  }
+]

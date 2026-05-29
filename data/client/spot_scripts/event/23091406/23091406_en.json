@@ -1,0 +1,1134 @@
+[
+  {
+    "line": 1,
+    "text": "player"
+  },
+  {
+    "line": 2,
+    "text": "{character:player}Argh! Oh no!!!"
+  },
+  {
+    "line": 3,
+    "text": "When I wake up from my dreams, I realize I must have overslept because the sunlight sneaking through the gaps in the curtains is hot and bright. This is obviously the \"MJ Top Beam\" that only appears when the sun is at the apex of its parabolical movement."
+  },
+  {
+    "line": 4,
+    "text": "I grab my phone next to me and tap the screen a few times. As I expected, it's out of power because I forgot to charge it last night."
+  },
+  {
+    "line": 5,
+    "text": "But that's understandable. Even though I acted like it was nothing when I promised Sara and Ryan that I would help them, I was quite confused about what I need to do, should do, and can actually do today, so I fell asleep really late."
+  },
+  {
+    "line": 6,
+    "text": "Sigh... I really don't like to stay up late. It's just really easy for me to suffer from insomnia."
+  },
+  {
+    "line": 7,
+    "text": "Once I start charging my phone, it starts vibrating for a long time, buzzing non-stop, as more than a dozen notifications pour in. Most of them are notifications of calls I missed from Nana Shiraishi, but one of them is a \"declaration of regret.\""
+  },
+  {
+    "line": 8,
+    "text": "Nana Shiraishi"
+  },
+  {
+    "line": 9,
+    "text": "{character:Nana Shiraishi}(Text Message) Junior, you'll definitely regret not picking up my call today!!!"
+  },
+  {
+    "line": 10,
+    "text": "What did I miss to prompt her into making such a declaration? I call her back quickly, but no one answers my call."
+  },
+  {
+    "line": 11,
+    "text": "{character:player}(Text Message) What is it?"
+  },
+  {
+    "line": 12,
+    "text": "{character:player}(Text Message) Why will I regret it?"
+  },
+  {
+    "line": 13,
+    "text": "{character:player}(Text Message) Is it really that serious?"
+  },
+  {
+    "line": 14,
+    "text": "{character:player}(Text Message) What are you doing?"
+  },
+  {
+    "line": 15,
+    "text": "{character:player}(Text Message) Nana, can you give me some information first?"
+  },
+  {
+    "line": 16,
+    "text": "{character:player}(Text Message) Are you really not doing this on purpose?"
+  },
+  {
+    "line": 17,
+    "text": "{character:player}(Text Message) Riddler, get out of Asaha High School!!!"
+  },
+  {
+    "line": 18,
+    "text": "{character:player}(Text Message) ↑ I made a mistake, it isn't supposed to be Asaha High School..."
+  },
+  {
+    "line": 19,
+    "text": "{character:player}(Text Message) Riddler, get out of One Han City!!!"
+  },
+  {
+    "line": 20,
+    "text": "Sigh... Why doesn't everyone understand something as simple as \"curiosity will kill the cat of Mahjong Soul Shrine\"? Why doesn't she just tell me the reason?!"
+  },
+  {
+    "line": 21,
+    "text": "But... when I check the time, I realize that Soul's performance of the day is about to start. I can't waste any more time on Nana Shiraishi. The thing about regrets can wait until I remember it again."
+  },
+  {
+    "line": 22,
+    "text": "There's a shortcut I can take to go to Soul. It's an alley that is used by very few people and can even be said to be rarely visited, but it can save more than 20 minutes of travel time, so I often use it to go to Soul when I am in a hurry."
+  },
+  {
+    "line": 23,
+    "text": "But it doesn't seem too peaceful here today. Right after I take a few steps into the alley, I hear the sound of fighting from the corner ahead of me."
+  },
+  {
+    "line": 24,
+    "text": "The reason I'm so sure that it's the sound of fighting is mainly because I hear a mixture of the sound of metal banging together, moaning, yelling, and cursing... and because I see Ciri staggering as she backs out of the corner and almost falls onto the ground."
+  },
+  {
+    "line": 25,
+    "text": "Eh? Ciri? After seeing someone I know, I immediately change my mind about minding my own business. I rush up to her to help her up and take the chance to observe the situation."
+  },
+  {
+    "line": 26,
+    "text": "Three to four youths who are dressed like thugs stand opposite us. The one in the middle, who has a crew cut, is wearing a pair of sunglasses, and is holding an unlit cigarette, looks like their leader."
+  },
+  {
+    "line": 27,
+    "text": "Thug with a Crew Cut"
+  },
+  {
+    "line": 28,
+    "text": "{character:Thug with a Crew Cut}Hey! You over there! I advise you to mind your own business. My bat hits anyone in its way."
+  },
+  {
+    "line": 29,
+    "text": "After he talks tough in the familiar local accent, a brawny thug standing behind him takes a big step forward until he is within two meters of me."
+  },
+  {
+    "line": 30,
+    "text": "Brawny Thug"
+  },
+  {
+    "line": 31,
+    "text": "{character:Brawny Thug}I'm warning you, we members of Raven are allowed to kill up to five people every year. I don't want to waste the last quota of the year on you. Get out of here if you know what's best for you!"
+  },
+  {
+    "line": 32,
+    "text": "I look at Ciri next to me. It's obvious that these people are here for her. Should I help her?"
+  },
+  {
+    "line": 33,
+    "text": "Even if I ignore my friendship with the members of Soul, just seeing a girl like Ciri getting singled out and bullied is something I can't ignore, so I step forward in front of Ciri and muster up the courage to confront the brawny thug."
+  },
+  {
+    "line": 34,
+    "text": "{character:player}There are so many of you bullying a weak woman, so I naturally..."
+  },
+  {
+    "line": 35,
+    "text": "I thought that like what usually happens in anime, the thug would mouth off at me for a while before warning me again..."
+  },
+  {
+    "line": 36,
+    "text": "Unexpectedly, as I say that I'll be fighting on the same side of Ciri and thinking about what to say next, the baseball bat flies directly toward my face."
+  },
+  {
+    "line": 37,
+    "text": "{character:Brawny Thug}I'll give you what you want then!"
+  },
+  {
+    "line": 38,
+    "text": "Why is this happening? This isn't like what I see on television at all! All I can do is watch as the bat approaches at lightning-fast speed, giving me no time to dodge... Suddenly, I hear a sharp sound as a whip flashes past my sideburns and collides with the baseball bat in front of me."
+  },
+  {
+    "line": 39,
+    "text": "I freeze on the spot and don't even dare to tilt my head as I'm afraid the whip might hit my face when Ciri pulls it back."
+  },
+  {
+    "line": 40,
+    "text": "Even if it hits me hard, the pain will only be temporary, but I'll be affected for a lifetime if it ruins my looks."
+  },
+  {
+    "line": 41,
+    "text": "Ciri appears beside me after taking a brisk step and instantly engages the several people facing us. The long whip in her hand, which she rarely uses when taming animals, makes swooshing sounds every time it flies through the air."
+  },
+  {
+    "line": 42,
+    "text": "At this moment, I finally realize that Ciri's whip is used to train people, not tame animals, and that Ciri is a superwoman, not a weak woman."
+  },
+  {
+    "line": 43,
+    "text": "As I watch Ciri holding her own against her enemies, I suddenly remember that the last time I saw a woman dominating enemies with a whip was in a movie about a superhero... Is it possible that Ciri grew up with the Amazons?"
+  },
+  {
+    "line": 44,
+    "text": "Looking down, I see the baseball bat Ciri knocked down lying there on the ground. I pick it up and feel pretty good after swinging it a few times. Since Ciri has already engaged them, I can't let myself be outdone, so I join the battle with the baseball bat."
+  },
+  {
+    "line": 45,
+    "text": "Although I'm joining the battle, my main task is to assist Ciri by dealing the finishing blow with the baseball bat, ensuring that no one can get back up after Ciri knocks them to the ground."
+  },
+  {
+    "line": 46,
+    "text": "I would normally be scolded for doing something like this in games, but instead of scolding me, Ciri sends me encouraging and appreciative glances when I'm hitting our enemies, which kind of feels like she is praising me for having a promising future."
+  },
+  {
+    "line": 47,
+    "text": "This fight starts fast and ends fast. After a little over 10 minutes, Ciri knocks down the leader, the thug with the crew cut, and makes them squat in a line at the corner. I walk over with the baseball bat in my hands and start interrogating them."
+  },
+  {
+    "line": 48,
+    "text": "{character:player}Who are you people?"
+  },
+  {
+    "line": 50,
+    "text": "{character:Thug with a Crew Cut}I'm \"Shishukara.\" In my line of business, people call me their aniki."
+  },
+  {
+    "line": 51,
+    "text": "{character:player}\"Shishukara?\""
+  },
+  {
+    "line": 52,
+    "text": "{character:Thug with a Crew Cut}It's \"Shishukara.\""
+  },
+  {
+    "line": 53,
+    "text": "{character:player}Er... It still sounds like \"Shishukara.\""
+  },
+  {
+    "line": 54,
+    "text": "{character:Thug with a Crew Cut}Geez, it's so tiring talking to people like you. I told you it's \"Shishukara.\""
+  },
+  {
+    "line": 55,
+    "text": "Seeing how hard he is trying to correct me, I suddenly have a flash of inspiration."
+  },
+  {
+    "line": 56,
+    "text": "{character:player}Wait... Are you saying you're called Shijukara, like the bird?"
+  },
+  {
+    "line": 57,
+    "text": "Shijukara"
+  },
+  {
+    "line": 58,
+    "text": "{character:Shijukara}Yes, that's me. In the future, you can also call me..."
+  },
+  {
+    "line": 59,
+    "text": "Ciri"
+  },
+  {
+    "line": 60,
+    "text": "{character:player}Hmm?"
+  },
+  {
+    "line": 60,
+    "text": "{character:Ciri}Hmm?"
+  },
+  {
+    "line": 61,
+    "text": "{character:Shijukara}Um... Just call me Shijukara. As for who we are, I guess it's okay to tell you. We're members of Raven."
+  },
+  {
+    "line": 62,
+    "text": "{character:player}Well, this Raven... Did I get it right? Well, I already heard you say this before when you threatened me."
+  },
+  {
+    "line": 63,
+    "text": "{character:player}The question is, why are you people making trouble for her?"
+  },
+  {
+    "line": 64,
+    "text": "One Han City is an internationally famous metropolis that has always been known for having good public order and low crime rates. A situation like this might not happen to someone even once in ten years, let alone to me, a good citizen who always follows the law."
+  },
+  {
+    "line": 65,
+    "text": "My rational self tells me to read the situation instead of acting impulsively, such as by asking myself if I'm really capable of fighting these opponents."
+  },
+  {
+    "line": 66,
+    "text": "After all, this is a real fight involving hand-to-hand combat, not a game of mahjong. If Ciri and I aren't strong enough to fight them, our best option would be to retreat immediately."
+  },
+  {
+    "line": 67,
+    "text": "While I'm hesitating, Ciri reaches out and pushes me to one side."
+  },
+  {
+    "line": 68,
+    "text": "{character:Ciri}Stand over there and don't get in the way."
+  },
+  {
+    "line": 69,
+    "text": "I see her walk up to the thugs and think they will mouth off against each other for a while before deciding to fight now or fight another day like in the anime I've seen... If that happens, I still have time to think about how I should escape with Ciri later."
+  },
+  {
+    "line": 70,
+    "text": "To my surprise, the moment Ciri stands still, she flicks the whip in her hand to attack the brawny thug right opposite her."
+  },
+  {
+    "line": 71,
+    "text": "I've almost never seen her whip any animals with that whip in her animal-taming performances, but she doesn't hold back at all when using it in a fight. The red welts that form on the thug's skin after he is whipped are visible to the naked eye. In fact... they are so red that they even look purple."
+  },
+  {
+    "line": 72,
+    "text": "The battle starts immediately. Although there are only around four to five people in total, the fight feels like a chaotic battle between a dozen people in melee combat. Although Ciri is outnumbered, I see that she can still handle her opponents with ease and doesn't need my help. In other words, I don't need to get involved and add to the chaos. Now that I'm no longer worried, I back away from them."
+  },
+  {
+    "line": 73,
+    "text": "As we all know, an \"onlooker\" could end up with the worst injuries, so I act extremely carefully. My most important goal right now is to not get involved in the fight."
+  },
+  {
+    "line": 74,
+    "text": "{character:Ciri}{var:player_nickname}!"
+  },
+  {
+    "line": 75,
+    "text": "I suddenly hear Ciri shout out my name when I'm stepping back carefully. Looking up, I see a baseball bat flying toward my face. The next thing I know, Ciri sends her whip in my direction to try to stop the baseball bat."
+  },
+  {
+    "line": 76,
+    "text": "Our ancestors must have coined the phrase \"too far for a whip to reach\" based on historical events. After a loud bang, I black out as I faint."
+  },
+  {
+    "line": 77,
+    "text": "I knew it. The most dangerous activity in this world is watching people fight."
+  },
+  {
+    "line": 78,
+    "text": "By the time Ciri manages to wake me up, the fight has already ended. The bruised and battered thugs are squatting in a line next to the wall, and I find out after talking to Ciri that she had already interrogated them just now."
+  },
+  {
+    "line": 79,
+    "text": "The leader is called Shijukara, and the others are his men. They are all members of an underworld organization called Raven."
+  },
+  {
+    "line": 80,
+    "text": "I rub my muddled head, then I pick up the baseball bat that had fallen next to my feet, walk over to Shijukara, and squat down in front of him."
+  },
+  {
+    "line": 81,
+    "text": "{character:player}Tell me. Why are you people making trouble for her?"
+  },
+  {
+    "line": 82,
+    "text": "{character:Shijukara}Huh? You think we're making trouble for her?!"
+  },
+  {
+    "line": 83,
+    "text": "{character:Shijukara}Brothers, who can tell me what's going on?!"
+  },
+  {
+    "line": 84,
+    "text": "{character:Shijukara}Who is making trouble for who? We were minding our own business here when she rushed over and whipped me."
+  },
+  {
+    "line": 85,
+    "text": "What's this? I'm very shocked to hear this. The story is completely different from what I imagined."
+  },
+  {
+    "line": 86,
+    "text": "I thought that Ciri encountered these thugs from Raven while going to Soul to perform, and they made trouble for her."
+  },
+  {
+    "line": 87,
+    "text": "In reality, Ciri encountered these thugs from Raven while going to Soul to perform, and she made trouble for them."
+  },
+  {
+    "line": 88,
+    "text": "Ordinary Thug"
+  },
+  {
+    "line": 89,
+    "text": "{character:Ordinary Thug}Aniki, there's no point wasting your breath on these two. They picked this fight!"
+  },
+  {
+    "line": 90,
+    "text": "Thin Thug"
+  },
+  {
+    "line": 91,
+    "text": "{character:Thin Thug}That's right, aniki! We're members of Raven. We can't suffer a loss like this!"
+  },
+  {
+    "line": 92,
+    "text": "After realizing that I don't actually know the whole story, the people on the ground start protesting to their leader, Shijukara. After all, I wouldn't be happy either if I got beaten up when I'm in the right."
+  },
+  {
+    "line": 93,
+    "text": "{character:Shijukara}Shut up! Do you think I don't know that? Do you think I would explain myself if we won against them?"
+  },
+  {
+    "line": 94,
+    "text": "I must say, there is a reason why Shijukara could become the leader of these thugs. First of all, he is sensible and knows where he stands."
+  },
+  {
+    "line": 95,
+    "text": "{character:Shijukara}We were originally just passing through here to do something for our boss. And you know what happens next."
+  },
+  {
+    "line": 96,
+    "text": "{character:Shijukara}If you're gonna keep making trouble for us, well, Raven isn't an organization of pushovers."
+  },
+  {
+    "line": 97,
+    "text": "{character:Ciri}Hah!"
+  },
+  {
+    "line": 98,
+    "text": "Ciri makes a cold snort of disdain beside me. She picks up her whip and flicks it twice in the air as if she is about to continue \"educating\" them. Seeing this, I quickly stop Ciri."
+  },
+  {
+    "line": 99,
+    "text": "{character:player}Heroine, let it go."
+  },
+  {
+    "line": 100,
+    "text": "{character:player}What grievances do you have with them? Why don't you tell me so I can mediate for you?"
+  },
+  {
+    "line": 101,
+    "text": "{character:Ciri}Hmph! Ask them yourself!"
+  },
+  {
+    "line": 102,
+    "text": "I suddenly feel helpless, like when you're passing on messages for two NPCs who are right in front of each other in a game. It looks like I'm doomed to be haunted by this kind of task unless I stop being an enthusiastic citizen."
+  },
+  {
+    "line": 103,
+    "text": "{character:player}Um... Shijukara, what were you about to do?"
+  },
+  {
+    "line": 104,
+    "text": "{character:Shijukara}I won't betray Raven's secrets to an outsider."
+  },
+  {
+    "line": 105,
+    "text": "Upon hearing that, Ciri raises her hand with the whip in it again."
+  },
+  {
+    "line": 106,
+    "text": "{character:player}Fighting won't solve the problem. Leave this to me."
+  },
+  {
+    "line": 107,
+    "text": "Seeing Ciri's stance, I start to worry that she really will hurt Shijukara quite badly. If One Han City were to appear in an anime, its genre would be slice of life, and the overall atmosphere would be happy, peaceful, and relaxed. Fighting and killing are too bloody, and the anime won't be approved."
+  },
+  {
+    "line": 108,
+    "text": "{character:player}Aniki, if you look at the current situation, this matter isn't between Raven and outsiders. It's between you and us."
+  },
+  {
+    "line": 109,
+    "text": "{character:Shijukara}Hmph, nothing you say will convince me."
+  },
+  {
+    "line": 110,
+    "text": "{character:player}Whether what I say will convince you isn't important. What's important is if what you say is convincing enough. Look, you just need to tell us roughly what you were about to do..."
+  },
+  {
+    "line": 111,
+    "text": "{character:Shijukara}I meant it when I said I can't tell you. Why can't you understand something that simple?"
+  },
+  {
+    "line": 112,
+    "text": "It looks like we won't be able to go on with this conversation unless Shijukara becomes aware of the seriousness of the situation."
+  },
+  {
+    "line": 113,
+    "text": "{character:player}Ciri!"
+  },
+  {
+    "line": 114,
+    "text": "I throw the baseball bat into the air, and Ciri's whip slices it into two pieces after it draws an arc in the air. After the heavier half of the bat lands, it bounces twice before rolling to Shijukara's feet. I then see him swallow."
+  },
+  {
+    "line": 115,
+    "text": "{character:Shijukara}We're all brothers here! Calm down for now!"
+  },
+  {
+    "line": 116,
+    "text": "My elders have always taught me that you'll spoil the child if you spare the rod. I'm not sure I can make Shijukara talk anyway after seeing his attitude, so I take a step back, mainly because I'm afraid Ciri would hit them too hard and splatter blood onto me."
+  },
+  {
+    "line": 117,
+    "text": "After a burst of whip lashes and hoarse shouting, Shijukara, who is now covered with a bunch of fresh welts, finally agrees to speak."
+  },
+  {
+    "line": 118,
+    "text": "{character:Shijukara}Actually, it's no big deal. The boss wants to meet the leader of Strix today and instructed everyone to go support him."
+  },
+  {
+    "line": 119,
+    "text": "{character:Shijukara}We're here to get more people."
+  },
+  {
+    "line": 120,
+    "text": "{character:Ciri}How dare you lie!"
+  },
+  {
+    "line": 121,
+    "text": "{character:Shijukara}Huh?"
+  },
+  {
+    "line": 122,
+    "text": "{character:Ciri}I heard you clearly. You were talking about looking for a red-crowned crane."
+  },
+  {
+    "line": 123,
+    "text": "{character:Shijukara}Yea, we need to find red-crowned crane. So what?"
+  },
+  {
+    "line": 124,
+    "text": "Just when Ciri is about to take action again without saying a word, I get the feeling that something is wrong, so I stop her."
+  },
+  {
+    "line": 125,
+    "text": "\"Heroine, let it go.\" I'm already sick of saying this now. I hope the people from Raven can just act sensibly."
+  },
+  {
+    "line": 126,
+    "text": "{character:player}Ciri, what's this red-crowned crane you mentioned?"
+  },
+  {
+    "line": 127,
+    "text": "{character:Ciri}Hmph! A red-crowned crane is a red-crowned crane. Don't tell me you've never seen a crane with a red crown."
+  },
+  {
+    "line": 128,
+    "text": "{character:Shijukara}What red-crowned crane? We're looking for a man with red hair."
+  },
+  {
+    "line": 129,
+    "text": "{character:player}A man with red hair... What do you mean?"
+  },
+  {
+    "line": 130,
+    "text": "{character:Shijukara}Geez, didn't I already tell you before? We're here to get more people."
+  },
+  {
+    "line": 131,
+    "text": "{character:Brawny Thug}The leader of the group next door has dyed his hair red, so everyone in our line of business calls him \"red-crowned crane.\""
+  },
+  {
+    "line": 132,
+    "text": "{character:Thin Thug}That's right! He is playing basketball in this area, so we came here with aniki to look for him."
+  },
+  {
+    "line": 133,
+    "text": "{character:Ciri}..."
+  },
+  {
+    "line": 134,
+    "text": "When I see Ciri hesitating before speaking, I understand that she also realized she misunderstood but is too embarrassed to admit it. In that case, let me, a caring and enthusiastic citizen, help her out."
+  },
+  {
+    "line": 135,
+    "text": "{character:player}Well, as they say, it takes a fight for people to get to know each other well, haha."
+  },
+  {
+    "line": 136,
+    "text": "{character:player}Everyone, since we've worked out this misunderstanding, why don't we just shake hands, make peace, and go about our own business?"
+  },
+  {
+    "line": 137,
+    "text": "{character:Shijukara}What the #¥%... &..."
+  },
+  {
+    "line": 138,
+    "text": "{character:Shijukara}Forget it. I don't want to lower myself to your level."
+  },
+  {
+    "line": 139,
+    "text": "{character:Shijukara}You better not meddle in the business of Raven next time, or else I'll teach you a lesson."
+  },
+  {
+    "line": 140,
+    "text": "{character:Ordinary Thug}Yea! We'll teach you a lesson."
+  },
+  {
+    "line": 141,
+    "text": "Fortunately, Shijukara and the others leave resolutely after talking tough and stop pestering us because they are scared of the whip in Ciri's hand."
+  },
+  {
+    "line": 142,
+    "text": "After they leave, I turn around to face Ciri and ask her a question I've had since a little earlier."
+  },
+  {
+    "line": 143,
+    "text": "{character:player}Ciri, why did you start fighting them when you heard them say red-crowned crane?"
+  },
+  {
+    "line": 144,
+    "text": "{character:Ciri}Sigh, I guess it'll be too rude to not tell you since you just gave me a lot of help."
+  },
+  {
+    "line": 145,
+    "text": "{character:Ciri}Are you free right now? I'll take you somewhere."
+  },
+  {
+    "line": 146,
+    "text": "I remember that my original intention was to find an opportunity to take action with her, but I didn't expect an opportunity to come so quickly. Of course, it would be even better if the process wasn't so thrilling and exciting."
+  },
+  {
+    "line": 147,
+    "text": "{character:player}Of course I'm free."
+  },
+  {
+    "line": 148,
+    "text": "Ciri takes me to a courtyard near Soul, which seems like it is uninhabited and has been deserted for a while. The courtyard is overgrown with weeds and filled with unknown wildflowers, and vines have crawled all over one side of a wall and even blocked half the windows, but the beauty of wild growth is on full display."
+  },
+  {
+    "line": 149,
+    "text": "I hear the hoarse cries of a crane the moment I enter the courtyard. As one rarely hears this kind of sound in an urban area, I thought I had heard wrong and turn to look at Ciri. She nods calmly at me, confirming my thoughts."
+  },
+  {
+    "line": 150,
+    "text": "I follow her to the base of a big tree with dense branches in the courtyard, where a small and simple house has been built with planks and dry straw. The sound is coming from inside this house."
+  },
+  {
+    "line": 151,
+    "text": "I stick my head inside slightly to take a look and see a red-crowned crane with dull-looking feathers lying inside. One leg is curled up, and the other has been bandaged and is secured to a splint."
+  },
+  {
+    "line": 152,
+    "text": "{character:Ciri}I took in this injured red-crowned crane two days ago. At that time, its leg was broken and most of the feathers on its wings were gone. There's no way it would be able to find its own kind and return to its breeding ground by itself."
+  },
+  {
+    "line": 153,
+    "text": "{character:Ciri}I come here to feed it every day while it is recuperating here."
+  },
+  {
+    "line": 154,
+    "text": "Ciri takes out a bag of bird food that is sealed with plastic wrap from the bag on her waist as she speaks. There are a lot of freeze-dried foods in it, and it looks very nutritious."
+  },
+  {
+    "line": 155,
+    "text": "I take some food from her hand and try to get closer to the red-crowned crane. To my surprise, it immediately becomes vigilant and screams at me desperately."
+  },
+  {
+    "line": 156,
+    "text": "It even struggles hard to get up and assume an attacking stance, but its leg injury is so serious that it can't stand up even after several attempts."
+  },
+  {
+    "line": 157,
+    "text": "When I see this, I quickly back away because I'm afraid that it will hurt itself. I then give the food I'm holding back to Ciri and tell her to feed it."
+  },
+  {
+    "line": 158,
+    "text": "I step aside so that Ciri can feed the red-crowned crane, but it glares at me vigilantly and refuses to eat."
+  },
+  {
+    "line": 159,
+    "text": "When I see this, I realize that I haven't gained its trust, so I take a few more steps back and hide inside its blind spot. Only then does it agree to eat the food in Ciri's hand."
+  },
+  {
+    "line": 160,
+    "text": "{character:Ciri}Sigh, this red-crowned crane is extremely wary of people. It won't let anyone other than me get close to it."
+  },
+  {
+    "line": 161,
+    "text": "{character:Ciri}There are two reasons why I was so sensitive to the words \"red-crowned crane\" today."
+  },
+  {
+    "line": 162,
+    "text": "{character:Ciri}The first is that red-crowned cranes return to their habitats to reproduce every year and will indeed stop for a short time in the wetlands near One Han City, but this isn't the right time for them to come back. According to past years, they should return two months later."
+  },
+  {
+    "line": 163,
+    "text": "{character:Ciri}The second is that its wariness toward humans and the wounds on its body indicate that it should have been hurt by humans."
+  },
+  {
+    "line": 164,
+    "text": "{character:Ciri}So... I think someone is capturing these red-crowned cranes and selling them."
+  },
+  {
+    "line": 165,
+    "text": "{character:player}Why are they selling red-crowned cranes? Will they be kept as pets?"
+  },
+  {
+    "line": 166,
+    "text": "{character:Ciri}You should know that the numbers of wild animals like the red-crowned crane are dropping every year due to the destruction of their habitat environment, which means they will be labeled as rare and endangered species and protected."
+  },
+  {
+    "line": 167,
+    "text": "{character:player}Well, the law punishes offenders severely in this regard, so it should end this kind of behavior."
+  },
+  {
+    "line": 168,
+    "text": "{character:Ciri}No, to the contrary, this action has made many people willing to pay a high price for them and even want to eat them."
+  },
+  {
+    "line": 169,
+    "text": "{character:Ciri}After all, only by doing this can they flaunt their wealth and status, as well as their ability and power."
+  },
+  {
+    "line": 170,
+    "text": "{character:Ciri}Buying and killing often go hand in hand. If someone is willing to pay money for it, someone will take the risk for the money."
+  },
+  {
+    "line": 171,
+    "text": "\"Caw... Caw...\" While we're talking, the red-crowned crane suddenly makes a weak cry. After examining it closely, Ciri frowns."
+  },
+  {
+    "line": 172,
+    "text": "{character:Ciri}Its injuries weren't that serious originally, so it should have gotten better over the last two days."
+  },
+  {
+    "line": 173,
+    "text": "{character:Ciri}It looks like it hasn't been recuperating well here."
+  },
+  {
+    "line": 174,
+    "text": "{character:player}Ciri, can you communicate with it like you usually do when training other animals?"
+  },
+  {
+    "line": 175,
+    "text": "{character:Ciri}Although I'm an animal tamer, I usually work with jungle animals like Mojito... To be honest, I'm not very good with birds and didn't really get along with them when I was in the forest in the past."
+  },
+  {
+    "line": 176,
+    "text": "{character:player}Huh?"
+  },
+  {
+    "line": 177,
+    "text": "{character:Ciri}...You don't have any urges to have friendly interactions with your food, right? Not to mention, there were no wetlands in the place where I used to live, so there were no creatures like red-crowned cranes at all."
+  },
+  {
+    "line": 178,
+    "text": "{character:player}Why don't we take it to a vet?"
+  },
+  {
+    "line": 179,
+    "text": "Ciri shakes her head in response and looks a little emotional."
+  },
+  {
+    "line": 180,
+    "text": "{character:Ciri}Given the condition of this red-crowned crane, it might have a stress response if it is sent to a vet."
+  },
+  {
+    "line": 181,
+    "text": "{character:Ciri}Also, I took it to a vet when I first took it in. Although it's a private clinic run by an acquaintance of mine, it is well-equipped and has good medical conditions. That's also where I take Mojito."
+  },
+  {
+    "line": 182,
+    "text": "{character:Ciri}I was planning to leave it there until it recovers from its injuries before I take it back to its habitat, but I didn't expect it to struggle so much after it saw the vet. We even had to anesthetize it to bandage the wound on its leg."
+  },
+  {
+    "line": 183,
+    "text": "{character:player}But it looks like it gets along well with you."
+  },
+  {
+    "line": 184,
+    "text": "{character:Ciri}The vet and I speculate that it doesn't consider me as a human being and is willing to accept my care because I have a strong animal scent, which is why I had to bring it back with me."
+  },
+  {
+    "line": 185,
+    "text": "{character:Ciri}Also, it's so afraid of humans that I naturally can't bring it back to Soul since there are so many people there. I discovered this courtyard when I was playing with Mojito not too long ago. People rarely come here, so it's a good place for it to recuperate... That's if it really is resting while it's here."
+  },
+  {
+    "line": 186,
+    "text": "{character:player}Should we take it to a wildlife rescue agency?"
+  },
+  {
+    "line": 187,
+    "text": "{character:Ciri}I'm afraid that won't work. It will take at least three to four hours to drive to a wildlife rescue agency, and there will also be traffic jams at this hour."
+  },
+  {
+    "line": 188,
+    "text": "{character:Ciri}It's no longer suitable for this red-crowned crane to travel long distances, and the bumps along the way will only aggravate its injuries."
+  },
+  {
+    "line": 189,
+    "text": "{character:player}Ciri, you're very knowledgeable about these things."
+  },
+  {
+    "line": 190,
+    "text": "{character:Ciri}It's quite often that wild animals need to be rescued, so I deal with rescue stations a lot."
+  },
+  {
+    "line": 191,
+    "text": "{character:Ciri}...One Han City is a modern metropolis, and the city is expanding outwards every year. Locations with habitats for these animals are all very far from urban areas."
+  },
+  {
+    "line": 192,
+    "text": "Just as I'm at a loss about what to do after hearing Ciri's words, a name suddenly appears in my mind: Qing Luan. No one in this city is more familiar with birds than Qing Luan who is from the spirit bird family."
+  },
+  {
+    "line": 193,
+    "text": "I turn on my mobile phone and confirm the route. Fortunately, Beryl Blue is not very far from our current location. I briefly explain the situation to Ciri and get her agreement, then we carefully bring the red-crowned crane to Beryl Blue where Qing Luan is."
+  },
+  {
+    "line": 194,
+    "text": "The moment we enter Beryl Blue, the red-crowned crane seems to feel a reassuring aura and struggles hard to poke its head out of Ciri's arms. It makes a hoarse cry at the back of the antique store like it is calling for help."
+  },
+  {
+    "line": 195,
+    "text": "Qing Luan frowns when she sees us after hearing the sound but doesn't say much. She just takes the red-crowned crane from Ciri and goes inside."
+  },
+  {
+    "line": 196,
+    "text": "We wanted to follow her, but Yellow Tea chirps non-stop as it dances up and down in front of us, making this strange breathing sound from time to time to stop us."
+  },
+  {
+    "line": 197,
+    "text": "I remember how ferocious Yellow Tea is when it pecks people, so I stop the anxious Ciri."
+  },
+  {
+    "line": 198,
+    "text": "{character:player}Ciri, let's trust Qing Luan."
+  },
+  {
+    "line": 199,
+    "text": "After waiting outside Beryl Blue for about 10 minutes, Qing Luan walks out."
+  },
+  {
+    "line": 200,
+    "text": "Qing Luan"
+  },
+  {
+    "line": 201,
+    "text": "{character:Qing Luan}You two can relax now as it'll be fine."
+  },
+  {
+    "line": 202,
+    "text": "{character:player}Thank you, Qing Luan."
+  },
+  {
+    "line": 203,
+    "text": "{character:Qing Luan}I should be thanking you and your friend instead. If it's okay, can you stay and have a cup of tea? It'll also give me the chance to ask you some questions."
+  },
+  {
+    "line": 204,
+    "text": "Ciri and I exchange a glance and nod before taking a seat at the table."
+  },
+  {
+    "line": 205,
+    "text": "Qing Luan skillfully starts to boil water to make tea, but the atmosphere suddenly becomes quiet because Ciri always acts coldly in front of strangers. The only sound that can be heard is the sound of water boiling in the kettle."
+  },
+  {
+    "line": 206,
+    "text": "I look at the two of them and sigh. I resign myself to my fate and tell Qing Luan a summary of the situation. She nods after I finish and tells us why the red-crowned crane isn't recovering well while handing us teacups."
+  },
+  {
+    "line": 207,
+    "text": "{character:Qing Luan}I asked that young one about what happened earlier, and the situation is roughly the same as Miss Ciri's speculation. This young one encountered poachers on her way back to its habitat."
+  },
+  {
+    "line": 208,
+    "text": "{character:Qing Luan}But..."
+  },
+  {
+    "line": 209,
+    "text": "{character:Qing Luan}...She wasn't alone at that time. There were two younger children with her."
+  },
+  {
+    "line": 210,
+    "text": "{character:Qing Luan}She broke free from the hunting net and escaped, but her two children weren't so lucky. After that, she followed the trail of this group all the way to One Han City, but was discovered before she could rescue the children and was seriously injured while she tried to get away from the poachers."
+  },
+  {
+    "line": 211,
+    "text": "{character:Qing Luan}The reason why Miss Ciri's treatment hasn't been effective these days is that she is so worried about her children that she can't rest in peace."
+  },
+  {
+    "line": 212,
+    "text": "{character:player}It looks like we'll need to find her two children... Does she know where they are?"
+  },
+  {
+    "line": 213,
+    "text": "Qing Luan shakes her head with a deep frown."
+  },
+  {
+    "line": 214,
+    "text": "{character:player}Then we can only call the police."
+  },
+  {
+    "line": 215,
+    "text": "With Ciri and Qing Luan's permission, I call the police. However, due to the lack of key evidence, the police must start by investigating suspicious gangs that have recently come to or left the city, so they told us to wait patiently for further news."
+  },
+  {
+    "line": 216,
+    "text": "{character:Ciri}Miss Qing Luan, can you take care of this red-crowned crane for now?"
+  },
+  {
+    "line": 217,
+    "text": "{character:Qing Luan}I was thinking of doing that even if you didn't ask me to."
+  },
+  {
+    "line": 218,
+    "text": "Ciri says goodbye to me after we leave Beryl Blue. When I see her still frowning, I realize that she might not intend to wait for further news from the police."
+  },
+  {
+    "line": 219,
+    "text": "{character:player}Ciri, you wouldn't be thinking of searching for the little red-crowned cranes yourself, right?"
+  },
+  {
+    "line": 220,
+    "text": "{character:Ciri}Well, looking at how serious the red-crowned crane's injuries are, I can imagine how cruel those people are. I'm worried that the longer we wait, the more danger the little red-crowned cranes will be in."
+  },
+  {
+    "line": 221,
+    "text": "{character:player}Maybe you should ask some friends to help you. It'll be really hard to find them by yourself in a city as large as One Han City."
+  },
+  {
+    "line": 222,
+    "text": "{character:Ciri}The only friends I have here are all members of Soul. I'm afraid I won't be able to find anyone to help me."
+  },
+  {
+    "line": 223,
+    "text": "{character:player}You should think carefully again."
+  },
+  {
+    "line": 224,
+    "text": "{character:Ciri}Think about what?"
+  },
+  {
+    "line": 225,
+    "text": "{character:player}A friend who can help you at any time is standing right here in front of you!"
+  },
+  {
+    "line": 226,
+    "text": "{character:player}Is it possible that you don't consider me to be your friend? I'll feel really sad if that's true."
+  },
+  {
+    "line": 227,
+    "text": "{character:Ciri}No... I already feel really bad for getting you involved in my fight with Raven today."
+  },
+  {
+    "line": 228,
+    "text": "{character:Ciri}It's only going to be more dangerous than that... You're my friend, so I don't want to get you involved in something this dangerous."
+  },
+  {
+    "line": 229,
+    "text": "{character:player}But I'm already involved since I know so much about it. I might do something about it by myself even if you aren't with me."
+  },
+  {
+    "line": 230,
+    "text": "{character:player}I'll take your silence as acceptance."
+  },
+  {
+    "line": 231,
+    "text": "{character:Ciri}Fine then, but you must promise me that you'll run away as quickly as you can if we really get into a fight with these criminals."
+  },
+  {
+    "line": 232,
+    "text": "{character:player}Don't worry, I cherish my life very much."
+  },
+  {
+    "line": 233,
+    "text": "{character:player}But why won't you consider asking the people of Soul for help? They should all be willing to help you."
+  },
+  {
+    "line": 234,
+    "text": "{character:Ciri}You know what the people of Soul are like. They are in trouble too, and it's already very good if they can manage the troupe well."
+  },
+  {
+    "line": 235,
+    "text": "{character:Ciri}Besides, I'm the one who wants to save wild animals. This burden shouldn't be borne by other members of Soul."
+  },
+  {
+    "line": 236,
+    "text": "I think back and remember how I helped the old man with heatstroke inspect tickets, helped the understaffed support staff with gaffer work, helped them build the stage, and helped them clean props... Okay, I admit that Ciri is right. Soul already has a lot of problems, and it probably can't provide much manpower or resources to help us find the little red-crowned cranes."
+  },
+  {
+    "line": 237,
+    "text": "{character:Ciri}But... even though we can't find other helpers, it's not like we don't have any clues. Kurone Toujou might know something."
+  },
+  {
+    "line": 238,
+    "text": "My ears perk up the moment I hear Kurone Toujou's name. Isn't that the member of the Four Greats who is at Countless Springs?"
+  },
+  {
+    "line": 239,
+    "text": "{character:player}Why would she have any clues?"
+  },
+  {
+    "line": 240,
+    "text": "{character:player}You keep falling silent today. Is it something that you can't tell me?"
+  },
+  {
+    "line": 241,
+    "text": "{character:Ciri}No, I'm thinking about the best way to tell you. After all, a lot of rumors have been flying around in the troupe recently, and I'm worried that you'll get the wrong idea."
+  },
+  {
+    "line": 242,
+    "text": "{character:player}Do I look like someone who is so easily influenced by others?!"
+  },
+  {
+    "line": 243,
+    "text": "{character:player}Don't be silent at such a crucial time!"
+  },
+  {
+    "line": 244,
+    "text": "{character:Ciri}Well... Actually, Kurone Toujou was the one who found this red-crowned crane and handed it to me. She said she has no experience in taking care of such animals and that Countless Springs is not a good place for keeping this kind of wild animal. She hoped that I could take care of it and take it back to its habitat after it recovers."
+  },
+  {
+    "line": 245,
+    "text": "{character:Ciri}Since I've always been rescuing wild animals, I naturally didn't turn her down."
+  },
+  {
+    "line": 246,
+    "text": "{character:player}Is this why you've been going to Countless Springs recently?"
+  },
+  {
+    "line": 247,
+    "text": "{character:Ciri}Huh? Even you know about that? It looks like the rumors spreading through the troupe are quite powerful."
+  },
+  {
+    "line": 248,
+    "text": "{character:player}Why don't you consider explaining what's happened to everyone?"
+  },
+  {
+    "line": 249,
+    "text": "{character:Ciri}What should I say? Should I bring the red-crowned crane, which gets nervous when it sees people, to them so they can crowd around it and stare at it, or should I bring them to Kurone Toujou to explain things to them?"
+  },
+  {
+    "line": 250,
+    "text": "{character:Ciri}I don't even have enough evidence to help us find the little red-crowned cranes, let alone dispel the rumors."
+  },
+  {
+    "line": 251,
+    "text": "{character:Ciri}Also, I don't care what they say as long as I have a clear conscience."
+  },
+  {
+    "line": 252,
+    "text": "When I see Ciri's resolute attitude, I feel that it'll be difficult for me to convince her in a short period of time. In that case, I might as well help her solve the problem of the red-crowned crane first. As she said, once the matter is settled, we'll have enough evidence to prove her innocence."
+  },
+  {
+    "line": 253,
+    "text": "{character:player}What should we do next then? Do you have any good ideas?"
+  },
+  {
+    "line": 254,
+    "text": "{character:Ciri}Actually, I already went to see Kurone Toujou in the morning today because I had a feeling this incident isn't that simple and wanted to ask her about the situation when she found this injured red-crowned crane."
+  },
+  {
+    "line": 255,
+    "text": "{character:player}What happened?"
+  },
+  {
+    "line": 256,
+    "text": "{character:Ciri}It's a pity that she wasn't there. The staff said she had gone out and wouldn't return until tomorrow."
+  },
+  {
+    "line": 257,
+    "text": "{character:player}Then we'll need to wait until tomorrow morning and ask her about the situation before we can plan what to do next."
+  },
+  {
+    "line": 258,
+    "text": "{character:Ciri}It looks like that's all we can do for now. It won't do us any good to run around aimlessly like headless chickens."
+  },
+  {
+    "line": 259,
+    "text": "Suddenly, Ciri's mobile phone starts ringing. She takes a look at the screen and then sighs deeply."
+  },
+  {
+    "line": 260,
+    "text": "{character:player}Let me guess. Was that Sara?"
+  },
+  {
+    "line": 261,
+    "text": "{character:Ciri}You two are quite in sync. Neither of us went to today's performance, and we haven't even started thinking about informing them yet... By the way, why haven't you received a call yet?"
+  },
+  {
+    "line": 262,
+    "text": "{character:player}Oh? That's right."
+  },
+  {
+    "line": 263,
+    "text": "After Ciri reminds me, I quickly take out my phone... It's out of power again. Now that I think about it, I only hurriedly charged it for a few minutes in the morning, so it's normal for it to be out of power now."
+  },
+  {
+    "line": 264,
+    "text": "{character:Ciri}Haha! Seriously, {var:player_nickname}, you're kind of cute sometimes. Anyway, let's stop here today and prepare to go home so we can think about how we'll explain ourselves to our \"parent.\""
+  },
+  {
+    "line": 265,
+    "text": "Ciri and I go our separate ways to return home. It is completely dark by the time I get home. After plugging in my phone and turning it on again, I receive countless text messages from Ryan, and almost all of them convey his concerns about my failure to go to the performance today."
+  },
+  {
+    "line": 266,
+    "text": "I send him a text message to roughly explain what happened today and focus on Ciri's views on the attitude of the other members of the troupe."
+  },
+  {
+    "line": 267,
+    "text": "Ryan"
+  },
+  {
+    "line": 268,
+    "text": "{character:Ryan}(Text Message) Onee-sama, you don't need to worry about that. I'll take care of things in the troupe. You should have a good rest now."
+  },
+  {
+    "line": 269,
+    "text": "{character:Ryan}(Text Message) Promise me that you'll have a good sleep tonight. I'll check up on you in your dreams!"
+  },
+  {
+    "line": 270,
+    "text": "Although he didn't say what he would do about it, when I recall that Ryan has shown me how capable he is and that he has Sara's powerful support, I feel like I can relax for now."
+  },
+  {
+    "line": 271,
+    "text": "At this moment, I just hope that this matter concerning the red-crowned cranes can be resolved smoothly and that the misunderstanding between Ciri and the other members of Soul can be resolved as soon as possible."
+  },
+  {
+    "line": 272,
+    "text": "Help her"
+  },
+  {
+    "line": 274,
+    "text": "Don't help her"
+  },
+  {
+    "line": 275,
+    "text": "Stop Ciri and persuade Shijukara."
+  },
+  {
+    "line": 276,
+    "text": "Get Ciri to \"educate\" Shijukara"
+  },
+  {
+    "line": 277,
+    "text": "Pick up the food next to you and try to get close to the red-crowned crane."
+  },
+  {
+    "line": 278,
+    "text": "Stand where you are and wait for Ciri to finish feeding the red-crowned crane."
+  },
+  {
+    "line": 279,
+    "text": "Suggest that Ciri take the red-crowned crane to a nearby vet."
+  },
+  {
+    "line": 280,
+    "text": "Suggest that Ciri take the red-crowned crane to a wildlife rescue agency."
+  },
+  {
+    "line": 281,
+    "text": "Five minutes later"
+  },
+  {
+    "line": 282,
+    "text": "Three minute later"
+  },
+  {
+    "line": 283,
+    "text": "One minute later"
+  },
+  {
+    "line": 284,
+    "text": ""
+  }
+]

@@ -1,0 +1,1446 @@
+{
+  "newmap": false,
+  "version": "0.1",
+  "Spots": [
+    {
+      "spotid": 0,
+      "rewardid": 0,
+      "SceneMap": [
+        {
+          "sceneId": 10000,
+          "background": 0,
+          "effect": 0,
+          "_background": "xiaoyuan_yewan.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [],
+          "haveChat": true,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 3,
+            "charid": 0,
+            "skinid": 408701,
+            "content_id": 53,
+            "charname_id": 0,
+            "speed": 10,
+            "npc_pic": "",
+            "fontStyle": {
+              "size": 38,
+              "color": 3,
+              "style": 0
+            }
+          },
+          "subtitle": {
+            "content_id": 0,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "bgm_id": 306106,
+          "sound_id": 0,
+          "se_id": 0,
+          "se_delay": 0,
+          "jump_id": 0,
+          "reward_id": 0,
+          "isEnd": false,
+          "conditions": [],
+          "effectConfig": {
+            "materialName": "",
+            "particles": [],
+            "type": 0,
+            "fadeIn": 0.0,
+            "fadeOut": 0.0,
+            "properties": []
+          }
+        },
+        {
+          "sceneId": 10001,
+          "background": 0,
+          "effect": 0,
+          "_background": "xiaoyuan_yewan.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [
+            {
+              "char_name": "小鸟游星野",
+              "char_name_id": 0,
+              "character_id": "200087",
+              "skin_id": "408701",
+              "emo_id": 0,
+              "anim_first": 5,
+              "anim_last": 0,
+              "is_roll": true,
+              "pos": 1,
+              "cur_pos": 0
+            },
+            {
+              "char_name": "砂狼白子",
+              "char_name_id": 0,
+              "character_id": "200086",
+              "skin_id": "408601",
+              "emo_id": 0,
+              "anim_first": 5,
+              "anim_last": 0,
+              "is_roll": false,
+              "pos": 2,
+              "cur_pos": 0
+            }
+          ],
+          "haveChat": true,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 2,
+            "charid": 200086,
+            "skinid": 408701,
+            "content_id": 55,
+            "charname_id": 54,
+            "speed": 10,
+            "npc_pic": "",
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "subtitle": {
+            "content_id": 0,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "bgm_id": 306106,
+          "sound_id": 0,
+          "se_id": 0,
+          "se_delay": 0,
+          "jump_id": 0,
+          "reward_id": 0,
+          "isEnd": false,
+          "conditions": [],
+          "effectConfig": {
+            "materialName": "",
+            "particles": [],
+            "type": 0,
+            "fadeIn": 0.0,
+            "fadeOut": 0.0,
+            "properties": []
+          }
+        },
+        {
+          "sceneId": 10002,
+          "background": 0,
+          "effect": 0,
+          "_background": "xiaoyuan_yewan.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [
+            {
+              "char_name": "小鸟游星野",
+              "char_name_id": 0,
+              "character_id": "200087",
+              "skin_id": "408701",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": true,
+              "pos": 1,
+              "cur_pos": 0
+            },
+            {
+              "char_name": "砂狼白子",
+              "char_name_id": 0,
+              "character_id": "200086",
+              "skin_id": "408601",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": false,
+              "pos": 2,
+              "cur_pos": 0
+            }
+          ],
+          "haveChat": true,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 2,
+            "charid": 200087,
+            "skinid": 0,
+            "content_id": 57,
+            "charname_id": 56,
+            "speed": 10,
+            "npc_pic": "",
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "subtitle": {
+            "content_id": 0,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "bgm_id": 306106,
+          "sound_id": 0,
+          "se_id": 0,
+          "se_delay": 0,
+          "jump_id": 0,
+          "reward_id": 0,
+          "isEnd": false,
+          "conditions": [],
+          "effectConfig": {
+            "materialName": "",
+            "particles": [],
+            "type": 0,
+            "fadeIn": 0.0,
+            "fadeOut": 0.0,
+            "properties": []
+          }
+        },
+        {
+          "sceneId": 10003,
+          "background": 0,
+          "effect": 0,
+          "_background": "xiaoyuan_yewan.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [
+            {
+              "char_name": "小鸟游星野",
+              "char_name_id": 0,
+              "character_id": "200087",
+              "skin_id": "408701",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": true,
+              "pos": 1,
+              "cur_pos": 0
+            },
+            {
+              "char_name": "砂狼白子",
+              "char_name_id": 0,
+              "character_id": "200086",
+              "skin_id": "408601",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": false,
+              "pos": 2,
+              "cur_pos": 0
+            }
+          ],
+          "haveChat": true,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 2,
+            "charid": 200086,
+            "skinid": 0,
+            "content_id": 58,
+            "charname_id": 54,
+            "speed": 10,
+            "npc_pic": "",
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "subtitle": {
+            "content_id": 0,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "bgm_id": 306106,
+          "sound_id": 0,
+          "se_id": 0,
+          "se_delay": 0,
+          "jump_id": 0,
+          "reward_id": 0,
+          "isEnd": false,
+          "conditions": [],
+          "effectConfig": {
+            "materialName": "",
+            "particles": [],
+            "type": 0,
+            "fadeIn": 0.0,
+            "fadeOut": 0.0,
+            "properties": []
+          }
+        },
+        {
+          "sceneId": 10004,
+          "background": 0,
+          "effect": 0,
+          "_background": "xiaoyuan_yewan.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [
+            {
+              "char_name": "小鸟游星野",
+              "char_name_id": 0,
+              "character_id": "200087",
+              "skin_id": "408701",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": true,
+              "pos": 1,
+              "cur_pos": 0
+            },
+            {
+              "char_name": "砂狼白子",
+              "char_name_id": 0,
+              "character_id": "200086",
+              "skin_id": "408601",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": false,
+              "pos": 2,
+              "cur_pos": 0
+            }
+          ],
+          "haveChat": true,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 2,
+            "charid": 200087,
+            "skinid": 0,
+            "content_id": 59,
+            "charname_id": 56,
+            "speed": 10,
+            "npc_pic": "",
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "subtitle": {
+            "content_id": 0,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "bgm_id": 306106,
+          "sound_id": 0,
+          "se_id": 0,
+          "se_delay": 0,
+          "jump_id": 0,
+          "reward_id": 0,
+          "isEnd": false,
+          "conditions": [],
+          "effectConfig": {
+            "materialName": "",
+            "particles": [],
+            "type": 0,
+            "fadeIn": 0.0,
+            "fadeOut": 0.0,
+            "properties": []
+          }
+        },
+        {
+          "sceneId": 10005,
+          "background": 0,
+          "effect": 0,
+          "_background": "xiaoyuan_yewan.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [
+            {
+              "char_name": "小鸟游星野",
+              "char_name_id": 0,
+              "character_id": "200087",
+              "skin_id": "408701",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": true,
+              "pos": 1,
+              "cur_pos": 0
+            },
+            {
+              "char_name": "砂狼白子",
+              "char_name_id": 0,
+              "character_id": "200086",
+              "skin_id": "408601",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": false,
+              "pos": 2,
+              "cur_pos": 0
+            }
+          ],
+          "haveChat": true,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 2,
+            "charid": 200086,
+            "skinid": 0,
+            "content_id": 60,
+            "charname_id": 54,
+            "speed": 10,
+            "npc_pic": "",
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "subtitle": {
+            "content_id": 0,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "bgm_id": 306106,
+          "sound_id": 0,
+          "se_id": 0,
+          "se_delay": 0,
+          "jump_id": 0,
+          "reward_id": 0,
+          "isEnd": false,
+          "conditions": [],
+          "effectConfig": {
+            "materialName": "",
+            "particles": [],
+            "type": 0,
+            "fadeIn": 0.0,
+            "fadeOut": 0.0,
+            "properties": []
+          }
+        },
+        {
+          "sceneId": 10006,
+          "background": 0,
+          "effect": 0,
+          "_background": "xiaoyuan_yewan.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [
+            {
+              "char_name": "小鸟游星野",
+              "char_name_id": 0,
+              "character_id": "200087",
+              "skin_id": "408701",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": true,
+              "pos": 1,
+              "cur_pos": 0
+            },
+            {
+              "char_name": "砂狼白子",
+              "char_name_id": 0,
+              "character_id": "200086",
+              "skin_id": "408601",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": false,
+              "pos": 2,
+              "cur_pos": 0
+            }
+          ],
+          "haveChat": true,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 2,
+            "charid": 200087,
+            "skinid": 0,
+            "content_id": 61,
+            "charname_id": 56,
+            "speed": 10,
+            "npc_pic": "",
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "subtitle": {
+            "content_id": 0,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "bgm_id": 306106,
+          "sound_id": 0,
+          "se_id": 0,
+          "se_delay": 0,
+          "jump_id": 0,
+          "reward_id": 0,
+          "isEnd": false,
+          "conditions": [],
+          "effectConfig": {
+            "materialName": "",
+            "particles": [],
+            "type": 0,
+            "fadeIn": 0.0,
+            "fadeOut": 0.0,
+            "properties": []
+          }
+        },
+        {
+          "sceneId": 10007,
+          "background": 0,
+          "effect": 0,
+          "_background": "xiaoyuan_yewan.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [
+            {
+              "char_name": "小鸟游星野",
+              "char_name_id": 0,
+              "character_id": "200087",
+              "skin_id": "408701",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 5,
+              "is_roll": true,
+              "pos": 1,
+              "cur_pos": 0
+            },
+            {
+              "char_name": "砂狼白子",
+              "char_name_id": 0,
+              "character_id": "200086",
+              "skin_id": "408601",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 5,
+              "is_roll": false,
+              "pos": 2,
+              "cur_pos": 0
+            }
+          ],
+          "haveChat": true,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 2,
+            "charid": 200086,
+            "skinid": 0,
+            "content_id": 62,
+            "charname_id": 54,
+            "speed": 10,
+            "npc_pic": "",
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "subtitle": {
+            "content_id": 0,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "bgm_id": 306106,
+          "sound_id": 0,
+          "se_id": 0,
+          "se_delay": 0,
+          "jump_id": 0,
+          "reward_id": 0,
+          "isEnd": false,
+          "conditions": [],
+          "effectConfig": {
+            "materialName": "",
+            "particles": [],
+            "type": 0,
+            "fadeIn": 0.0,
+            "fadeOut": 0.0,
+            "properties": []
+          }
+        },
+        {
+          "sceneId": 10008,
+          "background": 0,
+          "effect": 0,
+          "_background": "blackbg.jpg",
+          "transinfo_id": 12,
+          "options": [],
+          "characters": [],
+          "haveChat": false,
+          "haveChoose": false,
+          "haveTrans": true,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 0,
+            "charid": 0,
+            "skinid": 0,
+            "content_id": 0,
+            "charname_id": 0,
+            "speed": 10,
+            "npc_pic": "",
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "subtitle": {
+            "content_id": 63,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "bgm_id": 0,
+          "sound_id": 0,
+          "se_id": 0,
+          "se_delay": 0,
+          "jump_id": 0,
+          "reward_id": 0,
+          "isEnd": false,
+          "conditions": [],
+          "effectConfig": {
+            "materialName": "",
+            "particles": [],
+            "type": 0,
+            "fadeIn": 0.0,
+            "fadeOut": 0.0,
+            "properties": []
+          }
+        },
+        {
+          "sceneId": 10010,
+          "background": 0,
+          "effect": 0,
+          "_background": "blackbg.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [],
+          "haveChat": false,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 0,
+            "charid": 0,
+            "skinid": 0,
+            "content_id": 0,
+            "charname_id": 0,
+            "speed": 10,
+            "npc_pic": "",
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "subtitle": {
+            "content_id": 64,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "bgm_id": 0,
+          "sound_id": 0,
+          "se_id": 0,
+          "se_delay": 0,
+          "jump_id": 0,
+          "reward_id": 0,
+          "isEnd": false,
+          "conditions": [],
+          "effectConfig": {
+            "materialName": "",
+            "particles": [],
+            "type": 0,
+            "fadeIn": 0.0,
+            "fadeOut": 0.0,
+            "properties": []
+          }
+        },
+        {
+          "sceneId": 10011,
+          "background": 0,
+          "effect": 0,
+          "_background": "blackbg.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [],
+          "haveChat": false,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 0,
+            "charid": 0,
+            "skinid": 0,
+            "content_id": 0,
+            "charname_id": 0,
+            "speed": 10,
+            "npc_pic": "",
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "subtitle": {
+            "content_id": 65,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "bgm_id": 0,
+          "sound_id": 0,
+          "se_id": 0,
+          "se_delay": 0,
+          "jump_id": 0,
+          "reward_id": 0,
+          "isEnd": false,
+          "conditions": [],
+          "effectConfig": {
+            "materialName": "",
+            "particles": [],
+            "type": 0,
+            "fadeIn": 0.0,
+            "fadeOut": 0.0,
+            "properties": []
+          }
+        },
+        {
+          "sceneId": 10012,
+          "background": 0,
+          "effect": 0,
+          "_background": "blackbg.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [],
+          "haveChat": false,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 0,
+            "charid": 0,
+            "skinid": 0,
+            "content_id": 0,
+            "charname_id": 0,
+            "speed": 10,
+            "npc_pic": "",
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "subtitle": {
+            "content_id": 66,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "bgm_id": 0,
+          "sound_id": 0,
+          "se_id": 0,
+          "se_delay": 0,
+          "jump_id": 0,
+          "reward_id": 0,
+          "isEnd": false,
+          "conditions": [],
+          "effectConfig": {
+            "materialName": "",
+            "particles": [],
+            "type": 0,
+            "fadeIn": 0.0,
+            "fadeOut": 0.0,
+            "properties": []
+          }
+        },
+        {
+          "sceneId": 10013,
+          "background": 0,
+          "effect": 0,
+          "_background": "xiaoyuan_baitian.jpg",
+          "transinfo_id": 12,
+          "options": [],
+          "characters": [
+            {
+              "char_name": "小鸟游星野",
+              "char_name_id": 0,
+              "character_id": "200087",
+              "skin_id": "408701",
+              "emo_id": 0,
+              "anim_first": 5,
+              "anim_last": 0,
+              "is_roll": true,
+              "pos": 1,
+              "cur_pos": 0
+            },
+            {
+              "char_name": "砂狼白子",
+              "char_name_id": 0,
+              "character_id": "200086",
+              "skin_id": "408601",
+              "emo_id": 0,
+              "anim_first": 5,
+              "anim_last": 0,
+              "is_roll": false,
+              "pos": 2,
+              "cur_pos": 0
+            }
+          ],
+          "haveChat": true,
+          "haveChoose": false,
+          "haveTrans": true,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 3,
+            "charid": 0,
+            "skinid": 0,
+            "content_id": 67,
+            "charname_id": 0,
+            "speed": 10,
+            "npc_pic": "",
+            "fontStyle": {
+              "size": 38,
+              "color": 3,
+              "style": 0
+            }
+          },
+          "subtitle": {
+            "content_id": 0,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "bgm_id": 6002,
+          "sound_id": 0,
+          "se_id": 0,
+          "se_delay": 0,
+          "jump_id": 0,
+          "reward_id": 0,
+          "isEnd": false,
+          "conditions": [],
+          "effectConfig": {
+            "materialName": "",
+            "particles": [],
+            "type": 0,
+            "fadeIn": 0.0,
+            "fadeOut": 0.0,
+            "properties": []
+          }
+        },
+        {
+          "sceneId": 10015,
+          "background": 0,
+          "effect": 0,
+          "_background": "xiaoyuan_baitian.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [
+            {
+              "char_name": "小鸟游星野",
+              "char_name_id": 0,
+              "character_id": "200087",
+              "skin_id": "408701",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": true,
+              "pos": 1,
+              "cur_pos": 0
+            },
+            {
+              "char_name": "砂狼白子",
+              "char_name_id": 0,
+              "character_id": "200086",
+              "skin_id": "408601",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": false,
+              "pos": 2,
+              "cur_pos": 0
+            }
+          ],
+          "haveChat": true,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 2,
+            "charid": 200087,
+            "skinid": 0,
+            "content_id": 68,
+            "charname_id": 56,
+            "speed": 10,
+            "npc_pic": "",
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "subtitle": {
+            "content_id": 0,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "bgm_id": 6002,
+          "sound_id": 0,
+          "se_id": 0,
+          "se_delay": 0,
+          "jump_id": 0,
+          "reward_id": 0,
+          "isEnd": false,
+          "conditions": [],
+          "effectConfig": {
+            "materialName": "",
+            "particles": [],
+            "type": 0,
+            "fadeIn": 0.0,
+            "fadeOut": 0.0,
+            "properties": []
+          }
+        },
+        {
+          "sceneId": 10016,
+          "background": 0,
+          "effect": 0,
+          "_background": "xiaoyuan_baitian.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [
+            {
+              "char_name": "小鸟游星野",
+              "char_name_id": 0,
+              "character_id": "200087",
+              "skin_id": "408701",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": true,
+              "pos": 1,
+              "cur_pos": 0
+            },
+            {
+              "char_name": "砂狼白子",
+              "char_name_id": 0,
+              "character_id": "200086",
+              "skin_id": "408601",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": false,
+              "pos": 2,
+              "cur_pos": 0
+            }
+          ],
+          "haveChat": true,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 2,
+            "charid": 200086,
+            "skinid": 0,
+            "content_id": 69,
+            "charname_id": 54,
+            "speed": 10,
+            "npc_pic": "",
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "subtitle": {
+            "content_id": 0,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "bgm_id": 6002,
+          "sound_id": 0,
+          "se_id": 0,
+          "se_delay": 0,
+          "jump_id": 0,
+          "reward_id": 0,
+          "isEnd": false,
+          "conditions": [],
+          "effectConfig": {
+            "materialName": "",
+            "particles": [],
+            "type": 0,
+            "fadeIn": 0.0,
+            "fadeOut": 0.0,
+            "properties": []
+          }
+        },
+        {
+          "sceneId": 10017,
+          "background": 0,
+          "effect": 0,
+          "_background": "xiaoyuan_baitian.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [
+            {
+              "char_name": "小鸟游星野",
+              "char_name_id": 0,
+              "character_id": "200087",
+              "skin_id": "408701",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": true,
+              "pos": 1,
+              "cur_pos": 0
+            },
+            {
+              "char_name": "砂狼白子",
+              "char_name_id": 0,
+              "character_id": "200086",
+              "skin_id": "408601",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": false,
+              "pos": 2,
+              "cur_pos": 0
+            }
+          ],
+          "haveChat": true,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 2,
+            "charid": 200087,
+            "skinid": 0,
+            "content_id": 70,
+            "charname_id": 56,
+            "speed": 10,
+            "npc_pic": "",
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "subtitle": {
+            "content_id": 0,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "bgm_id": 6002,
+          "sound_id": 0,
+          "se_id": 0,
+          "se_delay": 0,
+          "jump_id": 0,
+          "reward_id": 0,
+          "isEnd": false,
+          "conditions": [],
+          "effectConfig": {
+            "materialName": "",
+            "particles": [],
+            "type": 0,
+            "fadeIn": 0.0,
+            "fadeOut": 0.0,
+            "properties": []
+          }
+        },
+        {
+          "sceneId": 10018,
+          "background": 0,
+          "effect": 0,
+          "_background": "xiaoyuan_baitian.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [
+            {
+              "char_name": "小鸟游星野",
+              "char_name_id": 0,
+              "character_id": "200087",
+              "skin_id": "408701",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": true,
+              "pos": 1,
+              "cur_pos": 0
+            },
+            {
+              "char_name": "砂狼白子",
+              "char_name_id": 0,
+              "character_id": "200086",
+              "skin_id": "408601",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": false,
+              "pos": 2,
+              "cur_pos": 0
+            }
+          ],
+          "haveChat": true,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 2,
+            "charid": 200086,
+            "skinid": 0,
+            "content_id": 71,
+            "charname_id": 54,
+            "speed": 10,
+            "npc_pic": "",
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "subtitle": {
+            "content_id": 0,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "bgm_id": 6002,
+          "sound_id": 0,
+          "se_id": 0,
+          "se_delay": 0,
+          "jump_id": 0,
+          "reward_id": 0,
+          "isEnd": false,
+          "conditions": [],
+          "effectConfig": {
+            "materialName": "",
+            "particles": [],
+            "type": 0,
+            "fadeIn": 0.0,
+            "fadeOut": 0.0,
+            "properties": []
+          }
+        },
+        {
+          "sceneId": 10019,
+          "background": 0,
+          "effect": 0,
+          "_background": "xiaoyuan_baitian.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [
+            {
+              "char_name": "小鸟游星野",
+              "char_name_id": 0,
+              "character_id": "200087",
+              "skin_id": "408701",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": true,
+              "pos": 1,
+              "cur_pos": 0
+            },
+            {
+              "char_name": "砂狼白子",
+              "char_name_id": 0,
+              "character_id": "200086",
+              "skin_id": "408601",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": false,
+              "pos": 2,
+              "cur_pos": 0
+            }
+          ],
+          "haveChat": true,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 2,
+            "charid": 200087,
+            "skinid": 0,
+            "content_id": 72,
+            "charname_id": 56,
+            "speed": 10,
+            "npc_pic": "",
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "subtitle": {
+            "content_id": 0,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "bgm_id": 6002,
+          "sound_id": 0,
+          "se_id": 0,
+          "se_delay": 0,
+          "jump_id": 0,
+          "reward_id": 0,
+          "isEnd": false,
+          "conditions": [],
+          "effectConfig": {
+            "materialName": "",
+            "particles": [],
+            "type": 0,
+            "fadeIn": 0.0,
+            "fadeOut": 0.0,
+            "properties": []
+          }
+        },
+        {
+          "sceneId": 10020,
+          "background": 0,
+          "effect": 0,
+          "_background": "xiaoyuan_baitian.jpg",
+          "transinfo_id": 0,
+          "options": [],
+          "characters": [
+            {
+              "char_name": "小鸟游星野",
+              "char_name_id": 0,
+              "character_id": "200087",
+              "skin_id": "408701",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": true,
+              "pos": 1,
+              "cur_pos": 0
+            },
+            {
+              "char_name": "砂狼白子",
+              "char_name_id": 0,
+              "character_id": "200086",
+              "skin_id": "408601",
+              "emo_id": 0,
+              "anim_first": 0,
+              "anim_last": 0,
+              "is_roll": false,
+              "pos": 2,
+              "cur_pos": 0
+            }
+          ],
+          "haveChat": true,
+          "haveChoose": false,
+          "haveTrans": false,
+          "chatBlock": {
+            "chatid": 0,
+            "chatType": 3,
+            "charid": 0,
+            "skinid": 400101,
+            "content_id": 73,
+            "charname_id": 0,
+            "speed": 10,
+            "npc_pic": "",
+            "fontStyle": {
+              "size": 38,
+              "color": 3,
+              "style": 0
+            }
+          },
+          "subtitle": {
+            "content_id": 0,
+            "speed": 10,
+            "fontStyle": {
+              "size": 38,
+              "color": 0,
+              "style": 0
+            }
+          },
+          "imgpath": "",
+          "img_charid": 0,
+          "img_char_name_id": 0,
+          "img_skin_id": 0,
+          "img_time": 0,
+          "bgm_id": 6002,
+          "sound_id": 0,
+          "se_id": 0,
+          "se_delay": 0,
+          "jump_id": 0,
+          "reward_id": 0,
+          "isEnd": true,
+          "conditions": [],
+          "effectConfig": {
+            "materialName": "",
+            "particles": [],
+            "type": 0,
+            "fadeIn": 0.0,
+            "fadeOut": 0.0,
+            "properties": []
+          }
+        }
+      ],
+      "endspotid": 0
+    }
+  ]
+}

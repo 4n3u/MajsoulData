@@ -1,0 +1,363 @@
+syntax = "proto3";
+
+package lq;
+
+import "com_struct.proto";
+
+message NotifyAccountChallengeTaskUpdate {
+  repeated .lq.TaskProgress progresses = 1;
+  uint32 level = 2;
+  uint32 refresh_count = 3;
+  uint32 match_count = 4;
+  uint32 ticket_id = 5;
+  repeated uint32 rewarded_season = 6;
+}
+
+message NotifyAccountLogout {
+}
+
+message NotifyAccountRandomTaskUpdate {
+  repeated .lq.TaskProgress progresses = 1;
+}
+
+message NotifyAccountUpdate {
+  .lq.AccountUpdate update = 1;
+}
+
+message NotifyActivityChange {
+  repeated .lq.Activity new_activities = 1;
+  repeated uint32 end_activities = 2;
+}
+
+message NotifyActivityPeriodTaskUpdate {
+  repeated .lq.TaskProgress progresses = 1;
+}
+
+message NotifyActivityPointV2 {
+
+  message ActivityPoint {
+    uint32 activity_id = 1;
+    uint32 point = 2;
+  }
+
+  repeated .lq.NotifyActivityPointV2.ActivityPoint activity_points = 1;
+}
+
+message NotifyActivityRewardV2 {
+
+  message ActivityReward {
+    uint32 activity_id = 1;
+    repeated .lq.RewardSlot rewards = 2;
+  }
+
+  repeated .lq.NotifyActivityRewardV2.ActivityReward activity_reward = 1;
+}
+
+message NotifyActivitySegmentTaskUpdate {
+  repeated .lq.SegmentTaskProgress progresses = 1;
+}
+
+message NotifyActivityTaskUpdate {
+  repeated .lq.TaskProgress progresses = 1;
+}
+
+message NotifyActivityUpdate {
+
+  message FeedActivityData {
+
+    message CountWithTimeData {
+      uint32 count = 1;
+      uint32 last_update_time = 2;
+    }
+
+    message GiftBoxData {
+      uint32 id = 1;
+      uint32 item_id = 2;
+      uint32 count = 3;
+      uint32 from_account_id = 4;
+      uint32 time = 5;
+      uint32 received = 6;
+    }
+
+    uint32 activity_id = 1;
+    uint32 feed_count = 2;
+    .lq.NotifyActivityUpdate.FeedActivityData.CountWithTimeData friend_receive_data = 3;
+    .lq.NotifyActivityUpdate.FeedActivityData.CountWithTimeData friend_send_data = 4;
+    repeated .lq.NotifyActivityUpdate.FeedActivityData.GiftBoxData gift_inbox = 5;
+  }
+
+  repeated .lq.NotifyActivityUpdate.FeedActivityData list = 1;
+}
+
+message NotifyAFKResult {
+  uint32 type = 1;
+  uint32 ban_end_time = 2;
+  string game_uuid = 3;
+}
+
+message NotifyAnnouncementUpdate {
+
+  message AnnouncementUpdate {
+    string lang = 1;
+    string platform = 2;
+  }
+
+  repeated .lq.NotifyAnnouncementUpdate.AnnouncementUpdate update_list = 1;
+}
+
+message NotifyAnotherLogin {
+}
+
+message NotifyClientMessage {
+  .lq.PlayerBaseView sender = 1;
+  uint32 type = 2;
+  string content = 3;
+}
+
+message NotifyConnectionShutdown {
+  uint32 reason = 1;
+  uint32 close_at = 2;
+}
+
+message NotifyCustomContestAccountMsg {
+  uint32 unique_id = 1;
+  uint32 account_id = 2;
+  string sender = 3;
+  string content = 4;
+  uint32 verified = 5;
+}
+
+message NotifyCustomContestState {
+  uint32 unique_id = 1;
+  uint32 state = 2;
+}
+
+message NotifyCustomContestSystemMsg {
+  uint32 unique_id = 1;
+  uint32 type = 2;
+  string uuid = 3;
+  .lq.CustomizedContestGameStart game_start = 4;
+  .lq.CustomizedContestGameEnd game_end = 5;
+}
+
+message NotifyCustomizedContestPlanCancel {
+  uint32 unique_id = 1;
+  string uuid = 2;
+}
+
+message NotifyCustomizedContestPlanReady {
+  .lq.CustomizedContestGamePlan game_plan = 1;
+}
+
+message NotifyCustomizedContestReady {
+  uint32 unique_id = 1;
+  uint32 ready = 2;
+  uint32 reason = 3;
+}
+
+message NotifyCustomizedContestRuleModify {
+  uint32 unique_id = 1;
+  uint32 auto_match = 2;
+}
+
+message NotifyDailyTaskUpdate {
+  repeated .lq.TaskProgress progresses = 1;
+  uint32 max_daily_task_count = 2;
+  uint32 refresh_count = 3;
+}
+
+message NotifyDeleteMail {
+  repeated uint32 mail_id_list = 1;
+}
+
+message NotifyFriendChange {
+  uint32 account_id = 1;
+  uint32 type = 2;
+  .lq.Friend friend = 3;
+}
+
+message NotifyFriendStateChange {
+  uint32 target_id = 1;
+  .lq.AccountActiveState active_state = 2;
+}
+
+message NotifyFriendViewChange {
+  uint32 target_id = 1;
+  .lq.PlayerBaseView base = 2;
+}
+
+message NotifyGameFinishRewardV2 {
+
+  message LevelChange {
+    .lq.AccountLevel origin = 1;
+    .lq.AccountLevel final = 2;
+    uint32 type = 3;
+  }
+
+  message MatchChest {
+    uint32 chest_id = 1;
+    uint32 origin = 2;
+    uint32 final = 3;
+    bool is_graded = 4;
+    repeated .lq.RewardSlot rewards = 5;
+  }
+
+  message MainCharacter {
+    uint32 level = 1;
+    uint32 exp = 2;
+    uint32 add = 3;
+  }
+
+  message CharacterGift {
+    uint32 origin = 1;
+    uint32 final = 2;
+    uint32 add = 3;
+    bool is_graded = 4;
+  }
+
+  uint32 mode_id = 1;
+  .lq.NotifyGameFinishRewardV2.LevelChange level_change = 2;
+  .lq.NotifyGameFinishRewardV2.MatchChest match_chest = 3;
+  .lq.NotifyGameFinishRewardV2.MainCharacter main_character = 4;
+  .lq.NotifyGameFinishRewardV2.CharacterGift character_gift = 5;
+  repeated .lq.BadgeAchieveProgress badges = 6;
+}
+
+message NotifyGiftSendRefresh {
+}
+
+message NotifyIntervalUpdate {
+}
+
+message NotifyLeaderboardPointV2 {
+
+  message LeaderboardPoint {
+    uint32 leaderboard_id = 1;
+    uint32 point = 2;
+  }
+
+  repeated .lq.NotifyLeaderboardPointV2.LeaderboardPoint leaderboard_points = 1;
+}
+
+message NotifyLoginQueueFinished {
+}
+
+message NotifyMaintainNotice {
+}
+
+message NotifyMatchFailed {
+  string sid = 1;
+}
+
+message NotifyMatchGameStart {
+  string game_url = 1;
+  string connect_token = 2;
+  string game_uuid = 3;
+  uint32 match_mode_id = 4;
+  string location = 5;
+}
+
+message NotifyMatchTimeout {
+  string sid = 1;
+}
+
+message NotifyNewComment {
+}
+
+message NotifyNewFriendApply {
+  uint32 account_id = 1;
+  uint32 apply_time = 2;
+  uint32 removed_id = 3;
+}
+
+message NotifyNewMail {
+  .lq.Mail mail = 1;
+}
+
+message NotifyPayResult {
+
+  message ResourceModify {
+    uint32 id = 1;
+    uint32 count = 2;
+    uint32 final = 3;
+  }
+
+  uint32 pay_result = 1;
+  string order_id = 2;
+  uint32 goods_id = 3;
+  uint32 new_month_ticket = 4;
+  repeated .lq.NotifyPayResult.ResourceModify resource_modify = 5;
+}
+
+message NotifyReviveCoinUpdate {
+  bool has_gained = 1;
+}
+
+message NotifyRollingNotice {
+}
+
+message NotifyRoomGameStart {
+  string game_url = 1;
+  string connect_token = 2;
+  string game_uuid = 3;
+  string location = 4;
+}
+
+message NotifyRoomKickOut {
+}
+
+message NotifyRoomPlayerDressing {
+
+  message AccountDressingState {
+    uint32 account_id = 1;
+    bool dressing = 2;
+  }
+
+  uint32 account_id = 1;
+  bool dressing = 2;
+  .lq.NotifyRoomPlayerDressing.AccountDressingState account_list = 3;
+  uint32 seq = 4;
+}
+
+message NotifyRoomPlayerReady {
+
+  message AccountReadyState {
+    uint32 account_id = 1;
+    bool ready = 2;
+  }
+
+  uint32 account_id = 1;
+  bool ready = 2;
+  .lq.NotifyRoomPlayerReady.AccountReadyState account_list = 3;
+  uint32 seq = 4;
+}
+
+message NotifyRoomPlayerUpdate {
+  uint32 owner_id = 3;
+  uint32 robot_count = 4;
+  repeated .lq.PlayerGameView player_list = 5;
+  uint32 seq = 6;
+  repeated .lq.PlayerGameView robots = 7;
+  repeated uint32 positions = 8;
+}
+
+message NotifySeerReport {
+  .lq.SeerBrief report = 1;
+}
+
+message NotifyServerSetting {
+  .lq.ServerSettings settings = 1;
+}
+
+message NotifyShopUpdate {
+  .lq.ShopInfo shop_info = 1;
+}
+
+message NotifyVipLevelChange {
+  uint32 gift_limit = 1;
+  uint32 friend_max_count = 2;
+  uint32 zhp_free_refresh_limit = 3;
+  uint32 zhp_cost_refresh_limit = 4;
+  float buddy_bonus = 5;
+  uint32 record_collect_limit = 6;
+}

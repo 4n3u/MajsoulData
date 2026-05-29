@@ -1,0 +1,1 @@
+local a=require("ExcelTool")local b=a.Pack;local c=a.Sub;local d=a.PackGet;local e=a.Dmap;local f={["id"]=1,["start"]=1002,["end"]=1003}local g={nil,nil,nil}local h=function(i,j)return d(i,j,f,g)end;local k={}k[1]=b({1,"1899/12/30 0:00:00","1899/12/30 23:59:00"},h)return{tb=k}

@@ -1,0 +1,410 @@
+[
+  {
+    "id": 1,
+    "icon": "extendRes/items/biscuit0.jpg",
+    "item_id": 303011,
+    "buy_limit": 4,
+    "currency": 100002,
+    "price": 15000,
+    "need_amount": 1,
+    "show_has": 1,
+    "name": {
+      "chs": "手工曲奇",
+      "chs_t": "手工餅乾",
+      "jp": "手作りクッキー",
+      "en": "Handmade Cookie",
+      "kr": "수제 쿠키"
+    }
+  },
+  {
+    "id": 2,
+    "icon": "extendRes/items/console0.jpg",
+    "item_id": 303021,
+    "buy_limit": 4,
+    "currency": 100002,
+    "price": 15000,
+    "need_amount": 1,
+    "show_has": 1,
+    "name": {
+      "chs": "怀旧掌机",
+      "chs_t": "懷舊掌上型遊戲機",
+      "jp": "レトロゲーム機",
+      "en": "Nostalgic Console",
+      "kr": "레트로 게임기"
+    }
+  },
+  {
+    "id": 3,
+    "icon": "extendRes/items/art0.jpg",
+    "item_id": 303031,
+    "buy_limit": 4,
+    "currency": 100002,
+    "price": 15000,
+    "need_amount": 1,
+    "show_has": 1,
+    "name": {
+      "chs": "简易美术品",
+      "chs_t": "簡易美術品",
+      "jp": "シンプルな美術品",
+      "en": "Simple Art",
+      "kr": "심플한 미술품"
+    }
+  },
+  {
+    "id": 4,
+    "icon": "extendRes/items/wine0.jpg",
+    "item_id": 303041,
+    "buy_limit": 4,
+    "currency": 100002,
+    "price": 15000,
+    "need_amount": 1,
+    "show_has": 1,
+    "name": {
+      "chs": "美味果酒",
+      "chs_t": "美味果酒",
+      "jp": "普通のジョッキ",
+      "en": "Common Beer Mug",
+      "kr": "평범한 맥주잔"
+    }
+  },
+  {
+    "id": 5,
+    "icon": "extendRes/items/diamond0.jpg",
+    "item_id": 303051,
+    "buy_limit": 4,
+    "currency": 100002,
+    "price": 15000,
+    "need_amount": 1,
+    "show_has": 1,
+    "name": {
+      "chs": "普通的碎钻",
+      "chs_t": "普通的碎鑽",
+      "jp": "小粒なダイヤ",
+      "en": "Ordinary Diamond",
+      "kr": "작은 다이아몬드"
+    }
+  },
+  {
+    "id": 6,
+    "icon": "extendRes/items/toy0.jpg",
+    "item_id": 303061,
+    "buy_limit": 4,
+    "currency": 100002,
+    "price": 15000,
+    "need_amount": 1,
+    "show_has": 1,
+    "name": {
+      "chs": "熊公仔",
+      "chs_t": "熊公仔",
+      "jp": "テディベア",
+      "en": "Teddy Bear",
+      "kr": "테디베어"
+    }
+  },
+  {
+    "id": 7,
+    "icon": "extendRes/items/comic0.jpg",
+    "item_id": 303071,
+    "buy_limit": 4,
+    "currency": 100002,
+    "price": 15000,
+    "need_amount": 1,
+    "show_has": 1,
+    "name": {
+      "chs": "同人小册子",
+      "chs_t": "同人小冊子",
+      "jp": "フリーペーパー",
+      "en": "Fanzine Booklet",
+      "kr": "팜플렛"
+    }
+  },
+  {
+    "id": 8,
+    "icon": "extendRes/items/dress0.jpg",
+    "item_id": 303081,
+    "buy_limit": 4,
+    "currency": 100002,
+    "price": 15000,
+    "need_amount": 1,
+    "show_has": 1,
+    "name": {
+      "chs": "朴素的小裙子",
+      "chs_t": "樸素的小裙子",
+      "jp": "素朴な服",
+      "en": "Simple Dress",
+      "kr": "소박한 옷"
+    }
+  },
+  {
+    "id": 9,
+    "icon": "extendRes/items/biscuit1.jpg",
+    "item_id": 303012,
+    "buy_limit": 2,
+    "currency": 100002,
+    "price": 75000,
+    "need_amount": 1,
+    "show_has": 1,
+    "name": {
+      "chs": "蓝罐曲奇",
+      "chs_t": "藍罐餅乾",
+      "jp": "バタークッキー",
+      "en": "Danish Cookie",
+      "kr": "버터 쿠키"
+    }
+  },
+  {
+    "id": 10,
+    "icon": "extendRes/items/console1.jpg",
+    "item_id": 303022,
+    "buy_limit": 2,
+    "currency": 100002,
+    "price": 75000,
+    "need_amount": 1,
+    "show_has": 1,
+    "name": {
+      "chs": "时尚掌机",
+      "chs_t": "時尚掌上型遊戲機",
+      "jp": "携帯ゲーム機",
+      "en": "Xwitch Console",
+      "kr": "휴대용 게임기"
+    }
+  },
+  {
+    "id": 11,
+    "icon": "extendRes/items/art1.jpg",
+    "item_id": 303032,
+    "buy_limit": 2,
+    "currency": 100002,
+    "price": 75000,
+    "need_amount": 1,
+    "show_has": 1,
+    "name": {
+      "chs": "精美挂画",
+      "chs_t": "精美掛畫",
+      "jp": "立派な絵画",
+      "en": "Wall Painting",
+      "kr": "명작 그림"
+    }
+  },
+  {
+    "id": 12,
+    "icon": "extendRes/items/wine1.jpg",
+    "item_id": 303042,
+    "buy_limit": 2,
+    "currency": 100002,
+    "price": 75000,
+    "need_amount": 1,
+    "show_has": 1,
+    "name": {
+      "chs": "香醇红酒",
+      "chs_t": "香醇紅酒",
+      "jp": "上品なおちょこ",
+      "en": "Exquisite Wine Glass",
+      "kr": "고상한 사기잔"
+    }
+  },
+  {
+    "id": 13,
+    "icon": "extendRes/items/diamond1.jpg",
+    "item_id": 303052,
+    "buy_limit": 2,
+    "currency": 100002,
+    "price": 75000,
+    "need_amount": 1,
+    "show_has": 1,
+    "name": {
+      "chs": "鸽子蛋宝石",
+      "chs_t": "鴿子蛋寶石",
+      "jp": "巨大なダイヤ",
+      "en": "Large Diamond",
+      "kr": "물방울 다이아몬드"
+    }
+  },
+  {
+    "id": 14,
+    "icon": "extendRes/items/toy1.jpg",
+    "item_id": 303062,
+    "buy_limit": 2,
+    "currency": 100002,
+    "price": 75000,
+    "need_amount": 1,
+    "show_has": 1,
+    "name": {
+      "chs": "熊公仔L",
+      "chs_t": "熊公仔L",
+      "jp": "テディベアL",
+      "en": "Teddy Bear L",
+      "kr": "테디베어L"
+    }
+  },
+  {
+    "id": 15,
+    "icon": "extendRes/items/comic1.jpg",
+    "item_id": 303072,
+    "buy_limit": 2,
+    "currency": 100002,
+    "price": 75000,
+    "need_amount": 1,
+    "show_has": 1,
+    "name": {
+      "chs": "简装同人志",
+      "chs_t": "簡裝同人誌",
+      "jp": "薄い本",
+      "en": "Simple Fanzine",
+      "kr": "얇은 책"
+    }
+  },
+  {
+    "id": 16,
+    "icon": "extendRes/items/dress1.jpg",
+    "item_id": 303082,
+    "buy_limit": 2,
+    "currency": 100002,
+    "price": 75000,
+    "need_amount": 1,
+    "show_has": 1,
+    "name": {
+      "chs": "普通的小裙子",
+      "chs_t": "普通的小裙子",
+      "jp": "セーラー服",
+      "en": "Normal Dress",
+      "kr": "세라복"
+    }
+  },
+  {
+    "id": 17,
+    "icon": "extendRes/items/jade_courage.jpg",
+    "item_id": 302005,
+    "buy_limit": 1,
+    "currency": 100002,
+    "price": 50000,
+    "need_amount": 0,
+    "show_has": 1,
+    "name": {
+      "chs": "勇气宝玉",
+      "chs_t": "勇氣寶玉",
+      "jp": "勇気の宝玉",
+      "en": "Sphere of Courage",
+      "kr": "용기의 보옥"
+    }
+  },
+  {
+    "id": 18,
+    "icon": "extendRes/items/jade_will.jpg",
+    "item_id": 302006,
+    "buy_limit": 1,
+    "currency": 100002,
+    "price": 50000,
+    "need_amount": 0,
+    "show_has": 1,
+    "name": {
+      "chs": "意志宝玉",
+      "chs_t": "意志寶玉",
+      "jp": "意志の宝玉",
+      "en": "Sphere of Will",
+      "kr": "의지의 보옥"
+    }
+  },
+  {
+    "id": 19,
+    "icon": "extendRes/items/jade_honest.jpg",
+    "item_id": 302007,
+    "buy_limit": 1,
+    "currency": 100002,
+    "price": 50000,
+    "need_amount": 0,
+    "show_has": 1,
+    "name": {
+      "chs": "诚实宝玉",
+      "chs_t": "誠實寶玉",
+      "jp": "誠実の宝玉",
+      "en": "Sphere of Honesty",
+      "kr": "성실의 보옥"
+    }
+  },
+  {
+    "id": 20,
+    "icon": "extendRes/items/jade_tender.jpg",
+    "item_id": 302008,
+    "buy_limit": 1,
+    "currency": 100002,
+    "price": 50000,
+    "need_amount": 0,
+    "show_has": 1,
+    "name": {
+      "chs": "慈爱宝玉",
+      "chs_t": "慈愛寶玉",
+      "jp": "慈愛の宝玉",
+      "en": "Sphere of Love",
+      "kr": "자애의 보옥"
+    }
+  },
+  {
+    "id": 21,
+    "icon": "extendRes/items/jade_knowledge.jpg",
+    "item_id": 302009,
+    "buy_limit": 1,
+    "currency": 100002,
+    "price": 50000,
+    "need_amount": 0,
+    "show_has": 1,
+    "name": {
+      "chs": "智慧宝玉",
+      "chs_t": "智慧寶玉",
+      "jp": "知恵の宝玉",
+      "en": "Sphere of Wisdom",
+      "kr": "지혜의 보옥"
+    }
+  },
+  {
+    "id": 22,
+    "icon": "extendRes/items/jade_pure.jpg",
+    "item_id": 302010,
+    "buy_limit": 1,
+    "currency": 100002,
+    "price": 50000,
+    "need_amount": 0,
+    "show_has": 1,
+    "name": {
+      "chs": "纯真宝玉",
+      "chs_t": "純真寶玉",
+      "jp": "純真の宝玉",
+      "en": "Sphere of Innocence",
+      "kr": "순수의 보옥"
+    }
+  },
+  {
+    "id": 23,
+    "icon": "extendRes/items/jade_hope.jpg",
+    "item_id": 302011,
+    "buy_limit": 1,
+    "currency": 100002,
+    "price": 50000,
+    "need_amount": 0,
+    "show_has": 1,
+    "name": {
+      "chs": "希望宝玉",
+      "chs_t": "希望寶玉",
+      "jp": "希望の宝玉",
+      "en": "Sphere of Hope",
+      "kr": "희망의 보옥"
+    }
+  },
+  {
+    "id": 24,
+    "icon": "extendRes/items/jade_bright.jpg",
+    "item_id": 302012,
+    "buy_limit": 1,
+    "currency": 100002,
+    "price": 50000,
+    "need_amount": 0,
+    "show_has": 1,
+    "name": {
+      "chs": "光明宝玉",
+      "chs_t": "光明寶玉",
+      "jp": "光明の宝玉",
+      "en": "Sphere of Light",
+      "kr": "광명의 보옥"
+    }
+  }
+]

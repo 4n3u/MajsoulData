@@ -1,0 +1,1602 @@
+[
+  {
+    "line": 1,
+    "text": "Mahjong Soul Shrine"
+  },
+  {
+    "line": 2,
+    "text": "Player"
+  },
+  {
+    "line": 3,
+    "text": "Good afternoon, everyone! Today is such a beautiful day, right?"
+  },
+  {
+    "line": 4,
+    "text": "Greeting everyone energetically with a wide and open smile, I radiate a sunny, cheerful, and positive aura as I walk into the mahjong room of the Mahjong Soul Shrine where I plan to have a fulfilling day petting cats and dogs, playing mahjong, and meeting many fantastic Jyanshi after sleeping in till now."
+  },
+  {
+    "line": 5,
+    "text": "However, an unusual aura fills the air after I find a table that seems to have good feng shui and sit down after greeting the three Jyanshi there. They tacitly stop what they are doing."
+  },
+  {
+    "line": 6,
+    "text": "Jyanshi A"
+  },
+  {
+    "line": 7,
+    "text": "I suddenly remember that I have some homework to finish. Sorry, I'll be leaving now."
+  },
+  {
+    "line": 8,
+    "text": "Jyanshi B"
+  },
+  {
+    "line": 9,
+    "text": "Wait for me! We can do it together. Sorry, I'll be leaving now too."
+  },
+  {
+    "line": 10,
+    "text": "Jyanshi C"
+  },
+  {
+    "line": 11,
+    "text": "Er... I also need to leave."
+  },
+  {
+    "line": 12,
+    "text": "Hey! You... You three... Wait up... Don't run away so quickly! Why are you even pretending to be young junior high school students when your hairline has receded so much already, you jerks!!!"
+  },
+  {
+    "line": 13,
+    "text": "The three Jyanshi disappear without looking back."
+  },
+  {
+    "line": 14,
+    "text": "I glance helplessly at the now-empty seats and turn to look at the other tables that have empty seats. After meeting my gaze, the Jyanshi who are looking at me curiously all lower their heads and stare at the backside of their tiles like they are deep in thought, just like students who are afraid their class teacher will make them answer questions."
+  },
+  {
+    "line": 15,
+    "text": "Ichihime"
+  },
+  {
+    "line": 16,
+    "text": "Master, this is terrible, nyaa. Nobody wants to play with you, nyaa. Wanjirou, think of something, nyaa!"
+  },
+  {
+    "line": 17,
+    "text": "Wanjirou"
+  },
+  {
+    "line": 18,
+    "text": "Why don't you try writing the words"
+  },
+  {
+    "line": 19,
+    "text": "Master, shall we give that a try, nyaa?"
+  },
+  {
+    "line": 20,
+    "text": "It's okay... Instead of trying that nonsense... Why don't you two stay here and play with me...?"
+  },
+  {
+    "line": 21,
+    "text": "...Hey! Where's the dog?! Where's the cat?!"
+  },
+  {
+    "line": 22,
+    "text": "The dog and cat strategist duo has instantly disbanded on the spot."
+  },
+  {
+    "line": 23,
+    "text": "I sigh and find myself unable to blame them. After all, today's situation is caused by a certain young lady who follows me around like my shadow."
+  },
+  {
+    "line": 24,
+    "text": "Ever since my relationship with Chiori Mikami became friendlier, she has started to see me as an interesting toy instead of a commoner. Although she hasn't said this explicitly, this is what her actions have been telling me!!!"
+  },
+  {
+    "line": 25,
+    "text": "I know because I have noticed that she is a player in any game I play, whether it is a board game, mahjong, or even an ordinary game of cards. What's more, her goal seems to have changed from simply winning the game to defeating all her opponents, especially {var:player_nickname}."
+  },
+  {
+    "line": 26,
+    "text": "Over time, people started spreading a rumor that as long as I am playing a game, a blond girl will appear and dominate everyone who is playing, which has made it difficult to find strangers who are willing to play with me during this time."
+  },
+  {
+    "line": 27,
+    "text": "I look at the three empty seats again. Oh well, I might as well ask everyone in the group chat if they can play mahjong right now while I wait for Chiori Mikami to arrive. The only thing I have lots of in One Han City is friends."
+  },
+  {
+    "line": 29,
+    "text": "Miki Nikaidou"
+  },
+  {
+    "line": 30,
+    "text": "..."
+  },
+  {
+    "line": 31,
+    "text": "Nana Shiraishi"
+  },
+  {
+    "line": 32,
+    "text": "Any luck?"
+  },
+  {
+    "line": 33,
+    "text": "I put down my phone and shake my head, looking apologetically at the two people who are sitting to my left and my right before looking at the empty seat opposite me."
+  },
+  {
+    "line": 34,
+    "text": "Who would have thought that I would find two players to play with so soon and that Chiori Mikami still hasn't appeared today?"
+  },
+  {
+    "line": 35,
+    "text": "She and Riu are both not picking up. They'd have already arrived by this time in the past. This is strange..."
+  },
+  {
+    "line": 36,
+    "text": "What a surprise! You two have always been inseparable, but are not together today. Haha."
+  },
+  {
+    "line": 37,
+    "text": "Well... to be honest, I'm quite surprised too."
+  },
+  {
+    "line": 38,
+    "text": "Junior, did you do anything to offend Chiori without realizing it?"
+  },
+  {
+    "line": 39,
+    "text": "I... don't think so."
+  },
+  {
+    "line": 40,
+    "text": "But when I think of the"
+  },
+  {
+    "line": 41,
+    "text": "Haha, you're obviously worried, {var:player_nickname}. Why don't you go and see how she is doing?"
+  },
+  {
+    "line": 42,
+    "text": "Huh? But I'm the one who invited you here to play mahjong..."
+  },
+  {
+    "line": 43,
+    "text": "Yeah, so hurry up and comfort the girl before thinking of how to make it up to me. I won't forgive you easily if you aren't sincere enough."
+  },
+  {
+    "line": 44,
+    "text": "Haha, I'll be fine. You can just treat me and my classmates to afternoon tea next time! Don't worry, I'll pick a day when more people are helping out at the club for you to make good on this promise!"
+  },
+  {
+    "line": 45,
+    "text": "Haha, sigh. Okay, sorry about this. I'll meet up with you another day!"
+  },
+  {
+    "line": 47,
+    "text": "Around Chiori Mikami's House"
+  },
+  {
+    "line": 48,
+    "text": "Chiori Mikami's house is in a beautiful villa complex in One Han City. Although this isn't my first time here, I'm still shocked by the luxuriousness of this place. For example, the movement-tracking electronic cameras around her house seem to be installed as part of a security system upgrade due to the previous uninvited guest incident."
+  },
+  {
+    "line": 49,
+    "text": "It doesn't look like anything has happened. Did I really make her angry by accident?"
+  },
+  {
+    "line": 50,
+    "text": "*Ding-dong* I press the electronic doorbell at the entrance of Chiori Mikami's house and wait silently."
+  },
+  {
+    "line": 51,
+    "text": "Soon after, the camera of the electronic doorbell emits a green flash when someone checks who has come knocking. The strange thing is that the person answers the door silently without making a sound."
+  },
+  {
+    "line": 52,
+    "text": "I wave at the camera in confusion."
+  },
+  {
+    "line": 53,
+    "text": "Chiori? Riu?"
+  },
+  {
+    "line": 54,
+    "text": "*Click*"
+  },
+  {
+    "line": 55,
+    "text": "The only response I get is the sound of the call being cut off."
+  },
+  {
+    "line": 56,
+    "text": "???"
+  },
+  {
+    "line": 57,
+    "text": "Um... Could something really have happened?"
+  },
+  {
+    "line": 58,
+    "text": "A wealthy young lady living alone in a large villa in the city, whose parents are not home during most of the year, and a young maid who takes care of her daily life. If this combination were to appear in Getham City next door, they would have been coveted by various criminal gangs already. Suddenly my mind is filled with all kinds of crimes that could have happened, and I'm even ready to call the police."
+  },
+  {
+    "line": 59,
+    "text": "Suddenly, the door opens with a click."
+  },
+  {
+    "line": 60,
+    "text": "Chiori Mikami"
+  },
+  {
+    "line": 61,
+    "text": "Good afternoon, {var:player_nickname}. Why have you come to see me today?"
+  },
+  {
+    "line": 62,
+    "text": "The door is open, and Chiori Mikami looks very lively, but... her sunny and cheerful appearance at the door reminds me of the deliberate act I put up when I was trying to convince the mahjong players to stay this noon. It looks... extremely unnatural!"
+  },
+  {
+    "line": 63,
+    "text": "Chiori, are you okay?"
+  },
+  {
+    "line": 64,
+    "text": "Huh? I'm in my own home. What could possibly go wrong? Haha! You say such funny things, {var:player_nickname}."
+  },
+  {
+    "line": 65,
+    "text": "If you're here to ask me to play with you, {var:player_nickname}, then I'm sorry to say that I'm busy right now. Maybe we can play together another time?"
+  },
+  {
+    "line": 66,
+    "text": "But you're so polite that it looks like something is wrong."
+  },
+  {
+    "line": 67,
+    "text": "...Why are you still here?"
+  },
+  {
+    "line": 68,
+    "text": "Chiori Mikami looks a little anxious. She moves closer to me and lowers her voice, making the expression she usually makes when she bullies me. She even waves her fist at me like Riu Kujou does."
+  },
+  {
+    "line": 69,
+    "text": "Ah, this is more like it! Feeling relieved, I think that it seems like she really might be busy with something she can't tell me about."
+  },
+  {
+    "line": 70,
+    "text": "Okay, I feel better now that I know you're fine. See you later."
+  },
+  {
+    "line": 71,
+    "text": "Yeah, see you later, {var:player_nickname}. Take care."
+  },
+  {
+    "line": 72,
+    "text": "As I prepare to leave, I hear the unfamiliar voice of a middle-aged woman from inside the house."
+  },
+  {
+    "line": 73,
+    "text": "Chiori, has a friend come to visit you?"
+  },
+  {
+    "line": 74,
+    "text": "Stunned, I stop and turn around. My eyes are drawn above Chiori Mikami's head towards a neatly dressed woman who has just walked up to the door."
+  },
+  {
+    "line": 75,
+    "text": "She has the same dazzling golden hair as Chiori Mikami, but it's shoulder-length and tucked behind her ears, giving her a calm and intellectual appearance."
+  },
+  {
+    "line": 76,
+    "text": "Hi, it's nice to meet you. I'm Chiori Mikami's mother."
+  },
+  {
+    "line": 77,
+    "text": "...Oh, hello!"
+  },
+  {
+    "line": 78,
+    "text": "Chiori Mikami's House"
+  },
+  {
+    "line": 79,
+    "text": "Chiori Mikami stands in front of me, holding a fine tray with exquisite snacks and hot coffee on it. She then starts to transfer them onto the coffee table in front of me."
+  },
+  {
+    "line": 80,
+    "text": "Here you are. The sugar and milk are on the side, so please add them if you want."
+  },
+  {
+    "line": 81,
+    "text": "Um... Thanks, Chiori."
+  },
+  {
+    "line": 82,
+    "text": "You. Are. Welcome."
+  },
+  {
+    "line": 83,
+    "text": "If I can ignore the murderous look in her eyes, her stiff smile and sweet voice make me really want to take out my phone and record the scene of Chiori Mikami serving me politely... That is, if I can also ignore Mrs. Mikami sitting next to me."
+  },
+  {
+    "line": 84,
+    "text": "Sitting prudishly on the sofa, I quickly go over everything Chiori Mikami has told me about her mother in my head. She is an internationally renowned surgeon, a professional at the top of her profession who travels around the world all year round and is just as busy as her husband, who is a physics professor. As a result, they can only hire a maid to take care of their daughter. She is a very capable career-oriented woman."
+  },
+  {
+    "line": 85,
+    "text": "I didn't expect her to be at home today. That would explain why Chiori Mikami didn't follow me to play mahjong today."
+  },
+  {
+    "line": 86,
+    "text": "Mrs. Mikami"
+  },
+  {
+    "line": 87,
+    "text": "It looks like you're Chiori's close friend. What's your name?"
+  },
+  {
+    "line": 88,
+    "text": "Hearing her question, I quickly sit up straight, then I introduce myself to her briefly and explain the reason for my visit."
+  },
+  {
+    "line": 89,
+    "text": "I see. Thank you for caring so much about Chiori's safety. She hasn't really been on her phone today, and I think Riu didn't pick up either because she is taking an exam today. I heard that it's a make-up exam for a special training class, so I haven't seen her either."
+  },
+  {
+    "line": 90,
+    "text": "Oh, I see... I understand then."
+  },
+  {
+    "line": 91,
+    "text": "Thanks again for caring so much that you came all the way here to check up on her."
+  },
+  {
+    "line": 92,
+    "text": "Don't mention it. That's what friends do. However, my unexpected visit seems to have interrupted your time together with Chiori."
+  },
+  {
+    "line": 93,
+    "text": "Haha, that's fine. I'm delighted to have the opportunity to meet one of Chiori's friends. In fact, I'm quite surprised. The last time I was here, Chiori stayed at home with Riu for the entire day... Chiori, why didn't you tell me you made such a close friend?"
+  },
+  {
+    "line": 94,
+    "text": "...T-There's nothing special about it. It's not like we're thaaaat close. We're just normal..."
+  },
+  {
+    "line": 95,
+    "text": "Hmm?"
+  },
+  {
+    "line": 96,
+    "text": "We're just normal friends. We're definitely not close enough to spend every day together!"
+  },
+  {
+    "line": 97,
+    "text": "Mrs. Mikami looks back and forth between me and Chiori Mikami thoughtfully with a hint of curiosity. Although her gaze is still kind, I feel like she can see right through me in close detail."
+  },
+  {
+    "line": 98,
+    "text": "Oh...? So what you're saying is that you don't have to, but you do actually spend every day together?"
+  },
+  {
+    "line": 99,
+    "text": "Although she isn't wrong, something sounds strange about her words. For a moment, Chiori Mikami and I are unable to say anything to refute her, and we both look at her anxiously."
+  },
+  {
+    "line": 100,
+    "text": "Haha, you don't need to be nervous. I'm really glad that Chiori has made a new friend, but... I rarely get the opportunity to hear about what Chiori does with her friends. If it's okay with you, {var:player_nickname}, can you tell me more about that?"
+  },
+  {
+    "line": 101,
+    "text": "Huh?"
+  },
+  {
+    "line": 102,
+    "text": "Of course, you can just say what you can. I'm sure that besides the secrets between you, there are stories that you can share with your parents, right?"
+  },
+  {
+    "line": 104,
+    "text": "I agree with Mrs. Mikami and think about what to say. At this time, Mrs. Mikami's mobile phone starts ringing."
+  },
+  {
+    "line": 105,
+    "text": "Sorry, I need to take a phone call."
+  },
+  {
+    "line": 106,
+    "text": "Mrs. Mikami stands and walks over to the dining room beside us to answer the call. The room suddenly becomes quiet - so quiet that we can hear what she is saying."
+  },
+  {
+    "line": 107,
+    "text": "Hello... I'm on leave today. Hmm, no, I'm on leave..."
+  },
+  {
+    "line": 108,
+    "text": "On the sofa, Chiori Mikami's eyes follow her mother who is speaking on the phone. After hearing their conversation, she sighs in relief, then turns her head and gives me a quiet good-natured warning."
+  },
+  {
+    "line": 109,
+    "text": "You're not allowed to say anything strange to my mother!"
+  },
+  {
+    "line": 110,
+    "text": "You're suddenly afraid that I'll tell on you? Isn't it too late?"
+  },
+  {
+    "line": 111,
+    "text": "I also heave a sigh of relief for now and whisper a retort back at her."
+  },
+  {
+    "line": 112,
+    "text": "Just as Chiori Mikami opens her mouth and wants to say something, Mrs. Mikami returns and sits down again. She looks at me expectantly and asks me to tell her some interesting things about Chiori Mikami."
+  },
+  {
+    "line": 113,
+    "text": "I look at Chiori Mikami next to her, who is glaring at me with a warning look in her eyes. What should I say?"
+  },
+  {
+    "line": 114,
+    "text": "Tell her nice things"
+  },
+  {
+    "line": 115,
+    "text": "I can still tell the difference between having one full meal and many full meals."
+  },
+  {
+    "line": 116,
+    "text": "If I'm inconsiderate of Chiori Mikami's feelings and tell Chiori Mikami's mother about embarrassing or bad things that she has done, damaging her mother's image of her, I think I will be in for a rough time in the future."
+  },
+  {
+    "line": 117,
+    "text": "Ahem, there are many memorable stories of our experiences since we met. In short, Chiori is very attentive, very lovely, and very sweet-natured."
+  },
+  {
+    "line": 118,
+    "text": "Chiori Mikami looks obviously relieved upon hearing this."
+  },
+  {
+    "line": 119,
+    "text": "...Whenever I come over to visit, she will always prepare coffee and snacks for me like today."
+  },
+  {
+    "line": 120,
+    "text": "She's also very intelligent and is very good at playing games. She guides me patiently every time we play together. If I'm tired, she'll even ask Riu to give me a relaxing massage that was originally exclusive to her."
+  },
+  {
+    "line": 121,
+    "text": "Oh, she even gave me a massage once when Riu was away... There was also a time when I accidentally got lost while we were feeding cats in the park, and Chiori patiently guided me back here and prepared a delicious dinner for me..."
+  },
+  {
+    "line": 122,
+    "text": "As I speak cheerfully, the smile on Chiori Mikami's face, which had started to relax, becomes more and more stiff."
+  },
+  {
+    "line": 123,
+    "text": "Upon hearing me say more and more outrageous things, behind her mother's back, she quietly mouths the words:"
+  },
+  {
+    "line": 124,
+    "text": "Ouch!"
+  },
+  {
+    "line": 125,
+    "text": "Mrs. Mikami's attention is drawn immediately by her cry, successfully interrupting my story-telling."
+  },
+  {
+    "line": 126,
+    "text": "What is it? Do your teeth hurt?"
+  },
+  {
+    "line": 127,
+    "text": "Chiori Mikami nods in an aggrieved manner."
+  },
+  {
+    "line": 128,
+    "text": "Tell her the truth"
+  },
+  {
+    "line": 129,
+    "text": "I'll worry about tomorrow's dangers tomorrow. The most important thing for people is to live in and enjoy the present."
+  },
+  {
+    "line": 130,
+    "text": "I ignore Chiori Mikami's warning look and decide to report everything I've experienced since meeting Chiori Mikami to her mother."
+  },
+  {
+    "line": 131,
+    "text": "Ahem, there are many memorable stories of our experiences since we met. In short, I've been surprised by how cute, intelligent, and beautiful Chiori is."
+  },
+  {
+    "line": 132,
+    "text": "Chiori Mikami looks obviously relieved upon hearing this, but her expression soon changes because of the twist in my words--"
+  },
+  {
+    "line": 133,
+    "text": "But as I got to know her better, I learned that... contrary to her beautiful appearance..."
+  },
+  {
+    "line": 134,
+    "text": "Just as I am about to get to the point, behind her mother's back, Chiori Mikami quietly mouths the words:"
+  },
+  {
+    "line": 135,
+    "text": "Mrs. Mikami's attention is drawn immediately by her cry, successfully interrupting my complaint."
+  },
+  {
+    "line": 136,
+    "text": "A hint of helplessness appears in Mrs. Mikami's eyes, and she looks down at her watch."
+  },
+  {
+    "line": 139,
+    "text": "Chiori has been prone to tooth decay since she was a child, so she needs to have an oral check-up every year. I managed to come back just in time for her check-up this time, so I want to take this opportunity to go with her to learn more about her dental health from the dentist."
+  },
+  {
+    "line": 140,
+    "text": "I see, in that case..."
+  },
+  {
+    "line": 141,
+    "text": "Just as I am about to say that I won't get in their way, Mrs. Mikami's mobile phone suddenly starts ringing."
+  },
+  {
+    "line": 142,
+    "text": "Excuse me."
+  },
+  {
+    "line": 143,
+    "text": "Mrs. Mikami picks up the call, interrupting my second attempt to leave."
+  },
+  {
+    "line": 144,
+    "text": "Hello... Sorry, I already said that I'm on leave. Can you get someone else to go... Director?"
+  },
+  {
+    "line": 145,
+    "text": "Mrs. Mikami sounds a little surprised. She pauses for a moment, glances at Chiori Mikami, then hurriedly stands and walks to one side before continuing."
+  },
+  {
+    "line": 146,
+    "text": "...What's happened...? I see..."
+  },
+  {
+    "line": 147,
+    "text": "Chiori Mikami's eyes move back and forth between her mother and the pillow in her arms, as if she doesn't want to appear too concerned, but the downward-turning corners of her mouth betray her feelings at this moment."
+  },
+  {
+    "line": 148,
+    "text": "Leave in the afternoon? But I need to take my daughter to..."
+  },
+  {
+    "line": 149,
+    "text": "Bits and pieces of the phone conversation drift into our ears. Although we can't hear what the other person is saying, this person's words seem to be gradually convincing Mrs. Mikami to change her mind. Her tone gradually changes from being serious to frustrated. In the end, she sighs."
+  },
+  {
+    "line": 150,
+    "text": "Sigh, I understand. About the plane ticket..."
+  },
+  {
+    "line": 151,
+    "text": "It sounds like Mrs. Mikami has been asked to go on a business trip at the last minute. What about the dental appointment then...? Just as I was thinking this, Chiori Mikami suddenly puts down the pillow and walks up to the second floor without saying a word. Her footsteps are heavy and make thudding sounds."
+  },
+  {
+    "line": 152,
+    "text": "Mrs. Mikami obviously sees this too. She covers the microphone of the phone and looks at me apologetically."
+  },
+  {
+    "line": 153,
+    "text": "Can you check up on Chiori for me?"
+  },
+  {
+    "line": 154,
+    "text": "Um, okay."
+  },
+  {
+    "line": 155,
+    "text": "I happen to also be worried about Chiori Mikami's current situation, so I agree just like that."
+  },
+  {
+    "line": 156,
+    "text": "As soon as I arrive at the second floor, I see Chiori Mikami walking out of her room with Index in her hands. She pauses for a moment when she sees me coming up."
+  },
+  {
+    "line": 157,
+    "text": "What did you come up here for?"
+  },
+  {
+    "line": 158,
+    "text": "You looked very angry just now. Is it because you heard that your mother needs to go on a business trip?"
+  },
+  {
+    "line": 159,
+    "text": "Hmph... I'm not a child. I won't get angry because of something I'm already used to."
+  },
+  {
+    "line": 160,
+    "text": "Then why did you suddenly come upstairs and get Index?"
+  },
+  {
+    "line": 161,
+    "text": "In Chiori Mikami's arms is a familiar-looking bear-shaped bag. I remember her proudly telling me many times that it was a birthday gift from her mother."
+  },
+  {
+    "line": 162,
+    "text": "You idiot. I'm getting ready to leave. Didn't my mother just say that it's time for my dental appointment?"
+  },
+  {
+    "line": 163,
+    "text": "But your mother..."
+  },
+  {
+    "line": 164,
+    "text": "Hmph, {var:player_nickname}, you're an idiot, a fool, and a dummy. Do you think I can't go to see the dentist just because my mother is busy?"
+  },
+  {
+    "line": 165,
+    "text": "Chiori Mikami hugs Index tightly. Without saying another word, she quickly squeezes past me and starts walking downstairs. I hurriedly follow her down."
+  },
+  {
+    "line": 166,
+    "text": "Downstairs, Mrs. Mikami has just finished the phone call. When she sees Chiori Mikami running downstairs, she calls out to her."
+  },
+  {
+    "line": 167,
+    "text": "Chiori, about your dental appointment..."
+  },
+  {
+    "line": 168,
+    "text": "Mom, I'll go by myself."
+  },
+  {
+    "line": 169,
+    "text": "Don't you need to go on a business trip? I can go to the dental appointment by myself."
+  },
+  {
+    "line": 170,
+    "text": "Mrs. Mikami frowns and purses her lips."
+  },
+  {
+    "line": 171,
+    "text": "I just told the hospital to book a later flight. This way, we can still go to the dental appointment together, and I can go directly to the airport from there. We..."
+  },
+  {
+    "line": 172,
+    "text": "It really isn't necessary, Mom."
+  },
+  {
+    "line": 173,
+    "text": "Chiori Mikami shakes her head resolutely again. She hugs Index tightly and smiles."
+  },
+  {
+    "line": 174,
+    "text": "You just arrived home in the morning, so you'll be exhausted if you run around like this. You should get some rest. I'll really be okay. I usually go there with Riu, so I'm very familiar with the process. You don't need to worry about me."
+  },
+  {
+    "line": 175,
+    "text": "...But Riu isn't here today. You'll be all alone..."
+  },
+  {
+    "line": 176,
+    "text": "Based on what I know about Chiori Mikami, I can tell that her calmness and composure are just a front, but she seems to convince Mrs. Mikami. I want to say something, but hesitate. It looks like Mrs. Mikami really doesn't know her daughter that well."
+  },
+  {
+    "line": 177,
+    "text": "Well, if you're really worried, {var:player_nickname} can come with me. {var:player_nickname}, you'll be happy to come with me, right?"
+  },
+  {
+    "line": 178,
+    "text": "Chiori Mikami raises her head, grabs my sleeve, and looks at me. For the first time ever, I see her looking at me with a cry for help in her eyes. Shocked by what I see, I hold her hand and look at Mrs. Mikami."
+  },
+  {
+    "line": 179,
+    "text": "Yeah, I can go with Chiori. Everything will be okay."
+  },
+  {
+    "line": 180,
+    "text": "Mrs. Mikami's eyes linger on our clasped hands for a few seconds, then the look of hesitation disappears as she makes up her mind."
+  },
+  {
+    "line": 181,
+    "text": "Okay, thank you, {var:player_nickname}."
+  },
+  {
+    "line": 182,
+    "text": "After exchanging contact details with Mrs. Mikami, Chiori Mikami and I depart for the dental clinic."
+  },
+  {
+    "line": 183,
+    "text": "We'll come back as soon as we can. Maybe we'll make it back before she leaves."
+  },
+  {
+    "line": 184,
+    "text": "Shut up... I'm tired."
+  },
+  {
+    "line": 185,
+    "text": "Chiori?"
+  },
+  {
+    "line": 186,
+    "text": "As soon as Mrs. Mikami can no longer see the taxi, the smile on Chiori Mikami's face disappears immediately. She huddles her head and pretends to sleep, and even refuses to talk to me. The atmosphere in the car feels thick like the air has solidified. All I can do is look at her long eyelashes trembling slightly over her stubbornly closed eyes and sigh quietly in my heart."
+  },
+  {
+    "line": 187,
+    "text": "Chiori Mikami... She is really sad this time."
+  },
+  {
+    "line": 190,
+    "text": "The clinic is very quiet, and the smell of disinfectant fills the air. While sitting in the waiting area, I notice that her eyes are staring at a young mother and her son sitting diagonally opposite us. The boy, who looks about three or four years old, is covering the left side of his face and complaining naively in his mother's arms."
+  },
+  {
+    "line": 191,
+    "text": "Little Boy"
+  },
+  {
+    "line": 192,
+    "text": "Mommy, it hurts."
+  },
+  {
+    "line": 194,
+    "text": "There, there. It won't hurt anymore after this."
+  },
+  {
+    "line": 195,
+    "text": "Can we not come here if it doesn't hurt?"
+  },
+  {
+    "line": 196,
+    "text": "Of course."
+  },
+  {
+    "line": 197,
+    "text": "Then will you take me to the amusement park if we don't come here?"
+  },
+  {
+    "line": 198,
+    "text": "...Hmph."
+  },
+  {
+    "line": 199,
+    "text": "The girl next to me snorts softly with eyes filled with envy. At this moment, I don't think anyone can tell that this is the same Chiori Mikami who is known as the demon king who always shows off her might in mahjong dojos."
+  },
+  {
+    "line": 200,
+    "text": "At this time, she is just a child who has had a one-sided disagreement with her mother."
+  },
+  {
+    "line": 201,
+    "text": "Chiori, are you okay...?"
+  },
+  {
+    "line": 202,
+    "text": "This is the third time you've asked me this. I'm starting to get sick of it even if you aren't."
+  },
+  {
+    "line": 203,
+    "text": "Oh, since you're fine, do you want to have a... plum candy?"
+  },
+  {
+    "line": 204,
+    "text": "Chiori Mikami rolls her eyes at me, then she covers her ears and ignores me."
+  },
+  {
+    "line": 205,
+    "text": "Sure enough, trying to use candy to lighten the mood with a girl who has a decaying tooth isn't a good idea. Just as I am about to change the subject and start again, an explosion of noise breaks out around us."
+  },
+  {
+    "line": 206,
+    "text": "Young Mother"
+  },
+  {
+    "line": 207,
+    "text": "You caused this problem in the first place. Why do we have to keep waiting?"
+  },
+  {
+    "line": 208,
+    "text": "I look up at the speaker."
+  },
+  {
+    "line": 209,
+    "text": "The person speaking is the mother who was holding her son just now, and the person she is scolding seems to be the dentist who had just come out of the consulting room. The dentist is wearing a mask, but I can tell how frustrated he is feeling at this moment from his dropping eyebrows."
+  },
+  {
+    "line": 210,
+    "text": "Dentist"
+  },
+  {
+    "line": 211,
+    "text": "Yes, but you've come here too many times already. We've performed all the necessary examinations and repairs, but we can't find anything wrong with your son. Maybe another doctor will be able to tell you something we can't. You had best make a new appointment as soon as possible."
+  },
+  {
+    "line": 212,
+    "text": "How can you be so irresponsible?! I have taken leave many times to take my son to see a dentist! You have to fix this for me! You also need to repay me for the loss of my working time!"
+  },
+  {
+    "line": 213,
+    "text": "The little boy who seems to be at the center of the dispute clings timidly to his mother's leg. The atmosphere becomes tense."
+  },
+  {
+    "line": 214,
+    "text": "It looks like a dispute between a patient and a dentist. Let's not... Chiori?"
+  },
+  {
+    "line": 215,
+    "text": "To my surprise, Chiori Mikami suddenly walks away from me and towards them. She speaks to the dentist and the young mother."
+  },
+  {
+    "line": 216,
+    "text": "Hello, why don't you try another way to deal with this? It might resolve your problem."
+  },
+  {
+    "line": 217,
+    "text": "Oh, it's you, Miss Mikami."
+  },
+  {
+    "line": 218,
+    "text": "It looks like this dentist knows Chiori Mikami. He leans over and whispers in Chiori Mikami's ear, then he calls the young mother to one side and starts discussing something with her in a low voice."
+  },
+  {
+    "line": 219,
+    "text": "While they speak, the little boy sits on the chair, biting his lip and looking uneasily in his mother's direction."
+  },
+  {
+    "line": 221,
+    "text": "Then let's perform the inspection once more according to the procedure."
+  },
+  {
+    "line": 223,
+    "text": "Okay."
+  },
+  {
+    "line": 224,
+    "text": "Seeming to have come to some agreement, the young mother waves for the little boy to enter the clinic for another examination."
+  },
+  {
+    "line": 225,
+    "text": "Out of curiosity, I follow Chiori Mikami inside the room. The dentist looks at us, but doesn't say anything, which only makes me more curious than ever."
+  },
+  {
+    "line": 226,
+    "text": "John, tell me if it hurts, okay?"
+  },
+  {
+    "line": 227,
+    "text": "John"
+  },
+  {
+    "line": 228,
+    "text": "Okay."
+  },
+  {
+    "line": 229,
+    "text": "The dentist asks the child called John to sit on a chair with his mouth wide open, then he turns on the light on one side and aims it at his mouth before poking his right cheek."
+  },
+  {
+    "line": 230,
+    "text": "There's nothing wrong with the filling we added here last time... Are you sure this is where it's hurting?"
+  },
+  {
+    "line": 231,
+    "text": "Huh? Just now... I remember John was holding his left cheek when he said it hurt."
+  },
+  {
+    "line": 232,
+    "text": "To my surprise, John hesitates for a while before nodding."
+  },
+  {
+    "line": 233,
+    "text": "After this, everyone understands what is happening. John is lying."
+  },
+  {
+    "line": 234,
+    "text": "John, mom is already so busy. Why do you have to make a joke like this? How can you do something so childish like pretending to have a toothache?!"
+  },
+  {
+    "line": 235,
+    "text": "Um... Um..."
+  },
+  {
+    "line": 236,
+    "text": "Seeing that his lie has been exposed, John opens his mouth in manic, and his eyes are suddenly filled with tears."
+  },
+  {
+    "line": 237,
+    "text": "Um... I'm sorry, mom..."
+  },
+  {
+    "line": 238,
+    "text": "I just want you to spend more time with me..."
+  },
+  {
+    "line": 239,
+    "text": "As long as I have a toothache, you'll spend more time with me..."
+  },
+  {
+    "line": 241,
+    "text": "You... Sigh... You silly boy... Why can't you just tell me what you want directly...?"
+  },
+  {
+    "line": 242,
+    "text": "In the end, both mother and son calm down and apologize to the doctor together. After that, they come over and thank Chiori Mikami warmly."
+  },
+  {
+    "line": 243,
+    "text": "The storm subsided just like that. After watching the mother and her son leave, I give Chiori Mikami a thumbs-up."
+  },
+  {
+    "line": 244,
+    "text": "Hmph!"
+  },
+  {
+    "line": 245,
+    "text": "Chiori Mikami turns her head around proudly. After helping them, her mood is no longer as heavy as it was before."
+  },
+  {
+    "line": 246,
+    "text": "The dentist leaves to clean up the consulting room and replenish disposable supplies and asks us to wait for a while. I take this opportunity to ask Chiori a question I've been holding back from since earlier."
+  },
+  {
+    "line": 247,
+    "text": "Chiori, since you were able to so acutely notice that boy's little trick, is it possible that you... have done that before?"
+  },
+  {
+    "line": 248,
+    "text": "Huh?"
+  },
+  {
+    "line": 249,
+    "text": "Have I been too gentle to you today? Is that why you're making up such rumors about me?! I'm not an immature child like that!"
+  },
+  {
+    "line": 250,
+    "text": "Er... But your mother is always somewhere else. Don't you miss her?"
+  },
+  {
+    "line": 251,
+    "text": "...You're so annoying. I don't want to talk to an idiot."
+  },
+  {
+    "line": 252,
+    "text": "Can you tell me? I want to know what you think."
+  },
+  {
+    "line": 253,
+    "text": "...My mother is a great doctor. She works to improve the health of humans, and her patients need her, so I won't waste my mother's time like that."
+  },
+  {
+    "line": 254,
+    "text": "Those patients need her, but you also need her. Chiori, I'm sure you're the most important child to your mother. You need to express your thoughts bravely."
+  },
+  {
+    "line": 255,
+    "text": "...I know that, but I'm okay as long as I get to see my mother every once in a while like today..."
+  },
+  {
+    "line": 256,
+    "text": "Really? But weren't you angry at your mother when you were still at home?"
+  },
+  {
+    "line": 257,
+    "text": "Chiori Mikami gives me a stunned look."
+  },
+  {
+    "line": 258,
+    "text": "Your mother couldn't come to the dentist with you like promised. You're actually unhappy about it, right? You've just hidden your unhappiness."
+  },
+  {
+    "line": 259,
+    "text": "Excuse me, sorry for making you wait so long. Miss Mikami can come in now. We're really to start the examination."
+  },
+  {
+    "line": 260,
+    "text": "To some extent, the doctor's timely call saved Chiori Mikami. She thrusts Index into my arms and runs inside the room for her oral examination. Before entering the consultation room, she seems to think of something and turns around to yell angrily at me."
+  },
+  {
+    "line": 261,
+    "text": "...W-Who gave you permission to try and guess what I'm thinking? {var:player_nickname}, you're a big idiot!!!"
+  },
+  {
+    "line": 262,
+    "text": "But her aggrieved expression and the red tips of her ears made her angry roar completely powerless."
+  },
+  {
+    "line": 263,
+    "text": "I sigh quietly and look at Index in my hands. Like its owner, it always faces everything with a proud smile."
+  },
+  {
+    "line": 264,
+    "text": "Hey, little guy, you look really strong, but you must also be tired, right?"
+  },
+  {
+    "line": 265,
+    "text": "Chiori Mikami's oral examination goes smoothly."
+  },
+  {
+    "line": 267,
+    "text": "By the time I leave the dental clinic with Chiori Mikami, I had already sent a text message to Mrs. Mikami to report on the results of the examination. I check the time on my phone and notice that we finished earlier than expected. After thinking to myself for a moment, I ask Chiori Mikami something."
+  },
+  {
+    "line": 268,
+    "text": "Um, Chiori, there's still time. If we rush to the airport now, we might still have some time to chat with your mother. What do you think?"
+  },
+  {
+    "line": 269,
+    "text": "...I don't want to. Let's look for a mahjong dojo around here. It's been a while since I've come to a mahjong dojo in this area. I want to see if there are any strong newcomers!"
+  },
+  {
+    "line": 270,
+    "text": "We can go to a mahjong dojo whenever we want. Don't you want to spend more time with your mother? She doesn't get to come back very often, and you don't know when she'll come back after she leaves this time."
+  },
+  {
+    "line": 271,
+    "text": "I already said I don't want to. She'll be leaving anyway, so an extra hour or two with her won't make a difference. Also, how my mother and I get along with each other is our business. We don't need to you arrange anything for us!"
+  },
+  {
+    "line": 272,
+    "text": "Chiori Mikami reacts very strongly to my suggestion. What should I do next...?"
+  },
+  {
+    "line": 273,
+    "text": "Respect Chiori Mikami's thoughts and play mahjong with her."
+  },
+  {
+    "line": 274,
+    "text": "Fine, let's look for a mahjong dojo then."
+  },
+  {
+    "line": 275,
+    "text": "Since she reacted so strongly, I choose to compromise."
+  },
+  {
+    "line": 277,
+    "text": "There is only one tile remaining in the wall in front of me. The two Jyanshi on my left and right stare nervously at Chiori Mikami's outstretched hand."
+  },
+  {
+    "line": 278,
+    "text": "This is impossible! This is impossible... This is impossible..."
+  },
+  {
+    "line": 279,
+    "text": "*Clack*."
+  },
+  {
+    "line": 280,
+    "text": "3 Man! Under the Sea! Haha, I win again!"
+  },
+  {
+    "line": 281,
+    "text": "ARGHHH!!! You're a demon! You must be a demon!"
+  },
+  {
+    "line": 282,
+    "text": "As Chiori Mikami laughs smugly, two more innocent Jyanshi are now traumatized by mahjong for life."
+  },
+  {
+    "line": 284,
+    "text": "But... Is Chiori really happy?"
+  },
+  {
+    "line": 285,
+    "text": "Bzzz--"
+  },
+  {
+    "line": 286,
+    "text": "The vibration of my phone brings me back to my senses. I wake up my phone and see that I've received a text message from Mrs. Mikami."
+  },
+  {
+    "line": 288,
+    "text": "(Text Message) Okay, I understand. Thank you for telling me this. It's made me realize that I don't understand my daughter well enough. Chiori has always acted extremely independent in front of me, which really has troubled me for some time."
+  },
+  {
+    "line": 289,
+    "text": "(Text Message) I think it's time for us to have a heart-to-heart talk as mother and daughter. At the same time, I hope that I'll have enough time to invite you to come over again the next time I return home on leave. I want to hear more about her and the stories of you two."
+  },
+  {
+    "line": 290,
+    "text": "It looks like Mrs. Mikami understands what I want to tell her. After putting away my phone, I can feel my mood improving slightly."
+  },
+  {
+    "line": 291,
+    "text": "After that, Chiori Mikami and I spend the entire afternoon in the mahjong dojo."
+  },
+  {
+    "line": 292,
+    "text": "By the time we return to her home, the huge villa is empty again, and everything has returned to normal."
+  },
+  {
+    "line": 293,
+    "text": "Find another way to encourage her to go to the airport."
+  },
+  {
+    "line": 294,
+    "text": "Chiori Mikami is a typical tsundere in One Han City. When she says no, she is often thinking of something else in her heart."
+  },
+  {
+    "line": 295,
+    "text": "A tsundere of her level calls for harsh and drastic measures..."
+  },
+  {
+    "line": 296,
+    "text": "Fine, you can play mahjong. I'm familiar with this area. Turn left at the next two corners and you'll find a dojo there. It has a nice environment, and the Jyanshi are quite skilled too. You can go now."
+  },
+  {
+    "line": 297,
+    "text": "Chiori Mikami looks at me warily after I surrender suddenly."
+  },
+  {
+    "line": 298,
+    "text": "What do you mean?"
+  },
+  {
+    "line": 299,
+    "text": "Nothing. You can play mahjong. I can go to the airport alone. After all, Mrs. Mikami wants to hear more stories about us. I'm sure she'll be happy to see me if I go there to say goodbye to her."
+  },
+  {
+    "line": 300,
+    "text": "!"
+  },
+  {
+    "line": 301,
+    "text": "Oh, just for the record, I invited you, but you don't want to go. If I accidentally say anything to your mother... Hehe... ouch! Don't hit me there!"
+  },
+  {
+    "line": 303,
+    "text": "Due to the almost tangible resentment flowing around Chiori Mikami, the taxi driver looks frequently at us curiously in the back."
+  },
+  {
+    "line": 304,
+    "text": "Driver"
+  },
+  {
+    "line": 305,
+    "text": "Calm down, little lady. What time is the flight?"
+  },
+  {
+    "line": 306,
+    "text": "No, you can drive slowly. The slower the better. In fact, it's best if we never arrive."
+  },
+  {
+    "line": 307,
+    "text": "Haha... little girl, you really know how to make jokes."
+  },
+  {
+    "line": 308,
+    "text": "The driver swallows and then steps hard on the accelerator. I get the feeling that he using his full power as he starts driving wildly."
+  },
+  {
+    "line": 309,
+    "text": "At the same time, with great difficulty due to the bumps and the recoil, I take out my phone and send a text message to Mrs. Mikami."
+  },
+  {
+    "line": 310,
+    "text": "Five minutes later, my phone vibrates gently. I take it out and see that Mrs. Mikami has sent me a reply, and her message makes me feel relieved immediately..."
+  },
+  {
+    "line": 311,
+    "text": "I look at Chiori Mikami next to me, who has started to play mahjong online because she is angry and doesn't want to talk to me. Very good, everything is going according to plan."
+  },
+  {
+    "line": 313,
+    "text": "Urgh..."
+  },
+  {
+    "line": 314,
+    "text": "The taxi driver leaves proudly, leaving Chiori Mikami and me holding onto some posts at the airport so that we don't fall from the motion sickness-induced dizziness."
+  },
+  {
+    "line": 315,
+    "text": "I was careless. I got motion sickness because I kept sending text messages to Mrs. Mikami, and Chiori Mikami got motion sickness because she was playing mahjong online."
+  },
+  {
+    "line": 316,
+    "text": "Y-You're so useless! I got motion sickness because I was playing mahjong. How did you also end up getting motion sickness?"
+  },
+  {
+    "line": 317,
+    "text": "...I..."
+  },
+  {
+    "line": 318,
+    "text": "I can't tell her that I've been secretly sending text messages to Mrs. Mikami."
+  },
+  {
+    "line": 319,
+    "text": "That's not the point. Send your mother a message to see where she is now."
+  },
+  {
+    "line": 320,
+    "text": "Huh? You still haven't contacted her? We're already at the airport!"
+  },
+  {
+    "line": 321,
+    "text": "Well... Hey, I thought you didn't want to come here to see her. Why are you so concerned about the details?"
+  },
+  {
+    "line": 322,
+    "text": "I don't want to see her, but... but we're here anyway... Arghhh! Hurry up! Call her now!"
+  },
+  {
+    "line": 323,
+    "text": "Yes, yes, yes."
+  },
+  {
+    "line": 324,
+    "text": "This is great. My flight has been delayed by an hour, and I was just thinking of what to do during this time. It's perfect that you've come."
+  },
+  {
+    "line": 325,
+    "text": "Chiori, did you not tell me you're coming because you wanted to give me a surprise?"
+  },
+  {
+    "line": 326,
+    "text": "I-It's because I wasn't sure that we would get here in time. I don't want to put any extra burden on you."
+  },
+  {
+    "line": 327,
+    "text": "There's no such thing. You'll never put any burden on me by coming to see me off. I'm very happy you're here."
+  },
+  {
+    "line": 328,
+    "text": "R-Really...?"
+  },
+  {
+    "line": 329,
+    "text": "Unlike how she was at home, Mrs. Mikami seems much more enthusiastic now, which surprises Chiori Mikami. However, it's obvious that she has relaxed because of this."
+  },
+  {
+    "line": 330,
+    "text": "What do you want to eat, Chiori? You can place your order over there. Can you also order some food for {var:player_nickname} and me?"
+  },
+  {
+    "line": 331,
+    "text": "Okay, leave it to me."
+  },
+  {
+    "line": 332,
+    "text": "Without wasting any time, Chiori Mikami goes to the counter to order food. From how excited she seems while moving, I can tell that she is in a much better mood after seeing her mother. Upon seeing this, Mrs. Mikami and I turn around and exchange an understanding look."
+  },
+  {
+    "line": 333,
+    "text": "Thanks for sending me that message, {var:player_nickname}."
+  },
+  {
+    "line": 334,
+    "text": "You're welcome. Anyone would do the same."
+  },
+  {
+    "line": 335,
+    "text": "Yes, on our way to the airport in a taxi, I sent Mrs. Mikami a text message to tell her that Chiori Mikami had very keenly noticed that the boy was lying at the clinic a little earlier."
+  },
+  {
+    "line": 336,
+    "text": "Mrs. Mikami has a sharp mind. She replied to my message quickly and took the initiative to ask me more about my observations of Chiori Mikami, then she said she knew what she needed to do and told me she would wait for us at the airport."
+  },
+  {
+    "line": 337,
+    "text": "Mrs. Mikami's gaze becomes gentle when she looks at Index sitting upright on Chiori Mikami's seat."
+  },
+  {
+    "line": 338,
+    "text": "Due to the special nature of our professions, when Chiori was little, Chiori's father and I could only give Chiori gifts like this to make up for the time we couldn't spend with her. Since then, my husband and I have been both proud and surprised by the independence she showed us."
+  },
+  {
+    "line": 339,
+    "text": "We have tried asking her tentatively if she wanted to spend more time with us, but she has always refused and told us to do what we need to do. After that, Riu started accompanying her, and they got along very well. Over time, we really thought that she really was used to living more independently and freely."
+  },
+  {
+    "line": 340,
+    "text": "I never realized that this is just a facade of her strong personality. As a mother, I find it quite shameful that I need an outsider to tell me what my daughter really thinks."
+  },
+  {
+    "line": 341,
+    "text": "I see. Well, you shouldn't blame yourself for this. You know what Chiori's personality is like. If she has decided to hide her true thoughts, no one can convince her otherwise."
+  },
+  {
+    "line": 342,
+    "text": "Thank you for the words of consolation. It seems that just being a mother in the standard sense of the word isn't enough. From now on, I need to become a friend she can trust."
+  },
+  {
+    "line": 343,
+    "text": "Haha, that would be great. Chiori would be overjoyed."
+  },
+  {
+    "line": 344,
+    "text": "However, it's indeed impossible for a mother who doesn't usually communicate a lot with her daughter to quickly change the way she interacts with her daughter."
+  },
+  {
+    "line": 345,
+    "text": "In the restaurant at the airport, the three of us eat burgers and fries in silence."
+  },
+  {
+    "line": 346,
+    "text": "Just now, after Chiori Mikami returned from ordering food, Mrs. Mikami tried to find a topic to chat with her, but she didn't know what to say after a while, and the three of us are now just staring at each other without saying anything. To break the awkward atmosphere, I think about it and make a suggestion."
+  },
+  {
+    "line": 347,
+    "text": "Why don't the three of us play a game of three-player mahjong online to pass the time?"
+  },
+  {
+    "line": 348,
+    "text": "Three-player mahjong?"
+  },
+  {
+    "line": 349,
+    "text": "You idiot! That's too rude!"
+  },
+  {
+    "line": 350,
+    "text": "No way! Mahjong is really interesting! Don't you also enjoy playing it a lot?"
+  },
+  {
+    "line": 351,
+    "text": "You idiot! Shut up!"
+  },
+  {
+    "line": 352,
+    "text": "...Okay."
+  },
+  {
+    "line": 353,
+    "text": "Mom?"
+  },
+  {
+    "line": 354,
+    "text": "I might not know very much about other things like the latest trendiest toy or board games, but mahjong has already been popular since I was a child, and I still remember the rules very clearly. Why don't we play one game then? But how will we play it? There are no mahjong tiles here."
+  },
+  {
+    "line": 355,
+    "text": "Upon hearing her mother's words, Chiori Mikami starts to calm down and glares at me."
+  },
+  {
+    "line": 356,
+    "text": "Mom, I'll help you download a mahjong game. You can play it on your mobile phone after that."
+  },
+  {
+    "line": 357,
+    "text": "Oh, okay."
+  },
+  {
+    "line": 358,
+    "text": "Although she is a little rusty at the very beginning, Mrs. Mikami quickly shows her domineering side after she becomes familiar with the rules again."
+  },
+  {
+    "line": 359,
+    "text": "Kita."
+  },
+  {
+    "line": 360,
+    "text": "At some times, I even get the feeling that I'm playing mahjong against two Chiori Mikamis."
+  },
+  {
+    "line": 361,
+    "text": "Tsumo!"
+  },
+  {
+    "line": 362,
+    "text": "In the end, Chiori Mikami wins this game, and Mrs. Mikami puts down her phone feeling like she hasn't had enough yet."
+  },
+  {
+    "line": 363,
+    "text": "Haha, it's very interesting. Chiori plays so much better than I did when I was little."
+  },
+  {
+    "line": 364,
+    "text": "Mom, I play better than many adults!"
+  },
+  {
+    "line": 365,
+    "text": "Oh, really? Then I need to practice harder to fight for the honor of all adults."
+  },
+  {
+    "line": 366,
+    "text": "Eh? Mom, you'll continue playing this game?"
+  },
+  {
+    "line": 367,
+    "text": "Yeah, this online mahjong game isn't bad at all, and it doesn't take that much time to play one game. I'll get your father to download it too. This way, we'll be able to make some time to play this game together and talk about how we're doing even when we are in different cities. What do you think about that?"
+  },
+  {
+    "line": 368,
+    "text": "As Mrs. Mikami speaks, she reaches out and touches Chiori Mikami's face, a bit unpracticed."
+  },
+  {
+    "line": 369,
+    "text": "Mom and dad both want to become your friend. Will you let us?"
+  },
+  {
+    "line": 370,
+    "text": "...Okay!"
+  },
+  {
+    "line": 371,
+    "text": "Chiori Mikami smiles from the bottom of her heart."
+  },
+  {
+    "line": 372,
+    "text": "Seeing the smile on her face, Mrs. Mikami and I also start smiling."
+  },
+  {
+    "line": 373,
+    "text": "*Ding-dong*-- An airport announcement starts playing, and a gentle and polite female voice issues a reminder that passengers can now start boarding the plane for Mrs. Mikami's flight."
+  },
+  {
+    "line": 374,
+    "text": "The plane carrying Mrs. Mikami takes off from the airport. Chiori Mikami and I look up and watch as the plane flies higher and higher until it disappears above the clouds."
+  },
+  {
+    "line": 375,
+    "text": "I look at Chiori Mikami next to me."
+  },
+  {
+    "line": 376,
+    "text": "How was it? Coming to the airport with me was more fun than going to a mahjong dojo, right?"
+  },
+  {
+    "line": 377,
+    "text": "Chiori Mikami glances at me."
+  },
+  {
+    "line": 378,
+    "text": "Wipe that smug look from your face. It's only because my mother is the best."
+  },
+  {
+    "line": 379,
+    "text": "She stands on her tiptoes and waves hard in the direction the plane was flying."
+  },
+  {
+    "line": 380,
+    "text": "...Don't feel bad. She'll return as soon she can."
+  },
+  {
+    "line": 381,
+    "text": "I don't feel bad at all."
+  },
+  {
+    "line": 382,
+    "text": "Are you acting tough again?"
+  },
+  {
+    "line": 383,
+    "text": "Not at all."
+  },
+  {
+    "line": 384,
+    "text": "There's nothing to be sad about. My parents are outstanding adults, and outstanding adults are always busy. I also want to become an outstanding adult like my parents."
+  },
+  {
+    "line": 385,
+    "text": "When that happens, I'll go to many places in the world to help lots and lots of people who need help. When that happens, I'll be as busy as them."
+  },
+  {
+    "line": 386,
+    "text": "Probably because she just got a filling and is still not used to it in her mouth, she licks her gums as she speaks, which makes her funny condition seem especially cute."
+  },
+  {
+    "line": 387,
+    "text": "Hmph... when that happens, you'll need to make an appointment with me a long, long time in advance when you want to play with me, you know?"
+  },
+  {
+    "line": 388,
+    "text": "This little lady seems to be less and less concerned about her image around me. Maybe this is something that I should be happy about."
+  },
+  {
+    "line": 389,
+    "text": "No problem, I'll definitely reserve your time a long, long time in advance. Chiori, have you thought about what kind of adult you want to be in the future? Do you want to be a doctor like your mother?"
+  },
+  {
+    "line": 390,
+    "text": "Um... If I become a doctor, I'll have to wear a white coat all day long like my mother. I don't like that."
+  },
+  {
+    "line": 391,
+    "text": "Oh, then do you want to become a physics professor like your father?"
+  },
+  {
+    "line": 392,
+    "text": "Yikes! I'll lose all my hair! That's too much of a sacrifice for me!"
+  },
+  {
+    "line": 393,
+    "text": "Haha!"
+  },
+  {
+    "line": 394,
+    "text": "Hmm... Hmm... Hmm... What should I become...?"
+  },
+  {
+    "line": 395,
+    "text": "Seeing her thinking really hard about this question, I touch her head."
+  },
+  {
+    "line": 396,
+    "text": "It's okay. There's no need to rush. You can take your time when growing up. I'm sure you'll find your own unique answer, but before you do, can you promise me something?"
+  },
+  {
+    "line": 397,
+    "text": "Haha, are you going to take this opportunity to make a weird and excessive request again? I'm warning you, my mother isn't here to protect you right now."
+  },
+  {
+    "line": 398,
+    "text": "I don't know if it's excessive, but I'm definitely not joking."
+  },
+  {
+    "line": 399,
+    "text": "Can you stay by my side more often before you grow up and start exploring a bigger world?"
+  },
+  {
+    "line": 400,
+    "text": "The summer evening breeze blows gently between us, rustling her long golden hair. Chiori Mikami looks at me and blinks before suddenly turning her head away. Her action, however, fails to hide the upturned corners of her mouth."
+  },
+  {
+    "line": 401,
+    "text": "Hmph! How dare you make such a request without my permission!"
+  },
+  {
+    "line": 402,
+    "text": "But... But... Since my mother kind of likes you, I'll reluctantly and temporarily agree to promise you that for one day so that I won't make her sad."
+  },
+  {
+    "line": 403,
+    "text": "One day?"
+  },
+  {
+    "line": 404,
+    "text": "Of course! How can I promise something like this for a long period of time? It obviously depends on your future performance. Hmph! If you don't do well, I can leave you at any time!"
+  },
+  {
+    "line": 405,
+    "text": "Haha, I understand. One day it is."
+  },
+  {
+    "line": 406,
+    "text": "In that case, take me home now."
+  },
+  {
+    "line": 407,
+    "text": "Yes, my lady."
+  },
+  {
+    "line": 408,
+    "text": "After 15 minutes, we meet Mrs. Mikami at a restaurant in the recreation area of the airport."
+  },
+  {
+    "line": 410,
+    "text": "That's one more future appointment to be honored. Every day I spend in One Han City is so busy. Anyway, no matter what, I think I'll need to see Chiori Mikami to stop worrying all the time."
+  },
+  {
+    "line": 411,
+    "text": "Oh, o-of course..."
+  },
+  {
+    "line": 412,
+    "text": "Having long been accustomed to all this, I just shake my head as I look at the smile on Chiori Mikami's face and think to myself that it's good as long as she is happy."
+  },
+  {
+    "line": 413,
+    "text": "Oh, it's almost time for the dental appointment. We can get ready to go now."
+  },
+  {
+    "line": 414,
+    "text": "...Dental appointment?"
+  },
+  {
+    "line": 415,
+    "text": "We don't say anything else until we arrive at the dental clinic. After checking the appointment details, the receptionist tells us to sit outside the consulting room and wait for our turn."
+  },
+  {
+    "line": 416,
+    "text": "Dental Clinic"
+  },
+  {
+    "line": 417,
+    "text": "(Text Message) She only needs a filling for one tooth. Everything else is normal, so you don't need to worry about anything."
+  },
+  {
+    "line": 418,
+    "text": "On the way to the mahjong dojo, after thinking it over several times, I decide to tell Mrs. Mikami about how Chiori Mikami resolved the conflict in the dental clinic, as well as her decision to go to a mahjong dojo."
+  }
+]

@@ -1,0 +1,478 @@
+1:This story started... three days before another summer weekend soon after my trip with Nadeshiko.
+2:player
+3:{character:player}...Your birthday party?!
+4:For a short moment, my suddenly raised voice covers the chirping of cicadas who are focused on creating a midsummer atmosphere outside the window. Originally leaning lazily on the sofa, I suddenly sit up straight.
+5:Nadeshiko
+6:{character:Nadeshiko}My birthday is just an excuse. I mainly want to hang out with my friends. Remember to keep the weekend free.
+7:{character:player}Haha, thanks for inviting me. I'll be there.
+8:My excited expression in the video call window on the mobile phone is a stark contrast to Nadeshiko's calm expression. Fortunately, after getting to know her better over this time, I am now able to clearly identify the signs of joy under her stern expression.
+9:{character:Nadeshiko}Yea, I'll come over to pick you up. Well, I gotta go. Chat later.
+10:{character:player}...Oh, what's the add...
+11:Beep—
+12:The video call has ended, leaving a callous combination of words and numbers on the screen: Call duration: 00:01:02.
+13:{character:player}...You didn't tell me the address...
+14:Fine. Even though we've gotten closer, I still need to adapt to Nadeshiko's extremely direct and simple way of chatting. Just as I open the messaging app to send her my question, a message notification pops up at the top of the screen.
+15:[Message]
+17:{character:player}I know, right?... Wait, what's this?
+18:When I take a closer look, I see this message that seems to be talking directly to my inner thoughts is from an unfamiliar group chat called "Ultimate Challenge." My finger moves away from my chat with Nadeshiko and taps this group chat instead. After that several new messages pop up in the group chat.
+19:Chihori Terasaki
+21:Kana Fujita
+22:{character:Kana Fujita} (starry eyes.jpg) That's so amazing!
+23:Ayane Kisaragi
+24:{character:Ayane Kisaragi}It was exactly the same for me. I had left something at her place before, so I thought I would tell her that I'll be coming by to pick it up and take the cake there before 12 o'clock to celebrate her birthday with her. But when I called, she asked me if I bought an ice cream cake and said she'll come to me instead since it was so hot. I felt so frustrated at that moment!
+25:{character:Kana Fujita}You left something at her place? What is it?
+26:{character:Ayane Kisaragi}Ah! That's not the point right now. Let's welcome {var:player_nickname}, who just joined us!
+27:{character:player}...Just "joined us?"
+28:I perceptively identify the keywords in the chat and quickly send my first message as a newcomer in the chat.
+29:...After chatting for a bit in the group, I finally understand what everything is about. In short, this chat is an "alliance of challengers" with the mission to give Nadeshiko a surprise for her birthday this year.
+30:The three members of the group are friends who will attend Nadeshiko's birthday party this weekend, and the reason they formed this temporary alliance is that they always failed to give Nadeshiko a surprise for her birthday, and the straightforward Nadeshiko gave the following replies in the past years—
+31:{character:Nadeshiko}Haha, I like surprises too, but I know you too well to not figure everything out. What? Pretend not to know? That's way too lame and unnecessary for us.
+32:{character:Nadeshiko}...Hmm... I think I already know something I shouldn't know yet. Should we just skip this part for my future birthday celebrations? The important thing is for us to hang out anyway. What do you think?
+33:{character:Nadeshiko}Huh? A challenge? You see this as a challenge? In that case, I'll be looking forward to what you'll come up with this year. I can't wait to see who will win.
+34:...As I listen to them in the group, I feel like I can see Nadeshiko's expression as she says these things.
+35:Looking at it like this, it really is an ultimate challenge to give the smart and straightforward Nadeshiko a birthday surprise. But if we manage to pull it off, these friends will feel really good about themselves and Nadeshiko will be happier than ever, right?
+36:{character:player}Haha, I understand now. Count me in! What's your plan this year? I'll do my best to cooperate!
+37:{character:Kana Fujita}Stare—.jpg
+37:{character:Chihori Terasaki}Stare—.jpg
+37:{character:Ayane Kisaragi}Stare—.jpg
+38:{character:player}...
+39:{character:Ayane Kisaragi}This is why we need you to join us this year, {var:player_nickname}. You can be in charge of this year's surprise plan!
+40:{character:player}Me? Why do you want me to do it?
+41:{character:Kana Fujita}I have a hunch that you'll come up with something unexpected, {var:player_nickname}! You're even as lucky as Kana sometimes!
+42:{character:Chihori Terasaki}According to my investigations, things planned by {var:player_nickname} have a higher-than-average success rate when compared with the other citizens of One Han City. You're already amazing enough that you deserve an exclusive interview for an issue of Extraordinary People. I'll also be able to collect more materials through this incident.
+43:{character:player}...Hold on! If I had such powerful special abilities, I would have used them ages ago!
+44:{character:Ayane Kisaragi}Your objection is overruled! We already decided on this before you joined us.
+45:{character:player}I see... So this isn't a discussion—you're just notifying me.
+46:{character:Kana Fujita}Don't worry! I'll do my best to help you!
+48:My phone keeps vibrating as my friends send me words of encouragement, which quickly drowns out my weak protests.
+49:{character:player}...Fine then... I'm afraid I'll lose sight of myself if I keep hearing all this flattery you're throwing at me... I will think of a plan, but I need some peace and quiet to sort out my thoughts first.
+50:{character:Kana Fujita}Good luck! You can do it!
+51:Satisfied with my response, my friends agree to let me go off the grid for a while. I close the group chat and start sorting my thoughts.
+52:To give Nadeshiko a birthday surprise, the most important thing is to find out where she wants to throw her birthday party this year. But based on what they just told me, it's very likely that I'll catch her attention if I ask her about it directly.
+53:To be safe, I better find out through more indirect methods.
+54:I type down three indirect investigation approaches on my phone and fall deep in thought as I decide where to start—
+55:Maybe the family members Nadeshiko grew up with would know more about where she might throw the party or what food she likes. Let's search for some clues from this angle. I think of a place and set off immediately.
+56:Motorcycle For Life driving center—this is where Nadeshiko invited me to be her student. Although there's a reason why we were here, this is where we had our first close interaction.
+57:At first, I thought this was just an ordinary driving school, but I later found out this is one place where Nadeshiko's father works and is a place Nadeshiko has been visiting since she was little.
+58:The person who told me this is the driving instructor I met that day, who is an important elder who watched her grow. Maybe I'll be able to find some clues if I chat with him.
+59:But things aren't going as smoothly as planned.
+60:Driving Instructor
+61:{character:Driving Instructor}...Nadeshiko's preferences for these things? I'm not really sure. I can probably tell you if you ask me what type of motorcycle, helmet, or race track she likes though.
+62:{character:Nadeshiko}I see...
+62:{character:player}I see...
+63:I didn't expect the driving instructor to give me this answer after I tell him why I've come.
+65:{character:player}!?
+66:{character:Driving Instructor}Follow me. I'll take you to her father. Don't be nervous—you're someone Nadeshiko actively asked for help, so you're bound to meet her father one day!
+67:...Something sounds wrong about what he said, but I can't really say what it is. The enthusiastic instructor takes me to the maintenance room...
+68:Nadeshiko's Father
+70:Although the man in front of me is in his fifties and has gray hair, he still looks quite burly and muscular. He stares at me without saying anything.
+71:{character:player}...Hi, you must be Nadeshiko's father. Sorry to disturb you, I'm {var:player_nickname}.
+72:{character:Nadeshiko's Father}...
+73:{character:player}...
+74:{character:Nadeshiko's Father}...!!! It's you!
+75:{character:player}...?!
+76:Stop! Why are you charging at me with a wrench in your hand?! We can resolve this with words!
+77:{character:Nadeshiko's Father}...Hahaha, I remember now. You're the person who Nadeshiko watched the sunset with last time!
+78:You've been staring at me with such sharp eyes for a while, and this is what you've been wanting to say to me?
+79:{character:player}...Yes, that's me.
+80:After interacting with Nadeshiko's father for such a short period of time, I finally understand where Nadeshiko picked up her tendency to hide her enthusiasm behind a cold expression.
+81:I explain why I've come to Nadeshiko's father.
+82:{character:Nadeshiko's Father}...A birthday surprise, hahaha! That's so nice of you! To be honest, even though it's great that she has such an independent and free personality, I've wondered whether she'll miss out on so many wonderful experiences because of this, like romance, intimacy, sweetness, and being taken care of gently...
+84:A complex emotion fills my heart as he talks so candidly and bluntly to me. I realize that there's an important commitment behind his seemingly casual reply.
+85:{character:player}Well, you don't need to worry about it anymore.
+86:When our eyes meet, we convey the answers to our questions and share our thoughts with each other through our eyes. As the concern in his eyes disappears, he smiles heartily and answers my initial question after chuckling.
+87:{character:Nadeshiko's Father}About her birthday... I'm ashamed to say this, but I've been taking her with me wherever I go for work since she was young because it's easier to take care of her that way, and not even her birthday was an exception.
+88:{character:Nadeshiko's Father}After she grew a little older, I realized that this wasn't that good for her and asked her where she wanted to go for her birthday. She said: "I'll go out and play, but you don't need to know where I'll be playing. I'm always here with you when you're working, so I think I have the right and freedom to go wherever I want alone on my birthday, right?" Can you imagine a ten-year-old girl saying something that brutal?
+89:{character:player}Haha, the fact that she can express her thoughts so honestly with you means that she treats you like a trusted friend. What happened later? Where did she go to play in the end?
+90:{character:Nadeshiko's Father}Here.
+91:{character:player}What?
+92:{character:Nadeshiko's Father}Yes, you heard right. Here. Although she said she would go out and play, every year, she chose to spend her birthday here with me.
+93:{character:player}Haha, I think she really does love motorcycles and she really felt like she needed to fight for her right to choose freely.
+94:{character:Nadeshiko's Father}Haha, you sure understand her. I'm her father, and I only realized this after many years as she got older. She loves motorcycles more than many other things, including her birthday...
+96:{character:Nadeshiko's Father}Yes... You're right... Wait, there was one exception!
+97:{character:Nadeshiko's Father}...When she was in high school, she once told me that she wanted to invite her classmates to a really popular restaurant for a party. That was the only time... Oh right, speaking of this, she mentioned that restaurant when she messaged me a few days ago and said she remembered that place well. Is it possible that she wants to take you and your friends there?
+98:A restaurant that Nadeshiko mentioned a few days ago? Instantly intrigued, I ask Nadeshiko's father to find their chat records and soon confirm the restaurant on my phone. It's a restaurant called Cute Mix, which is known in One Han City for its warm service and cute style.
+99:{character:Nadeshiko's Father}It looks like a good place for young people to have a gathering. What are you waiting for? Go and check it out. Maybe she's already contacted the place.
+100:{character:player}Yeah...
+101:Having discovered a lot, with a trace of hesitation, I leave the driving school at Nadeshiko's father's urging and check the three investigation approaches I wrote down earlier.
+103:Her friends who've been to her birthday party before should have a better chance of guessing where she will hold her birthday party this time correctly.
+103:{character:Narration}Her friends who've been to her birthday party before should have a better chance of guessing where she will hold her birthday party this time correctly.
+104:I open the group chat and ask them whether they know anything about the venue of the birthday party.
+105:{character:Kana Fujita}I was busy with work every time she had her birthday, so I'm definitely going this year!
+106:{character:Ayane Kisaragi}Gatherings organized by Nadeshiko... I suddenly remembered something funny, lol.
+107:{character:Kana Fujita}?
+107:{character:player}?
+107:{character:Nadeshiko}?
+108:{character:player}Can you elaborate?
+109:{character:Ayane Kisaragi}This happened when we were in high school, and I was her senior. As she was always troubled about finding ways to make herself cuter, I recommended her a restaurant that has a cute style to give her inspiration. But I didn't expect her to organize her birthday there...
+110:{character:Ayane Kisaragi}In the end, the cuteness of that place was too much. In addition to dreamy decorations, there was a special birthday performance in which employees dress up as fairy tale characters, put a tiara on the birthday girl, hold up a neon light board with her name on it, and sing birthday songs in a circle around her. And it's a special birthday song that you'll never forget! I'll search for it now!
+111:{character:Kana Fujita}(voice message) "A Cute Cute World...?"
+112:{character:Ayane Kisaragi}Yes, that's the one! Is it still popular among students nowadays?
+113:{character:Kana Fujita}...I think I know which place now. (stunned Kana.jpg)
+114:{character:Chihori Terasaki}If it's that place, it's more of a "social phenomenon" than just a popular place.
+116:The image of a sixteen-year-old Nadeshiko being forced to sit in a crowd with a small crystal tiara on her head, listening to the cheerful singing of employees in a place filled with pink bubbles and moving stiffly to make cute poses makes me laugh really rudely with my phone in my hand.
+117:{character:player}Hahahaha! Thanks for telling me what to avoid. I don't think Nadeshiko will ever want to experience that again in her life. Let's get back to the topic and think about where she'll want to go this year.
+118:{character:Ayane Kisaragi}Oh yes, we got sidetracked.
+119:{character:Chihori Terasaki}(link) What about this place?
+120:Chihori sends the link of a sports bar that mainly serves specialty drinks.
+121:{character:Chihori Terasaki}When Nadeshiko takes a break, she sometimes asks me to drink here. We would chat, listen to music, and watch motorcycle races on the television... This is a good place for a dinner gathering, and people can get some exercise too. I think this place is quite likely.
+122:{character:player}Hmm... I think this bar is the one Nadeshiko recommended to me before. She seems to like this place a lot.
+123:{character:Kana Fujita}... (stunned Kana.jpg)
+124:{character:Chihori Terasaki}Why don't you go there and ask around instead of just guessing? Maybe Nadeshiko has already contacted them.
+125:Time is running out. Should I listen to Chihori's recommendation and check out this sports bar, or should I keep investigating information from other channels?
+127:With this thought in mind, I search Nadeshiko's CatChat again.
+128:Nadeshiko's homepage isn't updated very frequently, and most updates are her complaints that reflect her mood at that time. There is basically nothing that is obviously related to her birthday preferences.
+129:Until I scroll to more than a month ago and see what she wrote about the day we watched the sunset.
+130:{character:player}Reading this invokes so many memories... But I still don't have any clues about the location of the birthday party...
+132:As I'm looking at the photo and reliving my memories, a message notification from Nadeshiko pops up at the top of my phone. She has sent me a question mark, which stands out because there's nothing else in the message. I'm confused at first, but then I take a deep breath when I realize why she messaged me that—
+133:{character:player}OH NO! What did I do? Why did I hit the Like button?!
+134:The glaring bright red Like at the bottom of the post about the sunset seems to be mocking my shaky hands.
+136:I need to calm down. What can I say without making her feel suspicious?
+137:As they say, a father knows their daughter the best. Also, Nadeshiko actively mentioned this restaurant where she held a birthday party before to her father not too long ago. I decide to go to this popular restaurant to find out.
+138:This popular restaurant is located inside a mall in the CBD of One Han City. Although I've heard of it before on the Internet, this is my first time visiting it in person.
+140:Employee
+141:{character:Employee}Ah! What a cute customer! Welcome to Cute Mix!
+142:{character:player}Haha, hi.
+143:{character:Employee}Cute customer, you'll need to get in the queue and wait to dine at our restaurant today. If you're bored, we have a mahjong challenge for customers, and those who beat our employees in a mahjong game get a 12% discount off their bill today! Would you like to try?
+144:The service is so considerate even when you're waiting for a table! I feel like the chance that Nadeshiko has chosen this restaurant has increased! Although I really want to play mahjong right now, I better deal with business first.
+145:I say no politely and tell the employee why I'm here. She listens patiently and looks like she remembers something after looking at Nadeshiko's photo.
+146:{character:Employee}Oh, this customer. I remember this Miss Nadeshiko. She came last weekend.
+147:{character:player}...Last weekend?
+148:The timing of her visit surprises me.
+149:{character:Employee}Yes, we have a special event on weekends. Customers can make an appointment with us to learn how to make our signature dishes. They can then choose to take it away or eat it at our restaurant. Miss Nadeshiko was one of the customers who made an appointment last weekend.
+150:{character:Employee}To be honest, the reason I remember her is because of her outstanding temperament and an incident that happened.
+151:{character:player}An incident?
+152:{character:Employee}Yes, Miss Nadeshiko was very serious during the lesson and the food she made was the best among all the students, but she wasn't happy with the result and requested to make it again. Out of curiosity, I asked her who she was going to share the food with, but she got angry with me and ignored me...
+153:{character:Employee}Ah, as an employee, I really shouldn't ask questions about their private affairs. I'm so sorry!
+154:The employee makes a very guilty expression. Meanwhile, I find this situation strangely familiar. It reminded me of when Nadeshiko was so engrossed in changing her teaching plan that she didn't hear me when we were at the driving school, so I start comforting the employee.
+155:{character:player}Based on my understanding of Nadeshiko, she doesn't get angry that easily. She was probably completely focused on making the dishes that she didn't hear your question. But if you're really sorry about this, I can pass the words.
+156:{character:Employee}Is that why? ...Phew, that would be so great, thank you! After the class ended last weekend, she made another appointment for this weekend to make our signature dishes again. I was thinking of apologizing to her in person when I see her again on the weekend.
+157:{character:player}Huh? She made an appointment to come again this weekend?
+158:{character:Employee}Yes. You said her birthday is this weekend, right? I think she is planning to invite all of you here and cook for you.
+159:{character:Employee}You also came to us to try to prepare a birthday surprise for her. What a splendid relationship! What do you want us to do? We'll do everything we can to help!
+160:{character:player}Haha, thanks...
+162:According to the information provided by the employee, I can confirm that Nadeshiko is planning on inviting her friends to this restaurant this weekend and cooking for everyone!
+163:I quickly notify everyone in the Ultimate Challenge group. Everyone and the restaurant employees help out to decorate the restaurant. I also order a birthday cake for her. When I think about how I'll get to eat food cooked by Nadeshiko on the day, I just can't wait for the weekend to arrive.
+164:However...
+165:{character:player}...Camping???
+166:It takes three seconds for me to respond after hearing Nadeshiko's words on the motorcycle, and I almost fall off.
+167:At this moment, we're on our way to the gathering point. In the rear-view mirror, I can see Nadeshiko squinting dangerously.
+168:{character:Nadeshiko}You don't like it? It's too late to say no now.
+169:{character:player}...Ahaha, that's not it. I'm just a little excited because I didn't expect that we'll be going camping.
+170:My voice gets quieter as I speak. How could it be camping? I thought we would be going to Cute Mix... My eyes black out momentarily when I think of everyone waiting to "ambush" Nadeshiko with a surprise at Cute Mix and the decorated venue.
+171:{character:Nadeshiko}Oh? Hold on, didn't I tell you about the venue? You're right, I think I forgot to tell you because I was too busy.
+173:{character:Nadeshiko}What? Why would you have such strange thoughts? Of course I forgot. But you don't need to worry about preparing food for camping. I arranged everything and even ordered a set meal from a restaurant. We can just take it directly when we get there in a moment.
+174:{character:player}...The set meal wouldn't happen to be from Cute Mix, right?
+175:{character:Nadeshiko}Huh? How did you guess that?
+176:Nadeshiko seems to realize something. She brakes and parks the motorcycle on the side of the road. At this point, all I can do is explain what happened.
+177:{character:player}...Well, so...
+178:After a brief explanation.
+179:{character:Nadeshiko}Hahaha! I didn't expect you to join them in this challenge. That's so surprising!
+180:{character:player}Surprising? But we lost the challenge...
+182:{character:player}...Hmm, it looks like this is the best solution.
+183:Nothing is more trustworthy than the advice of friends, so I go to this sports bar immediately.
+184:Bar Owner
+185:{character:Bar Owner}What did you just say? Can you speak a little louder?
+186:In this sports bar with avant-garde and bold decorations, an exciting motorcycle race with commentary is being played on a large projection screen. Half of the people here are sitting at a table, watching the live broadcast while chatting and drinking, while the other half are watching sports such as baseball, billiards, and squash, which are just as popular.
+187:The sounds of commentaries, cheering, and various ball games merge together to compose a unique urban nocturne.
+188:I go up to the bar, open Nadeshiko's photo on my phone, and loudly repeat my reason for visiting. After seeing Nadeshiko's photo on my phone, the bar owner finally looks away from the big screen and focuses on our conversation.
+189:{character:Bar Owner}You say you're a friend of Miss Nadeshiko, and you want to know whether she'll be coming here next weekend? Haha, why don't you just ask her if you're her friend? Stop acting. Miss Nadeshiko comes here often, and you're not the only person who has asked me for her contact information and when she'll be coming here after seeing her here, yet I haven't told anyone. This happens way too often, and I'm not someone who will betray my customers' privacy.
+190:{character:player}You've got it wrong. I really am her friend. I have a special reason for asking you.
+191:Flabbergasted, I tell the bar owner the reason and provide some evidence to support my words. After that, his attitude changes.
+192:{character:Bar Owner}Sorry, it looks like I really did misunderstand you. To make up for it, I can very confidently tell you that you guessed right. She will definitely celebrate her birthday here this weekend.
+193:{character:player}Did she tell you that herself?
+194:The bar owner's confidence is a pleasant surprise to me.
+195:{character:Bar Owner}Well, not really.
+196:{character:Bar Owner}Youngster, wipe that doubtful expression off your face and listen to me. Last week, Miss Nadeshiko came here and asked if I could teach her how to mix some drinks because she wanted to make some drinks for her friends in a few days.
+197:{character:Bar Owner}I agreed because it's not like I'll be teaching her any business secrets. I noticed that she was learning so seriously during the lesson, so I asked her if she wanted to prepare a surprise for someone important to her. Can you guess what happened? She usually acts so cool, but she actually got shy and pretended not to hear me. Haha! I must have hit the nail on the head.
+198:The bar owner bursts into laughter with his hands on his hips. Meanwhile, I was reminded of when Nadeshiko was so engrossed in changing her teaching plan that she didn't hear me when we were at the driving school.
+199:{character:player}Based on my understanding of Nadeshiko, she was probably not embarrassed but instead completely focused on making the drink that she didn't hear your question.
+200:{character:Bar Owner}Huh? Really?
+201:{character:player}Uh-huh.
+202:{character:Bar Owner}Fine then... Even if we rule out that detail, my information must still be accurate because Miss Nadeshiko ordered lots of alcohol from me and told me to get everything ready before the weekend! What would she need all that for if it isn't for her birthday party? Youngster, didn't you want to surprise her? Stop hesitating. Think about what you want to do, and I'll support you! You need to act fast to make things happen!
+203:{character:player}Haha, thank you.
+204:...Hmm, has Nadeshiko really decided to hold her party here?
+226:
+229:The cute atmosphere of this restaurant doesn't look like a dining environment Nadeshiko would enjoy. My understanding of Nadeshiko tells me I should consider other possible options first.
+230:I better consider other information first.
+233:{character:player}Oh, I pressed the button by mistake.
+234:{character:Nadeshiko}I see. I thought you liked it because you wanted to go on another trip with me. Why were you checking out something I posted a month ago?
+235:!!!
+236:So that's what she was wondering about.
+237:But I can't change my answer now.
+238:{character:player}Haha, a friend asked me if there are any fun places around here, and I thought of that trip.
+239:{character:Nadeshiko}Which friend is this?
+240:...Which friend? Um...
+241:While I'm hesitating about what to say, Nadeshiko calls me, and I decide to bite the bullet and answer it.
+242:{character:Nadeshiko}What's going on?
+243:Nadeshiko gets straight to the point, and her calm tone seems to tell me she has seen through me. I decide to surrender in my heart.
+244:{character:player}Sorry, the thing is, I wanted to know where you'll be having your birthday party, so I wanted to see what you've been up to recently.
+245:{character:Nadeshiko}...Huh?
+246:Strangely, Nadeshiko sounds surprised.
+247:{character:Nadeshiko}What? Um, I thought you were thinking of going there with someone else... Ahem... It's nothing then.
+249:After being taken aback for a moment, I suddenly understand and smile.
+250:{character:player}Don't worry, there's nothing like that. That scenery is our exclusive memory.
+251:{character:Nadeshiko}...Hey! I've never made such an unreasonable request! What were you saying before? Oh, the location of the birthday party, right? Did I forget to tell you? Um, okay, I think I did forget to tell you. We're going camping, and I've arranged the campsite and everything. I'll pick you up when it's time...
+253:Nadeshiko sounds a little flustered, but just as I'm about to tease her, she changes the subject.
+254:{character:Nadeshiko}Wait a minute! Why are you looking at my CatChat instead of asking me about it directly?
+255:{character:player}Um...
+256:{character:Nadeshiko}I know! You must be planning to find out where we'll be going and secretly prepare a surprise there! Did Kana and the others rope you into that surprise challenge?
+257:{character:player}...
+258:What's going on? How did she suddenly guess the answer? And why does she sound like she's just won?
+259:{character:Nadeshiko}Haha, has the cat got your tongue? It's a shame that I saw through your plan this year. Help me tell them to try harder next year. This year, you can just enjoy my camping gathering.
+260:{character:player}Yeah, I... guess that's all we can do now.
+261:Between tears and laughter, I can only surrender to the situation.
+262:{character:player}I deleted this photo by mistake, so I was thinking of saving it from your album.
+263:{character:Nadeshiko}Okay, but why didn't you just ask me for the original photo?
+264:{character:player}Well, you're also in this photo, so I feel bad about losing it...
+265:{character:Nadeshiko}I'm hurt by how little faith you have in me. Give me a sec.
+266:{character:player}Okay.
+267:Phew! That was close!
+268:Beep—
+269:Before long, Nadeshiko sends me all the photos that were taken during the trip.
+271:{character:player}Oh, what's this?
+272:Suddenly, I notice something strange about one of the photos Nadeshiko sent to me. It's a photo Nadeshiko took of the inn's courtyard. The strange thing about it is that the sky is sunny and the ground is dry.
+273:It was clearly raining on that day we went there. Even if the rain has stopped, the ground shouldn't be dry. I immediately send this photo to Nadeshiko.
+274:{character:player}What's this?
+275:{character:Nadeshiko}Oh, I sent you that one by mistake. I took that photo when I went back to visit the inn later. Do you still remember that the innkeeper has a lot of camping experience? I just happen to be interested in that type of outdoor experience right now, so I went back to ask him about it.
+276:Aha!
+277:Suddenly, I feel like I see a light bulb of wisdom lighting up about my head with the words "camping" shining brightly inside the light bulb. I suppress my excitement and keep chatting with Nadeshiko for a little longer before ending the conversation.
+278:I quickly search my phone for the innkeeper's contact details and contact him.
+279:{character:player}Hi, it's me, {var:player_nickname}.
+280:Innkeeper
+281:{character:Innkeeper}Oh, it's you.
+282:After chatting with the innkeeper for a while, he gladly tells me a piece of good news: Nadeshiko asked him a lot about his camping experience, and he recommended a campsite his friend runs to Nadeshiko. Upon hearing that, I just know I'm on the right track.
+283:{character:Innkeeper}...You want to give her a birthday surprise? Haha, how interesting. I understand. I'll contact the manager for you.
+284:{character:player}Thank you!
+285:After talking to the innkeeper, I manage to successfully contact the manager of the campsite. Since the innkeeper put in a word for me, after hearing that Nadeshiko and I are friends, the manager tells me that Nadeshiko has indeed booked a camping spot at the campsite.
+286:I relax after hearing this. Everything will be easy to sort out now that I have an exact location.
+287:I tell everyone this piece of information in the group chat and start planning our birthday surprise plan.
+288:Nadeshiko's familiar motorcycle stops in front of me once again early in the morning of this weekend day.
+315:Nadeshiko takes out her mobile phone to contact her other friends. Little does she know that I've also opened the group chat quickly to tell them the current situation.
+316:According to our original plan, the manager agreed to tell Nadeshiko when we arrive that the campsite she booked at the foot of the mountain can't be used for some reason and that she'll get a free upgrade to a campsite in the middle of the mountain as an apology. When she agrees and arrives there, she'll find the birthday party we've prepared for her.
+317:However, based on what Nadeshiko just told me, she has her own expectations for this camping experience. If we follow our original plan, Nadeshiko won't be able to set up a tent like she wanted and cook a meal for us, so I share this information with everyone in the group chat.
+318:{character:Kana Fujita}Why can't we use the campsite in the middle of the mountain?
+319:{character:Chihori Terasaki}It's probably to prevent forest fires. Open flames really are prohibited in the campsite we prepared in the middle of the mountain.
+320:{character:Kana Fujita}Quick-witted.jpg Then why don't we cook at the campsite at the foot of the mountain and then eat it up there?
+321:{character:Ayane Kisaragi}I don't think that's possible. If the kitchen is in another campsite, everyone will be tired after running around everywhere. We're going to have to choose between the two options.
+322:An unexpected situation has arisen. We need to decide between sticking to our original plan or changing our plans to adapt to the situation.
+323:Just like that, our birthday surprise challenge has failed, and Nadeshiko won't get a surprise for this year's birthday either.
+324:According to what they said, Nadeshiko also looks forward to getting a birthday surprise. With this thought in mind, I make a decision.
+325:{character:player}We can get the chefs in the kitchen to cook the food Nadeshiko prepared. We also prepared a lot of yummy food, right? Let's follow the original plan, as our surprise will definitely satisfy Nadeshiko.
+326:Everyone
+327:{character:Everyone}Alright!
+328:Seeing everyone's replies, I make up my mind and put away my phone before Nadeshiko finds out.
+330:{character:Nadeshiko}...It became unavailable at the last minute?
+331:Campsite Manager
+332:{character:Campsite Manager}Yeah, I'm really sorry about that. The area you reserved is closed today because the grassland irrigation pipe there is broken and needs to be repaired. I was so busy I didn't manage to inform you in time... But you don't need to worry, we'll upgrade you to a mountain campsite for free. The scenery there is even better!
+333:{character:Nadeshiko}A mountain campsite? I won't get to cook my own food and build my own tent there, right?
+334:{character:Campsite Manager}Um, yes... but a high-quality tent has already been set up there, and we can get some chefs to cook the food you prepare for you and take it to you when you want it. The mountain campsite also has audio-visual equipment, game consoles, and various entertainment activities to keep you and your friends happy!
+335:When Nadeshiko lowers her head to decide what to do. The owner winks at me, and I quietly stick up my thumb.
+336:{character:Nadeshiko}{var:player_nickname}? What do you think?
+337:Nadeshiko suddenly asks me what I think about this suggestion, so I quickly hide my thumb and act serious.
+338:{character:player}Oh, speaking of which, our friends should be on their way. Although it's a shame, I think the mountain campsite should be good too. As long as we're together, we'll have fun no matter where we are. We can come again another time to experience the things we missed out on today.
+339:{character:Nadeshiko}Okay then. In that case, please lead the way.
+340:{character:Campsite Manager}Thanks for your understanding! Please follow me.
+341:As we walk along the trail up the mountain, the scent of nature thickens around us. The sun pierces the dense canopies of trees to illuminate the stone path under our feet, making it look like a soft and dreamy carpet that isolates this place from the world below the mountain. As I walk, I find myself full of anticipation for the destination.
+342:{character:Campsite Manager}We're here. This is the mountain campsite. Please see if you're happy with it.
+343:{character:Nadeshiko}Thanks.
+344:Without thinking too much about it, Nadeshiko takes big strides into the camp we've decorated in advance. To her surprise...
+345:*Bang!* *Bang!* *Bang!*
+346:Our three friends who are waiting to "ambush" Nadeshiko in the campsite pull the party poppers in their hands, filling the air with golden confetti. Nadeshiko is so shocked by their appearance here and the beautifully decorated campsite that she just stands there.
+347:{character:Ayane Kisaragi}Happy birthday!
+348:{character:Chihori Terasaki}Happy birthday, Nadeshiko.
+349:{character:Kana Fujita}Happy birthday!
+350:{character:Nadeshiko}You guys... This...
+351:Our wish has come true. We finally get to see Nadeshiko make some different expressions.
+352:{character:Kana Fujita}Hahahaha! I finally get to see you shocked speechless! This year's surprise is a big success! I need my camera! I want to take a photo of this! ... Where's my camera?
+353:*Click*— Ayane Kisaragi stealthily takes a photo of this scene with an instant camera, which is already generating a photo.
+354:{character:Kana Fujita}Eh? Why do you have it?
+355:{character:Ayane Kisaragi}You flippantly put it there on the table when you grabbed a party popper.
+356:{character:Kana Fujita}No way!
+357:{character:Ayane Kisaragi}That's exactly what happened.
+358:{character:Kana Fujita}Terasaki senpai!
+359:{character:Chihori Terasaki}Oh my... I didn't see what happened, so I can't comment.
+360:Watching the friendly banter in front of her, Nadeshiko finally regains some of her composure after being surprised. She turns and looks at me with a smile in her eyes.
+361:{character:Nadeshiko}I assume you're behind this?
+362:{character:player}Happy birthday, Nadeshiko! I hope you enjoy this surprise.
+363:{character:Nadeshiko}Haha! Thanks a lot. I didn't expect you would be able to convince the campsite manager to go along with your plan. I thought they were planning to pretend to all arrive late or something. I underestimated you.
+364:{character:player}I'm happy as long as you like it. I was worried that I would ruin your plans for this camping experience by insisting on this plan. It's great that you're happy.
+365:{character:Nadeshiko}Well, although I do have some regrets about the camping experience, the feelings and consideration of my friends are more than enough to make up for it. Alright, let's start celebrating! And the first thing is—tell me exactly when you started planning this! Hmm?
+366:...In the end, we have a not-very-camping-like happy birthday celebration with Nadeshiko at the mountain campsite where everything has been prepared in advance. I hope that we'll be able to surprise Nadeshiko and make Nadeshiko's wish come true at the same time next year.
+367:{character:player}We can't let Nadeshiko's preparations go to waste. Why don't we change the plan and find a way to move as much of our decorations to the campsite at the foot of the mountain?
+369:We arrive at the camp after an hour. According to the plan, the owner who comes out to greet us should put on a little performance, but the plan has already changed...
+370:{character:Campsite Manager}Welcome! Miss Nadeshiko, the campsite you reserved is ready, and you can start building the tent now. I'll take you there now.
+371:The manager winks at me secretly.
+372:Phew! It looks like they've told the manager about the changes in time. Now we just need to wait for them to move as many decorations as possible.
+373:Nadeshiko and I build the tent while everyone tells her they'll be late. Nadeshiko doesn't really care though, and chats happily with me during this time. She also starts to prepare the ingredients while we're working.
+374:We continue doing this until we receive their message.
+376:I look around me quickly. As expected, three people appear from behind the bushes not far away, as well as a decorative balloon that is rising into the air.
+377:{character:Nadeshiko}{var:player_nickname}, what are you looking at?
+378:{character:player}!
+379:I hold Nadeshiko down when I notice that she is about to look in that direction. At the same time, someone reaches out to drag that balloon back from the other side of the bush.
+380:{character:Nadeshiko}...Is there something over there?
+381:Nadeshiko insists on looking over there anyway. Fortunately, she doesn't manage to see anything.
+382:{character:player}Oh... nothing. Nadeshiko, I'm getting a little hungry. Since they haven't arrived, shall we go and buy some food to eat?
+383:{character:Nadeshiko}There are some snacks in the tent. I'm not hungry.
+384:{character:player}Oh... actually, I meant to say that I'm a little thirsty, not hungry. Why don't—
+385:Before I can finish, Nadeshiko sticks a bottle of mineral water out, silencing my words. When she sees that I'm staring at her blankly without taking it, she makes an expression that says: "Geez, I don't know what to do about you" and very considerately opens the bottle cap before handing it to me again.
+386:{character:player}...Thank you. Shall we... I mean, shall we take a walk? They haven't arrived yet, so maybe we don't need to prepare these in such a rush?
+387:{character:Nadeshiko}But I want to get as much done as possible. If I start the preparations at the last minute, it might be more trouble than I expected, and I might need more time too.
+388:{character:player}Haha, th-that does make sense.
+389:As I rack my brains to think of reasons to take Nadeshiko somewhere else, she suddenly stops what she's doing.
+390:{character:Nadeshiko}Let's go.
+391:{character:Nadeshiko}Since you keep inviting me, I can't just keep you hanging. Let's go on a walk around here like you suggested.
+393:Nadeshiko and I walk side-by-side on the soft lawn and admire the campsite's scenery. It's beautiful, but if we keep going, we'll be walking out of the campsite!
+394:Bzzz— The mobile phone in my pocket finally vibrates.
+395:Seeing that Nadeshiko is wholeheartedly enjoying the scenery, I slow down to check my messages.
+396:"All set!"
+397:{character:player}Um, Nadeshiko, we've been walking for a while now. Shall we go back?
+398:{character:Nadeshiko}Oh yeah. I think Ayane and the others should arrive soon. They're so slow.
+399:{character:player}Haha, they don't want to be late either. I'm sure there's a good reason.
+400:{character:Nadeshiko}Hehe, I can't wait to see what they have managed to achieve in 20 minutes. What about you?
+401:{character:player}Obliviously that their last-minute decorations won't be as good as expected...!
+403:{character:Nadeshiko}Haha, I knew it. I knew I was right. The three figures hiding behind the bush were a little too obvious.
+404:{character:player}...Oh, darn it! We were so close!
+405:{character:Nadeshiko}Haha, I didn't expect you to participate in their surprise challenge thing. Unfortunately for you, I'm the winner again this year. In that case, as the "loser," you should follow my instructions now.
+406:This game of preparing a surprise and trying to see through the surprise seems to have become a harmless game between Nadeshiko and her friends. I raise my hands to surrender.
+407:{character:player}I surrender. What do you want me to do, Nadeshiko?
+408:After 15 minutes, I enter the camp anxiously and pretend to chat about the plan's detail with the other three. Then I tell them that the plan has changed and lure them out of the spot where they are hiding in the camp.
+409:Bang! The three of them are attacked by Nadeshiko's party poppers immediately after they get out
+410:With a party popper in her hands, Nadeshiko looks at the three of them who are still in shock and covered with colorful confetti.
+411:{character:Nadeshiko}I noticed you guys this year, so you need to try harder next year.
+412:Friends
+413:{character:Friends}...Ah! {var:player_nickname}, you betrayed us!
+414:{character:player}Hahaha, sorry—
+415:The dying flames of campfires at the foot of the mountain look like little spots of light.
+416:Although we didn't manage to complete the surprise challenge, everyone still had a great time. After learning about everything that happened today, Nadeshiko complained about how bad our performance was and how we didn't even think of a reason why they would be late.
+417:But she also decided to cook food and make drinks for everyone. She also domineeringly said that no one would be allowed to get in her way. As a result, we also had an unforgettable night like this.
+419:After confirming that everyone was asleep, I am ready to get inside my own tent to get some rest. Suddenly, a hand grabs my wrist.
+420:{character:player}...Nadeshiko?
+421:Nadeshiko, who I had just accompanied back to her tent, has returned.
+424:I look at Nadeshiko under the dim light and realize how drunk she really is under her seemingly calm expression.
+425:{character:Nadeshiko}Follow me.
+427:Nadeshiko and I are inside the mountain campsite. Under the influence, she insisted on taking me here from the foot of the mountain half an hour ago.
+428:{character:player}Be careful and take your time. I remember the lights are around here... Let me look for...
+429:{character:Nadeshiko}Hmm... Mmm!!
+430:{character:player}Mmm!!
+431:Nadeshiko, who was swaying on her feet stumbles for some reason. She tries to grab me for support but ends up pulling me down with her.
+432:Thump—
+433:After some collisions, we inadvertently switch on a lamp in the small room. I squint to adjust to the warm light and look at Nadeshiko in front of me.
+434:{character:Nadeshiko}Oh...
+436:{character:Nadeshiko}Oh... So this is where you decorated the party for me... It's a shame I didn't get to see what it looked like after everything is completed.
+439:{character:player}Eh?
+440:Nadeshiko grabs a red ribbon next to her.
+441:{character:Nadeshiko}Give me your hand.
+442:{character:player}...?
+445:{character:player}Nadeshiko, what are you doing?
+446:{character:Nadeshiko}Leaving a mark.
+447:{character:player}What?
+448:{character:Nadeshiko}You dummy. If I tie a bow on the surprise, I'll be able to recognize it immediately the next time it appears in front of me. I'll DEFINITELY recognize it with one glance!
+449:Nadeshiko ties an uneven bow around my wrist, but she is really satisfied with herself and smiles drunkenly after patting it.
+450:{character:Nadeshiko}...It's beautiful... Everything is the way I like it...
+451:As she speaks, her head starts to drop. Fortunately, I catch her quickly before she falls to the ground and rest her head on my palm.
+452:{character:player}Nadeshiko?
+453:{character:Nadeshiko}...Zzz... Zzz...
+454:She falls asleep on the pillow formed by my palm. Her slightly moist breath hits the skin of my wrist gently, imbuing even the slightly cool red ribbon with her warmth.
+456:{character:Chihori Terasaki}One year, I made her a birthday magazine and gave it to her pretending that it was the motorcycle magazine she has subscribed to, but she recognized it immediately because it had a different thickness than usual.
+457:{character:Chihori Terasaki}+1
+457:{character:Ayane Kisaragi}+1
+458:Ask Nadeshiko's family about what they know of her habits
+459:Refer to her friends' experiences and past birthday celebration locations
+460:Check out Nadeshiko's social media for clues
+461:{character:Driving Instructor}But if you want to know all this, why don't you just ask her father directly? He's here today.
+462:Maintenance room of the driving school
+463:Go to the restaurant
+464:Ask about other information
+465:{character:Nadeshiko's Father}I can finally stop worrying now, right?
+466:Go to the sports bar
+467:Sorry, I pressed the button by mistake.
+468:I deleted this photo by mistake, so I was thinking of saving it from your album.
+471:Decide that it is this restaurant
+472:Investigate further through other channels
+473:Three days later, on the day of the birthday
+474:According to the information provided by the owner of the sports bar, I can confirm that Nadeshiko is planning on inviting her friends to this sports bar this weekend and making special drinks for everyone!
+475:I quickly notify everyone in the Ultimate Challenge group. Everyone helps out to decorate the place with the support of the owner of the sports bar. I also order a birthday cake for her. When I think about how I'll get to try the special drink Nadeshiko makes for us on the day, I just can't wait for the weekend to arrive.
+476:{character:Nadeshiko}Oh? Didn't I tell you about the venue? I think I forgot to tell you because I was too busy.
+478:My voice gets quieter as I speak. How could it be camping? I thought we would be going to the sports bar??//nMy eyes black out momentarily when I think of the decorated venue.
+479:{character:player}...So you just forgot and it's not intentional?!
+480:{character:Nadeshiko}What? Why would you have such strange thoughts? Of course I forgot. But you don't need to worry about preparing food for camping. I arranged everything and even prepared drinks. We can just take it from a bar I'm familiar with directly when we get there in a moment.
+481:{character:player}...You wouldn't happen to be talking about that sports bar, right?
+482:{character:Nadeshiko}Yeah, but how did you guess that?
+483:Nadeshiko seems to realize something and parks the motorcycle on the side of the road. At this point, all I can do is explain what happened.
+484:After explaining things briefly to Nadeshiko.
+485:{character:Nadeshiko}Hahaha! I didn't expect you to join them in this challenge. That's so surprising! Although I don't want to waste your preparations, I've prepared some special food in addition to the drinks for today's camping experience, so it wouldn't be very suitable at this restaurant.
+486:{character:player}Oh, I see.
+487:{character:Nadeshiko}So why don't we follow my original plan for today? We'll go get the alcohol I ordered and explain things to the owner before we leave, okay?
+488:At the sports bar
+489:Ask Nadeshiko's friends
+491:Although Nadeshiko and Chihori go to this sports bar frequently, one of the attendees of the party is Kana Fujita, a high schooler who isn't supposed to drink alcohol, which means this venue isn't very suitable. I believe Nadeshiko won't forget that.
+492:Investigate via other channels.
+493:Ask Nadeshiko's family
+495:{character:player}Huh?
+496:{character:player}Oh, it's camping. Take it easy.
+497:{character:player}Thank you!
+499:Follow the original plan
+500:Change your mind and follow a different plan
+501:Nadeshiko and I arrive at the destination, an outdoor camping venue on the outskirts of One Han City, after an hour. As planned, the campsite manager greeted us and said the script he prepared in advance with an apologetic expression on his face.
+502:Campsite
+504:{character:player}Good!
+505:{character:player}...Um, we rushed the preparations this time. I'll definitely give you a surprise you won't see coming next time.
+507:Twenty minutes later
+508:I'm sure
+509:Check other information first
+511:{character:player}But I don't think she'll arrange her birthday party at the driving school since she's actively organizing it herself this year...
+512:{character:Nadeshiko}{var:player_nickname}, Although I don't want to waste your preparations, I can't handle the enthusiastic service of that restaurant, so why don't we follow my original plan for today? We'll go get the food I ordered and explain things and apologize to the restaurant's owner before we leave.
+516:Go to the sports bar
+518:I'm not sure. Check out Nadeshiko's social media for clues
+520:{character:Nadeshiko's Father}...
+521:Should I listen to his recommendation and check out this Cute Mix restaurant, or should I keep investigating information from other channels?
+524:{character:player}Nadeshiko, are you okay?
+525:"Ding"— The moment the door opened, an employee wearing a cute outfit starts smiling at me enthusiastically.
+526:{character:player}I get that. (ROFL.jpg)
+528:Everyone's brains shut down instantly the moment I blurt that out.
+529:{character:player}Good night, everyone—
+530:The flashlight of a mobile phone illuminates this quiet and empty room, revealing a small interior layout.//n—Although it's a little messy here, there are balloons printed with the words "Happy Birthday" on them, as well as some large gift boxes and large decorations.
+533:{character:Kana Fujita}That's enough chatting. Find a way to lead her away for a while. My legs are going numb!
+535:I think to myself as I leave. Has Nadeshiko really decided to hold her party here?
+537:I didn't expect the restaurant Ayane Kisaragi mentioned to be the same one her father suggested!
+538:The image of a sixteen-year-old Nadeshiko being forced to sit in a crowd with a small crystal tiara on her head, listening to the cheerful singing of employees in a place filled with pink bubbles and moving stiffly to make cute poses makes me laugh really rudely with my phone in my hand. I'm more sure than ever that this isn't where she'll have her party.
+540:To find out what she's thinking, I better start searching from her social media. There might be some clues hidden in her daily records of her mood, so it might be the most direct way to get clues.
+541:To find out what she's thinking, her social media, where she records her mood daily should be the most direct way to get clues.
+545:With this thought in mind, I search Nadeshiko's CatChat.
+547:After returning home and searching for a while...
+548:To find out what she's thinking, her social media moments, where she records her feelings daily should be the most direct way to get clues.
+552:To find out what she's really thinking, I should keep checking her social media. There might be some clues hidden in her daily records of her mood, so it might be the most direct way to get clues.
+555:With this thought in mind, I quickly leave this sports bar.
+556:Nadeshiko's CatChat homepage isn't updated very frequently, and most updates are her complaints that reflect her mood at that time. There is basically nothing that is obviously related to her birthday preferences.
+563:According to today's Internet social etiquette, it's quite obvious that there should be a reason for liking a CatChat post from more than ten days ago. Will my plan to prepare her a surprise be exposed here?!
+564:I sit on the motorcycle quickly without waiting for her to speak.
+565:{character:Nadeshiko}Oh? You sure are proactive today.
+566:{character:player}Haha, I'll be following all your arrangements today since you're the birthday girl!
+568:{character:player}Oh, so you forgot? I thought you wanted to give us a surprise.
+570:{character:Nadeshiko}To be honest, I was inspired by the innkeeper and wanted to experience some camping activities like building a tent, cooking food, and mixing drinks... I started preparing half a month in advance and learned how to do some of that. We'll go pick up the food and alcohol I ordered in advance from the shops.
+571:{character:Nadeshiko}...Fine, I guess that's okay too.
+572:{character:player}...I see! It sounds amazing. I can't wait!
+573:{character:Nadeshiko}Hold on, I'll let everyone know now.
+574:I send my message quickly in the group chat. On our way to the campsite, I use every opportunity I get while Nadeshiko is getting the food and alcohol she ordered to discuss specific details with everyone.
+578:I decide to keep investigating via other channels.
+581:I was thinking of going to the driving school where Nadeshiko teaches to ask one of the driving instructors who watched her grow up for clues, but after checking the time, I realize that he should have left work by the time I arrive there. I should go home and check Nadeshiko's social media for clues today.
+583:{character:Nadeshiko's Father}Well... You're right about that... Oh yes, she recently mentioned a restaurant to me. She said it's a place she went to when she was still at school and that she remembered that place well! Is it possible that she wants to take you and your friends there?
+584:A restaurant that Nadeshiko mentioned a few days ago? Instantly intrigued, I ask Nadeshiko's father to find their chat records and soon confirm the restaurant on my phone. It's the restaurant called Cute Mix that Ayane Kisaragi mentioned, which is known in One Han City for its warm service and cute style!
+585:{character:player}Um.. Haha...
+590:Having discovered a lot, with a trace of hesitation, I leave the driving school at Nadeshiko's father's urging.
+592:Based on what Ayane Kisaragi said, it's very unlikely that Nadeshiko will choose to celebrate her birthday at Cute Mix again. She probably told her father she remembered it well because she remembers the embarrassing situation from back then. This path leads to a dead end, so I better check her social media after I go home to see if there are other possibilities.
+593:After several urgent and secret discussions...
+594:{character:Nadeshiko's Father}It looks like a good place for young people to have a gathering. This must be the place!
+595:With this thought in mind, I decide to search Nadeshiko's CatChat again.
+596:Narration
+599:I should go home and check Nadeshiko's social media for clues today.
+600:{character:Nadeshiko}Well, it's good...
+601:{character:Nadeshiko}Hold on, did I forget to tell you we're going camping?
+602:{character:Nadeshiko}Shush, darling... They're all asleep... Whether they were surrounded by reporters or forced to write a whole day's press release in an hour, they tried really hard to come here to celebrate my birthday, so let's not wake them up.
+603:{character:player}Um... why... why did you suddenly call me that... Also, aren't these things the excuses they gave you in the morning when they said they would be late? Aren't they also the same things you've been complaining about all night?
+604:{character:Nadeshiko}Huh? I won't give you that chance, darling.
+606:...She still has such a strong presence even when she's drunk. I smile and give Nadeshiko my hand. In the next second, something cool and silky is wrapped around my wrist... It's the silk ribbon Nadeshiko was holding.
+608:{character:Messages}(Message) Although I know this is her style, it does leave me feeling powerless sometimes.
+609:{character:Nadeshiko}Aren't you going to be obedient, darling?
+610:At this moment, the loosely tied knot seems to have the indissoluble binding power of a magical contract. I know that we'll be each other's surprise from now on. For example, Nadeshiko always likes to come right up to me and call me darling. In her words, this is just the beginning of the surprise...

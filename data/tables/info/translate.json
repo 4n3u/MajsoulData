@@ -1,0 +1,90 @@
+[
+  {
+    "original": "unknown error",
+    "chs": 1,
+    "chs_t": 1,
+    "en": 1,
+    "jp": 1,
+    "kr": 1
+  },
+  {
+    "original": "auth not found",
+    "chs": 2,
+    "chs_t": 2,
+    "en": 2,
+    "jp": 2,
+    "kr": 2
+  },
+  {
+    "original": "auth expired",
+    "chs": 3,
+    "chs_t": 3,
+    "en": 3,
+    "jp": 3,
+    "kr": 3
+  },
+  {
+    "original": "not authed",
+    "chs": 4,
+    "chs_t": 4,
+    "en": 4,
+    "jp": 4,
+    "kr": 4
+  },
+  {
+    "original": "game not found",
+    "chs": 5,
+    "chs_t": 5,
+    "en": 5,
+    "jp": 5,
+    "kr": 5
+  },
+  {
+    "original": "send existing error",
+    "chs": 6,
+    "chs_t": 6,
+    "en": 6,
+    "jp": 6,
+    "kr": 6
+  },
+  {
+    "original": "duplicate token",
+    "chs": 7,
+    "chs_t": 7,
+    "en": 7,
+    "jp": 7,
+    "kr": 7
+  },
+  {
+    "original": "game not start",
+    "chs": 8,
+    "chs_t": 8,
+    "en": 8,
+    "jp": 8,
+    "kr": 8
+  },
+  {
+    "original": "live stream not found",
+    "chs": 9,
+    "chs_t": 9,
+    "en": 9,
+    "jp": 9,
+    "kr": 9
+  },
+  {
+    "original": "segment delay",
+    "chs": 10,
+    "chs_t": 10,
+    "en": 10,
+    "jp": 10,
+    "kr": 10
+  },
+  {
+    "original": "segment not found",
+    "chs": 11,
+    "chs_t": 11,
+    "en": 11,
+    "jp": 11,
+    "kr": 11
+  }
+]

@@ -1,0 +1,1398 @@
+[
+  {
+    "line": 1,
+    "text": "I check the time after playing an exciting mahjong game and realize it's almost time to leave home. I'm to meet Ciri outside the Raven hideout at the time we agreed upon with Soumu yesterday."
+  },
+  {
+    "line": 2,
+    "text": "To my surprise, when I open my living room door, I see two people standing on the left and right side of my door, looking at each other. They are Nadeshiko, who I haven't seen for many days, and Ciri, who I was just with yesterday."
+  },
+  {
+    "line": 3,
+    "text": "The silence between them inexplicably makes it seem much colder outside the door than inside. It also makes me feel guilty for some reason even though I hadn't done anything."
+  },
+  {
+    "line": 4,
+    "text": "Since it looks like neither of them intends to speak first, I force myself to break the deadlock."
+  },
+  {
+    "line": 5,
+    "text": "player"
+  },
+  {
+    "line": 6,
+    "text": "{character:player}Um... Why are you both outside my door?"
+  },
+  {
+    "line": 7,
+    "text": "Nadeshiko"
+  },
+  {
+    "line": 8,
+    "text": "{character:Nadeshiko}Are you asking me? Or are you..."
+  },
+  {
+    "line": 9,
+    "text": "{character:player}Ahahaha... I'm asking both of you."
+  },
+  {
+    "line": 10,
+    "text": "{character:Nadeshiko}I've made some modifications to my beloved motorcycle and have come to take you out for a ride so you can experience it."
+  },
+  {
+    "line": 11,
+    "text": "I turn and look at Ciri inquisitively. She glances sideways at me and speaks nonchalantly."
+  },
+  {
+    "line": 12,
+    "text": "Ciri"
+  },
+  {
+    "line": 13,
+    "text": "{character:Ciri}I've come to take you to the agreed meeting place."
+  },
+  {
+    "line": 14,
+    "text": "{character:Nadeshiko}The agreed meeting place...?"
+  },
+  {
+    "line": 15,
+    "text": "I can understand that Ciri wouldn't want to tell Nadeshiko about Raven since they don't really know each other, but it's obvious that Nadeshiko has misunderstood the meaning of \"the agreed meeting place.\""
+  },
+  {
+    "line": 16,
+    "text": "She looks all over me with a strange expression and then looks at Ciri standing opposite to her."
+  },
+  {
+    "line": 17,
+    "text": "{character:Nadeshiko}No wonder those juniors at Asaha High School keep saying they can't get hold of you recently. So you've been busy dating."
+  },
+  {
+    "line": 18,
+    "text": "Juniors... Is she referring to Nana Shiraishi?! It must be because I haven't been replying her text messages! She is spreading rumors about me and defaming and slandering me!"
+  },
+  {
+    "line": 19,
+    "text": "{character:player}Nadeshiko, listen to me. It's not what you think."
+  },
+  {
+    "line": 20,
+    "text": "Yikes! I only realize how terrible this line sounds after I say it, but I don't have a choice. If I don't clarify this now, I'm afraid that everyone in Asaha High School will know about it by tomorrow."
+  },
+  {
+    "line": 21,
+    "text": "{character:Nadeshiko}Oh, then I'll treat it as a misunderstanding. In that case, will you come with me for a ride or...?"
+  },
+  {
+    "line": 22,
+    "text": "After hearing what Nadeshiko says, Ciri also folds her arms and looks at me with raised eyebrows. She doesn't say anything, but she is emitting intense pressure."
+  },
+  {
+    "line": 23,
+    "text": "Is this the so-called \"battlefield of love\" that I've only heard rumors about? Is this my chance to be the protagonist for free? If that's the case, there should be two options in front of me right now..."
+  },
+  {
+    "line": 24,
+    "text": "Wait a minute! I shouldn't be thinking about that right now. This isn't a galgame!"
+  },
+  {
+    "line": 25,
+    "text": "Ciri and I aren't going out on a date either. We've agreed to meet up to deal with something important!"
+  },
+  {
+    "line": 26,
+    "text": "After calming down, I decide to quickly resolve the dilemma in front of me. Under the pressure of Nadeshiko's scorching gaze, I lean over and speak into Ciri's ear to ask her for her opinion as a fellow person who is involved in the red-crowned crane incident."
+  },
+  {
+    "line": 27,
+    "text": "{character:player}Can I roughly explain what we're doing to Nadeshiko?"
+  },
+  {
+    "line": 28,
+    "text": "{character:Ciri}Why are you so nervous if you haven't done anything wrong?"
+  },
+  {
+    "line": 29,
+    "text": "{character:player}Ahaha..."
+  },
+  {
+    "line": 30,
+    "text": "{character:Ciri}I get it. Tell her then, but I'm sure you know what you shouldn't tell her."
+  },
+  {
+    "line": 31,
+    "text": "{character:Ciri}OK."
+  },
+  {
+    "line": 31,
+    "text": "{character:player}OK."
+  },
+  {
+    "line": 32,
+    "text": "I think Ciri is thinking of the same thing as me. There have been many hidden dangers in this red-crowned crane incident so far, so telling Nadeshiko everything might put her in danger too."
+  },
+  {
+    "line": 33,
+    "text": "I think about what to say and then briefly explain the situation to Nadeshiko after omitting anything that might be dangerous."
+  },
+  {
+    "line": 34,
+    "text": "{character:player}Actually, Ciri and I found an injured red-crowned crane the other day, and we've been busy trying to help it recently."
+  },
+  {
+    "line": 35,
+    "text": "After I finish speaking and wait nervously for Nadeshiko's reply, Nadeshiko and Ciri suddenly burst out laughing."
+  },
+  {
+    "line": 36,
+    "text": "{character:Nadeshiko}Haha, I told you right? Don't you think {var:player_nickname}'s embarrassed expression is cute?"
+  },
+  {
+    "line": 37,
+    "text": "{character:Ciri}Yeah, it is quite cute."
+  },
+  {
+    "line": 38,
+    "text": "{character:player}Huh?"
+  },
+  {
+    "line": 39,
+    "text": "Nadeshiko turns to look and me and laughs while giving me an explanation."
+  },
+  {
+    "line": 40,
+    "text": "{character:Nadeshiko}We couldn't resist teasing you since it's so fun to see you caught in a dilemma."
+  },
+  {
+    "line": 41,
+    "text": "{character:Nadeshiko}Go and do what you need to do. I can always ask you to go on a ride with me next time."
+  },
+  {
+    "line": 42,
+    "text": "After speaking, she stands up straight and holds her key tightly in her palm after twirling it around her finger twice. Nadeshiko shakes the jacket in her arms and puts it on, then she looks up at Ciri as if she has an afterthought."
+  },
+  {
+    "line": 43,
+    "text": "{character:Nadeshiko}Shall we go out and have some fun together next time?"
+  },
+  {
+    "line": 44,
+    "text": "{character:Ciri}That sounds good. I kind of want to see whether my black panther or your \"cheetah\" has more explosive power."
+  },
+  {
+    "line": 45,
+    "text": "{character:Nadeshiko}That's cheeky of you. Why don't we have a battle of endurance instead?"
+  },
+  {
+    "line": 46,
+    "text": "{character:Ciri}Then it'll forfeit, and I'll have to take its place instead."
+  },
+  {
+    "line": 47,
+    "text": "{character:Nadeshiko}Haha, then let's talk about this later when I get to meet Mojito for real."
+  },
+  {
+    "line": 48,
+    "text": "{character:Ciri}Sure."
+  },
+  {
+    "line": 48,
+    "text": "{character:player}Sure."
+  },
+  {
+    "line": 49,
+    "text": "Although I don't really understand their conversation, when I look behind Ciri... I feel sorry for Mojito who is being forced to participate in a race when it isn't even here."
+  },
+  {
+    "line": 50,
+    "text": "After Nadeshiko leaves, Ciri and I make our way to the Raven hideout hastily. On our way there, I recall their conversation and ask Ciri a question curiously."
+  },
+  {
+    "line": 51,
+    "text": "{character:player}What were you and Nadeshiko talking about earlier?"
+  },
+  {
+    "line": 52,
+    "text": "Ciri looks at me and smiles as she speaks."
+  },
+  {
+    "line": 53,
+    "text": "{character:Ciri}Take a guess."
+  },
+  {
+    "line": 54,
+    "text": "{character:player}Don't tell me you two are... going over the skeletons in my closet?"
+  },
+  {
+    "line": 55,
+    "text": "{character:Ciri}Take another guess."
+  },
+  {
+    "line": 56,
+    "text": "This game is so hard."
+  },
+  {
+    "line": 57,
+    "text": "As I get ready to regroup and try to pry more information from her, a serious expression appears on Ciri's face suddenly. I start to feel nervous immediately and quickly think about whether I did anything in front of Nadeshiko that would make Ciri furious."
+  },
+  {
+    "line": 58,
+    "text": "Suddenly, Ciri pulls me behind her. After I turn around, I realize that a person in a clown costume is standing where I was just standing."
+  },
+  {
+    "line": 59,
+    "text": "He appeared so quietly that I have no idea when he arrived or how long he has been here. Since Ciri's expression changed suddenly just now, I guess that this person must have arrived at that time, and Ciri's displeasure should be directed at this clown... I feel so relieved that she isn't angry about something in my past that I don't even know about."
+  },
+  {
+    "line": 60,
+    "text": "The clown standing opposite us is wearing extremely exaggerated makeup, and the expression on his face is a smiling face with tears in his eyes. After bowing deeply to us, he hands over an envelope."
+  },
+  {
+    "line": 61,
+    "text": "Instead of taking the envelope, Ciri stares at the clown silently. When the clown sees this, he makes a terrified expression and rubs the toes of his inward-facing feet together while looking at me uneasily from time to time."
+  },
+  {
+    "line": 62,
+    "text": "Although I know he is acting, the conscious habit I had developed after taking action with Ciri these days makes me reflexively reach out and take the envelope."
+  },
+  {
+    "line": 63,
+    "text": "The moment I take the envelope, the clown bursts into laughter and runs away, which makes me feel like he had given me a bomb and not an envelope..."
+  },
+  {
+    "line": 64,
+    "text": "As I have a deep trust in the peace and tranquility of One Han City, I open the envelope. Luckily, there's only a card inside. I take it out and inspect it, but all I can see is a clown's head on the back of the card and a line of words on the front side."
+  },
+  {
+    "line": 65,
+    "text": "\"Come to see me in the park if you want to know more about the organization that is behind the wildlife trafficking.\""
+  },
+  {
+    "line": 66,
+    "text": "The name of the sender at the bottom is Ju."
+  },
+  {
+    "line": 67,
+    "text": "{character:player}Who is this Ju?"
+  },
+  {
+    "line": 68,
+    "text": "Ciri takes the card from my hands and looks over it several times before sighing."
+  },
+  {
+    "line": 69,
+    "text": "{character:Ciri}Do you still remember the clown mask you saw when you helped out at Soul in the past?"
+  },
+  {
+    "line": 70,
+    "text": "{character:player}Yeah, I remember it."
+  },
+  {
+    "line": 71,
+    "text": "{character:Ciri}Ju is the owner of that mask. The clown that delivered the envelope should be one of his current companions."
+  },
+  {
+    "line": 72,
+    "text": "{character:player}Is that the... traitor you mentioned in the past?"
+  },
+  {
+    "line": 73,
+    "text": "{character:player}If that's him, then could he have sent us this card because he knows what we are doing and wants to ruin our plans?"
+  },
+  {
+    "line": 74,
+    "text": "{character:Ciri}That shouldn't be the case. I think he really does know something. After all, I heard that he has managed to become connected with a certain government official."
+  },
+  {
+    "line": 75,
+    "text": "{character:player}Do you think he'll tell us the truth?"
+  },
+  {
+    "line": 76,
+    "text": "{character:Ciri}He... probably will."
+  },
+  {
+    "line": 77,
+    "text": "{character:Ciri}I don't actually have any personal grudges against him, but we just couldn't agree on what to do about Soul's crisis."
+  },
+  {
+    "line": 78,
+    "text": "Although that's what she says, Ciri reached out for the whip at her waist subconsciously when she mentioned his name. When she notices the look in my eyes, Ciri snorts and gives me a further explanation with an unpleasant tone."
+  },
+  {
+    "line": 79,
+    "text": "{character:Ciri}Although I don't have any personal grudges against him, he took most of the young members of Soul with him when he left, which is the direct reason for Soul's current lack of manpower."
+  },
+  {
+    "line": 80,
+    "text": "{character:Ciri}Since you often come to watch our performances, you should know that Soul's logistical support is provided by a group of elderly people and children... No matter what, this reason alone is enough for me to never forgive him."
+  },
+  {
+    "line": 81,
+    "text": "Ciri's words remind me of the physical condition of the elderly people in Soul who keep getting sick or injured, and that some of the jobs they are doing shouldn't be done by people their age... Someone should whip this Ju a couple of times."
+  },
+  {
+    "line": 82,
+    "text": "But I also start hesitating when I look at the card in Ciri's hands. According to what Ciri said, it's very likely that Ju's information is true."
+  },
+  {
+    "line": 83,
+    "text": "{character:player}Well... why don't we have a chat with Ju?"
+  },
+  {
+    "line": 84,
+    "text": "{character:Ciri}I refuse."
+  },
+  {
+    "line": 85,
+    "text": "Ciri rejects my proposal straightforwardly and decisively, which doesn't surprise me at all. If I were in her shoes, it would also be difficult for me to bow down to a colleague who betrayed me in the past to get some information."
+  },
+  {
+    "line": 86,
+    "text": "{character:player}Actually, what I've been thinking about is that although Soumu said he would give us an answer today, he didn't specify what answer he would give us. There's no guarantee that we'll be able to find the little red-crowned cranes."
+  },
+  {
+    "line": 87,
+    "text": "{character:player}On the other hand, Ju claims that he has this information. I think this is a good opportunity, and we have nothing to lose either..."
+  },
+  {
+    "line": 88,
+    "text": "{character:Ciri}Hmm..."
+  },
+  {
+    "line": 89,
+    "text": "Seeing that Ciri is wavering, I decide to strike the iron while it's hot and give her another push."
+  },
+  {
+    "line": 90,
+    "text": "{character:player}Besides, we still need to save the injured red-crowned crane and its two missing children. Since the opportunity to save them is in front of us, we shouldn't give up on it."
+  },
+  {
+    "line": 91,
+    "text": "After thinking for a long time, Ciri is eventually convinced by me. She looks at me helplessly, and I can see traces of compromise in her usually determined eyes."
+  },
+  {
+    "line": 92,
+    "text": "{character:Ciri}Sigh... Fine then. Let's go talk to Ju."
+  },
+  {
+    "line": 93,
+    "text": "{character:player}For some reason, I feel like I've committed moral blackmail when I see you agree to my suggestion."
+  },
+  {
+    "line": 94,
+    "text": "{character:Ciri}No, I think you're right. What I'm struggling with is my pride, whereas you're focusing on three living creatures. After everything we've been through in the last few days, I've realized that you're always able to notice many problems that I can't."
+  },
+  {
+    "line": 95,
+    "text": "{character:Ciri}{var:player_nickname}, thank you."
+  },
+  {
+    "line": 96,
+    "text": "Her sincerity makes me feel a little embarrassed. It's actually really easy to get along with someone like Ciri because she is very straightforward about who she likes and dislikes. And when she realizes that she's the one who's wrong, she will admit it readily without being coy about it. Also..."
+  },
+  {
+    "line": 97,
+    "text": "She is a terrific fighter, which makes her the best teammate in a mission!"
+  },
+  {
+    "line": 98,
+    "text": "Although Ju doesn't say which park he will be at, when I look at the map, I realize that there is only one park within 200 meters of our current location."
+  },
+  {
+    "line": 99,
+    "text": "When Ciri and I arrive at the park, we aren't surprised to see the clown who delivered the envelope to us earlier at the entrance of the park. Above his head, his arms form a large heart shape in the air."
+  },
+  {
+    "line": 100,
+    "text": "When Ciri ignores him completely and tries to walk right past him, the clown stops her and gestures for me to enter."
+  },
+  {
+    "line": 101,
+    "text": "{character:player}So you want me to talk to Ju alone?"
+  },
+  {
+    "line": 102,
+    "text": "The clown makes a surprised expression and starts clapping while hopping on the ground. Even though he hasn't said a single word to us during this process, his rich and comical body language makes it easy for us to understand him."
+  },
+  {
+    "line": 103,
+    "text": "Most of my previous knowledge about clowns comes from movies, television shows, and fast food restaurants. I'm starting to understand why this profession can bring laughter to children - their body language makes it easier for children to know what they are expressing and derive happiness from it."
+  },
+  {
+    "line": 104,
+    "text": "After having a discussion with Ciri, I ask her to wait at the entrance while I enter the park alone."
+  },
+  {
+    "line": 105,
+    "text": "The park is really small. After walking on the gravel path for a few minutes, a large lawn appears in front of me, and standing on the grass is a man wearing a red striped suit, a top hat of the same color, and clown makeup."
+  },
+  {
+    "line": 106,
+    "text": "At this moment, he is leaning back vigorously like he is playing tug-of-war with an invisible opponent, and a group of children have gathered around him. Drawn in by his performance, the children keep shouting out and cheering for him like they are really watching an exciting tug-of-war contest."
+  },
+  {
+    "line": 107,
+    "text": "Suddenly, the invisible rope seems to snap, and the clown falls backwards onto the ground from the inertia. After looking stunned for a moment, he suddenly makes a crying expression, and the children step forward to comfort him."
+  },
+  {
+    "line": 108,
+    "text": "After being comforted by the children, the clown pushes the two corners of his mouth upwards with his index fingers and bends his eyes at the same time, instantly transforming his crying face into a smile."
+  },
+  {
+    "line": 109,
+    "text": "I'm guessing that this person is Ju. Judging from his performance, he seems to be very skilled at making people happy. It's no wonder that he was such a popular performer of Soul at that time."
+  },
+  {
+    "line": 110,
+    "text": "He also sees me at this time. He stands and motions for the children to calm down with his hands, then he takes off his top hat and rummages inside it seriously for a long time. Suddenly, his expression changes and he pulls his fist out of the top hat like he has found some treasure."
+  },
+  {
+    "line": 111,
+    "text": "The children curiously step forward to try to pry open his fingers, but none of them succeed as they are too young and weak. The clown shakes his head at them before walking up to me, then he extends his clenched fist towards me."
+  },
+  {
+    "line": 112,
+    "text": "I instantly understand his intentions and open his fingers one by one. In his palm is a candy wrapped in cellophane that looks bright and colorful in the sun."
+  },
+  {
+    "line": 113,
+    "text": "After giving me the candy, the clown takes out lots of candies from the pockets of his clothes and distributes them to the children around us. He then waves to the children and asks them to take the candies and leave us for a while."
+  },
+  {
+    "line": 114,
+    "text": "When there is no one around us, the clown makes a gentlemanly salute and introduces himself."
+  },
+  {
+    "line": 115,
+    "text": "???"
+  },
+  {
+    "line": 116,
+    "text": "{character:???}This weather is perfect for a chance encounter, don't you think? I'm Ju, a clown of Gemini."
+  },
+  {
+    "line": 117,
+    "text": "{character:player}Hi, I'm {var:player_nickname}, Ciri's friend."
+  },
+  {
+    "line": 118,
+    "text": "Ju"
+  },
+  {
+    "line": 119,
+    "text": "{character:Ju}No, no, no, you're wrong."
+  },
+  {
+    "line": 120,
+    "text": "{character:Ju}You're her close friend. Ciri and I have known each other for many years, and this is the first time I've seen her hanging out with a living person and not her group of animal friends."
+  },
+  {
+    "line": 121,
+    "text": "{character:player}Since you've known each other for so long, why won't you let her come here?"
+  },
+  {
+    "line": 122,
+    "text": "{character:Ju}I don't think you want this clean grass to be dyed red, do you?"
+  },
+  {
+    "line": 123,
+    "text": "I understand what he is saying. Ciri will definitely get into an argument with him, so it's more appropriate for me to pass on messages for them as an intermediary."
+  },
+  {
+    "line": 124,
+    "text": "{character:Ju}I have a question to ask you before I tell you the information you want."
+  },
+  {
+    "line": 125,
+    "text": "{character:player}What is it?"
+  },
+  {
+    "line": 126,
+    "text": "{character:Ju}Are you really going to get involved in Soul's matters? I can probably guess why you've been taking action with Ciri."
+  },
+  {
+    "line": 127,
+    "text": "{character:player}It looks like you still care about Soul."
+  },
+  {
+    "line": 128,
+    "text": "Ju doesn't refute me. Instead, he pushes the two corners of his mouth upwards with his index fingers into a smile again, but I get the feeling that he isn't really smiling this time."
+  },
+  {
+    "line": 129,
+    "text": "{character:Ju}Soul's future is a bottomless pit. You won't have the unlimited energy required to keep it afloat."
+  },
+  {
+    "line": 130,
+    "text": "{character:player}Why do you say that?"
+  },
+  {
+    "line": 131,
+    "text": "Ju takes a pen and a card from the inner pocket of his jacket. It looks like the same one he used to deliver the message to us earlier. He keeps talking to me while he writes and draws on the card."
+  },
+  {
+    "line": 132,
+    "text": "{character:Ju}Let's play a fun game."
+  },
+  {
+    "line": 133,
+    "text": "{character:Ju}You're a train conductor who is driving a train to the city next door that is still under construction. On the train is a group of young people with a bright future. They are the builders of the city next door, and they are talking about their ideals on the train."
+  },
+  {
+    "line": 134,
+    "text": "{character:Ju}Suddenly, as you are about to arrive at a fork, you see a strong worker tied to the left tracks and five old people tied to the right tracks."
+  },
+  {
+    "line": 135,
+    "text": "{character:Ju}It is already known that this fast-moving train can't stop anywhere other than at a station or else it'll derail due to the inertia. If that happens, the train will crash with a massive boom, and everyone on it will die."
+  },
+  {
+    "line": 136,
+    "text": "{character:Ju}Fortunately, you still have a choice. There's a lever in front of you, which controls whether the train moves to the left or the right."
+  },
+  {
+    "line": 137,
+    "text": "After saying this, he shows me the card in his hand. On it is a very abstract drawing, and I can tell that it is a train that is moving towards a fork. There are stick figures lying on the tracks on both sides of the train after the fork."
+  },
+  {
+    "line": 138,
+    "text": "Ju holds this card up in the air for me to see with one hand. The palm of his other hand is facing me, and his five fingers are spread open."
+  },
+  {
+    "line": 139,
+    "text": "{character:Ju}I'll now count to five. After that, you need to tell me if the train should move to the left or the right."
+  },
+  {
+    "line": 140,
+    "text": "The trolley problem is an ethical topic that people often discuss, but now that someone has asked me to answer this question, I start considering it seriously instead of joking like usual."
+  },
+  {
+    "line": 141,
+    "text": "The reason for this is because Ju isn't really presenting me with a trolley problem, but the story of Soul and him."
+  },
+  {
+    "line": 142,
+    "text": "I'm not quite sure what deeper meaning this question has from Ju's point of view, but from my point of view, making the train move to the left will result in the smallest amount of loss."
+  },
+  {
+    "line": 143,
+    "text": "{character:player}I'll make the train move to the left... it looks like this will result in the smallest amount of loss."
+  },
+  {
+    "line": 144,
+    "text": "{character:Ju}To the left... Let's see what will happen if it moves to the left."
+  },
+  {
+    "line": 145,
+    "text": "{character:Ju}You've chosen to sacrifice the strong worker. You arrive at a station soon after passing through the fork. When you stop there, you save the five old people and continue your journey with them on the train."
+  },
+  {
+    "line": 146,
+    "text": "{character:Ju}As there are suddenly five extra people, your supplies, which were originally just enough for everyone, are no longer sufficient."
+  },
+  {
+    "line": 147,
+    "text": "{character:Ju}At first, everyone is willing to give them a portion of their own supplies, but as time passes by, they gradually discover that these five people have no ability to work. They can't provide any help to anyone, and they use the moral standard of respecting the elderly to coerce everyone into serving them."
+  },
+  {
+    "line": 148,
+    "text": "{character:Ju}As the elderly consume medical supplies many times faster than normal young people, the medical supplies of the train are soon stretched thin. The shortage of supplies caused conflicts to arise. The young people no longer talked about their ideals, but instead start to constantly argue for survival..."
+  },
+  {
+    "line": 149,
+    "text": "{character:Ju}This continues until one of the old people disappears one day. They find pieces of his clothing on the train door, and someone suddenly whispers something..."
+  },
+  {
+    "line": 150,
+    "text": "{character:Ju}\"When I got up to go to the toilet last night, I think I saw someone push him off the speeding train.\""
+  },
+  {
+    "line": 151,
+    "text": "{character:Ju}Everyone seems to hear this. Over the next few days, the second, third, fourth, and then the last elderly person disappears. The train then resumes its former peace, as if nothing had happened."
+  },
+  {
+    "line": 152,
+    "text": "As he says this, he moves closer to me and whispers in my ear."
+  },
+  {
+    "line": 153,
+    "text": "{character:Ju}Is this really the decision that will result in the smallest amount of loss?"
+  },
+  {
+    "line": 154,
+    "text": "The story doesn't unfold as I expected, so I fall deep in thought for a moment."
+  },
+  {
+    "line": 155,
+    "text": "{character:player}You... What choice did you make?"
+  },
+  {
+    "line": 156,
+    "text": "{character:Ju}Me? Haha, of course I chose to move to the right. This way, everyone has a bright future. Isn't that great? Also..."
+  },
+  {
+    "line": 157,
+    "text": "{character:Ju}In essence, there is no difference between sacrificing one person and sacrificing five people. You're still an executioner. The only difference is which sacrifice is more meaningful."
+  },
+  {
+    "line": 158,
+    "text": "{character:player}Hmm... So you chose to move to the right to save the train called Soul and not the worker. Am I right?"
+  },
+  {
+    "line": 159,
+    "text": "{character:Ju}Yes."
+  },
+  {
+    "line": 160,
+    "text": "Ju's reason for betraying Soul isn't what I expected. Or rather, if this is why he left Soul, then it can't even be called a betrayal."
+  },
+  {
+    "line": 161,
+    "text": "{character:player}Why..."
+  },
+  {
+    "line": 162,
+    "text": "{character:Ju}Shush--"
+  },
+  {
+    "line": 163,
+    "text": "He interrupts my question by motioning for me to be quiet."
+  },
+  {
+    "line": 164,
+    "text": "{character:Ju}If you've chosen to side with Sara, then you shouldn't ask me, a traitor, your next question."
+  },
+  {
+    "line": 165,
+    "text": "{character:Ju}But since you played a game with me earnestly, I should respond to you in kind. This is what you want."
+  },
+  {
+    "line": 166,
+    "text": "As he speaks, Ju takes another envelope from his inside pocket and hands it to me. It's almost as if a blue robotic cat's dimensional pocket is hidden under his plain-looking jacket."
+  },
+  {
+    "line": 167,
+    "text": "{character:Ju}This is a welcome gift from a fellow \"executioner.\" I hope you'll choose to make a more meaningful sacrifice one day."
+  },
+  {
+    "line": 168,
+    "text": "On the train is a group of young people with a bright future and hopes of building a city, and on the left track is a worker that can create value. When viewed purely from the perspective of benefits, it is most cost-effective to sacrifice these five old people, even if this idea is very selfish and extreme... After all, these five old people might also have created value when they were young."
+  },
+  {
+    "line": 169,
+    "text": "It's not a nice feeling to be an executioner, but as a decision-maker, you need to take responsibility for your own ideas and the future of the people who follow you."
+  },
+  {
+    "line": 170,
+    "text": "{character:player}I choose to move to the right."
+  },
+  {
+    "line": 171,
+    "text": "Clap--Clap--Clap-- Ju starts clapping after hearing my answer."
+  },
+  {
+    "line": 172,
+    "text": "{character:Ju}Well, let's see what happens after you choose to make the train move to the right."
+  },
+  {
+    "line": 173,
+    "text": "{character:Ju}You've chosen to sacrifice the five old people. You arrive at a station soon after passing through the fork. When you stop there, you save the worker and continue your journey with him on the train."
+  },
+  {
+    "line": 174,
+    "text": "{character:Ju}Although there's now one extra person on the train, everyone only needs to share a small portion of their supplies with him to keep him alive. Out of gratitude to everyone, the worker works very hard, which improves everyone's opinion of him."
+  },
+  {
+    "line": 175,
+    "text": "{character:Ju}It's inevitable that various problems will arise on such a long train ride. While performing an emergency repair one time, the worker showed amazing maintenance skills, and everyone discovered that he was a skilled maintenance worker who was best at dealing with machinery."
+  },
+  {
+    "line": 176,
+    "text": "{character:Ju}Under the maintenance of the worker, although it's a stretch to say that the train has been refreshed, its service life has indeed been significantly extended. As a result, everyone's belief that they will be able to smoothly reach their ideal city becomes firmer, and the train continues to move forward, carrying everyone's hopes with it."
+  },
+  {
+    "line": 177,
+    "text": "I don't ask him out loud, but I know this is what Ju chose to do back then."
+  },
+  {
+    "line": 178,
+    "text": "After telling me this story, Ju takes another envelope from his inside pocket and hands it to me. It's almost as if a blue robotic cat's dimensional pocket is hidden under his plain-looking jacket."
+  },
+  {
+    "line": 181,
+    "text": "I can't make the decision to sacrifice the five old people or the young worker. I don't say anything after the countdown ends."
+  },
+  {
+    "line": 182,
+    "text": "{character:Ju}It looks like you can't make a decision. Well, let's see what happens next."
+  },
+  {
+    "line": 183,
+    "text": "{character:Ju}Because you aren't able to choose which way to pull the lever in time, the train derails due to inertia... You soon hear the sound of wailing, explosions, items breaking, and liquid spraying all around you."
+  },
+  {
+    "line": 184,
+    "text": "{character:Ju}Most of the young people on the train lose their lives before they can even see the city they plan to build. Even if someone is lucky enough to survive, they no longer trust you as the train conductor because of this incident and choose to leave."
+  },
+  {
+    "line": 185,
+    "text": "{character:Ju}At this time, you remember that there are six people who survived because of your mercy. When you run over to untie them and set them free, you find that..."
+  },
+  {
+    "line": 186,
+    "text": "{character:Ju}They aren't at all grateful to you about the train not running over them. Instead, they think the accident is caused by an error in your judgment and believe that maybe no one would have died if you did your job as the train conductor properly."
+  },
+  {
+    "line": 187,
+    "text": "{character:Ju}See? A person who can't even take care of their own train is ridiculously trying to save everyone. This is clearly unrealistic. All these signs prove that you... are not meant to be a decision-maker."
+  },
+  {
+    "line": 188,
+    "text": "{character:Ju}You made the same decision that Sara made that year."
+  },
+  {
+    "line": 189,
+    "text": "Since he said that I \"made the same decision that Sara made that year,\" it must mean that they faced the same problem back then. In that case..."
+  },
+  {
+    "line": 190,
+    "text": "{character:player}What choice did you make?"
+  },
+  {
+    "line": 191,
+    "text": "{character:Ju}Me? Haha, of course I chose to move to the right. This way, everyone has a bright future. Isn't that great?"
+  },
+  {
+    "line": 192,
+    "text": "{character:player}I don't know the model answer to this question, but I know it isn't right to choose the left or the right."
+  },
+  {
+    "line": 193,
+    "text": "{character:player}We can't actively hurt others just because our own interests are threatened. No one has the right to decide the fate of others."
+  },
+  {
+    "line": 194,
+    "text": "{character:Ju}Haha, aren't the interests of the young people on the train important? Because of your hesitation, they have lost their lives, dreams, and futures. Haven't you also unilaterally decided their fate?"
+  },
+  {
+    "line": 195,
+    "text": "{character:player}I haven't given up on them. Although trying to save everyone looks unrealistic, that alone shouldn't stop us from aiming to achieve this objective."
+  },
+  {
+    "line": 196,
+    "text": "{character:player}There are many things we can do before the train hits the track and derails, such as slowing down the train, trying to stop it, asking for help, or getting others to save the people on the tracks... We can always find a glimmer of opportunity."
+  },
+  {
+    "line": 197,
+    "text": "{character:player}It's too cruel to give up on someone else's life without trying to do anything."
+  },
+  {
+    "line": 198,
+    "text": "{character:Ju}Opportunity... Opportunity? Hahahahaha..."
+  },
+  {
+    "line": 199,
+    "text": "Ju starts laughing to himself like he has heard something really funny. His shoulders keep moving up and down, and he soon bends over and puts his hands on his knees to support himself as he laughs loudly and uncontrollably."
+  },
+  {
+    "line": 200,
+    "text": "After a while, he stands and rubs his eyes with his hands before he looks at me."
+  },
+  {
+    "line": 201,
+    "text": "{character:Ju}You're too funny. You made me laugh so hard I started crying."
+  },
+  {
+    "line": 202,
+    "text": "{character:Ju}Well, do you think you're Soul's opportunity?"
+  },
+  {
+    "line": 203,
+    "text": "{character:player}I... I don't know, but I'm willing to try my best."
+  },
+  {
+    "line": 204,
+    "text": "Clap--Clap--Clap-- He claps three times crisply, then pulls out another envelope from his inside pocket as an afterthought and hands it to me. It's almost as if a blue robotic cat's dimensional pocket is hidden under his plain-looking jacket."
+  },
+  {
+    "line": 205,
+    "text": "{character:Ju}I can't wait to see what opportunities you'll bring to Soul then."
+  },
+  {
+    "line": 210,
+    "text": "{character:Ciri}Since Ju has told you the general situation of what happened back then, I'll tell you the whole story so you don't have any wild thoughts."
+  },
+  {
+    "line": 212,
+    "text": "{character:Ciri}Ju and I were both adopted by Sid, the second-generation leader of Soul when we were children. Unlike Sara, who grew up in a rich family and joined Soul because she loved dancing, we had been touring everywhere with the troupe since we were young, and we were used to the fickleness of human nature."
+  },
+  {
+    "line": 214,
+    "text": "{character:Ciri}Sid and Sara were both born into wealthy families and received similar educations since they were young, so they had a similar outlook on things. That's why Sid chose Sara to be the third-generation leader of Soul instead of Ju, who had always been working hard to become Sid's successor. In his eyes, Sid was favoring Sara over him."
+  },
+  {
+    "line": 215,
+    "text": "{character:Ciri}As you know, Soul used to travel throughout the world when performing on tour, and the group has had a practice of taking in people who had no home to return to since the first-generation leader led the group. After spending so much time together, we became more like family than colleagues."
+  },
+  {
+    "line": 216,
+    "text": "{character:Ciri}This kind of relationship has both advantages and disadvantages. One disadvantage is that Soul now has a large number of old, feeble, sick, and sometimes disabled people who contribute little to the group, which has made our finances increasingly tight... By the time Sara took over as leader, we were already struggling to make ends meet, and we mostly performed to make a living."
+  },
+  {
+    "line": 217,
+    "text": "{character:Ciri}Ju noticed this problem a long time ago. He believed that it would be better to deal with the problem once and for all no matter how painful it would be rather than prolong the agony. Instead of letting these people become a burden to Soul, he wanted to make them leave Soul and find their own way to survive."
+  },
+  {
+    "line": 218,
+    "text": "{character:Ciri}Sara regards Soul as her home, and the members as her family. She believed that only they themselves could decide whether they would leave or stay, and not even the leader could make that decision for them."
+  },
+  {
+    "line": 220,
+    "text": "{character:player}What about you?"
+  },
+  {
+    "line": 221,
+    "text": "{character:Ciri}Me?"
+  },
+  {
+    "line": 222,
+    "text": "{character:player}Didn't you want to become the leader?"
+  },
+  {
+    "line": 223,
+    "text": "{character:Ciri}I'm used to being a loner. The position of leader is a burden to me."
+  },
+  {
+    "line": 224,
+    "text": "{character:player}What do you think about Ju and Sara's disagreement?"
+  },
+  {
+    "line": 225,
+    "text": "{character:Ciri}Actually, wild beasts often choose to abandon the old, feeble, sick, and disabled to preserve the rest of the population. This isn't anything strange in nature, so I won't judge whether Ju or Sara is right or wrong. They are both trying to protect Soul in different ways, and even I have my own way of protecting Soul."
+  },
+  {
+    "line": 226,
+    "text": "{character:Ciri}I have chosen to stay with Sara because my intuition tells me that Sara is able to give Soul a brighter future."
+  },
+  {
+    "line": 227,
+    "text": "{character:Ciri}Okay, that's the end of the story. {var:player_nickname}, you've always been a person who has strong opinions, so I won't ask you to side with any of us. You just need to continue doing what you think is right."
+  },
+  {
+    "line": 228,
+    "text": "{character:player}Hmm, yeah."
+  },
+  {
+    "line": 229,
+    "text": "Neither Ciri nor I pursue this topic further. Instead, we open the envelope Ju gave me after a moment of silence and find a hand-drawn map inside it. Based on the feeling of familiarity I get from this soul painting, I believe Ju drew this himself."
+  },
+  {
+    "line": 230,
+    "text": "As the street name is marked, it's easy to tell that the destination is a club in the east side of the city. In fact, it's only a few streets away from the Raven hideout we visited yesterday."
+  },
+  {
+    "line": 231,
+    "text": "Ciri and I exchange a glance and decide to show Soumu this map."
+  },
+  {
+    "line": 232,
+    "text": "By the time we arrive at the Raven hideout, it is already well past the time we agreed to meet Soumu. On the way there, my quick-witted brain works furiously to think of an explanation for our lateness."
+  },
+  {
+    "line": 233,
+    "text": "After thinking about it, I decide that the best solution is to show him the map and tell him we've found a suspicious place."
+  },
+  {
+    "line": 234,
+    "text": "However, the scene in front of the hideout is not what I expected at all. There are two groups of people confronting each other on both sides of the street, and the tension is so thick that no pedestrians dare to pass through them."
+  },
+  {
+    "line": 235,
+    "text": "Fortunately, this street isn't a main road, or else each person would be fined 5,000 Coppers for obstructing traffic."
+  },
+  {
+    "line": 236,
+    "text": "Shijukara sees us from a distance and quickly calls for us to go over to him and stand behind Soumu together. Speaking in a low voice, I ask him what is going on while Ciri stares at the other side with a serious look on her face."
+  },
+  {
+    "line": 237,
+    "text": "{character:player}What's going on?"
+  },
+  {
+    "line": 238,
+    "text": "Shijukara"
+  },
+  {
+    "line": 239,
+    "text": "{character:Shijukara}The people standing opposite us are from Strix based in the west side of the city, and they've always been at odds with us. They are just a gang of barbaric information dealers though, so you don't need to be scared."
+  },
+  {
+    "line": 240,
+    "text": "{character:player}Why have they come here today? Are they here to fight you? Is this a gang fight?"
+  },
+  {
+    "line": 242,
+    "text": "{character:player}Did your boss accept?"
+  },
+  {
+    "line": 243,
+    "text": "{character:Shijukara}Of course not. That's why we're all stuck here."
+  },
+  {
+    "line": 244,
+    "text": "{character:player}Oh, so even you know that the situation is very tense."
+  },
+  {
+    "line": 245,
+    "text": "{character:Shijukara}Nonsense! I'm not stupid."
+  },
+  {
+    "line": 246,
+    "text": "If this is the reason... I think for a moment, then I take the map out of my pocket and hand it to Soumu."
+  },
+  {
+    "line": 247,
+    "text": "{character:player}Aniki, please take a look at this. I've found a suspicious location."
+  },
+  {
+    "line": 248,
+    "text": "I didn't really expect that this excuse would come in handy. I'm so smart."
+  },
+  {
+    "line": 249,
+    "text": "The young man wearing a hat at the very front of the people across the street looks at me with interest and suddenly starts speaking."
+  },
+  {
+    "line": 250,
+    "text": "{character:???}{var:player_nickname}."
+  },
+  {
+    "line": 251,
+    "text": "I'm a little surprised when he calls out my name from the other side of the street, but what surprises me even more is that Shijukara also looks at me with a shocked expression, as if he had only just learned my name."
+  },
+  {
+    "line": 252,
+    "text": "Slightly confused, I turn to look at the young man."
+  },
+  {
+    "line": 253,
+    "text": "{character:player}You know who I am?"
+  },
+  {
+    "line": 254,
+    "text": "{character:???}Of course."
+  },
+  {
+    "line": 255,
+    "text": "The man laughs and claps his hands to tell everyone to be quiet. After that, he speaks in a loud voice."
+  },
+  {
+    "line": 256,
+    "text": "{character:???}Listen up, everyone. The person standing in front of you is \"the famous guardian of Mahjong Soul Shrine's priestess, the best friend of students of Asaha High School, a core non-staff member of Soul, an esteemed guest of Samu Corporation, Kazuha Saionji's only disciple, an honorary customer of Éternité, the senpai who is a confidant of Aotsuyu Middle School, and the leader of the children of Central Park...\""
+  },
+  {
+    "line": 257,
+    "text": "Whoa, I didn't expect the prefix to my name to be so long. It makes me feel kinda embarrassed, but yes, that's me. Keep going because I love to hear it."
+  },
+  {
+    "line": 258,
+    "text": "Soumu"
+  },
+  {
+    "line": 259,
+    "text": "{character:Soumu}You can leave now."
+  },
+  {
+    "line": 260,
+    "text": "Soumu, who had just finished reading the map, seems unable to understand the lively atmosphere and interrupts the person's words. What a shame. There are still many prefixes to my name that can be shared with everyone."
+  },
+  {
+    "line": 261,
+    "text": "Soumu waves the map in his hand at the other side. His tone is three parts of ridicule, four parts of disdain, two parts of indifference, and one part of smugness. In short, I can tell from his tone that he really hates the young man on the other side."
+  },
+  {
+    "line": 262,
+    "text": "{character:Soumu}You want to exchange such a common piece of information for a favor from me? Kutsuji, you seem to be regressing as you age."
+  },
+  {
+    "line": 263,
+    "text": "The other person ignores his words and looks at me instead."
+  },
+  {
+    "line": 264,
+    "text": "Kutsuji"
+  },
+  {
+    "line": 265,
+    "text": "{character:Kutsuji}Since he's already said everything, I won't bother to introduce myself."
+  },
+  {
+    "line": 266,
+    "text": "{character:Kutsuji}{var:player_nickname}, do you know that you can also ask me to help you? I can do whatever Soumu can do and even do what Soumu can't."
+  },
+  {
+    "line": 267,
+    "text": "{character:Kutsuji}Well, think about it. Do you want me to help you take care of everything else?"
+  },
+  {
+    "line": 268,
+    "text": "After he speaks, I can feel everyone's eyes on me, especially the eyes of Soumu, who is only 30 centimeters away from me. His fierce gaze and tight muscles on his forearms tell me one thing, that is, he will tear me in half if I dare to nod."
+  },
+  {
+    "line": 269,
+    "text": "In this situation, of course I'll choose to stay with Raven. Besides, I don't know the person on the other side. No matter how I look at it, he doesn't really want to help me. He just wants to use me as a weapon in his fight with Soumu."
+  },
+  {
+    "line": 270,
+    "text": "{character:player}Sorry, I've already agreed to work with Raven."
+  },
+  {
+    "line": 271,
+    "text": "The people around me become excited after I tactfully reject the other person. The guy with slicked back hair and the guy with side part hair, who were playing mahjong with Soumu last time, are unable to contain their excitement and rush to the middle of the road."
+  },
+  {
+    "line": 272,
+    "text": "Guy with Slicked Back Hair"
+  },
+  {
+    "line": 273,
+    "text": "{character:Guy with Slicked Back Hair}Hey, why are you guys from Strix still here?"
+  },
+  {
+    "line": 274,
+    "text": "Guy with Side Part Hair"
+  },
+  {
+    "line": 275,
+    "text": "{character:Guy with Side Part Hair}Our boss told you to get lost."
+  },
+  {
+    "line": 276,
+    "text": "{character:Guy with Slicked Back Hair}Well? Why haven't you left yet? Are you looking for a fight? Bring it on then. We're not afraid of you!"
+  },
+  {
+    "line": 277,
+    "text": "I begin to worry that they really will start fighting, but Shijukara seems to know what I'm thinking and comes over to comfort me."
+  },
+  {
+    "line": 279,
+    "text": "I can see Soumu take a deep sigh beside me. Shijukara really needs to learn to be more astute."
+  },
+  {
+    "line": 280,
+    "text": "Soumu pats my shoulder and motions for me to have a talk with him inside."
+  },
+  {
+    "line": 281,
+    "text": "On our way to the room, I remember the shocked expression that Shijukara made when he heard my name earlier. This is the perfect timing to ask him about it."
+  },
+  {
+    "line": 282,
+    "text": "{character:player}When you guys talk about me and Ciri, what do you usually call me?"
+  },
+  {
+    "line": 284,
+    "text": "{character:player}You rely on these two common nicknames to identify us?"
+  },
+  {
+    "line": 286,
+    "text": "{character:player}Oh, well I know your real name now, Shijukawa."
+  },
+  {
+    "line": 287,
+    "text": "{character:Shijukara}... ¥%……&&*!"
+  },
+  {
+    "line": 288,
+    "text": "After a moment of stunned silence, Shijukara starts swearing."
+  },
+  {
+    "line": 289,
+    "text": "Kids these days. How can they just reveal your real name when you have a nickname. You have no safety awareness at all."
+  },
+  {
+    "line": 290,
+    "text": "There's no one in the mahjong dojo today, probably because they were scared away by the big scene at the door just now. Soumu walks over to a sofa and sits down casually."
+  },
+  {
+    "line": 291,
+    "text": "{character:Soumu}Sit wherever you want."
+  },
+  {
+    "line": 292,
+    "text": "{character:player}Oh, sure."
+  },
+  {
+    "line": 293,
+    "text": "{character:Ciri}Thanks."
+  },
+  {
+    "line": 294,
+    "text": "{character:Soumu}I know the place on that map."
+  },
+  {
+    "line": 295,
+    "text": "{character:player}Oh?"
+  },
+  {
+    "line": 296,
+    "text": "{character:Soumu}When my men only found bits and pieces of information after searching all day, I guessed that this incident might be related to those people."
+  },
+  {
+    "line": 297,
+    "text": "{character:Ciri}Who are you talking about?"
+  },
+  {
+    "line": 298,
+    "text": "{character:Soumu}Yu."
+  },
+  {
+    "line": 299,
+    "text": "{character:player}Yu?"
+  },
+  {
+    "line": 300,
+    "text": "{character:Soumu}Look carefully at the map."
+  },
+  {
+    "line": 301,
+    "text": "Ciri and I take the map Soumu hands back to us and look at it carefully. On the map, we see that the word \"Yu\" has been circled in red next to the name of the club. However, because Ju's handwriting is so illegible that we mistook it for a simple pattern."
+  },
+  {
+    "line": 302,
+    "text": "{character:Soumu}Yu is the largest and most mysterious organization in One Han City, and its scope of influence exceeds your wildest imagination. It's because this organization is protecting this wildlife trafficking organization that it has been able to run wild in my territory for so long without being caught, hmph."
+  },
+  {
+    "line": 303,
+    "text": "{character:Soumu}I don't know where you got this piece of information from, but judging from the information we found, I'm pretty sure it's true."
+  },
+  {
+    "line": 304,
+    "text": "{character:player}Then will you help us?"
+  },
+  {
+    "line": 305,
+    "text": "{character:Soumu}Yes, of course I will. After all, making trouble for Yu is what I like to do the most."
+  },
+  {
+    "line": 306,
+    "text": "Is this the hobby of a gang leader? I don't understand it at all. Although I'm shocked, I think it's a good thing that he's willing to help us."
+  },
+  {
+    "line": 307,
+    "text": "{character:Soumu}However, we probably won't be able to save those animals today. According to our experiences in past dealings with them, they should be guarding the animals heavily right now. If we break in forcefully, they might destroy the evidence."
+  },
+  {
+    "line": 308,
+    "text": "{character:player}What do you mean by \"destroy the evidence\"?"
+  },
+  {
+    "line": 309,
+    "text": "{character:Soumu}For example... they might burn down the warehouse. Do you understand what I'm saying?"
+  },
+  {
+    "line": 310,
+    "text": "{character:player}I understand. When would be a good time to go?"
+  },
+  {
+    "line": 311,
+    "text": "Soumu doesn't answer my question. Instead, he shouts at someone outside."
+  },
+  {
+    "line": 312,
+    "text": "{character:Soumu}Ryou."
+  },
+  {
+    "line": 313,
+    "text": "{character:Guy with Slicked Back Hair}Boss, you called for me?"
+  },
+  {
+    "line": 314,
+    "text": "Ther guy with slicked back hair who was arguing outside came back at some point and has been standing outside the door."
+  },
+  {
+    "line": 315,
+    "text": "{character:Soumu}Tell them what you found out."
+  },
+  {
+    "line": 316,
+    "text": "{character:Guy with Slicked Back Hair}Yes. Our brothers learned that a warehouse in the east side of the city was very noisy last night. When they went there, they saw that it was extremely tightly guarded. When this happens, it usually means something fishy is going on, so they staked out the place for a while."
+  },
+  {
+    "line": 317,
+    "text": "{character:Guy with Slicked Back Hair}After that, we learned that they change shifts at eight in the morning. This is also when things get more chaotic and their defenses become weaker."
+  },
+  {
+    "line": 318,
+    "text": "{character:Soumu}The warehouse they found is behind the club on the map. Tomorrow morning, I'll send some men to go there with you."
+  },
+  {
+    "line": 319,
+    "text": "After hearing him say that he'll send some men to go with us, I look at Shijukara next to me. After all, we got to know each other pretty well after our fight and even learned each other's real names. We can almost be considered old friends now."
+  },
+  {
+    "line": 320,
+    "text": "{character:Soumu}Not this piece of trash."
+  },
+  {
+    "line": 321,
+    "text": "{character:player}Huh?"
+  },
+  {
+    "line": 322,
+    "text": "Soumu looks at someone in the corner, then a young boy who looks really thin stands up in the corner."
+  },
+  {
+    "line": 323,
+    "text": "{character:Soumu}This kid is called Oumu, and his greatest skill is lock picking. There's no lock in One Han City that he can't open."
+  },
+  {
+    "line": 324,
+    "text": "{character:Soumu}Tomorrow morning, you'll sneak in with Oumu when they change shifts. After that, Shijukara will sow confusion outside to divert their attention."
+  },
+  {
+    "line": 325,
+    "text": "{character:Soumu}Once you find the animals you want to take with you, send us a message, and someone will pick you up outside."
+  },
+  {
+    "line": 326,
+    "text": "The plan sounds simple, but if you think about it carefully, you'll realize that the process is not simple at all, and things can go wrong at every step. Soumu doesn't seem to have considered that an ordinary, harmless, and kind citizen like me might not have certain abilities."
+  },
+  {
+    "line": 327,
+    "text": "Ciri pats my shoulder, and her warm palm calms me down a little. Fortunately, I still have an amazing teammate with me."
+  },
+  {
+    "line": 328,
+    "text": "I'll let Ciri and the people from Raven work out the details of the action we'll take later. Unlike me, she seems to be a natural at this type of thing."
+  },
+  {
+    "line": 329,
+    "text": "Heroine, how do you manage to switch between being a heroine and a banditess so easily?"
+  },
+  {
+    "line": 330,
+    "text": "On my way home from Raven, I meet a girl whose coat collar is turned up so high that it covers half her face. She walks up to me and hands me a note without saying anything, then she leaves."
+  },
+  {
+    "line": 331,
+    "text": "Why is everyone using paper notes today? What's so special about it today?"
+  },
+  {
+    "line": 333,
+    "text": "I really want to show Ju this so he will know how important it is to have good handwriting."
+  },
+  {
+    "line": 334,
+    "text": "I don't know who wrote this note. Maybe this is a friendly reminder with good intentions, but this one sentence isn't enough for me to find out if there is any deeper meaning. After all, I had only heard about the organization called Yu today."
+  },
+  {
+    "line": 336,
+    "text": "Go with Nadeshiko."
+  },
+  {
+    "line": 337,
+    "text": ""
+  },
+  {
+    "line": 338,
+    "text": "Go with Ciri."
+  },
+  {
+    "line": 339,
+    "text": "Make the train move to the left"
+  },
+  {
+    "line": 340,
+    "text": "Make the train move to the right"
+  },
+  {
+    "line": 341,
+    "text": "Don't make a choice"
+  },
+  {
+    "line": 342,
+    "text": "I leave the park with the envelope. When I arrive at the door, I see Ciri leaning against a tree next to the road, and impatience is written all over her face. At her feet is a weak, pitiful, and helpless messenger clown who looks completely disillusioned with life. The moment he looks up and sees me, I seem to see a glimmer of hope return to his eyes. The clown stands and runs into the park like he is fleeing for his life."
+  },
+  {
+    "line": 343,
+    "text": "Having noticed my return, Ciri doesn't bother to stop him. Instead, she walks towards me quickly."
+  },
+  {
+    "line": 344,
+    "text": "Under Ciri's questioning gaze, I briefly explain the conversation I just had with the clown. Of course, I also tell her the story about the train that the clown told me."
+  },
+  {
+    "line": 345,
+    "text": "{character:Ciri}However, even though Sara hasn't been a part of Soul for as long as us, it doesn't mean she loves Soul any less than us. She is kind, cheerful, and approachable, and everyone in the group likes her a lot."
+  },
+  {
+    "line": 346,
+    "text": "After listening to my words, Ciri thinks for a while and seems to have made a decision."
+  },
+  {
+    "line": 347,
+    "text": "Ciri and I walk over to the chairs in the rest area and sit down. Ciri looks a little sentimental at this time."
+  },
+  {
+    "line": 348,
+    "text": "I'll choose to stay over here with Soumu."
+  },
+  {
+    "line": 349,
+    "text": "It's better for everyone if I stay with Soumu."
+  },
+  {
+    "line": 350,
+    "text": "I don't need to force myself to choose if I can't choose."
+  },
+  {
+    "line": 351,
+    "text": "Sometimes, we pretend to have options just to reassure ourselves that we actually have a choice."
+  },
+  {
+    "line": 352,
+    "text": "{character:Ju}I originally thought that everyone around Sara would be idealists. I didn't expect that there would be someone as realistic and cruel as you, hahahahaha..."
+  },
+  {
+    "line": 354,
+    "text": "He makes a gesture that looks like something is exploding from the inside out in front of his chest, like a gorgeous firework is bursting from his heart."
+  },
+  {
+    "line": 355,
+    "text": "{character:Ju}I'll be eagerly awaiting that day."
+  },
+  {
+    "line": 356,
+    "text": "{character:Ciri}Sid decided to make Sara the leader because he thought Ju was too radical, whereas Sara was more accommodating to the dispositions of all the members."
+  },
+  {
+    "line": 357,
+    "text": "{character:Shijukara}\"Enthusiastic Person\" and \"Fierce Woman.\""
+  },
+  {
+    "line": 358,
+    "text": "{character:Shijukara}Of course we can. In our line of business, we call each other by our nicknames instead of our real names. For example, everyone calls me Shijukara, and nobody knows that my real name is Shijukawa."
+  },
+  {
+    "line": 359,
+    "text": "{character:Shijukara}Don't worry, a barking dog never bites. Only people like our boss will really start fighting."
+  },
+  {
+    "line": 360,
+    "text": "{character:Shijukara}Yea, they're here because of you. Somehow, they found out that Raven is helping you find some red-crowned cranes, so they suddenly came here today and said they would tell the boss this information in exchange for a favor from the boss."
+  },
+  {
+    "line": 362,
+    "text": "{character:Ju}{var:player_nickname}, we have the same rotten stench. In the future, they will intersect, collide, and tangle together painfully and sweetly until everything goes BOOM!"
+  },
+  {
+    "line": 364,
+    "text": "Either way, we better be careful tomorrow."
+  },
+  {
+    "line": 365,
+    "text": "I open it and see the message \"stay away from everything related to Yu\" written on it with vigorous and graceful penmanship."
+  }
+]

@@ -1,0 +1,269 @@
+1:In the garden of the Temple of Moons are plants that Mai has taken meticulous care of for many years. Every spring, the gorgeous flowers compete to be the most beautiful and invite bees and butterflies to them. It's almost as if a grand tea party is being held.
+2:player
+3:{character:player}Huff... This big garden looks great, but it sure is tiring to tend to it.
+4:Mai was taking care of the garden when I arrived at the Temple of Moons today. It must be time-consuming and physically exhausting for a girl like her to take care of so many flowers and plants. After thinking briefly, I volunteer to help her under her guidance.
+5:{character:player}Weeding, done! Mai, is there anything else you need help with...? Huh, where is she?
+6:After finishing a task, I look up to find Mai, but she's nowhere to be seen. I walk around the garden and finally see her looking very anxious at the gate of the shrine.
+7:{character:player}What's wrong?
+8:Mai Aihara
+9:{character:Mai Aihara}Master, Tubby is missing...!
+10:{character:player}Wasn't your chubby cat basking in the sun in the corridor when we were busy tending the garden? Look... Eh, where did he go?
+11:The chubby figure is no longer visible in the corridor. The only thing left there is a flattened cardboard box.
+12:{character:player}Is there anywhere Tubby likes to go in particular?
+13:{character:Mai Aihara}No... Tubby used to be a stray, but he hasn't really been outside the shrine ever since he moved here.
+14:{character:Mai Aihara}It's been a long time since the last time Tubby wandered outside the shrine... I worry he might accidentally get hit by a car...
+15:Although I want to say "that probably won't happen," but then I'm not so sure when I recalled how Tubby walked around leisurely everytime I see him...
+16:{character:Mai Aihara}Tubby loves food... What if he gets a sore tummy after eating something that has gone bad...?
+17:Although I wanted to say "that probably won't happen," but then I'm not so sure when I recalled his round tummy...
+18:{character:Mai Aihara}Ah... Sorry, Master, I know I shouldn't be imagining all these things, but I just can't help worrying about him.
+19:{character:player}That's not really the case. That fact that you're so worried about him proves that you're a good owner. Tubby has an owner that he can be proud of.
+20:{character:player}Well, since we've finished our work in the courtyard, why don't we look around the neighborhood? Tubby can't have run too far.
+21:{character:Mai Aihara}I-I can't make you do that! Master, I'm already so grateful that you helped me take care of the courtyard... It would be shameless of me to let you help me search for Tubby...
+22:{character:player}Don't worry about it. I came here to help you, so I might as well do whatever I can. I won't feel good if I leave like this.
+23:{character:Mai Aihara}Master... Thank you! I'm sorry I'm so useless...
+24:I want to say "if someone like you who is capable of taking care of a shrine like this is useless, I don't think there are many useful people in this world," but I know that she would just think I'm being polite.
+25:{character:player}It's okay! You take care of me all the time. You can help me cleanse my bad luck again when you're free next time. I can't shake the feeling that the tile dealer is targeting me recently.
+26:{character:Mai Aihara}Yes! It would be my pleasure to pray for you, Master!
+27:{character:player}Then we're just helping each other out. Let me see where we should start looking.
+28:Mai Aihara and I arrived at the Mahjong parlor in the Temple of Moons.
+29:???
+30:{character:???}Is that you, Mai? Have you finished tidying up the garden?
+31:The mahjong parlor is in business, and two regular customers sitting near the door greet us warmly when they see us walking in.
+32:Apparently, the elderly of the vicinity often come here for a walk because of the wonderful environment of the shrine. To give the elderly a place to rest, Mai emptied the small room next to the shrine to make it a lounge for them.
+33:After that, the elderly proposed to put a few mahjong tables in the room for their entertainment and to generate more income for the shrine. Mai agreed, so she changed the room into a mahjong parlor, which has been in business since then.
+34:Elderly Man
+35:{character:Elderly Man}We're waiting for someone. Mai, how about you play a few rounds with us?
+36:{character:Mai Aihara}S-sorry...! I'm a little busy right now. How about next time?
+37:Elderly Woman
+38:{character:Elderly Woman}Oh? You look a little distressed.
+39:{character:Elderly Man}You can tell me about it if you want. Maybe I can help.
+40:Most of the elderly who play mahjong here watched Mai grow up and have always been very kind to this girl who is like a granddaughter to them.
+41:{character:player}Um... have you seen Tubby?
+42:{character:Elderly Man}Tubby? That fat cat? No, I haven't. I've been here by the door the whole time, so I would have noticed if a cat passed by. What? Is Tubby missing?
+43:{character:Mai Aihara}Yes... I don't know where he's gone to or whether he is in any danger.
+44:{character:Elderly Woman}Mai, maybe you can take a look at the nearby animal shelter? I heard my son mention that someone has been giving canned food to stray cats and dogs there recently.
+45:{character:Mai Aihara}Canned food? Tubby loves that. He might actually be there! Thank you both! I'll go there right now.
+46:{character:Elderly Man}You're welcome. You take such good care of us all the time. In particular, this mahjong parlor has helped me pass a lot of time.
+47:{character:Elderly Woman}The old man is right. You're like a granddaughter to us, so you can always tell us if anything is troubling you. Granny is always here for you if someone bullies you.
+48:{character:player}With such reliable elders who dote on her, I believe no one will dare to bully her.
+49:{character:Elderly Woman}Hehe, the young one has a sweet tongue.
+50:{character:Elderly Man}A sweet tongue isn't enough without helping out.
+51:{character:Mai Aihara}Master has been taking good care of Mai and just helped me clean the courtyard. Now Master is helping me search for Tubby.
+52:{character:Elderly Man}It doesn't mean much until you find Tubby. Don't worry, Mai, grandpa will help you search for Tubby as well. I'm sure I'm more reliable than these young whippersnappers—OUCH! Why did you pinch me?
+53:{character:Elderly Woman}Save yourself the trouble and stop getting in the way of young people. Mai, just go and do what you need to do.
+54:{character:Mai Aihara}Okay, take care and have fun then. We'll go to the animal shelter now.
+55:{character:player}Don't worry, old man, maybe we'll find Tubby before you finish a Hanchan.
+56:{character:Elderly Man}All talk and no... Argh! Stop pinching me, you old hag! I'll shut up, okay? Just go...
+57:Mai and I arrive at Mahjong Soul Shrine and see Wanjirou and Ichihime basking in the sun there. Now it's the perfect opportunity to ask them about Tubby.
+58:{character:Mai Aihara}Have either of you seen Tubby?
+59:Wanjirou
+60:{character:Wanjirou}Nope, woof. Ichihime, you were in the corridor the whole time. Did you see Tubby?
+61:Ichihime
+62:{character:Ichihime}I didn't see him either, maybe because I fell asleep, nyaa!
+63:{character:Wanjirou}How can you sound so proud about dozing off, woof?
+64:{character:Ichihime}Because I dreamed that Master had come to see me, and then Master really came, nyaa! Wanjirou, you wouldn't understand, I wasn't dozing off, I had a prophetic dream!
+65:{character:Ichihime}Master, do you want me to help you search the courtyard, nyaa?
+66:{character:player}That would be great, thanks, Ichihime!
+67:{character:Ichihime}Wanjirou, don't slack off! Come and help me, nyaa!
+68:With Ichihime and Wanjirou's help, it doesn't take us long to search Mahjong Soul Shrine thoroughly but we still fail to find Tubby as there is only one cat in Mahjong Soul Shrine—Ichihime.
+69:{character:Mai Aihara}He's not here... Where could he be if he isn't in Mahjong Soul Shrine?
+70:Mai looks a little crestfallen. The reason we came here first was that she said Tubby had come to Mahjong Soul Shrine a few times before and thought we would have a higher chance of finding him here.
+71:{character:player}Don't be disheartened. Tubby can't go that far since he likes to rest for a while every two steps he makes. At least now we can cross one place off the list.
+72:{character:Ichihime}Don't worry, Mai, Tubby is a smart cat. He'll be fine, nyaa.
+73:{character:Wanjirou}Although I want to tell you not to worry, I know it won't be easy since that cat is like family to you, woof.
+74:{character:Mai Aihara}Yea... Tubby and I have been together for four years already...
+75:As Mai takes a trip down memory lane, she tells us about how she met Tubby. At first, Tubby, who was a kitten at the time, was just a stray tabby who came to beg for food in the neighborhood every evening, but at some point in time, he started to sleep in the courtyard of the Temple of Moons.
+76:The kind-hearted Mai was worried that he would catch a cold, so she made him a basic cat house. Over time, the cat became a member of the Temple of Moons and was given the name Tubby.
+77:Especially after Mai's grandfather passed away, Tubby became Mai's only remaining family. One can imagine how anxious and sad Mai must be feeling after Tubby disappeared.
+78:{character:Mai Aihara}It's almost time for lunch. I wonder if Tubby has managed to have a good meal outside...
+79:{character:Wanjirou}Meal... I remember, woof! There's an animal shelter near the commercial strip. They have been providing canned cat food to stray cats there recently, so Tubby might be attracted over there, woof.
+80:{character:Ichihime}Canned cat food?!
+81:{character:Wanjirou}Be careful, Ichihime. You better not get lost because of this too, woof.
+82:{character:Ichihime}Nyaa? I won't eat any canned food, nyaa! Because Master will give me a big snack pack with lots of yummier food, nyaa!
+83:After Wanjirou reminds us of a place where Tubby might have gone, Mai thanks him and starts pulling me toward the animal shelter.
+84:{character:Mai Aihara}I hope we can find Tubby soon.
+85:{character:player}Let's go. Hopefully he likes the food there and will stay there for a little longer.
+86:{character:Ichihime}Master, you can do it, nyaa! Call me at any time if you need my help, nyaa!
+87:{character:Wanjirou}I'll keep an eye out for you when I go outside later. Let's keep in touch, woof.
+88:A large group of cats is gathering around the meal trays at the animal shelter, meowing constantly as they eat. Mai and I enter this "car paradise" with the staff's permission.
+89:{character:player}There are many cats here... but I don't see Tubby among them.
+90:Tubby should be quite conspicuous among stray cats with its chubby figure, so I quickly come to the conclusion that Tubby isn't there.
+91:However, Mai is not willing to give up so soon. she calls Tubby's name a few times, hoping he will appear.
+92:{character:Mai Aihara}Tubby! Tubby! Stop playing hide and seek! I'm worried sick about you. Tubby!
+93:{character:Mai Aihara}Master... I don't think Tubby is here.
+94:I pat her shoulder gently because I can see her getting more and more depressed.
+95:{character:player}There are still many places that cats would go to. Let's look around nearby.
+96:But we can't search aimlessly. It would be best to find some other clues.
+97:{character:Mai Aihara}Master... Although Tubby isn't here right now, is it possible that he has finished eating and left? Should we ask the staff?
+98:{character:player}That's a good idea, but so many cats come here to eat every day... would they remember?
+99:{character:player}...We can still try though. Mai, do you have a photo of Tubby on your phone?
+100:Tubby is so conspicuous, we might really be able to find some clues if you show them his photo.
+101:We show Tubby's photo to the staff at the rescue station and are fortunate enough to find some clues.
+102:Staff
+103:{character:Staff}Oh! This chubby cat came here today. He seemed to have gone to play in the commercial strip after eating his fill.
+104:{character:Mai Aihara}R-really? Thank you! Um, well, the cost of the food...
+105:{character:Staff}Don't worry about that. You're the priestess of the Temple of Moons, right? The neighbors here say that things seem to get better if they pray at your shrine when they are down on their luck.
+106:{character:Staff}Just treat the cat food as a donation.
+107:{character:Mai Aihara}E-even if I have helped anyone... that's my duty as the priestess. It shouldn't be like that.
+108:{character:player}Haha!
+109:{character:Mai Aihara}Eh... Master, why are you laughing? Did I say something strange?
+110:{character:player}No, it's nothing. Mai, you're right. You're a very principled person.
+111:{character:Staff}Haha, you're such a serious and adorable person.
+112:The staff beside us also starts laughing because of our conversation. It's really like what he said, the way how Mai treats people so seriously is a little ditzy and cute.
+113:{character:Mai Aihara}Master, did I really say nothing strange?
+114:{character:player}No, I guarantee you didn't. Let's go to the commercial strip now. If we ask around while showing the photo, we should be able to find Tubby soon.
+115:{character:Mai Aihara}Y-yes! Let's go, Master.
+116:Excellent, I manage to change the subject.
+117:Shop Employee
+118:{character:Shop Employee}This chubby cat did come to our store. I was eating corn at the time, so I fed it some.
+119:{character:Shop Employee}Then I was busy greeting a customer that entered after that, and he had left by the time I turned my head. Sorry, I don't know where he's gone.
+120:{character:Mai Aihara}Please don't say that. I should be the one apologizing because Tubby bothered you.
+121:{character:player}Another dead end...
+122:We ask around the commercial strip and follow the passerby's instructions to the shop Tubby had visited, but we seem to be one step too late again.
+123:{character:player}Other places... I can only think of that grill house. I often see cats hanging around there when I pass by.
+124:{character:Mai Aihara}I hope Tubby hasn't left the commercial strip. There are fewer cars here, so he should be safer here...
+125:{character:Shop Employee}Are you leaving now? Are you sure you don't want to pick a few pieces of clothing? Our clothes are high-quality and inexpensive!
+126:{character:Shop Employee}Especially this priestess. You look so lovely—we have lots of clothes that suit you!
+127:{character:player}I'm sorry, you know we're looking for a cat. We'll come again next time. I promise.
+128:{character:Shop Employee}It won't take long—just a few minutes. Let me give you some recommendations. Take a look, this hat just arrived. It's incredibly trendy!
+129:The shop employee plops a hat on my head just like that. When I look in the mirror, I see a hat with two fluffy decorations that resembled Wanjirou's ears on the brim. It looks like a hat people would wear to play a prank.
+130:{character:Mai Aihara}Oh, I've seen this hat in a magazine. It looks surprisingly good on you, Master.
+131:{character:player}Is this hat really popular right now? Well... I actually quite like it. H-hold on, didn't I just say we were busy? It won't be convenient to be carrying something right now. I'll come again another day after we find the cat.
+132:{character:Shop Employee}Customer! If you see something you like, you've got to buy it now! We happen to be doing a promotion right now, so you can get this hat for a special price!
+133:{character:player}Ha... haha... Don't tell me that I can probably get anything I like for a special price...
+134:After saying that, I grab Mai and run away from the enthusiastic employee and that shop. Sometimes, social anxiety is caused by "social terrorists"...
+135:Unfortunately, we don't manage to find any clues at the grill house after that.
+136:{character:Mai Aihara}Master, Miss Nanami's café is nearby. You've been so busy all afternoon and haven't had a chance to drink anything. Do you want to have a drink and take a break there, or do you want to rest back at the shrine and see if Tubby has returned at the same time?
+137:{character:Mai Aihara}Maybe... Maybe Tubby is just hiding somewhere and taking a nap. It would be great if that's the case...
+138:Mai and I are exhausted after running around all afternoon looking for Tubby. She seems to notice my exhaustion while we were sitting on a bench by the street, so she makes a gentle suggestion.
+139:I want to say I don't need to, but I see her apologetic eyes and feel that she would definitely feel guilty if I forced myself to continue at this time.
+140:{character:player}Okay, let's have a cup of coffee to pick ourselves up.
+141:{character:Mai Aihara}Oh... Master, can you go there first? I just thought of a place Tubby might go to and want to ask around first.
+142:{character:player}I'll come with you.
+143:{character:Mai Aihara}It's okay! Master... place an order at the café first. It's just nearby, so I'll be back soon.
+144:Mai insists on going by herself, and I don't want to force her, so I head to Éternité by myself first. It would be a good idea to order a cup of her favorite black tea first so she can have it right after she comes back.
+145:Reina Nanami
+146:{character:Reina Nanami}Welcome!
+147:The soft sound of a wind chime and Reina Nanami's gentle greeting welcome me at the same time.
+148:{character:Reina Nanami}Ah, it's you, {var:player_nickname}. Is it just you today? We happen to have a new product that will become available from tomorrow. Can you try it out for me?
+149:{character:player}Sure, but I'm with Mai at the moment. She'll be joining me later.
+150:{character:Reina Nanami}That's perfect! I'll have one more taster. This will be on the house.
+151:{character:???}Excuse me.
+152:I hear Mai's voice from behind me as I talk to Reina. She sure didn't exaggerate when she told me the place was nearby and that she would be back soon.
+153:{character:Mai Aihara}Sorry for making you wait, Master. I took a little longer because I bought some things along the way on my way back. I'm really sorry...
+154:{character:player}It's okay, you came really quickly, so don't worry about it. By the way, Reina, have you seen this cat?
+155:{character:Reina Nanami}Is this the cat of the Temple of Moons? I remember seeing him when I prayed at the shrine. Has he gone missing?
+156:{character:Mai Aihara}Yes, he disappeared this morning. I'm worried that he might get into an accident...
+157:{character:Reina Nanami}Cats all love to roam around everywhere. It's the same case for all the stray cats around the cafe. You won't see them usually, but they'll all come running when it is time for a meal.
+158:{character:Reina Nanami}Maybe Tubby will return home once it's time, so you don't need to be too worried. If he comes here, I'll let you know as soon as possible.
+159:Reina handed our drinks over as she spoke. The new coffee blend fills the mouth with a lavender-like aftertaste and seems to have a soothing effect.
+160:I look over at Mai. The steaming coffee seems to have eased her anxiety as she looks a lot more relaxed than she has been all afternoon.
+161:{character:Mai Aihara}Speaking of which, Master... am I worrying too much?
+162:{character:player}You just care about Tubby a lot. Like I said, you're a good owner.
+163:{character:Reina Nanami}Most cats have a mind of their own. They come quietly and leave quietly before you even realize it. They never care whether their owner will worry about them.
+164:{character:Reina Nanami}Miss Aihara, after Tubby comes back, remember to tell him that you are very worried about him.
+165:{character:Mai Aihara}B-but will Tubby understand?
+166:{character:Reina Nanami}Whether he understands isn't important. You need to let him feel that you worry about him and care about him.
+167:{character:Mai Aihara}Oh I see... Thank you, Reina, I'll try doing that. Yes... after I get back... I'll be a little mean to him and show him that I'm his owner.
+168:Reina and I both smiled after hearing that. Neither of us could imagine Mai being mean to anyone.
+169:{character:Reina Nanami}By the way, I just remembered that there's a nearby park where cats like to gather. Would you like to take a look there?
+170:{character:Reina Nanami}But Tubby might already have returned to the shrine by now.
+171:{character:Mai Aihara}What do you think, Master?
+172:The shadows on the ground grow longer and longer as the sun slowly sets in the west. Mai and I arrive at the park Reina Nanami mentioned and split up to search carefully.
+173:{character:player}Did you find her?
+174:{character:Mai Aihara}No...
+175:There are many cats here like Reina said, but we don't see Tubby among them.
+176:After searching for a while, we are both so tired and sweaty that we have to sit on a park bench to rest for a while.
+177:{character:player}I think we should take a look back at the shrine. Should we go now?
+178:{character:Mai Aihara}It's getting late, and it's been a tiring day for you, Master. You should go home and get some rest. I'll go back to the shrine by myself to look for Tubby.
+179:{character:player}...Alright. If Tubby has returned to the shrine, then it isn't really necessary for me to come with you.
+180:{character:player}I'll go home first then. Call me if Tubby hasn't returned to the shrine.
+181:{character:Mai Aihara}Thank you, Master... Oh right, Master, please take this.
+182:Mai Aihara handed a bag to me. After receiving it, I took a look inside and saw the "Wanjirou" hat I saw earlier in the shop.
+183:{character:player}Huh, w... what's this for?
+184:{character:Mai Aihara}Master, you said you liked this hat.
+185:I remember going along with her and expressing some affection for the hat because Mai said it looked good on me. I didn't expect her to take such a trivial matter to heart and buy me this hat as a gift. I would be lying if I said I wasn't happy, but...
+186:{character:player}Mai... why are you giving me a gift all of a sudden?
+187:{character:Mai Aihara}I've caused you a lot of trouble when you helped me taking care of the courtyard and search for Tubby today. This is a... thank-you gift.
+188:Mai's comment makes me think she is too concerned about needing to repay others for their help. Suddenly, the hat feels heavy in my hands.
+189:{character:Mai Aihara}...Master, why aren't you saying anything? D-do you not like it?
+190:{character:player}No, I like it a lot. Thank you.
+191:{character:player}It's just, I did something a friend would do. To receive such a formal gift in return for a little favor feels a little...
+192:{character:Mai Aihara}S-sorry! Did I make things difficult for you?
+193:{character:Mai Aihara}I just think... you are so kind and gentle to me. I just want to respond to your kindness.
+194:{character:player}Mai, do you think we're friends?
+195:{character:Mai Aihara}F-friends... Can I be friends with you?
+196:{character:player}Of course. It's because I see you as a friend that I helped you with the garden and helped you search for Tubby. I didn't do this to be repaid. I just want you to be happy.
+197:{character:Mai Aihara}Then I'm the same... It's not entirely because you helped me that I got you this gift. I... When I see something you like, I also want to buy it for you and make you happy.
+198:{character:player}In that case, just make me some tea you and it would be the best gift already. Of course, it would be even nicer if you could make me a home-cooked meal. I think we'll be closer friends like that.
+199:{character:Mai Aihara}Eh? M-master, do you want us to... become closer?
+200:{character:player}Of course! We're friends, right?
+201:{character:Mai Aihara}O-okay! I... I'll remember that.
+202:Mai bows her head shyly, and I hear her whisper, "become closer" to herself.
+203:I once heard Ichihime say that Mai had been very lonely and isolated for a long time because of her strict family education. Perhaps that's why she cherishes Tubby and the friends around her so much. However, it also makes her too polite sometimes.
+204:Like I said earlier, I hope that we'll become a little closer after today's events.
+205:{character:player}Thank you for the hat. It's become dark after all that talking. I'll walk with you back to the shrine.
+206:{character:Mai Aihara}Thank you... Master.
+207:Excellent, she didn't try to say no politely. We've made some progress.
+208:{character:???}Nyaa!
+208:{character:Tubby}Nyaaa!
+209:As we prepared to get up, we heard the sound of a cat from behind the bench.
+210:Tubby
+211:{character:Tubby}Nyaa—
+212:{character:Mai Aihara}Tubby! M-master! It's Tubby!
+213:{character:player}Geez... So you've finally decided to show your face? Where have you been all day? Hmm...? What's this on its back?
+214:There is a yellow little chick sitting on Tubby's back. It's as bright as a hydrangea.
+215:{character:Mai Aihara}Is this... Tubby's friend?
+216:{character:player}Maybe that's why he ran out for so long. He made a new friend and was having too much fun outside.
+217:The little chick doesn't seem afraid of us and continues to groom Tubby's fur with its beak. The two animals look like they are getting along so well.
+218:{character:Mai Aihara}...Tubby.
+219:{character:Mai Aihara}You can go outside and play with your friends, but you need to tell me first! We're family, so don't make me worry. Do you understand, Tubby?
+220:{character:Mai Aihara}Master, did I show Tubby my authority as her owner?
+221:{character:player}You've done very well for now, Mai.
+222:{character:Mai Aihara}Hehe...
+223:But judging from Tubby's relaxed demeanor, he probably doesn't take it to heart. Tubby flips over, revealing his tummy, in a show of friendliness to Mai. The yellow chick also jumps over and rubs itself against her clogs endearingly.
+224:{character:player}You naive cat, do you think you can get away with it just by being cute to your owner?
+225:{character:Mai Aihara}Tubby's tummy is so soft... it's so cute...
+226:Hmm... Well, I guess he can. Even I couldn't resist the urge to touch it.
+227:{character:player}What about this yellow chick? Since they get along so well, should we bring this little guy back with us?
+228:{character:Mai Aihara}That's what I'm thinking too. It wouldn't be nice to separate them since they get along so well together.
+229:{character:Mai Aihara}Master, let's go back. I... I want to cook you dinner.
+230:{character:player}Yay! I'm in for a treat!
+231:And so, our adventure to find Tubby has ended perfectly.
+232:{character:Mai Aihara}...Master, can we go to that clothing shop again together sometime?
+233:{character:Mai Aihara}I... I want to become closer to you, Master...
+234:{character:player}... Sure! Let's go out and have some fun another time.
+235:I hope we can become as close as the two animals in front of us...
+236:It's almost dusk by the time we return to the shrine. The setting sun elongates our shadows behind us, and Mai always stays half a step behind me with her head down. I don't know what's on her mind.
+237:{character:player}What's on your mind?
+238:{character:Mai Aihara}Oh, nothing... I suddenly noticed that our shadows have overlapped.
+239:{character:player}You're right. Have you seen that recent anime? Having a shadow at least proves that we are humans.
+240:{character:Mai Aihara}I'm not good with scary topics. I just think that our shadows look very happy together like that...
+241:I don't know if it’s the setting sun, but her face looks a little red. Mai seems much more relaxed than before, but she becomes shy again due to the dreamy atmosphere.
+242:{character:???}Nyaa?
+243:{character:player}Huh? That sound is...
+244:A furry creature appears in front of us suddenly. It's Tubby!
+245:{character:Mai Aihara}It's Tubby! He really did return to the shrine!
+246:{character:Mai Aihara}Geez! Master and I looked around everywhere for you... I was so worried about you Tubby. Did you know that...?
+247:{character:Tubby}Nyaaaa!
+248:Tubby doesn't understand the troubles of people, so he reveals his tummy to act cute, which is always effective. Although Mai complains about Tubby, her eyes are full of unconcealed love. She strokes every inch of Tubby's fur like she's making sure Tubby isn't hurt.
+249:{character:player}I'll buy a collar with GPS for you so you'll know if Tubby has gone anywhere dangerous.
+250:{character:Mai Aihara}Thank you, Master... I've caused you so much trouble today.
+251:{character:player}Not at all. I'm relieved that Tubby has returned home safely too.
+252:{character:Mai Aihara}If you don't mind, please rest for a while at the shrine. I'll make you some tea.
+253:{character:player}Thanks, Mai.
+254:{character:Mai Aihara}Yes... And if you don't mind my cooking, would you like to stay for dinner?
+255:Mai asks me that question hesitantly after picking up Tubby, and I can tell she has plucked up a lot of courage before asking. Before this, she has hardly invited anyone on her own initiative. Does this mean she already considers us to be good friends?
+256:{character:player}Oh? I'm in for a treat! My efforts today have paid off!
+257:{character:Tubby}Nyaa!
+258:{character:player}Stop shouting, you greedy little cat. Your owner won't forget your share.
+259:And with that, our search for Tubby comes to an end. I stay at the shrine and have dinner with Mai.
+260:Although we never find out where Tubby went during the day, we are both relieved that he has returned home safely. I'll need to hurry up and get him one of those collars with GPS soon.
+261:Look for Tubby inside the Temple of Moons
+263:The Mahjong Soul Shrine...
+264: 
+265:Go to the café to take a break
+266:Go back to the shrine
+267:Go to the park
+268:Go back to the Temple of Moons
+269:Several minutes later, inside Éternité

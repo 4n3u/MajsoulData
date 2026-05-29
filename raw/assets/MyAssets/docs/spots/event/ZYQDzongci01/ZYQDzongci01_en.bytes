@@ -1,0 +1,192 @@
+4:player
+
+409:???
+410:Sacrifice! Surrender to me now! {var:ShakeScene}
+411:Immediately after walking inside the Ancestral Hall, I see a young girl rushing toward me... and unless my eyes are playing tricks on me, it looks like there's a... cleaver in her hand!
+412:Huh? Did she just... call me a sacrifice?
+413:Although One Han City isn't a lawless place, I have no time to think as the cleaver closes in on me, so I turn and start running around the courtyard.
+414:Girl Holding a Cleaver
+415:Stop running!
+416:Easy for you to say! {var:ShakeScene}
+417:As she chases after me, I find myself wishing I could rise into the air and fly away... After running around for a while, I notice that the girl has no intention of letting me go.
+418:Huff! I-I can't run anymore... Maybe I should try to talk some sense into her.
+419:With that thought in mind, I stop running.
+420:Hi there, I'm...
+421:Yuqing, it's gone your way!
+422:The girl sweeps past me like a tornado...
+423:It turns out I'm not her target...
+424:Intrigued, I decide to follow her.
+425:Big rooster, here's some delicious millet for you!
+426:In the courtyard on the other side of the wall, a mysterious girl in green is trying to seduce a vigilant rooster near her with a handful of millet... and hiding behind a decorative rock in the garden is the girl with the cleaver, which gleams with a cold light under the sunlight.
+427:So the real sacrifice is this big rooster.
+428:I hold my breath and wait for the big rooster to take the bait.
+429:Girl in Green
+430:A-Yuan, are you sure this is what the rooster likes to eat? It's been so long already, and it hasn't reacted at all.
+431:It should be right. Um... we need to catch it soon, or we'll miss the auspicious time.
+432:Hmph! Since it won't play along nicely...
+433:The girl in green throws away the millet in her hand and claps before making a beeline toward the big rooster. The girl with the cleaver also comes out from behind the rock to help.
+434:Sandwiched between the two girls, the big rooster starts running toward me in a panic.
+435:You there, help us catch it!
+437:Right-click the big rooster to target it, then press the button to use the chicken-catching skill!
+439:Who? Me?
+441:Take action when the time is right!
+442:As an expert in business sims... I can't believe I actually forgot to bring my keyboard and mouse with me.
+443:Um, what should I do now?
+444:With no other choice, I stand where I am and watch its movements warily.
+445:Anyone who has been pecked by a rooster before would know how fearsome they can be, let alone this one in front of me, which has feathers so glossy and a comb so red... I'm afraid that we won't be a match for it even if we take turns attacking it.
+446:I'll be lucky if it doesn't attack me!
+447:I reach out in the direction it's running and try to grab it, but it has somehow predicted my prediction...
+448:When it's about a meter from me, the big rooster spreads its wings and flutters into the air, as if aiming to jump over my head. Then it steps on my shoulder with its powerful claws, and its long nails dig into my coat.
+449:Suddenly, I feel a huge force pulling against my shoulder as the big rooster flaps its wings, loses its balance, and falls into my arms... giving me the chance to hug it tightly.
+450:It turns out that its nails got hooked on my coat.
+451:(whisper) I thought that only stray cats do this...
+452:Wow! You're so amazing! A-Yuan and I have been trying to catch it for an hour already.
+453:After taking the big rooster off me, the girl with the cleaver tilts her head and looks at me in confusion. In fact, I've already managed to guess her identity based on the earlier conversation. She is A-Yuan, the shaman of Bamboo Cloud, the very person I'm looking for.
+454:A-Yuan
+455:You don't look like you're from Champion Street. What brings you to the Ancestral Hall?
+456:Hi, I'm {var:player_nickname}. I'm here to supervise the preparations for the Bamboo Cloud anniversary celebration and ensure everything goes according to schedule. This is my work ID.
+457:You're here to supervise the preparations... Pfft! You're our supervisor?
+458:Now that you mention it, Ms. Fuuka did say that a supervisor would come here to help out with the parade preparations... It's nice to meet you too. I'm A-Yuan, the shaman of this place.
+459:I'm Hua Yuqing from the Floating Dreams theater. I'm also a resident of this street. Nice to meet you.
+460:Ahaha, no need to call me supervisor... I came here to help you guys, so come to me whenever you need any help.
+461:But...
+462:A-Yuan looks at me with a troubled expression.
+463:I'm about to burn incense and bathe to get ready for communicating with the ancestors. I'm afraid...
+464:...
+465:Hua Yuqing
+466:I'll say it for you. This isn't a good time for outsiders to be here. Come with me! I'll treat you to the most delicious Nanxiang beef noodles on the street. Let's get out of A-Yuan's hair.
+467:Hua Yuqing drags me out of the Ancestral Hall.
+468:Two bowls of your signature spicy beef noodles please!
+469:Nanxiang Beef Noodle Restaurant
+470:After we leave the Ancestral Hall, Hua Yuqing quickly pulls me into a nearby Nanxiang Beef Noodle Restaurant.
+471:You'll hear firecrackers go off soon. After that, we can participate in the ritual.
+472:The ritual?
+473:According to the customs of the Nanxiang people, it's necessary to perform a ritual to confirm that the ancestors are willing to return to the human world. Only after that can we hold the parade and receive the ancestors' blessings in the new year.
+474:Here's your food. Enjoy!
+475:Huh? Mr. Li, I ordered two bowls of your signature spicy beef noodles!
+476:A bowl of glossy spicy beef noodles sits in front of me, while the bowl in front of Hua Yuqing looks watery and tasteless.
+477:Mr. Li
+478:Sorry about that, Miss Hua. A few days ago, Miss Bai instructed us to only make you noodles in broth during this time.
+479:There's nothing I can do about it. I really appreciate the sacrifices you're making for the anniversary celebration performance! I'll leave you two to it. Please enjoy your meal.
+480:Huh? Wait a minute! I...
+481:As if he doesn't want to displease Hua Yuqing, Mr. Li quickly hides in the kitchen and doesn't come out again.
+482:My spicy beef noodles... *sobbing*
+483:What's the anniversary celebration performance?
+484:Huh? Aren't you Bamboo Cloud's supervisor? Don't you know that Floating Dreams has been invited to participate in the anniversary celebration performance?
+485:Let me check my schedule... Nope, I don't see anything about that. Maybe another colleague is responsible for that.
+486:It's such a shame that an interesting person like you isn't our supervisor. I'm sure my sister would think you're interesting too.
+487:Sigh, I've lost my appetite after seeing this bowl of watery and tasteless noodles. You can have it.
+488:Hua Yuqing pushes her bowl toward me with a look of disgust.
+489:Hmm?
+490:Suddenly, the sound of firecrackers fills the air. In an instant, all the diners and employees of the bustling restaurant drop everything they are doing and run outside.
+491:Ah! The ritual has started! A-Yuan is as efficient as always.
+492:Before I can put the noodles in my chopsticks in my mouth, Hua Yuqing pulls me up and drags me toward the Ancestral Hall behind the crowd.
+493:My noodles...
+494:Huff... this way. There are as many people here as always.
+495:Ancestral Hall
+496:By the time we return to the Ancestral Hall, it's already surrounded by a huge crowd. After struggling for a while, I manage to squeeze a path to the front row with Hua Yuqing's help.
+497:The old tree in the Ancestral Hall is now decorated with prayer strips, and an altar with various sacrificial food offerings has been placed under it. Now poached, the big rooster from before lies on a dish covered with red paper.
+498:Wearing an ancient mask amid the soft tinkling of silver bells, A-Yuan begins performing an ancient and mysterious dance to the sound of gongs and drums in the middle of the courtyard.
+499:Her graceful yet slightly eerie movements give her an intangible presence that silences the crowd.
+500:As A-Yuan walks leisurely toward the crowd, her eyes scan everyone's faces deliberately like she is searching for something.
+501:After the dance
+502:(whisper) What is she doing?
+503:(whisper) Shush! Stop talking.
+504:Hua Yuqing leans closely against my ear nervously and lowers her voice to a whisper.
+505:(whisper) Something bad is going to happen!
+506:While I'm wondering what could possibly happen, someone sneezes loudly in the crowd, prompting A-Yuan to pause.
+507:Middle-aged Man
+508:Ahhh! I-I'm sorry... Hit me if you want, but don't throw me out! That's too cruel... L-Let me witness the return of the ancestors with my own eyes!
+509:The middle-aged man who sneezed loudly wails as the angry crowd drags him away.
+510:(whisper) Do you understand now?
+511:I nod fearfully.
+512:As we speak, A-Yuan recovers and walks around everyone again before stopping in front of a resident. The people around him start sighing in envy, breaking the quiet atmosphere.
+513:Phew! Now that someone has been selected, the success of the ritual depends on this person.
+514:The resident A-Yuan selected follows her to the altar, where they burn incense and worship heaven, earth, and the four cardinal directions. A-Yuan takes two wooden blocks that are about two palms long from a wooden box on the altar and gives them to the resident.
+515:That's a Jiaobei, a divination tool used by the Nanxiang people to communicate with their ancestors.
+516:Each Jiaobei has two sides--one round and one flat. The resident throws them into the air as everyone stares at them intently.
+517:The entire crowd sighs immediately when both Jiaobei fall to the ground with the round side facing upwards.
+518:It's a Yin answer... which means the ancestors have rejected our invitation.
+519:So has the ritual failed?
+520:Not yet. It's only a failure if we get three Yin answers.
+521:The resident bearing everyone's expectations throws the Jiaobei again as Hua Yuqing clutches my arm nervously...
+522:Unfortunately... the next two attempts are also Yin answers.
+523:A moment later
+524:The crowd is in an uproar as the resident returns to the crowd dejectedly.
+525:Judging from everyone's reaction, it looks like the ritual has failed.
+526:Yes, but to be precise, the ritual has failed again.
+527:Again?
+528:This ritual can be performed on every auspicious day before the parade begins, and it's normal to fail once or twice, but this year...
+529:Person A
+530:Sigh, how many times has it been now? Do you think the ritual will ever succeed?
+531:Person B
+532:Exactly. The anniversary celebration is coming up, but we haven't even been able to invite the ancestors for the parade...
+533:Person C
+534:If the ritual keeps failing, does that mean we won't be able to invite the ancestors in the whole year? What will happen to the parade?
+535:There are several responses to every comment, and it isn't long before the crowd starts arguing louder and louder. Meanwhile, A-Yuan, who has taken off her mask, wipes the Jiaobei with a blank expression and puts them back in the wooden box, seemingly paying no mind to the discussions around her.
+536:We're running out of time now, so let's just treat this ritual as a formality. The most important thing is to ensure the highly anticipated parade of Bamboo Cloud's anniversary celebration takes place. It would be shameful for all of us if it doesn't!
+537:A man stands up in the crowd and complains grudgingly to A-Yuan. I look in the direction of the voice and see Mr. Li, the manager of the beef noodle restaurant.
+538:Upon hearing his words, A-Yuan's calm expression becomes serious.
+539:The parade is meaningless if it disrespects the ancestors. I've said this many times already. As the shaman in charge of this Bamboo Cloud ritual, I'll never do anything that crosses my bottom line.
+540:Who's going to take responsibility if the parade isn't held this year? Little girl, you are not a phony shaman, are you?
+541:These people are trying to pick a fight again!
+542:Based on what Hua Yuqing said, it sounds like this isn't the first time this has happened...
+543:Step up and put a stop to this.
+544:Bide your time as it's not time to intervene yet.
+545:As the supervisor in charge of monitoring the progress of the parade, it's my job to mediate conflicts between parties.
+546:I step up and stand between Mr. Li and A-Yuan.
+547:Everyone, could you please listen to my opinion first?
+548:This is the business of Champion Street. Outsiders like you better stay out of it.
+549:Ms. Minami sent me here to monitor the progress of the parade. This is my ID.
+550:This... looks real... So are you going to take responsibility for the parade?
+551:Upon hearing this, everyone looks at me.
+552:My job is to help A-Yuan hold the parade without a hitch. Please trust us.
+553:Fine then. We'll trust you since we believe in Ms. Minami, but if the ritual fails next time, causing the parade to be delayed, don't blame us for reporting you to Ms. Minami.
+554:Let's go.
+555:Mr. Li leaves with his staff. Seeing that the dispute is over, the unhappy onlookers also disperse, instantly restoring the peace of the Ancestral Hall.
+556:Nicely done!
+557:Hua Yuqing pushes through the crowd to our side and gives me a thumbs-up.
+558:Thanks for coming to my help...
+559:Li isn't wrong though. There's almost no time left, and we haven't had any success with the ritual. If this continues, the parade will definitely be delayed.
+560:I'm sure Miss A-Yuan also has her own difficulties. It's not entirely her fault that the ancestors have been saying no.
+561:Just look at this mess… Sigh…
+562:As the comments of the people around me fill my ears, I realize that this sounds like more than a quarrel over different opinions.
+563:Everyone is right from their own point of view.
+564:...?
+565:As I think about this, a green figure flashes before my eyes... I look over and see Hua Yuqing standing in front of Mr. Li with a disgruntled expression on her face.
+566:The gods are always watching us. How can you be so disrespectful to them!
+567:Miss Hua, what brings you here?
+568:Mr. Li's tone softens after seeing Hua Yuqing standing in front of him.
+569:A-Yuan is the most outstanding shaman who Ms. Minami has personally invited from Nanxiang. It's thanks to her prayers that Bamboo Cloud and all of Champion Street are so prosperous now.
+570:Mr. Li, it's not nice of you to accuse her like you did today and call her a phony shaman without any evidence.
+571:The crowd quietens down instantly after she speaks. It's obvious that they agree with her.
+572:Miss Hua is right. It was rude of me to say that, but it's obvious to everyone that the ritual isn't going well this year. Who will take responsibility if this continues and the parade can't be held?
+573:This one right here, of course!
+574:Hua Yuqing suddenly points at me, calling me out while I was watching the show.
+575:This person?
+576:Ahem... Hi, I'm {var:player_nickname}. I'm here to supervise the preparations for the Bamboo Cloud anniversary celebration and ensure everything goes according to schedule. This is my work ID.
+577:Mr. Li checks my ID repeatedly before sighing.
+578:Fine then, I'll wait a few more days out of respect for you two.
+579:Mr. Li finally backs down and leaves with his staff. Seeing that the dispute is over, the unhappy onlookers also disperse, instantly restoring the peace of the Ancestral Hall.
+580:Phew! Fortunately, you didn't drop the ball, {var:player_nickname}, or else I wouldn't know what to do.
+581:Thanks for coming to my help.
+582:Don't sweat it. But we still need to think of something for the ritual... What will happen if the ancestors don't accept the invitation?
+583:Then we'll follow their wishes.
+584:Are you saying we'll cancel the parade?
+585:Yes. The ancestors will definitely be angry if we force them to participate in the parade without their consent.
+586:What will happen... if the ancestors are angry?
+587:Each ancestor has their own temperament, and appeasing them requires different approaches. Once, a village had a whole year of bad luck and hard times after forcing their ancestors to join a parade.
+588:Hua Yuqing
+589:Hmm... in One Han City, having such bad luck would probably mean that you'll lose every game you play and feed another player an Ippatsu in every game.
+590:That would be terrible...
+591:That being said, I need to communicate with the ancestors to find out what's wrong.
+592:Is there anything I can do to help?
+593:A-Yuan closes her eyes and seems to consider my words carefully.
+594:As A-Yuan still hasn't responded, I lean against Hua Yuqing and whisper to her.
+595:Ten minutes later
+596:(whisper) Was my question so difficult that she needed to think for so long?
+597:(whisper) Maybe she needs to ask the ancestors for guidance since it involves them.
+598:When A-Yuan opens her eyes again, she looks at me with an extremely serious and solemn expression.
+599:There really is something that I need you to do for me.
+600:A-Yuan's request leaves me shocked and confused.
+601:After agreeing on when to meet up with her tomorrow, I bid farewell to them and leave.

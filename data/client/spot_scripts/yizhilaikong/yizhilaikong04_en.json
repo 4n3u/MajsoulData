@@ -1,0 +1,1538 @@
+[
+  {
+    "line": 86,
+    "text": "player"
+  },
+  {
+    "line": 87,
+    "text": "{character:player}This boy here wants to buy a Halloween costume that suits him. Do you have any costumes to recommend?"
+  },
+  {
+    "line": 88,
+    "text": "It's somewhat embarrassing to get scared before a child younger than yourself. So I quickly change the topic and redirect their attention to buying clothes."
+  },
+  {
+    "line": 89,
+    "text": "Employee"
+  },
+  {
+    "line": 91,
+    "text": "Having seen their unique way of treating customers here, I'm deeply skeptical about this so-called 100% customer satisfaction..."
+  },
+  {
+    "line": 92,
+    "text": "{character:Employee}Ah, if it's for this customer, it would be a good idea to dress up as an elegant Count Dracula."
+  },
+  {
+    "line": 93,
+    "text": "Sora Ichinose"
+  },
+  {
+    "line": 94,
+    "text": "{character:Sora Ichinose}I see... Can you find a set that is my size so I can try it on...? Hmm? This mage costume..."
+  },
+  {
+    "line": 96,
+    "text": "{character:Sora Ichinose}I think this one suits you, {var:player_nickname}."
+  },
+  {
+    "line": 97,
+    "text": "{character:player}For me? Haha, thank you, but things have been quite busy at the café recently, so I might not be able to participate in the events on Halloween. Let's just choose something for you."
+  },
+  {
+    "line": 99,
+    "text": "{character:Employee}In a sense, Halloween is also a festival that glorifies autumn and celebrates the harvest. Since you work hard all the time, don't you think you should let yourself rest on this day? So, why don't you give it a try? I promise the Halloween events of One Han City won't disappoint you."
+  },
+  {
+    "line": 100,
+    "text": "{character:player}O-Okay then."
+  },
+  {
+    "line": 101,
+    "text": "{character:Employee}In that case, please follow me to the fitting room over here."
+  },
+  {
+    "line": 102,
+    "text": "The enthusiastic employee doesn't give me too much time to hesitate. After handing the clothes to me, the employee pushes me and Sora into separate fitting rooms before we can object further."
+  },
+  {
+    "line": 103,
+    "text": "Oh well, this costume looks pretty nice and fits my taste perfectly. I might as well try it on."
+  },
+  {
+    "line": 104,
+    "text": "If I have to find someone who is familiar with Sora in this café, the first person I would think of is Reina Nanami. If I remember correctly, they are classmates."
+  },
+  {
+    "line": 105,
+    "text": "Reina Nanami"
+  },
+  {
+    "line": 106,
+    "text": "{character:Reina Nanami}You want to know what has been troubling Sora recently? Hmm... I don't really know either. There's nothing special going on other than the announcement that the school will organize a fashion show."
+  },
+  {
+    "line": 107,
+    "text": "{character:player}A fashion show?"
+  },
+  {
+    "line": 108,
+    "text": "{character:Reina Nanami}Yeah, it's a special Halloween event the school is running this year. It's open to all students of Dewdrop Middle School, and the winner will get a special prize."
+  },
+  {
+    "line": 109,
+    "text": "{character:Reina Nanami}Hold on, assuming this is relevant, maybe Sora is worried about the fashion show. I mean, he's the only one in class who hasn't decided on what character he wants to dress up as."
+  },
+  {
+    "line": 110,
+    "text": "{character:player}Huh... Wouldn't Sora choose a character like Frankenstein without hesitation?"
+  },
+  {
+    "line": 111,
+    "text": "{character:Reina Nanami}That's what I thought too, but Sora seems to have his own considerations. Everyone's saying that the reason he's so troubled by this that this year's prize is too attractive to him."
+  },
+  {
+    "line": 112,
+    "text": "{character:player}Did you just say there's a prize?! Please tell me more about it!"
+  },
+  {
+    "line": 113,
+    "text": "{character:Reina Nanami}The school hasn't officially announced what the prizes are yet, but rumor says this year's grand prize is a set of newly released commemorative sci-fi books."
+  },
+  {
+    "line": 114,
+    "text": "{character:player}I see, that really is a very tempting prize to him. I wonder what the fashion show held by Dewdrop Middle School will look like. Will any professional models be there to provide guidance?"
+  },
+  {
+    "line": 115,
+    "text": "{character:Reina Nanami}If you're interested... why don't you come and experience it for yourself? It's the school's intention for the Halloween event to be a medium to promote the school to the outside world anyway. We organize similar events two to three times every year, and all citizens of One Han City are welcome to participate at the school."
+  },
+  {
+    "line": 116,
+    "text": "{character:player}Are you sure? The café should be really busy on Halloween. Are you sure you don't need me here that day?"
+  },
+  {
+    "line": 117,
+    "text": "{character:Reina Nanami}You haven't gotten much rest recently, which is already making me feel bad... Don't worry about Halloween because I've already made arrangements. So please come to our school to enjoy the festive vibe there."
+  },
+  {
+    "line": 118,
+    "text": "{character:player}But Halloween is next week and I haven't made any preparations yet. And now you're telling me to participate in a Halloween fashion show... I don't even know where to buy a costume from."
+  },
+  {
+    "line": 120,
+    "text": "{character:player}That's great!"
+  },
+  {
+    "line": 121,
+    "text": "{character:Reina Nanami}This is the address of the shop. It is open 24 hours a day for the entire week before Halloween, so you can take a look at any time. Oh right... there's a very cheeky employee there, so you must be careful."
+  },
+  {
+    "line": 122,
+    "text": "I'm just buying some clothes. Why would I need to be careful of an employee who works there?"
+  },
+  {
+    "line": 123,
+    "text": "...I suddenly have a bad feeling about this."
+  },
+  {
+    "line": 124,
+    "text": "{character:player}No. 232, No. 234, No. 23... Found it! This is the shop!"
+  },
+  {
+    "line": 125,
+    "text": "The shop Reina recommended is located at the end of the commercial strip, and its dark decoration makes it inconspicuous among the colorful clothing stores there. There is also no signboard or logo at the door. All it has is an ordinary blackboard with the words \"Open\" written on it. I would never have found this place if Reina didn't give me the specific address."
+  },
+  {
+    "line": 126,
+    "text": "After verifying the address a few more times, I push open the shop's extremely ancient-looking front door."
+  },
+  {
+    "line": 127,
+    "text": "???"
+  },
+  {
+    "line": 128,
+    "text": "{character:???}Ah! Fresh brains! I shall have a feast tonight!"
+  },
+  {
+    "line": 129,
+    "text": "A strange sound that sounds like fingernails scratching a blackboard rings in my ears, accompanied by the sound of metal banging. Suddenly, a finger that is obviously cooler than the normal body temperature of a human slides across my wrist."
+  },
+  {
+    "line": 130,
+    "text": "{character:player}W-What's that?"
+  },
+  {
+    "line": 131,
+    "text": "I turn my neck rigidly to find myself face to face with a huge skull."
+  },
+  {
+    "line": 132,
+    "text": "Face it head on without panicking"
+  },
+  {
+    "line": 133,
+    "text": ""
+  },
+  {
+    "line": 134,
+    "text": "Step back and play it safe"
+  },
+  {
+    "line": 135,
+    "text": "*Bang!*"
+  },
+  {
+    "line": 136,
+    "text": "I swear that this is a conditioned response. I didn't mean to punch you."
+  },
+  {
+    "line": 137,
+    "text": "{character:???}OW! My nose! My nose!"
+  },
+  {
+    "line": 138,
+    "text": "Eh?"
+  },
+  {
+    "line": 139,
+    "text": "The arrogant skeleton from before is now squatting on the ground and complaining about the pain while holding their nose. Although the makeup still looks terrifying, at least I can be sure that it isn't anything threatening."
+  },
+  {
+    "line": 140,
+    "text": "{character:player}I'm so sorry, I didn't mean to do that. You suddenly appeared behind me, so I instinctively..."
+  },
+  {
+    "line": 141,
+    "text": "This must be the \"very cheeky employee\" Reina mentioned, who must have dressed up like this to welcome customers to match the Halloween theme."
+  },
+  {
+    "line": 142,
+    "text": "{character:Employee}No, I should be apologizing instead. I'm sorry for giving you such an unpleasant experience. Welcome to the \"Ghouls and Ghasts\" costume shop! How can I help you?"
+  },
+  {
+    "line": 143,
+    "text": "{character:player}Ah!"
+  },
+  {
+    "line": 144,
+    "text": "I gasp in fear and back away quickly, and only manage to barely calm down when my back hits the door of the shop."
+  },
+  {
+    "line": 145,
+    "text": "{character:Employee}Oh no! Are you okay? I'm sorry! I appeared too suddenly."
+  },
+  {
+    "line": 146,
+    "text": "{character:player}Stop! Just stand where you are and don't come any closer. Give me some time to adjust myself."
+  },
+  {
+    "line": 147,
+    "text": "{character:Employee}Ahem, okay. I'm sorry for giving you such an unpleasant experience. Welcome to the \"Ghouls and Ghasts\" costume shop! How can I help you?"
+  },
+  {
+    "line": 148,
+    "text": "{character:Sora Ichinose}{var:player_nickname}, what are you doing here?"
+  },
+  {
+    "line": 149,
+    "text": "{character:player}Sora? Are you also here to buy a costume?"
+  },
+  {
+    "line": 150,
+    "text": "The employee in the skeleton costume moved aside to let me inside. Only then do I see Sora Ichinose, who was completely hidden behind him, holding a costume in his hands and looking like he's about to try it on."
+  },
+  {
+    "line": 152,
+    "text": "{character:player}It sounds like Sora also received your special welcome when he entered?"
+  },
+  {
+    "line": 153,
+    "text": "{character:Employee}Yes, I dressed up as a ghost of the night, but he wasn't afraid at all. He even told me very seriously that there is no concrete evidence that proves ghosts are real in this world."
+  },
+  {
+    "line": 154,
+    "text": "{character:Employee}After that, he suggested that I dress up as something that exists in the real world for better effects. And... it was brilliant! It gave me a whole new source of inspiration!"
+  },
+  {
+    "line": 155,
+    "text": "To be skeptical of things that can't be proven while believing deeply in science is so typical of Sora."
+  },
+  {
+    "line": 156,
+    "text": "{character:Sora Ichinose}Reina recommended this shop to you, right? Didn't she remind you to be careful of the employee here?"
+  },
+  {
+    "line": 157,
+    "text": "{character:player}I didn't think she meant I had to be physically careful..."
+  },
+  {
+    "line": 158,
+    "text": "{character:Sora Ichinose}It's so great to run into you here. I was just worried about what I should do... Has Reina told you about the fashion show?"
+  },
+  {
+    "line": 159,
+    "text": "{character:Sora Ichinose}According to the results of past years, there's a higher chance of winning if I dress up as something like a vampire, a mage, or a cute zombie. Can you give me some advice later? Reina said that I should ask you for advice if I need help because you usually give effective advice. So..."
+  },
+  {
+    "line": 160,
+    "text": "{character:player}Well, if you put it like that, how can I say no? I'm happy to help. I'm also looking for a costume, so maybe we can help each other."
+  },
+  {
+    "line": 161,
+    "text": "Sora is visibly relieved after hearing an affirmative answer. I follow the employee's instructions to the fitting room. The closed door blocks my curious line of sight... so I redirect my attention and listen carefully to the employee's introduction of the most popular Halloween costumes."
+  },
+  {
+    "line": 162,
+    "text": "{character:Employee}This Nicolas collaboration mage costume is the bestselling product this season. Would you like to try it on?"
+  },
+  {
+    "line": 163,
+    "text": "{character:player}Okay... I'll try it."
+  },
+  {
+    "line": 164,
+    "text": "There are so many costumes inside that I feel a little lost. I trust the employee's recommendation and enter the fitting room with a costume."
+  },
+  {
+    "line": 165,
+    "text": "{character:Sora Ichinose}{var:player_nickname}, have you picked a costume yet? I've just finished changing."
+  },
+  {
+    "line": 166,
+    "text": "I see a cute yet elegant \"vampire\" after I push open the door of the fitting room. His dark brown hair makes his skin look fairer, and his beautiful blue pupils remind me of the gorgeous color of the sea."
+  },
+  {
+    "line": 167,
+    "text": "This isn't the biased opinion of a friend. In fact, the employee beside me couldn't hold back from asking Sora if he can take a photo with him."
+  },
+  {
+    "line": 169,
+    "text": "{character:Sora Ichinose}Ahem, you too, great mage."
+  },
+  {
+    "line": 170,
+    "text": "Sora's expression relaxed after hearing these words of praise. He turned around a few times in front of the mirror, and the cumbersome ornaments on the large cloak seem to cause him some inconvenience."
+  },
+  {
+    "line": 171,
+    "text": "{character:Employee}Oh, be careful not to trip."
+  },
+  {
+    "line": 172,
+    "text": "{character:player}Watch out!"
+  },
+  {
+    "line": 172,
+    "text": "{character:Sora Ichinose}Watch out!"
+  },
+  {
+    "line": 173,
+    "text": "Seeing that Sora is about to step on a corner of his cloak, I reach out quickly to support him so he won't fall over."
+  },
+  {
+    "line": 174,
+    "text": "{character:Sora Ichinose}Thank you... This costume looks marvelous, but it might have some... safety issues."
+  },
+  {
+    "line": 175,
+    "text": "{character:player}The ornaments on the cape are too sharp. There will be lots of people visiting the school during the fashion show, so it'll be dangerous to walk around in this costume."
+  },
+  {
+    "line": 176,
+    "text": "{character:Sora Ichinose}That's what I think too."
+  },
+  {
+    "line": 177,
+    "text": "It's obvious that Sora has also noticed the cape's issues, but his eyes are showing an emotion that I can't quite understand. It's like he is feeling bothered and happy at the same time?"
+  },
+  {
+    "line": 178,
+    "text": "This is strange... Sora is here to look for a Halloween costume that suits him. Why would he feel happy about missing out on a good option?"
+  },
+  {
+    "line": 179,
+    "text": "{character:Sora Ichinose}*Coughs*... Then I guess we can only look at other types of costumes. This... can't be helped."
+  },
+  {
+    "line": 180,
+    "text": "{character:Employee}You can try an adorable zombie costume. This type of costume doesn't have many ornaments, so it will be easier to move around in it."
+  },
+  {
+    "line": 181,
+    "text": "{character:Sora Ichinose}This is also one of the intended options, but I actually..."
+  },
+  {
+    "line": 182,
+    "text": "{character:player}Hmm?"
+  },
+  {
+    "line": 182,
+    "text": "{character:Reina Nanami}Hmm?"
+  },
+  {
+    "line": 183,
+    "text": "{character:Sora Ichinose}Nothing. I'll go change my clothes."
+  },
+  {
+    "line": 184,
+    "text": "\"I actually?\" I can't help wondering what he was going to say. But Sora returns to the fitting room before I can figure it out."
+  },
+  {
+    "line": 185,
+    "text": "I change back into my own clothes with many questions running through my head. I turn down the employee's proposal to try on other clothes and wait for Sora to appear again."
+  },
+  {
+    "line": 186,
+    "text": "I'm not really fixated on what costume I wear, so I'm mainly helping Sora choose one right now."
+  },
+  {
+    "line": 187,
+    "text": "{character:Sora Ichinose}What about this one?"
+  },
+  {
+    "line": 188,
+    "text": "The door of the fitting room opens again, and a small zombie walks out slowly. The talisman hanging on his forehead sways as he moves, giving people the urge to touch it."
+  },
+  {
+    "line": 189,
+    "text": "{character:player}Although it isn't as stunning as the Dracula costume, it also suits you very well."
+  },
+  {
+    "line": 191,
+    "text": "{character:Sora Ichinose}Mmm, I don't think the doctor would let me do that because it will put too much burden on my body."
+  },
+  {
+    "line": 192,
+    "text": "{character:player}Since it looks suitable, we can keep this one as a backup. Now let's try on other ones."
+  },
+  {
+    "line": 193,
+    "text": "{character:Employee}Are you interested in dressing up as a wizard? The other customer also tried this one on. You can consider dressing up as a pair of close friends who are soulmates."
+  },
+  {
+    "line": 194,
+    "text": "{character:player}Hey! Using that wordhere isn't quite right!"
+  },
+  {
+    "line": 196,
+    "text": "Sora doesn't say anything this time and returns to the fitting room directly with the clothes. The door opens again in less than five minutes."
+  },
+  {
+    "line": 197,
+    "text": "{character:player}That was quick... Huh?"
+  },
+  {
+    "line": 198,
+    "text": "Sora didn't walk out wearing the mage costume. He has changed back into his normal clothes. He frowns and returns the clothes to the employee, firmly rejecting his offer to try on more costumes."
+  },
+  {
+    "line": 199,
+    "text": "{character:Employee}Is there something you don't like about this costume?"
+  },
+  {
+    "line": 200,
+    "text": "{character:Sora Ichinose}...Not really. It's very beautiful."
+  },
+  {
+    "line": 201,
+    "text": "{character:Employee}Is it because of the size then?"
+  },
+  {
+    "line": 202,
+    "text": "{character:Sora Ichinose}No, it's not because of the costume itself..."
+  },
+  {
+    "line": 203,
+    "text": "Sora answered all the employee's questions by shaking his head. I look at the perplexed expression on his face and suggest going to another clothing shop. Before we step outside the shop, Sora suddenly turns his head and glances at a certain corner."
+  },
+  {
+    "line": 204,
+    "text": "{character:Employee}That spot... Ah, it looks like we'll be meeting again soon, customer."
+  },
+  {
+    "line": 205,
+    "text": "{character:player}...?"
+  },
+  {
+    "line": 206,
+    "text": "The sky had become dark by the time we left the last store in the commercial strip. The moon had taken the sun's place above the branches, emitting a soft light that can't be compared with artificial neon lights."
+  },
+  {
+    "line": 207,
+    "text": "{character:Sora Ichinose}*Coughs*... What am I doing? I should decide as soon as possible..."
+  },
+  {
+    "line": 208,
+    "text": "The difference in the temperature during the day and at night is already quite significant in October. I'm fine, but it does affect Sora to some extent. His worsening health and the fact that he hadn't found a suitable costume yet made him anxious."
+  },
+  {
+    "line": 209,
+    "text": "I think back to the clothes that Sora found random reasons to reject even though they were all great. After visiting so many shops, it stands to reason that he should have been able to find something suitable."
+  },
+  {
+    "line": 210,
+    "text": "Also... he seemed strangely happy when he rejected the costume at that time..."
+  },
+  {
+    "line": 211,
+    "text": "{character:player}...Sora."
+  },
+  {
+    "line": 212,
+    "text": "After thinking for a while, I make a bold speculation."
+  },
+  {
+    "line": 213,
+    "text": "Do you have... decidophobia?!"
+  },
+  {
+    "line": 214,
+    "text": "Do you want a costume other than those three options?"
+  },
+  {
+    "line": 235,
+    "text": "Student A"
+  },
+  {
+    "line": 236,
+    "text": "{character:Student A}Look! It's a newly-released HD image!"
+  },
+  {
+    "line": 237,
+    "text": "Student B"
+  },
+  {
+    "line": 246,
+    "text": "{character:player}When I went to the video store to buy a movie yesterday, I found that the movie I wanted was already sold out, and the store was urgently contacting the supplier."
+  },
+  {
+    "line": 251,
+    "text": "{character:player}..."
+  },
+  {
+    "line": 256,
+    "text": "{character:Sora Ichinose}...Um, n-no... *Coughs* Why do you ask?"
+  },
+  {
+    "line": 257,
+    "text": "{character:player}Those costumes all looked beautiful, and they all looked good on you. So the only reason you would resist them is that none of them are what you really want."
+  },
+  {
+    "line": 258,
+    "text": "{character:Sora Ichinose}Well... it's not that..."
+  },
+  {
+    "line": 259,
+    "text": "{character:player}Maybe you aren't aware of it yet. If you don't mind, can you describe the costume you want to me? I can only give you better advice if I know more about you."
+  },
+  {
+    "line": 260,
+    "text": "{character:Sora Ichinose}Well... I want a costume that doesn't have a bright color tone, and its trouser pants can be broken to reveal metallic skin underneath. I want it to have a robotic right arm with bandages wrapped around it to cover the rust marks on it. I also..."
+  },
+  {
+    "line": 261,
+    "text": "As Sora's slightly childish voice echoes in my ears, a figure becomes clearer in my mind. It is..."
+  },
+  {
+    "line": 262,
+    "text": "{character:player}Frankenstein!"
+  },
+  {
+    "line": 263,
+    "text": "{character:Sora Ichinose}H-How did you guess that?"
+  },
+  {
+    "line": 264,
+    "text": "{character:player}It isn't that hard to guess since you described it in such detail. A monster created in a laboratory who firmly believes in science, is obsessed with calculations, and is lonely, eccentric, and complex. It's quite an innovative idea to dress up as this character on Halloween."
+  },
+  {
+    "line": 265,
+    "text": "{character:Sora Ichinose}But Frankenstein is neither handsome nor mysterious... There's only a 0.012% chance of winning... *Coughs* It'll be easier to win if I dress up as a popular character."
+  },
+  {
+    "line": 266,
+    "text": "{character:player}I disagree."
+  },
+  {
+    "line": 267,
+    "text": "{character:Sora Ichinose}Eh?"
+  },
+  {
+    "line": 268,
+    "text": "{character:player}The most important thing about festivals is to allow people to experience the simplest happiness. There are too many ways to make people happy, and no complex mathematical formulas can accurately calculate this. It's still possible even if there's only a 1% chance."
+  },
+  {
+    "line": 269,
+    "text": "{character:Sora Ichinose}It'll be rather difficult to win the prize if the chance of winning is less than 50%."
+  },
+  {
+    "line": 270,
+    "text": "{character:player}The prize is just a result. Just like in mahjong, there is more than one way to win. If it's about the commemorative book set, I can ask Nanaha Onodera for you. She always seems to have a solution for book-related matters."
+  },
+  {
+    "line": 271,
+    "text": "{character:player}It's not like you get to participate in a Halloween fashion show every day. Wouldn't it be a shame to not enjoy it fully the way you want to? I want to see... what your unique Halloween costume will look like."
+  },
+  {
+    "line": 272,
+    "text": "{character:Sora Ichinose}...Frankenstein! Of course it's this monster who lives in a laboratory!"
+  },
+  {
+    "line": 273,
+    "text": "Sora's cheeks flush with joy, sweeping away his previous feelings of anxiety and showing a vivacious side of him that is more congruent with a child his age."
+  },
+  {
+    "line": 274,
+    "text": "{character:player}Let's take action now that you have a clear goal. Let me see... Which store would sell a costume like the one you want?"
+  },
+  {
+    "line": 275,
+    "text": "{character:Sora Ichinose}Actually... I saw it earlier! Follow me!"
+  },
+  {
+    "line": 276,
+    "text": "{character:player}Don't rush, the costume won't run away, so we can take our time..."
+  },
+  {
+    "line": 277,
+    "text": "Ten minutes later, we are back at the Ghouls and Ghasts again. The employee from before has changed into a clown costume and makes an \"I knew it\" expression when he sees us."
+  },
+  {
+    "line": 279,
+    "text": "{character:player}You said \"we'll be meeting again soon.\" Did you know that we'll be coming back?"
+  },
+  {
+    "line": 280,
+    "text": "{character:Sora Ichinose}I remember the costume was in this corner... Aha, found it!"
+  },
+  {
+    "line": 281,
+    "text": "Sora runs directly to the corner and finds the costume he is looking for among the pile of clothes there so quickly that the employee has no time to intervene. Thinking back on the glint in Sora's eyes when he glanced at this corner, I think this scene must have happened many times in his mind."
+  },
+  {
+    "line": 282,
+    "text": "Maybe... he would have eventually come back here to get the costume he wants even if I didn't say anything."
+  },
+  {
+    "line": 284,
+    "text": "{character:player}You also know about the fashion show?"
+  },
+  {
+    "line": 285,
+    "text": "{character:Employee}Éternité isn't our only partner. Ghouls and Ghasts also supplies Halloween costumes for the teachers of Dewdrop Middle School."
+  },
+  {
+    "line": 286,
+    "text": "{character:player}The costumes you're providing to the teachers didn't include the one you were wearing when you gave me a fright earlier, right?"
+  },
+  {
+    "line": 288,
+    "text": "A pregnant silence ensues."
+  },
+  {
+    "line": 289,
+    "text": "I turn my head silently and begin to pray for the students of Dewdrop Middle School who are participating in the fashion show."
+  },
+  {
+    "line": 290,
+    "text": "{character:Sora Ichinose}It seems like... something is missing."
+  },
+  {
+    "line": 291,
+    "text": "{character:Employee}Frankenstein's costume is a little dull. I suggest that you wear some accessories. What about wearing a thin silver chain around the wrist? I can slip that in for free."
+  },
+  {
+    "line": 292,
+    "text": "{character:Sora Ichinose}That would give Frankenstein the wrong temperament. He is a guy who is afraid of being alone. He pretends to be indifferent, but he is still a soft person at heart."
+  },
+  {
+    "line": 293,
+    "text": "{character:Employee}How about giving him a jack-o-lantern to carry? The warm light will make him look more alive."
+  },
+  {
+    "line": 294,
+    "text": "{character:Sora Ichinose}Do you have any cuter jack-o-lanterns? If Frankenstein really exists, I think Halloween would be his favorite holiday because on this day he can blend into any crowd without standing out and won't be treated as a monster by everyone."
+  },
+  {
+    "line": 295,
+    "text": "{character:Employee}Regardless of whether jack-o-lanterns can be described as cute or not, in my humble opinion, the combination of a jack-o-lantern and Frankenstein is not that great."
+  },
+  {
+    "line": 296,
+    "text": "{character:Sora Ichinose}*Coughs* If only there was a way to express the contrast between Frankenstein's appearance and heart..."
+  },
+  {
+    "line": 297,
+    "text": "Maybe you just need to change this costume slightly."
+  },
+  {
+    "line": 298,
+    "text": "Maybe he needs a companion who is good with words?"
+  },
+  {
+    "line": 299,
+    "text": "{character:Sora Ichinose}{var:player_nickname}, do you have any good ideas?"
+  },
+  {
+    "line": 300,
+    "text": "{character:player}I have an idea, but I'm not sure how it will turn out. Wait here for me!"
+  },
+  {
+    "line": 301,
+    "text": "Spending the whole afternoon shopping in the commercial strip has allowed me to find the item I'm looking for and return as quickly as possible. Even so, the round trip took around twenty minutes, so I wasn't surprised to see that Sora had changed into the Frankenstein costume."
+  },
+  {
+    "line": 302,
+    "text": "{character:Sora Ichinose}This is the thing you say can help Frankenstein? Hmm... It's a fake bird?"
+  },
+  {
+    "line": 304,
+    "text": "{character:Employee}Leave this to me."
+  },
+  {
+    "line": 305,
+    "text": "A few minutes later, Sora makes a wow sound in front of the mirror. The bird sits comfortably on Frankenstein's shoulder, preening its feathers there and softening the invisible spikes on his body. The combination of the cold tone of Frankenstein's clothes and the red bird with bright wings shifts the theme of the costume from \"monster\" to \"human.\""
+  },
+  {
+    "line": 306,
+    "text": "Obviously, a Frankenstein with human emotions is far more attractive than a monster that only evokes fear."
+  },
+  {
+    "line": 307,
+    "text": "{character:Employee}This is amazing! It's just like magic. I'm certain that everyone in One Han City will be talking about Frankenstein after the fashion show."
+  },
+  {
+    "line": 308,
+    "text": "{character:Sora Ichinose}Can you pack this costume for me? Thanks!"
+  },
+  {
+    "line": 310,
+    "text": "We leave the commercial strip immediately after finishing our shopping. Although Sora keeps insisting that he can return home by himself, I still accompany him to the entrance of his community block."
+  },
+  {
+    "line": 311,
+    "text": "{character:Sora Ichinose}Thank you."
+  },
+  {
+    "line": 312,
+    "text": "{character:player}It's just taking you home. It's no big deal."
+  },
+  {
+    "line": 313,
+    "text": "{character:Sora Ichinose}Not just that. *Coughs* I want to thank you for everything today... If it wasn't for you, I would still be obsessing over the data and probabilities."
+  },
+  {
+    "line": 314,
+    "text": "{character:player}You don't need to thank me for that either. Friends should help each other out, right?"
+  },
+  {
+    "line": 315,
+    "text": "{character:Sora Ichinose}Well... I want to give you this."
+  },
+  {
+    "line": 316,
+    "text": "{character:player}This is the mage outfit from earlier. When did you buy it?"
+  },
+  {
+    "line": 317,
+    "text": "{character:Sora Ichinose}As your friend, I would like to invite you to participate in the Dewdrop Middle School Halloween fashion show. Without you, I wouldn't have been so resolute in my decision to dress up as Frankenstein. Every generation of Frankenstein had a great butler, and you're someone like that to me."
+  },
+  {
+    "line": 318,
+    "text": "{character:player}Um... I remember that Frankenstein and his butler didn't have a good ending. This comparison might be a little ominous."
+  },
+  {
+    "line": 319,
+    "text": "{character:Sora Ichinose}...You focus on such strange things. *Coughs*"
+  },
+  {
+    "line": 320,
+    "text": "{character:player}It's windy at night, so you better go home now. If you get sick now, you won't be able to participate in the Halloween event."
+  },
+  {
+    "line": 321,
+    "text": "{character:Sora Ichinose}Wait, what about my invitation...?"
+  },
+  {
+    "line": 323,
+    "text": "I must say, I've never attended a Halloween fashion show with this many people. The entire playground is filled with all kinds of ghosts, and strangely-shaped heads as far as I can see. The place is swamped with ghosts and monsters."
+  },
+  {
+    "line": 324,
+    "text": "\"Ninja\""
+  },
+  {
+    "line": 325,
+    "text": "{character:\"Ninja\"}Confused-looking mage, would you like to stop and watch me perform my fireball technique?"
+  },
+  {
+    "line": 326,
+    "text": "{character:player}Sorry, I already know who I'm voting for."
+  },
+  {
+    "line": 327,
+    "text": "{character:\"Ninja\"}What a shame. Feel free to come back to me if you change your mind."
+  },
+  {
+    "line": 328,
+    "text": "I've had four similar conversations within ten minutes of stepping into the venue. After sighing, I start looking for Sora."
+  },
+  {
+    "line": 329,
+    "text": "After noticing a familiar shade of red in the corner of my eye, I look in Sora's direction to see him surrounded by three to four classmates who are taking group photos with him in an orderly manner."
+  },
+  {
+    "line": 330,
+    "text": "{character:Reina Nanami}Is that... Sora? He's dressed up as Frankenstein, right? He stands out so much amongst a group of vampires."
+  },
+  {
+    "line": 333,
+    "text": "{character:player}I think Sora no longer worries about this."
+  },
+  {
+    "line": 334,
+    "text": "As if he is responding to my words, the Frankenstein in the distance grins with joy. After the photo-taking crowd disperses, Sora walks towards the dancing \"Elf Prince\" and solemnly casts his own vote into their jack-o-lantern."
+  },
+  {
+    "line": 335,
+    "text": "It's a shame that he didn't win the championship, but his smile right now is more precious."
+  },
+  {
+    "line": 336,
+    "text": "Because happiness is the greatest reward."
+  },
+  {
+    "line": 337,
+    "text": "{character:Sora Ichinose}A companion... A companion! Why didn't I think of that before...? *Coughs*"
+  },
+  {
+    "line": 338,
+    "text": "{character:player}Take it easy. Did I say something funny?"
+  },
+  {
+    "line": 340,
+    "text": "{character:player}And you, stop making that expression like you just understand something! You're confusing me even more!"
+  },
+  {
+    "line": 341,
+    "text": "{character:Employee}I apologize for being rude. Your words have reminded me though. I now know what is wrong with this costume."
+  },
+  {
+    "line": 343,
+    "text": "{character:Sora Ichinose}It's his butler!"
+  },
+  {
+    "line": 344,
+    "text": "{character:Employee}Bingo! We are totally in sync. Would you like to work part time at Ghouls and Ghasts? I'm sure our clothing sales will hit new highs."
+  },
+  {
+    "line": 345,
+    "text": "{character:player}Unless you want to have science seminars in your shop, you better drop that idea really soon."
+  },
+  {
+    "line": 346,
+    "text": "I recall Sora's words—if Frankenstein and his butler appear at the fashion show together and Frankenstein shows different sides of himself to the butler and other people, then it could be quite refreshing if it is done properly."
+  },
+  {
+    "line": 347,
+    "text": "But the solution to one problem tends to create a new problem."
+  },
+  {
+    "line": 348,
+    "text": "{character:player}So... who will be the butler?"
+  },
+  {
+    "line": 349,
+    "text": "{character:Employee}Well, isn't the answer obvious?"
+  },
+  {
+    "line": 350,
+    "text": "{character:Sora Ichinose}{var:player_nickname}, as your friend, can I invite you to participate in the Dewdrop Middle School Halloween fashion show? Without you, I wouldn't have been so resolute in my decision to dress up as Frankenstein. Just like in the movies, every generation of Frankenstein has a great butler, and you're someone important like that to me."
+  },
+  {
+    "line": 351,
+    "text": "{character:player}But I'm not good at role-playing."
+  },
+  {
+    "line": 352,
+    "text": "{character:Sora Ichinose}And I'm not the real Frankenstein. In the movies, Frankenstein and his butler don't have a happy ending. We can create a perfect ending that belongs just to them at the fashion show."
+  },
+  {
+    "line": 353,
+    "text": "{character:Sora Ichinose}Please come on stage with me at the fashion show, {var:player_nickname}... I want to go on that stage with my best and most important friend."
+  },
+  {
+    "line": 354,
+    "text": "Sora raises his head and waits for my answer. His sky-blue pupils reflect the contours of my face, and there is an unmistakable smile on his face."
+  },
+  {
+    "line": 355,
+    "text": "{character:player}Alright, why not."
+  },
+  {
+    "line": 356,
+    "text": "My reply is answered by Sora's smiling eyes and... the employee's excited quote."
+  },
+  {
+    "line": 358,
+    "text": "It's so expensive!!!"
+  },
+  {
+    "line": 359,
+    "text": "I walk between the crowd and the wall, moving forward with great difficulty as I search for Sora. The elf prince and princess ahead stop walking suddenly and start dancing with the petals. As the crowd spreads out, I step on the corner of my clothes by mistake and am about to have some intimate contact with the ground."
+  },
+  {
+    "line": 360,
+    "text": "A pair of familiar hands grab my arm, then a Frankenstein with a red bird on his shoulder appears in front of me. Something similar has happened before, except the two protagonists have switched their roles."
+  },
+  {
+    "line": 361,
+    "text": "{character:player}Wow... how did you get here so fast?!"
+  },
+  {
+    "line": 362,
+    "text": "{character:Sora Ichinose}None of this is a problem to a monster."
+  },
+  {
+    "line": 363,
+    "text": "This is a classic line in the Frankenstein series of movies, and Frankenstein says it when he meets the new butler for the first time and helps him remove the hat hanging from the tree branch. On a whim, I pick up the conversation and keep it going."
+  },
+  {
+    "line": 364,
+    "text": "{character:player}In my eyes, you're still a child who needs to be taken care of, young master."
+  },
+  {
+    "line": 365,
+    "text": "{character:Sora Ichinose}You still want this job? Do you need money that badly? You do understand taking this job means you'll have to accompany a monster on a deserted island that none visits?"
+  },
+  {
+    "line": 366,
+    "text": "{character:player}Drive me away, and there will just be another butler coming in, so why not give it a try?"
+  },
+  {
+    "line": 367,
+    "text": "{character:Sora Ichinose}You are not afraid?"
+  },
+  {
+    "line": 368,
+    "text": "{character:player}Why should I?"
+  },
+  {
+    "line": 369,
+    "text": "{character:Sora Ichinose}...Just so you know, once you've become my butler, you will be my butler for life. So if you wish to leave, it's still not too late."
+  },
+  {
+    "line": 370,
+    "text": "{character:player}I've seen the drawings of the villa. The room facing the sun on the second floor can be my bedroom. Also, would you like curry beef noodles for dinner tonight, sir?"
+  },
+  {
+    "line": 371,
+    "text": "We have not kept our voices low throughout the conversation. The familiar lines soon attract a group of Frankenstein fans. In a short period of time, the pile of votes in the jack-o-lantern becomes much bigger than that of the vampire next to us who is one of the favorites to win."
+  },
+  {
+    "line": 372,
+    "text": "{character:Sora Ichinose}*Coughs* I can't believe it... You must know, we only had a 5% chance of winning when the fashion show started."
+  },
+  {
+    "line": 373,
+    "text": "{character:player}You can't work everything out with math. For example, there's probably a one-in-a-million chance for us to go from being strangers to friends, and we hit that one pretty accurately."
+  },
+  {
+    "line": 374,
+    "text": "{character:Sora Ichinose}Looks like I must not let my guard down on the mahjong table even if I have a 99% chance to win."
+  },
+  {
+    "line": 375,
+    "text": "{character:player}Shush! Concentrate, sir. The event is not over yet."
+  },
+  {
+    "line": 376,
+    "text": "{character:Student B}I'm saving this now! Aww, I want to be that little bird on Frankenstein's shoulder!"
+  },
+  {
+    "line": 377,
+    "text": "{character:Student A}After the Halloween event ended, I watched and played lots of Frankenstien-related movies and games. When I saw the butler take all the blame and force the little monster away, I almost send threats to the director."
+  },
+  {
+    "line": 378,
+    "text": "{character:Student B}Someone has uploaded another HD image of the fashion show on Catchat! I wonder who managed to take such an amazing photo?! This person knows exactly what I like. I'm going to save it and use it as my wallpaper!"
+  },
+  {
+    "line": 379,
+    "text": "It's been a whole week since Dewdrop Middle School held its Halloween fashion show, and people are still talking about it enthusiastically. The Frankenstein played by Sora invoked a lot of nostalgia, and Sora eventually won by one vote."
+  },
+  {
+    "line": 380,
+    "text": "{character:Reina Nanami}I think Frankenstein-related topics will still be popular for the next month."
+  },
+  {
+    "line": 381,
+    "text": "{character:Reina Nanami}The event was very successful this time, so it's not strange that it has caused some chain reactions. By the way, what prize did Sora get? It's been so long, and I still haven't heard him mention it."
+  },
+  {
+    "line": 383,
+    "text": "{character:Reina Nanami}Hmm, I heard that the same commemorative book set will be on sale at the bookstore today. I hope he manages to buy it."
+  },
+  {
+    "line": 384,
+    "text": "{character:player}Haha, life is full of surprises. Even data has an error or two. The commemorative book set is no longer important now as Sora has received a better reward."
+  },
+  {
+    "line": 385,
+    "text": "My memories take me back to the night of the fashion show, when the elf price who finished in second place came to Sora's jack-o-lantern and solemnly gave him his vote."
+  },
+  {
+    "line": 386,
+    "text": "\"Elf Prince\""
+  },
+  {
+    "line": 387,
+    "text": "{character:\"Elf Prince\"}I'm also a fan of Frankenstein. Can we be friends?"
+  },
+  {
+    "line": 388,
+    "text": "{character:Sora Ichinose}Of course! It's nice to meet you."
+  },
+  {
+    "line": 389,
+    "text": "Their clasped hands are like a bridge of friendship. The stars in Sora's eyes shine far more brightly than the ones in the sky."
+  },
+  {
+    "line": 390,
+    "text": "There's no better reward than making a friend. This counts as an unexpected bonus."
+  },
+  {
+    "line": 392,
+    "text": "The café is a bit less busy today, which is pretty rare these days. As I was about to go to the corner to take a break, I hear a person sighing next to me."
+  },
+  {
+    "line": 393,
+    "text": "{character:Sora Ichinose}*Sighs*"
+  },
+  {
+    "line": 394,
+    "text": "Sora is sitting at the table, frowning as he subconsciously plays with a Rubik's Cube in his hands. He hasn't touched the dessert he ordered at all, and the pages of a science magazine flap helplessly in the wind. It's clear that its owner has forgotten about it for a while already."
+  },
+  {
+    "line": 395,
+    "text": "All the clues indicate that Sora is troubled by something."
+  },
+  {
+    "line": 396,
+    "text": "Ask him directly"
+  },
+  {
+    "line": 397,
+    "text": "Ask other people about what is troubling Sora"
+  },
+  {
+    "line": 398,
+    "text": "{character:player}Is something bothering you?"
+  },
+  {
+    "line": 399,
+    "text": "I approach him and sit on the chair opposite him. The slight sound of the moving chair startles Ichinose Sora who is zoning out."
+  },
+  {
+    "line": 400,
+    "text": "{character:Sora Ichinose}Um, {var:player_nickname}, when did you get here?"
+  },
+  {
+    "line": 401,
+    "text": "{character:player}Just now. It isn't very busy right now. I see that you're zoning out over here and haven't touched your food. Do you not like it?"
+  },
+  {
+    "line": 402,
+    "text": "{character:Sora Ichinose}No, it's very tasty, just... It's not the food..."
+  },
+  {
+    "line": 403,
+    "text": "{character:player}So... there's something on your mind? If you don't mind, you can tell me. Maybe I can help you."
+  },
+  {
+    "line": 404,
+    "text": "{character:Sora Ichinose}... {var:player_nickname}, which do you prefer, mages, vampires, or zombies?"
+  },
+  {
+    "line": 405,
+    "text": "{character:player}Eh?!"
+  },
+  {
+    "line": 406,
+    "text": "The question that came out of the blue stuns me momentarily because I don't understand how it is related to Sora's troubles. I look suspiciously at the magazine on the table. Could this be the reason why he is acting strangely?"
+  },
+  {
+    "line": 407,
+    "text": "{character:Sora Ichinose}*Coughs*... Sorry, I should explain properly. What I mean is... which of these three characters would you rather give candy to if they came to your door during Halloween?"
+  },
+  {
+    "line": 408,
+    "text": "{character:player}During Halloween... Let me see..."
+  },
+  {
+    "line": 409,
+    "text": "{character:player}A romantic vampire will definitely catch my attention, but an elegant mage seems good too... Wait, I can't forget about the adorable little zombie..."
+  },
+  {
+    "line": 410,
+    "text": "{character:Sora Ichinose}Another tie..."
+  },
+  {
+    "line": 411,
+    "text": "Sora lowers his head again and starts to play with the Rubik's Cube again. It seems that my answer wasn't very helpful."
+  },
+  {
+    "line": 412,
+    "text": "{character:player}So you're troubled because you don't know what costume to wear for Halloween?"
+  },
+  {
+    "line": 413,
+    "text": "{character:Sora Ichinose}Yea... My school is running a Halloween fashion show this year. All students of Dewdrop Middle School can participate in it, and they can even invite their friends and family to join too. I heard the winner will get a special prize."
+  },
+  {
+    "line": 414,
+    "text": "{character:Sora Ichinose}I asked my doctor about it, and he said it's perfectly fine for me to participate in the fashion show based on my recent physical condition."
+  },
+  {
+    "line": 415,
+    "text": "Sora needs to consult a doctor just to participate in a fashion show. It seems that his body is weaker than I thought."
+  },
+  {
+    "line": 417,
+    "text": "{character:Sora Ichinose}According to my calculations, the probability that the prize is a newly released sci-fi commemorative book set is as high as 72%. I can't deny that this is a tempting reward for me."
+  },
+  {
+    "line": 418,
+    "text": "{character:player}You can even predict what prize will be given with your calculations...? Does that mean you asked me which costume is more popular for data?"
+  },
+  {
+    "line": 420,
+    "text": "{character:player}As I expected... But since an opportunity like this doesn't come around often, won't you consider cosplaying as a character you like instead?"
+  },
+  {
+    "line": 421,
+    "text": "{character:Sora Ichinose}Hmm..."
+  },
+  {
+    "line": 422,
+    "text": "Sora seems to think of something. His eyebrows, which had just begun to relax, bunch up again, and he twists the Rubik's Cube several times in the blink of an eye. I start to wonder if I said something inappropriate."
+  },
+  {
+    "line": 423,
+    "text": "{character:Sora Ichinose}Although I've heard people say that you will be able to make the character more charming if you cosplay as a character you like, I think this is an overreliance on willpower which will prove to be fickle, whereas the data never lies... *Coughs*"
+  },
+  {
+    "line": 424,
+    "text": "{character:player}Okay... What is your decision then?"
+  },
+  {
+    "line": 425,
+    "text": "{character:Sora Ichinose}Each of these three options has a 33% chance to win. I can't decide."
+  },
+  {
+    "line": 426,
+    "text": "{character:player}Since the theory is correct, the only thing left is to put it into practice. It's not really realistic to determine the most suitable costume for you by sitting in a cafe and relying on your imagination."
+  },
+  {
+    "line": 427,
+    "text": "{character:player}Even three pieces of clothing of the same style can look different on you. Since you're buying clothes, you should go to a clothing store to try them on."
+  },
+  {
+    "line": 428,
+    "text": "{character:Sora Ichinose}Buy my sister has gone to another city and won't return until at least next Monday."
+  },
+  {
+    "line": 429,
+    "text": "{character:player}That's easy. I'll come with you."
+  },
+  {
+    "line": 430,
+    "text": "No matter how mature he usually looks, Sora is still a thirteen-year-old child. The flashes of dependency he inadvertently reveals make me want to help him as much as possible."
+  },
+  {
+    "line": 431,
+    "text": "{character:Sora Ichinose}Huh? What about your work at the café...? Are you sure it's okay?"
+  },
+  {
+    "line": 432,
+    "text": "{character:player}Tomorrow happens to be my day off, and I think going shopping with you will be a good way to relax."
+  },
+  {
+    "line": 433,
+    "text": "{character:Sora Ichinose}I-It's settled then! Let's meet at this shop tomorrow. Reina recommended this shop, so I think I'll be able to find something suitable there."
+  },
+  {
+    "line": 435,
+    "text": "After watching Sora leave Éternité in high spirits, I look at the address in my hand..."
+  },
+  {
+    "line": 436,
+    "text": "{character:player}A costume store called... Ghouls and Ghasts?"
+  },
+  {
+    "line": 437,
+    "text": "What a strange name. Why do I have a bad feeling about this..."
+  },
+  {
+    "line": 438,
+    "text": "{character:player}No. 232, No. 233, No. 23... Sora! I found it! This is the shop!"
+  },
+  {
+    "line": 439,
+    "text": "The shop Reina recommended is located at the end of the commercial strip, and its dark decoration makes it inconspicuous among the colorful clothing stores there. There is also no signboard with the shop's name or logo at the door. All it has is an ordinary blackboard with the words \"Open\" written on it."
+  },
+  {
+    "line": 440,
+    "text": "{character:Sora Ichinose}... It doesn't even have a sign. No wonder the GPS couldn't guide us here correctly."
+  },
+  {
+    "line": 442,
+    "text": "Sora and I push open the shop's extremely ancient-looking front door."
+  },
+  {
+    "line": 443,
+    "text": "{character:???}*Cackles* Lost lambs, welcome to the home of demons!"
+  },
+  {
+    "line": 444,
+    "text": "We're greeted by a strange sound that sounds like fingernails scratching a blackboard, accompanied by the sound of banging. Suddenly, a finger that is obviously cooler than the normal body temperature of a human slides across my wrist."
+  },
+  {
+    "line": 445,
+    "text": "I turn my neck rigidly to find myself face to face with a blue fluorescent \"ghost.\""
+  },
+  {
+    "line": 446,
+    "text": "Retreat immediately for your own safety"
+  },
+  {
+    "line": 447,
+    "text": "The arrogant \"ghost\" from before is now squatting on the ground and complaining about the pain while holding their nose. Although the makeup still looks terrifying, I'm no longer scared of it."
+  },
+  {
+    "line": 448,
+    "text": "This person should be an employee here and must have dressed up like this deliberately to attract customers. I look at my hand. Hmm... this job is actually unexpectedly dangerous."
+  },
+  {
+    "line": 449,
+    "text": "{character:Employee}It's okay. I didn't consider this... I thought the child next to you would be more scared, but I was completely wrong."
+  },
+  {
+    "line": 450,
+    "text": "{character:Sora Ichinose}Many supernatural phenomena can be explained by science. At the end of the day, ghosts are imaginary characters that appear in horror movies. I'm not afraid of something that doesn't exist."
+  },
+  {
+    "line": 451,
+    "text": "{character:Sora Ichinose}But your makeup is quite good. The reaction of {var:player_nickname} affirms this."
+  },
+  {
+    "line": 452,
+    "text": "{character:player}AHHHHHHHHH!"
+  },
+  {
+    "line": 453,
+    "text": "A scream rushes out of my throat uncontrollably. I quickly pull Sora back and only manage to barely calm down when my back hits the door of the shop. Fortunately, the \"ghost\" doesn't follow us and laughs in a horrifying manner at us from where it stands."
+  },
+  {
+    "line": 454,
+    "text": "{character:???}Hehehe..."
+  },
+  {
+    "line": 455,
+    "text": "{character:Sora Ichinose}...Hello, do you work here?"
+  },
+  {
+    "line": 457,
+    "text": "{character:player}...Why do you have to dress up like this if you're a staff?!"
+  },
+  {
+    "line": 458,
+    "text": "{character:Sora Ichinose}I think it's to attract customers. This is a Halloween costume store, after all."
+  },
+  {
+    "line": 459,
+    "text": "{character:Employee}Sorry, I appeared too suddenly. How are you feeling? Do you need to sit down and rest for a bit?"
+  },
+  {
+    "line": 460,
+    "text": "{character:Sora Ichinose}{var:player_nickname}, your pulse is a little fast. you should get some rest."
+  },
+  {
+    "line": 461,
+    "text": "{character:player}Ahem, it's okay... Sora, you're quite calm about this. Didn't you get frightened by the fake ghost?"
+  },
+  {
+    "line": 462,
+    "text": "{character:Sora Ichinose}There is no real evidence in the world to prove the existence of ghosts. One day science will be able to explain all supernatural events. Just like how people regarded fire as a punishment from heaven hundreds of years ago, but now everyone knows that it is just the flame produced when objects burn."
+  },
+  {
+    "line": 463,
+    "text": "{character:Employee}Ah... You seem quite reliable despite your young age."
+  },
+  {
+    "line": 464,
+    "text": "{character:player}Although you're right, even if he isn't a ghost, people will still get a fright if someone pops out from behind them..."
+  },
+  {
+    "line": 465,
+    "text": "Ten minutes later"
+  },
+  {
+    "line": 466,
+    "text": "One week later"
+  },
+  {
+    "line": 467,
+    "text": ""
+  },
+  {
+    "line": 468,
+    "text": "Symptoms of decidophobia: I. Feeling extremely difficult to make a decision when faced with the need to make a choice. II. Inability to make a satisfactory choice. III. Feeling anxious, conflicted, or even at a loss when you have to make a decision."
+  },
+  {
+    "line": 469,
+    "text": "Given how Sora acted earlier, I become more and more sure of my judgment."
+  },
+  {
+    "line": 470,
+    "text": "{character:Sora Ichinose}... Why do you think that?"
+  },
+  {
+    "line": 471,
+    "text": "{character:player}You seemed very ill-at-ease when you were choosing costumes, and you said many times that \"it's not the costume.\" I really can't think of anything that explains this other than decidophobia."
+  },
+  {
+    "line": 472,
+    "text": "{character:Sora Ichinose}*Coughs* It's not that. I just, just..."
+  },
+  {
+    "line": 473,
+    "text": "{character:player}Just what?"
+  },
+  {
+    "line": 474,
+    "text": "{character:Sora Ichinose}Nothing... Which one do you think suits me better?"
+  },
+  {
+    "line": 475,
+    "text": "{character:player}The little zombie costume you tried on looked nice, you look good as a mage too, but I think the most impressive one was the vampire costume! I can ask the store to make some changes to the accessories, and that costume will be perfect."
+  },
+  {
+    "line": 476,
+    "text": "{character:Sora Ichinose}You mean that shop..."
+  },
+  {
+    "line": 477,
+    "text": "When I mention the Ghouls and Ghasts, Ichinose's eyes light up, and that strange emotion seems to return again, making me feel baffled."
+  },
+  {
+    "line": 478,
+    "text": "{character:Sora Ichinose}*Coughs* In that case, I'll go with that costume. Vampires are one of the most popular Halloween characters, and I trust your judgment."
+  },
+  {
+    "line": 479,
+    "text": "Ten minutes later, we are back at the Ghouls and Ghasts again. The employee from before has changed into a clown costume, but it's a shame that no one is in the mood to enjoy his performance right now."
+  },
+  {
+    "line": 481,
+    "text": "{character:Sora Ichinose}I want to buy the vampire costume and the relevant accessories. Hmm... and I want to adjust the size of the cape."
+  },
+  {
+    "line": 482,
+    "text": "{character:Employee}Are you sure? Don't you want to look at the other costumes?"
+  },
+  {
+    "line": 483,
+    "text": "{character:Sora Ichinose}...According to the data, this is the best result."
+  },
+  {
+    "line": 484,
+    "text": "{character:Employee}That will be 23,000 Coppers. Thank you!"
+  },
+  {
+    "line": 485,
+    "text": "{character:Sora Ichinose}Here's 23,000. Please check the amount. Okay... it's decided."
+  },
+  {
+    "line": 486,
+    "text": "It's that weird feeling again, and it's giving me the urge to stop this transaction. But like what Sora said, data doesn't lie... right?"
+  },
+  {
+    "line": 487,
+    "text": "I still feel confused about this even after I say goodbye to Sora and return home."
+  },
+  {
+    "line": 488,
+    "text": "{character:Student B}You can see the elf prince staring affectionately at the princess in the corner. That's sooo sweet!"
+  },
+  {
+    "line": 489,
+    "text": "{character:Student A}After the fashion show, I watched and played lots of related movies and games. I couldn't help crying when I saw the scene where the prince desperately rushes back to the forest only to see the princess die!"
+  },
+  {
+    "line": 490,
+    "text": "{character:Student B}Someone has uploaded another HD image of the fashion show on CatChat! I wonder who managed to take such an amazing photo?! I'll love the prince x princess pair forever!"
+  },
+  {
+    "line": 491,
+    "text": "It's been a whole week since Dewdrop Middle School held its Halloween fashion show, and people are still talking about it enthusiastically."
+  },
+  {
+    "line": 492,
+    "text": "This year, the winner wasn't dressed up as a popular character like a vampire. Instead, the people voted for the modest and polite elf prince and princess."
+  },
+  {
+    "line": 493,
+    "text": "The scene of the two dancing on petals won over the hearts of everyone present, and even I, who was invited to participate in the Dewdrop Middle School fashion show by Reina Nanami was no exception."
+  },
+  {
+    "line": 494,
+    "text": "Naturally, the prize that Sora had been dreaming about ended up in someone else's hands."
+  },
+  {
+    "line": 495,
+    "text": "{character:Reina Nanami}I think elf prince-related topics will still be popular for the next month."
+  },
+  {
+    "line": 496,
+    "text": "{character:Reina Nanami}The event was very successful this time, so it's not strange that it has caused some chain reactions. By the way, we got separated when it was time to vote. Who did you vote for in the end? Did you vote for the elf prince?"
+  },
+  {
+    "line": 497,
+    "text": "{character:player}No, I gave my vote to a cute vampire."
+  },
+  {
+    "line": 499,
+    "text": "{character:Reina Nanami}I think everyone is just a little tired of vampires since the winner has been a vampire for several years in a row already. I remember that Sora really liked that commemorative book set. I hope he doesn't feel too bad about it..."
+  },
+  {
+    "line": 500,
+    "text": "To be precise, moisture quickly gathered in Sora's eyes the moment the result was announced. He would have burst into tears if there weren't so many people there."
+  },
+  {
+    "line": 501,
+    "text": "{character:player}It really is a shame, but I think he'll win next year after his experiences with the fashion show this year."
+  },
+  {
+    "line": 503,
+    "text": "I heard that the same commemorative book set will be sold at the bookstore from next Monday onwards. I should send Sora a text message and let him know. Hopefully this little cute vampire will cheer up soon after hearing about it."
+  },
+  {
+    "line": 504,
+    "text": "{character:player}Most importantly, you want the special prize. That's the real reason you want to participate in the event, right?"
+  },
+  {
+    "line": 505,
+    "text": "{character:Sora Ichinose}You saw through me! Like you said, data indicates that these are the three most popular Halloween costumes."
+  },
+  {
+    "line": 506,
+    "text": "{character:player}Sure, I'll see you there!"
+  },
+  {
+    "line": 507,
+    "text": "{character:player}For some things, people play a larger role than technology. Let's go inside. It takes a lot of time to find the right costume. Hopefully we'll find what we want today."
+  },
+  {
+    "line": 508,
+    "text": "{character:Employee}Hehe... That's right!"
+  },
+  {
+    "line": 509,
+    "text": "{character:Employee}Don't worry, in the three years since Ghouls and Ghasts has been in business, we've always been able to guarantee 100% customer satisfaction!"
+  },
+  {
+    "line": 510,
+    "text": "{character:Employee}You have good taste. This is a limited edition collaboration item with the famous alchemist Nicolas. Wearing it will bring you good luck!"
+  },
+  {
+    "line": 511,
+    "text": "{character:Sora Ichinose}Just try it on. Maybe you'll change your mind."
+  },
+  {
+    "line": 513,
+    "text": "{character:player}It suits you perfectly, young Count Dracula!"
+  },
+  {
+    "line": 514,
+    "text": "{character:Employee}I have a little suggestion to make. A duo featuring a mage who has lived alone for thousands of years and an amazingly talented wizard will surely attract lots of attention."
+  },
+  {
+    "line": 515,
+    "text": "{character:Employee}Ah, dear customers, welcome once again!"
+  },
+  {
+    "line": 516,
+    "text": "{character:Employee}Ah, you want to choose this costume? That's a little surprising. In recent years, the winner of the Dewdrop Middle School fashion show has almost always been dressed up as a vampire or a zombie. However, you might get a surprise if you try something different."
+  },
+  {
+    "line": 517,
+    "text": "{character:Employee}Ah, all I can say is that I hope that the students won't react like you did when they get a fright."
+  },
+  {
+    "line": 518,
+    "text": "{character:player}Hush—you'll find out soon. Excuse me, can you help me secure this bird on the shoulder?"
+  },
+  {
+    "line": 519,
+    "text": "{character:Employee}No problem! That will be 20,000 Coppers. Thank you!"
+  },
+  {
+    "line": 520,
+    "text": "{character:player}I'll be there on time. I'm honored to participate in this event as your friend, Sora."
+  },
+  {
+    "line": 521,
+    "text": "{character:player}Yes, the costume store you recommended is quite good. It would be better if a certain employee wasn't so cheeky."
+  },
+  {
+    "line": 522,
+    "text": "{character:Reina Nanami}Haha! I'm glad I managed to help. I hear that Sora is determined to win the prize. It looks like he doesn't have a chance now since the \"elf prince\" has obviously gotten more votes than him."
+  },
+  {
+    "line": 523,
+    "text": "{character:Employee}Ah, I see!"
+  },
+  {
+    "line": 524,
+    "text": "{character:Employee}The charm of Frankenstein is that he is a monster with human emotions. In this world, there's only one person who can make Frankenstein put away his spikes. And that person is..."
+  },
+  {
+    "line": 525,
+    "text": "{character:Employee}That will be 35,000 Coppers. Thank you!"
+  },
+  {
+    "line": 526,
+    "text": "{character:player}Haha! It was a set of test papers for all subjects. Sora was bummed out for a while."
+  },
+  {
+    "line": 527,
+    "text": "{character:Employee}Ah, dear customers, welcome once again!"
+  },
+  {
+    "line": 528,
+    "text": "{character:Reina Nanami}Speaking of vampires, Sora's Count Dracula was very cute too."
+  },
+  {
+    "line": 529,
+    "text": "{character:Reina Nanami}Yeah! I'll vote for him too next time."
+  },
+  {
+    "line": 530,
+    "text": "{character:Employee}You can try to jump around like a zombie. That should attract attention faster."
+  },
+  {
+    "line": 531,
+    "text": "{character:Reina Nanami}I think can help you with that. My uncle buys some Halloween decorations every year to decorate the cafe, so I'm quite familiar with these things. And there just happens to be a good costume store among the stores that are partners with Éternité."
+  },
+  {
+    "line": 532,
+    "text": "{character:Employee}Ah, so you two are friends. I never expected two people who reacted so differently to my surprise to know each other. I'm extremely honored to facilitate your meeting at this store."
+  },
+  {
+    "line": 533,
+    "text": "Perhaps it's because Halloween is around the corner, there are a lot more customers at Éternité during this time, and everyone at the café is up to their ears. Even I, a temporary helper who was dragged here by Hinata Takanashi, am no exception."
+  }
+]

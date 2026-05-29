@@ -1,0 +1,69 @@
+29:player
+
+70:To the Final Showdown
+71:Leafa
+72:Hyaaah!
+73:Monsters
+74:ROAR...!
+75:Sinon
+76:Target silenced... How many is that now?
+77:Urghhh, come on...! There's just no end to these monsters!
+78:Yui Yagi
+79:...Senpai, something's not right.
+80:Ichihime
+81:I can sense something fishy too, nyaa! I think we might just be going in circles?!
+82:Kirito
+83:Yui, can you help us run a scan of this area? We seem to be trapped here.
+84:Yui
+85:Okay, Papa! Analyzing now...
+86:Asuna
+87:What is it, Yui?
+88:Analysis complete. Papa, you were right... something's off about this area!
+89:The energy and data are completely tangled up here... This area is an artificially-created loop – there's no way to reach the end...!
+90:A Möbius strip...
+91:Natsuki Shinomiya
+92:So, that's the reason for this endless stream of monsters? I'll run out of stamina before even facing the final boss... Hehe... Now it's really getting exciting!
+94:...How about we focus on finding a way out of this mess first?!
+96:How do we escape from this...?
+97:First, let's calm down and assess the situation. We need to go over the information we actually have.
+98:We might be going in circles through the same area, but some details change ever so slightly each time.
+99:Anything made of data is likely to have flaws. So, any "anomalies" in otherwise identical scenes should be our ticket out of here.
+101:Right! Now that you mention it...
+102:...Was there a moon ornament like that hanging over the entrance to Mahjong Soul Shrine before?
+103:I don't remember anything like that at all, nyaa! That bad rabbit has awful taste, nyaa...!
+104:That's it...! Sinon, can you take that out for us?
+105:...Got it!
+106:(BANG!)
+107:D-did it work?!
+108:...I can see a path, but now even more monsters are coming out!
+109:Heh... I'm afraid this is where fate parts us!
+110:Natsuki?
+111:I'll stay here and halt their advance! You, the knight called Kirito, storm the boss's chamber and put an end to all this!
+112:Huh? But with so many enemies...
+113:Wanjirou
+114:Listen to our chunibyo friend. If we keep dilly-dallying here, we can kiss ramen for dinner goodbye, woof.
+115:We'll cover the rear.
+116:Then I'll help out, too! Dealing with this many enemies calls for my wind magic!
+117:Yeah... I'm staying behind, too. Kirito, Asuna, I know you guys can do it.
+119:We can do this!
+120:We won't let you down!
+121:Kaguyahime
+122:Tch, what a bunch of brutes! How dare they wreck my meticulously designed maze!
+123:Kaguyahime! We found you at last! Turn Mahjong Soul Shrine back to the way it was, now!
+124:Ohoho... You're in my domain now, so I suggest you follow MY rules.
+125:In this realm where the rules of mahjong reign supreme, we shall settle the score at the table.
+126:I'll graciously allow you all to challenge me at once. If even a single one of you manages to score higher than me, I will end this immediately.
+127:And if you lose... ohoho...
+128:If we lose, what...?
+129:I'll feed you to my monsters, of course! Then you'll be just one more stepping stone on my way to conquer this world!
+130:That's taking it too far...!
+131:If we try to escape, things in this world will only get worse...
+132:Don't worry, Asuna. There's only one thing we have to do.
+133:You're right. And we're all in this fight together!
+134:Me too... We can't afford to lose, so we'll just have to win!
+135:Oh? Have you made up your minds then?
+136:...That's right, Kaguyahime! We accept your challenge!
+137:Your courage is commendable. Alright then, let the game begin!
+138:Everyone, you got this, nyaa!
+141:{var:player_nickname}, you know this world pretty well, right? Have you noticed anything that seems off to you?
+142:...Got it! Stay safe, everyone!//nAsuna, Ichihime, {var:player_nickname}, let's get going!

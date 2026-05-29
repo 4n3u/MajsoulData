@@ -1,0 +1,10 @@
+{
+  "choose_blue": 0,
+  "puzzle_active": 0,
+  "puzzle_before": 0,
+  "puzzle_bg": 0,
+  "puzzle_complete": 0,
+  "puzzle_ongoing": 0,
+  "container_progress": 0,
+  "var_progress": 0
+}

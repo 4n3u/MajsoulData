@@ -1,0 +1,1102 @@
+[
+  {
+    "line": 17,
+    "text": "player"
+  },
+  {
+    "line": 611,
+    "text": "An Invitation to Another World"
+  },
+  {
+    "line": 612,
+    "text": "It's been three days since our final showdown against Faceless."
+  },
+  {
+    "line": 613,
+    "text": "Near the National University of Fuuchi"
+  },
+  {
+    "line": 614,
+    "text": "With the battle to save the online world of \"A Lost Paradise\" now concluded, life has returned to normal."
+  },
+  {
+    "line": 615,
+    "text": "White Night"
+  },
+  {
+    "line": 616,
+    "text": "{var:player_nickname}... I'm sensing the call of a mysterious force! Meet me at the usual spot!"
+  },
+  {
+    "line": 617,
+    "text": "Yep... life is even more back to normal than I thought..."
+  },
+  {
+    "line": 618,
+    "text": "While I'm thinking about it, I subconsciously head toward the mahjong dojo near the National University of Fuuchi."
+  },
+  {
+    "line": 619,
+    "text": "Natsuki Shinomiya"
+  },
+  {
+    "line": 620,
+    "text": "Well now, {var:player_nickname}! What a coincidence... Hehe, it would seem that our paths were fated to meet here!"
+  },
+  {
+    "line": 622,
+    "text": "Didn't you say to meet at the dojo...?"
+  },
+  {
+    "line": 624,
+    "text": "What are you doing here, Natsuki...?"
+  },
+  {
+    "line": 625,
+    "text": "Well, yeah..."
+  },
+  {
+    "line": 626,
+    "text": "But I was hoping to catch you sooner. I knew you'd have to come this way, so I waited here for you!"
+  },
+  {
+    "line": 627,
+    "text": "Heh, do you even need to ask...?"
+  },
+  {
+    "line": 628,
+    "text": "I was hoping to catch you sooner. I knew you'd have to come this way, so I waited here for you!"
+  },
+  {
+    "line": 629,
+    "text": "That reminds me... Since we saved the world together, we have a special bond now!"
+  },
+  {
+    "line": 630,
+    "text": "True... Natsuki, what are you wearing?"
+  },
+  {
+    "line": 631,
+    "text": "If memory serves... you always dress casually outside of work, even on the days you have to go to the bar."
+  },
+  {
+    "line": 633,
+    "text": "{var:player_nickname}, can you close your eyes for a second?"
+  },
+  {
+    "line": 634,
+    "text": "Hmm?"
+  },
+  {
+    "line": 635,
+    "text": "Though puzzled by his request, I do as he asks and close my eyes."
+  },
+  {
+    "line": 636,
+    "text": "I can sense Natsuki as he moves in..."
+  },
+  {
+    "line": 637,
+    "text": "...Until he's so close I can practically feel the warmth of his breath."
+  },
+  {
+    "line": 639,
+    "text": "Ignoring my confusion, Natsuki gently takes hold of my right hand."
+  },
+  {
+    "line": 640,
+    "text": "I feel him place something into my hand. It seems to be an envelope."
+  },
+  {
+    "line": 641,
+    "text": "Okay, you can open your eyes now."
+  },
+  {
+    "line": 642,
+    "text": "I open my eyes as told."
+  },
+  {
+    "line": 643,
+    "text": "In my hand is a white envelope sealed with wax."
+  },
+  {
+    "line": 644,
+    "text": "I examine both sides of the letter inside. There's nothing written on it."
+  },
+  {
+    "line": 645,
+    "text": "Um... What is it?"
+  },
+  {
+    "line": 646,
+    "text": "Ahem... It's an invitation."
+  },
+  {
+    "line": 648,
+    "text": "...If that's okay?"
+  },
+  {
+    "line": 649,
+    "text": "The usually self-assured Natsuki now appears surprisingly bashful."
+  },
+  {
+    "line": 651,
+    "text": "Sure, it's just..."
+  },
+  {
+    "line": 653,
+    "text": "Isn't this a little sudden?"
+  },
+  {
+    "line": 655,
+    "text": "How mysterious... So, where are we going?"
+  },
+  {
+    "line": 656,
+    "text": "You'll see – ready for a surprise?"
+  },
+  {
+    "line": 657,
+    "text": "Alright, {var:player_nickname}. We're here!"
+  },
+  {
+    "line": 658,
+    "text": "Welcome... to White Night's abode!"
+  },
+  {
+    "line": 659,
+    "text": "Isn't this your house, Natsuki?"
+  },
+  {
+    "line": 660,
+    "text": "Since he's dressed for his part-time job at the bar, I thought we would be going there to eat."
+  },
+  {
+    "line": 661,
+    "text": "But... if he wanted me to come to his house, that must mean we're pretty close now...?"
+  },
+  {
+    "line": 662,
+    "text": "Hold on, are you dressed in your full bartender suit... to serve me?"
+  },
+  {
+    "line": 664,
+    "text": "Fuyumi Shinomiya"
+  },
+  {
+    "line": 665,
+    "text": "{var:player_nickname}, you're here! Welcome!"
+  },
+  {
+    "line": 666,
+    "text": "My brother must be such a handful! I'm so sorry, really..."
+  },
+  {
+    "line": 667,
+    "text": "I only just got here! What are you apologizing for, Fuyumi?"
+  },
+  {
+    "line": 668,
+    "text": "Well, you know how my brother is. He used some weird excuse to get you come over here, didn't he?"
+  },
+  {
+    "line": 669,
+    "text": "Wait, I know... It was a \"surprise,\" wasn't it?"
+  },
+  {
+    "line": 670,
+    "text": "Bingo. You know your brother well."
+  },
+  {
+    "line": 671,
+    "text": "I didn't plan any surprise. I didn't need to – I surprise the world every day."
+  },
+  {
+    "line": 672,
+    "text": "I live and breathe surprises. That right there? That's just what I do."
+  },
+  {
+    "line": 673,
+    "text": "Here we go again... Brother!"
+  },
+  {
+    "line": 674,
+    "text": "We just got in the door! At this rate, we'll never make it into the living room!"
+  },
+  {
+    "line": 675,
+    "text": "Seriously, I'm so sorry for any trouble my brother's caused you..."
+  },
+  {
+    "line": 676,
+    "text": "It's no trouble at all, really..."
+  },
+  {
+    "line": 677,
+    "text": "Yeah, I oughta be compensated!"
+  },
+  {
+    "line": 678,
+    "text": "Mr. Shinomiya"
+  },
+  {
+    "line": 679,
+    "text": "Ah, looks like our special guest is here. Welcome."
+  },
+  {
+    "line": 680,
+    "text": "Natsuki's parents greet me from the kitchen, where they're preparing the ingredients for lunch."
+  },
+  {
+    "line": 681,
+    "text": "It's my first time meeting Natsuki's parents. I can't help but feel a little nervous."
+  },
+  {
+    "line": 682,
+    "text": "Make yourself at home, {var:player_nickname}. I'm gonna go help get the food ready."
+  },
+  {
+    "line": 683,
+    "text": "Um, do you need a hand with anything...?"
+  },
+  {
+    "line": 684,
+    "text": "Don't worry about it! We can't have our guest doing the work."
+  },
+  {
+    "line": 685,
+    "text": "Mrs. Shinomiya"
+  },
+  {
+    "line": 687,
+    "text": "Let me think... why don't you take the seat on the far right?"
+  },
+  {
+    "line": 689,
+    "text": "R-right, got it..."
+  },
+  {
+    "line": 690,
+    "text": "With that, Mrs. Shinomiya returns to the kitchen, where Natsuki is bustling around."
+  },
+  {
+    "line": 691,
+    "text": "Uh... What did she mean by all that just now?"
+  },
+  {
+    "line": 692,
+    "text": "Ahahaha... Sorry, {var:player_nickname}. Let's just say the apple doesn't fall far from the tree."
+  },
+  {
+    "line": 693,
+    "text": "You mean...!"
+  },
+  {
+    "line": 694,
+    "text": "Could Natsuki have inherited his chunibyo... from his mother?!"
+  },
+  {
+    "line": 695,
+    "text": "Everyone"
+  },
+  {
+    "line": 696,
+    "text": "Let's eat!"
+  },
+  {
+    "line": 697,
+    "text": "With all the dishes on the table, it's finally time for lunch."
+  },
+  {
+    "line": 698,
+    "text": "We've got grilled steak, beef bourguignon, and Caesar salad..."
+  },
+  {
+    "line": 699,
+    "text": "It doesn't just look like a gourmet meal at a fancy restaurant – it tastes like one too."
+  },
+  {
+    "line": 700,
+    "text": "You've really grown lately, haven't you, Natsuki?"
+  },
+  {
+    "line": 701,
+    "text": "Next to me, Natsuki flashes a look of pride."
+  },
+  {
+    "line": 703,
+    "text": "In that case, perhaps it's time I passed the Shinomiya family's secret technique on to you."
+  },
+  {
+    "line": 704,
+    "text": "Nah, it's still too soon. We need to sync it up with White Night's journey a bit more first..."
+  },
+  {
+    "line": 705,
+    "text": "...Natsuki, what is the Shinomiya family's secret technique?"
+  },
+  {
+    "line": 706,
+    "text": "This is the first time I'm hearing about it as well."
+  },
+  {
+    "line": 707,
+    "text": "Huh?"
+  },
+  {
+    "line": 708,
+    "text": "Do these two just improvise everything they say...?!"
+  },
+  {
+    "line": 709,
+    "text": "...That reminds me, {var:player_nickname}."
+  },
+  {
+    "line": 710,
+    "text": "If you had to journey far, would you choose the Snowfield of Eternal White or the Wasteland of Infernal Fire?"
+  },
+  {
+    "line": 712,
+    "text": "Don't take it too seriously, {var:player_nickname}! Just play along...!"
+  },
+  {
+    "line": 713,
+    "text": "Hahaha, this is the liveliest meal we've had in some time!"
+  },
+  {
+    "line": 714,
+    "text": "All eyes of the Shinomiya family are now fixed on me."
+  },
+  {
+    "line": 715,
+    "text": "I don't have a clue. What should I say...?"
+  },
+  {
+    "line": 717,
+    "text": "The Snowfield of Eternal White"
+  },
+  {
+    "line": 719,
+    "text": "The Wasteland of Infernal Fire"
+  },
+  {
+    "line": 720,
+    "text": "I see..."
+  },
+  {
+    "line": 721,
+    "text": "So, what you're saying is that the greater good can only be achieved with a purity unsullied by even a single shadow?"
+  },
+  {
+    "line": 722,
+    "text": "Uh, I haven't said anything yet..."
+  },
+  {
+    "line": 723,
+    "text": "So true! That's {var:player_nickname} for you!"
+  },
+  {
+    "line": 724,
+    "text": "Let's go to the snowfield together next time."
+  },
+  {
+    "line": 725,
+    "text": "Perhaps the truth of this world lies dormant at its pure and unblemished edges..."
+  },
+  {
+    "line": 728,
+    "text": "Why does this whole adventure sound so fishy to me...?"
+  },
+  {
+    "line": 729,
+    "text": "...If it means traveling with you, Natsuki, I'd love to go."
+  },
+  {
+    "line": 730,
+    "text": "Okay, it's settled then!"
+  },
+  {
+    "line": 731,
+    "text": "But where specifically should we go? White Night within me whispers... \"To the north.\""
+  },
+  {
+    "line": 732,
+    "text": "Brother, if you're looking for a snowfield, wouldn't you have to go north?"
+  },
+  {
+    "line": 733,
+    "text": "Before I realize it, our travel plans are already set."
+  },
+  {
+    "line": 734,
+    "text": "...But to be honest, I'm sure I'd have a good time anywhere if it's with Natsuki."
+  },
+  {
+    "line": 735,
+    "text": "...?!"
+  },
+  {
+    "line": 736,
+    "text": "Um, what's with that response...?"
+  },
+  {
+    "line": 738,
+    "text": "Are the depths of Hell just another travel destination to you?"
+  },
+  {
+    "line": 739,
+    "text": "No, that's not what I meant..."
+  },
+  {
+    "line": 740,
+    "text": "It's clearly too late to say \"I just chose at random\" now."
+  },
+  {
+    "line": 741,
+    "text": "...{var:player_nickname}, I'm ashamed of myself."
+  },
+  {
+    "line": 742,
+    "text": "Why would you say that all of a sudden?!"
+  },
+  {
+    "line": 745,
+    "text": "Perhaps this way I can finally unlock White Night's second form..."
+  },
+  {
+    "line": 747,
+    "text": "There's no reasoning with them when they get like this..."
+  },
+  {
+    "line": 748,
+    "text": "I try to imagine us enduring grueling training in a burning wasteland..."
+  },
+  {
+    "line": 749,
+    "text": "...Actually, the more I think about it, it sounds pretty fun."
+  },
+  {
+    "line": 750,
+    "text": "But we wouldn't actually have to go to the mouth of a volcano or anything, right?!"
+  },
+  {
+    "line": 751,
+    "text": "I may have gotten through this bizarre round of questioning, but the fun at the Shinomiyas' dining table isn't over yet."
+  },
+  {
+    "line": 752,
+    "text": "Mrs. Shinomiya and Natsuki are engaged in a heated discussion pertaining to their... shared interest."
+  },
+  {
+    "line": 753,
+    "text": "Though they're being a handful for Fuyumi, she handles them with plenty of spot-on retorts."
+  },
+  {
+    "line": 754,
+    "text": "Mr. Shinomiya, meanwhile, takes in the entire scene with a warm smile on his face."
+  },
+  {
+    "line": 755,
+    "text": "This family is a little quirky, but in the most endearing way possible. I really wish I could spend more time here."
+  },
+  {
+    "line": 756,
+    "text": "...What a lovely afternoon."
+  },
+  {
+    "line": 757,
+    "text": "You should come over for a meal again sometime, {var:player_nickname}. I'll make you another invitation."
+  },
+  {
+    "line": 758,
+    "text": "Oh, speaking of the invitation, why don't you take a closer look at the one I gave you earlier?"
+  },
+  {
+    "line": 759,
+    "text": "A closer look...?"
+  },
+  {
+    "line": 760,
+    "text": "I re-examine the invitation letter as Natsuki suggests."
+  },
+  {
+    "line": 761,
+    "text": "...Upon closer inspection, I discover that the original letter in fact has a hidden layer."
+  },
+  {
+    "line": 762,
+    "text": "I should have known that Natsuki would think of something like this."
+  },
+  {
+    "line": 763,
+    "text": "I peel back the layer to reveal a small, golden slip of paper. The handwritten words on it read:"
+  },
+  {
+    "line": 764,
+    "text": "\"The true meeting place lies deeper within this abode.\""
+  },
+  {
+    "line": 768,
+    "text": "Natsuki and I head upstairs. He opens the door to one of the rooms, and the fragrance of a fruity, floral wine wafts out."
+  },
+  {
+    "line": 769,
+    "text": "Welcome, my most honored guest."
+  },
+  {
+    "line": 770,
+    "text": "So, this is Natsuki's bedroom. At first glance, it appears neat and tidy."
+  },
+  {
+    "line": 771,
+    "text": "To my surprise, there's a fully-equipped bar counter right in his room."
+  },
+  {
+    "line": 772,
+    "text": "The counter is lined with elegant glasses, shakers, jiggers, and various bottles of spirits – all the tools and ingredients necessary for mixing cocktails. He even has a small fridge in the corner."
+  },
+  {
+    "line": 773,
+    "text": "Natsuki, you even practice making cocktails at home? You're so committed..."
+  },
+  {
+    "line": 774,
+    "text": "Sure. I wanted to catch up with the veteran bartenders, so I trained like crazy at first."
+  },
+  {
+    "line": 775,
+    "text": "But lately, I've been focusing on developing new cocktails."
+  },
+  {
+    "line": 776,
+    "text": "That's right, Natsuki often posts photos of his creations on CatChat."
+  },
+  {
+    "line": 777,
+    "text": "I didn't realize he'd been making most of those at home..."
+  },
+  {
+    "line": 778,
+    "text": "Where did I put it...?"
+  },
+  {
+    "line": 779,
+    "text": "Natsuki mutters to himself as he looks for something in a tall bookshelf crammed with books of every color."
+  },
+  {
+    "line": 780,
+    "text": "I had no idea he was such a big reader. Looks like there's a lot I don't know about Natsuki."
+  },
+  {
+    "line": 781,
+    "text": "Ah-ha, there you are!"
+  },
+  {
+    "line": 782,
+    "text": "Natsuki pulls a picture book out from the shelf."
+  },
+  {
+    "line": 783,
+    "text": "The pages are a bit yellowed at the edges, but the book itself is remarkably well-preserved."
+  },
+  {
+    "line": 784,
+    "text": "The cover features a chibi-style character wearing a cloak and a black mask. The design bears a striking resemblance to what I've seen of White Night."
+  },
+  {
+    "line": 785,
+    "text": "What is this...?"
+  },
+  {
+    "line": 786,
+    "text": "\"The Adventures of the Phantom Thief.\""
+  },
+  {
+    "line": 787,
+    "text": "My dad brought this back for me as a souvenir from an overseas business trip when I was little."
+  },
+  {
+    "line": 788,
+    "text": "It's a story about a cloaked phantom thief who gives a wealthy tycoon with a wicked heart the punishment he deserves..."
+  },
+  {
+    "line": 789,
+    "text": "You're the only person I've revealed this to. This is my origin."
+  },
+  {
+    "line": 790,
+    "text": "Fighting for justice. Protecting the ones he loves."
+  },
+  {
+    "line": 791,
+    "text": "The image of his cloak billowing in the wind as he vanishes over the horizon..."
+  },
+  {
+    "line": 792,
+    "text": "I was just a kid, but I looked up to him so much."
+  },
+  {
+    "line": 793,
+    "text": "I see..."
+  },
+  {
+    "line": 794,
+    "text": "So, that inspired you to come up with White Night?"
+  },
+  {
+    "line": 795,
+    "text": "Heh... That's right. I spent hours tweaking my character in \"A Lost Paradise\" to look exactly like him."
+  },
+  {
+    "line": 796,
+    "text": "The way Natsuki is smiling now doesn't reveal a trace of his usual chunibyo."
+  },
+  {
+    "line": 797,
+    "text": "He earnestly recounts the events that shaped him into the person he is today."
+  },
+  {
+    "line": 798,
+    "text": "He is telling me a secret... one that he's never told anyone else before."
+  },
+  {
+    "line": 799,
+    "text": "As the person I am today, do you think... I've gotten a little closer?"
+  },
+  {
+    "line": 800,
+    "text": "To the phantom thief in the book..."
+  },
+  {
+    "line": 802,
+    "text": "Absolutely."
+  },
+  {
+    "line": 803,
+    "text": "You saved \"A Lost Paradise\" and protected all the shared memories that world holds for everyone."
+  },
+  {
+    "line": 804,
+    "text": "And you did it all without sacrificing your studies and managed to get into a good university."
+  },
+  {
+    "line": 805,
+    "text": "You treat even your part-time bartending job with total professionalism."
+  },
+  {
+    "line": 806,
+    "text": "Not everyone can do that."
+  },
+  {
+    "line": 807,
+    "text": "You really think so...?"
+  },
+  {
+    "line": 808,
+    "text": "That's just stuff from my everyday life... Have I really... made that much of an impression on you...?"
+  },
+  {
+    "line": 809,
+    "text": "Natsuki blushes. He seems uncharacteristically modest right now...?"
+  },
+  {
+    "line": 810,
+    "text": "What should I say to him...?"
+  },
+  {
+    "line": 815,
+    "text": "Of course you have."
+  },
+  {
+    "line": 816,
+    "text": "I saw White Night save \"A Lost Paradise\" first-hand."
+  },
+  {
+    "line": 817,
+    "text": "I also know that your true strength goes far beyond that. You live with all that drive and passion because you have even bigger dreams, right?"
+  },
+  {
+    "line": 818,
+    "text": "To be honest with you, I'd be delighted to witness White Night's – that is, your shining moments up close."
+  },
+  {
+    "line": 819,
+    "text": "I believe in you, and I know you can forge an even more phenomenal legend...!"
+  },
+  {
+    "line": 820,
+    "text": "{var:player_nickname}, you..."
+  },
+  {
+    "line": 821,
+    "text": "You really are the best companion I could ask for!!"
+  },
+  {
+    "line": 822,
+    "text": "Natsuki's voice rings out with excitement as his eyes sparkle with hope for the future."
+  },
+  {
+    "line": 823,
+    "text": "N-Natsuki...?"
+  },
+  {
+    "line": 824,
+    "text": "And so, I invite you to taste... a special cocktail I tailored just for you, {var:player_nickname}!"
+  },
+  {
+    "line": 825,
+    "text": "Like the gallant phantom thief himself rising to a challenge, Natsuki bows elegantly before striding over to the bar. With fluid motions, he selects the ingredients he needs."
+  },
+  {
+    "line": 826,
+    "text": "Next, he takes out orange juice and a bag of ice cubes from the small fridge. His actions flow from one to the next seamlessly, as if he's selecting the appropriate weapon for White Night in \"A Lost Paradise.\""
+  },
+  {
+    "line": 827,
+    "text": "I was planning to carve the ice fresh for you, but I couldn't sleep at all last night, so... I ended up prepping it in advance."
+  },
+  {
+    "line": 828,
+    "text": "After all, this is a special creation made only for you. I wanted it to be perfect, a true miracle, right down to the shape of the ice."
+  },
+  {
+    "line": 829,
+    "text": "This bag consists of only the finest cubes I carefully selected from multiple practice batches."
+  },
+  {
+    "line": 830,
+    "text": "Still talking, his expression turns serious as he begins mixing the cocktail."
+  },
+  {
+    "line": 831,
+    "text": "I sit in the plush, roomy desk chair and take in his every move from my premium seat."
+  },
+  {
+    "line": 832,
+    "text": "Natsuki puts the ice cubes and ingredients into the shaker and begins to shake. As he moves, his bangs brush against his long eyelashes, and beneath them, his eyes shine with a lively warmth."
+  },
+  {
+    "line": 833,
+    "text": "He is elegant and nimble as usual, like a knight galloping fearlessly toward a destined victory."
+  },
+  {
+    "line": 834,
+    "text": "I wonder if any of Natsuki's regular customers go to the bar just for the show."
+  },
+  {
+    "line": 835,
+    "text": "The pleasant rattle of the shaker comes to a stop, leaving a soothing silence to fill the room."
+  },
+  {
+    "line": 836,
+    "text": "Natsuki slowly pours the drink into a stemmed glass."
+  },
+  {
+    "line": 838,
+    "text": "It stands for \"the road to dreams.\""
+  },
+  {
+    "line": 839,
+    "text": "...But I thought nonalcoholic would better suit you, so I made it as a mocktail instead."
+  },
+  {
+    "line": 841,
+    "text": "I carefully bring the drink up to my lips. The color is brilliant, like sunshine over paradise."
+  },
+  {
+    "line": 842,
+    "text": "It's smooth on the palate, carrying the coolness of the ice without any of the unpleasant sharpness."
+  },
+  {
+    "line": 843,
+    "text": "The zesty freshness of oranges hits me first, followed by the rich sweetness of apricots. They blend together perfectly to create a flavor unlike any other."
+  },
+  {
+    "line": 844,
+    "text": "I know it's non-alcoholic, but it feels like I've been whisked away to some magical wonderland... It's intoxicating."
+  },
+  {
+    "line": 845,
+    "text": "...It's delicious!"
+  },
+  {
+    "line": 846,
+    "text": "Though a vibrant world is coming alive in my mind, all I can do is give the simplest response."
+  },
+  {
+    "line": 847,
+    "text": "But to convey the brilliance of a drink to its creator, you don't need exaggerated praise or flowery language."
+  },
+  {
+    "line": 848,
+    "text": "...What can I say?"
+  },
+  {
+    "line": 849,
+    "text": "Perhaps I've been a bartender all this time just for this moment."
+  },
+  {
+    "line": 850,
+    "text": "Thank you, {var:player_nickname}."
+  },
+  {
+    "line": 851,
+    "text": "I feel like I've found another reason to keep pushing on."
+  },
+  {
+    "line": 852,
+    "text": "Because your dreams aren't over yet?"
+  },
+  {
+    "line": 853,
+    "text": "Haha, that's right."
+  },
+  {
+    "line": 854,
+    "text": "Natsuki pours his drink into a glass, looking at me intently."
+  },
+  {
+    "line": 855,
+    "text": "From this day forward, let's walk this path of dreams together."
+  },
+  {
+    "line": 856,
+    "text": "Will you stay by my side forever, {var:player_nickname}?"
+  },
+  {
+    "line": 857,
+    "text": "...Of course."
+  },
+  {
+    "line": 858,
+    "text": "Glasses clink together, as if the sound helps chase away the shyness in our eyes."
+  },
+  {
+    "line": 859,
+    "text": "Perhaps that crisp, clear sound is a gift to us from the phantom thief himself."
+  },
+  {
+    "line": 860,
+    "text": "You deserve a new title now!"
+  },
+  {
+    "line": 862,
+    "text": "I try using Natsuki's usual manner of speaking. His reaction far exceeds my expectations."
+  },
+  {
+    "line": 863,
+    "text": "...!"
+  },
+  {
+    "line": 864,
+    "text": "Natsuki's eyes go wide as he staggers backward."
+  },
+  {
+    "line": 865,
+    "text": "N-no way, it's still too soon! I'm not ready for that..."
+  },
+  {
+    "line": 868,
+    "text": "But perhaps I'm on the right track here?"
+  },
+  {
+    "line": 870,
+    "text": "Songs of praise for White Night echo through streets and alleys across the globe..."
+  },
+  {
+    "line": 872,
+    "text": "Ooooooh...!"
+  },
+  {
+    "line": 874,
+    "text": "In other words, the key to White Night's awakening."
+  },
+  {
+    "line": 875,
+    "text": "H-his second form...!"
+  },
+  {
+    "line": 876,
+    "text": "Indeed! The time of awakening is already at hand...!"
+  },
+  {
+    "line": 877,
+    "text": "I suddenly feel a few stares piercing into my back."
+  },
+  {
+    "line": 878,
+    "text": "I whip my head around, realizing too late that my little chunibyo performance has drawn an audience..."
+  },
+  {
+    "line": 879,
+    "text": "Fuyumi stands there in shock, a tray of coffee cups frozen in her hands. Beside her, Mrs. Shinomiya looks on with an indecipherable expression."
+  },
+  {
+    "line": 880,
+    "text": "Oh no... My life is done..."
+  },
+  {
+    "line": 881,
+    "text": "...I-I'm going to pretend I didn't see anything!"
+  },
+  {
+    "line": 882,
+    "text": "...They're clearly two of a kind."
+  },
+  {
+    "line": 883,
+    "text": "While Fuyumi squeezes her eyes shut in embarrassment, Mrs. Shinomiya gives a meaningful, knowing nod."
+  },
+  {
+    "line": 884,
+    "text": "My life is really done!!!"
+  },
+  {
+    "line": 885,
+    "text": "See you later then, White Night."
+  },
+  {
+    "line": 886,
+    "text": "And {var:player_nickname} – you used that broom flawlessly. Or should I call you... The Sweeper of the World?"
+  },
+  {
+    "line": 887,
+    "text": "H-huh...?"
+  },
+  {
+    "line": 888,
+    "text": "Th-that was written on the seal of the chest from before..."
+  },
+  {
+    "line": 889,
+    "text": "M-Mom, don't tell me you... Hold on a minute...!"
+  },
+  {
+    "line": 890,
+    "text": "{var:player_nickname}, after them, quickly!"
+  },
+  {
+    "line": 891,
+    "text": "It seems the story doesn't end here... I have a feeling that a whole new chapter is about to begin."
+  },
+  {
+    "line": 892,
+    "text": "This wasn't the direction I expected at all, but maybe... this could actually be pretty interesting?"
+  },
+  {
+    "line": 893,
+    "text": "Somehow, I've completely lost track of what's going on..."
+  },
+  {
+    "line": 903,
+    "text": "As thanks for saving \"A Lost Paradise\" with me, I'd like to... invite you to lunch."
+  },
+  {
+    "line": 904,
+    "text": "Correct... Right this way, please."
+  },
+  {
+    "line": 905,
+    "text": "Question the idea."
+  },
+  {
+    "line": 906,
+    "text": "Agree with the idea."
+  },
+  {
+    "line": 907,
+    "text": "Earnestly encourage him."
+  },
+  {
+    "line": 908,
+    "text": "Tease him in chunibyo-speak."
+  },
+  {
+    "line": 912,
+    "text": "You're as sharp as ever, {var:player_nickname} – just the kind of partner White Night needs."
+  },
+  {
+    "line": 913,
+    "text": "Um? H-huh...?"
+  },
+  {
+    "line": 914,
+    "text": "Don't worry about it! I planned the location in advance."
+  },
+  {
+    "line": 915,
+    "text": "...I sense a trace of demonic aura emanating from you."
+  },
+  {
+    "line": 916,
+    "text": "From there, your Field of Light can resonate with the house's barrier and remain stable."
+  },
+  {
+    "line": 917,
+    "text": "Heh heh heh... You noticed, did you? I've hacked and slashed my way through countless battles, after all."
+  },
+  {
+    "line": 918,
+    "text": "Mom... are you \"testing\" {var:player_nickname}?"
+  },
+  {
+    "line": 919,
+    "text": "What a fearsome child... A warrior – no, already an \"Asura.\""
+  },
+  {
+    "line": 920,
+    "text": "Run-of-the-mill thrills just wouldn't cut it for an \"Asura,\" huh...? Haha, I see... I see!!"
+  },
+  {
+    "line": 921,
+    "text": "I'm going with you! Let us embark on a hero's journey through the scorching wastes!"
+  },
+  {
+    "line": 922,
+    "text": "Why don't we just go on a normal trip! To a normal destination!"
+  },
+  {
+    "line": 923,
+    "text": "Congratulations! You found the final clue!"
+  },
+  {
+    "line": 924,
+    "text": "Then \"deeper within this abode\" must refer to..."
+  },
+  {
+    "line": 925,
+    "text": "That's right, it's time I brought you to see White Night's treasure room in this world...!"
+  },
+  {
+    "line": 926,
+    "text": "Thank you for waiting. This is \"Paradise.\""
+  },
+  {
+    "line": 927,
+    "text": "For now, let's call it... \"A New Paradise.\""
+  },
+  {
+    "line": 928,
+    "text": "Why don't we call you... \"Pure White Flash\"!"
+  },
+  {
+    "line": 929,
+    "text": "Something like \"White Light of Justice\" is just right for my current level..."
+  },
+  {
+    "line": 930,
+    "text": "I feel like my worldview is getting warped a little... And honestly, \"White Light of Justice\" sounds even more awesome!"
+  },
+  {
+    "line": 931,
+    "text": "Don't be so modest. White Night is legendary...!"
+  },
+  {
+    "line": 932,
+    "text": "The melody rides the wind, merging with the atmospheric mana and flowing endlessly along the world's great currents..."
+  },
+  {
+    "line": 933,
+    "text": "And ultimately, those great currents shall converge within the sword known as \"Luminas.\""
+  }
+]

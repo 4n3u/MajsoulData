@@ -1,0 +1,205 @@
+9:player
+
+630:4. The Peculiar Passerby
+631:Jane
+632:Hmm...
+633:I see! I hadn't thought of that. Fascinating...
+636:F-find something?
+638:Um, are you finished yet...?
+639:Hohoho! This will be your first time assisting me on a case, remember? I had to make sure you're ready!
+641:Isn't this just how I usually am...?
+642:It might seem that way at first, but in fact, there are signs all over to the contrary.
+643:For example, your collar is clean and neatly pressed, and you're wearing natural colors – good for keeping a low profile...
+644:All the evidence points to a real effort on your part, {var:player_nickname}.
+645:Hohoho... No detail goes unnoticed by Jane, the great detective!
+646:Um... Thanks, I guess?
+647:With that, you've cleared the first stage. You remember what our mission is today, don't you, {var:player_nickname}?
+648:Your first case as the probationary assistant to One Han City's top detective... begins now!
+649:So, what are we doing?
+650:I'll give it 110 percent.
+651:...Next, we'll review the steps of an investigation.
+652:{var:player_nickname}, what's the first thing a detective should do at the start of any investigation?
+654:Fix their hair?
+656:You know, that actually makes sense now that I think about it... By managing your appearance, you can blend right in and gather clues uninterrupted. You're good, {var:player_nickname}!
+657:Correct!
+658:Clues are a detective's bread and butter, and finding them requires a keen eye and detailed reasoning.
+659:So... Why don't we start with my phone? See anything on the screen?
+660:The homepage newsfeed
+661:Today's weather forecast
+662:Very perceptive! Indeed, this is where the highest concentration of clues can be found. Let's see...
+664:Can you believe that?! What a coincidence! Did you see that talk show episode, {var:player_nickname}?
+665:It's fine if you haven't. It goes over case details that the public shouldn't know about in the first place.
+666:Reports like that grab people's attention, sure, but getting into too much detail wouldn't be appropriate.
+667:You seem like you're interested, though. When there's time, I'll fill you in on all the exciting details of the case myself!
+669:"Today in One Han City: Sunny and calm with mild temperatures. Chance of rain: 10% over the next 2 hours."
+670:You've even thought about what the weather will be later? Now that's planning ahead! As an assistant, you're pretty thorough!
+671:...I'm not sure how to respond to that.
+672:Okay. You did well, but ultimately, clues found on your phone were processed by someone else.
+673:So, at best, they can give you a general lay of the land. The real detective work begins now...
+674:{var:player_nickname}, have you ever tried your hand at criminal profiling?
+675:At what?
+676:I may have.
+677:Simply put, it's an investigative technique that analyzes criminal behavior and methods to identify suspects.
+678:The basic premise is that a person's physiology, behavior, and personality are connected and can be inferred from one another.
+680:Of course, these are just possible patterns – not evidence to draw conclusions from. Still, it's a useful technique for honing your detective skills.
+681:I see...
+682:Sounds fascinating!
+683:Hohoho! Well, what are we waiting for? Let's give it a try right now!
+686:For example, why don't you try guessing what the next few people to walk by this main road do for a living?
+687:Hmm...
+688:The first person to walk by is a young man in a suit. He's wearing wireless earbuds and gold-rimmed glasses. He's speaking rapidly into his phone with a serious look on his face.
+689:A business professional, maybe?
+691:He looks like some big-shot finance guy, doesn't he? But we can't draw hasty conclusions from his appearance alone.
+692:But we need more information, right? Good. Great investigators are always thorough!
+693:We'd be taking a risk, but why don't we listen in on his conversation as he walks by?
+694:Passerby
+696:He sounds like... a sports commentator?
+697:To be precise, the kind forced to stream outdoors for whatever reason. Looks like a tough gig...
+698:The second person to walk by is a brawny, muscle-bound man with a bald head. He's wearing sunglasses and a tank top, and his arms are covered in small scars... I wouldn't want to mess with him.
+699:You don't think he's in a gang, do you?
+700:The answer can't be that simple...
+701:Hohoho... You know, {var:player_nickname}, when a detective can't nail down the truth, they check the scene for any "inconsistencies." That's where you tend to find the key to solving the crime.
+702:Take this guy for example – he might look kind of scary, but first ask yourself... What's the probability that a gangster is just wandering around a busy street in broad daylight?
+703:When you put it that way, it does seem unlikely...
+704:Take a closer look at him... He has all those scars on his arms, but they look too shallow to be knife wounds. Cat scratches are more likely.
+705:Look again at his clothes. See all that animal hair? Now what do you think he does for a living, {var:player_nickname}?
+707:Hehe, exactly. Now let's see about the next one...
+708:Jane and I continue to deduce the occupations of passersby to give me more profiling practice.
+709:(A little while later...)
+711:Yeah... I've never studied people on the street in such detail before.
+712:Isn't it fun? But since this isn't official detective work, this is as much as we can do. Any more staring and it gets a bit rude.
+713:Fair enough, but... I can't shake the feeling that someone's been watching us from behind...
+714:Hohoho! You're not used to being in the spotlight, are you, {var:player_nickname}? Don't be surprised – a detective duo like us is bound to attract some attention.
+715:Alright, keep your voice down and look over there at our two o'clock, I think I see someone... This target we can observe a little more closely.
+716:Whispering to me and gesturing with her eyes, Jane directs my gaze to a young man standing at the entrance to a store holding a bouquet of flowers.
+717:He's wearing a casual suit, but he keeps fiddling with the collar. He looks a bit uncomfortable.
+718:He must be waiting for his date...
+719:Precisely. However... I strongly suspect that, despite his best efforts, this date will end in failure.
+720:And what gives you that idea?
+721:Hohoho, you look doubtful. Why don't we bet on it? I'll stand by my prediction.
+722:I'll explain my reasoning to you first.
+723:See the flowers he's holding? Those are yellow carnations.
+724:Yellow? Hmm... That's kind of an odd choice for a date.
+725:Exactly! They can imply disappointment, or at best give off a real "let's just be friends" vibe. Bringing those on a date – or giving them to someone you have a crush on – is definitely not the smartest move.
+726:But that won't be the killing blow. Notice how he can't stop scratching at his collar and the backs of his hands?
+727:I saw that. Is it because he's so nervous he's sweating?
+728:Not at all. Usually when people are nervous, they just fidget with their hands and clothes. His skin is clearly reacting to a fabric allergy.
+730:Look at how it sits on his shoulders – that cut is all wrong for his frame. Such inconsistencies are enough to prove my theory.
+731:He brought the wrong flowers for a date and got his outfit together at the last minute... If he's that careless and disorganized, what chance does he have?
+732:You make some strong points...
+734:Heh. We'll just have to wait and see who's right. Oh, look, here comes our leading lady now.
+735:Following Jane's eyes, I spot a girl in a white dress rushing over and then stopping before the young man.
+736:As she looks up at him, her eyes land on the bouquet of yellow carnations. Her expression freezes.
+737:Seemingly sensing the awkwardness in the air, the boy opens his mouth to explain. But then...
+738:Man
+739:"Ah-CHOO!!"
+740:His earthshaking sneeze thunders through the street. The boy rubs at his reddened nose, looking utterly miserable.
+741:Hohoho... And there you have it! Next comes the typical ending: The woman walks away in disgust, leaving the man heartbroken.
+742:Despite Jane's smugly-made prediction, there's no obvious trace of disgust in the girl's expression. In fact...
+744:She doesn't seem offended, that's for sure...
+745:Is she holding back laughter...?
+746:Though she seems momentarily frozen in surprise, the girl doesn't frown or wince. If anything, her expression softens.
+747:Her shoulders relax, and the corners of her mouth start to twitch ever so slightly, like she's trying her best to contain something.
+748:Jane, your deduction might be a bust.
+750:Just as Jane is about to explain further, the girl bursts out laughing in the distance.
+751:Rather than hold the boy's tactlessness against him, she pulls a tissue from her bag and hands it to him, teasing him lightheartedly.//nBlushing, the boy scratches his head and, to our surprise, the two of them head off toward the shopping district with their hands clasped.
+752:...
+753:What?!
+755:Perhaps it was his clumsy sincerity itself that won her over.
+756:No way... I can't believe this... My profiles are never wrong...
+757:Um... Excuse me...
+758:Are you... Miss Jane, the detective? I saw your interview on "Trailing the Truth"...
+759:Oh? So, you recognized me!
+761:Hohoho, an accurate deduction! Standing before you is none other than Detective Jane – solver of countless confounding cases! Is there something I can do to assist, fine citizen?
+763:No trouble at all! Recovering missing items may be basic detective work, but I'll still give it my full attention!
+766:"Roughly"? "Wandered"? "Nearby"?
+767:That won't do, that's far too vague.
+768:Which shops specifically did you enter after leaving the subway station? Which intersections did you stop at? When was the last time you confirmed you were still in possession of your wallet?
+769:I... I can't really remember. I think I went into that stationery shop over there, and then I... I went into the alley next to it...
+771:No... I'm not! I really just...
+772:Um... Why don't we just forget it... If it's going to be this much trouble, I'd rather not look for it...!
+775:Hey, it's okay, this is just how she operates. She's really particular about details, that's all.
+776:Maybe you can tell me what happened instead?
+777:What matters is finding your wallet. Don't worry – we won't tell anyone, I promise.
+778:...! Oh... Okay... Thank you... I understand...
+779:Th-the truth is... Something I ate at breakfast didn't agree with me and I couldn't find a restroom anywhere... That's why I went into that shop – to use their bathroom...
+781:...I see, so that's why you withheld key testimony earlier.
+782:Got it. So, based on your account... we can draw three conclusions.
+784:That's right...!
+786:Um... Wait... That's...
+787:Three: Once you relieved yourself, you were so flustered that all you could think about was getting out of dodge – greatly increasing the odds that you'd leave something behind.
+788:Y-you're absolutely correct! But... please don't repeat any of that... It's so embarrassing I could die!
+789:In conclusion, that shop is the first place we should look! Let's go, {var:player_nickname}! It's time to confirm the facts!
+790:After that, we found the lost wallet on a shelf in the store's restroom as expected.
+791:Thank you so much, Detective Jane! And your kind assistant, too! I never would have gotten it back without your help!
+792:After thanking us profusely, the passerby quickly runs off. Jane and I then resume our stroll down the streets.
+793:Ahem... We made a pretty good team there, {var:player_nickname}.
+795:Or you could adjust your questioning technique...
+796:...Fine, you've made your point.
+797:{var:player_nickname}, your detective skills may still need some work, but when it comes to reading people and understanding feelings, you're a natural!
+798:You were right. The truths I seek... can't be found with cold, hard logical analysis alone. There are times when emotions must also be considered...
+799:Perhaps all this time my mind and judgment have been so rational that I've overlooked the clues that only intuition can unearth... I think you could be key to balancing that out for me.
+800:In any case... you've qualified as my assistant.
+801:From now on, you'll be sticking with me and providing any support you can, got it?
+802:It would be an honor.
+803:I couldn't be happier.
+804:Whew... I know it was just a case of a missing wallet, but I'm surprised someone recognized me on the street.
+805:I guess that interview wasn't a complete disaster after all. My name is already spreading through the city! Hohoho...
+806:What could be so disastrous about an interview...?
+807:Nothing when it comes to a typical interview, but exclusives that reveal too many details of a case risk creating fertile ground for copycat offenders...
+808:There's even an urban legend going around about a thief at large going by the name "D" who's been saying they'd never get caught for a "simple" theft like the ABC case...
+809:A laughable claim... If they ever show their face, we'll show that larcenist just what we're made of!
+810:Bzzz-bzzz...
+812:A spam message, maybe...?
+813:That has to be it. This phone is strictly for receiving assignments, so nobody will be getting in touch with me today.
+814:Hohoho... Meaning my time is all yours today! Quite the honor, wouldn't you say, my dear assistant?
+815:Jane casually takes out her phone and glances at the screen.
+816:Immediately, her smug expression freezes and her gaze tenses.
+817:Jane? What is it?
+818:You don't look so good.
+819:That's... not possible...
+820:...Then, we actually were being watched, and by...?!
+821:Sensing something amiss, I lean over and look at the screen of Jane's phone.
+822:It's a message from an unidentified sender that reads: "The game isn't over yet, little miss detective."
+823:I look at the signature. It's the name from the rumors, the one people shudder at the mere mention of:
+824:"D".
+825:Why so cagey? This is sounding awfully suspicious... Tell me where you went! What were you doing?! Out with it!
+827:I only stopped by a bakery on my way out this morning... then I sat for a bit in this maid cafe on the corner...
+829:Wh-what else...! I-I... Last night, I fell off the wagon and snuck two extra bags of snacks...! A week before that, I littered somewhere no one would see...! And when I was a kid, I accidentally threw a rock through a window pane...
+830:Apart from all that, I'm innocent! Please forgive me!!
+831:I don't think I needed to know quite that much...?
+832:Oh no... I-I'm sorry!
+833:It took Jane and me a while to calm down the shaken stranger. Thankfully, we found the wallet in the end.
+835:I can see this was designed with convenience in mind. Very nice.
+838:But it looks like you're fully prepared, {var:player_nickname}! As a detective, I approve.
+839:Huh? Th-their hair? I'd never thought of that before!
+840:"Exclusive Feature: An Interview with the Genius Girl Detective!"...
+841:Oh? Interesting. Are you scoping out the environment, {var:player_nickname}? Let me see...
+842:For instance... people's eyes dart around when they're lying, walking unsteadily is a sign of staying up too late, and being in Tenpai always gives people a tense look.
+843:You can even use this technique on people who haven't committed a crime?
+844:Of course! Just because it's used in criminal investigations doesn't mean it can't be useful for everyday deduction.
+845:...Yes! That's it! What a play! The Glaciers score another point! Let's see that show of support from everyone watching the livestream!
+846:I see! So, he could be a pet groomer!
+847:What do you think? It's a bit like brainstorming, isn't it?
+848:If that was his suit, this wouldn't be a surprise to him. The only explanation is that he rented it at the last minute, or maybe even borrowed it from a friend.
+849:Well, logic isn't everything in love, is it?
+850:Huh? What's going on? Don't tell me she's actually amused by such a ridiculous scene?
+851:Huh? A b-bust? That's impossible...! All the evidence pointed to – hang on, her microexpression...
+852:W-wait a minute! This doesn't make any sense! It completely defies the logic of criminal profiling! He clearly did everything wrong!
+854:That's incredible! You see, I was walking around nearby when I realized my wallet was missing... Something really important to me was in there... Could you help me look for it?
+855:Now, walk me through everything you were doing before and after you realized your wallet was missing.
+856:Well... I came out of the subway station roughly half an hour ago, and then... I wandered around nearby...
+857:The alley? Why would you go there? What business would you have in a place like that? Are you attempting to conceal something from me...?
+858:There must be more to the story – gently coax out the truth
+859:This story isn't adding up – blow it wide open
+862:The "good cop, bad cop" schtick may be old-fashioned, but it gets the job done. I guess an assistant who understands the common folk really can fill in the gaps that I... uh, don't really care about.
+863:Huh? Is that my phone? I distinctly remember turning all those requests down...
+864:Huh?!! I... I-I-I just... I was just...
+865:Is that really all? What else?!
+869:Th-that's right...! I'm really sorry, but I happened to overhear your conversation before, and... I was sure such a logical mind could only belong to that famous detective!
+870:But then it turned out to be a really niche fan comic store... That's why I couldn't bring myself to say it... It would have been too embarrassing...
+871:One: Your wallet went missing while you were in that store.
+872:Two: Given the urgency of your visit, you went straight to the restroom without stopping anywhere else in the store.
+873:After that, however... a strange rumor started to spread through One Han City about a pint-sized detective and her sinister assistant strong-arming their way through investigations...
+876:Gather clues...?
+879:He comes off like a business executive, but...

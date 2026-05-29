@@ -1,0 +1,1722 @@
+[
+  {
+    "line": 9,
+    "text": "player"
+  },
+  {
+    "line": 535,
+    "text": "I work my way down the list and visit Miki Nikaidou first thing in the morning, but I stumble upon a commotion outside Tenhoukaku..."
+  },
+  {
+    "line": 536,
+    "text": "Citizen A"
+  },
+  {
+    "line": 537,
+    "text": "What do you mean? This jade has been in my family for eighteen generations!"
+  },
+  {
+    "line": 538,
+    "text": "Citizen B"
+  },
+  {
+    "line": 539,
+    "text": "Eighteen generations?! I doubt it has even been eighteen hours since it left the factory! Real mutton-fat jade should have the luster and smoothness of my jade pendant!"
+  },
+  {
+    "line": 540,
+    "text": "Citizen C"
+  },
+  {
+    "line": 541,
+    "text": "Wait, are you serious? If whiteness was all that mattered, I'd be selling the soaps!"
+  },
+  {
+    "line": 542,
+    "text": "I barely manage to push through the crowd and finally find some peace and quiet once I step inside the store."
+  },
+  {
+    "line": 543,
+    "text": "Phew..."
+  },
+  {
+    "line": 544,
+    "text": "Tenhoukaku"
+  },
+  {
+    "line": 545,
+    "text": "Miki Nikaidou"
+  },
+  {
+    "line": 546,
+    "text": "Oh? It's you."
+  },
+  {
+    "line": 547,
+    "text": "If you're here to play some mahjong, let's do it at the shrine tonight. I don't have the time right now."
+  },
+  {
+    "line": 548,
+    "text": "I'm not here for mahjong. Oh, you're busy right now?"
+  },
+  {
+    "line": 549,
+    "text": "I quickly approach Nikaidou, and I notice her twirling a mini spatula and applying something on a maneki-neko statue."
+  },
+  {
+    "line": 550,
+    "text": "Not really. Those guests outside broke Tenhoukaku's threshold and even chipped the ear of the maneki-neko by the entrance. Talk about bad luck."
+  },
+  {
+    "line": 551,
+    "text": "Oh, who are those people out there?"
+  },
+  {
+    "line": 552,
+    "text": "Just a bunch in a hurry to sell their treasures. Leave them to their petty quarrels."
+  },
+  {
+    "line": 553,
+    "text": "You don't plan to let them in to speak with you?"
+  },
+  {
+    "line": 554,
+    "text": "Hehe, the best way to eat salmon is to first place a catfish in its habitat."
+  },
+  {
+    "line": 555,
+    "text": "Why is that?"
+  },
+  {
+    "line": 556,
+    "text": "When two fish compete for survival, the survivor will always be tastier. The same goes for business. Once they're done, only the guest who manages to walk into Tenhoukaku is worthy of negotiations with me."
+  },
+  {
+    "line": 557,
+    "text": "The art of doing business is truly anything but simple..."
+  },
+  {
+    "line": 558,
+    "text": "Anyway, to what do I owe the pleasure today, {var:player_nickname}? Don't tell me you're here to negotiate the sale of jade too? Hehe, if that's the case, the others outside are out of luck."
+  },
+  {
+    "line": 559,
+    "text": "Sigh, if only I had some jade to finish my job..."
+  },
+  {
+    "line": 560,
+    "text": "I tell Miki Nikaidou about yesterday's incident..."
+  },
+  {
+    "line": 561,
+    "text": "Oh my! Sounds like you really went through a lot. Is there any way I can help?"
+  },
+  {
+    "line": 562,
+    "text": "I found some clues at the scene. Could I verify some things with you?"
+  },
+  {
+    "line": 563,
+    "text": "Of course."
+  },
+  {
+    "line": 568,
+    "text": "[Footprint likely from a man]"
+  },
+  {
+    "line": 570,
+    "text": "[VIP Exhibition Invitation List]"
+  },
+  {
+    "line": 572,
+    "text": "[Receipt (Plaster)]"
+  },
+  {
+    "line": 574,
+    "text": "[Vermillion Bird Beak Mask]"
+  },
+  {
+    "line": 575,
+    "text": "Do you recognize this footprint?"
+  },
+  {
+    "line": 576,
+    "text": "Miki Nikaidou glances at the footprint and smiles charmingly."
+  },
+  {
+    "line": 577,
+    "text": "Where did you find this?"
+  },
+  {
+    "line": 578,
+    "text": "At the entrance of Champion Auction House. It was on some wet mud."
+  },
+  {
+    "line": 579,
+    "text": "Pfft! You're really sounding like a detective now. But its size doesn't match my own."
+  },
+  {
+    "line": 580,
+    "text": "I take a close look at Miki Nikaidou's shoes. Sure enough, there's a big difference between them."
+  },
+  {
+    "line": 581,
+    "text": "I guess this clue is unrelated to Miki Nikaidou for now."
+  },
+  {
+    "line": 582,
+    "text": "Did you visit Champion Auction House the day before yesterday?"
+  },
+  {
+    "line": 583,
+    "text": "Since I was invited, it was naturally my honor to attend."
+  },
+  {
+    "line": 584,
+    "text": "That makes sense... This clue doesn't prove anything."
+  },
+  {
+    "line": 585,
+    "text": "Eh? I think I've seen that receipt before."
+  },
+  {
+    "line": 586,
+    "text": "Huh? Please take a closer look. It was found at the scene of the crime."
+  },
+  {
+    "line": 587,
+    "text": "Hmm, this seems to be the receipt for the plaster I got the other day."
+  },
+  {
+    "line": 588,
+    "text": "Miki Nikaidou lifts up the maneki-neko statue beside her. There are signs of wet, freshly-applied plaster on its broken ear."
+  },
+  {
+    "line": 589,
+    "text": "It was in the afternoon, three days ago. I got some flexible plaster from the hardware store..."
+  },
+  {
+    "line": 590,
+    "text": "Everything matches up."
+  },
+  {
+    "line": 591,
+    "text": "Looks like I've figured out the origin and use of [Receipt (Plaster)]..."
+  },
+  {
+    "line": 592,
+    "text": "I must have dropped it when I attended the exhibition."
+  },
+  {
+    "line": 593,
+    "text": "Hint [Receipt (Plaster)] has been resolved"
+  },
+  {
+    "line": 594,
+    "text": "A vermillion mask with a bird's beak... It does sound familiar. I think I saw someone handing out masks like that when I passed by a theater on my way home after the exhibition. But I only caught a glimpse from afar and didn't take one."
+  },
+  {
+    "line": 595,
+    "text": "I don't think I can learn anything useful from this visit."
+  },
+  {
+    "line": 596,
+    "text": "Just as I'm about to bid farewell to Miki Nikaidou, another commotion arises outside."
+  },
+  {
+    "line": 597,
+    "text": "Citizen A"
+  },
+  {
+    "line": 598,
+    "text": "Huh?! Isn't that..."
+  },
+  {
+    "line": 599,
+    "text": "Citizen B"
+  },
+  {
+    "line": 600,
+    "text": "Is she here for the same reason as us? Does anyone know what she intends to sell?"
+  },
+  {
+    "line": 601,
+    "text": "Citizen C"
+  },
+  {
+    "line": 602,
+    "text": "Well, if it's her, it's definitely something worth a fortune. It might even be a unique, museum-level piece! Let's just leave."
+  },
+  {
+    "line": 603,
+    "text": "Creak! The door swings open, and it's... Fuuka Minami?!"
+  },
+  {
+    "line": 604,
+    "text": "I shudder at the thought of my experience in Beryl Blue yesterday. Luckily, it doesn't seem like Miki Nikaidou has a beef with Fuuka Minami."
+  },
+  {
+    "line": 605,
+    "text": "Ms. Minami, what a surprise. Looking for something special today?"
+  },
+  {
+    "line": 606,
+    "text": "Fuuka Minami"
+  },
+  {
+    "line": 607,
+    "text": "I'm here for jade, just not your jade. Let's skip the formalities for now, shall we?"
+  },
+  {
+    "line": 608,
+    "text": "Miss Nikaidou, why did you make a post about purchasing mutton-fat jade for a high price?"
+  },
+  {
+    "line": 609,
+    "text": "Fuuka Minami shows the web page on her phone."
+  },
+  {
+    "line": 610,
+    "text": "Isn't that pretty normal for a gemstone dealer?"
+  },
+  {
+    "line": 611,
+    "text": "Right after you made a post about purchasing mutton-fat jade for a high price, the best mutton-fat jade in the auction house's collection is stolen."
+  },
+  {
+    "line": 612,
+    "text": "Is that a coincidence? Or... a motive?"
+  },
+  {
+    "line": 613,
+    "text": "Fuuka Minami's blunt question catches me off guard. I glance at Miki Nikaidou, but she doesn't seem to mind. In fact, she appears momentarily stunned, then looks up in confusion. Her hedgehog, sensing her change in emotions, scurries down her arm."
+  },
+  {
+    "line": 614,
+    "text": "Heh, Ms. Minami, you sure don't beat around the bush. But, did you say the best mutton-fat jade in the auction house?"
+  },
+  {
+    "line": 615,
+    "text": "Yes, the Heart of Divinity... I'm sure you saw it during the exhibition."
+  },
+  {
+    "line": 616,
+    "text": "Miki Nikaidou looks at me and asks--"
+  },
+  {
+    "line": 618,
+    "text": "Yes."
+  },
+  {
+    "line": 619,
+    "text": "Oh... Then that's right. But the theft has nothing to do with me. {var:player_nickname} questioned me before you arrived."
+  },
+  {
+    "line": 620,
+    "text": "What do you think, {var:player_nickname}?"
+  },
+  {
+    "line": 621,
+    "text": "There's really nothing suspicious about Miki for now, and I was just about to leave too."
+  },
+  {
+    "line": 622,
+    "text": "Is that so? Then I believe you."
+  },
+  {
+    "line": 623,
+    "text": "Of course I believe Ms. Nikaidou is an upright person too. Otherwise, I wouldn't have been so direct."
+  },
+  {
+    "line": 624,
+    "text": "Well, since I'm off the suspect list for now, I wish you the best of luck in cracking the case soon."
+  },
+  {
+    "line": 625,
+    "text": "You can do it, {var:player_nickname}!"
+  },
+  {
+    "line": 626,
+    "text": "I keep having the feeling that there was something strange about Miki Nikaidou's reaction, or am I just overthinking things? I should come back another day for some answers."
+  },
+  {
+    "line": 627,
+    "text": "With Miki Nikaidou's encouragement, Fuuka Minami and I leave Tenhoukaku."
+  },
+  {
+    "line": 628,
+    "text": "At this point, aside from that footprint, I'm out of leads..."
+  },
+  {
+    "line": 629,
+    "text": "The power of belief is your magic!"
+  },
+  {
+    "line": 630,
+    "text": "Why did you suddenly rush over saying that?"
+  },
+  {
+    "line": 631,
+    "text": "Ah! It was a joke. You just looked so disheartened. Bamboo Cloud's employee incentive plan is very advanced, you know?"
+  },
+  {
+    "line": 632,
+    "text": "See? your help has arrived."
+  },
+  {
+    "line": 634,
+    "text": "She pushes up the gold-rimmed glasses on her nose and her ocean-blue eyes glow with intelligence."
+  },
+  {
+    "line": 635,
+    "text": "Hi there, I'm..."
+  },
+  {
+    "line": 636,
+    "text": "Suddenly, light brown hair flutters before my eyes. I look down and see her nose right by my side, sniffing me like a dog..."
+  },
+  {
+    "line": 637,
+    "text": "WHAT THE?!"
+  },
+  {
+    "line": 638,
+    "text": "She stands up straight and adjusts her gold-rimmed glasses."
+  },
+  {
+    "line": 639,
+    "text": "???"
+  },
+  {
+    "line": 640,
+    "text": "Hoho... Marks on your sleeve suggest a recent brush with a crowd. The lingering fragrance on your collar indicates your recent presence in a scented indoor environment. No traces of seasonings or sauces on the fingers or lips... so the indoor environment wasn't a restaurant..."
+  },
+  {
+    "line": 641,
+    "text": "That is all true..."
+  },
+  {
+    "line": 642,
+    "text": "So, you just left Tenhoukaku!"
+  },
+  {
+    "line": 643,
+    "text": "Yeah... Huh?! Wait, isn't that line of reasoning a little too far-fetched?!"
+  },
+  {
+    "line": 644,
+    "text": "Well there's another key clue. Ms. Minami told me to wait for you around Tenhoukaku."
+  },
+  {
+    "line": 645,
+    "text": "Only the last one is an actual clue!"
+  },
+  {
+    "line": 646,
+    "text": "I'm Jane, a detective. It's a pleasure to meet you, and let's work together to solve this case."
+  },
+  {
+    "line": 647,
+    "text": "Sure..."
+  },
+  {
+    "line": 648,
+    "text": "Okay, I'll be waiting for the good news."
+  },
+  {
+    "line": 649,
+    "text": "Once Fuuka Minami leaves, I explain the entire case to Jane..."
+  },
+  {
+    "line": 650,
+    "text": "Jane"
+  },
+  {
+    "line": 651,
+    "text": "Hmm... Can I see those receipts? My detective instincts are telling me that there may be more to it."
+  },
+  {
+    "line": 652,
+    "text": "I've found their owners. Miki Nikaidou, the gem dealer who needed plaster to repair a statue, and Riu Kujou, the maid who needed bandaging after injuring herself during Taekwondo practice."
+  },
+  {
+    "line": 653,
+    "text": "And did you verify this at the hardware store and pharmacy?"
+  },
+  {
+    "line": 654,
+    "text": "Huh? No, I..."
+  },
+  {
+    "line": 655,
+    "text": "I knew it. Rookies..."
+  },
+  {
+    "line": 657,
+    "text": "We must base our deduction on objective truths! Let's go!"
+  },
+  {
+    "line": 658,
+    "text": "Jane and I make the pharmacy our first stop. The owner looks like an honest middle-aged man."
+  },
+  {
+    "line": 659,
+    "text": "Pharmacy"
+  },
+  {
+    "line": 660,
+    "text": "Could you verify if this receipt came from your pharmacy?"
+  },
+  {
+    "line": 661,
+    "text": "Pharmacy Owner"
+  },
+  {
+    "line": 662,
+    "text": "Let me take a look... Yes, it's one of ours."
+  },
+  {
+    "line": 663,
+    "text": "Do you remember the customer who made this purchase?"
+  },
+  {
+    "line": 665,
+    "text": "Unexpectedly, the owner is quite the talker, so I quickly interject with a question."
+  },
+  {
+    "line": 666,
+    "text": "Could you describe them to us?"
+  },
+  {
+    "line": 667,
+    "text": "Hmm... I'll need a moment... I remember the two young ladies came together. One was a redhead, and the other a blonde. Both of them were really beautiful, like dolls, you know? But... They didn't have the best temper. They told me to shut up while I was still talking. Sigh, the young ladies these days..."
+  },
+  {
+    "line": 668,
+    "text": "All right! I get it! I mean, I understand. What about the other customer?"
+  },
+  {
+    "line": 670,
+    "text": "Sorry, but we can't. Thank you for your time."
+  },
+  {
+    "line": 671,
+    "text": "Jane pulls me out of the pharmacy, and both of us heave sighs of relief. The owner was really too... \"friendly.\""
+  },
+  {
+    "line": 672,
+    "text": "Next stop, the hardware store."
+  },
+  {
+    "line": 673,
+    "text": "Our investigation at the hardware store isn't going as smoothly as we'd hoped... The owner, a young and delightful woman, agrees to help us, only to drop some bad news on us."
+  },
+  {
+    "line": 675,
+    "text": "So, you're saying that besides a woman in purple, you don't remember anything else that occurred that day?"
+  },
+  {
+    "line": 677,
+    "text": "I know it sounds unbelievable, but I probably fell into a rift in space that day, and when I finally regained my senses, all I saw was a pile of Coppers on the counter."
+  },
+  {
+    "line": 678,
+    "text": "How did that happen?! Show me!"
+  },
+  {
+    "line": 679,
+    "text": "Oh, this spot behind the counter is where I suddenly saw the Milky Way. I was just about to make a submission to Far Away Science, too..."
+  },
+  {
+    "line": 680,
+    "text": "When you heard about the jade theft, your raised eyebrows, open mouth, and look of surprise suggested you knew nothing about it. When asked about the incident, your eyes shifted up and to the left, showing you were genuinely trying to remember. But even when you told that blatant lie about the spatial rift, your expression didn't change at all..."
+  },
+  {
+    "line": 681,
+    "text": "Ugh! What a formidable opponent! Have you studied microexpressions, too?!"
+  },
+  {
+    "line": 682,
+    "text": "Huh? Mango espresso?"
+  },
+  {
+    "line": 683,
+    "text": "Oh, there's a surveillance camera on the wall!"
+  },
+  {
+    "line": 684,
+    "text": "After being reminded, the hardware store owner pulls up the surveillance footage on her computer, and we rewind it to the exact time on the receipt..."
+  },
+  {
+    "line": 686,
+    "text": "Right, that's the show. My memories are frozen at the moment the male lead was asking the female lead what makes him inferior to the second male lead!"
+  },
+  {
+    "line": 687,
+    "text": "Jane and I remain quiet and continue watching. Meanwhile, a woman in purple walks in with a drink, and she has a hedgehog on her shoulder."
+  },
+  {
+    "line": 688,
+    "text": "Hmm, it is Miki Nikaidou."
+  },
+  {
+    "line": 690,
+    "text": "I think I know what happened now..."
+  },
+  {
+    "line": 691,
+    "text": "Miki Nikaidou leaves after paying her bill, and the hardware store owner collapses on the counter soon after."
+  },
+  {
+    "line": 692,
+    "text": "I see. Now it all makes sense."
+  },
+  {
+    "line": 693,
+    "text": "What do you mean?! That just makes Ms. Nikaidou a bigger suspect!"
+  },
+  {
+    "line": 694,
+    "text": "Well... You'd understand if you got to know her a little better... Forget it, let's continue."
+  },
+  {
+    "line": 695,
+    "text": "Jane and I continue watching the footage. A short while later, aside from a man in a jacket who left Coppers on the counter after getting some flexible plaster, no one else visited the hardware store."
+  },
+  {
+    "line": 696,
+    "text": "As for the owner herself, she didn't wake up until nightfall..."
+  },
+  {
+    "line": 697,
+    "text": "Oh, so I fell asleep after accidentally drinking that special drink... Anyway, thank you. You're truly amazing detectives!"
+  },
+  {
+    "line": 698,
+    "text": "I guiltily say goodbye to the hardware store owner, careful not to mention that I know the woman who allowed her to \"enter the Milky Way...\""
+  },
+  {
+    "line": 699,
+    "text": "Jane and I stroll through Champion Street, but I feel slightly disheartened."
+  },
+  {
+    "line": 701,
+    "text": "Riu Kujou and Miki Nikaidou weren't lying, and I don't have any new clues."
+  },
+  {
+    "line": 702,
+    "text": "Hohoho... Facts are the keys to unlocking the truth, and there's usually more than one key!"
+  },
+  {
+    "line": 703,
+    "text": "That's true. We still have the footprint... But how do we investigate that?"
+  },
+  {
+    "line": 704,
+    "text": "No! Not that! I'm talking about something else. Besides Ms. Nikaidou and Ms. Kujou, we discovered that others had purchased plaster and bandages too, right?"
+  },
+  {
+    "line": 705,
+    "text": "The masked man at the pharmacy and the man in a jacket at the hardware store? Well... What's unusual about that?"
+  },
+  {
+    "line": 706,
+    "text": "In the surveillance footage, the man in a jacket had something in his pocket... So, what if they are actually the same person, and he just took off his baseball cap and mask and put them in his pocket when he went to the hardware store?"
+  },
+  {
+    "line": 707,
+    "text": "That's definitely possible!"
+  },
+  {
+    "line": 708,
+    "text": "And what kind of person would need plaster and bandages at the same time?"
+  },
+  {
+    "line": 709,
+    "text": "Suddenly, I have an epiphany."
+  },
+  {
+    "line": 710,
+    "text": "Someone with broken bones?"
+  },
+  {
+    "line": 711,
+    "text": "Someone with broken bones, has visited the auction house, and has the opportunity to access the masks handed out by the nearby theater..."
+  },
+  {
+    "line": 712,
+    "text": "Ms. Ume mentioned--\"There was another male employee, Toku, but he injured his leg a few days ago and has been on leave this week.\""
+  },
+  {
+    "line": 713,
+    "text": "Hoho, it seems you do have the talent to be a detective."
+  },
+  {
+    "line": 714,
+    "text": "Let's go!"
+  },
+  {
+    "line": 715,
+    "text": "Dorm Manager"
+  },
+  {
+    "line": 716,
+    "text": "Oh, Toku? He went out yesterday morning. No idea what he was up to, but when he got back, he locked himself in. Said he hurt his leg, so I ended up bringing him food all day."
+  },
+  {
+    "line": 718,
+    "text": "But Ms. Ume just came and took him away with a serious look... Sigh, I wonder what he did."
+  },
+  {
+    "line": 719,
+    "text": "Was he really injured?"
+  },
+  {
+    "line": 721,
+    "text": "Speaking of which, Wang returned right after Toku. He mentioned running into Toku on the way, but Toku seemed distracted and completely ignored him."
+  },
+  {
+    "line": 722,
+    "text": "If you ask me, I think Toku was dejected. Taking time off due to an injury at this time of the year means he'll lose the triple pay before the anniversary celebration..."
+  },
+  {
+    "line": 723,
+    "text": "I look around but fail to locate any surveillance cameras in the dorm, so we ask the dorm manager if she would allow us into Toku's room."
+  },
+  {
+    "line": 724,
+    "text": "The boss sent you to investigate, so there's no need to be so polite. I'll lead the way."
+  },
+  {
+    "line": 725,
+    "text": "The manager unlocks Toku's room for us. Jane and I immediately start searching the moderately-sized room."
+  },
+  {
+    "line": 728,
+    "text": "A pair of muddy shoes. The size and soles of these shoes are a perfect match for the footprints found at the auction house! Important evidence found!"
+  },
+  {
+    "line": 734,
+    "text": "Toku's employee badge. It does nothing beyond proving Toku's identity. But the small print on it does indicate that it should be worn at all times during work hours. It seems Ms. Ume didn't take him away for work."
+  },
+  {
+    "line": 735,
+    "text": "The masked thief from yesterday has to be Toku!"
+  },
+  {
+    "line": 736,
+    "text": "Now, it's time for our thrilling combos!"
+  },
+  {
+    "line": 737,
+    "text": "Jane and I rush back to the auction house with the results of our deduction. If everything goes as planned, my work as a detective should be over soon! Oddly enough, I feel a bit reluctant at the thought."
+  },
+  {
+    "line": 738,
+    "text": "Champion Auction House"
+  },
+  {
+    "line": 739,
+    "text": "Hmm... Unexpected witnesses have appeared."
+  },
+  {
+    "line": 740,
+    "text": "Welcome back, \"detectives.\""
+  },
+  {
+    "line": 741,
+    "text": "Qing Luan"
+  },
+  {
+    "line": 742,
+    "text": "We meet again."
+  },
+  {
+    "line": 743,
+    "text": "It looks like the supervisor I hired is quite the charmer. Just a few visits made so many distinguished guests pop up at my door."
+  },
+  {
+    "line": 744,
+    "text": "Wait! What's going on?! Ms. Ume, save me!"
+  },
+  {
+    "line": 745,
+    "text": "Ume"
+  },
+  {
+    "line": 746,
+    "text": "For employee salary concerns, please transfer the call to Take. For employee safety concerns, please transfer the call to Kiku. For collaborations with Bamboo Cloud, please transfer the call to Ran."
+  },
+  {
+    "line": 747,
+    "text": "End conversation!"
+  },
+  {
+    "line": 748,
+    "text": "These past two days as a detective trained me to always observe my surroundings. I see Aoi, Qing Luan, Miki Nikaidou, Fuuka Minami, Ms. Ume who's feigning ignorance, and a man with a leg cast who looks just like Toku. At this moment, all of them are standing before a display cabinet..."
+  },
+  {
+    "line": 749,
+    "text": "It seems the truth is almost upon us?"
+  },
+  {
+    "line": 750,
+    "text": "If our deduction is correct, the criminal is among us."
+  },
+  {
+    "line": 751,
+    "text": "May I know what Qing Luan and Nikaidou are doing here?"
+  },
+  {
+    "line": 752,
+    "text": "Report to Fuuka Minami."
+  },
+  {
+    "line": 753,
+    "text": "There are still some things that I need to verify, but..."
+  },
+  {
+    "line": 754,
+    "text": "These two's presence here doesn't make any sense!"
+  },
+  {
+    "line": 755,
+    "text": "May I know what you two are doing here? Based on our investigation, both of you should be unrelated to the case."
+  },
+  {
+    "line": 756,
+    "text": "Destined encounters happen all the time."
+  },
+  {
+    "line": 757,
+    "text": "Haha. Before that, why don't you tell us what you've discovered? It's closely related to the reason for my visit after all."
+  },
+  {
+    "line": 758,
+    "text": "We've made some progress, but... I would like to borrow the auction house to verify a few things."
+  },
+  {
+    "line": 759,
+    "text": "Go ahead. I'm really looking forward to it."
+  },
+  {
+    "line": 760,
+    "text": "Jane and I turn our gazes to Toku."
+  },
+  {
+    "line": 761,
+    "text": "You faked your injury to create an alibi for the crime, didn't you? Toku!"
+  },
+  {
+    "line": 762,
+    "text": "Toku"
+  },
+  {
+    "line": 763,
+    "text": "That's a lie! D-Do you have any proof?"
+  },
+  {
+    "line": 784,
+    "text": "Yes, I did purchase those things. But doesn't that just prove I'm injured?"
+  },
+  {
+    "line": 785,
+    "text": "Wait, let me think..."
+  },
+  {
+    "line": 786,
+    "text": "Wait! The receipts could have been left behind by Ms. Nikaidou or Ms. Kujou. They cannot prove anything when presented alone. We better be thorough and select all relevant clues."
+  },
+  {
+    "line": 787,
+    "text": "Toku"
+  },
+  {
+    "line": 788,
+    "text": "Tsk, what does that have to do with the evidence? How is it even linked to the case?"
+  },
+  {
+    "line": 789,
+    "text": "Calm down and think. What is the sign of an injured person?"
+  },
+  {
+    "line": 790,
+    "text": "If you really took time off due to an injury, how do you explain the presence of these things at the scene of the crime?"
+  },
+  {
+    "line": 800,
+    "text": "Fine... I did come here yesterday morning to have a look. I was worried Aoi wouldn't be able to handle all the guests coming to see the items while I was recovering, so I endured my pain and came here! Doesn't that just prove I'm a good employee?!"
+  },
+  {
+    "line": 801,
+    "text": "Boss, is this detective of yours even licensed?"
+  },
+  {
+    "line": 802,
+    "text": "Give me a moment, boss! Let me think!"
+  },
+  {
+    "line": 804,
+    "text": "I see you're determined to deny everything. Are you really going to force my \"leg?\""
+  },
+  {
+    "line": 805,
+    "text": "I give his uninjured leg a lightning-fast kick. Toku leaps into the air with his \"injured\" leg and instantly performs a medical miracle!"
+  },
+  {
+    "line": 806,
+    "text": "Immediately getting what I'm up to, Jane dashes forward and tears off the bandages to reveal a completely uninjured leg."
+  },
+  {
+    "line": 807,
+    "text": "Silence fills the air. Suddenly, Toku drops to the ground and starts pretending to wail while pulling on the hem of Fuuka Minami's dress."
+  },
+  {
+    "line": 808,
+    "text": "I'm sorry, boss! I faked my injury because I didn't want to work! But I had nothing to do with the robbery!"
+  },
+  {
+    "line": 809,
+    "text": "Based on the footprints we discovered at the scene, by the process of elimination, you're the only suspect who could have been at the auction house during the time of the robbery!"
+  },
+  {
+    "line": 810,
+    "text": "What if the thief flew off in a helicopter? What if they used someone else's footprints? What if... they left with a bamboo-copter?! You don't have anything that can directly link me to the crime!"
+  },
+  {
+    "line": 811,
+    "text": "That's just a load of nonsense!"
+  },
+  {
+    "line": 812,
+    "text": "Jane paces back and forth while muttering something."
+  },
+  {
+    "line": 813,
+    "text": "No, that's not it. Something tells me we've missed something, and it's among these clues..."
+  },
+  {
+    "line": 814,
+    "text": "I recall every aspect of the case as I consider which piece of evidence still required further investigation."
+  },
+  {
+    "line": 819,
+    "text": "There's nothing special about these clues. Bringing them up for questioning again will only make Fuuka Minami think I'm an amateur."
+  },
+  {
+    "line": 820,
+    "text": "Right! The footprints! They were leading out into the street from the auction house. But if Toku came and left yesterday, he should have left two sets of footprints behind! One when he arrived, and the other when he left!"
+  },
+  {
+    "line": 821,
+    "text": "So why was there only a single set of footprints leading outward?"
+  },
+  {
+    "line": 822,
+    "text": "It means... The thief was already in the auction house, and at least before the storm on the night before yesterday!"
+  },
+  {
+    "line": 823,
+    "text": "Jane squats before Toku and looks him straight in the eyes, causing him to panic."
+  },
+  {
+    "line": 824,
+    "text": "No, I didn't! It's a fake footprint! You planted it there!"
+  },
+  {
+    "line": 825,
+    "text": "We've almost gathered all the keys to unlock the truth."
+  },
+  {
+    "line": 827,
+    "text": "But why didn't we think of this before?"
+  },
+  {
+    "line": 828,
+    "text": "I think someone's testimony deliberately led us in the wrong direction. Think about it, whose testimony conflicts with this fact?"
+  },
+  {
+    "line": 837,
+    "text": "It's Fuuka Minami!"
+  },
+  {
+    "line": 838,
+    "text": "Ume! Capture {var:player_nickname} for me!"
+  },
+  {
+    "line": 839,
+    "text": "Wait, boss! I was just livening up the atmosphere!"
+  },
+  {
+    "line": 840,
+    "text": "It's Jane!"
+  },
+  {
+    "line": 841,
+    "text": "Are you even listening to yourself right now?"
+  },
+  {
+    "line": 842,
+    "text": "Familiarity with various crimes, the skill to cover up traces of a crime, and the ability to give an incorrect testimony and lead the investigation in the wrong direction..."
+  },
+  {
+    "line": 843,
+    "text": "Jane ticks all the boxes!"
+  },
+  {
+    "line": 845,
+    "text": "This is a serious matter. Stop playing around."
+  },
+  {
+    "line": 846,
+    "text": "Sorry!"
+  },
+  {
+    "line": 847,
+    "text": "It's Qing Luan!"
+  },
+  {
+    "line": 848,
+    "text": "I can reiterate everything I know, if that's what you need..."
+  },
+  {
+    "line": 849,
+    "text": "Well, according to what I heard from you, Ms. Qing Luan's testimony doesn't conflict with the existing evidence. You should give it more thought."
+  },
+  {
+    "line": 850,
+    "text": "It's Miki Nikaidou!"
+  },
+  {
+    "line": 851,
+    "text": "Huh? Your boss doesn't look very happy. This isn't the time for jokes."
+  },
+  {
+    "line": 852,
+    "text": "Well, according to what I heard from you, Ms. Nikaidou's testimony doesn't conflict with the existing evidence. You should give it more thought."
+  },
+  {
+    "line": 853,
+    "text": "It's Chiori Mikami and Riu Kujou!"
+  },
+  {
+    "line": 854,
+    "text": "Hey! They may not be here, but you can't just slander them! Now think again!"
+  },
+  {
+    "line": 855,
+    "text": "It's Aoi!"
+  },
+  {
+    "line": 856,
+    "text": "Aoi stated she was alone at night the day before yesterday, but Toku was here too... So, were they both in on it?"
+  },
+  {
+    "line": 857,
+    "text": "Aoi"
+  },
+  {
+    "line": 858,
+    "text": "That's slander!"
+  },
+  {
+    "line": 859,
+    "text": "Hmm... We cannot rule out the possibility that Toku was hiding, which led Aoi to mistakenly believe she was alone that night."
+  },
+  {
+    "line": 860,
+    "text": "Suddenly, Fuuka Minami walks over to Aoi with a commanding presence, lifting Aoi's chin with her folding fan to reveal her pale face."
+  },
+  {
+    "line": 861,
+    "text": "I was there when you gave your testimony."
+  },
+  {
+    "line": 862,
+    "text": "Yes, boss..."
+  },
+  {
+    "line": 863,
+    "text": "You said Ms. Ume saved you, right?"
+  },
+  {
+    "line": 864,
+    "text": "That's right. I've been at Bamboo Cloud since I was twelve, so I would never betray..."
+  },
+  {
+    "line": 865,
+    "text": "Unexpectedly, Fuuka Minami walks over to Toku while Aoi is speaking and signals the bodyguards to stomp on Toku's hand."
+  },
+  {
+    "line": 866,
+    "text": "AHHHH!!!"
+  },
+  {
+    "line": 867,
+    "text": "Toku!"
+  },
+  {
+    "line": 868,
+    "text": "Hehe, it was Bamboo Cloud that saved you, not him, so relax."
+  },
+  {
+    "line": 869,
+    "text": "You're right..."
+  },
+  {
+    "line": 870,
+    "text": "Okay, I'll give you a chance to call the police. The facts are clear. Just tell them you caught a colleague stealing the priceless Heart of Divinity, and I'm sure they'll be here in no time."
+  },
+  {
+    "line": 871,
+    "text": "Here's the phone."
+  },
+  {
+    "line": 872,
+    "text": "Aoi accepts the phone with shaky hands."
+  },
+  {
+    "line": 873,
+    "text": "Oh! Right! If we let the police handle the theft of something this valuable, the jail time will probably start at fifteen years. But you'll be making a great contribution, Aoi."
+  },
+  {
+    "line": 874,
+    "text": "Fifteen years?!"
+  },
+  {
+    "line": 875,
+    "text": "Hmph! Nice try. I don't get scared that easily."
+  },
+  {
+    "line": 876,
+    "text": "An inside job, armed robbery... The combined sentence may even exceed fifteen years."
+  },
+  {
+    "line": 877,
+    "text": "Oh, and because he's being reported, he won't have the chance to turn himself in and get a reduced sentence. Bamboo Cloud will never hire someone convicted of an inside job. Thirty years from now, when Bamboo Cloud's businesses have spread throughout One Han City, I can only wonder where he'll make a living!"
+  },
+  {
+    "line": 878,
+    "text": "Aoi starts crying and goes to Toku."
+  },
+  {
+    "line": 879,
+    "text": "Toku, just return the jade..."
+  },
+  {
+    "line": 880,
+    "text": "What are you saying?! I don't know you!"
+  },
+  {
+    "line": 881,
+    "text": "Toku, Aoi's neck is completely unscathed."
+  },
+  {
+    "line": 882,
+    "text": "So?"
+  },
+  {
+    "line": 884,
+    "text": "I..."
+  },
+  {
+    "line": 885,
+    "text": "Toku turns ashen. He hesitates to speak but ends up looking down in silence."
+  },
+  {
+    "line": 886,
+    "text": "Some investigations are definitely best handled by you alone! It's truly frightening!"
+  },
+  {
+    "line": 887,
+    "text": "Ume mutters to herself as she starts recording on her phone."
+  },
+  {
+    "line": 888,
+    "text": "\"The proposal for the removal of the employee safety hotline has been retracted. Although it hasn't been used throughout the years, it's necessary under special circumstances. To be sent to Take.\""
+  },
+  {
+    "line": 889,
+    "text": "Once the case is solved, Bamboo Cloud will compensate you with double the medical expenses..."
+  },
+  {
+    "line": 890,
+    "text": "I rub my neck. Well, if I had to say so, this brush with death was quite worth it since it became a key piece of evidence against the suspect's defense."
+  },
+  {
+    "line": 891,
+    "text": "Now that I think about it, they probably carefully planned to make you the eyewitness of the robbery, as it would excuse them from employee negligence and keep them from being suspected of doing an inside job."
+  },
+  {
+    "line": 892,
+    "text": "So I was part of their plans..."
+  },
+  {
+    "line": 893,
+    "text": "It's quite an interesting turn of events, even in my career as a detective! But why did they specifically target you? And how did they know when you would be eating there?"
+  },
+  {
+    "line": 894,
+    "text": "I don't think that was part of their plan. Their performance was for all the guests on the second floor of Bamboo Inn..."
+  },
+  {
+    "line": 895,
+    "text": "After saying that, I cast a guilty glance at Ume. Noticing her remain completely composed, I brace myself and continue."
+  },
+  {
+    "line": 896,
+    "text": "However, due to certain reasons, I was the only guest present on the second floor that morning. So, their performance didn't go as planned..."
+  },
+  {
+    "line": 897,
+    "text": "Ume's brows twitch a little, and I take a moment to pray in silence for Bamboo Inn."
+  },
+  {
+    "line": 898,
+    "text": "Everything is clear now. Hand over the Heart of Divinity."
+  },
+  {
+    "line": 899,
+    "text": "I personally have no interest in getting the police involved, though that doesn't mean Bamboo Cloud's retaliation and punishment will be less severe than jail time."
+  },
+  {
+    "line": 900,
+    "text": "Toku is already restrained by the bodyguards, but he still refuses to give in and shouts at the top of his lungs."
+  },
+  {
+    "line": 901,
+    "text": "The Heart of Divinity has always belonged to Northland! We're simply returning it to its rightful owner!"
+  },
+  {
+    "line": 902,
+    "text": "Northland? Its rightful owner?"
+  },
+  {
+    "line": 904,
+    "text": "It looks familiar... But where have I seen it before? As I try to place it, my detective instincts from the last two days kick in, and I instinctively snap a photo to keep it as a clue."
+  },
+  {
+    "line": 905,
+    "text": "Before I can figure that out, Fuuka Minami suddenly orders the bodyguards to search Aoi and Toku, but they find nothing."
+  },
+  {
+    "line": 906,
+    "text": "Toku, where did you hide the jade?"
+  },
+  {
+    "line": 907,
+    "text": "Northland gave birth to us and raised us. Rilla, we can't repay it like this!"
+  },
+  {
+    "line": 908,
+    "text": "Looks like we won't be getting anything from our thieves. Hoho... Where could he have hidden the Heart of Divinity?"
+  },
+  {
+    "line": 909,
+    "text": "We searched Toku's dorm room earlier, but there was no trace of the jade. Could he have passed it to another accomplice?"
+  },
+  {
+    "line": 910,
+    "text": "According to the dorm manager, Toku never left after returning yesterday, not until Ms. Ume brought him here. If he did pass it to someone else, the only possibility is he did it on his way back from the auction house to the dorm."
+  },
+  {
+    "line": 911,
+    "text": "Oh! Then Wang's testimony will be very important!"
+  },
+  {
+    "line": 912,
+    "text": "Wang? The one who's very close to Toku? I know who that is."
+  },
+  {
+    "line": 913,
+    "text": "Jane snaps her fingers and gives me a thumbs-up."
+  },
+  {
+    "line": 914,
+    "text": "Right! Wang saw Toku returning to the dorm. Maybe he has some clues for us! Ms. Ume, we're counting on you!"
+  },
+  {
+    "line": 916,
+    "text": "Wang (Phone)"
+  },
+  {
+    "line": 917,
+    "text": "Yesterday morning, I went to Bamboo Cloud to grab a limited roast goose. But I was in such a hurry that I ran into someone near the auction house and made him drop his roast goose. So, I agreed to buy him another one."
+  },
+  {
+    "line": 918,
+    "text": "Roast goose? That makes me hungry... Sorry, please continue."
+  },
+  {
+    "line": 919,
+    "text": "Start from the point that's relevant to the case."
+  },
+  {
+    "line": 920,
+    "text": "It's relevant... At least it will be in a moment. When I returned to the auction house with the roast geese, that person I ran into was gone."
+  },
+  {
+    "line": 921,
+    "text": "I waited and waited outside the auction house, but that person never came back. It was then that I caught Toku rushing out of the auction house. At that time, I wondered--wasn't he supposed to be on leave because of his injury? What's he doing here? Talk about dedication... Oh, Ms. Ume, don't get me wrong. We should all be as dedicated to our work as we are to Bamboo Cloud's roast geese!"
+  },
+  {
+    "line": 922,
+    "text": "Get to the point."
+  },
+  {
+    "line": 923,
+    "text": "Okay, okay. So I asked him what he was doing there, but he just ignored me."
+  },
+  {
+    "line": 924,
+    "text": "Something felt off about him, so I followed him out of concern for his well-being. But he went straight for the dorm and shut himself in his room, refusing to open up no matter how hard I banged on his door. Well, since I had roast goose to enjoy, I returned to my room soon after."
+  },
+  {
+    "line": 925,
+    "text": "Ms. Ume, let me be clear. I only saw him go straight for the dorm, and then I went to enjoy my roast goose. He didn't say anything to me!"
+  },
+  {
+    "line": 926,
+    "text": "Once the call ends, we do our best to extract the valuable information within Wang's roast geese story."
+  },
+  {
+    "line": 927,
+    "text": "According to Wang's testimony, Toku didn't make any stops on his way back from the auction house to the dorm, nor did he have any opportunities to hide the Heart of Divinity somewhere else."
+  },
+  {
+    "line": 928,
+    "text": "And based on the dorm manager's testimony, we know Toku didn't leave or make contact with anyone upon his return. So, he couldn't have moved the Heart of Divinity as well."
+  },
+  {
+    "line": 929,
+    "text": "Now, after searching Toku and Aoi on the spot, we've still failed to locate the Heart of Divinity. So..."
+  },
+  {
+    "line": 930,
+    "text": "The most likely answer is that it's hidden within the auction house itself!"
+  },
+  {
+    "line": 931,
+    "text": "Fuuka Minami agrees with our deduction and sends Ume to organize a search of the exhibition area. Meanwhile, she leads Jane and me to search the employee lounge while the others remain on the spot in the \"company\" of the bodyguards."
+  },
+  {
+    "line": 933,
+    "text": "Church Miracles, Detective Konan, Employee Rules..."
+  },
+  {
+    "line": 934,
+    "text": "Huh? There's a watermark on the table's corner... *sniffing* It smells like ordinary tap water."
+  },
+  {
+    "line": 935,
+    "text": "All the drawers are locked."
+  },
+  {
+    "line": 937,
+    "text": "Hmm... They are indeed ordinary drawers that require keys. There aren't any codes to decipher."
+  },
+  {
+    "line": 938,
+    "text": "You've played too many detective games, haven't you?!"
+  },
+  {
+    "line": 939,
+    "text": "I look at Fuuka Minami upon noticing something under the quilt."
+  },
+  {
+    "line": 940,
+    "text": "Lift it up."
+  },
+  {
+    "line": 941,
+    "text": "I lift the quilt to find a--teddy bear. Nothing about it stands out to me."
+  },
+  {
+    "line": 942,
+    "text": "The pillow feels hard. I think something's in there!"
+  },
+  {
+    "line": 944,
+    "text": "Hmm, there's only an ice cube in the freezer..."
+  },
+  {
+    "line": 947,
+    "text": "That's it!"
+  },
+  {
+    "line": 948,
+    "text": "After flipping through all the books on the table, I've learned 100 hauntings in the church and 999 ways to kill in One Han City!"
+  },
+  {
+    "line": 949,
+    "text": "Books may contain a wealth of knowledge, but I doubt they hold any mutton-fat jade."
+  },
+  {
+    "line": 950,
+    "text": "(whisper) This is bad! The furrowed brows and narrowed eyes--those are micro-expressions of anger!"
+  },
+  {
+    "line": 951,
+    "text": "I think it's gone beyond micro-expressions... Sorry, boss! I'll get back to searching right away!"
+  },
+  {
+    "line": 952,
+    "text": "Upon receiving Fuuka Minami's approval, Jane and I break open the drawer to find a photograph of an employee couple--Toku and Aoi."
+  },
+  {
+    "line": 953,
+    "text": "Jane and I exchange glances. It's exactly the same as the photograph we found in Toku's room. Toku clearly tore off the other half in order to protect Aoi."
+  },
+  {
+    "line": 954,
+    "text": "Underneath the photo is an employment contract. I glance at the last line and see Aoi's pay... It's so low. I sort of understand why she stole the Heart of Divinity now!"
+  },
+  {
+    "line": 955,
+    "text": "(whisper) I don't think we should be seeing that. Let's just hurry up and look for the Heart of Divinity..."
+  },
+  {
+    "line": 956,
+    "text": "I tear open the hard, suspicious pillow, and pieces of weaved bamboo fall out from within..."
+  },
+  {
+    "line": 957,
+    "text": "Well... Boss, do you think Aoi and Toku thought weaved bamboo was precious, so they hid them in here?"
+  },
+  {
+    "line": 958,
+    "text": "Are you out of your mind?!"
+  },
+  {
+    "line": 959,
+    "text": "That's a bamboo pillow with spine support specially made for Bamboo Cloud's employees..."
+  },
+  {
+    "line": 960,
+    "text": "Destruction of company property. I'll be taking it out of your salary."
+  },
+  {
+    "line": 961,
+    "text": "All that hard work for nothing..."
+  },
+  {
+    "line": 962,
+    "text": "The ice cube seems translucent, but I think there's something in there."
+  },
+  {
+    "line": 963,
+    "text": "I smash it apart. The Heart of Divinity! I knew it was in there!"
+  },
+  {
+    "line": 965,
+    "text": "My first go at being a detective feels pretty good!"
+  },
+  {
+    "line": 966,
+    "text": "Just as relief washes over me for a job well done, Miki Nikaidou puts on a pair of gloves and sighs while touching the Heart of Divinity."
+  },
+  {
+    "line": 967,
+    "text": "I couldn't see clearly through the glass that day, but this confirms my suspicions..."
+  },
+  {
+    "line": 968,
+    "text": "It's a forgery..."
+  },
+  {
+    "line": 969,
+    "text": "A forgery?!"
+  },
+  {
+    "line": 971,
+    "text": "So, isn't it time you two explain what you're doing here?"
+  },
+  {
+    "line": 972,
+    "text": "I have nothing to say."
+  },
+  {
+    "line": 973,
+    "text": "Qing Luan refuses to answer and intends to leave, but Fuuka Minami locks the lounge's exit."
+  },
+  {
+    "line": 974,
+    "text": "If you aren't the culprits, then what are you doing here?"
+  },
+  {
+    "line": 975,
+    "text": "Fuuka Minami sneers at Qing Luan."
+  },
+  {
+    "line": 976,
+    "text": "Are you here to make fun of me and Bamboo Cloud?"
+  },
+  {
+    "line": 977,
+    "text": "Fuuka Minami rests against the seat and gently fans herself. She clearly has no intention of letting them leave without explaining themselves."
+  },
+  {
+    "line": 978,
+    "text": "Then I'll go first."
+  },
+  {
+    "line": 979,
+    "text": "This morning, you visited Tenhoukaku with {var:player_nickname} to ask me about the exhibition as you suspected that one of the guests at the exhibition was behind the Heart of Divinity's theft, right?"
+  },
+  {
+    "line": 980,
+    "text": "Although I haven't laid eyes on the real Heart of Divinity, during the exhibition, I had a feeling its quality wasn't up to my expectations."
+  },
+  {
+    "line": 981,
+    "text": "I know how picky you are, and something of that quality isn't worthy of being at the center of Bamboo Cloud Auction House. So, if what we saw that day was a forgery, then the real Heart of Divinity should have been stolen long before that..."
+  },
+  {
+    "line": 982,
+    "text": "I came to share my findings because I was worried our little detective would be investigating in the wrong direction. Hehe."
+  },
+  {
+    "line": 983,
+    "text": "Oh, thank you for being so concerned about my supervisor. So, what about you? Qing Luan?"
+  },
+  {
+    "line": 984,
+    "text": "My reason... is really simple too."
+  },
+  {
+    "line": 985,
+    "text": "During the exhibition, though the jade seemed smooth and shiny, upon careful observation, it was quite rough. Obviously, it was a forgery. However, I expected it to be part of your strategy to protect the real item and ensure the auction goes smoothly... After all, businesspeople are known for their resourcefulness."
+  },
+  {
+    "line": 986,
+    "text": "But your visit to Beryl Blue yesterday made me realize that I'd misunderstood, so I came to verify if the jade stolen yesterday was the authentic piece or a forgery."
+  },
+  {
+    "line": 987,
+    "text": "The Heart of Divinity was crafted from a piece of priceless jade that is said to have been inlaid on a royal chalice in Northland and passed down for centuries. It would be a shame if the real piece was stolen."
+  },
+  {
+    "line": 988,
+    "text": "Heh... Don't worry, nothing like that would ever happen in my territory."
+  },
+  {
+    "line": 989,
+    "text": "Fuuka Minami asks Qing Luan and Miki Nikaidou to leave after hearing their explanations. Jane and I think they are innocent too."
+  },
+  {
+    "line": 990,
+    "text": "So, someone else must have switched the jade, and the real Heart of Divinity is in that person's hands!"
+  },
+  {
+    "line": 991,
+    "text": "But we've run out of clues..."
+  },
+  {
+    "line": 992,
+    "text": "Haha, how interesting... And here I thought they were connected to this incident... I didn't expect more and more people would dare to play such tricks right under my nose..."
+  },
+  {
+    "line": 993,
+    "text": "Although Fuuka Minami is smiling, it's a smile that instills fear."
+  },
+  {
+    "line": 994,
+    "text": "Detectives, please head home and organize your findings. Perhaps you'll discover something you've missed."
+  },
+  {
+    "line": 996,
+    "text": "Ask Miki Nikaidou"
+  },
+  {
+    "line": 997,
+    "text": "Which hint might be related to Miki Nikaidou?"
+  },
+  {
+    "line": 1001,
+    "text": "Were you asking about the morning of the day before yesterday?"
+  },
+  {
+    "line": 1002,
+    "text": "Oh, the other customer? They wore a flat cap and a mask, so I don't know where to start... Oh? The way you're asking about them... Did someone commit a crime or something? Could you tell me about it?"
+  },
+  {
+    "line": 1003,
+    "text": "Hardware Store"
+  },
+  {
+    "line": 1004,
+    "text": "Miki Nikaidou leaves her drink on the counter to free her hands and select the plaster she needs. The hardware store owner is still eating, and she mistakes Miki Nikaidou's drink for her own."
+  },
+  {
+    "line": 1005,
+    "text": "Champion Street"
+  },
+  {
+    "line": 1006,
+    "text": "Auction House Employee Dorms"
+  },
+  {
+    "line": 1007,
+    "text": "Oh! Well, his leg was all wrapped up like that, so I'd say that's got to be some serious injury!"
+  },
+  {
+    "line": 1008,
+    "text": "Investigate Toku's room"
+  },
+  {
+    "line": 1011,
+    "text": "A crumpled piece of paper lies discarded in the corner. After examining it thoroughly, I conclude it doesn't contain any useful clues."
+  },
+  {
+    "line": 1013,
+    "text": "A photo torn in half. The photo depicts a man whom the manager identifies as Toku himself. Besides depicting Toku with another person, it doesn't provide any other useful information."
+  },
+  {
+    "line": 1015,
+    "text": "You used these things to create the illusion that you were immobilized by a leg injury!"
+  },
+  {
+    "line": 1016,
+    "text": "Show evidence"
+  },
+  {
+    "line": 1017,
+    "text": "Which clues can prove this?"
+  },
+  {
+    "line": 1019,
+    "text": "[Receipt (Bandage)]"
+  },
+  {
+    "line": 1020,
+    "text": "[Vermillion Bird Beak Mask]"
+  },
+  {
+    "line": 1022,
+    "text": "[Footprint likely from a man]"
+  },
+  {
+    "line": 1024,
+    "text": "[Muddy Shoes]"
+  },
+  {
+    "line": 1028,
+    "text": "Which two hints can prove that Toku is lying?"
+  },
+  {
+    "line": 1036,
+    "text": "What hint still warrants further investigation?"
+  },
+  {
+    "line": 1037,
+    "text": "[Muddy Shoes]"
+  },
+  {
+    "line": 1038,
+    "text": "Show witness"
+  },
+  {
+    "line": 1041,
+    "text": "Show witness"
+  },
+  {
+    "line": 1042,
+    "text": "Boss! I would like to put in a formal request to drag him to the lab for a brain dissection!"
+  },
+  {
+    "line": 1043,
+    "text": "I saw the thief strangling Aoi from the window. And yesterday I was \"lucky\" enough to... uh, experience this firsthand at a friend's place... Even now, the bruise on my neck still hasn't faded... So, if you weren't working together, why isn't there any bruises on Aoi's neck?"
+  },
+  {
+    "line": 1044,
+    "text": "Ume calls Wang and puts him on speaker. We quickly explain the situation to Wang, and the latter tells us what happened that day..."
+  },
+  {
+    "line": 1045,
+    "text": "Investigate Employee Lounge"
+  },
+  {
+    "line": 1046,
+    "text": "Let me try!"
+  },
+  {
+    "line": 1047,
+    "text": "Tomatoes, eggs, waxberries... That's a lot of ingredients in the fridge!"
+  },
+  {
+    "line": 1048,
+    "text": "These items all seem to be \"more than meet the eye.\" So, where could the Heart of Divinity be hidden?"
+  },
+  {
+    "line": 1049,
+    "text": "Heart of Divinity is found"
+  },
+  {
+    "line": 1050,
+    "text": "Investigation complete"
+  },
+  {
+    "line": 1051,
+    "text": "I look in the direction of Fuuka Minami's folding fan, and see a young woman dressed in British-styled attire walking briskly toward us as her light brown hair flutters behind her."
+  },
+  {
+    "line": 1052,
+    "text": "As a matter of fact, I actually do... Well, I don't usually get many customers at my pharmacy. But it just so happened that I had three in a single day, and they cleared out my entire stock of bandages. I'm still waiting for my new stock to arrive..."
+  },
+  {
+    "line": 1053,
+    "text": "That escalated quickly! Jane and I are visibly confused. We turn our gazes to Fuuka Minami, but she remains completely composed. She calmly walks toward Qing Luan and Miki Nikaidou, raising a question as she approaches..."
+  },
+  {
+    "line": 1069,
+    "text": "Regardless of how sincere your relationship with the suspects may seem, their testimony cannot be trusted when making a deduction!"
+  },
+  {
+    "line": 1070,
+    "text": "In the footage, the hardware store owner is having her lunch at the counter."
+  },
+  {
+    "line": 1133,
+    "text": "In my bewilderment at Toku's attempts to struggle free on the ground, I suddenly notice a tattoo on his neck that looks like a turtle."
+  },
+  {
+    "line": 1156,
+    "text": "Hardware Store Owner"
+  },
+  {
+    "line": 1173,
+    "text": "Chiori Mikami and Riu Kujou"
+  },
+  {
+    "line": 1174,
+    "text": "[Receipt (Plaster)] &//n[Receipt (Bandage)]"
+  },
+  {
+    "line": 1175,
+    "text": "[Footprint likely from a man] &//n[Muddy Shoes]"
+  },
+  {
+    "line": 1176,
+    "text": "[VIP Exhibition Invitation List] &[Vermillion Bird Beak Mask]"
+  },
+  {
+    "line": 1177,
+    "text": "[Receipt (Plaster)] &//n[Muddy Shoes]"
+  },
+  {
+    "line": 1178,
+    "text": "[Vermillion Bird Beak Mask] &//n[Muddy Shoes]"
+  },
+  {
+    "line": 1179,
+    "text": "[VIP Exhibition Invitation List] &[Footprint likely from a man]"
+  },
+  {
+    "line": 1180,
+    "text": "[VIP Exhibition Invitation List] &[Muddy Shoes]"
+  },
+  {
+    "line": 1181,
+    "text": "[VIP Exhibition Invitation List] &[Receipt (Plaster)]"
+  }
+]

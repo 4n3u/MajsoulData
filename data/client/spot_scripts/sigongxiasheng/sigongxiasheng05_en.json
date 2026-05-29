@@ -1,0 +1,1030 @@
+[
+  {
+    "line": 19,
+    "text": "player"
+  },
+  {
+    "line": 275,
+    "text": "A Legend, Fearless and True"
+  },
+  {
+    "line": 532,
+    "text": "A few days after Natsuki Shinomiya resolved to come to the rescue of \"A Lost Paradise\"..."
+  },
+  {
+    "line": 533,
+    "text": "I push open the bar's door and stop in my tracks: two high-end gaming PCs have been set up right on the counter."
+  },
+  {
+    "line": 534,
+    "text": "Natsuki Shinomiya"
+  },
+  {
+    "line": 535,
+    "text": "Haha... I can't believe the boss agreed to this!"
+  },
+  {
+    "line": 536,
+    "text": "I was worried the answer would be \"no\" when I asked to use the place for the day..."
+  },
+  {
+    "line": 537,
+    "text": "Mirai"
+  },
+  {
+    "line": 538,
+    "text": "I suppose that's because there aren't any customers in the bar during the day to begin with?"
+  },
+  {
+    "line": 539,
+    "text": "Yui Yagi"
+  },
+  {
+    "line": 540,
+    "text": "Power supply's stable, equipment's all in working order. We can log in."
+  },
+  {
+    "line": 541,
+    "text": "Hinata Takanashi"
+  },
+  {
+    "line": 542,
+    "text": "And the scene is set! Let's get a group photo when the battle's over!"
+  },
+  {
+    "line": 544,
+    "text": "Okay! Let's give this our all!"
+  },
+  {
+    "line": 547,
+    "text": "Fuyumi Shinomiya"
+  },
+  {
+    "line": 548,
+    "text": "This is all getting so tense... You can do this, brother!"
+  },
+  {
+    "line": 549,
+    "text": "...Final showdown."
+  },
+  {
+    "line": 550,
+    "text": "True, it doesn't feel at all like we're about to play an online game."
+  },
+  {
+    "line": 551,
+    "text": "Well, since we've decided to do this, let's give it all we've got!"
+  },
+  {
+    "line": 552,
+    "text": "...Thank you, everybody."
+  },
+  {
+    "line": 553,
+    "text": "Ahh! I'm so excited I'm trembling... White Night is in the zone!"
+  },
+  {
+    "line": 554,
+    "text": "That reminds me, what about Thanatos...?"
+  },
+  {
+    "line": 555,
+    "text": "Thanatos was going to fight alongside us, but he's pretty busy with work at the moment, so..."
+  },
+  {
+    "line": 556,
+    "text": "Sounds like he has to balance his online life with his offline one too."
+  },
+  {
+    "line": 557,
+    "text": "But Thanatos did provide us with plenty of battle supplies. He was previously in charge of our guild's logistics, after all."
+  },
+  {
+    "line": 558,
+    "text": "Okay, {var:player_nickname} – time to create an account so that we can save \"A Lost Paradise\" together."
+  },
+  {
+    "line": 559,
+    "text": "Huh? Can't I just use Thanatos's character?"
+  },
+  {
+    "line": 560,
+    "text": "I'm guessing... that a new player would work better as bait?"
+  },
+  {
+    "line": 562,
+    "text": "Take care."
+  },
+  {
+    "line": 564,
+    "text": "Did you just hesitate there?!"
+  },
+  {
+    "line": 565,
+    "text": "...I'm totally motivated now!"
+  },
+  {
+    "line": 566,
+    "text": "There's no time to lose then, let's get started!"
+  },
+  {
+    "line": 567,
+    "text": "I choose a well-balanced swordsman as my character, then click the \"Start\" button to enter the game."
+  },
+  {
+    "line": 568,
+    "text": "There's a dazzling burst of light, and then..."
+  },
+  {
+    "line": 569,
+    "text": "???"
+  },
+  {
+    "line": 571,
+    "text": "...!!!"
+  },
+  {
+    "line": 572,
+    "text": "By the time I get my bearings, I'm already surrounded by four bandits wearing skull masks."
+  },
+  {
+    "line": 573,
+    "text": "Bandit"
+  },
+  {
+    "line": 574,
+    "text": "New player, huh? Not using Stealth at the respawn point practically screams, \"Come kill me, I'm a noob!\""
+  },
+  {
+    "line": 576,
+    "text": "Is this game seriously this unfriendly to new players...?"
+  },
+  {
+    "line": 577,
+    "text": "Where I'd hoped to start by getting used to the controls, I've instead found myself in major peril."
+  },
+  {
+    "line": 578,
+    "text": "The bandits start closing in on me, weapons in hand."
+  },
+  {
+    "line": 581,
+    "text": "Countless beams of light stream down from the sky above."
+  },
+  {
+    "line": 582,
+    "text": "One after another, they pierce through the bandits, dealing massive damage."
+  },
+  {
+    "line": 583,
+    "text": "Before I know it, Natsuki's character, White Night, has landed on the ground."
+  },
+  {
+    "line": 584,
+    "text": "So this is what a true legend looks like..."
+  },
+  {
+    "line": 585,
+    "text": "Ahh... My beloved Luminas is weeping..."
+  },
+  {
+    "line": 586,
+    "text": "Such a gentle child. You don't want to fight at all, do you...?"
+  },
+  {
+    "line": 587,
+    "text": "That's him as usual."
+  },
+  {
+    "line": 588,
+    "text": "Definitely in the zone now."
+  },
+  {
+    "line": 590,
+    "text": "{var:player_nickname}, use the mouse to aim, then press F and Q together!"
+  },
+  {
+    "line": 591,
+    "text": "L-like this?!"
+  },
+  {
+    "line": 592,
+    "text": "As I swing my sword, White Night raises his hand and infuses it with a ray of light."
+  },
+  {
+    "line": 593,
+    "text": "The charged blade arcs outward, unleashing a huge shockwave that slams into the fleeing bandits."
+  },
+  {
+    "line": 594,
+    "text": "Bandits"
+  },
+  {
+    "line": 595,
+    "text": "Ahhhhhhhh!!"
+  },
+  {
+    "line": 596,
+    "text": "Level 1 accounts are capable of this kind of power?!"
+  },
+  {
+    "line": 597,
+    "text": "You have me, White Night, backing you up, so you have nothing to worry about!"
+  },
+  {
+    "line": 598,
+    "text": "In the next 30 minutes, I'll teach you everything you need to know about the game."
+  },
+  {
+    "line": 599,
+    "text": "Are you ready to alter the fate of this world? Then follow my lead!"
+  },
+  {
+    "line": 600,
+    "text": "My answer is obvious, of course."
+  },
+  {
+    "line": 601,
+    "text": "Right – but first, we have a lot of work to do before we confront Faceless."
+  },
+  {
+    "line": 602,
+    "text": "Should I start leveling up first?"
+  },
+  {
+    "line": 603,
+    "text": "Should we check over our equipment first?"
+  },
+  {
+    "line": 604,
+    "text": "You've got good instincts, {var:player_nickname}! Figures you'd have what it takes to be White Night's companion!"
+  },
+  {
+    "line": 605,
+    "text": "But now that Faceless's goons are showing up in the starter village... it means nowhere in this world is safe anymore."
+  },
+  {
+    "line": 606,
+    "text": "Forcing new players to confront enemies like that right off the bat is pretty discouraging..."
+  },
+  {
+    "line": 607,
+    "text": "In that case... why don't we start by using the Stealth skill? That way, you can avoid having players like that come knocking."
+  },
+  {
+    "line": 608,
+    "text": "But... if we do that, won't that defeat the purpose of using me as bait?"
+  },
+  {
+    "line": 610,
+    "text": "However... we must first find an \"absolutely safe\" place."
+  },
+  {
+    "line": 611,
+    "text": "Does somewhere like that really exist?"
+  },
+  {
+    "line": 612,
+    "text": "Hehe, just follow me. Ah, we'll need a spell..."
+  },
+  {
+    "line": 614,
+    "text": "As White Night chants the incantation, several currents of wind whistle past our ears and coalesce upon us."
+  },
+  {
+    "line": 615,
+    "text": "Holding my hand, White Night breaks into a sprint."
+  },
+  {
+    "line": 616,
+    "text": "With his speed magic, the scenery before us changes rapidly as we run faster and faster."
+  },
+  {
+    "line": 617,
+    "text": "We pass over rivers and valleys, through cities and villages, across frozen plains and deserts... These must be places where Natsuki once fought tirelessly day and night in the game."
+  },
+  {
+    "line": 618,
+    "text": "After a dazzling blur of colors, a pristine white expanse unfolds before our eyes."
+  },
+  {
+    "line": 619,
+    "text": "Perhaps it's more like nothingness than a white expanse – it doesn't look like there's anything here at all."
+  },
+  {
+    "line": 620,
+    "text": "Okay, we're here!"
+  },
+  {
+    "line": 621,
+    "text": "And \"here\" is...?"
+  },
+  {
+    "line": 622,
+    "text": "Welcome... to White Night's secret base."
+  },
+  {
+    "line": 623,
+    "text": "Wait, hold on."
+  },
+  {
+    "line": 624,
+    "text": "You say this is a secret base..."
+  },
+  {
+    "line": 625,
+    "text": "But there's nothing here..."
+  },
+  {
+    "line": 627,
+    "text": "Is it just an unfinished area then?"
+  },
+  {
+    "line": 630,
+    "text": "Like a sorcerer, White Night sweeps his hand over the white space, parting it like a curtain to reveal a sliver of an entrance."
+  },
+  {
+    "line": 631,
+    "text": "Peering inside, I can just make out a dim, narrow passage stretching out ahead."
+  },
+  {
+    "line": 632,
+    "text": "Don't worry, {var:player_nickname}. Just follow me!"
+  },
+  {
+    "line": 633,
+    "text": "With the almighty White Night at my side, I don't have anything to worry about, right?"
+  },
+  {
+    "line": 634,
+    "text": "Haha! Looks like you're already getting the hang of it!"
+  },
+  {
+    "line": 635,
+    "text": "White Night elegantly extends his hand to me. As I click the mouse to accept the invitation, I can almost feel warmth radiating from his palm."
+  },
+  {
+    "line": 636,
+    "text": "Hmm, hmm, hm-hm-hmmm... (humming a tune)"
+  },
+  {
+    "line": 637,
+    "text": "The view ahead grows clearer as we make our way down the dim passage. We finally emerge into a slightly cramped room, no less splendid for its lack of space."
+  },
+  {
+    "line": 639,
+    "text": "Eye of Sin... Armor of Darkness, and Crown of Eternal Night... Ahh... I hear it. I hear your call!"
+  },
+  {
+    "line": 640,
+    "text": "Is all this your collection, Natsuki?"
+  },
+  {
+    "line": 641,
+    "text": "Hehe... It's only natural that the swashbuckling White Night would amass the finest treasures in the world!"
+  },
+  {
+    "line": 642,
+    "text": "But THIS is far more valuable than any of those –"
+  },
+  {
+    "line": 643,
+    "text": "Is this... a treasure chest? It's beautiful..."
+  },
+  {
+    "line": 644,
+    "text": "That's right! It's the reward I got for taking first place in the PvP Arena back in the day... They say it contains a one-of-a-kind, god-tier artifact! I'd originally planned to just keep it as a memento, though."
+  },
+  {
+    "line": 645,
+    "text": "Is it really okay to use up something so precious...?"
+  },
+  {
+    "line": 646,
+    "text": "You know, I thought I'd leave this chest unopened forever... I saw it as a symbol of my glory."
+  },
+  {
+    "line": 647,
+    "text": "But if the world that holds this glory and these memories vanishes, then this chest means nothing. So... the time has come to use it!"
+  },
+  {
+    "line": 648,
+    "text": "I intend to share the moment of opening it with the person who understands me best – {var:player_nickname}, if you would?"
+  },
+  {
+    "line": 649,
+    "text": "...It would be my honor."
+  },
+  {
+    "line": 650,
+    "text": "I'll help myself then!"
+  },
+  {
+    "line": 651,
+    "text": "Hold on... Is there something written on the seal here?"
+  },
+  {
+    "line": 654,
+    "text": "...Interesting, very interesting! I have no idea what it means, but this is just typical \"A Lost Paradise\"!"
+  },
+  {
+    "line": 655,
+    "text": "If even White Night doesn't know..."
+  },
+  {
+    "line": 656,
+    "text": "This game is so cryptic!"
+  },
+  {
+    "line": 657,
+    "text": "Never mind that for now. Let's open it up and see what's inside."
+  },
+  {
+    "line": 658,
+    "text": "At White Night's behest, I break the seal. The chest flings open in a blinding flash of light. Inside lie two completely different weapons..."
+  },
+  {
+    "line": 659,
+    "text": "One is a longbow gleaming with golden light, while the other... is an utterly ordinary-looking iron broomstick."
+  },
+  {
+    "line": 661,
+    "text": "...But what's that other one? A freebie?"
+  },
+  {
+    "line": 662,
+    "text": "Hahaha... I think the choice is obvious!"
+  },
+  {
+    "line": 663,
+    "text": "This bow looks extremely powerful... Its stats are impressive too. As for this broom..."
+  },
+  {
+    "line": 664,
+    "text": "...Looking at the stats alone, it's just a regular old iron broom. The description says it has limited uses, too. But the weird thing is... the surrounding data streams seem to be avoiding it, almost like they're... afraid of it?"
+  },
+  {
+    "line": 665,
+    "text": "I have a feeling that we can only pick one item, and whichever one we choose, the other will disappear."
+  },
+  {
+    "line": 666,
+    "text": "Go on, {var:player_nickname}, make your fated choice!"
+  },
+  {
+    "line": 668,
+    "text": "Heh, that's exactly why you should choose, {var:player_nickname}! In your hands, the enemy is sure to let their guard down. Besides... how could I ever turn my back on my beloved Luminas?"
+  },
+  {
+    "line": 669,
+    "text": "In that case... I understand."
+  },
+  {
+    "line": 671,
+    "text": "Then I'll take..."
+  },
+  {
+    "line": 675,
+    "text": "\"Iron Broomstick\""
+  },
+  {
+    "line": 676,
+    "text": "No matter how I look at it, this one just seems more reliable!"
+  },
+  {
+    "line": 678,
+    "text": "If we're being honest, isn't this the ONLY choice?"
+  },
+  {
+    "line": 679,
+    "text": "Safest bet."
+  },
+  {
+    "line": 680,
+    "text": "I don't know why, but... my gut is telling me to choose this one..."
+  },
+  {
+    "line": 681,
+    "text": "Oooh! So you opt for the one that defies all logic! I like your style – that's just the sort of choice a companion of White Night would make!"
+  },
+  {
+    "line": 683,
+    "text": "{var:player_nickname}... trusted the words on the seal."
+  },
+  {
+    "line": 684,
+    "text": "Guys, look at the screen! I think I see something..."
+  },
+  {
+    "line": 685,
+    "text": "You're right! Over on the mini-map – are those red dots?"
+  },
+  {
+    "line": 688,
+    "text": "Heh! This space is tucked away in a crack in the game's map... I scoured every inch of \"A Lost Paradise\" before finding this hideout. There's no way we'd be discov–"
+  },
+  {
+    "line": 689,
+    "text": "Bandit"
+  },
+  {
+    "line": 691,
+    "text": "They're already here!"
+  },
+  {
+    "line": 692,
+    "text": "You..."
+  },
+  {
+    "line": 694,
+    "text": "Your time is over! Lord Faceless is the only legend in \"A Lost Paradise\" now! And this is for our big bro... Whaaa?!"
+  },
+  {
+    "line": 695,
+    "text": "White Night swings his sword before they can finish speaking. A blinding light bursts from the blade, and countless slashes bloom across the group. In an instant, their HP bars drop to zero."
+  },
+  {
+    "line": 696,
+    "text": "He delivers the killing blow with his usual grace and poise. But at his computer, I see a simmering intensity in Natsuki's face... I don't think I've ever seen him so angry."
+  },
+  {
+    "line": 697,
+    "text": "...You talk too much."
+  },
+  {
+    "line": 698,
+    "text": "How dare you disturb our moment in my secret base... Go to hell and repent!"
+  },
+  {
+    "line": 699,
+    "text": "Um, White Night..."
+  },
+  {
+    "line": 700,
+    "text": "What you did there was super cool, but..."
+  },
+  {
+    "line": 701,
+    "text": "Now we've lost our chance to test out the weapon..."
+  },
+  {
+    "line": 702,
+    "text": "Ahaha... My apologies. But hearing that scum dare to say it was your fault... I just couldn't help myself. I may have been a little heavy-handed..."
+  },
+  {
+    "line": 703,
+    "text": "Nothing wrong with that, it's just... What happens to the players White Night defeats?"
+  },
+  {
+    "line": 704,
+    "text": "Hm... They'll be punished according to their current level, I suppose? Like losing their equipment and EXP?"
+  },
+  {
+    "line": 705,
+    "text": "But I'm not actually sure. I've never lost, after all."
+  },
+  {
+    "line": 706,
+    "text": "Ooft, now that's a flex..."
+  },
+  {
+    "line": 708,
+    "text": "Who's the sender?"
+  },
+  {
+    "line": 709,
+    "text": "...It's Faceless."
+  },
+  {
+    "line": 710,
+    "text": "Ooh, so the boss reveals himself!"
+  },
+  {
+    "line": 711,
+    "text": "A challenge?"
+  },
+  {
+    "line": 715,
+    "text": "To be honest... I do want to fight Faceless one-on-one. As White Night, the bearer of miracles, I can't back down. But something doesn't feel right..."
+  },
+  {
+    "line": 717,
+    "text": "Advise Natsuki to accept the challenge."
+  },
+  {
+    "line": 719,
+    "text": "This is obviously a trap!"
+  },
+  {
+    "line": 720,
+    "text": "...Accept the challenge, White Night."
+  },
+  {
+    "line": 721,
+    "text": "If it's you, no one stands a chance."
+  },
+  {
+    "line": 722,
+    "text": "{var:player_nickname}... thank you for the strength you've given me."
+  },
+  {
+    "line": 723,
+    "text": "I can't help but think this might be a trap. Still, I'm willing to trust your judgment."
+  },
+  {
+    "line": 724,
+    "text": "Leave it to me, everyone! I, White Night, am the hope of \"A Lost Paradise\"! The one and only, the absolute, the living legend!"
+  },
+  {
+    "line": 725,
+    "text": "I'll be back as soon as I save the world...!"
+  },
+  {
+    "line": 726,
+    "text": "White Night boldly marches into enemy territory on his own."
+  },
+  {
+    "line": 727,
+    "text": "But when he arrives at Kuhn Tower, an army of more than one hundred is waiting for him."
+  },
+  {
+    "line": 728,
+    "text": "Hey, this isn't what we agreed to...!"
+  },
+  {
+    "line": 729,
+    "text": "Faceless"
+  },
+  {
+    "line": 730,
+    "text": "You actually came alone, I'm surprised..."
+  },
+  {
+    "line": 731,
+    "text": "And now... the legend of White Night ends here!"
+  },
+  {
+    "line": 732,
+    "text": "Faceless raises his hand. At his command, a crowd of enemy players – previously hidden using Stealth – suddenly appear around him."
+  },
+  {
+    "line": 733,
+    "text": "White Night is instantly surrounded. There are now too many red dots on the mini-map to count."
+  },
+  {
+    "line": 734,
+    "text": "Suffering blows from all sides, White Night's HP plummets to zero in a matter of seconds."
+  },
+  {
+    "line": 736,
+    "text": "Natsuki stares at the character death screen in utter disbelief."
+  },
+  {
+    "line": 737,
+    "text": "Brother...! You walked right into a trap you could have avoided...!"
+  },
+  {
+    "line": 738,
+    "text": "It's definitely a trap!"
+  },
+  {
+    "line": 739,
+    "text": "Y-you might be right... I'm sorry, I almost got ahead of myself there..."
+  },
+  {
+    "line": 740,
+    "text": "But now I have a dependable companion at my side! {var:player_nickname}, I need you for the final showdown!"
+  },
+  {
+    "line": 741,
+    "text": "Having regained his composure, Natsuki and I start our preparations. We check our gear one last time, then head for the appointed location."
+  },
+  {
+    "line": 742,
+    "text": "Kuhn Tower... This is the heart of \"A Lost Paradise.\""
+  },
+  {
+    "line": 743,
+    "text": "Kuhn Tower"
+  },
+  {
+    "line": 745,
+    "text": "Even if you are all-powerful, what are you gonna do against a siege like this, huh?!"
+  },
+  {
+    "line": 746,
+    "text": "...After you sent those bandits to attack us, I knew you weren't the type to fight fair and square."
+  },
+  {
+    "line": 748,
+    "text": "Use your new divine artifact to sweep the way clear for me!"
+  },
+  {
+    "line": 750,
+    "text": "Good luck with that. Your time is already over!"
+  },
+  {
+    "line": 751,
+    "text": "Natsuki and I look at each other."
+  },
+  {
+    "line": 752,
+    "text": "...For some reason, courage is welling up inside me."
+  },
+  {
+    "line": 754,
+    "text": "I pull the bowstring to its limit as White Night casts the support spell from before. A surge of power instantly courses through my swordsman's body."
+  },
+  {
+    "line": 755,
+    "text": "My divine arrow tears through the air like a laser beam. Amid the rumbling of unremitting explosions, our enemies fall one after another."
+  },
+  {
+    "line": 756,
+    "text": "Impossible! Belmont?! Belmont's returned?!"
+  },
+  {
+    "line": 757,
+    "text": "No, that's not Belmont... It's my trusty companion, {var:player_nickname}!"
+  },
+  {
+    "line": 759,
+    "text": "Waaahhh!!! It can't be... I... lost?!"
+  },
+  {
+    "line": 760,
+    "text": "Damn it... Damn it! This isn't over...!"
+  },
+  {
+    "line": 761,
+    "text": "I'll be back...! Just you wait, White Night!"
+  },
+  {
+    "line": 762,
+    "text": "...Is it over?"
+  },
+  {
+    "line": 764,
+    "text": "Thanks to your support... I was able to defeat Faceless and his army."
+  },
+  {
+    "line": 766,
+    "text": "I just wanted to help you out."
+  },
+  {
+    "line": 768,
+    "text": "\"A Lost Paradise\" seems pretty fun."
+  },
+  {
+    "line": 771,
+    "text": "I hope you'll join me in \"A Lost Paradise\" again. After all, we have to make sure Faceless and his cronies don't make a comeback."
+  },
+  {
+    "line": 772,
+    "text": "We have so much to do now, like working to become legends once more!"
+  },
+  {
+    "line": 773,
+    "text": "I equip \"Iron Broomstick.\""
+  },
+  {
+    "line": 774,
+    "text": "With nothing to lose, I grab my broom and dash straight toward the enemy."
+  },
+  {
+    "line": 776,
+    "text": "You guys! Get rid of them! Huh? G-guys...?"
+  },
+  {
+    "line": 777,
+    "text": "When I swing the broom, something astonishing happens..."
+  },
+  {
+    "line": 778,
+    "text": "Countless glowing letters and numbers gather around the seemingly ordinary broomstick. With each swing, several of Faceless's goons are practically erased from the game."
+  },
+  {
+    "line": 779,
+    "text": "C-could it be?! Is that the forbidden item...? The divine artifact capable of resetting all EXP and stats?!"
+  },
+  {
+    "line": 780,
+    "text": "Incredible! {var:player_nickname}, swing that thing at Faceless!"
+  },
+  {
+    "line": 781,
+    "text": "Got it...!"
+  },
+  {
+    "line": 784,
+    "text": "Before Faceless can finish, he is disintegrated into a stream of data by the broom's power. His lackeys vanish with him."
+  },
+  {
+    "line": 785,
+    "text": "Players struck by \"Iron Broomstick\" have their EXP reset and their equipment wiped. For someone like Faceless, who rose to power by exploiting glitches, this is a devastating blow."
+  },
+  {
+    "line": 786,
+    "text": "Stripped of their powers, Faceless and his followers could never bully other players again. They soon fled the game in disgrace."
+  },
+  {
+    "line": 787,
+    "text": "And just like that, peace has been restored to the world of \"A Lost Paradise.\""
+  },
+  {
+    "line": 788,
+    "text": "Everyone"
+  },
+  {
+    "line": 789,
+    "text": "YEEEEAAAAHHHH!!!"
+  },
+  {
+    "line": 798,
+    "text": "Game over"
+  },
+  {
+    "line": 809,
+    "text": "The atmosphere in the bar is even livelier than usual as everyone raises a glass in celebration of today's victory."
+  },
+  {
+    "line": 810,
+    "text": "Before I realize what's happening, I find myself locked in an embrace with Natsuki, who's beaming with joy."
+  },
+  {
+    "line": 812,
+    "text": "He hugs me in excitement, his eyes sparkling."
+  },
+  {
+    "line": 813,
+    "text": "Who knows? Perhaps a warm, joyful day like this could last forever."
+  },
+  {
+    "line": 816,
+    "text": "We didn't just jinx ourselves, right...?"
+  },
+  {
+    "line": 817,
+    "text": "What?! Really?! Won't that put {var:player_nickname} in danger?!"
+  },
+  {
+    "line": 818,
+    "text": "Ahem... Well, every legend has to start from zero, right? I want to see {var:player_nickname} go from a rookie... to a hero worthy of fighting beside me...!"
+  },
+  {
+    "line": 819,
+    "text": "Well, now! Who do we have here?"
+  },
+  {
+    "line": 820,
+    "text": "Well, I AM a new player...!"
+  },
+  {
+    "line": 821,
+    "text": "Crap! I don't even know how to attack yet..."
+  },
+  {
+    "line": 822,
+    "text": "Wahahahahaha! Sorry to keep you waiting, {var:player_nickname}!"
+  },
+  {
+    "line": 823,
+    "text": "R-run! We have to tell Lord Faceless!!! It's White Night! White Night's back!"
+  },
+  {
+    "line": 824,
+    "text": "{var:player_nickname}... Your courage runs deeper than I imagined! Then White Night shall protect you!"
+  },
+  {
+    "line": 825,
+    "text": "\"Spirits of swiftness... heed my command!\""
+  },
+  {
+    "line": 826,
+    "text": "Correct. I stumbled upon this place – it's a \"white void\" not found on any of the game's maps."
+  },
+  {
+    "line": 827,
+    "text": "...A bug."
+  },
+  {
+    "line": 828,
+    "text": "Anyway...! This area leads to White Night's treasure trove. There's definitely something there that can help us."
+  },
+  {
+    "line": 829,
+    "text": "Countless exquisite pieces of equipment are neatly arranged on the shelves, walls, and even the floor. Could this be the wellspring of Natsuki's imagination?"
+  },
+  {
+    "line": 830,
+    "text": "Huh? Is there? Lemme see..."
+  },
+  {
+    "line": 831,
+    "text": "Look at that shine! This is a divine artifact..."
+  },
+  {
+    "line": 832,
+    "text": "What? You want ME to choose? But I'm new to this... and isn't this your reward, Natsuki?"
+  },
+  {
+    "line": 835,
+    "text": "Heh... Impeccable judgment, {var:player_nickname}! Your choice sets us on the straight path to victory!"
+  },
+  {
+    "line": 836,
+    "text": "Are you sure about this...? It doesn't even look like a weapon."
+  },
+  {
+    "line": 837,
+    "text": "Those are enemy markers! Have we been discovered?!"
+  },
+  {
+    "line": 838,
+    "text": "Ah-ha!! Found you, White Night!!!"
+  },
+  {
+    "line": 839,
+    "text": "Thanks to that noob not using Stealth... we've finally found your base, White Night!"
+  },
+  {
+    "line": 840,
+    "text": "Hehe... Well, the White Night you see before you can create miracles, there's nothing he... Oh? Looks like I have a private message."
+  },
+  {
+    "line": 841,
+    "text": "Private Message"
+  },
+  {
+    "line": 842,
+    "text": "\"It's been quite a while, White Night. I hear you took 'good care' of my subordinates.\""
+  },
+  {
+    "line": 843,
+    "text": "\"Why don't we settle this mano a mano? The top of Kuhn Tower in 1 hour. I'll be waiting.\""
+  },
+  {
+    "line": 844,
+    "text": "...He wants to duel. What do you think, {var:player_nickname}?"
+  },
+  {
+    "line": 845,
+    "text": "20, 30, 40... soon there are 50 or 60 red dots on the map. In an instant, White Night finds himself completely surrounded."
+  },
+  {
+    "line": 846,
+    "text": "{var:player_nickname}! It's your time to shine...!"
+  },
+  {
+    "line": 847,
+    "text": "That player's only at Level... Hahaha! White Night... you actually brought some nobody to help you?"
+  },
+  {
+    "line": 849,
+    "text": "Your villainy ends here, Faceless. Stand and face White Night's justice!"
+  },
+  {
+    "line": 850,
+    "text": "Yep...! We won, {var:player_nickname}!"
+  },
+  {
+    "line": 851,
+    "text": "And that you did! Thank you, {var:player_nickname}!"
+  },
+  {
+    "line": 852,
+    "text": "Right?! It's awesome, isn't it?"
+  },
+  {
+    "line": 853,
+    "text": "Pfft! Hahahaha! What is that thing, a toy?! Are you crazy, White Night? You got a total noob to help you!"
+  },
+  {
+    "line": 854,
+    "text": "Waaahhh! Damn it... Why?! White Night... why do you win every single time?!"
+  },
+  {
+    "line": 855,
+    "text": "No, I refuse!!! It can't end like this – my rank, my equipment! My–"
+  },
+  {
+    "line": 856,
+    "text": "Thank you, {var:player_nickname}! Without your help, I couldn't have...!"
+  },
+  {
+    "line": 857,
+    "text": "\"...When a false mask obscures the sky, only 'the humblest of sweepers' can dispel the illusion.\""
+  },
+  {
+    "line": 860,
+    "text": "The weapon names hover in the air before me: \"Celestial Bow: Starfall\" and \"Iron Broomstick\"... Which should I choose?"
+  },
+  {
+    "line": 862,
+    "text": "I equip \"Celestial Bow: Starfall.\""
+  },
+  {
+    "line": 868,
+    "text": "\"Celestial Bow: Starfall\""
+  }
+]

@@ -1,0 +1,1816 @@
+{
+  "FastTest": {
+    "authGame": {
+      "request": "ReqAuthGame",
+      "response": "ResAuthGame"
+    },
+    "authObserve": {
+      "request": "ReqAuthObserve",
+      "response": "ResCommon"
+    },
+    "broadcastInGame": {
+      "request": "ReqBroadcastInGame",
+      "response": "ResCommon"
+    },
+    "checkNetworkDelay": {
+      "request": "ReqCommon",
+      "response": "ResCommon"
+    },
+    "clearLeaving": {
+      "request": "ReqCommon",
+      "response": "ResCommon"
+    },
+    "confirmNewRound": {
+      "request": "ReqCommon",
+      "response": "ResCommon"
+    },
+    "enterGame": {
+      "request": "ReqCommon",
+      "response": "ResEnterGame"
+    },
+    "fetchGamePlayerState": {
+      "request": "ReqCommon",
+      "response": "ResGamePlayerState"
+    },
+    "finishSyncGame": {
+      "request": "ReqCommon",
+      "response": "ResCommon"
+    },
+    "inputChiPengGang": {
+      "request": "ReqChiPengGang",
+      "response": "ResCommon"
+    },
+    "inputGameGMCommand": {
+      "request": "ReqGMCommandInGaming",
+      "response": "ResCommon"
+    },
+    "inputOperation": {
+      "request": "ReqSelfOperation",
+      "response": "ResCommon"
+    },
+    "startObserve": {
+      "request": "ReqCommon",
+      "response": "ResStartObserve"
+    },
+    "stopObserve": {
+      "request": "ReqCommon",
+      "response": "ResCommon"
+    },
+    "syncGame": {
+      "request": "ReqSyncGame",
+      "response": "ResSyncGame"
+    },
+    "terminateGame": {
+      "request": "ReqCommon",
+      "response": "ResCommon"
+    },
+    "voteGameEnd": {
+      "request": "ReqVoteGameEnd",
+      "response": "ResGameEndVote"
+    }
+  },
+  "Lobby": {
+    "addCollectedGameRecord": {
+      "request": "ReqAddCollectedGameRecord",
+      "response": "ResAddCollectedGameRecord"
+    },
+    "addFinishedEnding": {
+      "request": "ReqFinishedEnding",
+      "response": "ResCommon"
+    },
+    "addRoomRobot": {
+      "request": "ReqAddRoomRobot",
+      "response": "ResCommon"
+    },
+    "amuletActivityAddAllRuneStone": {
+      "request": "ReqAmuletActivityAddAllRuneStone",
+      "response": "ResCommon"
+    },
+    "amuletActivityAddEffect": {
+      "request": "ReqAmuletActivityAddEffect",
+      "response": "ResCommon"
+    },
+    "amuletActivityAddRuneStone": {
+      "request": "ReqAmuletActivityAddRuneStone",
+      "response": "ResCommon"
+    },
+    "amuletActivityDebug": {
+      "request": "ReqAmuletActivityDebug",
+      "response": "ResCommon"
+    },
+    "amuletActivityFetchBrief": {
+      "request": "ReqAmuletActivityFetchBrief",
+      "response": "ResAmuletActivityFetchBrief"
+    },
+    "amuletActivityFetchDebug": {
+      "request": "ReqAmuletActivityFetchDebug",
+      "response": "ResFetchAmuletActivityDebug"
+    },
+    "amuletActivityFetchDebugData": {
+      "request": "ReqAmuletActivityFetchDebugData",
+      "response": "ResFetchAmuletActivityDebugData"
+    },
+    "amuletActivityGameOperate": {
+      "request": "ReqAmuletActivityGameOperate",
+      "response": "ResAmuletEventResponse"
+    },
+    "amuletActivityGiveup": {
+      "request": "ReqAmuletActivityGiveup",
+      "response": "ResCommon"
+    },
+    "amuletActivityMaintainInfo": {
+      "request": "ReqCommon",
+      "response": "ResAmuletActivityMaintainInfo"
+    },
+    "amuletActivityOperate": {
+      "request": "ReqAmuletActivityOperate",
+      "response": "ResAmuletEventResponse"
+    },
+    "amuletActivityRefreshTingListAndNextOperation": {
+      "request": "ReqAmuletActivityRefreshTingListAndNextOperation",
+      "response": "ResCommon"
+    },
+    "amuletActivityRemoveAllEffect": {
+      "request": "ReqAmuletActivityRemoveAllEffect",
+      "response": "ResCommon"
+    },
+    "amuletActivityRemoveAllRuneStone": {
+      "request": "ReqAmuletActivityRemoveAllRuneStone",
+      "response": "ResCommon"
+    },
+    "amuletActivityRemoveEffect": {
+      "request": "ReqAmuletActivityRemoveEffect",
+      "response": "ResCommon"
+    },
+    "amuletActivityRemoveRuneStone": {
+      "request": "ReqAmuletActivityRemoveRuneStone",
+      "response": "ResCommon"
+    },
+    "amuletActivitySelectBookEffect": {
+      "request": "ReqAmuletActivitySelectBookEffect",
+      "response": "ResCommon"
+    },
+    "amuletActivitySetChangeTileCount": {
+      "request": "ReqAmuletActivitySetChangeTileCount",
+      "response": "ResCommon"
+    },
+    "amuletActivitySetDebugData": {
+      "request": "ReqAmuletActivitySetDebugData",
+      "response": "ResCommon"
+    },
+    "amuletActivitySetHp": {
+      "request": "ReqAmuletActivitySetHp",
+      "response": "ResCommon"
+    },
+    "amuletActivitySetSkillLevel": {
+      "request": "ReqAmuletActivitySetSkillLevel",
+      "response": "ResCommon"
+    },
+    "amuletActivityStartGame": {
+      "request": "ReqAmuletActivityStartGame",
+      "response": "ResAmuletEventResponse"
+    },
+    "applyFriend": {
+      "request": "ReqApplyFriend",
+      "response": "ResCommon"
+    },
+    "bindAccount": {
+      "request": "ReqBindAccount",
+      "response": "ResCommon"
+    },
+    "bindEmail": {
+      "request": "ReqBindEmail",
+      "response": "ResCommon"
+    },
+    "bindOauth2": {
+      "request": "ReqBindOauth2",
+      "response": "ResCommon"
+    },
+    "bindPhoneNumber": {
+      "request": "ReqBindPhoneNumber",
+      "response": "ResCommon"
+    },
+    "bingoActivityReceiveReward": {
+      "request": "ReqBingoActivityReceiveReward",
+      "response": "ResBingoActivityReceiveReward"
+    },
+    "buyArenaTicket": {
+      "request": "ReqBuyArenaTicket",
+      "response": "ResCommon"
+    },
+    "buyFestivalProposal": {
+      "request": "ReqBuyFestivalProposal",
+      "response": "ResBuyFestivalProposal"
+    },
+    "buyFromChestShop": {
+      "request": "ReqBuyFromChestShop",
+      "response": "ResBuyFromChestShop"
+    },
+    "buyFromShop": {
+      "request": "ReqBuyFromShop",
+      "response": "ResBuyFromShop"
+    },
+    "buyFromZHP": {
+      "request": "ReqBuyFromZHP",
+      "response": "ResCommon"
+    },
+    "buyInABMatch": {
+      "request": "ReqBuyInABMatch",
+      "response": "ResCommon"
+    },
+    "buyShiLian": {
+      "request": "ReqBuyShiLian",
+      "response": "ResCommon"
+    },
+    "cancelDeleteAccount": {
+      "request": "ReqCommon",
+      "response": "ResCommon"
+    },
+    "cancelGooglePlayOrder": {
+      "request": "ReqCancelGooglePlayOrder",
+      "response": "ResCommon"
+    },
+    "cancelMatch": {
+      "request": "ReqCancelMatchQueue",
+      "response": "ResCommon"
+    },
+    "cancelQueue": {
+      "request": "ReqCommon",
+      "response": "ResCommon"
+    },
+    "cancelUnifiedMatch": {
+      "request": "ReqCancelUnifiedMatch",
+      "response": "ResCommon"
+    },
+    "changeAvatar": {
+      "request": "ReqChangeAvatar",
+      "response": "ResCommon"
+    },
+    "changeCharacterSkin": {
+      "request": "ReqChangeCharacterSkin",
+      "response": "ResCommon"
+    },
+    "changeCharacterView": {
+      "request": "ReqChangeCharacterView",
+      "response": "ResCommon"
+    },
+    "changeCollectedGameRecordRemarks": {
+      "request": "ReqChangeCollectedGameRecordRemarks",
+      "response": "ResChangeCollectedGameRecordRemarks"
+    },
+    "changeCommonView": {
+      "request": "ReqChangeCommonView",
+      "response": "ResCommon"
+    },
+    "changeMainCharacter": {
+      "request": "ReqChangeMainCharacter",
+      "response": "ResCommon"
+    },
+    "checkPrivacy": {
+      "request": "ReqCheckPrivacy",
+      "response": "ResCommon"
+    },
+    "clientMessage": {
+      "request": "ReqClientMessage",
+      "response": "ResCommon"
+    },
+    "combiningRecycleCraft": {
+      "request": "ReqCombiningRecycleCraft",
+      "response": "ResCombiningRecycleCraft"
+    },
+    "completeActivityFlipTask": {
+      "request": "ReqCompleteActivityTask",
+      "response": "ResCommon"
+    },
+    "completeActivityFlipTaskBatch": {
+      "request": "ReqCompleteActivityFlipTaskBatch",
+      "response": "ResCompleteActivityFlipTaskBatch"
+    },
+    "completeActivityTask": {
+      "request": "ReqCompleteActivityTask",
+      "response": "ResCommon"
+    },
+    "completeActivityTaskBatch": {
+      "request": "ReqCompleteActivityTaskBatch",
+      "response": "ResCommon"
+    },
+    "completePeriodActivityTask": {
+      "request": "ReqCompleteActivityTask",
+      "response": "ResCommon"
+    },
+    "completePeriodActivityTaskBatch": {
+      "request": "ReqCompletePeriodActivityTaskBatch",
+      "response": "ResCommon"
+    },
+    "completeRandomActivityTask": {
+      "request": "ReqCompleteActivityTask",
+      "response": "ResCommon"
+    },
+    "completeRandomActivityTaskBatch": {
+      "request": "ReqCompleteActivityTaskBatch",
+      "response": "ResCommon"
+    },
+    "completeSegmentTaskReward": {
+      "request": "ReqCompleteSegmentTaskReward",
+      "response": "ResCompleteSegmentTaskReward"
+    },
+    "completeVillageTask": {
+      "request": "ReqCompleteVillageTask",
+      "response": "ResCompleteVillageTask"
+    },
+    "composeShard": {
+      "request": "ReqComposeShard",
+      "response": "ResCommon"
+    },
+    "createAlipayAppOrder": {
+      "request": "ReqCreateAlipayAppOrder",
+      "response": "ResCreateAlipayAppOrder"
+    },
+    "createAlipayOrder": {
+      "request": "ReqCreateAlipayOrder",
+      "response": "ResCreateAlipayOrder"
+    },
+    "createAlipayScanOrder": {
+      "request": "ReqCreateAlipayScanOrder",
+      "response": "ResCreateAlipayScanOrder"
+    },
+    "createBillingOrder": {
+      "request": "ReqCreateBillingOrder",
+      "response": "ResCreateBillingOrder"
+    },
+    "createCustomizedContest": {
+      "request": "ReqCreateCustomizedContest",
+      "response": "ResCreateCustomizedContest"
+    },
+    "createDMMOrder": {
+      "request": "ReqCreateDMMOrder",
+      "response": "ResCreateDmmOrder"
+    },
+    "createENAlipayOrder": {
+      "request": "ReqCreateENAlipayOrder",
+      "response": "ResCreateENAlipayOrder"
+    },
+    "createENJCBOrder": {
+      "request": "ReqCreateENJCBOrder",
+      "response": "ResCreateENJCBOrder"
+    },
+    "createENMasterCardOrder": {
+      "request": "ReqCreateENMasterCardOrder",
+      "response": "ResCreateENMasterCardOrder"
+    },
+    "createENPaypalOrder": {
+      "request": "ReqCreateENPaypalOrder",
+      "response": "ResCreateENPaypalOrder"
+    },
+    "createENVisaOrder": {
+      "request": "ReqCreateENVisaOrder",
+      "response": "ResCreateENVisaOrder"
+    },
+    "createEmailVerifyCode": {
+      "request": "ReqCreateEmailVerifyCode",
+      "response": "ResCommon"
+    },
+    "createGameObserveAuth": {
+      "request": "ReqCreateGameObserveAuth",
+      "response": "ResCreateGameObserveAuth"
+    },
+    "createGamePlan": {
+      "request": "ReqCreateGamePlan",
+      "response": "ResCommon"
+    },
+    "createIAPOrder": {
+      "request": "ReqCreateIAPOrder",
+      "response": "ResCreateIAPOrder"
+    },
+    "createJPAuOrder": {
+      "request": "ReqCreateJPAuOrder",
+      "response": "ResCreateJPAuOrder"
+    },
+    "createJPCreditCardOrder": {
+      "request": "ReqCreateJPCreditCardOrder",
+      "response": "ResCreateJPCreditCardOrder"
+    },
+    "createJPDocomoOrder": {
+      "request": "ReqCreateJPDocomoOrder",
+      "response": "ResCreateJPDocomoOrder"
+    },
+    "createJPGMOOrder": {
+      "request": "ReqCreateJPGMOOrder",
+      "response": "ResCreateJPGMOOrder"
+    },
+    "createJPPayPayOrder": {
+      "request": "ReqCreateJPPayPayOrder",
+      "response": "ResCreateJPPayPayOrder"
+    },
+    "createJPPaypalOrder": {
+      "request": "ReqCreateJPPaypalOrder",
+      "response": "ResCreateJPPaypalOrder"
+    },
+    "createJPSoftbankOrder": {
+      "request": "ReqCreateJPSoftbankOrder",
+      "response": "ResCreateJPSoftbankOrder"
+    },
+    "createJPWebMoneyOrder": {
+      "request": "ReqCreateJPWebMoneyOrder",
+      "response": "ResCreateJPWebMoneyOrder"
+    },
+    "createKRAlipayOrder": {
+      "request": "ReqCreateKRAlipayOrder",
+      "response": "ResCreateKRAlipayOrder"
+    },
+    "createKRJCBOrder": {
+      "request": "ReqCreateKRJCBOrder",
+      "response": "ResCreateKRJCBOrder"
+    },
+    "createKRMasterCardOrder": {
+      "request": "ReqCreateKRMasterCardOrder",
+      "response": "ResCreateKRMasterCardOrder"
+    },
+    "createKRPaypalOrder": {
+      "request": "ReqCreateKRPaypalOrder",
+      "response": "ResCreateKRPaypalOrder"
+    },
+    "createKRVisaOrder": {
+      "request": "ReqCreateKRVisaOrder",
+      "response": "ResCreateKRVisaOrder"
+    },
+    "createMyCardAndroidOrder": {
+      "request": "ReqCreateMyCardOrder",
+      "response": "ResCreateMyCardOrder"
+    },
+    "createMyCardWebOrder": {
+      "request": "ReqCreateMyCardOrder",
+      "response": "ResCreateMyCardOrder"
+    },
+    "createNickname": {
+      "request": "ReqCreateNickname",
+      "response": "ResCommon"
+    },
+    "createPaypalOrder": {
+      "request": "ReqCreatePaypalOrder",
+      "response": "ResCreatePaypalOrder"
+    },
+    "createPhoneLoginBind": {
+      "request": "ReqCreatePhoneLoginBind",
+      "response": "ResCommon"
+    },
+    "createPhoneVerifyCode": {
+      "request": "ReqCreatePhoneVerifyCode",
+      "response": "ResCommon"
+    },
+    "createRoom": {
+      "request": "ReqCreateRoom",
+      "response": "ResCreateRoom"
+    },
+    "createSeerReport": {
+      "request": "ReqCreateSeerReport",
+      "response": "ResCreateSeerReport"
+    },
+    "createSteamOrder": {
+      "request": "ReqCreateSteamOrder",
+      "response": "ResCreateSteamOrder"
+    },
+    "createWechatAppOrder": {
+      "request": "ReqCreateWechatAppOrder",
+      "response": "ResCreateWechatAppOrder"
+    },
+    "createWechatNativeOrder": {
+      "request": "ReqCreateWechatNativeOrder",
+      "response": "ResCreateWechatNativeOrder"
+    },
+    "createXsollaOrder": {
+      "request": "ReqCreateXsollaOrder",
+      "response": "ResCreateXsollaOrder"
+    },
+    "createXsollaV4Order": {
+      "request": "ReqCreateXsollaOrder",
+      "response": "ResCreateXsollaOrder"
+    },
+    "createYostarSDKOrder": {
+      "request": "ReqCreateYostarOrder",
+      "response": "ResCreateYostarOrder"
+    },
+    "createYostarV4SDKOrder": {
+      "request": "ReqCreateYostarV4SDKOrder",
+      "response": "ResCreateYostarV4SDKOrder"
+    },
+    "deleteAccount": {
+      "request": "ReqCommon",
+      "response": "ResDeleteAccount"
+    },
+    "deleteComment": {
+      "request": "ReqDeleteComment",
+      "response": "ResCommon"
+    },
+    "deleteMail": {
+      "request": "ReqDeleteMail",
+      "response": "ResCommon"
+    },
+    "deliverAA32Order": {
+      "request": "ReqDeliverAA32Order",
+      "response": "ResCommon"
+    },
+    "digMine": {
+      "request": "ReqDigMine",
+      "response": "ResDigMine"
+    },
+    "dmmPreLogin": {
+      "request": "ReqDMMPreLogin",
+      "response": "ResDMMPreLogin"
+    },
+    "doActivitySignIn": {
+      "request": "ReqDoActivitySignIn",
+      "response": "ResDoActivitySignIn"
+    },
+    "doDailySignIn": {
+      "request": "ReqCommon",
+      "response": "ResCommon"
+    },
+    "dressingStatus": {
+      "request": "ReqRoomDressing",
+      "response": "ResCommon"
+    },
+    "emailLogin": {
+      "request": "ReqEmailLogin",
+      "response": "ResLogin"
+    },
+    "enterArena": {
+      "request": "ReqEnterArena",
+      "response": "ResCommon"
+    },
+    "enterCustomizedContest": {
+      "request": "ReqEnterCustomizedContest",
+      "response": "ResEnterCustomizedContest"
+    },
+    "exchangeActivityItem": {
+      "request": "ReqExchangeActivityItem",
+      "response": "ResExchangeActivityItem"
+    },
+    "exchangeChestStone": {
+      "request": "ReqExchangeCurrency",
+      "response": "ResCommon"
+    },
+    "exchangeCurrency": {
+      "request": "ReqExchangeCurrency",
+      "response": "ResCommon"
+    },
+    "exchangeDiamond": {
+      "request": "ReqExchangeCurrency",
+      "response": "ResCommon"
+    },
+    "fastLogin": {
+      "request": "ReqFastLogin",
+      "response": "ResFastLogin"
+    },
+    "feedActivityFeed": {
+      "request": "ReqFeedActivityFeed",
+      "response": "ResFeedActivityFeed"
+    },
+    "festivalActivityDebug": {
+      "request": "ReqFestivalDebug",
+      "response": "ResCommon"
+    },
+    "festivalActivityFetchDebug": {
+      "request": "ReqFestivalFetchDebug",
+      "response": "ResFestivalFetchDebug"
+    },
+    "fetchABMatchInfo": {
+      "request": "ReqCommon",
+      "response": "ResFetchABMatch"
+    },
+    "fetchAccountActivityData": {
+      "request": "ReqCommon",
+      "response": "ResAccountActivityData"
+    },
+    "fetchAccountChallengeRankInfo": {
+      "request": "ReqAccountInfo",
+      "response": "ResAccountChallengeRankInfo"
+    },
+    "fetchAccountCharacterInfo": {
+      "request": "ReqCommon",
+      "response": "ResAccountCharacterInfo"
+    },
+    "fetchAccountGameHuRecords": {
+      "request": "ReqFetchAccountGameHuRecords",
+      "response": "ResFetchAccountGameHuRecords"
+    },
+    "fetchAccountInfo": {
+      "request": "ReqAccountInfo",
+      "response": "ResAccountInfo"
+    },
+    "fetchAccountInfoExtra": {
+      "request": "ReqFetchAccountInfoExtra",
+      "response": "ResFetchAccountInfoExtra"
+    },
+    "fetchAccountSettings": {
+      "request": "ReqCommon",
+      "response": "ResAccountSettings"
+    },
+    "fetchAccountState": {
+      "request": "ReqAccountList",
+      "response": "ResAccountStates"
+    },
+    "fetchAccountStatisticInfo": {
+      "request": "ReqAccountStatisticInfo",
+      "response": "ResAccountStatisticInfo"
+    },
+    "fetchAchievement": {
+      "request": "ReqCommon",
+      "response": "ResAchievement"
+    },
+    "fetchAchievementRate": {
+      "request": "ReqCommon",
+      "response": "ResFetchAchievementRate"
+    },
+    "fetchActivityBuff": {
+      "request": "ReqCommon",
+      "response": "ResActivityBuff"
+    },
+    "fetchActivityFlipInfo": {
+      "request": "ReqFetchActivityFlipInfo",
+      "response": "ResFetchActivityFlipInfo"
+    },
+    "fetchActivityInterval": {
+      "request": "ReqCommon",
+      "response": "ResFetchActivityInterval"
+    },
+    "fetchActivityList": {
+      "request": "ReqCommon",
+      "response": "ResActivityList"
+    },
+    "fetchActivityRank": {
+      "request": "ReqFetchActivityRank",
+      "response": "ResFetchActivityRank"
+    },
+    "fetchAllCommonViews": {
+      "request": "ReqCommon",
+      "response": "ResAllcommonViews"
+    },
+    "fetchAmuletActivityData": {
+      "request": "ReqFetchAmuletActivityData",
+      "response": "ResFetchAmuletActivityData"
+    },
+    "fetchAnnouncement": {
+      "request": "ReqFetchAnnouncement",
+      "response": "ResAnnouncement"
+    },
+    "fetchAnnualReportInfo": {
+      "request": "ReqCommon",
+      "response": "ResFetchAnnualReportInfo"
+    },
+    "fetchBagInfo": {
+      "request": "ReqCommon",
+      "response": "ResBagInfo"
+    },
+    "fetchBannerActivityData": {
+      "request": "ReqFetchBannerActivityData",
+      "response": "ResFetchBannerActivityData"
+    },
+    "fetchBingoActivityData": {
+      "request": "ReqFetchBingoActivityData",
+      "response": "ResFetchBingoActivityData"
+    },
+    "fetchChallengeInfo": {
+      "request": "ReqCommon",
+      "response": "ResFetchChallengeInfo"
+    },
+    "fetchChallengeLeaderboard": {
+      "request": "ReqChallangeLeaderboard",
+      "response": "ResChallengeLeaderboard"
+    },
+    "fetchChallengeSeason": {
+      "request": "ReqCommon",
+      "response": "ResChallengeSeasonInfo"
+    },
+    "fetchCharacterInfo": {
+      "request": "ReqCommon",
+      "response": "ResCharacterInfo"
+    },
+    "fetchClientValue": {
+      "request": "ReqCommon",
+      "response": "ResClientValue"
+    },
+    "fetchCollectedGameRecordList": {
+      "request": "ReqCommon",
+      "response": "ResCollectedGameRecordList"
+    },
+    "fetchCommentContent": {
+      "request": "ReqFetchCommentContent",
+      "response": "ResFetchCommentContent"
+    },
+    "fetchCommentList": {
+      "request": "ReqFetchCommentList",
+      "response": "ResFetchCommentList"
+    },
+    "fetchCommentSetting": {
+      "request": "ReqCommon",
+      "response": "ResCommentSetting"
+    },
+    "fetchCommonView": {
+      "request": "ReqCommon",
+      "response": "ResCommonView"
+    },
+    "fetchCommonViews": {
+      "request": "ReqCommonViews",
+      "response": "ResCommonViews"
+    },
+    "fetchConnectionInfo": {
+      "request": "ReqCommon",
+      "response": "ResConnectionInfo"
+    },
+    "fetchContestPlayerRank": {
+      "request": "ReqFetchContestPlayerRank",
+      "response": "ResFetchContestPlayerRank"
+    },
+    "fetchContestTeamMember": {
+      "request": "ReqFetchContestTeamMember",
+      "response": "ResFetchContestTeamMember"
+    },
+    "fetchContestTeamPlayerRank": {
+      "request": "ReqFetchContestTeamPlayerRank",
+      "response": "ResFetchContestPlayerRank"
+    },
+    "fetchContestTeamRank": {
+      "request": "ReqFetchContestTeamRank",
+      "response": "ResFetchContestTeamRank"
+    },
+    "fetchCurrentMatchInfo": {
+      "request": "ReqCurrentMatchInfo",
+      "response": "ResCurrentMatchInfo"
+    },
+    "fetchCustomizedContestAuthInfo": {
+      "request": "ReqFetchCustomizedContestAuthInfo",
+      "response": "ResFetchCustomizedContestAuthInfo"
+    },
+    "fetchCustomizedContestByContestId": {
+      "request": "ReqFetchCustomizedContestByContestId",
+      "response": "ResFetchCustomizedContestByContestId"
+    },
+    "fetchCustomizedContestGameLiveList": {
+      "request": "ReqFetchCustomizedContestGameLiveList",
+      "response": "ResFetchCustomizedContestGameLiveList"
+    },
+    "fetchCustomizedContestGameRecords": {
+      "request": "ReqFetchCustomizedContestGameRecords",
+      "response": "ResFetchCustomizedContestGameRecords"
+    },
+    "fetchCustomizedContestList": {
+      "request": "ReqFetchCustomizedContestList",
+      "response": "ResFetchCustomizedContestList"
+    },
+    "fetchCustomizedContestOnlineInfo": {
+      "request": "ReqFetchCustomizedContestOnlineInfo",
+      "response": "ResFetchCustomizedContestOnlineInfo"
+    },
+    "fetchDailySignInInfo": {
+      "request": "ReqCommon",
+      "response": "ResDailySignInInfo"
+    },
+    "fetchDailyTask": {
+      "request": "ReqCommon",
+      "response": "ResDailyTask"
+    },
+    "fetchFriendApplyList": {
+      "request": "ReqCommon",
+      "response": "ResFriendApplyList"
+    },
+    "fetchFriendGiftActivityData": {
+      "request": "ReqFetchFriendGiftActivityData",
+      "response": "ResFetchFriendGiftActivityData"
+    },
+    "fetchFriendList": {
+      "request": "ReqCommon",
+      "response": "ResFriendList"
+    },
+    "fetchGameLiveInfo": {
+      "request": "ReqGameLiveInfo",
+      "response": "ResGameLiveInfo"
+    },
+    "fetchGameLiveLeftSegment": {
+      "request": "ReqGameLiveLeftSegment",
+      "response": "ResGameLiveLeftSegment"
+    },
+    "fetchGameLiveList": {
+      "request": "ReqGameLiveList",
+      "response": "ResGameLiveList"
+    },
+    "fetchGamePointRank": {
+      "request": "ReqGamePointRank",
+      "response": "ResGamePointRank"
+    },
+    "fetchGameRecord": {
+      "request": "ReqGameRecord",
+      "response": "ResGameRecord"
+    },
+    "fetchGameRecordList": {
+      "request": "ReqGameRecordList",
+      "response": "ResGameRecordList"
+    },
+    "fetchGameRecordListV2": {
+      "request": "ReqGameRecordListV2",
+      "response": "ResGameRecordListV2"
+    },
+    "fetchGameRecordsDetail": {
+      "request": "ReqGameRecordsDetail",
+      "response": "ResGameRecordsDetail"
+    },
+    "fetchGameRecordsDetailV2": {
+      "request": "ReqGameRecordsDetailV2",
+      "response": "ResGameRecordsDetailV2"
+    },
+    "fetchGamingInfo": {
+      "request": "ReqCommon",
+      "response": "ResFetchGamingInfo"
+    },
+    "fetchIDCardInfo": {
+      "request": "ReqCommon",
+      "response": "ResIDCardInfo"
+    },
+    "fetchInfo": {
+      "request": "ReqCommon",
+      "response": "ResFetchInfo"
+    },
+    "fetchJPCommonCreditCardOrder": {
+      "request": "ReqFetchJPCommonCreditCardOrder",
+      "response": "ResFetchJPCommonCreditCardOrder"
+    },
+    "fetchLastPrivacy": {
+      "request": "ReqFetchLastPrivacy",
+      "response": "ResFetchLastPrivacy"
+    },
+    "fetchLevelLeaderboard": {
+      "request": "ReqLevelLeaderboard",
+      "response": "ResLevelLeaderboard"
+    },
+    "fetchMailInfo": {
+      "request": "ReqCommon",
+      "response": "ResMailInfo"
+    },
+    "fetchMaintainNotice": {
+      "request": "ReqCommon",
+      "response": "ResFetchMaintainNotice"
+    },
+    "fetchManagerCustomizedContest": {
+      "request": "ReqFetchManagerCustomizedContest",
+      "response": "ResFetchManagerCustomizedContest"
+    },
+    "fetchManagerCustomizedContestList": {
+      "request": "ReqFetchmanagerCustomizedContestList",
+      "response": "ResFetchManagerCustomizedContestList"
+    },
+    "fetchMisc": {
+      "request": "ReqCommon",
+      "response": "ResMisc"
+    },
+    "fetchModNicknameTime": {
+      "request": "ReqCommon",
+      "response": "ResModNicknameTime"
+    },
+    "fetchMonthTicketInfo": {
+      "request": "ReqCommon",
+      "response": "ResMonthTicketInfo"
+    },
+    "fetchMultiAccountBrief": {
+      "request": "ReqMultiAccountId",
+      "response": "ResMultiAccountBrief"
+    },
+    "fetchMutiChallengeLevel": {
+      "request": "ReqMutiChallengeLevel",
+      "response": "ResMutiChallengeLevel"
+    },
+    "fetchNextGameRecordList": {
+      "request": "ReqNextGameRecordList",
+      "response": "ResNextGameRecordList"
+    },
+    "fetchOBToken": {
+      "request": "ReqFetchOBToken",
+      "response": "ResFetchOBToken"
+    },
+    "fetchOauth2Info": {
+      "request": "ReqFetchOauth2",
+      "response": "ResFetchOauth2"
+    },
+    "fetchPhoneLoginBind": {
+      "request": "ReqCommon",
+      "response": "ResFetchPhoneLoginBind"
+    },
+    "fetchPlatformProducts": {
+      "request": "ReqPlatformBillingProducts",
+      "response": "ResPlatformBillingProducts"
+    },
+    "fetchProgressRewardActivityInfo": {
+      "request": "ReqFetchProgressRewardActivityInfo",
+      "response": "ResFetchProgressRewardActivityInfo"
+    },
+    "fetchQuestionnaireDetail": {
+      "request": "ReqFetchQuestionnaireDetail",
+      "response": "ResFetchQuestionnaireDetail"
+    },
+    "fetchQuestionnaireList": {
+      "request": "ReqFetchQuestionnaireList",
+      "response": "ResFetchQuestionnaireList"
+    },
+    "fetchQueueInfo": {
+      "request": "ReqCommon",
+      "response": "ResFetchQueueInfo"
+    },
+    "fetchRPGBattleHistory": {
+      "request": "ReqFetchRPGBattleHistory",
+      "response": "ResFetchRPGBattleHistory"
+    },
+    "fetchRPGBattleHistoryV2": {
+      "request": "ReqFetchRPGBattleHistory",
+      "response": "ResFetchRPGBattleHistoryV2"
+    },
+    "fetchRandomCharacter": {
+      "request": "ReqCommon",
+      "response": "ResRandomCharacter"
+    },
+    "fetchRankPointLeaderboard": {
+      "request": "ReqFetchRankPointLeaderboard",
+      "response": "ResFetchRankPointLeaderboard"
+    },
+    "fetchReadyPlayerList": {
+      "request": "ReqFetchReadyPlayerList",
+      "response": "ResFetchReadyPlayerList"
+    },
+    "fetchRecentFriend": {
+      "request": "ReqCommon",
+      "response": "ResFetchrecentFriend"
+    },
+    "fetchRefundOrder": {
+      "request": "ReqCommon",
+      "response": "ResFetchRefundOrder"
+    },
+    "fetchReviveCoinInfo": {
+      "request": "ReqCommon",
+      "response": "ResReviveCoinInfo"
+    },
+    "fetchRollingNotice": {
+      "request": "ReqFetchRollingNotice",
+      "response": "ResFetchRollingNotice"
+    },
+    "fetchRoom": {
+      "request": "ReqCommon",
+      "response": "ResSelfRoom"
+    },
+    "fetchSeerInfo": {
+      "request": "ReqCommon",
+      "response": "ResFetchSeerInfo"
+    },
+    "fetchSeerReport": {
+      "request": "ReqFetchSeerReport",
+      "response": "ResFetchSeerReport"
+    },
+    "fetchSeerReportList": {
+      "request": "ReqCommon",
+      "response": "ResFetchSeerReportList"
+    },
+    "fetchSelfGamePointRank": {
+      "request": "ReqGamePointRank",
+      "response": "ResFetchSelfGamePointRank"
+    },
+    "fetchServerMaintenanceInfo": {
+      "request": "ReqCommon",
+      "response": "ResFetchServerMaintenanceInfo"
+    },
+    "fetchServerSettings": {
+      "request": "ReqCommon",
+      "response": "ResServerSettings"
+    },
+    "fetchServerTime": {
+      "request": "ReqCommon",
+      "response": "ResServerTime"
+    },
+    "fetchShopInfo": {
+      "request": "ReqCommon",
+      "response": "ResShopInfo"
+    },
+    "fetchShopInterval": {
+      "request": "ReqCommon",
+      "response": "ResFetchShopInterval"
+    },
+    "fetchSimulationGameRank": {
+      "request": "ReqFetchSimulationGameRank",
+      "response": "ResFetchSimulationGameRank"
+    },
+    "fetchSimulationGameRecord": {
+      "request": "ReqFetchSimulationGameRecord",
+      "response": "ResFetchSimulationGameRecord"
+    },
+    "fetchTitleList": {
+      "request": "ReqCommon",
+      "response": "ResTitleList"
+    },
+    "fetchVipReward": {
+      "request": "ReqCommon",
+      "response": "ResVipReward"
+    },
+    "fetchVoteActivity": {
+      "request": "ReqFetchVoteActivity",
+      "response": "ResFetchVoteActivity"
+    },
+    "finishCombiningOrder": {
+      "request": "ReqFinishCombiningOrder",
+      "response": "ResFinishCombiningOrder"
+    },
+    "followCustomizedContest": {
+      "request": "ReqTargetCustomizedContest",
+      "response": "ResCommon"
+    },
+    "forceCompleteChallengeTask": {
+      "request": "ReqForceCompleteChallengeTask",
+      "response": "ResCommon"
+    },
+    "gainAccumulatedPointActivityReward": {
+      "request": "ReqGainAccumulatedPointActivityReward",
+      "response": "ResCommon"
+    },
+    "gainMultiPointActivityReward": {
+      "request": "ReqGainMultiPointActivityReward",
+      "response": "ResCommon"
+    },
+    "gainRankPointReward": {
+      "request": "ReqGainRankPointReward",
+      "response": "ResCommon"
+    },
+    "gainReviveCoin": {
+      "request": "ReqCommon",
+      "response": "ResCommon"
+    },
+    "gainVipReward": {
+      "request": "ReqGainVipReward",
+      "response": "ResCommon"
+    },
+    "gameMasterCommand": {
+      "request": "ReqGMCommand",
+      "response": "ResCommon"
+    },
+    "generateAnnualReportToken": {
+      "request": "ReqGenerateAnnualReportToken",
+      "response": "ResGenerateAnnualReportToken"
+    },
+    "generateCombiningCraft": {
+      "request": "ReqGenerateCombiningCraft",
+      "response": "ResGenerateCombiningCraft"
+    },
+    "generateContestManagerLoginCode": {
+      "request": "ReqCommon",
+      "response": "ResGenerateContestManagerLoginCode"
+    },
+    "getFriendVillageData": {
+      "request": "ReqGetFriendVillageData",
+      "response": "ResGetFriendVillageData"
+    },
+    "goNextShiLian": {
+      "request": "ReqCommon",
+      "response": "ResCommon"
+    },
+    "handleFriendApply": {
+      "request": "ReqHandleFriendApply",
+      "response": "ResCommon"
+    },
+    "heatbeat": {
+      "request": "ReqHeatBeat",
+      "response": "ResCommon"
+    },
+    "islandActivityBuy": {
+      "request": "ReqIslandActivityBuy",
+      "response": "ResCommon"
+    },
+    "islandActivityMove": {
+      "request": "ReqIslandActivityMove",
+      "response": "ResCommon"
+    },
+    "islandActivitySell": {
+      "request": "ReqIslandActivitySell",
+      "response": "ResCommon"
+    },
+    "islandActivityTidyBag": {
+      "request": "ReqIslandActivityTidyBag",
+      "response": "ResCommon"
+    },
+    "islandActivityUnlockBagGrid": {
+      "request": "ReqIslandActivityUnlockBagGrid",
+      "response": "ResCommon"
+    },
+    "joinCustomizedContestChatRoom": {
+      "request": "ReqJoinCustomizedContestChatRoom",
+      "response": "ResJoinCustomizedContestChatRoom"
+    },
+    "joinRoom": {
+      "request": "ReqJoinRoom",
+      "response": "ResJoinRoom"
+    },
+    "leaveComment": {
+      "request": "ReqLeaveComment",
+      "response": "ResCommon"
+    },
+    "leaveCustomizedContest": {
+      "request": "ReqCommon",
+      "response": "ResCommon"
+    },
+    "leaveCustomizedContestChatRoom": {
+      "request": "ReqCommon",
+      "response": "ResCommon"
+    },
+    "leaveRoom": {
+      "request": "ReqCommon",
+      "response": "ResCommon"
+    },
+    "likeSNS": {
+      "request": "ReqLikeSNS",
+      "response": "ResLikeSNS"
+    },
+    "logReport": {
+      "request": "ReqLogReport",
+      "response": "ResCommon"
+    },
+    "login": {
+      "request": "ReqLogin",
+      "response": "ResLogin"
+    },
+    "loginBeat": {
+      "request": "ReqLoginBeat",
+      "response": "ResCommon"
+    },
+    "loginSuccess": {
+      "request": "ReqCommon",
+      "response": "ResCommon"
+    },
+    "logout": {
+      "request": "ReqLogout",
+      "response": "ResLogout"
+    },
+    "marathonActivityFinishRace": {
+      "request": "ReqMarathonActivityFinishRace",
+      "response": "ResMarathonActivityFinishRace"
+    },
+    "marathonActivityStartRace": {
+      "request": "ReqMarathonActivityStartRace",
+      "response": "ResMarathonActivityStartRace"
+    },
+    "marathonActivityTest": {
+      "request": "ReqMarathonActivityTest",
+      "response": "ResMarathonActivityTest"
+    },
+    "matchGame": {
+      "request": "ReqJoinMatchQueue",
+      "response": "ResCommon"
+    },
+    "matchShiLian": {
+      "request": "ReqCommon",
+      "response": "ResCommon"
+    },
+    "mmoActivityDebugSetTeamCandidate": {
+      "request": "ReqMMOActivityDebugSetTeamCandidate",
+      "response": "ResMMOActivityDebugSetTeamCandidate"
+    },
+    "mmoActivityEquipFusion": {
+      "request": "ReqMMOActivityEquipFusion",
+      "response": "ResMMOActivityEquipFusion"
+    },
+    "mmoActivityFetchData": {
+      "request": "ReqMMOActivityFetchData",
+      "response": "ResMMOActivityFetchData"
+    },
+    "mmoActivityFinishBattle": {
+      "request": "ReqMMOActivityFinishBattle",
+      "response": "ResMMOActivityFinishBattle"
+    },
+    "mmoActivityReceiveSupportReward": {
+      "request": "ReqMMOActivityReceiveSupportReward",
+      "response": "ResMMOActivityReceiveSupportReward"
+    },
+    "mmoActivitySetCharacter": {
+      "request": "ReqMMOActivitySetCharacter",
+      "response": "ResMMOActivitySetCharacter"
+    },
+    "mmoActivitySetEquip": {
+      "request": "ReqMMOActivitySetEquip",
+      "response": "ResMMOActivitySetEquip"
+    },
+    "mmoActivitySetTeamMember": {
+      "request": "ReqMMOActivitySetTeamMember",
+      "response": "ResMMOActivitySetTeamMember"
+    },
+    "mmoActivityStartBattle": {
+      "request": "ReqMMOActivityStartBattle",
+      "response": "ResMMOActivityStartBattle"
+    },
+    "mmoActivityUpdateFriendList": {
+      "request": "ReqMMOActivityUpdatehFriendList",
+      "response": "ResMMOActivityUpdatehFriendList"
+    },
+    "modifyBirthday": {
+      "request": "ReqModifyBirthday",
+      "response": "ResCommon"
+    },
+    "modifyNickname": {
+      "request": "ReqModifyNickname",
+      "response": "ResCommon"
+    },
+    "modifyPassword": {
+      "request": "ReqModifyPassword",
+      "response": "ResCommon"
+    },
+    "modifyRoom": {
+      "request": "ReqModifyRoom",
+      "response": "ResCommon"
+    },
+    "modifySignature": {
+      "request": "ReqModifySignature",
+      "response": "ResCommon"
+    },
+    "moveCombiningCraft": {
+      "request": "ReqMoveCombiningCraft",
+      "response": "ResMoveCombiningCraft"
+    },
+    "nextRoundVillage": {
+      "request": "ReqNextRoundVillage",
+      "response": "ResNextRoundVillage"
+    },
+    "oauth2Auth": {
+      "request": "ReqOauth2Auth",
+      "response": "ResOauth2Auth"
+    },
+    "oauth2Check": {
+      "request": "ReqOauth2Check",
+      "response": "ResOauth2Check"
+    },
+    "oauth2Login": {
+      "request": "ReqOauth2Login",
+      "response": "ResLogin"
+    },
+    "oauth2Signup": {
+      "request": "ReqOauth2Signup",
+      "response": "ResOauth2Signup"
+    },
+    "openAllRewardItem": {
+      "request": "ReqOpenAllRewardItem",
+      "response": "ResOpenAllRewardItem"
+    },
+    "openChest": {
+      "request": "ReqOpenChest",
+      "response": "ResOpenChest"
+    },
+    "openGacha": {
+      "request": "ReqOpenGacha",
+      "response": "ResOpenGacha"
+    },
+    "openManualItem": {
+      "request": "ReqOpenManualItem",
+      "response": "ResCommon"
+    },
+    "openPreChestItem": {
+      "request": "ReqOpenPreChestItem",
+      "response": "ResOpenPreChestItem"
+    },
+    "openRandomRewardItem": {
+      "request": "ReqOpenRandomRewardItem",
+      "response": "ResOpenRandomRewardItem"
+    },
+    "openidCheck": {
+      "request": "ReqOpenidCheck",
+      "response": "ResOauth2Check"
+    },
+    "payMonthTicket": {
+      "request": "ReqCommon",
+      "response": "ResPayMonthTicket"
+    },
+    "prepareLogin": {
+      "request": "ReqPrepareLogin",
+      "response": "ResCommon"
+    },
+    "progressRewardActivityReceive": {
+      "request": "ReqProgressRewardActivityReceive",
+      "response": "ResProgressRewardActivityReceive"
+    },
+    "questCrewActivityFeed": {
+      "request": "ReqQuestCrewActivityFeed",
+      "response": "ResQuestCrewActivityFeed"
+    },
+    "questCrewActivityHire": {
+      "request": "ReqQuestCrewActivityHire",
+      "response": "ResQuestCrewActivityHire"
+    },
+    "questCrewActivityRefreshMarket": {
+      "request": "ReqQuestCrewActivityRefreshMarket",
+      "response": "ResQuestCrewActivityRefreshMarket"
+    },
+    "questCrewActivityStartQuest": {
+      "request": "ReqQuestCrewActivityStartQuest",
+      "response": "ResQuestCrewActivityStartQuest"
+    },
+    "quitABMatch": {
+      "request": "ReqCommon",
+      "response": "ResCommon"
+    },
+    "readAnnouncement": {
+      "request": "ReqReadAnnouncement",
+      "response": "ResCommon"
+    },
+    "readGameRecord": {
+      "request": "ReqGameRecord",
+      "response": "ResCommon"
+    },
+    "readMail": {
+      "request": "ReqReadMail",
+      "response": "ResCommon"
+    },
+    "readSNS": {
+      "request": "ReqReadSNS",
+      "response": "ResReadSNS"
+    },
+    "readyPlay": {
+      "request": "ReqRoomReady",
+      "response": "ResCommon"
+    },
+    "receiveABMatchReward": {
+      "request": "ReqCommon",
+      "response": "ResCommon"
+    },
+    "receiveAchievementGroupReward": {
+      "request": "ReqReceiveAchievementGroupReward",
+      "response": "ResReceiveAchievementGroupReward"
+    },
+    "receiveAchievementReward": {
+      "request": "ReqReceiveAchievementReward",
+      "response": "ResReceiveAchievementReward"
+    },
+    "receiveActivityFlipTask": {
+      "request": "ReqReceiveActivityFlipTask",
+      "response": "ResReceiveActivityFlipTask"
+    },
+    "receiveActivityFlipTaskBatch": {
+      "request": "ReqReceiveActivityFlipTaskBatch",
+      "response": "ResReceiveActivityFlipTaskBatch"
+    },
+    "receiveActivityGift": {
+      "request": "ReqReceiveActivityGift",
+      "response": "ResCommon"
+    },
+    "receiveActivitySpotReward": {
+      "request": "ReqReceiveActivitySpotReward",
+      "response": "ResReceiveActivitySpotReward"
+    },
+    "receiveAllActivityGift": {
+      "request": "ReqReceiveAllActivityGift",
+      "response": "ResReceiveAllActivityGift"
+    },
+    "receiveArenaReward": {
+      "request": "ReqArenaReward",
+      "response": "ResArenaReward"
+    },
+    "receiveChallengeRankReward": {
+      "request": "ReqReceiveChallengeRankReward",
+      "response": "ResReceiveChallengeRankReward"
+    },
+    "receiveCharacterRewards": {
+      "request": "ReqReceiveCharacterRewards",
+      "response": "ResReceiveCharacterRewards"
+    },
+    "receiveEndingReward": {
+      "request": "ReqFinishedEnding",
+      "response": "ResCommon"
+    },
+    "receiveRPGReward": {
+      "request": "ReqReceiveRPGReward",
+      "response": "ResReceiveRPGRewards"
+    },
+    "receiveRPGRewards": {
+      "request": "ReqReceiveRPGRewards",
+      "response": "ResReceiveRPGRewards"
+    },
+    "receiveUpgradeActivityReward": {
+      "request": "ReqReceiveUpgradeActivityReward",
+      "response": "ResReceiveUpgradeActivityReward"
+    },
+    "receiveVersionReward": {
+      "request": "ReqCommon",
+      "response": "ResCommon"
+    },
+    "receiveVillageBuildingReward": {
+      "request": "ReqReceiveVillageBuildingReward",
+      "response": "ResReceiveVillageBuildingReward"
+    },
+    "receiveVillageTripReward": {
+      "request": "ReqReceiveVillageTripReward",
+      "response": "ResReceiveVillageTripReward"
+    },
+    "recoverCombiningRecycle": {
+      "request": "ReqRecoverCombiningRecycle",
+      "response": "ResRecoverCombiningRecycle"
+    },
+    "refreshChallenge": {
+      "request": "ReqCommon",
+      "response": "ResRefreshChallenge"
+    },
+    "refreshDailyTask": {
+      "request": "ReqRefreshDailyTask",
+      "response": "ResRefreshDailyTask"
+    },
+    "refreshGameObserveAuth": {
+      "request": "ReqRefreshGameObserveAuth",
+      "response": "ResRefreshGameObserveAuth"
+    },
+    "refreshZHPShop": {
+      "request": "ReqReshZHPShop",
+      "response": "ResRefreshZHPShop"
+    },
+    "remarkFriend": {
+      "request": "ReqRemarkFriend",
+      "response": "ResCommon"
+    },
+    "removeCollectedGameRecord": {
+      "request": "ReqRemoveCollectedGameRecord",
+      "response": "ResRemoveCollectedGameRecord"
+    },
+    "removeFriend": {
+      "request": "ReqRemoveFriend",
+      "response": "ResCommon"
+    },
+    "replySNS": {
+      "request": "ReqReplySNS",
+      "response": "ResReplySNS"
+    },
+    "resolveFestivalActivityEvent": {
+      "request": "ReqResolveFestivalActivityEvent",
+      "response": "ResResolveFestivalActivityEvent"
+    },
+    "resolveFestivalActivityProposal": {
+      "request": "ReqResolveFestivalActivityProposal",
+      "response": "ResResolveFestivalActivityProposal"
+    },
+    "richmanAcitivitySpecialMove": {
+      "request": "ReqRichmanSpecialMove",
+      "response": "ResRichmanNextMove"
+    },
+    "richmanActivityChestInfo": {
+      "request": "ReqRichmanChestInfo",
+      "response": "ResRichmanChestInfo"
+    },
+    "richmanActivityNextMove": {
+      "request": "ReqRichmanNextMove",
+      "response": "ResRichmanNextMove"
+    },
+    "roomKickPlayer": {
+      "request": "ReqRoomKickPlayer",
+      "response": "ResCommon"
+    },
+    "saveCommonViews": {
+      "request": "ReqSaveCommonViews",
+      "response": "ResCommon"
+    },
+    "sayChatMessage": {
+      "request": "ReqSayChatMessage",
+      "response": "ResCommon"
+    },
+    "searchAccountByEid": {
+      "request": "ReqSearchAccountByEidLobby",
+      "response": "ResSearchAccountbyEidLobby"
+    },
+    "searchAccountById": {
+      "request": "ReqSearchAccountById",
+      "response": "ResSearchAccountById"
+    },
+    "searchAccountByPattern": {
+      "request": "ReqSearchAccountByPattern",
+      "response": "ResSearchAccountByPattern"
+    },
+    "selectChestChooseGroupActivity": {
+      "request": "ReqSelectChestChooseGroupActivity",
+      "response": "ResCommon"
+    },
+    "selectChestChooseUpActivity": {
+      "request": "ReqSelectChestChooseUp",
+      "response": "ResCommon"
+    },
+    "sellItem": {
+      "request": "ReqSellItem",
+      "response": "ResCommon"
+    },
+    "sendActivityGiftToFriend": {
+      "request": "ReqSendActivityGiftToFriend",
+      "response": "ResSendActivityGiftToFriend"
+    },
+    "sendClientMessage": {
+      "request": "ReqSendClientMessage",
+      "response": "ResCommon"
+    },
+    "sendGiftToCharacter": {
+      "request": "ReqSendGiftToCharacter",
+      "response": "ResSendGiftToCharacter"
+    },
+    "setAccountFavoriteHu": {
+      "request": "ReqSetAccountFavoriteHu",
+      "response": "ResCommon"
+    },
+    "setActivityBuff": {
+      "request": "ReqSetActivityBuff",
+      "response": "ResActivityBuff"
+    },
+    "setFriendRoomRandomBotChar": {
+      "request": "ReqSetFriendRoomRandomBotChar",
+      "response": "ResCommon"
+    },
+    "setHiddenCharacter": {
+      "request": "ReqSetHiddenCharacter",
+      "response": "ResSetHiddenCharacter"
+    },
+    "setLoadingImage": {
+      "request": "ReqSetLoadingImage",
+      "response": "ResCommon"
+    },
+    "setRandomCharacter": {
+      "request": "ReqRandomCharacter",
+      "response": "ResCommon"
+    },
+    "setVerifiedHidden": {
+      "request": "ReqSetVerifiedHidden",
+      "response": "ResCommon"
+    },
+    "setVillageWorker": {
+      "request": "ReqSetVillageWorker",
+      "response": "ResSetVillageWorker"
+    },
+    "shootActivityAttackEnemies": {
+      "request": "ReqShootActivityAttackEnemies",
+      "response": "ResShootActivityAttackEnemies"
+    },
+    "shopPurchase": {
+      "request": "ReqShopPurchase",
+      "response": "ResShopPurchase"
+    },
+    "signup": {
+      "request": "ReqSignupAccount",
+      "response": "ResSignupAccount"
+    },
+    "signupCustomizedContest": {
+      "request": "ReqSignupCustomizedContest",
+      "response": "ResSignupCustomizedContest"
+    },
+    "simV2ActivityDebug": {
+      "request": "ReqSimV2ActivityDebug",
+      "response": "ResCommon"
+    },
+    "simV2ActivityEndMatch": {
+      "request": "ReqSimV2ActivityEndMatch",
+      "response": "ResSimV2ActivityEndMatch"
+    },
+    "simV2ActivityFetchDebug": {
+      "request": "ReqSimV2ActivityFetchDebug",
+      "response": "ResSimV2ActivityFetchDebug"
+    },
+    "simV2ActivityFetchInfo": {
+      "request": "ReqSimV2ActivityFetchInfo",
+      "response": "ResSimV2ActivityFetchInfo"
+    },
+    "simV2ActivityGiveUp": {
+      "request": "ReqSimV2ActivityGiveUp",
+      "response": "ResCommon"
+    },
+    "simV2ActivitySelectEvent": {
+      "request": "ReqSimV2ActivitySelectEvent",
+      "response": "ResSimV2ActivitySelectEvent"
+    },
+    "simV2ActivitySetUpgrade": {
+      "request": "ReqSimV2ActivitySetUpgrade",
+      "response": "ResCommon"
+    },
+    "simV2ActivityStartMatch": {
+      "request": "ReqSimV2ActivityStartMatch",
+      "response": "ResSimV2ActivityStartMatch"
+    },
+    "simV2ActivityStartSeason": {
+      "request": "ReqSimV2ActivityStartSeason",
+      "response": "ResSimV2ActivityStartSeason"
+    },
+    "simV2ActivityTrain": {
+      "request": "ReqSimV2ActivityTrain",
+      "response": "ResSimV2ActivityTrain"
+    },
+    "simulationActivityTrain": {
+      "request": "ReqSimulationActivityTrain",
+      "response": "ResSimulationActivityTrain"
+    },
+    "snowballActivityDebug": {
+      "request": "ReqSnowballActivityDebug",
+      "response": "ResCommon"
+    },
+    "snowballActivityFetchDebug": {
+      "request": "ReqSnowballActivityFetchDebug",
+      "response": "ResSnowballActivityFetchDebug"
+    },
+    "snowballActivityFinishBattle": {
+      "request": "ReqSnowballActivityFinishBattle",
+      "response": "ResSnowballActivityFinishBattle"
+    },
+    "snowballActivityReceiveReward": {
+      "request": "ReqSnowballActivityReceiveReward",
+      "response": "ResSnowballActivityReceiveReward"
+    },
+    "snowballActivityStartBattle": {
+      "request": "ReqSnowballActivityStartBattle",
+      "response": "ResSnowballActivityStartBattle"
+    },
+    "snowballActivityUpgrade": {
+      "request": "ReqSnowballActivityUpgrade",
+      "response": "ResSnowballActivityUpgrade"
+    },
+    "solveGooglePayOrderV3": {
+      "request": "ReqSolveGooglePlayOrderV3",
+      "response": "ResCommon"
+    },
+    "solveGooglePlayOrder": {
+      "request": "ReqSolveGooglePlayOrder",
+      "response": "ResCommon"
+    },
+    "startCustomizedContest": {
+      "request": "ReqStartCustomizedContest",
+      "response": "ResCommon"
+    },
+    "startRoom": {
+      "request": "ReqRoomStart",
+      "response": "ResCommon"
+    },
+    "startSimulationActivityGame": {
+      "request": "ReqStartSimulationActivityGame",
+      "response": "ResStartSimulationActivityGame"
+    },
+    "startUnifiedMatch": {
+      "request": "ReqStartUnifiedMatch",
+      "response": "ResCommon"
+    },
+    "startVillageTrip": {
+      "request": "ReqStartVillageTrip",
+      "response": "ResCommon"
+    },
+    "stopCustomizedContest": {
+      "request": "ReqStopCustomizedContest",
+      "response": "ResCommon"
+    },
+    "storyActivityReceiveAllFinishReward": {
+      "request": "ReqStoryActivityReceiveAllFinishReward",
+      "response": "ResStoryReward"
+    },
+    "storyActivityReceiveEndingReward": {
+      "request": "ReqStoryActivityReceiveEndingReward",
+      "response": "ResStoryReward"
+    },
+    "storyActivityReceiveFinishReward": {
+      "request": "ReqStoryActivityReceiveFinishReward",
+      "response": "ResStoryReward"
+    },
+    "storyActivityUnlock": {
+      "request": "ReqStoryActivityUnlock",
+      "response": "ResCommon"
+    },
+    "storyActivityUnlockEnding": {
+      "request": "ReqStoryActivityUnlockEnding",
+      "response": "ResCommon"
+    },
+    "storyActivityUnlockEndingAndReceive": {
+      "request": "ReqStoryActivityUnlockEndingAndReceive",
+      "response": "ResStoryActivityUnlockEndingAndReceive"
+    },
+    "submitQuestionnaire": {
+      "request": "ReqSubmitQuestionnaire",
+      "response": "ResCommon"
+    },
+    "takeAttachmentFromMail": {
+      "request": "ReqTakeAttachment",
+      "response": "ResCommon"
+    },
+    "taskRequest": {
+      "request": "ReqTaskRequest",
+      "response": "ResCommon"
+    },
+    "unbindPhoneNumber": {
+      "request": "ReqUnbindPhoneNumber",
+      "response": "ResCommon"
+    },
+    "unfollowCustomizedContest": {
+      "request": "ReqTargetCustomizedContest",
+      "response": "ResCommon"
+    },
+    "unlockActivitySpot": {
+      "request": "ReqUnlockActivitySpot",
+      "response": "ResCommon"
+    },
+    "unlockActivitySpotEnding": {
+      "request": "ReqUnlockActivitySpotEnding",
+      "response": "ResCommon"
+    },
+    "updateAccountSettings": {
+      "request": "ReqUpdateAccountSettings",
+      "response": "ResCommon"
+    },
+    "updateCharacterSort": {
+      "request": "ReqUpdateCharacterSort",
+      "response": "ResCommon"
+    },
+    "updateClientValue": {
+      "request": "ReqUpdateClientValue",
+      "response": "ResCommon"
+    },
+    "updateCommentSetting": {
+      "request": "ReqUpdateCommentSetting",
+      "response": "ResCommon"
+    },
+    "updateIDCardInfo": {
+      "request": "ReqUpdateIDCardInfo",
+      "response": "ResCommon"
+    },
+    "updateManagerCustomizedContest": {
+      "request": "ReqUpdateManagerCustomizedContest",
+      "response": "ResCommon"
+    },
+    "updateReadComment": {
+      "request": "ReqUpdateReadComment",
+      "response": "ResCommon"
+    },
+    "upgradeActivityBuff": {
+      "request": "ReqUpgradeActivityBuff",
+      "response": "ResActivityBuff"
+    },
+    "upgradeActivityLevel": {
+      "request": "ReqUpgradeActivityLevel",
+      "response": "ResUpgradeActivityLevel"
+    },
+    "upgradeChallenge": {
+      "request": "ReqCommon",
+      "response": "ResUpgradeChallenge"
+    },
+    "upgradeCharacter": {
+      "request": "ReqUpgradeCharacter",
+      "response": "ResUpgradeCharacter"
+    },
+    "upgradeVillageBuilding": {
+      "request": "ReqUpgradeVillageBuilding",
+      "response": "ResCommon"
+    },
+    "useBagItem": {
+      "request": "ReqUseBagItem",
+      "response": "ResCommon"
+    },
+    "useCommonView": {
+      "request": "ReqUseCommonView",
+      "response": "ResCommon"
+    },
+    "useGiftCode": {
+      "request": "ReqUseGiftCode",
+      "response": "ResUseGiftCode"
+    },
+    "useSpecialGiftCode": {
+      "request": "ReqUseGiftCode",
+      "response": "ResUseSpecialGiftCode"
+    },
+    "useTitle": {
+      "request": "ReqUseTitle",
+      "response": "ResCommon"
+    },
+    "userComplain": {
+      "request": "ReqUserComplain",
+      "response": "ResCommon"
+    },
+    "verfifyCodeForSecure": {
+      "request": "ReqVerifyCodeForSecure",
+      "response": "ResVerfiyCodeForSecure"
+    },
+    "verificationIAPOrder": {
+      "request": "ReqVerificationIAPOrder",
+      "response": "ResVerificationIAPOrder"
+    },
+    "verifyMyCardOrder": {
+      "request": "ReqVerifyMyCardOrder",
+      "response": "ResCommon"
+    },
+    "verifySteamOrder": {
+      "request": "ReqVerifySteamOrder",
+      "response": "ResCommon"
+    },
+    "voteActivity": {
+      "request": "ReqVoteActivity",
+      "response": "ResVoteActivity"
+    },
+    "yostarDeleteAccount": {
+      "request": "ReqYostarDeleteAccount",
+      "response": "ResYostarDeleteAccount"
+    }
+  },
+  "Route": {
+    "heartbeat": {
+      "request": "ReqHeartbeat",
+      "response": "ResHeartbeat"
+    },
+    "requestConnection": {
+      "request": "ReqRequestConnection",
+      "response": "ResRequestConnection"
+    },
+    "requestRouteChange": {
+      "request": "ReqRequestRouteChange",
+      "response": "ResRequestRouteChange"
+    }
+  }
+}

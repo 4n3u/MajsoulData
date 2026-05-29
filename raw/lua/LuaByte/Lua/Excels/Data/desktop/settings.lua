@@ -1,0 +1,1 @@
+local a=require("ExcelTool")local b=a.Pack;local c=a.Sub;local d=a.PackGet;local e=a.Dmap;local f={["key"]=1001,["int_value"]=2}local g={nil,nil}local h=function(i,j)return d(i,j,f,g)end;local k={}k["account_friendship_bar_length"]=b({"account_friendship_bar_length",1000},h)k["account_friendship_bar_reward_id"]=b({"account_friendship_bar_reward_id",303991},h)return{tb=k}

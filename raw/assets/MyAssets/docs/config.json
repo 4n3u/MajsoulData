@@ -1,0 +1,48 @@
+{
+  "ip": [
+    {
+      "name": "玩家线上服",
+      "gateways": [
+        {
+          "id": "route-1",
+          "url": "http://203.107.63.200:7201"
+        },
+        {
+          "id": "route-2",
+          "url": "https://route-2.maj-soul.com"
+        },
+        {
+          "id": "route-3",
+          "url": "https://route-3.maj-soul.com:8443"
+        },
+        {
+          "id": "route-4",
+          "url": "https://route-4.maj-soul.com"
+        },
+        {
+          "id": "route-5",
+          "url": "https://route-5.maj-soul.com"
+        },
+        {
+          "id": "route-6",
+          "url": "https://route-6.maj-soul.com"
+        }
+      ],
+      "zone_id": [
+        0,
+        6,
+        7,
+        12,
+        13,
+        15
+      ],
+      "contest_chat_url": "wss://contest-gate-202411.maj-soul.com/client",
+      "contest_gm_url": "https://www.maj-soul.com/contest-login/",
+      "prefix_url": "https://record-old.maj-soul.com:9443/majsoul/game_record",
+      "override_email_url": "https://common-202411.maj-soul.com:443"
+    }
+  ],
+  "system_email_url": "https://common-202411.maj-soul.com:443",
+  "client_language": "chs_t",
+  "link_url": "https://game.maj-soul.com/1/"
+}

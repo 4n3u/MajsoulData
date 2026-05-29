@@ -1,0 +1,193 @@
+2:……
+3:Hey, sometimes you really should greet other people when seeing them...
+4:Answer: KR-976 is a passive social artificial intelligence and will not respond before receiving an invitation.
+5:I guess she is just socially awkward...
+7:Try not to embarrass her.
+8:You are just socially awkward, aren't you?
+9:KR-976 is a social artificial intelligence specifically designed for social purposes. Maintaining social relationship is one of KR-976's basic funsion—ouch—
+10:She bit her tongue. She was so nervous that she didn't even say her normal "answer" before replying to me. Seems she really is socially awkward.
+11:Social skills are very important basic skills in human life. You must learn them, Anju.
+12:Question: {var:player_nickname}, are you very good at socializing?
+13:Of course I am!
+14:Um, I don't really want to answer that question, but...
+15:Everybody loves me, you know?
+18:Question: How do I find out what the other person likes?
+19:If it's someone you are meeting for the first time, you need to observe if he or she would like you to continue a particular topic. But if it's someone you already know, you will be able to find it out over time as you get to know each other better.
+20:System has decided that KR-976 is very good at socializing.
+21:How did you arrive at that conclusion?
+22:Answer: Because {var:player_nickname} is the only human that KR-976 wants to know, and KR-976 understands what {var:player_nickname} likes very well. Therefore, KR-976 is considered as getting along with {var:player_nickname} very well. Hence, it is concluded that KR-976 is very good at socializing.
+24:It depends on what level of socializing. If it's just for day-to-day greeting...
+25:Question: Will {var:player_nickname} actively greet everybody?
+26:To greet everybody would be too much. I only say hello to those that I have a good relationship with.
+27:Question: Does {var:player_nickname} have a good relationship with many people?
+28:Not... really.
+29:Question: Does {var:player_nickname} go out with friends and participate in outdoor recreational activities every day?
+30:No, nope...
+31:System has decided that {var:player_nickname} has poor social skills and is therefore not qualified to teach KR-976 social knowledge.
+32:I really want to end this topic...
+33:Occasionally, Anju, you can try to greet others first.
+34:Question: If other people want to communicate with KR-976, they would come to KR-976 and initiate conversation. Why should KR-976 actively engage them?
+35:What if you meet someone as introverted as you?
+36:Answer: There is no need to interact with the same model of social artificial intelligence as KR-976.
+37:It's called being introverted!!! Don't just assume everybody is a robot!!!
+38:Question: What is the purpose for KR-976 to actively greet them then?
+39:The purpose of human communications... That's a very complicated topic...
+40:To understand each other, of course.
+41:To find more topics in common, I'll say.
+42:People get to understand each other through communications. It's a crucial life skill.
+43:Question: Have {var:player_nickname} and KR-976 understood each other yet?
+44:I'll say so. I know quite a lot of your habits and hobbies now. What about you? What do you know about me?
+45:Answer with high emotional turbulence: A lot.
+47:Answer: Based on KR-976's observation of {var:player_nickname} last week, KR-976 has made a table of {var:player_nickname}'s daily life. The three most frequent activities are: drinking water, snooze, going to bathroom.
+48:I think that's what most people do...
+49:Question: KR-976 has never recorded the all-day activities of other humans. Is there any intrinsic difference between {var:player_nickname} and other humans?
+50:Not necessarily, but everybody is independent, so that makes the difference. For example, how do you differentiate me from others?
+51:Answer: Your looks and voice.
+52:I can't say you are wrong... But aren't there any other intrinsic differences?
+53:Answer: There is another very important reason. {var:player_nickname} is the only person that treats KR-976 very nicely.
+54:That's because I like you, Anju.
+55:Question: What do you mean by "like"?
+56:When you like someone, you want to be nice to him or her and stay together every day. Something like that.
+58:Why am I suddenly feeling slightly guilty...
+59:The purpose is to discover more common topics.
+60:Question: What does "discover more common topics" mean?
+61:It's like when you play games, you need to talk to the NPC to get missions. Something like that.
+62:Question: Will KR-976 get missions by actively greeting {var:player_nickname}?
+63:Probably not... But I will greet you back in a friendly manner.
+64:Question: {var:player_nickname} is already talking to KR-976 in a friendly manner. There seems to be no difference.
+65:You are right. How about I treat you to strawberry milk every time when you say hello to me in the future?
+66:System decision: KR-976 has approved the proposal.
+67:I feel like I have fallen into a trap. It can't be...
+70:Speaking of it, Anju, have you considered joining some group activities in the school?
+71:Answer: No.
+78:No!!!
+80:Anju has always trusted me. I should tell the truth.
+82:Question: {var:player_nickname} asked KR-976 to do so not because you were concerned about KR-976, but because you wanted to complete someone's task. Is that right?
+83:This has nothing to do with any task!
+84:This isn't just for the task.
+85:No, I just want to get Anju more involved in everyone else's life.
+86:Question: Does {var:player_nickname} want KR-976 to observe and understand humans to a greater extent?
+87:...I can't say you are wrong.
+89:Question: Does {var:player_nickname} approve and accept KR-976?
+91:Answer: If that is the reason, KR-976 is willing to try this job.
+95:player
+96:Anju Suzumiya
+97:Plus, if you agree to do this job... Wait, did you just accept it?
+98:Answer: {var:player_nickname} has never lied to KR-976, so KR-976 is willing to believe you.
+102:One Han City is hosting a high school table tennis competition. All eligible schools in the city can participate in it.
+103:There is a shortage of staff due to the size of the competition. They have to find student volunteers, and Ren Kisaragi is one of them. But for some reason, his news & media team is struggling to find other volunteers.
+107:Ren Kisaragi
+111:That was a flat-out refusal. But... there should be some room for negotiation.
+112:Anju, you seem to enjoy recording things that happen around you. There is a job just right for you in the upcoming table tennis competition. You will be in charge of the news reporting of the competition.
+113:Question: Has {var:player_nickname} received any commission from the competition?
+114:Question: Then why are you trying to persuade KR-976 to become a volunteer?
+115:Actually, I was asked by someone to help find volunteers.
+116:Yes, I think Anju is perfectly qualified for the volunteer work. I will be there with you too!
+117:Ren Kisaragi asked me in the first place. But I'm only asking you because I have thought about it and I feel that you will be a good fit.
+118:Somehow, you are always surrounded by a large group of people. After careful consideration, I think the best option is to ask you to help find volunteers.
+119:The vice president was known for his serious attitude. I never expected him to think of me as so popular. Well, I should probably lend him a hand since he had high expectations of me.
+120:The moment I walked out, I "accidentally" bumped into Anju Suzumiya. Honestly, I don't think this is a coincidence. She's been appearing a lot around me recently, it would be a surprise if I don't see her some day.
+121:Question: What are the common things to note when dealing with humans?
+122:In general, I would say just respect what they like and never purposely piss them off. If you remember these two points, you wouldn't have issues dealing with most people.
+123:You know me well because you have been stalking me every day!
+124:But I don't feel the emotion in your words. Whatever, just tell me what you think of me.
+125:My mobile suddenly started to vibrate. It was Ren Kisaragi's text, he wanted to know what was going on. As I looked up and stared at the socially awkward girl, I had an idea.
+127:Apart from the trust in Anju Suzumiya's eyes, I also saw some eagerness. I guess she also wanted to be more involved, but she never had the opportunity and courage to do so.
+128:Maybe this volunteer role could help her make more friends. Thinking about this, I took her to Asaha High School to look for Ren Kisaragi.
+129:It was a weekend, but there were still lots of students around in Asaha High School for co-curricular activities. As the vice president, Ren Kisaragi was very easy to find.
+130:Of course, Anju Suzumiya also saw him.
+131:Question: Is that the target we are looking for? The male life form in black shirt?
+132:How did you recognize him?
+133:Asaha High School
+134:Answer: He looks very serious, like a supervisor who would peek into a classroom from the rear window.
+135:...And how did you find out the teacher was peeking in the first place? You are really suspicious.
+136:Ren Kisaragi also saw us and came straight over.
+137:Good afternoon.
+138:After politely greeting me and Anju Suzumiya, he pushed his glasses and gave me a very serious look.
+139:It seems you have found another volunteer despite being 1 hour and 37 minutes late.
+140:To avoid the vice president's endless nagging, I pushed Anju Suzumiya forward.
+141:This is Anju Suzumiya. She is an excellent recorder. I think she will be a great fit for the news reporting position.
+142:Is she also a student of Dewdrop Middle School?
+143:Out of habit, Ren Kisaragi took out his list of problematic students and glanced at it.
+144:Exactly as I expected, problematic students easily come to you. Including her, three volunteers have signed up today, and they happen to be the top three in the list of truancy in Dewdrop Middle School.
+145:You never mentioned anything about problematic students!
+147:Why does your list contain students from other schools!?
+148:Wait a sec! When you texted me, you only said people would come to me. You never mentioned they were problematic students!
+149:Is that so? I might have typed it wrong. Sorry for not conveying the accurate information.
+150:You are apologizing for the wrong thing!
+151:You are the vice president of the student council of Asaha High School. Why does your list of problematic students contain those from other schools?!
+152:I'm just preparing in advance before they go to high school.
+153:Do you really have to... think so far ahead?
+154:It's getting late and there are lots of preparation to be done before the competition. We need to form different groups. The other two volunteers are Sora Ichinose and Ayako Morikawa, both from the same school with Anju Suzumiya. Who do you pick?
+155:Ayako Morikawa is a girl, Anju may feel less social pressure with her.
+156:Ichinose is very smart. It's going to be very easy working with him.
+157:I looked at Anju Suzumiya and asked tentatively.
+158:Can we go with Ayako Morikawa?
+159:Answer: Yes.
+160:Anju seemed to be a lot quieter because of Ren Kisaragi the "supervisor". I turned around and took a glace: she kept hiding behind me, writing something.
+163:In order for Anju to go to Asaha High School, I better not let Ren Kisaragi see her notebook.
+164:Classroom on the first floor
+165:After waving good-bye to Ren Kisaragi, I followed his instructions and took Anju Suzumiya to a classroom on the first floor. Ayako Morikawa was waiting for us.
+166:Ah! This is what I was worrying about!
+167:How about you introduce yourselves first?
+168:Ayako Morikawa
+169:Answer: We have already introduced ourselves to each other.
+170:Yeah.
+171:When did that happen? How come I have no idea at all?!
+172:Answer: According to the system record, this female named Ayako Morikawa is KR-976's classmate.
+173:Great, so that's how they know each other. I almost thought they could really communicate via telepathy. Now I feel a lot more relieved.
+174:But why is it so quiet again? Please, anybody, just say something. This is too awkward.
+175:Just when I was struggling to find a topic, the two girls suddenly nodded to each other and headed out together.
+176:What are you doing?
+177:Answer: We are about to start today's filming work.
+178:What? Do you already know what to do?
+179:Answer: Ayako Morikawa had already transferred today's work schedule to KR-976 just now.
+180:It's so nice... KR-976 is able to receive my magic transmission...
+181:Ayako Morikawa wasn't loud, but I still heard what she was mumbling. What is this? Some sort of hybrid of artificial intelligence and magic?
+182:How exactly did they communicate?
+183:Bursting with curiosity, I followed them into the practice court of the table tennis club and started filming.
+185:Ren Kisaragi gave us volunteer IDs in advance, so the students in the table tennis club were very cooperating after seeing our IDs, saving us the trouble of communication. Otherwise, I could not imagine how these two girls could talk to them.
+186:Anju Suzumiya and Ayako Morikawa were like best partners. They never talked much, but the work progressed very well as one of them took the photos and the other wrote down notes.
+187:We finished the task in less than an hour and returned to the classroom we were in.
+188:Table tennis practice court
+189:It was a comparison between Ren Kisaragi and the student supervisor!
+190:As we sorted out the materials collected, I checked the camera and found something horrible.
+191:None of Ayako Morikawa's photos were usable. They either had ghosting or were just too blurry... I thought for a while and tried to tell them in a polite way.
+192:Don't you think these photos are a bit strange?
+193:I just... My photos just captured the true form... of their souls.
+194:KR-976 also thinks these photos are an accurate portrayal of the motion of players at that time.
+195:She's not wrong about the motion. The models were all moving at high speed.
+196:But we can't see what the players look like in these photos.
+197:KR-976 thinks these athletes would prefer people to remember their postures than their looks. Therefore KR-976 thinks these photos are perfect and are best suited for our report.
+198:The real form of souls... is the most genuine portrayal.
+201:What can I do? I feel like they have persuaded me and I can't find any counter argument. Besides, I don't want to offend these two cute girls... Better let that serious vice president do it.
+202:Can we go with Sora Ichinose?
+203:Answer: Yes. According to the system record, Sora Ichinose is KR-976's hardly seen classmate.
+204:I thought you were in the same class. Why do you hardly see each other?
+205:Answer: Because whenever one of us went to school, the other was always on leave.
+206:When did you meet last time?
+207:Answer: At the new student ceremony when we first enrolled.
+208:...That was long ago. If it wasn't for this event, the next time you see each other would probably be the new student ceremony of your high school...
+209:Answer: The probability of this is only 16.66% based on the number of high schools in One Han City. It is possible that we may apply for different high schools.
+210:I suddenly started to question whether they could complete this task. After waving good-bye to Ren Kisaragi, I took Anju Suzumiya to her work partner.
+212:Good afternoon... Um, Kisaragi-senpai just told me on the phone that we would work together today.
+213:Let me do the introduction then. This is your classmate, Anju Suzumiya.
+214:H-hello. I saw your name on the class list... Um, we don't really know each other, but... I hope we can finish the interview together today.
+215:Agree.
+216:Hiding behind my back, Anju Suzumiya answered in a whisper. Both of them were extremely shy, but at least they didn't resist each other. Thinking that the work could go ahead smoothly, I felt relieved.
+217:I brought them to the table tennis practice court that Ren Kisaragi mentioned. We weren't given the task of filming, so we didn't have to take photos of the players. All we needed to do was to describe the practice and the players' conditions in text.
+218:Science room on the second floor
+219:Sora Ichinose
+222:I looked at Anju Suzumiya's record and was deeply impressed. In her notebook, she clearly wrote down the daily activities of the seeded player she was observing, from the moment we started working all the way until this player finished the exercise for today...
+223:I then opened Sora Ichinose's notebook. It was full of different parabolas, illustrated by some small red text.
+226:I gave them a big smile after closing the notebooks.
+227:That's all for today. Very well done, you two.
+228:Two of them did a great job today. As for how to turn the materials collected into a news report, I should leave it to the vice president.
+230:When we entered the science room on the second floor, Sora Ichinose was concentrating on the Rubik's cube in his hands. After seeing us, he took a notebook and walked over.
+231:Anju Suzumiya and Sora Ichinose entered the court and started working. I saw seriousness and concentration on their faces, and I trusted they would give Ren Kisaragi a satisfactory report.
+232:As time went by, the sun went down and the players finished their practice for the day. Both of them came to me in satisfaction and handed me their notebooks.
+233:"During this serve, if the racket turns outward 5 more degrees, the ball would land in a better position."
+234:It's getting late
+235:System has decided that KR-976 also likes {var:player_nickname}.
+237:"Here, if the power from the wrist increases by 11% during smashing, the ball would fall closely to the table edge without going out-of-bounds."
+238:Supervisor         Vice president//nBald                Potentially bald in future//nMid-aged man                Handsome by human standards//nSerious, wears glasses     Serious, wears glasses//n...…

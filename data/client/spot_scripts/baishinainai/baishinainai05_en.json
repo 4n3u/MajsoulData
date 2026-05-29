@@ -1,0 +1,1450 @@
+[
+  {
+    "line": 1,
+    "text": "Some things always strike so fast and so suddenly, like a tornado of love..."
+  },
+  {
+    "line": 2,
+    "text": "Nana Shiraishi"
+  },
+  {
+    "line": 3,
+    "text": "Excuse me! Excuse me! Out of my way!!! Ouch...{var:Shake}"
+  },
+  {
+    "line": 4,
+    "text": "Another example of something like that is Nana Shiraishi, who has just hit me like a tornado sweeping over the coast."
+  },
+  {
+    "line": 5,
+    "text": "player"
+  },
+  {
+    "line": 6,
+    "text": "Ouch, that hurts..."
+  },
+  {
+    "line": 7,
+    "text": "Junior? I'm so sorry! Are you okay? I'll help you up. Don't rush."
+  },
+  {
+    "line": 8,
+    "text": "I think I hit your head. How badly does it hurt? Oh wait, at a time like this, the first thing I need to do is check whether you're still conscious... Look at me. How many fingers am I holding up?"
+  },
+  {
+    "line": 9,
+    "text": "One. You don't need to be so nervous. It hurts a little, but I'm not going to get a concussion from something like that."
+  },
+  {
+    "line": 10,
+    "text": "Instead of asking me if my head hurts, I rather you show some concern for my bum. It fell onto the road, which is much harder than your head."
+  },
+  {
+    "line": 11,
+    "text": "Phew... You should be okay since you can say such cheeky things. Hehe, so your bum is hurting? Let me take good care of it."
+  },
+  {
+    "line": 12,
+    "text": "No, stop! I can't believe you really reached over to stroke it... Lady, please remember you're supposed to be a cute and pretty high school girl. Try not to grin like a creepy middle-aged man."
+  },
+  {
+    "line": 13,
+    "text": "By the way, where are you off to in such a rush?"
+  },
+  {
+    "line": 14,
+    "text": "Oh... That's right, I need to run away quickly! Bye! I'll apologize to you with a cup of milk tea another day..."
+  },
+  {
+    "line": 15,
+    "text": "\"Run away?\" Does that mean Nana Shiraishi is hiding from someone? Her words arouse my curiosity."
+  },
+  {
+    "line": 16,
+    "text": "Watch as Nana Shiraishi leaves"
+  },
+  {
+    "line": 17,
+    "text": "Ask Nana Shiraishi if she needs any help"
+  },
+  {
+    "line": 18,
+    "text": "Seeing how panicked she is, I decide to not get in her way and set aside my curiosity for now. I can always ask her for more details later."
+  },
+  {
+    "line": 19,
+    "text": "I turn around and am about to continue shopping when another familiar figure appears in front of me. It's Yuzu holding the leash of a... umm, an Alaskan Malamute, charging toward me menacingly. If the Alaskan didn't have something in his mouth and a stupid look in his clear eyes, I would almost have mistaken him for a wolf."
+  },
+  {
+    "line": 20,
+    "text": "G-Good morning, Yuzu."
+  },
+  {
+    "line": 21,
+    "text": "Yuzu"
+  },
+  {
+    "line": 22,
+    "text": "Argh? It's you, {var:player_nickname}. Good morning! The Witch of Justice is busy right now and must take her leave!"
+  },
+  {
+    "line": 23,
+    "text": "Oh... Is everyone all busy today...? Hmm? Hold on..."
+  },
+  {
+    "line": 24,
+    "text": "Yuzu appears with a dog right after Nana Shiraishi disappears in a scene that looks like a police officer chasing after a suspect. Could Yuzu be chasing after Nana Shiraishi?"
+  },
+  {
+    "line": 25,
+    "text": "...I should catch up and ask them, or else I'll be so engrossed by this mystery that I won't be able to go shopping properly."
+  },
+  {
+    "line": 26,
+    "text": "Fortunately, Yuzu didn't disappear like a gust of wind like Nana Shiraishi. After running a short distance, I see two big tails swaying up and down in front of me rhythmically, so I speed up and run all the way to Yuzu."
+  },
+  {
+    "line": 27,
+    "text": "Yuzu, are you in such a hurry because you're chasing after Nana?"
+  },
+  {
+    "line": 28,
+    "text": "Argh?! How did you know?"
+  },
+  {
+    "line": 29,
+    "text": "Hehe, because I'm smart. But I'm not smart enough to guess why you're chasing her. Did she do something to make the Witch of Justice chase after her?"
+  },
+  {
+    "line": 30,
+    "text": "No, but I just want to help her overcome her weakness."
+  },
+  {
+    "line": 31,
+    "text": "Her weakness?"
+  },
+  {
+    "line": 32,
+    "text": "A few days ago, when everyone was helping the vice president clean the playground..."
+  },
+  {
+    "line": 33,
+    "text": "Help out? Are you sure you're not punishing her?"
+  },
+  {
+    "line": 34,
+    "text": "A-Argh?! No way! Anyway, that was when everyone mentioned what they were scared of. I never expected the courageous Nana to be scared of dogs."
+  },
+  {
+    "line": 35,
+    "text": "Some time ago, she tried to help me overcome my weakness. Although she was unsuccessful, her efforts greatly moved me, the Witch of Justice, and I wish to repay her."
+  },
+  {
+    "line": 36,
+    "text": "You want to repay her with... er, this dog, right?"
+  },
+  {
+    "line": 37,
+    "text": "Argh... that's what I had in mind. My friend recently asked me to take care of this Alaskan, and I got the idea to get him to help Nana overcome her fear of dogs, so I asked her to go shopping with me to give her a chance to get close to it."
+  },
+  {
+    "line": 38,
+    "text": "But Nana ran away after taking one look at the dog... so you started chasing after her with the dog?"
+  },
+  {
+    "line": 39,
+    "text": "{var:player_nickname}, your description sounds a little strange, but that's actually what happened, argh..."
+  },
+  {
+    "line": 40,
+    "text": "I understand now. Although I want to tell Yuzu that her desensitization therapy is a little too radical, I remember that Nana Shiraishi did something similar to Yuzu after receiving a request in her help request box, so I kind of feel like she is just reaping what she sowed."
+  },
+  {
+    "line": 41,
+    "text": "But... even if you want her to play with a dog, it's a little scary to start with an Alaskan. Even I was scared when I saw you running over with him, let alone her."
+  },
+  {
+    "line": 42,
+    "text": "Maybe you should try again with a smaller and more docile pet dog? The success rate of your desensitization therapy should be higher if you do that."
+  },
+  {
+    "line": 43,
+    "text": "This Alaskan Malamute is a little large, but you're misunderstanding something, {var:player_nickname}. They are a very friendly dog breed. There's a big contrast between their personality and their appearance."
+  },
+  {
+    "line": 44,
+    "text": "Friendly...?"
+  },
+  {
+    "line": 45,
+    "text": "Alaskan Malamute"
+  },
+  {
+    "line": 47,
+    "text": "Hey! Did he just glare at me? Did I make him angry...?"
+  },
+  {
+    "line": 48,
+    "text": "Argh, I already said that he's very friendly. You're so suspicious, {var:player_nickname}. If you don't trust me, why don't you stick your hand into his mouth? I guarantee he'll keep his mouth open just like that and won't bite you."
+  },
+  {
+    "line": 49,
+    "text": "...Fine then. Now that I think about it, Ciri's Mojito has quite a good personality even though it also looks terrifying. Judging him by his appearance is a little... Oh right, what's his name?"
+  },
+  {
+    "line": 50,
+    "text": "Orio."
+  },
+  {
+    "line": 51,
+    "text": "I'm sorry, Orio. It's rude of me to doubt you because of how you look."
+  },
+  {
+    "line": 52,
+    "text": "As if Orio understood what I said, he tilts his head and looks at me with eyes shining with innocence. I think I'm finally starting to appreciate his cuteness."
+  },
+  {
+    "line": 53,
+    "text": "Of course, I don't dare to stick my hand into his mouth. Humans are troublesome creatures because understanding something doesn't necessarily mean that they can overcome their fear of that thing."
+  },
+  {
+    "line": 54,
+    "text": "(whisper) By the way, is that a hair tie in Orio's mouth? It looks familiar..."
+  },
+  {
+    "line": 55,
+    "text": "Argh, we slowed down because we were chatting. I don't know if we're still moving in the right direction."
+  },
+  {
+    "line": 56,
+    "text": "Orio, are you sure she has gone this way?"
+  },
+  {
+    "line": 57,
+    "text": "Orio stops and sniffs the ground, then he starts growling indistinctly at the right side in front of us while wagging his tail anxiously for Yuzu to follow him quickly."
+  },
+  {
+    "line": 58,
+    "text": "I need to keep chasing her. {var:player_nickname}, I'll talk to you another time if that's all you wanted to ask me."
+  },
+  {
+    "line": 59,
+    "text": "Wait, I'll come with you."
+  },
+  {
+    "line": 60,
+    "text": "Argh? Why?"
+  },
+  {
+    "line": 61,
+    "text": "Isn't it obvious? One Han City's Witch of Justice is trying hard to help someone overcome their weakness. As a good citizen of One Han City, of course I have to contribute to this act of justice!"
+  },
+  {
+    "line": 62,
+    "text": "This grandiose pretext is naturally an excuse. The reason I want to follow her is partly because I want to see how this situation will unfold and see what Nana Shiraishi, who always considers herself to be my senpai, is like when forced to confront an animal she is scared of."
+  },
+  {
+    "line": 63,
+    "text": "Another reason is that I care about her and can't just sit back and watch Nana Shiraishi get chased around. If she gets cornered and faints, then at least I can carry her home."
+  },
+  {
+    "line": 64,
+    "text": "Relying on Orio's sense of smell, Yuzu and I chase Nana Shiraishi through the streets and alleys. During this time, we also try to get information from people along the way to get a more accurate idea of Nana Shiraishi's whereabouts."
+  },
+  {
+    "line": 66,
+    "text": "Little Girl"
+  },
+  {
+    "line": 67,
+    "text": "An older girl with yellow hair in a ponytail? I saw her. She's a good person!"
+  },
+  {
+    "line": 68,
+    "text": "My balloon was stuck in the tree earlier. When she saw me crying, she jumped up and fetched my balloon for me!"
+  },
+  {
+    "line": 69,
+    "text": "...She jumped all the way up?"
+  },
+  {
+    "line": 70,
+    "text": "Unless I'm mistaken, the nearest branch is still about three to four meters from the ground."
+  },
+  {
+    "line": 71,
+    "text": "Argh?! Is Nana that good at jumping? She can get so high with one jump."
+  },
+  {
+    "line": 72,
+    "text": "Don't take it seriously... To reach a height of four meters with one jump means that she must be the superwoman of Asaha High School or something. There's no way someone like that exists in our world."
+  },
+  {
+    "line": 73,
+    "text": "...There shouldn't, right?"
+  },
+  {
+    "line": 74,
+    "text": "Little girl, where did that older girl go after she retrieved your balloon?"
+  },
+  {
+    "line": 75,
+    "text": "You don't believe me, so I won't tell you. Hmph!"
+  },
+  {
+    "line": 76,
+    "text": "...I'm sorry, but I have to pretend that I don't believe you to protect the real identity of the superwoman of Asaha High School. We must find her as soon as possible to resolve a dangerous crisis. Please help us!"
+  },
+  {
+    "line": 77,
+    "text": "S-So she really is a superwoman?! She ran that way. Go to her now!"
+  },
+  {
+    "line": 78,
+    "text": "Thank you for contributing to a just cause! Yuzu, let's go."
+  },
+  {
+    "line": 79,
+    "text": "Argh... {var:player_nickname}, I can't believe you can lie to a little girl like that without blinking or feeling bad about it. All kids who do bad things before me shall be punished!"
+  },
+  {
+    "line": 80,
+    "text": "Waaaaait! Aren't we in a hurry?! Ouch..."
+  },
+  {
+    "line": 81,
+    "text": "Deliveryman"
+  },
+  {
+    "line": 82,
+    "text": "A girl with yellow hair in a ponytail? Oh, you're probably asking about that person who just helped me!"
+  },
+  {
+    "line": 83,
+    "text": "That girl is amazing! I hit the railing by mistake, causing a delivery box to fly out and almost hit someone. Luckily, she's super quick. She just kicked the box and dunked it back into my basket."
+  },
+  {
+    "line": 84,
+    "text": "Her movements were so precise too. The delivery box wasn't damaged at all, which means she must have controlled the strength really well. I'm almost certain that she practices martial arts! I've read a lot of fighting manga, so I can't be wrong about this!"
+  },
+  {
+    "line": 85,
+    "text": "Oh, wow. Yes, she's really amazing. What happened after that? Did you see where she went?"
+  },
+  {
+    "line": 86,
+    "text": "She was already far away in the distance by the time I turned around to thank her. I think she went that way. This must be what they mean when they say \"move like the wind.\" As expected of someone who practices martial arts."
+  },
+  {
+    "line": 87,
+    "text": "{var:player_nickname}, maybe the superwoman of Asaha High School really does exist."
+  },
+  {
+    "line": 88,
+    "text": "I just made up a name randomly. How can someone like that really exist... Let's go. Since she's stopping to help people every now and then, we should be able to catch up to her soon."
+  },
+  {
+    "line": 89,
+    "text": "Old Granny"
+  },
+  {
+    "line": 90,
+    "text": "A girl... with what in a ponytail?"
+  },
+  {
+    "line": 91,
+    "text": "With yellow hair. Old granny, have you seen her?"
+  },
+  {
+    "line": 92,
+    "text": "Oh, I remember now. She has yellow hair... A girl with yellow hair in a what?"
+  },
+  {
+    "line": 93,
+    "text": "...I'm sorry for disturbing you. By the way, why are you standing here with a look of confusion on your face? Are you in some kind of trouble?"
+  },
+  {
+    "line": 94,
+    "text": "Hehe... thank you for asking. It's nothing really. I just encountered something strange."
+  },
+  {
+    "line": 95,
+    "text": "I was reading a street sign on the other side when I was suddenly swept here by a yellow whirlwind."
+  },
+  {
+    "line": 96,
+    "text": "Argh? A yellow whirlwind... Is there a mage who isn't following the rules?!"
+  },
+  {
+    "line": 97,
+    "text": "My guess is that someone thought the old granny had difficulty walking and helped her cross the road."
+  },
+  {
+    "line": 98,
+    "text": "Eh, now that you mention it, I do remember hearing a girl say: \"Old granny, let me help you cross the road.\" Hehe... youngsters sure do move fast. I didn't even manage to get a good look at her face..."
+  },
+  {
+    "line": 99,
+    "text": "I see... I think I know who helped you cross the road. Let me take you back to the street sign."
+  },
+  {
+    "line": 100,
+    "text": "After helping the old granny, we get Orio to keep searching for traces of Nana Shiraishi."
+  },
+  {
+    "line": 101,
+    "text": "Orio"
+  },
+  {
+    "line": 102,
+    "text": "Woof..."
+  },
+  {
+    "line": 103,
+    "text": "Orio is starting to look tired, and we've been chasing Nana for a while now. Let's get some rest first."
+  },
+  {
+    "line": 104,
+    "text": "You're right. Argh... Alaskans are a breed that has great stamina. I never expected that Orio would get tired before we can catch up to her."
+  },
+  {
+    "line": 105,
+    "text": "Speaking of which, is she really trying to run away from us seriously...? How fast must she be running if she can leave us so far behind her even though she has been helping people all the way?!"
+  },
+  {
+    "line": 106,
+    "text": "She doesn't forget to take the time to help others even when she is running away. She is so enthusiastic that I want to praise her and complain about her at the same time. I don't think I'll ever meet someone who is as kind-hearted as Nana Shiraishi."
+  },
+  {
+    "line": 107,
+    "text": "...I think we've rested for long enough. Let's continue now."
+  },
+  {
+    "line": 108,
+    "text": "Ten minutes later"
+  },
+  {
+    "line": 109,
+    "text": "Maybe we should give up. Given her stamina, Orio might even collapse onto the ground in exhaustion before we catch up with her."
+  },
+  {
+    "line": 110,
+    "text": "No, it's too early to give up. Orio also says he needs to see Nana about something important."
+  },
+  {
+    "line": 111,
+    "text": "What important thing? Okay then, let's try again and see if we can catch up with her."
+  },
+  {
+    "line": 112,
+    "text": "...By the way, if we keep going straight along this road, we'll arrive at Asaha High School. Could she be hiding in the school?"
+  },
+  {
+    "line": 113,
+    "text": "My guess is correct. Orio really does guide us all the way to Asaha High School. We walk through the school gates, pass by the playground, walk inside a school building, and finally stop in front of a door at the end of a corridor."
+  },
+  {
+    "line": 114,
+    "text": "Arf!"
+  },
+  {
+    "line": 115,
+    "text": "Judging from how excited Orio is when looking back at us, I think Nana is behind this door."
+  },
+  {
+    "line": 116,
+    "text": "She has nowhere to hide now that we're here. Let's go inside."
+  },
+  {
+    "line": 117,
+    "text": "Don't open the door just yet. Do you think she'll hide somewhere with no way out? Here's a piece of friendly advice. You should take a look at where we are first."
+  },
+  {
+    "line": 119,
+    "text": "Although it's the weekend, Ren Kisaragi could be working overtime inside this room. I've encountered him here on the weekend before when I came to help out at the gardening club."
+  },
+  {
+    "line": 120,
+    "text": "I remember... according to the rules of Asaha High School, pets aren't allowed on school grounds except under special circumstances, right?"
+  },
+  {
+    "line": 121,
+    "text": "Y-Yes, that's right, argh..."
+  },
+  {
+    "line": 122,
+    "text": "It's also possible that Ren Kisaragi isn't inside the room. Do you want to go inside and take a look?"
+  },
+  {
+    "line": 123,
+    "text": "D-Don't open the door. As a student, I must follow the school rules. I just forgot the rules by accident when I was so focused on chasing after Nana. I'm going to leave now. Let's go, Orio."
+  },
+  {
+    "line": 124,
+    "text": "Yuzu tugs the leash, but Orio has no intention of leaving. He rubs himself against Yuzu's heels, then raises his head and shakes the hair tie in his mouth."
+  },
+  {
+    "line": 125,
+    "text": "Argh? Ohh... so that's why. I understand now."
+  },
+  {
+    "line": 126,
+    "text": "What did Orio say?"
+  },
+  {
+    "line": 127,
+    "text": "Orio wants to ask you to return this to Nana. This is why he has been chasing after Nana..."
+  },
+  {
+    "line": 128,
+    "text": "I enter the student council's office after Yuzu left and was still thinking about what I should say to Ren Kisaragi to explain why I've come here on the weekend. Fortunately, the only person here is Nana Shiraishi, who is shaking behind a desk."
+  },
+  {
+    "line": 129,
+    "text": "Hi, senpai. Did you enjoy the chase?"
+  },
+  {
+    "line": 130,
+    "text": "Yuzu hasn't come inside...? Phew... you're so mean! Even if you don't help me escape, you don't have to hunt me down with Yuzu!"
+  },
+  {
+    "line": 131,
+    "text": "I came because I was worried about you, except you ran so quickly that we could never catch up with you. If I didn't stop her in time, Yuzu would already be in here, and you would be spending some quality time with that Alaskan."
+  },
+  {
+    "line": 132,
+    "text": "Sigh... I'm just reaping what I sowed. I must have angered Yuzu when I stubbornly wanted to help her overcome her weakness."
+  },
+  {
+    "line": 133,
+    "text": "Yuzu isn't so narrow-minded. She just wants to help you overcome your weakness, just like how you wanted to help her. Here, this is yours, right?"
+  },
+  {
+    "line": 134,
+    "text": "Eh? This is my spare hair tie. Where did you find this?"
+  },
+  {
+    "line": 135,
+    "text": "The Alaskan called Orio found it. In fact, he was chasing after you to return this to you."
+  },
+  {
+    "line": 136,
+    "text": "I... I see. I thought he was chasing after me to deliberately tease me. I feel a little embarrassed now that I know I've misunderstood him..."
+  },
+  {
+    "line": 137,
+    "text": "Can you help me thank Yuzu and Orio? I would like to thank them personally, but I... sigh... I'm so useless..."
+  },
+  {
+    "line": 138,
+    "text": "Don't say that. A fear of dogs isn't something that can be resolved in a short time. I think it's already amazing that you want to thank an animal that you're so scared of."
+  },
+  {
+    "line": 139,
+    "text": "What's more, in this era of convenience, you don't really have to be face-to-face with someone to thank them in person. At times like these, we really need to be grateful for the advancement of science and technology."
+  },
+  {
+    "line": 140,
+    "text": "I pick up my phone and give Yuzu a video call, which she answers very quickly."
+  },
+  {
+    "line": 141,
+    "text": "What's up, {var:player_nickname}?"
+  },
+  {
+    "line": 142,
+    "text": "I just returned the hair tie to Nana Shiraishi, and she wants to thank both you and Orio. Is Orio still with you?"
+  },
+  {
+    "line": 143,
+    "text": "He just ran off to play just now. I'll call him to come back now. Orio!"
+  },
+  {
+    "line": 144,
+    "text": "Arf!"
+  },
+  {
+    "line": 145,
+    "text": "Orio's energetic calls can be heard in the video. There is no fear on Nana Shiraishi's face when she sees Orio approaching the camera. It seems that her weakness of being afraid of dogs isn't impossible to overcome after all."
+  },
+  {
+    "line": 146,
+    "text": "Thank you for bringing my hair tie to me, Orio."
+  },
+  {
+    "line": 147,
+    "text": "Arf!"
+  },
+  {
+    "line": 148,
+    "text": "Yuzu, I'm sorry for wasting your efforts today. Thank you for trying to help me overcome my weakness, but... I don't think I can interact with dogs normally yet."
+  },
+  {
+    "line": 149,
+    "text": "It's okay. If you're scared of something, then you're scared of something. But I won't give up! As long as I keep trying, you'll be able to overcome your weakness one day. Aren't you also trying to help me overcome my weakness? Argh! Let's do our best together!"
+  },
+  {
+    "line": 150,
+    "text": "O-Okay then..."
+  },
+  {
+    "line": 151,
+    "text": "Orio looks quite cute when I look at him through the screen. It must have been tough for him to chase after me the entire day..."
+  },
+  {
+    "line": 152,
+    "text": "Okay, I'll keep trying. Hopefully, I'll have the courage to stroke your head next time, Orio."
+  },
+  {
+    "line": 153,
+    "text": "Arf, arf!"
+  },
+  {
+    "line": 154,
+    "text": "You have to keep your word. I'll be watching you from the side next time. If you want to run away, hehe... I'll do my best to stop you."
+  },
+  {
+    "line": 155,
+    "text": "Huh? Shouldn't you be stepping forward to protect me if that happens? Sigh, you're so inconsiderate..."
+  },
+  {
+    "line": 156,
+    "text": "What happened? You look very nervous. Do you need my help?"
+  },
+  {
+    "line": 157,
+    "text": "Well... it's a little complicated, and I can't explain things clearly in a sentence or two."
+  },
+  {
+    "line": 158,
+    "text": "Argh! There's our target!"
+  },
+  {
+    "line": 159,
+    "text": "What?! They're already here?!{var:Shake}"
+  },
+  {
+    "line": 160,
+    "text": "As soon as she hears Yuzu's voice behind me, Nana Shiraishi shudders and runs away. Sensing that there's something interesting going on between them, I quicken my pace and follow them."
+  },
+  {
+    "line": 161,
+    "text": "What's the situation? What bad thing did you do to make Yuzu chase after you?"
+  },
+  {
+    "line": 162,
+    "text": "I didn't do anything! Also, I'm not running away from Yuzu - I'm running away from the dog with her!"
+  },
+  {
+    "line": 163,
+    "text": "It's just a dog. Is it necessary to be so nervous... Holy?!"
+  },
+  {
+    "line": 164,
+    "text": "After looking behind me, I see an Alaskan Malamute with something in his mouth dragging Yuzu along as he chases after us furiously. The pedestrians on both sides, frightened by the fierce momentum of the Alaskan, consciously move aside to get out of the way."
+  },
+  {
+    "line": 165,
+    "text": "...Arf!"
+  },
+  {
+    "line": 166,
+    "text": "I take back what I just said! Who wouldn't run in this kind of situation?!"
+  },
+  {
+    "line": 167,
+    "text": "Exactly!"
+  },
+  {
+    "line": 168,
+    "text": "Huff... Huff... We finally managed to escape after running around for so long."
+  },
+  {
+    "line": 169,
+    "text": "I'm sorry. It's my fault that you were chased around too."
+  },
+  {
+    "line": 170,
+    "text": "There's no such thing. I followed you because I was curious. Since I've been on the run with you for so long today, can you tell me what's happened now?"
+  },
+  {
+    "line": 171,
+    "text": "It's like this. When I was chatting with Yuzu and some other people earlier, I mentioned that I'm afraid of dogs."
+  },
+  {
+    "line": 172,
+    "text": "After that, Yuzu asked me to meet up with her today and specially brought a massive dog with her, saying that she wanted me to play with him to help me overcome my weakness with desensitization therapy."
+  },
+  {
+    "line": 173,
+    "text": "Desensitization therapy... I understand the theory, but isn't it a little too exciting to make someone who's scared of dogs interact with an Alaskan Malamute right away...?"
+  },
+  {
+    "line": 174,
+    "text": "You're wrong about that. A person who's scared of dogs is scared of both large dogs and small dogs. That's why they are scared of dogs! People who are truly afraid of dogs are precisely that cowardly!"
+  },
+  {
+    "line": 175,
+    "text": "I don't understand how you can be so proud about being cowardly..."
+  },
+  {
+    "line": 176,
+    "text": "？？？"
+  },
+  {
+    "line": 177,
+    "text": "*sobs quietly*"
+  },
+  {
+    "line": 178,
+    "text": "Hmm? This sound... Is someone crying?"
+  },
+  {
+    "line": 179,
+    "text": "I think it's that little girl over there. Let's go ask her what's happened."
+  },
+  {
+    "line": 180,
+    "text": "Are you okay? Why are you crying all alone here?"
+  },
+  {
+    "line": 181,
+    "text": "The balloon... I can't reach it... *sobs*"
+  },
+  {
+    "line": 182,
+    "text": "...Oh, look at that, Nana. I think she's talking about the balloon stuck among the branches."
+  },
+  {
+    "line": 183,
+    "text": "Although we found the balloon, there's about a three-meter distance between the branches and us. It won't be easy to get the balloon down."
+  },
+  {
+    "line": 184,
+    "text": "Good job! It's easy now that we know where it is. Don't cry, little girl. We'll help you get the balloon."
+  },
+  {
+    "line": 185,
+    "text": "Junior, come and help me."
+  },
+  {
+    "line": 186,
+    "text": "What are you going to do? You'll probably need to climb the tree to get it. Aren't you afraid that Yuzu will catch up to you?"
+  },
+  {
+    "line": 187,
+    "text": "Just relax. It's a lot easier than that. You just need to put your palms together so I can stand on them. After that, you can push me up when I step on them."
+  },
+  {
+    "line": 188,
+    "text": "Really? Will that work...?"
+  },
+  {
+    "line": 189,
+    "text": "Get ready! Here I go!"
+  },
+  {
+    "line": 190,
+    "text": "Nana Shiraishi takes a few steps back to distance herself. After taking a deep breath, she sprints in front of me and makes a small jump. Meanwhile, I lift her feet with my hands like I'm performing a volleyball dig. Nana Shiraishi uses the extra force to jump up high and grab the balloon string by relying on her quick eyes and hands."
+  },
+  {
+    "line": 191,
+    "text": "I've got it!"
+  },
+  {
+    "line": 192,
+    "text": "She really managed to get it?! This jumping ability... Is she the superwoman of Asaha High School or something...?"
+  },
+  {
+    "line": 193,
+    "text": "Here you go, little girl. Hold it tightly this time so it won't escape again."
+  },
+  {
+    "line": 194,
+    "text": "Little Girl"
+  },
+  {
+    "line": 195,
+    "text": "Thanks! You're so amazing! You jumped so high just now!"
+  },
+  {
+    "line": 196,
+    "text": "Hehe, this is nothing."
+  },
+  {
+    "line": 197,
+    "text": "Now that we've helped her, I think it's time for us to keep running."
+  },
+  {
+    "line": 198,
+    "text": "Don't run off just yet. I don't think we can just keep running like this. Alaskans are famous for their good stamina. Are you sure you can beat him in a battle of endurance?"
+  },
+  {
+    "line": 199,
+    "text": "What's more, no matter how energetic you are, it's completely unnecessary to have a battle of endurance with him. After all, you won't get any rewards for winning, and you'll suffer if you lose. It doesn't sound like it's worth it no matter how I think about it."
+  },
+  {
+    "line": 200,
+    "text": "You're right. And I've got some requests to take care of at school tomorrow. What should I do?"
+  },
+  {
+    "line": 201,
+    "text": "Let me see... Hmm?"
+  },
+  {
+    "line": 202,
+    "text": "There's a café not far from us on the left, and there's a sign that says \"No Pets Allowed\" at the door..."
+  },
+  {
+    "line": 203,
+    "text": "Let's hide in the café next to us"
+  },
+  {
+    "line": 204,
+    "text": "Run away to the school"
+  },
+  {
+    "line": 205,
+    "text": "Should we hide in that café for now? It says that pets aren't allowed, so we can wait inside for Yuzu to leave, and then turn back and run in another direction."
+  },
+  {
+    "line": 207,
+    "text": "Soon after we enter the café, Yuzu passes by outside like I said she would, and she didn't notice that Nana Shiraishi and I were secretly observing her."
+  },
+  {
+    "line": 208,
+    "text": "After successfully throwing Yuzu off our trail as planned, Nana Shiraishi receives a call and says that she needs to go home to help her younger brother with some homework. I have nothing to do, so I decided to go to Mahjong Soul Shrine to play with Ichihime to kill time. Halfway there, I run into Yuzu with the Alaskan again."
+  },
+  {
+    "line": 209,
+    "text": "{var:player_nickname}, why are you all alone? Where's Nana?"
+  },
+  {
+    "line": 210,
+    "text": "She returned home first because she had something to do. You should try to help her overcome her fear another day."
+  },
+  {
+    "line": 211,
+    "text": "Argh... fine then. Orio, it looks like I can only return that thing to Nana at school tomorrow."
+  },
+  {
+    "line": 212,
+    "text": "The Alaskan called Orio seems to understand Yuzu's words. He lowers his ears and growls before placing the hair tie in his mouth onto Yuzu's hand."
+  },
+  {
+    "line": 213,
+    "text": "So were you chasing after Nana to give this back to her?"
+  },
+  {
+    "line": 214,
+    "text": "Yes, Nana dropped this when she was running away, and Orio wanted to return it to her after picking it up."
+  },
+  {
+    "line": 215,
+    "text": "Haha, such a good boy."
+  },
+  {
+    "line": 216,
+    "text": "Orio turns to look at me just as I reach out to stroke his head, shocking me with his reaction speed."
+  },
+  {
+    "line": 217,
+    "text": "It's alright. Just stroke his head if you want. He won't bite you. Even if you stick your fist in his mouth, he'll just keep his mouth open and won't do anything to you."
+  },
+  {
+    "line": 218,
+    "text": "R-Really? But I don't have the courage to really stick my hand in his mouth..."
+  },
+  {
+    "line": 219,
+    "text": "Arf!..."
+  },
+  {
+    "line": 220,
+    "text": "Oh... He's surprisingly docile, completely unlike what his appearance suggests."
+  },
+  {
+    "line": 221,
+    "text": "Yes, he just looks impressive. He's actually very well-behaved and is even a little simple-minded. He likes to rush up to everyone he sees and greet them."
+  },
+  {
+    "line": 222,
+    "text": "Even if other dogs bark at him, he just thinks they are inviting him to play with them. Argh... fortunately, he's strong enough, or else others would bully him since he has such an innocent personality."
+  },
+  {
+    "line": 223,
+    "text": "It's a shame that Nana ran away so quickly. If she knows how well-behaved Orio is, she'll probably be willing to play with Orio no matter how scared of dogs she is."
+  },
+  {
+    "line": 224,
+    "text": "I'm not so sure about that. She proudly announced that she's cowardly enough to be scared of all dogs. But since Orio is so well-behaved, we really can try to get them to spend some time together... By the way, am I imagining things? Why do I feel like Orio isn't that happy?"
+  },
+  {
+    "line": 225,
+    "text": "Arf, arf..."
+  },
+  {
+    "line": 226,
+    "text": "You're quite astute. Orio is feeling a little down because he's really fond of Nana and says she feels like one of his kind, so he's sad that they couldn't play together this time."
+  },
+  {
+    "line": 227,
+    "text": "She feels like one of his kind? What do you mean?"
+  },
+  {
+    "line": 228,
+    "text": "I'm not so sure either. I don't always understand what he says."
+  },
+  {
+    "line": 229,
+    "text": "(whisper) ...Hmm? Hits it off with anyone right away... enthusiastic... doesn't get angry even if people have a bad attitude... energetic... runs really fast..."
+  },
+  {
+    "line": 230,
+    "text": "As I gently stroke Orio's head, the image of a certain person starts to overlap with Orio in my head..."
+  },
+  {
+    "line": 231,
+    "text": "Pfft! Hahaha..."
+  },
+  {
+    "line": 232,
+    "text": "Why are you laughing?"
+  },
+  {
+    "line": 233,
+    "text": "I just thought of something that makes me happy. I understand now. I think Orio is a good judge of character and is actually quite wise."
+  },
+  {
+    "line": 234,
+    "text": "Argh? This is bad! {var:player_nickname} has managed to understand Orio before me!"
+  },
+  {
+    "line": 235,
+    "text": "Why do I get the feeling that you just insulted me... Think carefully. Don't you think Orio and a certain person are quite similar in how they can hit it off with anyone right away?"
+  },
+  {
+    "line": 236,
+    "text": "Now that you mention it... Oh, I understand now. No wonder Orio wants to play with Nana so much. If they are one of a kind, then Nana must be able to accept Orio. This is great! Now we have a chance to help her overcome her weakness!"
+  },
+  {
+    "line": 237,
+    "text": "I'm starting to see some hope now too. I'll try to help you convince Nana to spend some time with Orio later, but let's not disturb her again today."
+  },
+  {
+    "line": 238,
+    "text": "Well, we still have some time... If you don't mind, Orio, do you want to play with me?"
+  },
+  {
+    "line": 239,
+    "text": "Arf?! Arf, arf!"
+  },
+  {
+    "line": 240,
+    "text": "Haha, he looks so happy once he heard that he can play with someone. Let's go to a playground."
+  },
+  {
+    "line": 241,
+    "text": "I decided to cancel my original plans and play with this enthusiastic and good-natured dog until dark to make him feel better for not being able to play to his heart's content with Nana Shiraishi..."
+  },
+  {
+    "line": 242,
+    "text": "Slow down! Yuzu, can you get him to run slower?!"
+  },
+  {
+    "line": 243,
+    "text": "That will be hard. Orio gets carried away once he starts running."
+  },
+  {
+    "line": 244,
+    "text": "Orio is going to run wildly again. I don't know if my body can take more of this..."
+  },
+  {
+    "line": 245,
+    "text": "We'll hide in the café first and observe for a while. Once Yuzu passes by, we'll wait until she has left for a while before we turn back. We can use this method to mix things up and get Yuzu off our trail, but we can't guarantee that we won't run into her again later."
+  },
+  {
+    "line": 246,
+    "text": "...I know! Shall we hide inside Asaha High School?"
+  },
+  {
+    "line": 247,
+    "text": "Would that work? Although the school rules do specify that pets aren't allowed on school grounds except under special circumstances, today's not a school day, so the security guards might not stop Yuzu even if she brings a dog into the school grounds."
+  },
+  {
+    "line": 248,
+    "text": "Don't worry, I already thought of a good idea before suggesting this to you. Let's go. She really will catch up to us if we keep dilly-dallying."
+  },
+  {
+    "line": 249,
+    "text": "...Granny, since you have trouble walking, you should get someone to accompany you when you leave home next time, or else it'll be very dangerous when you cross the road alone."
+  },
+  {
+    "line": 250,
+    "text": "Hehe... thank you. You're such an enthusiastic girl."
+  },
+  {
+    "line": 251,
+    "text": "But I didn't manage to read the street sign properly just then. Can you help me cross the road again? Thank you."
+  },
+  {
+    "line": 252,
+    "text": "I-Is that so? I'm sorry! I'll help you cross the road now."
+  },
+  {
+    "line": 253,
+    "text": "Hehe... The last time someone carried me on their back was when that old man was still young..."
+  },
+  {
+    "line": 254,
+    "text": "Sorry for keeping you waiting. Let's go! We're just two streets away from the school."
+  },
+  {
+    "line": 255,
+    "text": "Okay, but we're wasting too much time helping others while we're running. Aren't you worried that they'll catch up to us?"
+  },
+  {
+    "line": 256,
+    "text": "I can't help it. I can't ignore anyone who needs help."
+  },
+  {
+    "line": 257,
+    "text": "Yuzu hasn't caught up to us even though we keep stopping. I wonder if it's because we're lucky or because we're being rewarded for doing good deeds."
+  },
+  {
+    "line": 258,
+    "text": "Hehe, I'm sure it's the latter!"
+  },
+  {
+    "line": 259,
+    "text": "Let's go. We'll arrive at the school after passing through this street."
+  },
+  {
+    "line": 260,
+    "text": "Yuzu's Voice"
+  },
+  {
+    "line": 261,
+    "text": "Nana, are you inside? Come out."
+  },
+  {
+    "line": 262,
+    "text": "I'm sorry, Ren Kisaragi asked us to help him out at school. Are you also here to help?"
+  },
+  {
+    "line": 263,
+    "text": "Argh?! The v-vice president is inside...? Oh no, I was so busy chasing them that I forgot this is the student council's office..."
+  },
+  {
+    "line": 264,
+    "text": "Alaskan's Barking"
+  },
+  {
+    "line": 265,
+    "text": "Shush! O-Orio, you have to be quiet here. Let's go and play somewhere else."
+  },
+  {
+    "line": 266,
+    "text": "Ren Kisaragi is asking if you brought a dog onto the school grounds."
+  },
+  {
+    "line": 267,
+    "text": "N-N-No such thing! I'll get out of your way now!"
+  },
+  {
+    "line": 268,
+    "text": "Hehe, our vice president sure is intimidating."
+  },
+  {
+    "line": 269,
+    "text": "First we run inside the student council's office, and then we scare Yuzu off by pretending the vice president is here. That sure is a good idea."
+  },
+  {
+    "line": 270,
+    "text": "I told you I had a good idea."
+  },
+  {
+    "line": 271,
+    "text": "It's best not to leave too soon. We'll wait until we're sure that Yuzu has left the school first. It just happens that we can see the school gates through this window here..."
+  },
+  {
+    "line": 272,
+    "text": "Nana Shiraishi and I chat for a while and wait until some time has passed after Yuzu leaves the school before we exit the student council's office and go home."
+  },
+  {
+    "line": 273,
+    "text": "By the way, why are you afraid of dogs? Were you bitten by a dog or something?"
+  },
+  {
+    "line": 274,
+    "text": "How did you read my mind?! You're right. A dog bit me when I was little, and I've been scared of dogs ever since."
+  },
+  {
+    "line": 275,
+    "text": "You can tell me that not all dogs will hurt people, and I also understand that, but..."
+  },
+  {
+    "line": 276,
+    "text": "I wasn't thinking that. As they say, \"once bitten, twice shy.\" To make it worse, you were bitten when you were little. Children's mental endurance is inherently weaker, and traumatic events they experience tend to leave a big shadow in their hearts."
+  },
+  {
+    "line": 277,
+    "text": "I can still remember the vicious eyes of the dog that bit me, but I remember that it wasn't hostile at all before it bit me..."
+  },
+  {
+    "line": 278,
+    "text": "Because of that, no matter how friendly a dog looks, I still can't bring myself to touch it. Sigh, I'm so useless."
+  },
+  {
+    "line": 279,
+    "text": "Don't be so hard on yourself. If you're scared of something, then you're scared of something. Humans are such complicated beings. You don't need to force yourself to overcome this weakness. Just go with the flow."
+  },
+  {
+    "line": 280,
+    "text": "...Hehe, I feel a lot better after hearing you say that."
+  },
+  {
+    "line": 281,
+    "text": "Barking"
+  },
+  {
+    "line": 282,
+    "text": "Woof!"
+  },
+  {
+    "line": 283,
+    "text": "Wh-Where's that barking sound coming from?! Have Yuzu and that dog returned?!"
+  },
+  {
+    "line": 284,
+    "text": "Relax, that Alaskan's bark is much more intense. Look, several dogs are quarreling over there."
+  },
+  {
+    "line": 285,
+    "text": "That was terrifying..."
+  },
+  {
+    "line": 286,
+    "text": "It's always a good thing to stay away from quarrels whether they are between humans or dogs... This is strange. Why are those two children standing next to the dogs?"
+  },
+  {
+    "line": 287,
+    "text": "Judging from the frightened expressions on their faces, they must have been scared by the quarrel between the dogs, so they are just standing there and don't dare to move rashly."
+  },
+  {
+    "line": 288,
+    "text": "(whisper) Nana might recall some unpleasant memories if we stay here any longer, but we can't just leave these two children like this. What should I do...?"
+  },
+  {
+    "line": 289,
+    "text": "Street Dog A"
+  },
+  {
+    "line": 290,
+    "text": "...Woof?"
+  },
+  {
+    "line": 291,
+    "text": "Oh... you threw the rock?"
+  },
+  {
+    "line": 292,
+    "text": "Hmm-hmm..."
+  },
+  {
+    "line": 293,
+    "text": "Street Dog"
+  },
+  {
+    "line": 294,
+    "text": "Woof! Woof, woof, woof!"
+  },
+  {
+    "line": 295,
+    "text": "L-Let's run! They're coming here! Little children, you should run away too!"
+  },
+  {
+    "line": 296,
+    "text": "Children"
+  },
+  {
+    "line": 297,
+    "text": "Thank you!"
+  },
+  {
+    "line": 298,
+    "text": "We didn't manage to catch a break after escaping from the Alaskan because now we're being chased by some street dogs."
+  },
+  {
+    "line": 299,
+    "text": "Aren't you afraid of dogs? Why did you draw their attention?!"
+  },
+  {
+    "line": 300,
+    "text": "I acted without thinking when I noticed that those two children were scared. Anyway, stop talking and focus on running!"
+  },
+  {
+    "line": 301,
+    "text": "Street Dogs"
+  },
+  {
+    "line": 302,
+    "text": "Woof, woof, woof!!!"
+  },
+  {
+    "line": 303,
+    "text": "I can tell from the sound that they don't come in peace. Sigh... I rather be chased by that Alaskan!"
+  },
+  {
+    "line": 304,
+    "text": "Huff... Huff... Huff... For how much longer... are they going to keep chasing us..."
+  },
+  {
+    "line": 305,
+    "text": "Nana Shiraishi's breathing is becoming more and more rapid. I presume she has been consuming more stamina than usual because of the nervous state she has been in today. What's more, she has been running from Yuzu and the Alaskan all day already, so she should almost be exhausted no matter how fit she is."
+  },
+  {
+    "line": 306,
+    "text": "Nana, do you have the stamina to climb a tree? You can climb up a tree while I draw them away!"
+  },
+  {
+    "line": 307,
+    "text": "No... I-I'm out of energy. I can't run anymore!"
+  },
+  {
+    "line": 308,
+    "text": "D-Don't stop! Oh no, I need to think of something fast..."
+  },
+  {
+    "line": 309,
+    "text": "Arf!"
+  },
+  {
+    "line": 310,
+    "text": "In our moment of despair, a muscular figure stands between Nana Shiraishi and the street dogs - it's the Alaskan that was with Yuzu! After seeing this huge beast suddenly jump out in front of them, the street dogs decisively stop, none of them daring to step forward rashly. They just stare at the Alaskan and growl uneasily at him."
+  },
+  {
+    "line": 311,
+    "text": "Woof... Woof..."
+  },
+  {
+    "line": 312,
+    "text": "...Arf! Arf, arf!"
+  },
+  {
+    "line": 313,
+    "text": "Woof... grrr..."
+  },
+  {
+    "line": 314,
+    "text": "They all run away with their tails between their legs... Phew, if they get all aggressive, then we would be outnumbered and in for a tough fight no matter how fierce this Alaskan is. Fortunately, they were wise enough to leave."
+  },
+  {
+    "line": 315,
+    "text": "Orio-- Ah? {var:player_nickname}, Nana, why are you here?"
+  },
+  {
+    "line": 316,
+    "text": "We accidentally disturbed a pack of street dogs on our way home. Fortunately, this Alaskan appears in the nick of time, or I don't know what would've happened to us."
+  },
+  {
+    "line": 317,
+    "text": "No wonder Orio ran off so excitedly when we were passing by the park. So he smelled your scent and came over here."
+  },
+  {
+    "line": 318,
+    "text": "Is Orio the name of this Alaskan? Thanks a lot, Orio. Your keen sense of smell saved us."
+  },
+  {
+    "line": 319,
+    "text": "Arf..."
+  },
+  {
+    "line": 320,
+    "text": "After seeing the street dogs run away, the Alaskan made a disappointed cry for some reason. After that, he picks something up from the ground and walks toward Nana Shiraishi."
+  },
+  {
+    "line": 321,
+    "text": "I-It's coming over to me! Junior, stop him for me!!!"
+  },
+  {
+    "line": 322,
+    "text": "The Alaskan stops in front of Nana Shiraishi and starts shaking his head softly instead of getting closer to her."
+  },
+  {
+    "line": 323,
+    "text": "...Yuzu, does Orio have some business with Nana?"
+  },
+  {
+    "line": 324,
+    "text": "How did you know? Yes, Orio has been chasing after Nana to return the thing in his mouth to her."
+  },
+  {
+    "line": 325,
+    "text": "The thing in his mouth... Eh? Isn't this my spare hair tie?"
+  },
+  {
+    "line": 326,
+    "text": "You dropped it when you were running away. Orio has been chasing after you to return this to you."
+  },
+  {
+    "line": 327,
+    "text": "I... I see..."
+  },
+  {
+    "line": 328,
+    "text": "Probably because he can sense that Nana Shiraishi doesn't dare to get close to him, Orio places the hair tie on the floor like a gentleman. Nana Shiraishi thinks quietly for a moment after picking up the hair tie before finally looking at Orio with a blush on her face."
+  },
+  {
+    "line": 329,
+    "text": "I'm sorry, I thought you were chasing after me to tease me. Thank you for bringing this back to me, and... thank you for protecting me."
+  },
+  {
+    "line": 330,
+    "text": "Junior, can you stroke his head for me? I want to do it myself, but I'm still too scared..."
+  },
+  {
+    "line": 331,
+    "text": "That's alright. Let me do the honors. It's already a big improvement that you were able to thank him face-to-face instead of turning and running away in fear."
+  },
+  {
+    "line": 332,
+    "text": "You did an excellent job. Thank you for your hard work today, Orio."
+  },
+  {
+    "line": 333,
+    "text": "Arf, arf."
+  },
+  {
+    "line": 334,
+    "text": "Let me convey your thanks to Orio..."
+  },
+  {
+    "line": 335,
+    "text": "...Arf, arf."
+  },
+  {
+    "line": 336,
+    "text": "Argh? It's a misunderstanding?"
+  },
+  {
+    "line": 337,
+    "text": "What did Orio say?"
+  },
+  {
+    "line": 338,
+    "text": "Nana said Orio protected her, but Orio doesn't seem to understand why Nana said that."
+  },
+  {
+    "line": 339,
+    "text": "Eh... Did I not express myself clearly?"
+  },
+  {
+    "line": 340,
+    "text": "Wanjirou"
+  },
+  {
+    "line": 341,
+    "text": "I've been listening to your conversation for a while now. Since you're confused, let me translate for you, woof."
+  },
+  {
+    "line": 342,
+    "text": "Wanjirou, what brings you here?"
+  },
+  {
+    "line": 343,
+    "text": "When I was taking a walk, I saw several young dogs crying and howling about a \"chimera\" in the park. I was curious, so I walked over here to take a look, woof."
+  },
+  {
+    "line": 344,
+    "text": "In the end, there's no chimera here. It's just this Alaskan bro. Young dogs are so ignorant, woof."
+  },
+  {
+    "line": 345,
+    "text": "I'm not going to make a fuss over why they know what \"chimera\" is but can't recognize an Alaskan. Can you tell us what Orio said?"
+  },
+  {
+    "line": 346,
+    "text": "That's easy, woof. Brother, what did you mean when you said they have a misunderstanding, woof?"
+  },
+  {
+    "line": 347,
+    "text": "Arf, arf, arf, arf... arf!"
+  },
+  {
+    "line": 348,
+    "text": "Woof, so that's it. Let me tell you exactly what this brother said, woof."
+  },
+  {
+    "line": 349,
+    "text": "\"So those street dogs were making trouble for you just now? I'm so surprised. I thought you were playing, so I came here to ask you to let me join in. No wonder they ran away so quickly,\" woof."
+  },
+  {
+    "line": 350,
+    "text": "So that's why he didn't think he was protecting Nana Shiraishi just now... Wait a minute. How did he say so many things with just a few barks?!"
+  },
+  {
+    "line": 351,
+    "text": "You humans don't need to know so much about the dog language. Anyway, that's what happened, woof."
+  },
+  {
+    "line": 352,
+    "text": "...Hahaha, he looks so bold, but he's actually this simple-minded?"
+  },
+  {
+    "line": 353,
+    "text": "Argh, Alaskan Malamutes are a breed with a stark contrast in appearance and temperament. Orio is even more simple-minded than others of his kind. He would think people are playing with him even if they are scolding him. Fortunately, he's quite big and strong, so others don't dare to mess with him."
+  },
+  {
+    "line": 354,
+    "text": "Don't worry, Nana. Orio can hit it off with anyone, likes to run around, and is usually very docile. If you play with him more, you'll definitely be able to overcome your fear of dogs."
+  },
+  {
+    "line": 355,
+    "text": "That's what I thought too. Okay, it's not really possible right now, but I'll try my best to accept him and get along with this big friend of ours."
+  },
+  {
+    "line": 356,
+    "text": "He says you feel like one of his kind and wants to get along with you, woof."
+  },
+  {
+    "line": 357,
+    "text": "One of his kind... What's that supposed to mean?"
+  },
+  {
+    "line": 358,
+    "text": "One of his kind... Pfft!"
+  },
+  {
+    "line": 359,
+    "text": "Enthusiastic, hits it off with people, loves to run... Orio managed to notice these similarities after just meeting her once, which means he has a keen sense of smell and also has a keen intuition."
+  },
+  {
+    "line": 360,
+    "text": "Nana Shiraishi looks at us laughing out loud with confusion, then she tilts her head and closes her eyes to think deeply for a moment. When she opens her eyes again, she makes an expression of sudden understanding. The next thing I know, I feel a sharp pain coming from my arm."
+  },
+  {
+    "line": 361,
+    "text": "S-Stop! Everyone is laughing, so why are you only twisting my arm?!"
+  },
+  {
+    "line": 362,
+    "text": "It's because you're laughing the loudest! You're not allowed to laugh! Arghhh! I told you already that you're not allowed to laugh..."
+  },
+  {
+    "line": 364,
+    "text": "Argh?! The s-student council's office...{var:Shake}"
+  },
+  {
+    "line": 369,
+    "text": "Good idea! Let's go inside. Order anything you want to drink, my treat."
+  },
+  {
+    "line": 372,
+    "text": "..."
+  },
+  {
+    "line": 375,
+    "text": "No, it's too early to give up. Orio also says he needs to see Nana about something important."
+  }
+]

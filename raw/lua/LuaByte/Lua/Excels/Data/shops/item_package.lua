@@ -1,0 +1,1 @@
+local a=require("ExcelTool")local b=a.Pack;local c=a.Sub;local d=a.PackGet;local e=a.Dmap;local f={["id"]=1,["item_info"]=1002}local g={nil,nil}local h=function(i,j)return d(i,j,f,g)end;local k={}k[700002]=b({700002,"400207-1,30580005-1,30570003-1"},h)k[700003]=b({700003,"30550014-1,30560004-1,30570005-1,30580008-1"},h)return{tb=k}

@@ -1,0 +1,1 @@
+local a=require("ExcelTool")local b=a.Pack;local c=a.Sub;local d=a.PackGet;local e=a.Dmap;local f={["group_id"]=1,["type"]=2,["point"]=3,["time"]=4}local g={3001,nil,nil,nil}local h=function(i,j)return d(i,j,f,g)end;local k={}k[3001]={b({false,1,50},h),b({false,2,75},h),b({false,3,100,60},h),b({false,4,200},h),b({false,5,0,150},h)}return{tb=k}

@@ -1,0 +1,162 @@
+3:player
+
+344:???
+345:Hello, would you like to take a photo to commemorate your aquarium visit?
+346:Huh?!
+347:I'm strolling around the aquarium when someone suddenly taps my shoulder from behind me. When I turn around, I see Hinata Takanashi smiling brightly at me, camera poised to take a close-up photo of me.
+348:!
+349:Hinata Takanashi
+350:Wow! {var:player_nickname}, you look great from this angle too!
+351:The camera is practically in my face, so how could I possibly look good... Huh, it's actually not bad. Should have trusted your photography skills.
+352:Hmph! How dare you doubt my photography skills! It's time to show you what I can really do.
+353:Check out these marine plants I shot today. What do you think?
+354:Hinata Takanashi approaches me and raises her hands to show me the fruits of her efforts. Her camera is filled with photos of marine plants of various shapes.
+355:This is a great photo of seaweed.
+356:It looks fresh and appetizing, right?
+357:Is this supposed to be a food guide?
+358:Haha, it's mainly because of the lighting in the tank that it looks especially crystal clear and fresh.
+359:Senpai, are you also here to see the marine life too?
+360:Yui, you're here!
+361:Following Hinata Takanashi's gaze, I look behind me and see Yui Yagi's hand that is hovering in the air above my shoulder.
+362:Did you two conspire to scare me from behind?
+363:Yui Yagi
+364:Did we succeed?
+366:Yes
+368:No
+369:Yes, you gave me a fright.
+370:You're lying.
+371:You don't believe me?!
+372:Your acting sucks.
+373:Is that why? I immediately cover my chest and make a frightened expression, then I make an exclamation in a monotone--
+374:Oh, I'm so scared--
+375:...
+376:...
+377:...
+378:That's better than before, but you can do better next time.
+379:Maybe my eyes are playing a trick on me, but I seem to see the corners of Yui Yagi's mouth turn up slightly.
+380:But... if this makes you happy, then I'll try my best to be scared next time.
+381:Hinata already gave me a fright, so it won't be so easy to scare me again.
+382:I'm so disappointed.
+384:Stop! That's a scary thought.
+385:No way! {var:player_nickname}, you always seem to have some cute reactions, so... that's why I get the urge to play pranks on you.
+386:Never mind. If it makes you happy, then it isn't a big deal to let you scare me like this.
+387:Senpai, you're so nice.
+388:Yeah, you're such a nice person.
+389:Thanks, but being told that I'm a nice person is not gonna make me happy. Let's talk about something else. Didn't you two come together?
+390:That's so forced. You lose five points.
+391:We came together, but we split up because Yui wanted to chat with the starfish over there for a while, and then I met you.
+392:Chatting with a starfish? Yui, do you like starfishes?
+393:From a nutritional point of view, yes.
+394:But they taste average.
+395:... Can you comment on them from a perspective that doesn't involve eating them?
+396:From another perspective...
+397:Yeah...
+398:They're really profound.
+399:What do you mean?
+400:Starfishes recover rapidly after getting hurt and can build new tissues and organs within a few days.
+401:So if you cut off the feet of a starfish, you'll end up with several starfishes unless you cook them.
+402:I suddenly feel phantom pain in my arms and legs.
+403:Wow, if they can regrow that quickly, then someone who loves eating starfishes will never run out of starfishes to eat if they breed a few of them at home!
+404:Theoretically, yes.
+405:The starfishes didn't work so hard to develop this regenerative ability evolutionally to make it more convenient for humans to eat them.
+406:Do you think that starfish exist as a group or as individuals?
+407:The topic changed so quickly!
+408:As individuals
+409:As a group
+410:I think they exist as individuals.
+411:Why do you think that?
+412:Until a starfish is sliced up, you never know how many starfish it'll become in the future, but it's just one starfish at this moment.
+413:Wow! {var:player_nickname}, I feel like you just came up with a new scientific law.
+414:Yeah, and it's called {var:player_nickname}'s starfish.
+415:No such scientific law exists...
+416:I think they exist as a group.
+417:Why do you think that?
+418:I subconsciously turn my head to one side because I don't dare to look directly into their anticipation-filled eyes.
+419:Because the starfishes remind me of slimes...
+420:That made me think that a starfish can be seen as a combination of many smaller starfish.
+421:Eh, that kind of makes sense too. {var:player_nickname}, you're so smart!
+422:Senpai, you're so knowledgeable. You get five points.
+423:Apparently, my fantasy knowledge is actually useful sometimes, which makes me breathe a sigh of relief.
+424:You two are so skilled in the art of overpraising people.
+425:Speaking of combinations and overpraising, an octopus has three hearts, two memory systems, and 500 million neurons, yet it won't become three octopuses if it is cut into three pieces.
+426:That's such an awkward way to change the topic.
+427:What if you divide them into three equal parts and ensure each part has a heart?
+428:No, all you'll get is octopus sashimi that is ready to be served... Hmm, it'll taste more wonderful if you dip it in honey when you eat it.
+429:Octopuses are actually highly intelligent. I think they would feel really sad if they knew what you two are thinking...
+430:Let's leave the cute starfish and octopuses alone and go somewhere else.
+431:Senpai, that topic change's so forced. You lose five points.
+432:The corners of Yui Yagi's mouth seem to raise slightly when she sees me at a loss for words.
+433:Actually, there's someone here in the aquarium right now who knows a lot about the ocean.
+434:Oh, I know who you're talking about.
+435:Yes, it's that person.
+436:I knew it!
+437:Stop! Nobody speaks in riddles in One Han City! Who are you talking about?
+438:It's the person over there!
+439:I look at where she is pointing and see two familiar people, Joseph and Sora Ichinose, standing next to a large water tank close to us.
+440:So it's someone I know.
+441:Senpai, you sure know a lot of people, very well-connected.
+442:Why don't we ask the amazing Mr. Joseph? I chatted with him for a while when I passed by earlier, and he told me a lot about the habits of many marine plants and how they can be eaten.
+443:As I look at Hinata Takanashi and Yui Yagi walking in front of me, I start to wonder whether I'm at an aquarium or a restaurant.
+444:Hi guys.
+445:Sora Ichinose
+446:Ahem... hello, {var:player_nickname}.
+447:Joseph
+448:Oh, my partner, you're here at the aquarium too! Well, are you having fun?
+449:Yes, I've learned many... profound things about the sea.
+450:It looks like you're also very thirsty for marine knowledge. I just happen to be telling this little boy about mysterious marine creatures and stories of adventurers who admire them, haha.
+452:Stories of adventurers? Mr. Joseph, can we listen to them too?
+453:Of course, my lovely lady. We were just talking about the sea creature with the longest lifespan that the adventurers encountered during their journey. Do you know what it is?
+454:I know! It's a turtle.
+455:No, no, no.
+456:People always use turtles as a symbol of longevity. How can my answer be wrong?
+457:The belief that turtles live for a very long time is actually a misconception of humans. The average lifespan of a tortoise is 30-50 years. Sea turtles do live longer than them, but their average lifespan is only about 100-150 years.
+458:Yes, the little boy is right.
+459:Arctic surf clams.
+460:Are you talking about the red shellfish that is always featured in sashimi platters?
+461:Oh no, my train of thought has been led astray without me realizing it...
+462:Haha, actually, the arctic clam sashimi that is often eaten is cooked. This type of clam becomes red after it has been cooked and frozen. Fresh arctic surf clams, on the other hand... Ah, there are two over there. Can you see them?
+463:We look at where Joseph is pointing and see two shellfish on a stone in a water tank. Each of them is about half the size of an adult male's palm.
+464:I don't think we can see the color of the shellfish's meat like this.
+465:Their meat is bright white, soft, and tender when they have just been fished out of the sea.
+466:You've eaten them raw before?
+467:Of course, but it's thanks to a storm we encountered at sea that I got the chance to.
+468:Mr. Joseph, can you tell me that part of the story?
+469:Haha, you really are interested in adventures, little boy. It was a sea adventure many years ago. It was a stormy day, and our ship was unlucky enough to run aground and sink. Fortunately, we were rescued by a nearby fishing boat after drifting for a while.
+470:This fishing boat fishes exclusively for artic surf clams, and the cabin was filled with plump arctic surf clams far larger than these two little guys. They were so delicious... Partner, you should try them sometimes. I'll never forget how they tasted.
+471:If I need to have such an adventure to be able to try it, then I prefer to eat it cooked...
+472:Haha, but any food you get after experiencing many dangers tastes particularly delicious. That's one of the most meaningful things about adventures.
+473:Let's get back to the lifespan of an arctic surf clam.
+474:Pfft! {var:player_nickname}, you're changing the topic again.
+475:According to a news report from some time ago, it can live for over 1,000 years.
+476:A-a thousand years?!
+477:Living for over a thousand years is certainly impressive, but it's not the creature with the longest lifespan that we're talking about.
+478:I once saw its miraculous "reverse aging" in the tropical seas firsthand. Nature truly is amazing!
+479:Reverse aging... Are you talking about the immortal jellyfish?
+480:Bingo! You may be young, little boy, but you know just as much as adults.
+481:No, I just... have a habit of reading books and news.
+482:I notice that Sora Ichinose looks a little disappointed, as if he wanted to say something but decided not to say anything in the end.
+491:What are you two whispering about so secretively?
+492:Senpai, you're keeping a secret from us.
+493:Eh? You have a secret you can't share with us?
+494:I glance at Sora Ichinose, who starts shaking his head uneasily. It looks like he doesn't want everyone to know about what we were talking about, so we'll keep it as our little secret for now.
+495:"Grumble--" Suddenly, someone's stomach starts grumbling, which gives me an idea.
+496:It's nothing. We just felt hungry because you guys keep talking about delicious seafood.
+497:Speaking of that, surely you all know that this aquarium has an amazing seafood restaurant, right?
+498:There really is a seafood restaurant... They don't source their ingredients locally from this aquarium, right?
+499:Doesn't that mean the aquatic friends we just made over there might become tonight's dinner?
+500:The conversations between you adults sure are dangerous, whether for a middle schooler or for these innocent aquarium creatures...
+501:Yes, senpai is really dangerous.
+502:Haha, don't worry! The seafood restaurant sources its ingredients from all over the world. The reason why I'm here today is because I'm the one who meticulously selected these ingredients during my adventures.
+503:Let's go, my friends! It isn't enough to just look at and listen to the mysteries of the oceans. You also need to experience them with your taste buds, haha!
+504:Something doesn't sound right, but I'll let it slide this time...
+505:I follow my friends to the restaurant. On the way, I look back at my "new friends" in the water tanks. The ocean really is a mysterious and interesting place. Maybe it'll be a good idea to go on an adventure with Joseph next time.
+508:Hehe, so I managed to scare you, {var:player_nickname}. Although Yui and I didn't agree to scare you, it feels even more satisfying that I managed to scare you unintentionally.
+509:I've told you before, I'm not a little boy. I'm already a middle school student...
+510:Sora, what's wrong?
+511:Never mind...
+512:Why do you look a little unhappy?
+513:The truth is, I'm really envious of Mr. Joseph's life.
+514:The adventures?
+515:Yes, although they sound really dangerous, Mr. Joseph is healthy and can travel wherever he wants to witness the miracles of nature.
+516:Sora, you can do that too. You just need to take good care of your body. You might not be able to live forever like the immortal jellyfish, but you can still aim to live for 1,000 years like an arctic surf clam!
+517:When we mentioned arctic surf clams just then, I bet the first thing you thought of was the arctic surf clam sashimi that is usually eaten, right? I... don't want to aim to become food.

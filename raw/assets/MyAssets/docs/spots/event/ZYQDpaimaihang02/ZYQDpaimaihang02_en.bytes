@@ -1,0 +1,431 @@
+9:player
+
+535:I work my way down the list and visit Miki Nikaidou first thing in the morning, but I stumble upon a commotion outside Tenhoukaku...
+536:Citizen A
+537:What do you mean? This jade has been in my family for eighteen generations!
+538:Citizen B
+539:Eighteen generations?! I doubt it has even been eighteen hours since it left the factory! Real mutton-fat jade should have the luster and smoothness of my jade pendant!
+540:Citizen C
+541:Wait, are you serious? If whiteness was all that mattered, I'd be selling the soaps!
+542:I barely manage to push through the crowd and finally find some peace and quiet once I step inside the store.
+543:Phew...
+544:Tenhoukaku
+545:Miki Nikaidou
+546:Oh? It's you.
+547:If you're here to play some mahjong, let's do it at the shrine tonight. I don't have the time right now.
+548:I'm not here for mahjong. Oh, you're busy right now?
+549:I quickly approach Nikaidou, and I notice her twirling a mini spatula and applying something on a maneki-neko statue.
+550:Not really. Those guests outside broke Tenhoukaku's threshold and even chipped the ear of the maneki-neko by the entrance. Talk about bad luck.
+551:Oh, who are those people out there?
+552:Just a bunch in a hurry to sell their treasures. Leave them to their petty quarrels.
+553:You don't plan to let them in to speak with you?
+554:Hehe, the best way to eat salmon is to first place a catfish in its habitat.
+555:Why is that?
+556:When two fish compete for survival, the survivor will always be tastier. The same goes for business. Once they're done, only the guest who manages to walk into Tenhoukaku is worthy of negotiations with me.
+557:The art of doing business is truly anything but simple...
+558:Anyway, to what do I owe the pleasure today, {var:player_nickname}? Don't tell me you're here to negotiate the sale of jade too? Hehe, if that's the case, the others outside are out of luck.
+559:Sigh, if only I had some jade to finish my job...
+560:I tell Miki Nikaidou about yesterday's incident...
+561:Oh my! Sounds like you really went through a lot. Is there any way I can help?
+562:I found some clues at the scene. Could I verify some things with you?
+563:Of course.
+568:[Footprint likely from a man]
+570:[VIP Exhibition Invitation List]
+572:[Receipt (Plaster)]
+574:[Vermillion Bird Beak Mask]
+575:Do you recognize this footprint?
+576:Miki Nikaidou glances at the footprint and smiles charmingly.
+577:Where did you find this?
+578:At the entrance of Champion Auction House. It was on some wet mud.
+579:Pfft! You're really sounding like a detective now. But its size doesn't match my own.
+580:I take a close look at Miki Nikaidou's shoes. Sure enough, there's a big difference between them.
+581:I guess this clue is unrelated to Miki Nikaidou for now.
+582:Did you visit Champion Auction House the day before yesterday?
+583:Since I was invited, it was naturally my honor to attend.
+584:That makes sense... This clue doesn't prove anything.
+585:Eh? I think I've seen that receipt before.
+586:Huh? Please take a closer look. It was found at the scene of the crime.
+587:Hmm, this seems to be the receipt for the plaster I got the other day.
+588:Miki Nikaidou lifts up the maneki-neko statue beside her. There are signs of wet, freshly-applied plaster on its broken ear.
+589:It was in the afternoon, three days ago. I got some flexible plaster from the hardware store...
+590:Everything matches up.
+591:Looks like I've figured out the origin and use of [Receipt (Plaster)]...
+592:I must have dropped it when I attended the exhibition.
+593:Hint [Receipt (Plaster)] has been resolved
+594:A vermillion mask with a bird's beak... It does sound familiar. I think I saw someone handing out masks like that when I passed by a theater on my way home after the exhibition. But I only caught a glimpse from afar and didn't take one.
+595:I don't think I can learn anything useful from this visit.
+596:Just as I'm about to bid farewell to Miki Nikaidou, another commotion arises outside.
+597:Citizen A
+598:Huh?! Isn't that...
+599:Citizen B
+600:Is she here for the same reason as us? Does anyone know what she intends to sell?
+601:Citizen C
+602:Well, if it's her, it's definitely something worth a fortune. It might even be a unique, museum-level piece! Let's just leave.
+603:Creak! The door swings open, and it's... Fuuka Minami?!
+604:I shudder at the thought of my experience in Beryl Blue yesterday. Luckily, it doesn't seem like Miki Nikaidou has a beef with Fuuka Minami.
+605:Ms. Minami, what a surprise. Looking for something special today?
+606:Fuuka Minami
+607:I'm here for jade, just not your jade. Let's skip the formalities for now, shall we?
+608:Miss Nikaidou, why did you make a post about purchasing mutton-fat jade for a high price?
+609:Fuuka Minami shows the web page on her phone.
+610:Isn't that pretty normal for a gemstone dealer?
+611:Right after you made a post about purchasing mutton-fat jade for a high price, the best mutton-fat jade in the auction house's collection is stolen.
+612:Is that a coincidence? Or... a motive?
+613:Fuuka Minami's blunt question catches me off guard. I glance at Miki Nikaidou, but she doesn't seem to mind. In fact, she appears momentarily stunned, then looks up in confusion. Her hedgehog, sensing her change in emotions, scurries down her arm.
+614:Heh, Ms. Minami, you sure don't beat around the bush. But, did you say the best mutton-fat jade in the auction house?
+615:Yes, the Heart of Divinity... I'm sure you saw it during the exhibition.
+616:Miki Nikaidou looks at me and asks--
+618:Yes.
+619:Oh... Then that's right. But the theft has nothing to do with me. {var:player_nickname} questioned me before you arrived.
+620:What do you think, {var:player_nickname}?
+621:There's really nothing suspicious about Miki for now, and I was just about to leave too.
+622:Is that so? Then I believe you.
+623:Of course I believe Ms. Nikaidou is an upright person too. Otherwise, I wouldn't have been so direct.
+624:Well, since I'm off the suspect list for now, I wish you the best of luck in cracking the case soon.
+625:You can do it, {var:player_nickname}!
+626:I keep having the feeling that there was something strange about Miki Nikaidou's reaction, or am I just overthinking things? I should come back another day for some answers.
+627:With Miki Nikaidou's encouragement, Fuuka Minami and I leave Tenhoukaku.
+628:At this point, aside from that footprint, I'm out of leads...
+629:The power of belief is your magic!
+630:Why did you suddenly rush over saying that?
+631:Ah! It was a joke. You just looked so disheartened. Bamboo Cloud's employee incentive plan is very advanced, you know?
+632:See? your help has arrived.
+634:She pushes up the gold-rimmed glasses on her nose and her ocean-blue eyes glow with intelligence.
+635:Hi there, I'm...
+636:Suddenly, light brown hair flutters before my eyes. I look down and see her nose right by my side, sniffing me like a dog...
+637:WHAT THE?!
+638:She stands up straight and adjusts her gold-rimmed glasses.
+639:???
+640:Hoho... Marks on your sleeve suggest a recent brush with a crowd. The lingering fragrance on your collar indicates your recent presence in a scented indoor environment. No traces of seasonings or sauces on the fingers or lips... so the indoor environment wasn't a restaurant...
+641:That is all true...
+642:So, you just left Tenhoukaku!
+643:Yeah... Huh?! Wait, isn't that line of reasoning a little too far-fetched?!
+644:Well there's another key clue. Ms. Minami told me to wait for you around Tenhoukaku.
+645:Only the last one is an actual clue!
+646:I'm Jane, a detective. It's a pleasure to meet you, and let's work together to solve this case.
+647:Sure...
+648:Okay, I'll be waiting for the good news.
+649:Once Fuuka Minami leaves, I explain the entire case to Jane...
+650:Jane
+651:Hmm... Can I see those receipts? My detective instincts are telling me that there may be more to it.
+652:I've found their owners. Miki Nikaidou, the gem dealer who needed plaster to repair a statue, and Riu Kujou, the maid who needed bandaging after injuring herself during Taekwondo practice.
+653:And did you verify this at the hardware store and pharmacy?
+654:Huh? No, I...
+655:I knew it. Rookies...
+657:We must base our deduction on objective truths! Let's go!
+658:Jane and I make the pharmacy our first stop. The owner looks like an honest middle-aged man.
+659:Pharmacy
+660:Could you verify if this receipt came from your pharmacy?
+661:Pharmacy Owner
+662:Let me take a look... Yes, it's one of ours.
+663:Do you remember the customer who made this purchase?
+665:Unexpectedly, the owner is quite the talker, so I quickly interject with a question.
+666:Could you describe them to us?
+667:Hmm... I'll need a moment... I remember the two young ladies came together. One was a redhead, and the other a blonde. Both of them were really beautiful, like dolls, you know? But... They didn't have the best temper. They told me to shut up while I was still talking. Sigh, the young ladies these days...
+668:All right! I get it! I mean, I understand. What about the other customer?
+670:Sorry, but we can't. Thank you for your time.
+671:Jane pulls me out of the pharmacy, and both of us heave sighs of relief. The owner was really too... "friendly."
+672:Next stop, the hardware store.
+673:Our investigation at the hardware store isn't going as smoothly as we'd hoped... The owner, a young and delightful woman, agrees to help us, only to drop some bad news on us.
+675:So, you're saying that besides a woman in purple, you don't remember anything else that occurred that day?
+677:I know it sounds unbelievable, but I probably fell into a rift in space that day, and when I finally regained my senses, all I saw was a pile of Coppers on the counter.
+678:How did that happen?! Show me!
+679:Oh, this spot behind the counter is where I suddenly saw the Milky Way. I was just about to make a submission to Far Away Science, too...
+680:When you heard about the jade theft, your raised eyebrows, open mouth, and look of surprise suggested you knew nothing about it. When asked about the incident, your eyes shifted up and to the left, showing you were genuinely trying to remember. But even when you told that blatant lie about the spatial rift, your expression didn't change at all...
+681:Ugh! What a formidable opponent! Have you studied microexpressions, too?!
+682:Huh? Mango espresso?
+683:Oh, there's a surveillance camera on the wall!
+684:After being reminded, the hardware store owner pulls up the surveillance footage on her computer, and we rewind it to the exact time on the receipt...
+686:Right, that's the show. My memories are frozen at the moment the male lead was asking the female lead what makes him inferior to the second male lead!
+687:Jane and I remain quiet and continue watching. Meanwhile, a woman in purple walks in with a drink, and she has a hedgehog on her shoulder.
+688:Hmm, it is Miki Nikaidou.
+690:I think I know what happened now...
+691:Miki Nikaidou leaves after paying her bill, and the hardware store owner collapses on the counter soon after.
+692:I see. Now it all makes sense.
+693:What do you mean?! That just makes Ms. Nikaidou a bigger suspect!
+694:Well... You'd understand if you got to know her a little better... Forget it, let's continue.
+695:Jane and I continue watching the footage. A short while later, aside from a man in a jacket who left Coppers on the counter after getting some flexible plaster, no one else visited the hardware store.
+696:As for the owner herself, she didn't wake up until nightfall...
+697:Oh, so I fell asleep after accidentally drinking that special drink... Anyway, thank you. You're truly amazing detectives!
+698:I guiltily say goodbye to the hardware store owner, careful not to mention that I know the woman who allowed her to "enter the Milky Way..."
+699:Jane and I stroll through Champion Street, but I feel slightly disheartened.
+701:Riu Kujou and Miki Nikaidou weren't lying, and I don't have any new clues.
+702:Hohoho... Facts are the keys to unlocking the truth, and there's usually more than one key!
+703:That's true. We still have the footprint... But how do we investigate that?
+704:No! Not that! I'm talking about something else. Besides Ms. Nikaidou and Ms. Kujou, we discovered that others had purchased plaster and bandages too, right?
+705:The masked man at the pharmacy and the man in a jacket at the hardware store? Well... What's unusual about that?
+706:In the surveillance footage, the man in a jacket had something in his pocket... So, what if they are actually the same person, and he just took off his baseball cap and mask and put them in his pocket when he went to the hardware store?
+707:That's definitely possible!
+708:And what kind of person would need plaster and bandages at the same time?
+709:Suddenly, I have an epiphany.
+710:Someone with broken bones?
+711:Someone with broken bones, has visited the auction house, and has the opportunity to access the masks handed out by the nearby theater...
+712:Ms. Ume mentioned--"There was another male employee, Toku, but he injured his leg a few days ago and has been on leave this week."
+713:Hoho, it seems you do have the talent to be a detective.
+714:Let's go!
+715:Dorm Manager
+716:Oh, Toku? He went out yesterday morning. No idea what he was up to, but when he got back, he locked himself in. Said he hurt his leg, so I ended up bringing him food all day.
+718:But Ms. Ume just came and took him away with a serious look... Sigh, I wonder what he did.
+719:Was he really injured?
+721:Speaking of which, Wang returned right after Toku. He mentioned running into Toku on the way, but Toku seemed distracted and completely ignored him.
+722:If you ask me, I think Toku was dejected. Taking time off due to an injury at this time of the year means he'll lose the triple pay before the anniversary celebration...
+723:I look around but fail to locate any surveillance cameras in the dorm, so we ask the dorm manager if she would allow us into Toku's room.
+724:The boss sent you to investigate, so there's no need to be so polite. I'll lead the way.
+725:The manager unlocks Toku's room for us. Jane and I immediately start searching the moderately-sized room.
+728:A pair of muddy shoes. The size and soles of these shoes are a perfect match for the footprints found at the auction house! Important evidence found!
+734:Toku's employee badge. It does nothing beyond proving Toku's identity. But the small print on it does indicate that it should be worn at all times during work hours. It seems Ms. Ume didn't take him away for work.
+735:The masked thief from yesterday has to be Toku!
+736:Now, it's time for our thrilling combos!
+737:Jane and I rush back to the auction house with the results of our deduction. If everything goes as planned, my work as a detective should be over soon! Oddly enough, I feel a bit reluctant at the thought.
+738:Champion Auction House
+739:Hmm... Unexpected witnesses have appeared.
+740:Welcome back, "detectives."
+741:Qing Luan
+742:We meet again.
+743:It looks like the supervisor I hired is quite the charmer. Just a few visits made so many distinguished guests pop up at my door.
+744:Wait! What's going on?! Ms. Ume, save me!
+745:Ume
+746:For employee salary concerns, please transfer the call to Take. For employee safety concerns, please transfer the call to Kiku. For collaborations with Bamboo Cloud, please transfer the call to Ran.
+747:End conversation!
+748:These past two days as a detective trained me to always observe my surroundings. I see Aoi, Qing Luan, Miki Nikaidou, Fuuka Minami, Ms. Ume who's feigning ignorance, and a man with a leg cast who looks just like Toku. At this moment, all of them are standing before a display cabinet...
+749:It seems the truth is almost upon us?
+750:If our deduction is correct, the criminal is among us.
+751:May I know what Qing Luan and Nikaidou are doing here?
+752:Report to Fuuka Minami.
+753:There are still some things that I need to verify, but...
+754:These two's presence here doesn't make any sense!
+755:May I know what you two are doing here? Based on our investigation, both of you should be unrelated to the case.
+756:Destined encounters happen all the time.
+757:Haha. Before that, why don't you tell us what you've discovered? It's closely related to the reason for my visit after all.
+758:We've made some progress, but... I would like to borrow the auction house to verify a few things.
+759:Go ahead. I'm really looking forward to it.
+760:Jane and I turn our gazes to Toku.
+761:You faked your injury to create an alibi for the crime, didn't you? Toku!
+762:Toku
+763:That's a lie! D-Do you have any proof?
+784:Yes, I did purchase those things. But doesn't that just prove I'm injured?
+785:Wait, let me think...
+786:Wait! The receipts could have been left behind by Ms. Nikaidou or Ms. Kujou. They cannot prove anything when presented alone. We better be thorough and select all relevant clues.
+787:Toku
+788:Tsk, what does that have to do with the evidence? How is it even linked to the case?
+789:Calm down and think. What is the sign of an injured person?
+790:If you really took time off due to an injury, how do you explain the presence of these things at the scene of the crime?
+800:Fine... I did come here yesterday morning to have a look. I was worried Aoi wouldn't be able to handle all the guests coming to see the items while I was recovering, so I endured my pain and came here! Doesn't that just prove I'm a good employee?!
+801:Boss, is this detective of yours even licensed?
+802:Give me a moment, boss! Let me think!
+804:I see you're determined to deny everything. Are you really going to force my "leg?"
+805:I give his uninjured leg a lightning-fast kick. Toku leaps into the air with his "injured" leg and instantly performs a medical miracle!
+806:Immediately getting what I'm up to, Jane dashes forward and tears off the bandages to reveal a completely uninjured leg.
+807:Silence fills the air. Suddenly, Toku drops to the ground and starts pretending to wail while pulling on the hem of Fuuka Minami's dress.
+808:I'm sorry, boss! I faked my injury because I didn't want to work! But I had nothing to do with the robbery!
+809:Based on the footprints we discovered at the scene, by the process of elimination, you're the only suspect who could have been at the auction house during the time of the robbery!
+810:What if the thief flew off in a helicopter? What if they used someone else's footprints? What if... they left with a bamboo-copter?! You don't have anything that can directly link me to the crime!
+811:That's just a load of nonsense!
+812:Jane paces back and forth while muttering something.
+813:No, that's not it. Something tells me we've missed something, and it's among these clues...
+814:I recall every aspect of the case as I consider which piece of evidence still required further investigation.
+819:There's nothing special about these clues. Bringing them up for questioning again will only make Fuuka Minami think I'm an amateur.
+820:Right! The footprints! They were leading out into the street from the auction house. But if Toku came and left yesterday, he should have left two sets of footprints behind! One when he arrived, and the other when he left!
+821:So why was there only a single set of footprints leading outward?
+822:It means... The thief was already in the auction house, and at least before the storm on the night before yesterday!
+823:Jane squats before Toku and looks him straight in the eyes, causing him to panic.
+824:No, I didn't! It's a fake footprint! You planted it there!
+825:We've almost gathered all the keys to unlock the truth.
+827:But why didn't we think of this before?
+828:I think someone's testimony deliberately led us in the wrong direction. Think about it, whose testimony conflicts with this fact?
+837:It's Fuuka Minami!
+838:Ume! Capture {var:player_nickname} for me!
+839:Wait, boss! I was just livening up the atmosphere!
+840:It's Jane!
+841:Are you even listening to yourself right now?
+842:Familiarity with various crimes, the skill to cover up traces of a crime, and the ability to give an incorrect testimony and lead the investigation in the wrong direction...
+843:Jane ticks all the boxes!
+845:This is a serious matter. Stop playing around.
+846:Sorry!
+847:It's Qing Luan!
+848:I can reiterate everything I know, if that's what you need...
+849:Well, according to what I heard from you, Ms. Qing Luan's testimony doesn't conflict with the existing evidence. You should give it more thought.
+850:It's Miki Nikaidou!
+851:Huh? Your boss doesn't look very happy. This isn't the time for jokes.
+852:Well, according to what I heard from you, Ms. Nikaidou's testimony doesn't conflict with the existing evidence. You should give it more thought.
+853:It's Chiori Mikami and Riu Kujou!
+854:Hey! They may not be here, but you can't just slander them! Now think again!
+855:It's Aoi!
+856:Aoi stated she was alone at night the day before yesterday, but Toku was here too... So, were they both in on it?
+857:Aoi
+858:That's slander!
+859:Hmm... We cannot rule out the possibility that Toku was hiding, which led Aoi to mistakenly believe she was alone that night.
+860:Suddenly, Fuuka Minami walks over to Aoi with a commanding presence, lifting Aoi's chin with her folding fan to reveal her pale face.
+861:I was there when you gave your testimony.
+862:Yes, boss...
+863:You said Ms. Ume saved you, right?
+864:That's right. I've been at Bamboo Cloud since I was twelve, so I would never betray...
+865:Unexpectedly, Fuuka Minami walks over to Toku while Aoi is speaking and signals the bodyguards to stomp on Toku's hand.
+866:AHHHH!!!
+867:Toku!
+868:Hehe, it was Bamboo Cloud that saved you, not him, so relax.
+869:You're right...
+870:Okay, I'll give you a chance to call the police. The facts are clear. Just tell them you caught a colleague stealing the priceless Heart of Divinity, and I'm sure they'll be here in no time.
+871:Here's the phone.
+872:Aoi accepts the phone with shaky hands.
+873:Oh! Right! If we let the police handle the theft of something this valuable, the jail time will probably start at fifteen years. But you'll be making a great contribution, Aoi.
+874:Fifteen years?!
+875:Hmph! Nice try. I don't get scared that easily.
+876:An inside job, armed robbery... The combined sentence may even exceed fifteen years.
+877:Oh, and because he's being reported, he won't have the chance to turn himself in and get a reduced sentence. Bamboo Cloud will never hire someone convicted of an inside job. Thirty years from now, when Bamboo Cloud's businesses have spread throughout One Han City, I can only wonder where he'll make a living!
+878:Aoi starts crying and goes to Toku.
+879:Toku, just return the jade...
+880:What are you saying?! I don't know you!
+881:Toku, Aoi's neck is completely unscathed.
+882:So?
+884:I...
+885:Toku turns ashen. He hesitates to speak but ends up looking down in silence.
+886:Some investigations are definitely best handled by you alone! It's truly frightening!
+887:Ume mutters to herself as she starts recording on her phone.
+888:"The proposal for the removal of the employee safety hotline has been retracted. Although it hasn't been used throughout the years, it's necessary under special circumstances. To be sent to Take."
+889:Once the case is solved, Bamboo Cloud will compensate you with double the medical expenses...
+890:I rub my neck. Well, if I had to say so, this brush with death was quite worth it since it became a key piece of evidence against the suspect's defense.
+891:Now that I think about it, they probably carefully planned to make you the eyewitness of the robbery, as it would excuse them from employee negligence and keep them from being suspected of doing an inside job.
+892:So I was part of their plans...
+893:It's quite an interesting turn of events, even in my career as a detective! But why did they specifically target you? And how did they know when you would be eating there?
+894:I don't think that was part of their plan. Their performance was for all the guests on the second floor of Bamboo Inn...
+895:After saying that, I cast a guilty glance at Ume. Noticing her remain completely composed, I brace myself and continue.
+896:However, due to certain reasons, I was the only guest present on the second floor that morning. So, their performance didn't go as planned...
+897:Ume's brows twitch a little, and I take a moment to pray in silence for Bamboo Inn.
+898:Everything is clear now. Hand over the Heart of Divinity.
+899:I personally have no interest in getting the police involved, though that doesn't mean Bamboo Cloud's retaliation and punishment will be less severe than jail time.
+900:Toku is already restrained by the bodyguards, but he still refuses to give in and shouts at the top of his lungs.
+901:The Heart of Divinity has always belonged to Northland! We're simply returning it to its rightful owner!
+902:Northland? Its rightful owner?
+904:It looks familiar... But where have I seen it before? As I try to place it, my detective instincts from the last two days kick in, and I instinctively snap a photo to keep it as a clue.
+905:Before I can figure that out, Fuuka Minami suddenly orders the bodyguards to search Aoi and Toku, but they find nothing.
+906:Toku, where did you hide the jade?
+907:Northland gave birth to us and raised us. Rilla, we can't repay it like this!
+908:Looks like we won't be getting anything from our thieves. Hoho... Where could he have hidden the Heart of Divinity?
+909:We searched Toku's dorm room earlier, but there was no trace of the jade. Could he have passed it to another accomplice?
+910:According to the dorm manager, Toku never left after returning yesterday, not until Ms. Ume brought him here. If he did pass it to someone else, the only possibility is he did it on his way back from the auction house to the dorm.
+911:Oh! Then Wang's testimony will be very important!
+912:Wang? The one who's very close to Toku? I know who that is.
+913:Jane snaps her fingers and gives me a thumbs-up.
+914:Right! Wang saw Toku returning to the dorm. Maybe he has some clues for us! Ms. Ume, we're counting on you!
+916:Wang (Phone)
+917:Yesterday morning, I went to Bamboo Cloud to grab a limited roast goose. But I was in such a hurry that I ran into someone near the auction house and made him drop his roast goose. So, I agreed to buy him another one.
+918:Roast goose? That makes me hungry... Sorry, please continue.
+919:Start from the point that's relevant to the case.
+920:It's relevant... At least it will be in a moment. When I returned to the auction house with the roast geese, that person I ran into was gone.
+921:I waited and waited outside the auction house, but that person never came back. It was then that I caught Toku rushing out of the auction house. At that time, I wondered--wasn't he supposed to be on leave because of his injury? What's he doing here? Talk about dedication... Oh, Ms. Ume, don't get me wrong. We should all be as dedicated to our work as we are to Bamboo Cloud's roast geese!
+922:Get to the point.
+923:Okay, okay. So I asked him what he was doing there, but he just ignored me.
+924:Something felt off about him, so I followed him out of concern for his well-being. But he went straight for the dorm and shut himself in his room, refusing to open up no matter how hard I banged on his door. Well, since I had roast goose to enjoy, I returned to my room soon after.
+925:Ms. Ume, let me be clear. I only saw him go straight for the dorm, and then I went to enjoy my roast goose. He didn't say anything to me!
+926:Once the call ends, we do our best to extract the valuable information within Wang's roast geese story.
+927:According to Wang's testimony, Toku didn't make any stops on his way back from the auction house to the dorm, nor did he have any opportunities to hide the Heart of Divinity somewhere else.
+928:And based on the dorm manager's testimony, we know Toku didn't leave or make contact with anyone upon his return. So, he couldn't have moved the Heart of Divinity as well.
+929:Now, after searching Toku and Aoi on the spot, we've still failed to locate the Heart of Divinity. So...
+930:The most likely answer is that it's hidden within the auction house itself!
+931:Fuuka Minami agrees with our deduction and sends Ume to organize a search of the exhibition area. Meanwhile, she leads Jane and me to search the employee lounge while the others remain on the spot in the "company" of the bodyguards.
+933:Church Miracles, Detective Konan, Employee Rules...
+934:Huh? There's a watermark on the table's corner... *sniffing* It smells like ordinary tap water.
+935:All the drawers are locked.
+937:Hmm... They are indeed ordinary drawers that require keys. There aren't any codes to decipher.
+938:You've played too many detective games, haven't you?!
+939:I look at Fuuka Minami upon noticing something under the quilt.
+940:Lift it up.
+941:I lift the quilt to find a--teddy bear. Nothing about it stands out to me.
+942:The pillow feels hard. I think something's in there!
+944:Hmm, there's only an ice cube in the freezer...
+947:That's it!
+948:After flipping through all the books on the table, I've learned 100 hauntings in the church and 999 ways to kill in One Han City!
+949:Books may contain a wealth of knowledge, but I doubt they hold any mutton-fat jade.
+950:(whisper) This is bad! The furrowed brows and narrowed eyes--those are micro-expressions of anger!
+951:I think it's gone beyond micro-expressions... Sorry, boss! I'll get back to searching right away!
+952:Upon receiving Fuuka Minami's approval, Jane and I break open the drawer to find a photograph of an employee couple--Toku and Aoi.
+953:Jane and I exchange glances. It's exactly the same as the photograph we found in Toku's room. Toku clearly tore off the other half in order to protect Aoi.
+954:Underneath the photo is an employment contract. I glance at the last line and see Aoi's pay... It's so low. I sort of understand why she stole the Heart of Divinity now!
+955:(whisper) I don't think we should be seeing that. Let's just hurry up and look for the Heart of Divinity...
+956:I tear open the hard, suspicious pillow, and pieces of weaved bamboo fall out from within...
+957:Well... Boss, do you think Aoi and Toku thought weaved bamboo was precious, so they hid them in here?
+958:Are you out of your mind?!
+959:That's a bamboo pillow with spine support specially made for Bamboo Cloud's employees...
+960:Destruction of company property. I'll be taking it out of your salary.
+961:All that hard work for nothing...
+962:The ice cube seems translucent, but I think there's something in there.
+963:I smash it apart. The Heart of Divinity! I knew it was in there!
+965:My first go at being a detective feels pretty good!
+966:Just as relief washes over me for a job well done, Miki Nikaidou puts on a pair of gloves and sighs while touching the Heart of Divinity.
+967:I couldn't see clearly through the glass that day, but this confirms my suspicions...
+968:It's a forgery...
+969:A forgery?!
+971:So, isn't it time you two explain what you're doing here?
+972:I have nothing to say.
+973:Qing Luan refuses to answer and intends to leave, but Fuuka Minami locks the lounge's exit.
+974:If you aren't the culprits, then what are you doing here?
+975:Fuuka Minami sneers at Qing Luan.
+976:Are you here to make fun of me and Bamboo Cloud?
+977:Fuuka Minami rests against the seat and gently fans herself. She clearly has no intention of letting them leave without explaining themselves.
+978:Then I'll go first.
+979:This morning, you visited Tenhoukaku with {var:player_nickname} to ask me about the exhibition as you suspected that one of the guests at the exhibition was behind the Heart of Divinity's theft, right?
+980:Although I haven't laid eyes on the real Heart of Divinity, during the exhibition, I had a feeling its quality wasn't up to my expectations.
+981:I know how picky you are, and something of that quality isn't worthy of being at the center of Bamboo Cloud Auction House. So, if what we saw that day was a forgery, then the real Heart of Divinity should have been stolen long before that...
+982:I came to share my findings because I was worried our little detective would be investigating in the wrong direction. Hehe.
+983:Oh, thank you for being so concerned about my supervisor. So, what about you? Qing Luan?
+984:My reason... is really simple too.
+985:During the exhibition, though the jade seemed smooth and shiny, upon careful observation, it was quite rough. Obviously, it was a forgery. However, I expected it to be part of your strategy to protect the real item and ensure the auction goes smoothly... After all, businesspeople are known for their resourcefulness.
+986:But your visit to Beryl Blue yesterday made me realize that I'd misunderstood, so I came to verify if the jade stolen yesterday was the authentic piece or a forgery.
+987:The Heart of Divinity was crafted from a piece of priceless jade that is said to have been inlaid on a royal chalice in Northland and passed down for centuries. It would be a shame if the real piece was stolen.
+988:Heh... Don't worry, nothing like that would ever happen in my territory.
+989:Fuuka Minami asks Qing Luan and Miki Nikaidou to leave after hearing their explanations. Jane and I think they are innocent too.
+990:So, someone else must have switched the jade, and the real Heart of Divinity is in that person's hands!
+991:But we've run out of clues...
+992:Haha, how interesting... And here I thought they were connected to this incident... I didn't expect more and more people would dare to play such tricks right under my nose...
+993:Although Fuuka Minami is smiling, it's a smile that instills fear.
+994:Detectives, please head home and organize your findings. Perhaps you'll discover something you've missed.
+996:Ask Miki Nikaidou
+997:Which hint might be related to Miki Nikaidou?
+1001:Were you asking about the morning of the day before yesterday?
+1002:Oh, the other customer? They wore a flat cap and a mask, so I don't know where to start... Oh? The way you're asking about them... Did someone commit a crime or something? Could you tell me about it?
+1003:Hardware Store
+1004:Miki Nikaidou leaves her drink on the counter to free her hands and select the plaster she needs. The hardware store owner is still eating, and she mistakes Miki Nikaidou's drink for her own.
+1005:Champion Street
+1006:Auction House Employee Dorms
+1007:Oh! Well, his leg was all wrapped up like that, so I'd say that's got to be some serious injury!
+1008:Investigate Toku's room
+1011:A crumpled piece of paper lies discarded in the corner. After examining it thoroughly, I conclude it doesn't contain any useful clues.
+1013:A photo torn in half. The photo depicts a man whom the manager identifies as Toku himself. Besides depicting Toku with another person, it doesn't provide any other useful information.
+1015:You used these things to create the illusion that you were immobilized by a leg injury!
+1016:Show evidence
+1017:Which clues can prove this?
+1019:[Receipt (Bandage)]
+1020:[Vermillion Bird Beak Mask]
+1022:[Footprint likely from a man]
+1024:[Muddy Shoes]
+1028:Which two hints can prove that Toku is lying?
+1036:What hint still warrants further investigation?
+1037:[Muddy Shoes]
+1038:Show witness
+1041:Show witness
+1042:Boss! I would like to put in a formal request to drag him to the lab for a brain dissection!
+1043:I saw the thief strangling Aoi from the window. And yesterday I was "lucky" enough to... uh, experience this firsthand at a friend's place... Even now, the bruise on my neck still hasn't faded... So, if you weren't working together, why isn't there any bruises on Aoi's neck?
+1044:Ume calls Wang and puts him on speaker. We quickly explain the situation to Wang, and the latter tells us what happened that day...
+1045:Investigate Employee Lounge
+1046:Let me try!
+1047:Tomatoes, eggs, waxberries... That's a lot of ingredients in the fridge!
+1048:These items all seem to be "more than meet the eye." So, where could the Heart of Divinity be hidden?
+1049:Heart of Divinity is found
+1050:Investigation complete
+1051:I look in the direction of Fuuka Minami's folding fan, and see a young woman dressed in British-styled attire walking briskly toward us as her light brown hair flutters behind her.
+1052:As a matter of fact, I actually do... Well, I don't usually get many customers at my pharmacy. But it just so happened that I had three in a single day, and they cleared out my entire stock of bandages. I'm still waiting for my new stock to arrive...
+1053:That escalated quickly! Jane and I are visibly confused. We turn our gazes to Fuuka Minami, but she remains completely composed. She calmly walks toward Qing Luan and Miki Nikaidou, raising a question as she approaches...
+1069:Regardless of how sincere your relationship with the suspects may seem, their testimony cannot be trusted when making a deduction!
+1070:In the footage, the hardware store owner is having her lunch at the counter.
+1133:In my bewilderment at Toku's attempts to struggle free on the ground, I suddenly notice a tattoo on his neck that looks like a turtle.
+1156:Hardware Store Owner
+1173:Chiori Mikami and Riu Kujou
+1174:[Receipt (Plaster)] &//n[Receipt (Bandage)]
+1175:[Footprint likely from a man] &//n[Muddy Shoes]
+1176:[VIP Exhibition Invitation List] &[Vermillion Bird Beak Mask]
+1177:[Receipt (Plaster)] &//n[Muddy Shoes]
+1178:[Vermillion Bird Beak Mask] &//n[Muddy Shoes]
+1179:[VIP Exhibition Invitation List] &[Footprint likely from a man]
+1180:[VIP Exhibition Invitation List] &[Muddy Shoes]
+1181:[VIP Exhibition Invitation List] &[Receipt (Plaster)]

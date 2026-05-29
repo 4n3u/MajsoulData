@@ -1,0 +1,2090 @@
+[
+  {
+    "id": 10101,
+    "type": 1,
+    "primary_level": 1,
+    "secondary_level": 1,
+    "init_point": 0,
+    "end_point": 20,
+    "primary_icon": "ui/common/main/pic/sima_fish.png",
+    "can_degrade": 0,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "初心",
+      "chs_t": "初心",
+      "jp": "初心",
+      "en": "Novice",
+      "kr": "초심"
+    },
+    "full_name": {
+      "chs": "初心一星",
+      "chs_t": "初心一星",
+      "jp": "初心★1",
+      "en": "Novice I",
+      "kr": "초심★1"
+    }
+  },
+  {
+    "id": 10102,
+    "type": 1,
+    "primary_level": 1,
+    "secondary_level": 2,
+    "init_point": 0,
+    "end_point": 80,
+    "primary_icon": "ui/common/main/pic/sima_fish.png",
+    "can_degrade": 0,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "初心",
+      "chs_t": "初心",
+      "jp": "初心",
+      "en": "Novice",
+      "kr": "초심"
+    },
+    "full_name": {
+      "chs": "初心二星",
+      "chs_t": "初心二星",
+      "jp": "初心★2",
+      "en": "Novice II",
+      "kr": "초심★2"
+    }
+  },
+  {
+    "id": 10103,
+    "type": 1,
+    "primary_level": 1,
+    "secondary_level": 3,
+    "init_point": 0,
+    "end_point": 200,
+    "primary_icon": "ui/common/main/pic/sima_fish.png",
+    "can_degrade": 0,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "初心",
+      "chs_t": "初心",
+      "jp": "初心",
+      "en": "Novice",
+      "kr": "초심"
+    },
+    "full_name": {
+      "chs": "初心三星",
+      "chs_t": "初心三星",
+      "jp": "初心★3",
+      "en": "Novice III",
+      "kr": "초심★3"
+    }
+  },
+  {
+    "id": 10201,
+    "type": 1,
+    "primary_level": 2,
+    "secondary_level": 1,
+    "init_point": 300,
+    "end_point": 600,
+    "primary_icon": "ui/common/main/pic/sima_queshi.png",
+    "can_degrade": 0,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": -10,
+    "rankpt2": -20,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "雀士",
+      "chs_t": "雀士",
+      "jp": "雀士",
+      "en": "Intermediate",
+      "kr": "작사"
+    },
+    "full_name": {
+      "chs": "雀士一星",
+      "chs_t": "雀士一星",
+      "jp": "雀士★1",
+      "en": "Adept I",
+      "kr": "작사★1"
+    }
+  },
+  {
+    "id": 10202,
+    "type": 1,
+    "primary_level": 2,
+    "secondary_level": 2,
+    "init_point": 400,
+    "end_point": 800,
+    "primary_icon": "ui/common/main/pic/sima_queshi.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": -20,
+    "rankpt2": -40,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "雀士",
+      "chs_t": "雀士",
+      "jp": "雀士",
+      "en": "Intermediate",
+      "kr": "작사"
+    },
+    "full_name": {
+      "chs": "雀士二星",
+      "chs_t": "雀士二星",
+      "jp": "雀士★2",
+      "en": "Adept II",
+      "kr": "작사★2"
+    }
+  },
+  {
+    "id": 10203,
+    "type": 1,
+    "primary_level": 2,
+    "secondary_level": 3,
+    "init_point": 500,
+    "end_point": 1000,
+    "primary_icon": "ui/common/main/pic/sima_queshi.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": -30,
+    "rankpt2": -60,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "雀士",
+      "chs_t": "雀士",
+      "jp": "雀士",
+      "en": "Intermediate",
+      "kr": "작사"
+    },
+    "full_name": {
+      "chs": "雀士三星",
+      "chs_t": "雀士三星",
+      "jp": "雀士★3",
+      "en": "Adept III",
+      "kr": "작사★3"
+    }
+  },
+  {
+    "id": 10301,
+    "type": 1,
+    "primary_level": 3,
+    "secondary_level": 1,
+    "init_point": 600,
+    "end_point": 1200,
+    "primary_icon": "ui/common/main/pic/sima_quejie.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": -40,
+    "rankpt2": -80,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "雀杰",
+      "chs_t": "雀傑",
+      "jp": "雀傑",
+      "en": "Expert",
+      "kr": "작걸"
+    },
+    "full_name": {
+      "chs": "雀杰一星",
+      "chs_t": "雀傑一星",
+      "jp": "雀傑★1",
+      "en": "Expert I",
+      "kr": "작걸★1"
+    }
+  },
+  {
+    "id": 10302,
+    "type": 1,
+    "primary_level": 3,
+    "secondary_level": 2,
+    "init_point": 700,
+    "end_point": 1400,
+    "primary_icon": "ui/common/main/pic/sima_quejie.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": -50,
+    "rankpt2": -100,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "雀杰",
+      "chs_t": "雀傑",
+      "jp": "雀傑",
+      "en": "Expert",
+      "kr": "작걸"
+    },
+    "full_name": {
+      "chs": "雀杰二星",
+      "chs_t": "雀傑二星",
+      "jp": "雀傑★2",
+      "en": "Expert II",
+      "kr": "작걸★2"
+    }
+  },
+  {
+    "id": 10303,
+    "type": 1,
+    "primary_level": 3,
+    "secondary_level": 3,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sima_quejie.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": -60,
+    "rankpt2": -120,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "雀杰",
+      "chs_t": "雀傑",
+      "jp": "雀傑",
+      "en": "Expert",
+      "kr": "작걸"
+    },
+    "full_name": {
+      "chs": "雀杰三星",
+      "chs_t": "雀傑三星",
+      "jp": "雀傑★3",
+      "en": "Expert III",
+      "kr": "작걸★3"
+    }
+  },
+  {
+    "id": 10401,
+    "type": 1,
+    "primary_level": 4,
+    "secondary_level": 1,
+    "init_point": 1400,
+    "end_point": 2800,
+    "primary_icon": "ui/common/main/pic/sima_quehao.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": -80,
+    "rankpt2": -165,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "雀豪",
+      "chs_t": "雀豪",
+      "jp": "雀豪",
+      "en": "Master",
+      "kr": "작호"
+    },
+    "full_name": {
+      "chs": "雀豪一星",
+      "chs_t": "雀豪一星",
+      "jp": "雀豪★1",
+      "en": "Master I",
+      "kr": "작호★1"
+    }
+  },
+  {
+    "id": 10402,
+    "type": 1,
+    "primary_level": 4,
+    "secondary_level": 2,
+    "init_point": 1600,
+    "end_point": 3200,
+    "primary_icon": "ui/common/main/pic/sima_quehao.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": -90,
+    "rankpt2": -180,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "雀豪",
+      "chs_t": "雀豪",
+      "jp": "雀豪",
+      "en": "Master",
+      "kr": "작호"
+    },
+    "full_name": {
+      "chs": "雀豪二星",
+      "chs_t": "雀豪二星",
+      "jp": "雀豪★2",
+      "en": "Master II",
+      "kr": "작호★2"
+    }
+  },
+  {
+    "id": 10403,
+    "type": 1,
+    "primary_level": 4,
+    "secondary_level": 3,
+    "init_point": 1800,
+    "end_point": 3600,
+    "primary_icon": "ui/common/main/pic/sima_quehao.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": -100,
+    "rankpt2": -195,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "雀豪",
+      "chs_t": "雀豪",
+      "jp": "雀豪",
+      "en": "Master",
+      "kr": "작호"
+    },
+    "full_name": {
+      "chs": "雀豪三星",
+      "chs_t": "雀豪三星",
+      "jp": "雀豪★3",
+      "en": "Master III",
+      "kr": "작호★3"
+    }
+  },
+  {
+    "id": 10501,
+    "type": 1,
+    "primary_level": 5,
+    "secondary_level": 1,
+    "init_point": 2000,
+    "end_point": 4000,
+    "primary_icon": "ui/common/main/pic/sima_quesheng.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": -110,
+    "rankpt2": -210,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "雀圣",
+      "chs_t": "雀聖",
+      "jp": "雀聖",
+      "en": "Saint",
+      "kr": "작성"
+    },
+    "full_name": {
+      "chs": "雀圣一星",
+      "chs_t": "雀聖一星",
+      "jp": "雀聖★1",
+      "en": "Saint I",
+      "kr": "작성★1"
+    }
+  },
+  {
+    "id": 10502,
+    "type": 1,
+    "primary_level": 5,
+    "secondary_level": 2,
+    "init_point": 3000,
+    "end_point": 6000,
+    "primary_icon": "ui/common/main/pic/sima_quesheng.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": -120,
+    "rankpt2": -225,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "雀圣",
+      "chs_t": "雀聖",
+      "jp": "雀聖",
+      "en": "Saint",
+      "kr": "작성"
+    },
+    "full_name": {
+      "chs": "雀圣二星",
+      "chs_t": "雀聖二星",
+      "jp": "雀聖★2",
+      "en": "Saint II",
+      "kr": "작성★2"
+    }
+  },
+  {
+    "id": 10503,
+    "type": 1,
+    "primary_level": 5,
+    "secondary_level": 3,
+    "init_point": 4500,
+    "end_point": 9000,
+    "primary_icon": "ui/common/main/pic/sima_quesheng.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": -130,
+    "rankpt2": -240,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "雀圣",
+      "chs_t": "雀聖",
+      "jp": "雀聖",
+      "en": "Saint",
+      "kr": "작성"
+    },
+    "full_name": {
+      "chs": "雀圣三星",
+      "chs_t": "雀聖三星",
+      "jp": "雀聖★3",
+      "en": "Saint III",
+      "kr": "작성★3"
+    }
+  },
+  {
+    "id": 10601,
+    "type": 1,
+    "primary_level": 0,
+    "secondary_level": 3,
+    "init_point": 10000,
+    "end_point": 99999,
+    "primary_icon": "ui/common/main/pic/sima_huntian.png",
+    "can_degrade": 0,
+    "can_upgrade": 0,
+    "can_getpoint": 1,
+    "rankpt1": -140,
+    "rankpt2": -255,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    }
+  },
+  {
+    "id": 10701,
+    "type": 1,
+    "primary_level": 6,
+    "secondary_level": 1,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sima_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv1",
+      "chs_t": "魂天Lv1",
+      "jp": "魂天Lv1",
+      "en": "Celestial Lv1",
+      "kr": "혼천 Lv1"
+    }
+  },
+  {
+    "id": 10702,
+    "type": 1,
+    "primary_level": 6,
+    "secondary_level": 2,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sima_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv2",
+      "chs_t": "魂天Lv2",
+      "jp": "魂天Lv2",
+      "en": "Celestial Lv2",
+      "kr": "혼천 Lv2"
+    }
+  },
+  {
+    "id": 10703,
+    "type": 1,
+    "primary_level": 6,
+    "secondary_level": 3,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sima_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv3",
+      "chs_t": "魂天Lv3",
+      "jp": "魂天Lv3",
+      "en": "Celestial Lv3",
+      "kr": "혼천 Lv3"
+    }
+  },
+  {
+    "id": 10704,
+    "type": 1,
+    "primary_level": 6,
+    "secondary_level": 4,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sima_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv4",
+      "chs_t": "魂天Lv4",
+      "jp": "魂天Lv4",
+      "en": "Celestial Lv4",
+      "kr": "혼천 Lv4"
+    }
+  },
+  {
+    "id": 10705,
+    "type": 1,
+    "primary_level": 6,
+    "secondary_level": 5,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sima_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv5",
+      "chs_t": "魂天Lv5",
+      "jp": "魂天Lv5",
+      "en": "Celestial Lv5",
+      "kr": "혼천 Lv5"
+    }
+  },
+  {
+    "id": 10706,
+    "type": 1,
+    "primary_level": 6,
+    "secondary_level": 6,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sima_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv6",
+      "chs_t": "魂天Lv6",
+      "jp": "魂天Lv6",
+      "en": "Celestial Lv6",
+      "kr": "혼천 Lv6"
+    }
+  },
+  {
+    "id": 10707,
+    "type": 1,
+    "primary_level": 6,
+    "secondary_level": 7,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sima_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv7",
+      "chs_t": "魂天Lv7",
+      "jp": "魂天Lv7",
+      "en": "Celestial Lv7",
+      "kr": "혼천 Lv7"
+    }
+  },
+  {
+    "id": 10708,
+    "type": 1,
+    "primary_level": 6,
+    "secondary_level": 8,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sima_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv8",
+      "chs_t": "魂天Lv8",
+      "jp": "魂天Lv8",
+      "en": "Celestial Lv8",
+      "kr": "혼천 Lv8"
+    }
+  },
+  {
+    "id": 10709,
+    "type": 1,
+    "primary_level": 6,
+    "secondary_level": 9,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sima_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv9",
+      "chs_t": "魂天Lv9",
+      "jp": "魂天Lv9",
+      "en": "Celestial Lv9",
+      "kr": "혼천 Lv9"
+    }
+  },
+  {
+    "id": 10710,
+    "type": 1,
+    "primary_level": 6,
+    "secondary_level": 10,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sima_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv10",
+      "chs_t": "魂天Lv10",
+      "jp": "魂天Lv10",
+      "en": "Celestial Lv10",
+      "kr": "혼천 Lv10"
+    }
+  },
+  {
+    "id": 10711,
+    "type": 1,
+    "primary_level": 6,
+    "secondary_level": 11,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sima_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv11",
+      "chs_t": "魂天Lv11",
+      "jp": "魂天Lv11",
+      "en": "Celestial Lv11",
+      "kr": "혼천 Lv11"
+    }
+  },
+  {
+    "id": 10712,
+    "type": 1,
+    "primary_level": 6,
+    "secondary_level": 12,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sima_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv12",
+      "chs_t": "魂天Lv12",
+      "jp": "魂天Lv12",
+      "en": "Celestial Lv12",
+      "kr": "혼천 Lv12"
+    }
+  },
+  {
+    "id": 10713,
+    "type": 1,
+    "primary_level": 6,
+    "secondary_level": 13,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sima_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv13",
+      "chs_t": "魂天Lv13",
+      "jp": "魂天Lv13",
+      "en": "Celestial Lv13",
+      "kr": "혼천 Lv13"
+    }
+  },
+  {
+    "id": 10714,
+    "type": 1,
+    "primary_level": 6,
+    "secondary_level": 14,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sima_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv14",
+      "chs_t": "魂天Lv14",
+      "jp": "魂天Lv14",
+      "en": "Celestial Lv14",
+      "kr": "혼천 Lv14"
+    }
+  },
+  {
+    "id": 10715,
+    "type": 1,
+    "primary_level": 6,
+    "secondary_level": 15,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sima_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv15",
+      "chs_t": "魂天Lv15",
+      "jp": "魂天Lv15",
+      "en": "Celestial Lv15",
+      "kr": "혼천 Lv15"
+    }
+  },
+  {
+    "id": 10716,
+    "type": 1,
+    "primary_level": 6,
+    "secondary_level": 16,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sima_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv16",
+      "chs_t": "魂天Lv16",
+      "jp": "魂天Lv16",
+      "en": "Celestial Lv16",
+      "kr": "혼천 Lv16"
+    }
+  },
+  {
+    "id": 10717,
+    "type": 1,
+    "primary_level": 6,
+    "secondary_level": 17,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sima_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv17",
+      "chs_t": "魂天Lv17",
+      "jp": "魂天Lv17",
+      "en": "Celestial Lv17",
+      "kr": "혼천 Lv17"
+    }
+  },
+  {
+    "id": 10718,
+    "type": 1,
+    "primary_level": 6,
+    "secondary_level": 18,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sima_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv18",
+      "chs_t": "魂天Lv18",
+      "jp": "魂天Lv18",
+      "en": "Celestial Lv18",
+      "kr": "혼천 Lv18"
+    }
+  },
+  {
+    "id": 10719,
+    "type": 1,
+    "primary_level": 6,
+    "secondary_level": 19,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sima_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv19",
+      "chs_t": "魂天Lv19",
+      "jp": "魂天Lv19",
+      "en": "Celestial Lv19",
+      "kr": "혼천 Lv19"
+    }
+  },
+  {
+    "id": 10720,
+    "type": 1,
+    "primary_level": 6,
+    "secondary_level": 20,
+    "init_point": 1000,
+    "end_point": 99999,
+    "primary_icon": "ui/common/main/pic/sima_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 0,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv20",
+      "chs_t": "魂天Lv20",
+      "jp": "魂天Lv20",
+      "en": "Celestial Lv20",
+      "kr": "혼천 Lv20"
+    }
+  },
+  {
+    "id": 20101,
+    "type": 2,
+    "primary_level": 1,
+    "secondary_level": 1,
+    "init_point": 0,
+    "end_point": 20,
+    "primary_icon": "ui/common/main/pic/sanma_fish.png",
+    "can_degrade": 0,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "初心",
+      "chs_t": "初心",
+      "jp": "初心",
+      "en": "Novice",
+      "kr": "초심"
+    },
+    "full_name": {
+      "chs": "初心一星",
+      "chs_t": "初心一星",
+      "jp": "初心★1",
+      "en": "Novice I",
+      "kr": "초심★1"
+    }
+  },
+  {
+    "id": 20102,
+    "type": 2,
+    "primary_level": 1,
+    "secondary_level": 2,
+    "init_point": 0,
+    "end_point": 80,
+    "primary_icon": "ui/common/main/pic/sanma_fish.png",
+    "can_degrade": 0,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "初心",
+      "chs_t": "初心",
+      "jp": "初心",
+      "en": "Novice",
+      "kr": "초심"
+    },
+    "full_name": {
+      "chs": "初心二星",
+      "chs_t": "初心二星",
+      "jp": "初心★2",
+      "en": "Novice II",
+      "kr": "초심★2"
+    }
+  },
+  {
+    "id": 20103,
+    "type": 2,
+    "primary_level": 1,
+    "secondary_level": 3,
+    "init_point": 0,
+    "end_point": 200,
+    "primary_icon": "ui/common/main/pic/sanma_fish.png",
+    "can_degrade": 0,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "初心",
+      "chs_t": "初心",
+      "jp": "初心",
+      "en": "Novice",
+      "kr": "초심"
+    },
+    "full_name": {
+      "chs": "初心三星",
+      "chs_t": "初心三星",
+      "jp": "初心★3",
+      "en": "Novice III",
+      "kr": "초심★3"
+    }
+  },
+  {
+    "id": 20201,
+    "type": 2,
+    "primary_level": 2,
+    "secondary_level": 1,
+    "init_point": 300,
+    "end_point": 600,
+    "primary_icon": "ui/common/main/pic/sanma_queshi.png",
+    "can_degrade": 0,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": -10,
+    "rankpt2": -20,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "雀士",
+      "chs_t": "雀士",
+      "jp": "雀士",
+      "en": "Intermediate",
+      "kr": "작사"
+    },
+    "full_name": {
+      "chs": "雀士一星",
+      "chs_t": "雀士一星",
+      "jp": "雀士★1",
+      "en": "Adept I",
+      "kr": "작사★1"
+    }
+  },
+  {
+    "id": 20202,
+    "type": 2,
+    "primary_level": 2,
+    "secondary_level": 2,
+    "init_point": 400,
+    "end_point": 800,
+    "primary_icon": "ui/common/main/pic/sanma_queshi.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": -20,
+    "rankpt2": -40,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "雀士",
+      "chs_t": "雀士",
+      "jp": "雀士",
+      "en": "Intermediate",
+      "kr": "작사"
+    },
+    "full_name": {
+      "chs": "雀士二星",
+      "chs_t": "雀士二星",
+      "jp": "雀士★2",
+      "en": "Adept II",
+      "kr": "작사★2"
+    }
+  },
+  {
+    "id": 20203,
+    "type": 2,
+    "primary_level": 2,
+    "secondary_level": 3,
+    "init_point": 500,
+    "end_point": 1000,
+    "primary_icon": "ui/common/main/pic/sanma_queshi.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": -30,
+    "rankpt2": -60,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "雀士",
+      "chs_t": "雀士",
+      "jp": "雀士",
+      "en": "Intermediate",
+      "kr": "작사"
+    },
+    "full_name": {
+      "chs": "雀士三星",
+      "chs_t": "雀士三星",
+      "jp": "雀士★3",
+      "en": "Adept III",
+      "kr": "작사★3"
+    }
+  },
+  {
+    "id": 20301,
+    "type": 2,
+    "primary_level": 3,
+    "secondary_level": 1,
+    "init_point": 600,
+    "end_point": 1200,
+    "primary_icon": "ui/common/main/pic/sanma_quejie.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": -40,
+    "rankpt2": -80,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "雀杰",
+      "chs_t": "雀傑",
+      "jp": "雀傑",
+      "en": "Expert",
+      "kr": "작걸"
+    },
+    "full_name": {
+      "chs": "雀杰一星",
+      "chs_t": "雀傑一星",
+      "jp": "雀傑★1",
+      "en": "Expert I",
+      "kr": "작걸★1"
+    }
+  },
+  {
+    "id": 20302,
+    "type": 2,
+    "primary_level": 3,
+    "secondary_level": 2,
+    "init_point": 700,
+    "end_point": 1400,
+    "primary_icon": "ui/common/main/pic/sanma_quejie.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": -50,
+    "rankpt2": -100,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "雀杰",
+      "chs_t": "雀傑",
+      "jp": "雀傑",
+      "en": "Expert",
+      "kr": "작걸"
+    },
+    "full_name": {
+      "chs": "雀杰二星",
+      "chs_t": "雀傑二星",
+      "jp": "雀傑★2",
+      "en": "Expert II",
+      "kr": "작걸★2"
+    }
+  },
+  {
+    "id": 20303,
+    "type": 2,
+    "primary_level": 3,
+    "secondary_level": 3,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sanma_quejie.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": -60,
+    "rankpt2": -120,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "雀杰",
+      "chs_t": "雀傑",
+      "jp": "雀傑",
+      "en": "Expert",
+      "kr": "작걸"
+    },
+    "full_name": {
+      "chs": "雀杰三星",
+      "chs_t": "雀傑三星",
+      "jp": "雀傑★3",
+      "en": "Expert III",
+      "kr": "작걸★3"
+    }
+  },
+  {
+    "id": 20401,
+    "type": 2,
+    "primary_level": 4,
+    "secondary_level": 1,
+    "init_point": 1400,
+    "end_point": 2800,
+    "primary_icon": "ui/common/main/pic/sanma_quehao.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": -80,
+    "rankpt2": -165,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "雀豪",
+      "chs_t": "雀豪",
+      "jp": "雀豪",
+      "en": "Master",
+      "kr": "작호"
+    },
+    "full_name": {
+      "chs": "雀豪一星",
+      "chs_t": "雀豪一星",
+      "jp": "雀豪★1",
+      "en": "Master I",
+      "kr": "작호★1"
+    }
+  },
+  {
+    "id": 20402,
+    "type": 2,
+    "primary_level": 4,
+    "secondary_level": 2,
+    "init_point": 1600,
+    "end_point": 3200,
+    "primary_icon": "ui/common/main/pic/sanma_quehao.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": -95,
+    "rankpt2": -190,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "雀豪",
+      "chs_t": "雀豪",
+      "jp": "雀豪",
+      "en": "Master",
+      "kr": "작호"
+    },
+    "full_name": {
+      "chs": "雀豪二星",
+      "chs_t": "雀豪二星",
+      "jp": "雀豪★2",
+      "en": "Master II",
+      "kr": "작호★2"
+    }
+  },
+  {
+    "id": 20403,
+    "type": 2,
+    "primary_level": 4,
+    "secondary_level": 3,
+    "init_point": 1800,
+    "end_point": 3600,
+    "primary_icon": "ui/common/main/pic/sanma_quehao.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": -110,
+    "rankpt2": -215,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "雀豪",
+      "chs_t": "雀豪",
+      "jp": "雀豪",
+      "en": "Master",
+      "kr": "작호"
+    },
+    "full_name": {
+      "chs": "雀豪三星",
+      "chs_t": "雀豪三星",
+      "jp": "雀豪★3",
+      "en": "Master III",
+      "kr": "작호★3"
+    }
+  },
+  {
+    "id": 20501,
+    "type": 2,
+    "primary_level": 5,
+    "secondary_level": 1,
+    "init_point": 2000,
+    "end_point": 4000,
+    "primary_icon": "ui/common/main/pic/sanma_quesheng.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": -125,
+    "rankpt2": -240,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "雀圣",
+      "chs_t": "雀聖",
+      "jp": "雀聖",
+      "en": "Saint",
+      "kr": "작성"
+    },
+    "full_name": {
+      "chs": "雀圣一星",
+      "chs_t": "雀聖一星",
+      "jp": "雀聖★1",
+      "en": "Saint I",
+      "kr": "작성★1"
+    }
+  },
+  {
+    "id": 20502,
+    "type": 2,
+    "primary_level": 5,
+    "secondary_level": 2,
+    "init_point": 3000,
+    "end_point": 6000,
+    "primary_icon": "ui/common/main/pic/sanma_quesheng.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": -140,
+    "rankpt2": -265,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "雀圣",
+      "chs_t": "雀聖",
+      "jp": "雀聖",
+      "en": "Saint",
+      "kr": "작성"
+    },
+    "full_name": {
+      "chs": "雀圣二星",
+      "chs_t": "雀聖二星",
+      "jp": "雀聖★2",
+      "en": "Saint II",
+      "kr": "작성★2"
+    }
+  },
+  {
+    "id": 20503,
+    "type": 2,
+    "primary_level": 5,
+    "secondary_level": 3,
+    "init_point": 4500,
+    "end_point": 9000,
+    "primary_icon": "ui/common/main/pic/sanma_quesheng.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": -160,
+    "rankpt2": -290,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "雀圣",
+      "chs_t": "雀聖",
+      "jp": "雀聖",
+      "en": "Saint",
+      "kr": "작성"
+    },
+    "full_name": {
+      "chs": "雀圣三星",
+      "chs_t": "雀聖三星",
+      "jp": "雀聖★3",
+      "en": "Saint III",
+      "kr": "작성★3"
+    }
+  },
+  {
+    "id": 20601,
+    "type": 2,
+    "primary_level": 0,
+    "secondary_level": 3,
+    "init_point": 10000,
+    "end_point": 99999,
+    "primary_icon": "ui/common/main/pic/sanma_huntian.png",
+    "can_degrade": 0,
+    "can_upgrade": 0,
+    "can_getpoint": 1,
+    "rankpt1": -175,
+    "rankpt2": -320,
+    "top_rank_id": 0,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    }
+  },
+  {
+    "id": 20701,
+    "type": 2,
+    "primary_level": 6,
+    "secondary_level": 1,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sanma_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv1",
+      "chs_t": "魂天Lv1",
+      "jp": "魂天Lv1",
+      "en": "Celestial Lv1",
+      "kr": "혼천 Lv1"
+    }
+  },
+  {
+    "id": 20702,
+    "type": 2,
+    "primary_level": 6,
+    "secondary_level": 2,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sanma_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv2",
+      "chs_t": "魂天Lv2",
+      "jp": "魂天Lv2",
+      "en": "Celestial Lv2",
+      "kr": "혼천 Lv2"
+    }
+  },
+  {
+    "id": 20703,
+    "type": 2,
+    "primary_level": 6,
+    "secondary_level": 3,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sanma_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv3",
+      "chs_t": "魂天Lv3",
+      "jp": "魂天Lv3",
+      "en": "Celestial Lv3",
+      "kr": "혼천 Lv3"
+    }
+  },
+  {
+    "id": 20704,
+    "type": 2,
+    "primary_level": 6,
+    "secondary_level": 4,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sanma_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv4",
+      "chs_t": "魂天Lv4",
+      "jp": "魂天Lv4",
+      "en": "Celestial Lv4",
+      "kr": "혼천 Lv4"
+    }
+  },
+  {
+    "id": 20705,
+    "type": 2,
+    "primary_level": 6,
+    "secondary_level": 5,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sanma_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv5",
+      "chs_t": "魂天Lv5",
+      "jp": "魂天Lv5",
+      "en": "Celestial Lv5",
+      "kr": "혼천 Lv5"
+    }
+  },
+  {
+    "id": 20706,
+    "type": 2,
+    "primary_level": 6,
+    "secondary_level": 6,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sanma_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv6",
+      "chs_t": "魂天Lv6",
+      "jp": "魂天Lv6",
+      "en": "Celestial Lv6",
+      "kr": "혼천 Lv6"
+    }
+  },
+  {
+    "id": 20707,
+    "type": 2,
+    "primary_level": 6,
+    "secondary_level": 7,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sanma_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv7",
+      "chs_t": "魂天Lv7",
+      "jp": "魂天Lv7",
+      "en": "Celestial Lv7",
+      "kr": "혼천 Lv7"
+    }
+  },
+  {
+    "id": 20708,
+    "type": 2,
+    "primary_level": 6,
+    "secondary_level": 8,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sanma_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv8",
+      "chs_t": "魂天Lv8",
+      "jp": "魂天Lv8",
+      "en": "Celestial Lv8",
+      "kr": "혼천 Lv8"
+    }
+  },
+  {
+    "id": 20709,
+    "type": 2,
+    "primary_level": 6,
+    "secondary_level": 9,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sanma_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv9",
+      "chs_t": "魂天Lv9",
+      "jp": "魂天Lv9",
+      "en": "Celestial Lv9",
+      "kr": "혼천 Lv9"
+    }
+  },
+  {
+    "id": 20710,
+    "type": 2,
+    "primary_level": 6,
+    "secondary_level": 10,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sanma_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv10",
+      "chs_t": "魂天Lv10",
+      "jp": "魂天Lv10",
+      "en": "Celestial Lv10",
+      "kr": "혼천 Lv10"
+    }
+  },
+  {
+    "id": 20711,
+    "type": 2,
+    "primary_level": 6,
+    "secondary_level": 11,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sanma_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv11",
+      "chs_t": "魂天Lv11",
+      "jp": "魂天Lv11",
+      "en": "Celestial Lv11",
+      "kr": "혼천 Lv11"
+    }
+  },
+  {
+    "id": 20712,
+    "type": 2,
+    "primary_level": 6,
+    "secondary_level": 12,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sanma_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv12",
+      "chs_t": "魂天Lv12",
+      "jp": "魂天Lv12",
+      "en": "Celestial Lv12",
+      "kr": "혼천 Lv12"
+    }
+  },
+  {
+    "id": 20713,
+    "type": 2,
+    "primary_level": 6,
+    "secondary_level": 13,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sanma_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv13",
+      "chs_t": "魂天Lv13",
+      "jp": "魂天Lv13",
+      "en": "Celestial Lv13",
+      "kr": "혼천 Lv13"
+    }
+  },
+  {
+    "id": 20714,
+    "type": 2,
+    "primary_level": 6,
+    "secondary_level": 14,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sanma_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv14",
+      "chs_t": "魂天Lv14",
+      "jp": "魂天Lv14",
+      "en": "Celestial Lv14",
+      "kr": "혼천 Lv14"
+    }
+  },
+  {
+    "id": 20715,
+    "type": 2,
+    "primary_level": 6,
+    "secondary_level": 15,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sanma_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv15",
+      "chs_t": "魂天Lv15",
+      "jp": "魂天Lv15",
+      "en": "Celestial Lv15",
+      "kr": "혼천 Lv15"
+    }
+  },
+  {
+    "id": 20716,
+    "type": 2,
+    "primary_level": 6,
+    "secondary_level": 16,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sanma_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv16",
+      "chs_t": "魂天Lv16",
+      "jp": "魂天Lv16",
+      "en": "Celestial Lv16",
+      "kr": "혼천 Lv16"
+    }
+  },
+  {
+    "id": 20717,
+    "type": 2,
+    "primary_level": 6,
+    "secondary_level": 17,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sanma_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv17",
+      "chs_t": "魂天Lv17",
+      "jp": "魂天Lv17",
+      "en": "Celestial Lv17",
+      "kr": "혼천 Lv17"
+    }
+  },
+  {
+    "id": 20718,
+    "type": 2,
+    "primary_level": 6,
+    "secondary_level": 18,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sanma_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv18",
+      "chs_t": "魂天Lv18",
+      "jp": "魂天Lv18",
+      "en": "Celestial Lv18",
+      "kr": "혼천 Lv18"
+    }
+  },
+  {
+    "id": 20719,
+    "type": 2,
+    "primary_level": 6,
+    "secondary_level": 19,
+    "init_point": 1000,
+    "end_point": 2000,
+    "primary_icon": "ui/common/main/pic/sanma_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 1,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv19",
+      "chs_t": "魂天Lv19",
+      "jp": "魂天Lv19",
+      "en": "Celestial Lv19",
+      "kr": "혼천 Lv19"
+    }
+  },
+  {
+    "id": 20720,
+    "type": 2,
+    "primary_level": 6,
+    "secondary_level": 20,
+    "init_point": 1000,
+    "end_point": 99999,
+    "primary_icon": "ui/common/main/pic/sanma_huntian.png",
+    "can_degrade": 1,
+    "can_upgrade": 0,
+    "can_getpoint": 1,
+    "rankpt1": null,
+    "rankpt2": null,
+    "top_rank_id": 1001,
+    "name": {
+      "chs": "魂天",
+      "chs_t": "魂天",
+      "jp": "魂天",
+      "en": "Celestial",
+      "kr": "혼천"
+    },
+    "full_name": {
+      "chs": "魂天Lv20",
+      "chs_t": "魂天Lv20",
+      "jp": "魂天Lv20",
+      "en": "Celestial Lv20",
+      "kr": "혼천 Lv20"
+    }
+  }
+]

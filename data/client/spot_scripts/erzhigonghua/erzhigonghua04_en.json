@@ -1,0 +1,1170 @@
+[
+  {
+    "line": 1,
+    "text": "Wanjirou"
+  },
+  {
+    "line": 2,
+    "text": "{character:Wanjirou}{var:player_nickname}, sorry about making you come here so early to help out, woof."
+  },
+  {
+    "line": 3,
+    "text": "player"
+  },
+  {
+    "line": 4,
+    "text": "{character:player}Don't worry about that. You should rest for now and go to the hospital if you're still feeling really unwell later."
+  },
+  {
+    "line": 5,
+    "text": "Wanjirou called me early in the morning today to tell me that he had strained his waist while carrying something, so I went over to check up on him, and helped him carry some goods to the shrine while I was there."
+  },
+  {
+    "line": 6,
+    "text": "It still isn't time for lunch yet by the time I leave the shrine, and the weather is so good today that it would be a shame to go home right away, so I decide to go shopping on the street for a while and go home after lunch."
+  },
+  {
+    "line": 7,
+    "text": "{character:player}...Hmm? Is that Ninomiya?"
+  },
+  {
+    "line": 8,
+    "text": "As I walk, I see a familiar figure in the near distance and think about going up to greet her."
+  },
+  {
+    "line": 9,
+    "text": "Hana Ninomiya"
+  },
+  {
+    "line": 10,
+    "text": "{character:Hana Ninomiya}..."
+  },
+  {
+    "line": 10,
+    "text": "..."
+  },
+  {
+    "line": 10,
+    "text": "{character:player}..."
+  },
+  {
+    "line": 11,
+    "text": "She seems a little nervous and is constantly looking all over the place. Has something happened?"
+  },
+  {
+    "line": 12,
+    "text": "Seeing Ninomiya like this, I start to have second thoughts about whether I should just go up and talk to her like this..."
+  },
+  {
+    "line": 13,
+    "text": "It's pointless to make wild guesses. I'll just ask her directly since I'm concerned about her."
+  },
+  {
+    "line": 14,
+    "text": "{character:player}Hi, Ninomiya."
+  },
+  {
+    "line": 15,
+    "text": "{character:Hana Ninomiya}Eh?! {var:player_nickname}? Why are you here?"
+  },
+  {
+    "line": 16,
+    "text": "As I was concerned about Ninomiya's strange reaction, I subconsciously start looking all over the place like her..."
+  },
+  {
+    "line": 17,
+    "text": "???"
+  },
+  {
+    "line": 18,
+    "text": "{character:???}Hello, Master."
+  },
+  {
+    "line": 19,
+    "text": "{character:player}Oh? Is it you, Ransei?"
+  },
+  {
+    "line": 20,
+    "text": "I look back to find that Ransei has silently appeared behind me at some point. She greets me respectfully after our eyes meet."
+  },
+  {
+    "line": 21,
+    "text": "{character:player}What a coincidence. Are you going somewhere to have some fun?"
+  },
+  {
+    "line": 22,
+    "text": "Ransei"
+  },
+  {
+    "line": 23,
+    "text": "{character:Ransei}I am currently doing some training. A ninja must not slack off even on holidays."
+  },
+  {
+    "line": 24,
+    "text": "{character:player}I-I see..."
+  },
+  {
+    "line": 25,
+    "text": "{character:Ransei}What about you, Master? Are you planning on doing some mahjong training at a mahjong parlor?"
+  },
+  {
+    "line": 26,
+    "text": "{character:player}Um... I was planning to think about where I should play mahjong while I have lunch."
+  },
+  {
+    "line": 27,
+    "text": "In front of my diligent disciple, I felt too embarrassed to say that I am just killing time."
+  },
+  {
+    "line": 28,
+    "text": "{character:Ransei}Then I won't disturb your meal, Master. Goodbye."
+  },
+  {
+    "line": 29,
+    "text": "{character:player}Bye, and keep up the good work."
+  },
+  {
+    "line": 30,
+    "text": "It sure is tough to be a ninja. They even have to train hard on weekends."
+  },
+  {
+    "line": 31,
+    "text": "{character:???}{var:player_nickname}."
+  },
+  {
+    "line": 32,
+    "text": "This time, the person who appears behind me is Hana Ninomiya. Is it a new trend to greet people from behind them now...?"
+  },
+  {
+    "line": 33,
+    "text": "{character:Hana Ninomiya}What are you doing here?"
+  },
+  {
+    "line": 34,
+    "text": "{character:player}I was shopping and saw you looking all over the place. Did you lose something?"
+  },
+  {
+    "line": 35,
+    "text": "{character:Hana Ninomiya}Shopping... Really?"
+  },
+  {
+    "line": 36,
+    "text": "For some reason, Hana Ninomiya doesn't seem to believe me. She rests her chin on her hands and looks at me vigilantly while saying something quietly."
+  },
+  {
+    "line": 37,
+    "text": "{character:Hana Ninomiya}Please come with me, {var:player_nickname}."
+  },
+  {
+    "line": 38,
+    "text": "{character:player}Where to? Speaking of which, I seem to have heard this line before in a police drama."
+  },
+  {
+    "line": 39,
+    "text": "{character:Hana Ninomiya}Any restaurant will do."
+  },
+  {
+    "line": 40,
+    "text": "After speaking, Hana Ninomiya takes my hand and leads me into a restaurant diagonally across from us. She moves quickly, as if she is afraid I will run away."
+  },
+  {
+    "line": 41,
+    "text": "{character:Hana Ninomiya}Okay, tell me the truth. Why are you following me?"
+  },
+  {
+    "line": 42,
+    "text": "Hana Ninomiya asks me the above question with a serious expression on her face after we sit down."
+  },
+  {
+    "line": 43,
+    "text": "{character:player}It really turned into an interrogation... Sorry, but I can't answer your question, \"Officer.\""
+  },
+  {
+    "line": 44,
+    "text": "{character:player}I've got a question for you instead, Officer Ninomiya. What makes you think I'm following you?"
+  },
+  {
+    "line": 45,
+    "text": "{character:Hana Ninomiya}Because you noticed me. As you should know, very few people notice me, let alone follow me."
+  },
+  {
+    "line": 46,
+    "text": "{character:Hana Ninomiya}And since you're one of the few people who do see me, it's reasonable to judge that you're following me."
+  },
+  {
+    "line": 47,
+    "text": "That does \"sound\" reasonable..."
+  },
+  {
+    "line": 48,
+    "text": "{character:player}Um, that does sound reasonable, but you've overlooked one crucial detail, Officer Ninomiya."
+  },
+  {
+    "line": 49,
+    "text": "{character:Hana Ninomiya}Why don't you tell me what I've overlooked?"
+  },
+  {
+    "line": 50,
+    "text": "{character:player}Have you ever seen someone actively appear in front of the person they are following?"
+  },
+  {
+    "line": 51,
+    "text": "{character:Hana Ninomiya}Um... y-you're right. There's no reason for you to start talking to me..."
+  },
+  {
+    "line": 52,
+    "text": "Ninomiya folds her hands on her chest and frowns as if deep in thought. She sighs after a while."
+  },
+  {
+    "line": 53,
+    "text": "{character:Hana Ninomiya}I'm sorry. I misunderstood you and said some nonsense."
+  },
+  {
+    "line": 54,
+    "text": "{character:player}It's okay. It was just a little misunderstanding."
+  },
+  {
+    "line": 55,
+    "text": "{character:player}...Hahaha! Your senses are sharper than I expected, and I didn't expect you to approach me instead of running away."
+  },
+  {
+    "line": 56,
+    "text": "{character:player}That's right! The person following you is me, {var:player_nickname}!"
+  },
+  {
+    "line": 57,
+    "text": "{character:Hana Ninomiya}Hello? Hi, yes, that's right. I want to make a police report. I'm being followed by someone--"
+  },
+  {
+    "line": 58,
+    "text": "{character:player}Sorry! I shouldn't have done that. I was just kidding. Don't really call the police!"
+  },
+  {
+    "line": 59,
+    "text": "{character:Hana Ninomiya}Well, I was just kidding too. Don't worry, I didn't really call the police."
+  },
+  {
+    "line": 60,
+    "text": "{character:player}Phew... You gave me a big fright."
+  },
+  {
+    "line": 61,
+    "text": "{character:Hana Ninomiya}Serves you right for fooling around and teasing me. Sigh, it looks like you aren't the person who is following me."
+  },
+  {
+    "line": 62,
+    "text": "After resolving this insignificant misunderstanding, we start to talk about things that we find concerning."
+  },
+  {
+    "line": 63,
+    "text": "{character:player}From your tone, it sounds like someone really is following you."
+  },
+  {
+    "line": 64,
+    "text": "{character:Hana Ninomiya}Yes. Recently, I get the feeling that someone is staring at me when I'm at school and other places. I even get the feeling that someone is looking at me through my window at home sometimes."
+  },
+  {
+    "line": 65,
+    "text": "{character:Hana Ninomiya}...You probably think I'm being too sensitive, but I'm telling you the truth."
+  },
+  {
+    "line": 66,
+    "text": "{character:player}No, that's not what I'm thinking. I wouldn't think much about it if it only happened once or twice, but it sounds like you've had this feeling many times and at various locations. I don't think you're imagining things."
+  },
+  {
+    "line": 67,
+    "text": "{character:Hana Ninomiya}Thank you for believing me. Most people would become suspicious if they often feel like someone is watching them, let alone me."
+  },
+  {
+    "line": 68,
+    "text": "{character:Hana Ninomiya}I'm usually an invisible person that everyone overlooks, so I get a very strong feeling when someone is looking at me."
+  },
+  {
+    "line": 69,
+    "text": "{character:player}I see..."
+  },
+  {
+    "line": 70,
+    "text": "Who would follow Hana Ninomiya?"
+  },
+  {
+    "line": 71,
+    "text": "{character:player}Well... If we're being optimistic, maybe it's someone who likes you."
+  },
+  {
+    "line": 72,
+    "text": "{character:player}I just hope this person isn't dangerous."
+  },
+  {
+    "line": 73,
+    "text": "{character:Hana Ninomiya}Most stalkers are quite dangerous..."
+  },
+  {
+    "line": 74,
+    "text": "{character:player}...That person might not have bad intentions. Maybe it's someone who likes you."
+  },
+  {
+    "line": 75,
+    "text": "{character:player}Maybe it's a shy boy who is hesitating about whether he should confess his love to you."
+  },
+  {
+    "line": 76,
+    "text": "Seeing that Hana Ninomiya is getting more and more uneasy, I quickly say something to comfort her. However, she has a peculiar reaction after hearing my words and makes a strange troubled look."
+  },
+  {
+    "line": 77,
+    "text": "{character:Hana Ninomiya}Someone who would like someone invisible like me might have strange preferences when it comes to women. After all, normal people don't notice me at all."
+  },
+  {
+    "line": 78,
+    "text": "{character:Hana Ninomiya}There's no way I can be happy when I think about it this way."
+  },
+  {
+    "line": 79,
+    "text": "{character:player}Don't feel that way. At least I think you're really cute, Ninomiya. It's not surprising for there to be someone who likes you."
+  },
+  {
+    "line": 80,
+    "text": "{character:Hana Ninomiya}Thanks, but you don't have to comfort me so seriously."
+  },
+  {
+    "line": 81,
+    "text": "{character:player}I'm not trying to comfort you. Ninomiya, do you think I have strange tastes or do you think I'm a hypocrite who says flattering things even to friends?"
+  },
+  {
+    "line": 82,
+    "text": "{character:Hana Ninomiya}That's not what I mean. It's just... I'm not cute in any way. Cute is usually used to describe someone like Kana."
+  },
+  {
+    "line": 83,
+    "text": "{character:player}There's no question a popular idol is cute, but that's just one type of cute."
+  },
+  {
+    "line": 84,
+    "text": "{character:player}I'm certain I'm not the only person who thinks you're cute. Your friends must have also said similar words of praise. Surely I'm not the only one who has such good taste?"
+  },
+  {
+    "line": 85,
+    "text": "{character:Hana Ninomiya}...Fine, I give up."
+  },
+  {
+    "line": 86,
+    "text": "As Ninomiya speaks, she raises her hands in surrender. A smile finally appears on her face that had been tense due to worry, except she is smiling teasingly."
+  },
+  {
+    "line": 87,
+    "text": "{character:Hana Ninomiya}After all, you have a glib tongue that can win over all the ladies. There's no way I can win an argument against you."
+  },
+  {
+    "line": 88,
+    "text": "{character:player}Doesn't that mean you still don't believe me..."
+  },
+  {
+    "line": 89,
+    "text": "{character:Hana Ninomiya}I believe you. How can I let your sincere praise go to waste?"
+  },
+  {
+    "line": 90,
+    "text": "{character:Hana Ninomiya}Thank you, {var:player_nickname}."
+  },
+  {
+    "line": 91,
+    "text": "{character:player}You're welcome."
+  },
+  {
+    "line": 92,
+    "text": "Hana Ninomiya usually gives me the impression that she is quiet and taciturn, so it's quite refreshing to see her tease me with a smirk on her face."
+  },
+  {
+    "line": 93,
+    "text": "{character:player}By the way, if someone really is following you, doesn't this mean you've become more noticeable?"
+  },
+  {
+    "line": 94,
+    "text": "{character:Hana Ninomiya}If being followed is the cost of being attractive, then I would rather be transparent..."
+  },
+  {
+    "line": 95,
+    "text": "{character:Hana Ninomiya}Even if you're right about that person being someone who likes me, why do they have to approach me in such a disturbing way? Why can't they just say what they want to say to my face?"
+  },
+  {
+    "line": 96,
+    "text": "{character:player}You're right about that. No matter what, it isn't right to follow someone."
+  },
+  {
+    "line": 97,
+    "text": "{character:Hana Ninomiya}...But I don't really have the right to say that about that person since I often follow and investigate others for Jane."
+  },
+  {
+    "line": 98,
+    "text": "{character:player}Well..."
+  },
+  {
+    "line": 99,
+    "text": "I better change the topic. Since we can't resolve the problem, continuing to talk about the stalker will just make her more troubled."
+  },
+  {
+    "line": 100,
+    "text": "{character:player}By the way, Ninomiya, why do you want to make yourself more noticeable?"
+  },
+  {
+    "line": 101,
+    "text": "{character:Hana Ninomiya}I don't think I need any special reason to want to become more popular."
+  },
+  {
+    "line": 102,
+    "text": "{character:player}I guess so, but there's a slight difference between wanting to become more noticeable and simply wanting to become more popular."
+  },
+  {
+    "line": 103,
+    "text": "Ninomiya puts down the drink in her hand and stares straight at me. I hope I didn't offend her unintentionally by saying that."
+  },
+  {
+    "line": 104,
+    "text": "{character:player}I-I just said that off the top of my head. Let's chat about something else."
+  },
+  {
+    "line": 105,
+    "text": "{character:Hana Ninomiya}It's okay. I'm not angry. I'm just thinking that it's scary how perceptive you are."
+  },
+  {
+    "line": 106,
+    "text": "{character:Hana Ninomiya}I didn't expect you to realize that I wanted to become more noticeable not because I wanted to become more eye-catching. To me, this is a matter of life and death."
+  },
+  {
+    "line": 107,
+    "text": "I-It's that serious?"
+  },
+  {
+    "line": 108,
+    "text": "{character:Hana Ninomiya}{var:player_nickname}, have you heard of the phenomenon called \"lonely death\" before?"
+  },
+  {
+    "line": 109,
+    "text": "{character:player}Yes, I have. It's when an elderly person who lives alone dies without anyone knowing because they don't receive timely treatment when they suddenly get sick."
+  },
+  {
+    "line": 110,
+    "text": "{character:Hana Ninomiya}This doesn't just apply to the elderly. People of any age can die without anyone knowing if they are ignored by the people around them for a long time."
+  },
+  {
+    "line": 111,
+    "text": "{character:Hana Ninomiya}I used to think it's nice to be transparent and live quietly alone, but I can't seem to laugh it off after hearing about the \"lonely death\" phenomenon."
+  },
+  {
+    "line": 112,
+    "text": "{character:Hana Ninomiya}It wouldn't be surprising if someone as transparent as me has such a tragic ending one day..."
+  },
+  {
+    "line": 113,
+    "text": "{character:player}Haha, you don't have to worry about that."
+  },
+  {
+    "line": 114,
+    "text": "{character:Hana Ninomiya}How can I feel relieved in my current situation?"
+  },
+  {
+    "line": 115,
+    "text": "{character:player}You have me. Whether you remain transparent like now or become even more transparent, I'll watch out for you, so you shouldn't worry too much about this."
+  },
+  {
+    "line": 116,
+    "text": "{character:player}...I-I'm serious. You should give me some response at least. I feel really awkward."
+  },
+  {
+    "line": 117,
+    "text": "{character:Hana Ninomiya}...Haha!"
+  },
+  {
+    "line": 118,
+    "text": "She does give me a response, but I can't decide which response is more embarrassing between Hana Ninomiya's laughter and the silence from before."
+  },
+  {
+    "line": 119,
+    "text": "{character:Hana Ninomiya}S-Sorry, I hope you don't take offense. I didn't expect you to be so serious, so I was a little embarrassed and didn't know what to say."
+  },
+  {
+    "line": 120,
+    "text": "{character:Hana Ninomiya}Also, shouldn't you say something more positive when you're trying to comfort someone? For example, wouldn't you say that people will start to notice me more?"
+  },
+  {
+    "line": 121,
+    "text": "{character:player}I was just giving you a guarantee. Isn't that more reassuring?"
+  },
+  {
+    "line": 122,
+    "text": "{character:player}Also, judging from your tone, you don't seem to be that worried about having a \"lonely death\" anyway."
+  },
+  {
+    "line": 123,
+    "text": "{character:Hana Ninomiya}I'm just not overly worried. The main reason I want to become more noticeable is that playing mahjong has made me realize that I'm not doomed to be transparent for the rest of my life. I still have the opportunity to change my life..."
+  },
+  {
+    "line": 124,
+    "text": "Hana Ninomiya recalls and shares with me her memories of the first time she and Kana Fujita were called to the student council's office to play against Usumi Ishihara and the others."
+  },
+  {
+    "line": 125,
+    "text": "{character:Hana Ninomiya}...After that game... laugh at me if you want, but I cried when I was having a shower at night."
+  },
+  {
+    "line": 126,
+    "text": "{character:Hana Ninomiya}I told the me from kindergarten that I've done it and that I've stepped under the spotlight on that green square stage."
+  },
+  {
+    "line": 127,
+    "text": "{character:Hana Ninomiya}Even Kana, who is a popular idol, said that I stand out when I play the tiles, so I have no reason to give up in life. I want to win. I want to try my best to win every game and become someone that my opponents can't ignore."
+  },
+  {
+    "line": 128,
+    "text": "{character:player}You can do it. I always have to be careful when I play against you."
+  },
+  {
+    "line": 129,
+    "text": "Her desire to win will make her work hard to improve her skills. She'll definitely become someone who will catch everyone's eyes at the mahjong table."
+  },
+  {
+    "line": 130,
+    "text": "{character:Hana Ninomiya}Even if having a \"lonely death\" isn't the main reason I want to become more noticeable, I won't pretend I didn't hear what you just said, {var:player_nickname}."
+  },
+  {
+    "line": 131,
+    "text": "{character:Hana Ninomiya}It's rare for you to make a promise so seriously, so you'll have to take responsibility for it. Like you said, it's more reassuring to have a guarantee."
+  },
+  {
+    "line": 132,
+    "text": "{character:player}I naturally won't take back what I said, so you should focus on becoming stronger so more people will notice you."
+  },
+  {
+    "line": 133,
+    "text": "Now that I think about it, it won't be easy to take responsibility for this promise. However, when I see how hard Ninomiya is trying, I find it hard not to support her."
+  },
+  {
+    "line": 134,
+    "text": "We chat for a long time and suddenly realize it's time for lunch. We can't be bothered to change locations, so we order something to eat here at this restaurant."
+  },
+  {
+    "line": 135,
+    "text": "{character:player}What are your plans for the rest of today?"
+  },
+  {
+    "line": 136,
+    "text": "{character:Hana Ninomiya}I was thinking of playing mahjong at a mahjong parlor. {var:player_nickname}, do you want to come with me?"
+  },
+  {
+    "line": 137,
+    "text": "{character:player}Sure."
+  },
+  {
+    "line": 138,
+    "text": "Since it's possible that someone really is stalking Hana Ninomiya, I decide to go to the mahjong parlor with her instead of going home like I had planned."
+  },
+  {
+    "line": 139,
+    "text": "{character:Hana Ninomiya}I didn't ask anyone else to join me, so I was thinking of going to any mahjong parlor to fill in any empty spots they had. Is there a particular place you want to go?"
+  },
+  {
+    "line": 140,
+    "text": "{character:player}It's usually busier on the weekends, so why don't we call and ask first?"
+  },
+  {
+    "line": 141,
+    "text": "{character:Hana Ninomiya}I guess you're right."
+  },
+  {
+    "line": 142,
+    "text": "We take out our mobile phones and flip through our contacts. When I lower my head, I catch a glimpse of something flashing under the sun in the flower bed."
+  },
+  {
+    "line": 143,
+    "text": "After leaning over and rummaging through the flower bed, I pick up a kunai inside it..."
+  },
+  {
+    "line": 144,
+    "text": "{character:Hana Ninomiya}Eh? Aren't you coming up?"
+  },
+  {
+    "line": 145,
+    "text": "After arriving outside the mahjong parlor, I change my mind and tell Hana Ninomiya to play without me first."
+  },
+  {
+    "line": 146,
+    "text": "{character:player}When we left the restaurant, I found a clue about the stalker, so I want to stay down here and wait for a chance to catch her."
+  },
+  {
+    "line": 147,
+    "text": "{character:Hana Ninomiya}We're not even sure if that person would really follow us here. If you make such a big fuss, aren't you afraid they will run away?"
+  },
+  {
+    "line": 148,
+    "text": "{character:player}I'll be able to catch her by surprise if I go outside now. She'll expose herself if she chooses to run away."
+  },
+  {
+    "line": 149,
+    "text": "{character:player}Anyway, you should go up first. Just leave the rest to me."
+  },
+  {
+    "line": 150,
+    "text": "{character:Hana Ninomiya}...Okay then. You be careful."
+  },
+  {
+    "line": 151,
+    "text": "After watching Hana Ninomiya go upstairs, I take a deep breath, face the street in front of me, and start searching for my target."
+  },
+  {
+    "line": 152,
+    "text": "The street is so quiet that other than an expensive-looking black sedan car that passed by, there aren't even animals passing through, let alone people."
+  },
+  {
+    "line": 153,
+    "text": "At first glance, it looks like nothing is suspicious, but..."
+  },
+  {
+    "line": 154,
+    "text": "The back side of a utility pole is a classic hiding spot used by stalkers. Let's start by checking this out first!"
+  },
+  {
+    "line": 155,
+    "text": "After making repeated comparisons, I focus on a utility pole in the direction we came from, which is on the right side in front of me."
+  },
+  {
+    "line": 156,
+    "text": "{character:player}Hah! I've got you now!"
+  },
+  {
+    "line": 157,
+    "text": "I run over quickly and look behind the utility pole confidently to find... no one there?!"
+  },
+  {
+    "line": 158,
+    "text": "{character:player}I was wrong...? Hmm?!"
+  },
+  {
+    "line": 159,
+    "text": "Hearing a sound from the other side, I turn my head quickly to look, but I am too late. All I see is a blurry figure disappearing in front of me."
+  },
+  {
+    "line": 160,
+    "text": "{character:player}W-Wait up! Don't run!"
+  },
+  {
+    "line": 161,
+    "text": "{character:Hana Ninomiya}Did you catch the person?"
+  },
+  {
+    "line": 162,
+    "text": "{character:player}Why did you come down?"
+  },
+  {
+    "line": 163,
+    "text": "{character:Hana Ninomiya}I was afraid that you'd get into a conflict with that person, so I came down to take a look because I was worried. It looks like you didn't catch her."
+  },
+  {
+    "line": 164,
+    "text": "{character:player}Sorry, I alerted her by mistake and let her run away."
+  },
+  {
+    "line": 165,
+    "text": "{character:player}But it doesn't matter. She's someone you know too. I even saved some evidence, so I'll just ask her directly tomorrow about why she is following you."
+  },
+  {
+    "line": 166,
+    "text": "{character:Hana Ninomiya}She probably won't follow me around anymore today. In that case, {var:player_nickname}, you don't need to stand there downstairs. Come up and play mahjong together with me."
+  },
+  {
+    "line": 167,
+    "text": "{character:player}I guess you're right..."
+  },
+  {
+    "line": 168,
+    "text": "Since I found a piece of important evidence in the flower bed, it's very likely that the person will hide in a similar place next time!"
+  },
+  {
+    "line": 169,
+    "text": "There happens to be a flower bed that is suitable for hiding within my sight."
+  },
+  {
+    "line": 170,
+    "text": "I look up and pretend to look at the scenery as I walk towards the flower bed while acting normal. Suddenly... I speed up and run straight towards the flower bed!"
+  },
+  {
+    "line": 171,
+    "text": "I look behind the flower bed confidently, but... there's nobody there!"
+  },
+  {
+    "line": 172,
+    "text": "The next day, I go to school with Ninomiya to meet the stalker with the kunai I picked up outside the restaurant."
+  },
+  {
+    "line": 173,
+    "text": "{character:Ransei}I was so completely focused on evacuating at that time. I can't believe I left behind such a crucial clue. I'm too careless."
+  },
+  {
+    "line": 174,
+    "text": "The night before, I called Ransei after looking at the family emblem on the kunai to ask her about the incident, and she honestly admitted that she had been following Hana Ninomiya around. I plan to ask her about her reasons in person today."
+  },
+  {
+    "line": 175,
+    "text": "{character:Hana Ninomiya}Ransei, so you're the person who has been following me around?"
+  },
+  {
+    "line": 176,
+    "text": "Judging from Hana Ninomiya's expression, she is somewhat relieved to find out that the person following her is an acquaintance, but her doubts haven't disappeared completely."
+  },
+  {
+    "line": 177,
+    "text": "{character:player}What gave you the idea to follow Ninomiya around?"
+  },
+  {
+    "line": 178,
+    "text": "{character:Ransei}Master, have you heard of the rumor about \"three-player mahjong?\""
+  },
+  {
+    "line": 179,
+    "text": "{character:Hana Ninomiya}T-Three-player mahjong..."
+  },
+  {
+    "line": 180,
+    "text": "{character:player}Are you referring to the rumor related to Ninomiya?"
+  },
+  {
+    "line": 181,
+    "text": "{character:Ransei}Yes. I'm ashamed to say that I'm also one of the rumored victims who were completely crushed by Ninomiya-senpai in mahjong."
+  },
+  {
+    "line": 182,
+    "text": "{character:Ransei}I still remember that match like it just happened..."
+  },
+  {
+    "line": 183,
+    "text": "{character:Hana Ninomiya}It was just last week. Why are you making it sound like it happened ages ago..."
+  },
+  {
+    "line": 184,
+    "text": "{character:Ransei}I still can't forget that crushing defeat I suffered that day."
+  },
+  {
+    "line": 185,
+    "text": "Ransei clenches the kunai in her hands as she speaks. It looks like she is quite unhappy about her loss."
+  },
+  {
+    "line": 186,
+    "text": "{character:player}So you have been following her around to find a chance to get revenge?"
+  },
+  {
+    "line": 187,
+    "text": "{character:Ransei}No, I'm very aware that I'm currently no match for Ninomiya-senpai who is an expert in concealment techniques."
+  },
+  {
+    "line": 188,
+    "text": "{character:Ransei}I won't be able to defeat her unless I attain the same level of mastery in concealment techniques."
+  },
+  {
+    "line": 189,
+    "text": "{character:Hana Ninomiya}What's this about concealment techniques... I don't remember having a skill like that."
+  },
+  {
+    "line": 190,
+    "text": "{character:player}I'll explain for you. I think she is referring to your transparency constitution."
+  },
+  {
+    "line": 191,
+    "text": "{character:Ransei}Constitution?! D-Doesn't that mean senpai's ability is a forbidden technique inherited by blood? Then... I'll never be able to learn it."
+  },
+  {
+    "line": 192,
+    "text": "{character:Hana Ninomiya}...{var:player_nickname}, please translate."
+  },
+  {
+    "line": 193,
+    "text": "{character:player}Sorry, there's nothing I can do to help you."
+  },
+  {
+    "line": 194,
+    "text": "Ransei is trying to understand Hana Ninomiya's special constitution with her own worldview. Trying to explain things will only make it more complicated, so I'll just let her think she's right."
+  },
+  {
+    "line": 195,
+    "text": "{character:player}Anyway, you're allowed to train, but it's best if your training doesn't affect other people."
+  },
+  {
+    "line": 196,
+    "text": "{character:player}I told you this on the phone last night. Ninomiya has been feeling uneasy because you've been following her. I think you should say something to her, Ransei."
+  },
+  {
+    "line": 197,
+    "text": "{character:Ransei}I'm so sorry, Ninomiya-senpai! I thought I had concealed myself very well, but I was unable to escape your notice and caused you distress."
+  },
+  {
+    "line": 198,
+    "text": "Seeing Ransei bow down to her while apologizing makes Hana Ninomiya rub the hair next to her ears embarrassedly."
+  },
+  {
+    "line": 199,
+    "text": "{character:Hana Ninomiya}It's okay. Your apology is so solemn... Should I say I should have expected this from your disciple, {var:player_nickname}? She has such a serious attitude."
+  },
+  {
+    "line": 200,
+    "text": "{character:player}Hehe, it's because she has a good teacher."
+  },
+  {
+    "line": 201,
+    "text": "{character:Ransei}Not only did I fail to outsmart an expert like Ninomiya-senpai, but even Master easily saw through my actions. It seems that I still have a lot to learn before I can become fully independent."
+  },
+  {
+    "line": 202,
+    "text": "{character:Ransei}Although it is difficult to learn a secret blood inheritance technique, I will use my own methods to improve my tracking techniques. At the very least, I will try not to let you find out next time, Master! In that case, I'll be leaving now to continue my training. Farewell!"
+  },
+  {
+    "line": 203,
+    "text": "With these words, Ransei disappears in the blink of an eye."
+  },
+  {
+    "line": 204,
+    "text": "{character:player}Did she really understand what I said to her...? Don't tell me she will start to follow me around instead."
+  },
+  {
+    "line": 205,
+    "text": "Whatever, at least Ransei won't disturb Hana Ninomiya again in the near future, so this stalking incident has been resolved."
+  },
+  {
+    "line": 206,
+    "text": "However..."
+  },
+  {
+    "line": 207,
+    "text": "{character:Hana Ninomiya}In the end, I was targeted because of my transparency constitution and not because I caught anyone's eye..."
+  },
+  {
+    "line": 208,
+    "text": "To Hana Ninomiya, this isn't something that makes her happy. I am also only able to say one thing to her about this."
+  },
+  {
+    "line": 209,
+    "text": "{character:player}Good luck, Hana Ninomiya."
+  },
+  {
+    "line": 210,
+    "text": "There doesn't seem to be anything suspicious about the white wall in front of me, but... I should try to observe things from different angles."
+  },
+  {
+    "line": 211,
+    "text": "The sun is especially fierce around this time, and when I look at the ground, I see a bulging, unnatural shadow as I expected."
+  },
+  {
+    "line": 212,
+    "text": "{character:player}To use cloth as camouflage is really in line with the style of a ninja."
+  },
+  {
+    "line": 213,
+    "text": "Without giving her time to react, I walk right over to pull down the cloth in one corner and end up face-to-face with Ransei, who is hiding behind the white cloth."
+  },
+  {
+    "line": 214,
+    "text": "{character:player}Hey, we meet again, Ransei."
+  },
+  {
+    "line": 215,
+    "text": "{character:Ransei}M-Master."
+  },
+  {
+    "line": 216,
+    "text": "{character:player}Are you hiding here as part of your training?"
+  },
+  {
+    "line": 217,
+    "text": "{character:Ransei}Yes, I am currently training indeed."
+  },
+  {
+    "line": 218,
+    "text": "She is actually playing along with me for some reason... But I have a piece of evidence in my hand, so it's impossible for her to deny it."
+  },
+  {
+    "line": 219,
+    "text": "{character:player}Objection! You clearly came after us. The evidence is..."
+  },
+  {
+    "line": 220,
+    "text": "I present my evidence, a mahjong tile pendant!"
+  },
+  {
+    "line": 221,
+    "text": "{character:Ransei}A mahjong tile pendant. What does it prove? Please guide me, Master."
+  },
+  {
+    "line": 222,
+    "text": "{character:player}N-No, it doesn't prove anything. Sorry, I took out the wrong thing."
+  },
+  {
+    "line": 223,
+    "text": "At most, this only proves that I'm a Jyanshi who likes to play mahjong. It can't be used as evidence. The key evidence is still in my pocket. I'll keep rummaging through it..."
+  },
+  {
+    "line": 224,
+    "text": "I present my evidence, a kunai!"
+  },
+  {
+    "line": 225,
+    "text": "{character:Ransei}This kunai belongs to me. Master, where did you find it?"
+  },
+  {
+    "line": 226,
+    "text": "{character:player}You're making things easier for me by admitting it directly. Your family's logo is on this, so it must belong to you."
+  },
+  {
+    "line": 227,
+    "text": "{character:player}I picked this up in the flower bed outside the restaurant we were just at. Are you going to tell me you dropped it there by accident?"
+  },
+  {
+    "line": 228,
+    "text": "{character:Ransei}...You're right, Master. I followed you here."
+  },
+  {
+    "line": 229,
+    "text": "{character:player}You must be the person who has been following Ninomiya around recently then."
+  },
+  {
+    "line": 230,
+    "text": "{character:player}Ninomiya, why did you come down?"
+  },
+  {
+    "line": 231,
+    "text": "{character:Hana Ninomiya}I was afraid that you'd get into a conflict with the person following me around, so I came down to take a look because I felt a little uneasy."
+  },
+  {
+    "line": 232,
+    "text": "{character:Ransei}Hi, Ninomiya-senpai."
+  },
+  {
+    "line": 233,
+    "text": "{character:Hana Ninomiya}Hello."
+  },
+  {
+    "line": 234,
+    "text": "Hana Ninomiya looks relieved after finding out the person following her is an acquaintance, but the doubt on her face doesn't disappear completely."
+  },
+  {
+    "line": 235,
+    "text": "{character:player}Why did you suddenly start following Ninomiya around?"
+  },
+  {
+    "line": 236,
+    "text": "{character:player}I remember... it's a rumor related to Ninomiya, right?"
+  },
+  {
+    "line": 237,
+    "text": "{character:Hana Ninomiya}Uh-huh..."
+  },
+  {
+    "line": 238,
+    "text": "{character:Ransei}I'm ashamed to say that I'm also one of the rumored victims who were completely crushed by Ninomiya-senpai in mahjong."
+  },
+  {
+    "line": 239,
+    "text": "{character:Ransei}To be more precise, I lost to her amazing concealment techniques."
+  },
+  {
+    "line": 240,
+    "text": "{character:player}Ninomiya, when did you learn this ability?!"
+  },
+  {
+    "line": 241,
+    "text": "{character:Hana Ninomiya}Why are you also getting astonished? I don't remember having a skill like that."
+  },
+  {
+    "line": 242,
+    "text": "{character:Ransei}You're too humble! Seeing is believing, and I have experienced your concealment technique many times already!"
+  },
+  {
+    "line": 243,
+    "text": "{character:Ransei}Whenever the vice president gets us problem children to clean up the playground, there's always a place that is cleaned without us realizing it, and none of us there can remember who cleaned it. We only found out after checking the duty roster afterwards that it was you, senpai."
+  },
+  {
+    "line": 244,
+    "text": "{character:Ransei}This technique that can conceal oneself from and change the perception of everyone present is definitely a top concealment technique! One Han City sure is filled with talented people. There are powerful Jyanshi here like Master and experts like senpai. This world is very big indeed!"
+  },
+  {
+    "line": 245,
+    "text": "We don't know what to say after hearing Ransei's passionate and moving speech, so we can only let her continue talking."
+  },
+  {
+    "line": 246,
+    "text": "{character:Ransei}To become a stronger mahjong player and ninja, I decided to follow senpai around to find out the secret to her training. But she is truly worthy of being a master. She always manages to disappear while I'm following her."
+  },
+  {
+    "line": 247,
+    "text": "{character:Ransei}I thought everything was going well today, but then you saw through me, Master..."
+  },
+  {
+    "line": 248,
+    "text": "{character:player}Haha, you're too naive, Ransei."
+  },
+  {
+    "line": 249,
+    "text": "{character:player}Allow me to introduce you properly. The person in front of you is Hana Ninomiya, the shadow behind the legend of \"three-player mahjong,\" the hidden monster of the mahjong table, and the \"master of invisibility.\" Her ability to become transparent isn't something that can be easily imitated by others!"
+  },
+  {
+    "line": 250,
+    "text": "{character:Hana Ninomiya}{var:player_nickname}, why do you look so smug even though you're introducing me?"
+  },
+  {
+    "line": 251,
+    "text": "{character:player}I'm just creating an atmosphere... In short, Ransei, you're allowed to train, but it's best if your training doesn't affect other people."
+  },
+  {
+    "line": 252,
+    "text": "{character:player}Ninomiya has been feeling uneasy these last few days because you've been following her. I think you should say something to her."
+  },
+  {
+    "line": 253,
+    "text": "{character:Ransei}I see... I'm so sorry, Ninomiya-senpai! I thought I had concealed myself very well, but I was unable to escape your notice and caused you distress."
+  },
+  {
+    "line": 254,
+    "text": "{character:Hana Ninomiya}It's okay. You don't have to apologize so seriously."
+  },
+  {
+    "line": 255,
+    "text": "{character:Ransei}I wasn't able to outsmart an expert like Ninomiya-senpai this time, and even Master easily saw through my actions. It seems that I still have a lot to learn before I can become fully independent."
+  },
+  {
+    "line": 256,
+    "text": "{character:Ransei}Master, if you don't have other instructions for me, I'll take my leave now and continue with my training. At the very least, I will try not to let you find out next time!"
+  },
+  {
+    "line": 257,
+    "text": "{character:player}So you'll start to bother me instead of Ninomiya, huh... Oh well."
+  },
+  {
+    "line": 258,
+    "text": "{character:player}Let's play mahjong upstairs, Ninomiya."
+  },
+  {
+    "line": 259,
+    "text": "{character:Hana Ninomiya}Okay... By the way, so do you also think I'm very transparent, {var:player_nickname}?"
+  },
+  {
+    "line": 260,
+    "text": "{character:player}Um..."
+  },
+  {
+    "line": 261,
+    "text": "{character:Hana Ninomiya}In the restaurant earlier, you said I was cute and would watch out for me. So you said all that just to comfort me."
+  },
+  {
+    "line": 262,
+    "text": "{character:player}...M-Miss Ninomiya, are you angry?"
+  },
+  {
+    "line": 263,
+    "text": "{character:Hana Ninomiya}Not at all. I just think that I need to try a lot harder to give you a stronger impression of me, {var:player_nickname}."
+  },
+  {
+    "line": 264,
+    "text": "{character:Hana Ninomiya}The simplest method is to play mahjong with you. Well, {var:player_nickname}, I'm going to need you to help me verify whether I'm transparent while playing mahjong."
+  },
+  {
+    "line": 265,
+    "text": "{character:player}Miss Ninomiya, your smile is kinda terrifying right now..."
+  },
+  {
+    "line": 266,
+    "text": "That afternoon, Hana Ninomiya tortured me at the mahjong table..."
+  },
+  {
+    "line": 267,
+    "text": "{character:player}...Hmm? A text message?"
+  },
+  {
+    "line": 268,
+    "text": "I was woken up by a message from Hana Ninomiya the next morning."
+  },
+  {
+    "line": 269,
+    "text": "{character:Hana Ninomiya}Good morning, are you awake?"
+  },
+  {
+    "line": 270,
+    "text": "{character:player}I just got up. What's up?"
+  },
+  {
+    "line": 271,
+    "text": "{character:Hana Ninomiya}Nothing, I just wanted to say... From now on, let's greet each other in the morning after we wake up."
+  },
+  {
+    "line": 272,
+    "text": "What a sudden proposal."
+  },
+  {
+    "line": 273,
+    "text": "{character:Hana Ninomiya}After all... {var:player_nickname}, didn't you say you would always pay attention to me so I won't have a \"lonely death\"?"
+  },
+  {
+    "line": 274,
+    "text": "{character:Hana Ninomiya}I think it's necessary to say hello to each other in the morning or something."
+  },
+  {
+    "line": 275,
+    "text": "Although it's a sudden proposal, it's quite reasonable."
+  },
+  {
+    "line": 276,
+    "text": "Let's do that from now on then."
+  },
+  {
+    "line": 277,
+    "text": "{character:player}Good morning, Ninomiya."
+  },
+  {
+    "line": 278,
+    "text": "Walk up and say hi"
+  },
+  {
+    "line": 279,
+    "text": ""
+  },
+  {
+    "line": 280,
+    "text": "Wait and see what happens"
+  },
+  {
+    "line": 281,
+    "text": "Make a reasonable retort"
+  },
+  {
+    "line": 282,
+    "text": "I'll admit it then!"
+  },
+  {
+    "line": 283,
+    "text": "Could it be someone who likes you?"
+  },
+  {
+    "line": 284,
+    "text": "Could it be someone dangerous?"
+  },
+  {
+    "line": 285,
+    "text": "Check behind the utility pole"
+  },
+  {
+    "line": 286,
+    "text": "Check behind the flower bed"
+  },
+  {
+    "line": 287,
+    "text": "Investigate the white wall"
+  },
+  {
+    "line": 288,
+    "text": ""
+  },
+  {
+    "line": 289,
+    "text": "Mahjong tile pendant"
+  },
+  {
+    "line": 290,
+    "text": "Kunai"
+  }
+]

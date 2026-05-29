@@ -1,0 +1,311 @@
+1:player
+2:{character:player}So Soul taking a break today as well...
+3:Soul has been on a break for a while now. Wanjirou and I are out shopping today, and I can't help stopping in front of their deserted tent for a long time when I pass by.
+4:When I asked the employees earlier, they said they would only be taking a few days off. Although I feel a little lonely because I can't watch Sara dance, I feel quite relieved that she can get some rest after being busy for so long.
+5:Wanjirou
+6:{character:Wanjirou}It's the first time I've seen them take such a long break, woof. I remember that they're a touring troupe. Could they be taking a break to prepare for their next trip, woof?
+7:{character:player}Preparing for their next trip, huh...
+8:What Wanjirou said is quite possible. In fact, it's something that wouldn't be surprising when it finally happens. As a fan, I should be mentally prepared for this.
+9:But... But!
+10:{character:player}I don't want that to happen!
+11:{character:Wanjirou}Woof?
+12:{character:player}I don't want Sara to suddenly leave! She shouldn't leave until I've watched her dance at least 100 times and filled my home with her posters...!
+13:{character:Wanjirou}Calm down, I'm just pointing out a possibility, woof...
+14:{character:Wanjirou}Woof? This smell... {var:player_nickname}, look, isn't that Sara?
+15:Wanjirou points at a place not far away. Sara is holding a little girl's hand, and they are walking out of a KEC fast food joint, talking and laughing, each with a soft serve cone in their hand. Sara's pet cat, Little Miaow sniffs the soft serve cone from Sara's shoulder, then yawns uninterestedly and jumps onto the ground.
+16:{character:player}Is that little girl... Sara's little sister?
+17:{character:Wanjirou}She could be... They have a similar complexion and look quite similar to each other. They seem to be the right age too, woof.
+18:As I'm about to walk up to greet them, Little Miaow looks over at me first and purrs at Sara, almost like she is giving a reminder. Sara also notices us and walks over with a smile on her face.
+19:Sara
+20:{character:Sara}Oh, what a coincidence to meet you two here.
+21:{character:Wanjirou}Long time no see, woof.
+22:{character:player}It's been a while. Are you enjoying your days off?
+23:{character:Sara}I've been comfortable for a while now. I forgot the last time I was so free.
+24:Little Girl
+25:{character:Little Girl}Big Sis Sara, who are they?
+26:According to what she's calling Sara, it seems like this little girl really is Sara's little sister.
+27:The little girl looks at us a few times and stares at Wanjirou for a long time before she hides behind Sara's back, where she continues to look at Wanjirou with eyes filled with a little fear and mostly curiosity.
+28:{character:Sara}They're my friends. And they are very nice people, so say hi to them, Lilia.
+29:{character:player}Hello, I'm {var:player_nickname}, your sister's loyal fan.
+30:{character:Wanjirou}And I'm the great Wanjirou, woof!
+31:Lilia
+32:{character:Lilia}{var:player_nickname} and... Wanjirou... Hello. Big Sis, is Wanjirou really that great?
+33:{character:Sara}Yes, he is.
+34:{character:player}Wanjirou is great.
+35:{character:Wanjirou}I'm getting a faint feeling that I'm not that great, woof...
+36:{character:player}Are you shopping? Are we getting in your way?
+37:{character:Sara}Of course not. In fact, you're here at just the right time.
+38:{character:Sara}We came out to buy some fabric to make clothes and were thinking of just strolling around randomly.
+39:{character:Sara}You've lived here in One Han City for longer than us. Do you know of any good shops? And can you guide us there if you're free?
+40:"Longer than us," huh... Sara's words make me feel a little emotional inside.
+41:It's been a while since Soul arrived at One Han City and started performing, but Sara has barely had the chance to explore this city. Judging from my experience the last time I helped out, except for when she comes to Mahjong Soul Shrine occasionally, she is probably busy with troupe affairs at all other times. As her fan and friend, I'm naturally happy to help her.
+42:{character:player}I don't have any plans for the rest of the day. Maybe you can find a place to sit down first. I'll come back and meet you after I take these things back to the shrine for Wanjirou.
+43:{character:Wanjirou}That won't be necessary. I can take these things back myself. {var:player_nickname}, just go shopping with them, woof.
+44:After speaking, Wanjirou takes the bag from my hand, turns around, and waves gracefully.
+45:{character:player}Thanks, Wanjirou. If I see any tasty snacks, I'll bring some back to the shrine for you later.
+46:{character:Wanjirou}Sounds good! Don't forget Ichihime's share. She'll get upset if you forget.
+47:{character:player}Haha, I won't.
+48:{character:Lilia}...W-Wanjirou! C-Can I touch your hand?
+49:{character:Wanjirou}Why not? Help yourself, woof.
+50:Lilia grabs Wanjirou's furry "hand" and buries her face in the chubby parts of his palm before nodding her head perfectly satisfied.
+51:{character:Lilia}Wanjirou, bye-bye.
+52:{character:Wanjirou}Come and play at the shrine when you're free, woof.
+53:{character:player}Let's go then. Do you want to go to a place closer or farther away?
+54:{character:Sara}Both options are okay. You can decide for us.
+55:{character:player}Let me see...
+56:I take Sara and her sister to a shop that was once mentioned in Kana Fujita's variety show. That episode introduced lots of shops that were small but had everything you needed at a fair price.
+57:{character:Sara}Oh, this place is very well stocked. There's so much of everything. It's a great shop.
+58:{character:player}I'm glad it meets your needs. Take your time looking. If you don't find what you want, there are several other shops across the street or even next door.
+59:{character:Sara}I think I'll need quite some time just to look through everything here.
+60:{character:player}We can also come again at another time. Hmm? Lilia, why aren't you coming in?
+61:{character:Lilia}I... I don't have anything I want to buy. I'll just wait for you here.
+62:Little Miaow
+63:{character:Little Miaow}Meow.
+64:She takes a step back after talking, then she turns around and squats on the ground to play with pebbles outside the shop. Little Miaow isn't interested in anything inside the shop, so she also lies next to Lilia to bask in the sun.
+65:{character:Sara}Lilia, the tailor of our troupe wants to make clothes for Little Miaow, but I'm a little busy over here. Can you find a suitable fabric for her?
+66:{character:Lilia}For Little Miaow...? Okay, I'm coming now.
+67:{character:Lilia}...Little Miaow, what about this one? This one looks good too, hehe.
+68:Lilia walks back and forth between the shelves with Little Miaow in her arms and tugs on the clothing samples on the hangers every now and then with an excited and happy expression on her face. It seems that it's not that she doesn't want to explore this shop, so why did she hesitate for so long at the door and refuse to come in?
+69:And I've never seen Sara dress Little Miaow in any clothing before. Even if she doesn't know that cats don't feel comfortable wearing clothes, she shouldn't have the habit of making Little Miaow wear clothes at the very least. Then why did she...
+70:{character:Sara}...Excuse me.
+71:{character:player}Oh, sorry, my mind wandered. Did you say something, Sara?
+72:{character:Sara}I wanted to ask if you thought the colors of these two types of fabric are a good match. If you're tired, I'll hurry up, and we can sit down somewhere to drink something.
+73:{character:player}Oh, I'm alright, so you don't need to rush. I was just thinking about something.
+74:{character:player}Let me see... The green looks like it might be too dark, so maybe it would be better to find something brighter and lighter?
+75:{character:Sara}We're thinking of the same thing. I'll keep looking then.
+76:{character:player}...What about this one?
+77:{character:Sara}Oh, this is great! I'm becoming more convinced that asking you to come with us is a good idea.
+78:{character:player}Haha, I'm flattered. By the way, Sara, do you always choose fabrics to make your own costumes like today?
+79:{character:Sara}I'm not skilled enough to make clothes. Our troupe has a tailor, and I'm only responsible for picking fabrics. We manage to save money in this way. But I mainly like the process of picking fabrics and imagining what the finished product will look like because it's very interesting.
+80:{character:Sara}I usually come by myself. Since you're here with me today, I would like to hear more about what you think.
+81:{character:player}Then I'll need to think carefully. If these two are the main colors, then...
+82:After comparing several fabrics with Sara, we manage to finalize the general style, fabric texture, and color after discussing things. All we need now are decorations. Sara calls out to Lilia.
+83:{character:Sara}Lilia, I still need some decorations. What color do you think is better?
+84:{character:Lilia}The flower on your waist... Big Sis, what do you think about this one? I chose it and Little Miaow also thinks it looks good, isn't that right?
+85:{character:Little Miaow}Meow!
+86:{character:Sara}That's definitely a yes, so let's pick this one. Okay, our inspiration has done its work. Now we just need to wait for the tailor to work the magic.
+87:{character:player}Will you have a new dance to complement this new dress? Just thinking about it makes me excited.
+88:{character:Sara}You've been waiting so patiently here. You'll definitely be the first to see the dress once it's finished.
+89:{character:player}Yay!
+90:{character:Lilia}Big Sis Sara, Lilia is also... really... looking forward to it...
+91:Lilia tugs on the hem of Sara's skirt with an inexplicably sad expression in her eyes. Sara pats her head while smiling wryly, yet I can't help but notice the sorrow in her eyes.
+92:{character:Sara}Don't worry, I promise that you'll also get to see it, okay...?
+93:{character:Sara}Is this the open-air market?
+94:{character:player}That's right.
+95:I take Sara and her sister to the open-air market near the suburbs. While wandering there, I see a stall selling fabrics. They are just as good as the fabrics in shops, and they are very competitively priced.
+96:After consulting the person in charge of the venue briefly, we go straight to the fabric stalls with the intention to finish getting everything we need before visiting other stalls.
+97:{character:Sara}Oh, this place is very well stocked. There's so much of everything. It's a great stall.
+98:{character:player}I'm glad it meets your needs. Take your time looking. If you don't find what you want, this whole row of stalls sells fabrics.
+99:{character:Sara}I think I'll need quite some time just to look through everything here.
+100:{character:player}We can also come again at another time. Hmm? Lilia, don't you want to come over and take a look?
+101:She takes a step back after talking, then she turns around and squats on the ground to play with pebbles next to the road. Little Miaow also lies next to Lilia to bask in the sun.
+102:Lilia walks back and forth between several stalls with Little Miaow in her arms and tugs on the clothing samples on the hangers every now and then with an excited and happy expression on her face. It seems that it's not that she doesn't want to explore the stalls, so why didn't she come over earlier?
+103:And I've never seen Sara dress Little Miaow in any clothing before. Even if she doesn't know that cats don't feel comfortable wearing clothes, she shouldn't have the habit of making Little Miaow wear clothes at the very least. Then why did she...
+104:After buying the fabrics, our group of three people and one cat shop around for a little longer.
+105:As promised earlier, I buy some souvenirs and have them sent to Mahjong Soul Shrine. After a short break, I help Sara take her things and get ready to take them home. However, Sara takes me toward the suburbs instead of the direction of the troupe.
+106:{character:player}Sara, where are we going?
+107:{character:Sara}The place where I've been living recently—Lilia's home.
+108:We pass through the old city and arrive at an open space in the suburbs. The open space here at the foot of the mountain is parked full of carriages. Children are running around and playing, and adults are busy minding their own business beside the carriages. The air is filled with smoke and fire. It's obvious that this is where these people live.
+109:{character:Sara}We're back.
+110:A man and woman walk out from the tent in front of Sara. Lilia shouts "I'm home" and wriggles excitedly in the man's arms.
+111:Are these Sara's parents? It's a little strange. Although their complexion is quite similar, they both have light brown pupils, and Lilia does too, but Sara has unique heterochromatic pupils...
+112:{character:Sara}Aha, are you trying to guess what relationship I have with them?
+113:{character:player}You saw through me. I'm guessing that they aren't your parents?
+114:{character:Sara}Yeah, I met this family when we were on tour. We got along well, but I didn't expect to encounter them again here. They were busier than usual today, so they asked me to take care of Lilia for them.
+115:{character:player}I see. Lilia and you look so alike that I almost thought you are sisters related by blood.
+116:{character:Sara}Haha, that would be nice too. We're from the same homeland, and we're used to calling each other brothers and sisters even if we're not related by blood.
+117:{character:Sara}It's not just this family though. You can probably tell that everyone here is from my homeland. But I guess it's a little awkward to use the word "homeland" since we're all outsiders.
+118:{character:player}Outsiders?
+119:{character:Sara}Lilia, I'll show {var:player_nickname} around. Little Miaow is... sleeping. Please take care of her for me.
+120:{character:Lilia}Okay.
+121:I follow Sara as she weaves through the carriages in the autumn wind and listen to her story about a people who wander with the wind and sand.
+122:{character:Sara}People from all over the world call our people by different names. Some people say that we come from an ancient country filled with yellow sand, while others think we come from a land with black fertile soil. There are even some people who speculate that we are from the highlands and fled the snow-capped mountains because we couldn't stand the cold.
+123:{character:Sara}But it's all just a misunderstanding. The fact is, not even we remember where our ancestors started their journey.
+124:The only thing this group of people who travel in carriages and wander around the world knows is that they can't fit into any society, so they mockingly call themselves "outsiders."
+125:{character:Sara}A long time ago, my grandma got tired, so she got off the carriage with my grandpa to slack off for a while, but that short break ended up with her staying there for more than ten years. During that time, she gave birth to my mother. My mother later met my father, who was a local, and had me. That's how I ended up with a so-called hometown.
+126:{character:Sara}My elders got used to living a comfortable life, except me. My grandma once said that my personality and outlook on life are very similar to our ancestors, hehe... Perhaps that's why I always manage to hit it off with my brothers and sisters who live wherever I perform.
+127:"Outsiders" may leave at any time to embark on a new journey, so Sara cherishes these rare encounters. Whenever she knows that there is a gathering of her people near her, she will make the time to eat and live with them for a period of time to experience what life was like for her ancestors.
+128:{character:player}Sara, do you like this type of life?
+129:{character:Sara}I like it, but I might not be able to get used to it. What about you?
+130:{character:player}In my case...
+131:{character:player}I can't say for sure whether I would like it, but I think I'll have difficulty adjusting to such an unstable life, always feeling like I don't belong.
+132:{character:Sara}Haha, most people would have difficulty adapting to it. It was the same for my father.
+133:{character:Sara}He thought that we shouldn't be like dandelions that float on the wind because our family has already taken root somewhere, so he disapproved of me going on tour with Soul at the beginning because he was afraid I would end up becoming a nomad like my ancestors and never return home.
+134:{character:player}How did you convince him?
+135:{character:Sara}I never intended to convince him. I was going to just say "I'm off now" and start working at Soul. But Sid, the previous leader, took time to accompany me to see my father after he found out and gave his personal guarantee that I would return safely. Only then did my father agree to this.
+136:{character:Sara}But he hasn't completely stopped worrying about me. Even now, he still requests me to contact him regularly. He's afraid of being lonely, don't you think? Hehe...
+137:{character:player}Hahahaha...
+138:His daughter joined a tour performance without a clear timeframe for returning home behind his back, and his only request after agreeing is for her to contact him periodically. I think Sara's father is very open-minded already.
+139:{character:Sara}Although it's a little annoying to regularly contact him... it feels good to know someone is missing you.
+140:{character:player}...Yes, that's nice.
+141:{character:player}This kind of life doesn't sound very stable, but if you ask whether I like it or not... I think I would like it because it feels quite romantic.
+142:{character:Sara}Haha, if only my father thought that way at the very beginning. Then he would have quickly agreed to let me participate in this tour performance.
+143:{character:Sara}When he heard that I was going on tour with Soul, he was afraid that I would end up living a nomad life like my ancestors and never return home. He felt that I shouldn't be like a dandelion that floats on the wind because our family has already taken root somewhere.
+144:{character:player}Speaking of which, Sara... Do the people here not welcome me or something?
+145:I don't think I'm overly self-aware. It's just that people have been sizing me up ever since I arrived here. Although they don't look hostile, I can certainly feel that they have their guard up.
+146:{character:Sara}You don't need to worry about them. They are trying to understand you, just like how you're trying to understand them.
+147:{character:Sara}People sometimes have misunderstandings before they manage to understand each other. They need some time to find the distance they should keep from the locals.
+148:{character:player}I see...
+149:In their eyes, I see the same hesitation that Lilia showed when we were shopping.
+150:Maybe I can close some of the distance with them if I greet them warmly, but... I give up after thinking about it. I'm their guest, so they should decide how we should get along since they are the "hosts" here.
+151:After walking for a while, a carefree woman finally comes over to start a conversation.
+152:Woman
+153:{character:Woman}Sara, why don't you introduce us to your friend?
+154:{character:Sara}Haha, I was just about to introduce you. This is {var:player_nickname}.
+155:{character:player}Hello.
+156:{character:Woman}Hi, {var:player_nickname}... Sara, this is your first time bringing a stranger here. Are you two friends?
+157:{character:Sara}{var:player_nickname} is my friend and someone important to me.
+158:{character:player}Eh?
+159:{character:Woman}Oh, so {var:player_nickname} is someone you like.
+160:{character:Sara}Yes.
+161:{character:Woman}What about you, {var:player_nickname}? Do you like Sara?
+162:{character:player}I... of course I...
+163:There's no question whether I like her or not, but why are we talking about this topic? Shouldn't you avoid the person you're talking about if you want to gossip?!
+164:{character:Sara}Of course. {var:player_nickname} has never missed any of my performances and is my most loyal fan.
+165:Aha, so that's what she means by important. Sara is able to remember that I'm there among the faceless audience every time. I'm very happy about this as a fan... But I feel a subtle sense of embarrassment when she says it so proudly.
+166:{character:Sara}It's the first time I've met a customer who cares so much about me, is so considerate of me, and offers to help me. At some point, I started to feel lonely when I couldn't see that person... Such a person can only be an "important person," right?
+167:{character:Woman}Yep, I'm gradually understanding everything.
+168:No, your strange smile is telling me you've misunderstood something!
+169:The woman covers her mouth and runs away sniggering before I can say anything else. I hope she doesn't spread anything strange around...
+170:{character:player}*Sighs* Didn't you say that a proactive person like me is a weird customer?
+171:{character:Sara}You are a weird customer, but you're also someone important to me, hehe...
+172:{character:player}...Haha, I'm honored to be someone who is weird and important to you, Sara.
+173:{character:Sara}And it's my honor that you like me.
+174:The sun is about to set. Sara opens the door curtain of a carriage and beckons for me to climb up with her.
+175:Sitting in the carriage is an old lady who is making some handicrafts. Sara sits down beside her and picks up an unfinished knitwear.
+176:{character:Sara}Granny, I've come to help out.
+177:Old Woman
+178:{character:Old Woman}You've come.
+179:{character:Sara}Can you tell me the story you didn't finish last time?
+180:{character:Old Woman}Of course.
+181:The old woman hasn't commented on my arrival. I don't know what to do at this time, so I also sit down and listen to the story.
+182:The woman is telling a story about her past. Stories of things that happened on her journey called "life."
+183:A family... A person... A tribe... And then a family in a tribe...
+184:She speaks slowly at first and sometimes stops when she forgets what she's going to say, which makes me wonder if she has suddenly fallen asleep while talking.
+185:{character:Sara}Granny, you just said you met a handsome young man.
+186:{character:Old Woman}Haha, that young man has become an old man now, hahahah...
+187:Sara reminds her where to continue her story whenever she stops, but the starting point of each journey is the moment she meets her lover.
+188:I wonder when the story will end, but when I see how her eyes light up when she speaks, I find myself thinking that whether she finishes her story isn't so important.
+189:{character:player}(whispers) ...I'm getting a little sleepy.
+190:The sun is getting lower and lower, and so are my eyelids.
+191:Until everything becomes dark...
+192:It's already night when I awaken.
+193:The area around is more lively than when we first came. It's most likely that the people who were out earlier have all returned. The smell of smoke and fire permeating the air has also become more intense. Looking at the campfires burning around me and smelling the aroma in the air, I realize that it's dinner time.
+194:{character:Sara}Oh, you've woken up. Did you sleep well?
+195:{character:player}I slept really well. I hope the old granny won't get angry at me for falling asleep halfway through her story.
+196:{character:Sara}She won't because she also fell asleep. Let's have dinner.
+197:We approach one of the campfires where Lilia and the others are having dinner.
+198:{character:Lilia}{var:player_nickname}, have some more.
+199:{character:player}Thank you, I'm sorry I'm scrounging a free meal off you.
+200:{character:Lilia}It's alright since you're someone important to Big Sis Sara.
+201:...That woman really did spread her nonsense everywhere.
+202:During dinner, people would bring food over to share or come and have a toast from time to time. Looking at this happy and harmonious atmosphere, like Sara said, the people here really do live like a big family.
+203:Even though I'm a visitor who came here suddenly, these "outsiders" don't mind me joining in their feast and are even very enthusiastic, which is a little overwhelming to me.
+204:{character:player}I feel very warm here, and the food is delicious. I never expected to have such a night out when I woke up in the morning.
+205:{character:Sara}I didn't think I would have the opportunity to bring you here either. It's great that you feel happy.
+206:{character:player}Shall we go to that granny again after dinner to listen to the rest of the story?
+207:{character:Sara}She's sleeping soundly, so we probably shouldn't disturb her. I've almost collected enough materials too. If you really want to talk, you can talk to her about One Han City.
+208:{character:player}Collecting materials?
+209:{character:Sara}One of my teachers once said that an outstanding dancer needs to hone their technique and know how to express the many facets of life in their dance.
+210:{character:Sara}But it's difficult to get better with my limited life experience, so I often pester the elders here to tell me their stories, and I use that as inspiration to create new dances.
+211:{character:player}In other words, these elders' lives live on in your dance?
+212:{character:Sara}That's an appropriate statement. We "outsiders" drift about everywhere, but we live uniquely romantic and exciting lives. I want to convey the beauty of their lives to the world, so I take it upon myself to do so.
+213:{character:Sara}I also want to find out where our homeland is from our elders.
+214:{character:player}Homeland? Didn't you say that your people have already forgotten where they came from?
+215:{character:Sara}My mother once said that our homeland is a beautiful place with stunning mountains and rivers. Desert roses bloom everywhere like flames there. I really want to see what it looks like there for myself.
+216:{character:Sara}One reason I joined Soul is so I can perform, but another reason is so I can try my luck while I'm on tour and see if I can find out anything about my homeland.
+217:I want to ask her whether she has found it yet, but the bitter smile on Sara's face tells me the answer.
+218:{character:Sara}It's a shame I still haven't found it. Perhaps... I'll never find it, haha. Like my mother said, we've left our homeland for too long already...
+219:{character:player}...Why don't we ask that old granny tomorrow? Maybe we can even ask other people who aren't elders.
+220:{character:Sara}I'm afraid we won't get the chance. They will be embarking on a new journey very early tomorrow morning. This is their last carnival here tonight, so they are probably gonna keep the party going until it's very late. Are you tired? Should I take you to the station first?
+221:These passionate people are leaving tomorrow. I finally managed to build a good relationship with them, but now I don't even know when we'll see each other again.
+222:Oh, did Lilia look so crestfallen because she knew she wouldn't get to see Sara's new dress...?
+223:{character:player}Sara, can I stay? They've been so kind to me that I want to say goodbye to them tomorrow morning.
+224:{character:Sara}Hehe, of course you can.
+225:After dinner, the "outsiders" begin to gather around the bonfire, as they sing and dance along to the tunes coming from their musical instruments. Sara helps me arrange a place to stay for the night while I sit there enjoying the hustle and bustle.
+226:As I enjoy the exotic song and dance in front of me, I keep thinking about the desert rose.
+227:{character:player}Desert rose...
+228:I grab my mobile phone and search for anything I can find about desert roses.
+229:The desert rose is also known as adenium, and it is not a native plant of One Han City based on its distribution.
+230:{character:player}I'm afraid I won't be able to show Sara a field full of desert roses here.
+231:{character:player}Hmm?
+232:I look around me and see the figure of Little Miaow thanks to the light of the fires. She is walking around leisurely like always. I wonder where she is going...
+233:{character:player}...I might as well follow her.
+234:Although Sara once said that we don't need to worry about Little Miaow as she always returns after walking off, I still feel a little worried since we're in the open.
+235:I borrow a flashlight and follow Little Miaow, who passes through the woods and climbs up a nearby hill.
+236:At the highest point of the hill, Little Miaow curls her limbs and lies on the ground, her eyes staring straight ahead as her tail flicks around from time to time.
+237:{character:player}So you've come here to enjoy the breeze and the scenery, huh? You're in good spirits.
+238:{character:Little Miaow}...
+238:{character:Sara}...
+238:{character:player}...
+239:I'm afraid that Sara won't be able to find me when she returns if I leave suddenly, so I send her a message telling her what's happened. After that, I plan to stay there with Little Miaow and enjoy the scenery until she decides to go back.
+240:It's possible to get a panoramic view of the camp from here. I can hear laughter faintly from such a distance, and the bonfire seems to be burning more vigorously than before...
+241:{character:player}...Hmm?
+242:I rub my eyes. While in a daze, the things I see and hear slowly overlap in my head...
+243:{character:player}Little Miaow, can you wait for me obediently here for a while?
+244:{character:Little Miaow}Meow?
+245:{character:player}The scenery is so nice here. I want to ask your owner to come and enjoy it with us.
+246:I return to the camp, get some drinks from Sara, and return to the hill where I was earlier.
+247:{character:Sara}Oh, are you welcoming me, Little Miaow? Customer, is this the place you mentioned that has great scenery?
+248:{character:player}Yes, Sara, look down from here.
+249:I point in the direction of the camp and wait anxiously, wondering if Sara will see the same thing I did...
+250:{character:Sara}Oh, it really is... blooming magnificently.
+251:{character:player}Can you see it?
+252:{character:Sara}Yes, I can see it very clearly. A "desert rose" is blooming wildly like flames in the wild, just like what my mother described.
+253:"Yes!" I shout in my mind. Sara understood what I was thinking!
+254:{character:Sara}Did you come here especially to find this place for me?
+255:{character:player}It was just a stroke of luck. I came here when I was accompanying Little Miaow who was walking around and had some thoughts when I saw the camp... Sara, you said you might never find your homeland, but I think your homeland may always be somewhere around you.
+256:"Outsiders" are wandering all the time. They live on the road, and their journey represents their entire life. To such people, maybe homeland doesn't really exist in a traditional sense.
+257:{character:player}I believe desert roses can be in full bloom in more than one place. However, you might not be surrounded by your people who are singing and dancing together or the bonfires that are like blooming desert roses everywhere.
+258:The scenery of their hometown is different in the memories of each "outsider." The only thing in common is how your people accompany each other.
+259:{character:Sara}...Hehe, that does seem to be true.
+260:Sara pours a drink into a glass cup and holds it in front of her. The flames of the campfire dance in the clear liquid.
+261:{character:Sara}This "desert rose" is so beautiful.
+262:{character:player}Yeah.
+263:{character:Sara}Cheers!
+263:{character:player}Cheers!
+264:Sara and I quietly admire the scenery of her "homeland" as the evening breeze caresses our cheeks.
+265:Neither of us speaks. At our feet, Little Miaow stretches and falls asleep...
+266:{character:player}...Let's not disturb her.
+267:Sara once said that we don't need to worry about Little Miaow as she always returns after walking off. She's accompanied us all day, so she deserves some free time to play.
+268:Like Sara said, a group of people partied all night, and I even joined them in the end and played with them until sunrise before resting. After noon, Sara and I watch as they embark on their journey.
+269:On the next day, Soul starts performing again, and I almost miss out on getting a ticket...
+270:{character:Sara}Oh, you're here. Is this... a desert rose?
+271:After the performance on this day, I bring a gift backstage for Sara—a desert rose potted plant.
+272:{character:player}I saw it at the bird and flower market earlier, so I brought it with me.
+273:{character:Sara}It's blooming very magnificently. Thank you.
+274:{character:player}If you like it, I'll bring another one next time... Eventually, maybe you'll have a field of desert roses.
+275:{character:Sara}...Did you give me this because I told you about my "homeland" the other day?
+276:{character:Sara}Thank you for your kindness, but it's too costly for you to watch the performance and bring flowers. I'm already very happy that you come to watch my performance.
+277:{character:player}It's alright, I won't be bringing flowers every time. It's just...
+278:{character:Sara}I'm really happy that you like my dance, but... I don't want to become a burden to you. Is my dancing really worth it for you to try so hard to make my wish come true?
+279:I fall silent for a moment and sort out my thoughts.
+280:{character:player}Sara, you said that one of the reasons you joined the tour performance is so you can find your homeland. If... I can show you the scene of the homeland you've imagined, maybe you won't be in such a rush to find your homeland and embark on a journey.
+281:{character:player}Of course, I know that you'll leave and go to another place with Soul one day. Like I said before, as your fan, I just want to see more of your dancing.
+282:{character:player}Your dancing is worth it for me to try hard to make your wish come true.
+283:I couldn't say it out loud, but the thing is, I've become timid.
+284:The carriage will eventually leave one day. I used to think I was mentally prepared for this, but that short night I spend with the "outsiders" made me realize that some partings can catch you off guard more than you think.
+285:{character:Sara}...It looks like I've become your burden anyway.
+286:{character:player}That's not what I meant...
+287:{character:Sara}Thank you. I'll be looking forward to receiving the next potted plant.
+288:Before I can respond, Sara walks away with the potted plant.
+289:{character:Sara}Hehehe.
+290:I don't know how she's feeling about this in the end, but she should be happy, right?
+291:After that, I would give her desert rose potted plants after her performance from time to time.
+292:Until one afternoon when Sara called me and asked me to go to where the "outsiders" were camped before.
+293:The smoke and flames of that day have long dissipated. In their place is a field of desert rose potted plants.
+294:Sara smiles at my shocked expression.
+295:She's wearing a new dress made from the fabrics we picked together.
+296:As promised, I'm the first to see her dress.
+297:She's also brought a new dance with her.
+298:I sit on the ground and admire her new dance.
+299:At the same time, I don't forget to pick up my camera and take the most beautiful photo of Sara because we promised Lilia that she'll get to see Sara's new dress.
+300:"...Oh, it's a desert rose."
+301:As Sara's mother said, a desert rose is blooming like flames...
+302:A nearby fabric shop in the commercial strip
+304:An open-air market slightly farther away in the suburbs
+305:
+306:I'll feel like I don't belong
+307:I think it's quite romantic
+308:Follow her
+310:Let her do what she wants

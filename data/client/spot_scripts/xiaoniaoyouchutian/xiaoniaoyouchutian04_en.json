@@ -1,0 +1,1038 @@
+[
+  {
+    "line": 17,
+    "text": "player"
+  },
+  {
+    "line": 1121,
+    "text": "The Flower Left in the Corner"
+  },
+  {
+    "line": 1122,
+    "text": "Hearing that a new flower market with a wide variety of plants has opened in One Han City, I immediately think of the person who is always tending to flowers and greenery, and head to the gardening club at the National University of Fuuchi."
+  },
+  {
+    "line": 1123,
+    "text": "Gardening Club, National University of Fuuchi"
+  },
+  {
+    "line": 1124,
+    "text": "The gardening club is rather quiet this weekend, save for a rhythmic clicking. I follow the sound and spot Hinata Takanashi, totally absorbed in photographing a sunflower."
+  },
+  {
+    "line": 1125,
+    "text": "Hinata Takanashi"
+  },
+  {
+    "line": 1126,
+    "text": "Hmm... This angle should capture every single dewdrop on the leaves."
+  },
+  {
+    "line": 1127,
+    "text": "What if I... Oh, the backlight makes it look so adorable!"
+  },
+  {
+    "line": 1129,
+    "text": "Hey, Hinata?"
+  },
+  {
+    "line": 1131,
+    "text": "Found you!"
+  },
+  {
+    "line": 1132,
+    "text": "Whoa?!"
+  },
+  {
+    "line": 1133,
+    "text": "Phew... You scared the life out of me! I almost dropped the camera..."
+  },
+  {
+    "line": 1134,
+    "text": "{var:player_nickname}, what are you doing here on the weekend?"
+  },
+  {
+    "line": 1135,
+    "text": "Were you looking for me? Uh... have I kept you waiting?"
+  },
+  {
+    "line": 1136,
+    "text": "Not at all, I just got here."
+  },
+  {
+    "line": 1137,
+    "text": "I knew I'd find you here."
+  },
+  {
+    "line": 1138,
+    "text": "That's a relief. I'd feel terrible if I'd kept you waiting..."
+  },
+  {
+    "line": 1139,
+    "text": "Hehe, you know me so well."
+  },
+  {
+    "line": 1140,
+    "text": "So these are the new seedlings you've been telling me about?"
+  },
+  {
+    "line": 1141,
+    "text": "Mm-hmm. They always remind me of going to see sunflowers in the countryside with my mom and dad when I was little."
+  },
+  {
+    "line": 1142,
+    "text": "It felt so warm, like the sun was giving me a big hug."
+  },
+  {
+    "line": 1143,
+    "text": "They're so busy lately... so I thought, why not grow my own little slice of sunshine?"
+  },
+  {
+    "line": 1144,
+    "text": "I can definitely see them blooming already."
+  },
+  {
+    "line": 1145,
+    "text": "I know, right? They were so frail when I brought them home, but look at them now! They're total naturals in front of the camera."
+  },
+  {
+    "line": 1146,
+    "text": "I'm going to give them some fresh potting mix after this, so I asked Reina for a little time off. I'll be back at Éternité next weekend, I promise!"
+  },
+  {
+    "line": 1147,
+    "text": "Well, if you're on a break, you wanna hang out with me today?"
+  },
+  {
+    "line": 1148,
+    "text": "I actually came here to invite you to that huge new flower market that just opened."
+  },
+  {
+    "line": 1149,
+    "text": "A flower market? That sounds amazing! I bet there are so many unique plants, but..."
+  },
+  {
+    "line": 1150,
+    "text": "Don't worry about the sunflowers. I'll help you take care of them when we get back!"
+  },
+  {
+    "line": 1151,
+    "text": "Really? Okay then! Thank you so much, {var:player_nickname}!"
+  },
+  {
+    "line": 1152,
+    "text": "Let's get going!"
+  },
+  {
+    "line": 1153,
+    "text": "Whoa... this place is even bigger than I imagined!"
+  },
+  {
+    "line": 1154,
+    "text": "Flower Market"
+  },
+  {
+    "line": 1155,
+    "text": "{var:player_nickname}, look at this Bunny Succulent! It's like tiny bunnies with long ears, isn't it?"
+  },
+  {
+    "line": 1156,
+    "text": "It's a bit on the small side, though... looks like it's starving for some fertilizer. I should tell the owner... but first, let me get a photo of it!"
+  },
+  {
+    "line": 1157,
+    "text": "You really do enjoy giving plants their own photoshoots, don't you?"
+  },
+  {
+    "line": 1158,
+    "text": "Well, they're all so adorable! I feel like every moment of their lives is worth capturing."
+  },
+  {
+    "line": 1159,
+    "text": "And whenever I look back at the pictures, I get to relive all the time I spent with them!"
+  },
+  {
+    "line": 1160,
+    "text": "Let's make today a day to remember, then!"
+  },
+  {
+    "line": 1161,
+    "text": "Eh? You mean you want to take a photo with me? I'd love to!"
+  },
+  {
+    "line": 1162,
+    "text": "If we can, let's include the plants in the photo too. I hope you'll grow fond of them as well."
+  },
+  {
+    "line": 1163,
+    "text": "Let me see what else is on your camera!"
+  },
+  {
+    "line": 1164,
+    "text": "What have you been photographing recently?"
+  },
+  {
+    "line": 1165,
+    "text": "Oh, I've got some really good ones lately!"
+  },
+  {
+    "line": 1166,
+    "text": "Check this out, that's the little bunny succulent from earlier, and here are my sunflower seedlings..."
+  },
+  {
+    "line": 1167,
+    "text": "And this one..."
+  },
+  {
+    "line": 1168,
+    "text": "Uh..."
+  },
+  {
+    "line": 1169,
+    "text": "On the screen is a tiny bonsai tree. Its once-green needles are now covered in dull yellow patches, looking drained of life."
+  },
+  {
+    "line": 1170,
+    "text": "This one is a Buddhist pine. It suffered from major neglect. The roots were waterlogged, which led to a fungal outbreak of anthracnose and leaf blight..."
+  },
+  {
+    "line": 1171,
+    "text": "They brought it to me as a last resort... I read every book I could find and tried everything, but I still couldn't..."
+  },
+  {
+    "line": 1172,
+    "text": "Hinata..."
+  },
+  {
+    "line": 1173,
+    "text": "Anyway, I'm supposed to be having fun with you, {var:player_nickname}! Let's talk about something more cheerful."
+  },
+  {
+    "line": 1174,
+    "text": "Are you sure you're alright?"
+  },
+  {
+    "line": 1175,
+    "text": "I'm okay! It's over and done with. Come on, let's see what else they have!"
+  },
+  {
+    "line": 1176,
+    "text": "Wow, they have everything! Thanksgiving cacti, baseball plants, even lithops... I've got to take some more shots!"
+  },
+  {
+    "line": 1177,
+    "text": "Wait, is that..."
+  },
+  {
+    "line": 1178,
+    "text": "Hey, those succulents have those same black spots you showed me earlier..."
+  },
+  {
+    "line": 1179,
+    "text": "That's terrible... even in a professional shop like this, they're not being taken care of..."
+  },
+  {
+    "line": 1180,
+    "text": "Sigh, how am I ever going to save up enough to buy them all and bring them back home..."
+  },
+  {
+    "line": 1181,
+    "text": "Wait, what am I saying? You brought me here to have a good time. Let's go and..."
+  },
+  {
+    "line": 1182,
+    "text": "???"
+  },
+  {
+    "line": 1183,
+    "text": "What's the deal here?! I want an explanation right now!!"
+  },
+  {
+    "line": 1184,
+    "text": "Sounds like someone's causing a scene."
+  },
+  {
+    "line": 1185,
+    "text": "Let's go check it out!"
+  },
+  {
+    "line": 1186,
+    "text": "Customer"
+  },
+  {
+    "line": 1187,
+    "text": "I've only had this Haworthia cooperi for a few days, and look at it! Why is it shriveling?"
+  },
+  {
+    "line": 1188,
+    "text": "Acting Manager"
+  },
+  {
+    "line": 1189,
+    "text": "My apologies, really... The manager is away, and I'm just filling in as the acting manager..."
+  },
+  {
+    "line": 1190,
+    "text": "This is the one you bought, right? Let me take a look at it..."
+  },
+  {
+    "line": 1191,
+    "text": "Maybe it's just... underwatered? Let's give it some water and see if it helps."
+  },
+  {
+    "line": 1192,
+    "text": "No, don't!"
+  },
+  {
+    "line": 1193,
+    "text": "Huh?! Wh-what?! Who are you, miss...?"
+  },
+  {
+    "line": 1194,
+    "text": "Look at the soil of this Haworthia cooperi – there's white powder in it. And see how the leaves are yellowing?"
+  },
+  {
+    "line": 1195,
+    "text": "It's probably root mealybugs. Watering it now will just make the infestation spread!"
+  },
+  {
+    "line": 1196,
+    "text": "Oh, really?! Wait... you're right! The manager told me about this... I almost made a huge mistake!"
+  },
+  {
+    "line": 1197,
+    "text": "I've got a lot to learn... If I'd ruined these plants because of my own mistake... I don't even want to think about it."
+  },
+  {
+    "line": 1198,
+    "text": "I really owe you one! Is there anything here that catches your eye? Pick any plant you want, on the house! It's the least I can do."
+  },
+  {
+    "line": 1199,
+    "text": "Oh, it was nothing, really. You don't need to do that..."
+  },
+  {
+    "line": 1200,
+    "text": "What about that bunny succulent you were admiring?"
+  },
+  {
+    "line": 1201,
+    "text": "Surely you've earned it!"
+  },
+  {
+    "line": 1202,
+    "text": "Plus, I'm sure the manager would feel much better knowing the plant is in your hands."
+  },
+  {
+    "line": 1203,
+    "text": "Well, if you insist... thank you! I'll just take this little one, if that's okay..."
+  },
+  {
+    "line": 1204,
+    "text": "Really? That little bunny succulent is a bit of a runt... we didn't even think it would sell. Are you sure you don't want something better?"
+  },
+  {
+    "line": 1205,
+    "text": "That's okay! I'll take good care of it and make sure it grows big and strong!"
+  },
+  {
+    "line": 1206,
+    "text": "Well then, it's all yours. This little one is lucky to have someone like you. Come back anytime!"
+  },
+  {
+    "line": 1207,
+    "text": "Shall we see what else the market has to offer?"
+  },
+  {
+    "line": 1208,
+    "text": "You bet! There are so many more plants I want to see while we're here!"
+  },
+  {
+    "line": 1209,
+    "text": "Alright, let's – wait a second. Is that who I think it is?"
+  },
+  {
+    "line": 1210,
+    "text": "Sawako Kitami"
+  },
+  {
+    "line": 1211,
+    "text": "Oh! What a pleasant surprise."
+  },
+  {
+    "line": 1212,
+    "text": "Mrs. Kitami! I didn't expect to see you here!"
+  },
+  {
+    "line": 1213,
+    "text": "What brings you to the flower market today, Mrs. Kitami?"
+  },
+  {
+    "line": 1214,
+    "text": "Well, the basil I was growing at home got some kind of mold... I had to toss it, which is such a shame for my cooking."
+  },
+  {
+    "line": 1215,
+    "text": "So I'm looking for a replacement. This one looks nice and lively. I'm sure the sauce will be wonderful!"
+  },
+  {
+    "line": 1216,
+    "text": "You are making sauce with it?"
+  },
+  {
+    "line": 1217,
+    "text": "Mm-hmm! You can make a lovely pesto with basil leaves. It goes so well with meat!"
+  },
+  {
+    "line": 1218,
+    "text": "I'm still a bit worried, though. If I can't figure out what happened to my last one, I'm afraid I'll lose this one too..."
+  },
+  {
+    "line": 1219,
+    "text": "Mold, huh? Yeah, that happens a lot with herbs."
+  },
+  {
+    "line": 1220,
+    "text": "It's probably gray mold or powdery mildew. I wish I could have seen it in person to be sure..."
+  },
+  {
+    "line": 1221,
+    "text": "But please, Mrs. Kitami, if you ever have any more plant troubles, you're always welcome to ask me!"
+  },
+  {
+    "line": 1222,
+    "text": "Haha, I'll keep that in mind! Thank you."
+  },
+  {
+    "line": 1223,
+    "text": "I kind of thought you'd be a bit sad about plants being used for food, Hinata."
+  },
+  {
+    "line": 1224,
+    "text": "Not at all! My grandma used to say that plants grow up so they can be useful. As long as they're appreciated, they're happy."
+  },
+  {
+    "line": 1225,
+    "text": "It's much better than just being thrown out and forgotten."
+  },
+  {
+    "line": 1226,
+    "text": "Oh, I feel exactly the same way! Respecting your ingredients is the secret to a truly delicious meal."
+  },
+  {
+    "line": 1227,
+    "text": "Oh, I should get some mint too! I've been meaning to make some mint sauce."
+  },
+  {
+    "line": 1228,
+    "text": "Mint sauce? I've always wanted to try that! Mrs. Kitami, would you mind teaching me?"
+  },
+  {
+    "line": 1229,
+    "text": "Sure thing! If you'll be my \"gardening consultant,\" I'll be your \"cooking consultant.\" Haha!"
+  },
+  {
+    "line": 1230,
+    "text": "What a powerful team..."
+  },
+  {
+    "line": 1231,
+    "text": "I'm going to make mint sauce this weekend. You and {var:player_nickname} should definitely come by in the afternoon!"
+  },
+  {
+    "line": 1232,
+    "text": "Thank you, Mrs. Kitami!"
+  },
+  {
+    "line": 1233,
+    "text": "Thanks, Mrs. Kitami!"
+  },
+  {
+    "line": 1234,
+    "text": "Sounds like a plan, then! I'll see you both soon.//nExcuse me, I'd like to pay for these!"
+  },
+  {
+    "line": 1235,
+    "text": "And there she goes..."
+  },
+  {
+    "line": 1236,
+    "text": "I can't wait to try Mrs. Kitami's food."
+  },
+  {
+    "line": 1237,
+    "text": "Ugh... I had a whole list of things I wanted to ask her about in my head..."
+  },
+  {
+    "line": 1238,
+    "text": "Her ability in the kitchen is amazing..."
+  },
+  {
+    "line": 1239,
+    "text": "You take really good care of others too, Hinata."
+  },
+  {
+    "line": 1240,
+    "text": "You're just as amazing in your own way, Hinata."
+  },
+  {
+    "line": 1241,
+    "text": "Eh...!"
+  },
+  {
+    "line": 1242,
+    "text": "Because even with all these adorable plants around, you didn't get distracted."
+  },
+  {
+    "line": 1243,
+    "text": "You were still thinking about the gardening club and that little bunny succulent. You really care about every single one of them."
+  },
+  {
+    "line": 1244,
+    "text": "Mm-hmm! If I'm going to take them in, I have to be there for them!"
+  },
+  {
+    "line": 1245,
+    "text": "I'm here to help if you ever need a hand!"
+  },
+  {
+    "line": 1246,
+    "text": "Those plants are so lucky to have you."
+  },
+  {
+    "line": 1247,
+    "text": "Oh! You're so sweet, {var:player_nickname}!"
+  },
+  {
+    "line": 1248,
+    "text": "Whether in the cafe or the gardening club, you're always helping me out. I hope I'm not being too much of a burden..."
+  },
+  {
+    "line": 1249,
+    "text": "Hey, when you're free, let's go on a picnic sometime. I'll make the sandwiches!"
+  },
+  {
+    "line": 1250,
+    "text": "I'm happy to help, but those sandwiches sound like a great bonus!"
+  },
+  {
+    "line": 1251,
+    "text": "Awesome, it's settled! Let's get moving. There's still so much of the market left to see!"
+  },
+  {
+    "line": 1252,
+    "text": "Th-thank you for the compliment, {var:player_nickname}..."
+  },
+  {
+    "line": 1253,
+    "text": "I just want to do my best for them and be there whenever they need me..."
+  },
+  {
+    "line": 1254,
+    "text": "Just like how I love spending time with my parents and my grandma."
+  },
+  {
+    "line": 1255,
+    "text": "And honestly... I'm just happy to be by your side right now, {var:player_nickname}."
+  },
+  {
+    "line": 1256,
+    "text": "Whew... there's still so much to see. Let's head that way!"
+  },
+  {
+    "line": 1257,
+    "text": "..."
+  },
+  {
+    "line": 1258,
+    "text": "Everything okay? Why'd you stop?"
+  },
+  {
+    "line": 1259,
+    "text": "That new little bunny succulent... and those poor plants in the market..."
+  },
+  {
+    "line": 1260,
+    "text": "Ugh... It feels like my list of plants to rescue and care for is growing faster than I can keep up with..."
+  },
+  {
+    "line": 1261,
+    "text": "I get it. To you, saving a sick plant is more important than just getting a new one."
+  },
+  {
+    "line": 1262,
+    "text": "You got me there, {var:player_nickname}. Was it that obvious?"
+  },
+  {
+    "line": 1263,
+    "text": "I've been watching you the whole time."
+  },
+  {
+    "line": 1264,
+    "text": "I know you pretty well by now."
+  },
+  {
+    "line": 1265,
+    "text": "Sorry, I didn't mean to..."
+  },
+  {
+    "line": 1266,
+    "text": "Why apologize?"
+  },
+  {
+    "line": 1267,
+    "text": "I know we were supposed to be having a great time together, but..."
+  },
+  {
+    "line": 1268,
+    "text": "Seeing those sick plants just makes my heart ache. It's like I can't breathe..."
+  },
+  {
+    "line": 1269,
+    "text": "I know it's unusual to treat plants like they're my own children... You probably think I'm weird, right?"
+  },
+  {
+    "line": 1270,
+    "text": "There's nothing weird about it, Hinata."
+  },
+  {
+    "line": 1271,
+    "text": "D-do you really mean that?"
+  },
+  {
+    "line": 1272,
+    "text": "I've seen how hard you study and how much love you put into every single plant."
+  },
+  {
+    "line": 1273,
+    "text": "You're just doing what makes you happy and being kind to living things. That's a wonderful quality, not a weird one."
+  },
+  {
+    "line": 1274,
+    "text": "You really think so, {var:player_nickname}?"
+  },
+  {
+    "line": 1275,
+    "text": "Even if I have a dream that might be a little unrealistic...?"
+  },
+  {
+    "line": 1276,
+    "text": "Absolutely."
+  },
+  {
+    "line": 1277,
+    "text": "Whatever the dream is, it's okay."
+  },
+  {
+    "line": 1278,
+    "text": "If you really believe in me, {var:player_nickname}, then I think I can find the courage to say it..."
+  },
+  {
+    "line": 1279,
+    "text": "There's something I've always wanted to do..."
+  },
+  {
+    "line": 1280,
+    "text": "I want to open a shop that's more than just a store. I want it to be a \"plant nursery.\""
+  },
+  {
+    "line": 1281,
+    "text": "I'd take in all the sick and abandoned plants and care for them until they're strong enough to find a new home with someone who truly loves them."
+  },
+  {
+    "line": 1282,
+    "text": "Just like my grandma used to do."
+  },
+  {
+    "line": 1283,
+    "text": "When I was a kid, no one knew how to take care of my grandma's bonsai trees after she was gone. My parents almost got rid of them... it was heartbreaking."
+  },
+  {
+    "line": 1284,
+    "text": "I don't want any other plant to have to go through that."
+  },
+  {
+    "line": 1285,
+    "text": "So I want to build a place like that. A home where every plant, no matter how small, gets a second chance."
+  },
+  {
+    "line": 1286,
+    "text": "I'm working hard to save up for it, but that means I have to be realistic and pass on these sick plants we just saw for now."
+  },
+  {
+    "line": 1287,
+    "text": "But if I just walk away, what's the point of my dream in the first place?"
+  },
+  {
+    "line": 1288,
+    "text": "{var:player_nickname}... I feel like I'm failing before I've even started. What should I do?"
+  },
+  {
+    "line": 1289,
+    "text": "I've got an idea that might work."
+  },
+  {
+    "line": 1290,
+    "text": "Forget about the money. I'll help you take care of them!"
+  },
+  {
+    "line": 1291,
+    "text": "Wait, really?"
+  },
+  {
+    "line": 1292,
+    "text": "You've got a lot on your plate, but you don't have to do it alone. I'll be your partner."
+  },
+  {
+    "line": 1293,
+    "text": "{var:player_nickname}..."
+  },
+  {
+    "line": 1294,
+    "text": "You're totally right. I was getting so caught up in the \"future\" that I forgot the \"now.\""
+  },
+  {
+    "line": 1295,
+    "text": "I've got the dream, and I've got your help. Time to stop doubting and start doing!"
+  },
+  {
+    "line": 1296,
+    "text": "Let's go, {var:player_nickname}! Let's get those little ones back to the \"nursery\"!"
+  },
+  {
+    "line": 1297,
+    "text": "After you–"
+  },
+  {
+    "line": 1298,
+    "text": "It's late already! Those poor plants in the corner need us – run, run, run!"
+  },
+  {
+    "line": 1299,
+    "text": "Before I can react, Hinata suddenly grabs my hand and starts running back toward the shop we just left."
+  },
+  {
+    "line": 1300,
+    "text": "You're way stronger than you look! Even if you just tried to walk out with all those plants earlier, no one could've stopped you..."
+  },
+  {
+    "line": 1301,
+    "text": "Easy there, Hinata! Save some strength, or we'll be too tired to carry the plants back!"
+  },
+  {
+    "line": 1302,
+    "text": "I know! Just a little longer, everyone! I'm coming for you!"
+  },
+  {
+    "line": 1303,
+    "text": "Oh, you again? Did you forget something?"
+  },
+  {
+    "line": 1304,
+    "text": "Phew... Please... let me... have that one!"
+  },
+  {
+    "line": 1305,
+    "text": "Which one are you talking about?"
+  },
+  {
+    "line": 1306,
+    "text": "I'll take those ones over there..."
+  },
+  {
+    "line": 1307,
+    "text": "And I'm taking these too!"
+  },
+  {
+    "line": 1308,
+    "text": "These sick ones? Are you sure? That's like... a dozen pots."
+  },
+  {
+    "line": 1309,
+    "text": "Absolutely! Please, let me give them the care they need!"
+  },
+  {
+    "line": 1310,
+    "text": "W-well, I can't say no to that kind of passion. Since you're doing me a favor, I'll give you a discount. It's a pleasure doing business with you!"
+  },
+  {
+    "line": 1311,
+    "text": "By the time the last sick plant was settled in the gardening club, it was already pitch black outside."
+  },
+  {
+    "line": 1312,
+    "text": "Phew... That's the last one. Everyone's in a new pot now."
+  },
+  {
+    "line": 1313,
+    "text": "That's a whole lot of plants we just hauled in..."
+  },
+  {
+    "line": 1314,
+    "text": "..."
+  },
+  {
+    "line": 1315,
+    "text": "Uh oh."
+  },
+  {
+    "line": 1316,
+    "text": "You're only realizing it now?!"
+  },
+  {
+    "line": 1317,
+    "text": "No turning back now, Hinata!"
+  },
+  {
+    "line": 1318,
+    "text": "It took four whole hours just to repot, spray, and tag everything..."
+  },
+  {
+    "line": 1319,
+    "text": "And that was just the emergency stuff. We still have to check on them every single day..."
+  },
+  {
+    "line": 1320,
+    "text": "{var:player_nickname}... what are we going to do? I think we bit off more than we can chew..."
+  },
+  {
+    "line": 1321,
+    "text": "Don't worry. We'll do this together."
+  },
+  {
+    "line": 1322,
+    "text": "Looks like we'll need some extra hands..."
+  },
+  {
+    "line": 1323,
+    "text": "Sigh... Next time, I won't get so carried away."
+  },
+  {
+    "line": 1324,
+    "text": "{var:player_nickname}... You've got to stop me if I try this again!"
+  },
+  {
+    "line": 1325,
+    "text": "Sure, but I'll need to hit the gym first to be strong enough to stop you. But right now..."
+  },
+  {
+    "line": 1326,
+    "text": "There's no turning back. Let's make this work, Hinata!"
+  },
+  {
+    "line": 1327,
+    "text": "Really?! {var:player_nickname}, do you have a plan? Tell me!"
+  },
+  {
+    "line": 1328,
+    "text": "Use that big brain of yours!"
+  },
+  {
+    "line": 1329,
+    "text": "We could reach out to everyone in One Han City!"
+  },
+  {
+    "line": 1330,
+    "text": "If we start a CatChat account to show everyone how to nurse plants back to health..."
+  },
+  {
+    "line": 1331,
+    "text": "It would save so many plants without you having to carry them all back here!"
+  },
+  {
+    "line": 1332,
+    "text": "You can't run a nursery alone. You need a whole team of \"specialists\" and \"caretakers\" out there!"
+  },
+  {
+    "line": 1333,
+    "text": "I get it! You want me to teach others so they can become \"specialists\" at saving plants, too!"
+  },
+  {
+    "line": 1334,
+    "text": "That way... we can save so many more lives than I ever could alone!"
+  },
+  {
+    "line": 1335,
+    "text": "Exactly! And to make sure people see it... we might need some \"professional\" help."
+  },
+  {
+    "line": 1336,
+    "text": "Professional help?"
+  },
+  {
+    "line": 1337,
+    "text": "Yeah, someone who's a total \"mega influencer\" in One Han City."
+  },
+  {
+    "line": 1338,
+    "text": "Hibiki Himekawa"
+  },
+  {
+    "line": 1339,
+    "text": "My schedule is packed with fans, you know. Saying yes to you is a huge favor, so don't forget that gift you owe me!"
+  },
+  {
+    "line": 1340,
+    "text": "So, is this cute little \"noob\" the one you were talking about?"
+  },
+  {
+    "line": 1341,
+    "text": "Whoa, it's actually her... Hibiki Himekawa! Um, hi... I'm Hinata Takanashi..."
+  },
+  {
+    "line": 1342,
+    "text": "Yes. We're starting a CatChat account for plant care, and we need a professional like you to give it a boost."
+  },
+  {
+    "line": 1343,
+    "text": "Seriously? My stream is a sanctuary for hardcore gaming and legit entertainment, and you want me to promote... what, gardening?"
+  },
+  {
+    "line": 1344,
+    "text": "I guess that's a no...?"
+  },
+  {
+    "line": 1345,
+    "text": "But, {var:player_nickname} showed me your photos. I have to admit, your photography skills and plant knowledge are \"hardcore\" in their own way..."
+  },
+  {
+    "line": 1346,
+    "text": "So, I'll give you guys a shot. We'll do a collab stream: \"Emergency Plant Rescue for My Chat\"!"
+  },
+  {
+    "line": 1347,
+    "text": "But if this is all just a marketing stunt and you mess up, you're gonna get roasted."
+  },
+  {
+    "line": 1348,
+    "text": "No problem!"
+  },
+  {
+    "line": 1349,
+    "text": "If it's for the plants... you can count on me!"
+  },
+  {
+    "line": 1350,
+    "text": "Viewer A"
+  },
+  {
+    "line": 1351,
+    "text": "Help me, Doc! Is this little guy gonna make it? I can't play my games without my plant bro!"
+  },
+  {
+    "line": 1352,
+    "text": "Live in Hibiki's Stream"
+  },
+  {
+    "line": 1353,
+    "text": "It's leaf scorch. Did you spill soda or something in there? Plants need clean water just like we do!"
+  },
+  {
+    "line": 1354,
+    "text": "Viewer B"
+  },
+  {
+    "line": 1355,
+    "text": "My orchid just went totally limp. What's wrong with it, Doc?"
+  },
+  {
+    "line": 1356,
+    "text": "That's stem rot. You're gonna have to do some surgery and cut away those bad parts. Trust the process. Plants are tougher than they look!"
+  },
+  {
+    "line": 1357,
+    "text": "Then grab some fungicide spray from the store. Use just a little bit, nice and even. I'll write the instructions down so you can take a screenshot!"
+  },
+  {
+    "line": 1358,
+    "text": "Viewer C"
+  },
+  {
+    "line": 1359,
+    "text": "LMAO Hibiki is just standing there like an NPC. The fans are gonna love this!"
+  },
+  {
+    "line": 1360,
+    "text": "Viewer D"
+  },
+  {
+    "line": 1361,
+    "text": "This plant expert is actually legit. No wonder Hibiki recommended her."
+  },
+  {
+    "line": 1362,
+    "text": "I'm reading the chat, you know! Say another word and you're banned for life!"
+  },
+  {
+    "line": 1363,
+    "text": "{var:player_nickname}! We're blowing up! Look at all these new followers!"
+  },
+  {
+    "line": 1364,
+    "text": "I didn't realize there were so many plants in One Han City waiting for someone to help them."
+  },
+  {
+    "line": 1365,
+    "text": "People are even coming to adopt the little ones from the club! I'm so glad we did this."
+  },
+  {
+    "line": 1366,
+    "text": "I never could have built this huge team of plant rescuers without you, {var:player_nickname}."
+  },
+  {
+    "line": 1367,
+    "text": "Thank you for giving me the strength to follow my dream!"
+  },
+  {
+    "line": 1368,
+    "text": "You're doing great, \"Professor\" Hinata...!"
+  },
+  {
+    "line": 1369,
+    "text": "P-professor...? Oh, I still have a lot to learn!"
+  },
+  {
+    "line": 1370,
+    "text": "The bunny succulent – the one that witnessed the birth of the nursery – is sitting in the sun right now. It's still a bit small, but those \"bunny ears\" look so cute and healthy."
+  },
+  {
+    "line": 1371,
+    "text": "Look, {var:player_nickname}! I think it's finally starting to grow!"
+  },
+  {
+    "line": 1372,
+    "text": "Well, it does have the best caretaker in the world looking after it."
+  },
+  {
+    "line": 1373,
+    "text": "Stop, you're making me blush!"
+  },
+  {
+    "line": 1374,
+    "text": "Hinata blushes, then seems to remember something. She gently places the little bunny succulent in my palm and picks up her camera."
+  },
+  {
+    "line": 1375,
+    "text": "{var:player_nickname}, let's take a picture for our account's profile photo!"
+  },
+  {
+    "line": 1376,
+    "text": "After all, this little one saw everything from the start... and this \"nursery\" is something we built together."
+  },
+  {
+    "line": 1377,
+    "text": "Sure!"
+  },
+  {
+    "line": 1378,
+    "text": "I'd be happy to."
+  },
+  {
+    "line": 1379,
+    "text": "Later, the CatChat named \"Sprout Nursery\" updated its profile picture: a photo of two hands cupped together, cradling a lovingly tended bunny succulent."
+  },
+  {
+    "line": 1380,
+    "text": "Now, in a sunny corner, that little plant is growing strong, dreaming of the next spring and all the possibilities ahead."
+  }
+]

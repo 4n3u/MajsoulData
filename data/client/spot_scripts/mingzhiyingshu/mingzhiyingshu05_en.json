@@ -1,0 +1,1402 @@
+[
+  {
+    "line": 1,
+    "text": "Beep beep- Beep beep-"
+  },
+  {
+    "line": 2,
+    "text": "It is a morning on the weekend, and my alarm clock is working uncharacteristically hard playing my ringtone clearly in the quiet room. I sit up while rubbing my sleepy eyes and look at the calendar on the wall in a daze. The bright red mark on it jumps out at me, waking me up instantly."
+  },
+  {
+    "line": 3,
+    "text": "player"
+  },
+  {
+    "line": 4,
+    "text": "{character:player}Oh right! I'm going to the stud farm with Hideki today!"
+  },
+  {
+    "line": 5,
+    "text": "There are no stud farms in any of the areas that I visit daily. The reason we're meeting there is..."
+  },
+  {
+    "line": 6,
+    "text": "All the members of the mahjong club start leaving after the club activities end. Seeing that Hideki needs to tidy up our club room, I offer to help him take photos of today's handwritten mahjong records for easy archiving."
+  },
+  {
+    "line": 7,
+    "text": "Before I can ask him what I should use to take the photos, Hideki unlocks his phone and hands it to me."
+  },
+  {
+    "line": 8,
+    "text": "{character:player}President, do you trust me that much? Aren't you worried I take this chance to spy on the secrets in your phone?"
+  },
+  {
+    "line": 9,
+    "text": "Hideki Akechi"
+  },
+  {
+    "line": 10,
+    "text": "{character:Hideki Akechi}I thought I don't have any more secrets in front of you?"
+  },
+  {
+    "line": 11,
+    "text": "Although it sounds a little funny, I guess... he's not wrong about that. I touch my nose and focus on taking photos with his phone. After about 20 minutes, I finally manage to take photos of a thick pile of paper."
+  },
+  {
+    "line": 12,
+    "text": "{character:player}You really have your work cut out for you as the club president..."
+  },
+  {
+    "line": 13,
+    "text": "{character:Hideki Akechi}It won't be long now. Thank you for helping out. You can sit over there and take a break."
+  },
+  {
+    "line": 14,
+    "text": "{character:player}Haha, Thanks."
+  },
+  {
+    "line": 15,
+    "text": "I lean back on a chair and check each photo I just took of the logs to see if any of them are off-focus. There are so many photos that I end up swiping the screen almost mechanically with my finger. In a trance, I finish checking all of today's photos and a photo Hideki took appears in front of me on the screen."
+  },
+  {
+    "line": 16,
+    "text": "{character:player}This is...?"
+  },
+  {
+    "line": 17,
+    "text": "The background of the photo is a lush green field, and there are three people standing on an award platform. Hideki Akechi, the protagonist of the photo, is holding up a trophy and smiling in a way that he has hardly smiled in the twenty years of his life."
+  },
+  {
+    "line": 18,
+    "text": "According to the timestamp on the photo, this photo was taken four years ago. It must be an important memory to Hideki if he has especially saved it to his phone's photo album."
+  },
+  {
+    "line": 19,
+    "text": "I stare at this photo in a daze until Hideki comes over to me after finishing tidying up."
+  },
+  {
+    "line": 20,
+    "text": "{character:Hideki Akechi}Ahem, this is a photo that was taken when I participated in an equestrian competition. Both my mom and dad were busy with work and couldn't come with me, so my coach insisted on taking this photo so they can get feel the atmosphere of this moment."
+  },
+  {
+    "line": 21,
+    "text": "{character:player}I remember that all participants of the eventing and show jumping competitions must be at least 18 years old..."
+  },
+  {
+    "line": 22,
+    "text": "{character:Hideki Akechi}That's the requirement for large international competitions, but I participated in a municipal youth dressage competition, which is open to participants who are over 14 years old."
+  },
+  {
+    "line": 23,
+    "text": "{character:Hideki Akechi}Actually, I started learning equestrianism because my father wanted me to, but I fell in love with this sport as my training progressed. Time always passed so quickly when I was on horseback, and the training usually didn't stop until it was completely dark."
+  },
+  {
+    "line": 24,
+    "text": "{character:player}I see."
+  },
+  {
+    "line": 25,
+    "text": "I nod in understanding and instantly accept the character setting of gentleman and equestrian."
+  },
+  {
+    "line": 26,
+    "text": "{character:player}Hideki, do you still practice equestrianism? Can I watch you in person?"
+  },
+  {
+    "line": 27,
+    "text": "{character:Hideki Akechi}I'm sorry but I'll have to disappoint you. My grandma fell ill soon after I won the youth dressage competition, and my father enrolled me in lots of courses at the same time, so I had a lot less time to train."
+  },
+  {
+    "line": 28,
+    "text": "{character:Hideki Akechi}Although I was really reluctant, after thinking about it for a while, I decided to give up on my equestrian training temporarily to free up more time to learn other things."
+  },
+  {
+    "line": 29,
+    "text": "{character:player}What a shame... You might even be participating in international competitions by now if you didn't give up."
+  },
+  {
+    "line": 30,
+    "text": "{character:Hideki Akechi}You're quite confident in me, aren't you, {var:player_nickname}?"
+  },
+  {
+    "line": 31,
+    "text": "His blue eyes form beautiful crescents when he smiles, but something seems missing, which gives me the feeling of regret and sadness. Although Hideki hasn't said much about the topic, I can feel that he misses the time when he practiced equestrianism."
+  },
+  {
+    "line": 32,
+    "text": "It's inevitable to have regrets if you're forced to give up something you love. I look at the photo again and thoughtfully give Hideki some time to hide his emotions."
+  },
+  {
+    "line": 33,
+    "text": "{character:player}Oh, who's this person?"
+  },
+  {
+    "line": 34,
+    "text": "In the photo, the young rider standing on the right side of Hideki is frowning like the \"unhappy\" emoji, expressing his displeasure clearly for everyone to see."
+  },
+  {
+    "line": 35,
+    "text": "{character:Hideki Akechi}This is Levine, who was one of the leading contestants to win this competition, and he also thought he would definitely win. When the judges announced the scores, and he found out I got 0.5 more points than him, he became so furious that even the coach was like walking on eggshells when talking to him."
+  },
+  {
+    "line": 36,
+    "text": "{character:player}Oh, so he's a \"Mr. Unhappy\" then."
+  },
+  {
+    "line": 37,
+    "text": "{character:Hideki Akechi}\"Mr. Unhappy?\" Haha, {var:player_nickname}, you always have unique and strangely suitable insights."
+  },
+  {
+    "line": 38,
+    "text": "{character:Hideki Akechi}I heard that he asked the coach to give him more intensive training after that competition, and he basically ate and sleep with his horse to develop a deeper connection with him, all so that he can beat me and win the next competition."
+  },
+  {
+    "line": 39,
+    "text": "{character:player}What happened after that? Did he succeed?"
+  },
+  {
+    "line": 40,
+    "text": "{character:Hideki Akechi}After that... You pretty much know what happened. I gave up equestrianism for various reasons, so we never competed again. I did meet him again a few times after that, but I think I've... become someone he dislikes."
+  },
+  {
+    "line": 41,
+    "text": "{character:player}Is he still upset because he couldn't beat you?"
+  },
+  {
+    "line": 42,
+    "text": "{character:Hideki Akechi}It may look like that on the surface, but..."
+  },
+  {
+    "line": 43,
+    "text": "For once, Hideki disagrees with my point of view. He shakes his head, loosening strands of blond hair that partially cover his bright blue eyes."
+  },
+  {
+    "line": 44,
+    "text": "{character:Hideki Akechi}The reason he's like this isn't that he is sour about losing to me but because of my situation."
+  },
+  {
+    "line": 45,
+    "text": "{character:player}Huh?"
+  },
+  {
+    "line": 46,
+    "text": "{character:Hideki Akechi}He thinks it's really sad that I gave up on equestrianism even though I have the ability to be good at it, but he can't express himself properly due to his personality."
+  },
+  {
+    "line": 47,
+    "text": "{character:Hideki Akechi}At the end of the day, Levine really loves equestrianism."
+  },
+  {
+    "line": 48,
+    "text": "The serious way in which Hideki explains this to me makes me aware that he doesn't dislike this \"rival\" of his. In fact, he even wants to become friends with him."
+  },
+  {
+    "line": 49,
+    "text": "If he can't personally gallop on the racetracks, being able to find someone who really loves this sport to gallop there on his behalf would be a wonderful thing. This is perfectly in line with Hideki's personality."
+  },
+  {
+    "line": 50,
+    "text": "{character:Hideki Akechi}Although I stopped doing equestrianism training, I can still give you the chance to get in close contact with the horses."
+  },
+  {
+    "line": 51,
+    "text": "{character:player}!!!"
+  },
+  {
+    "line": 52,
+    "text": "{character:player}Does that mean what I think it means?"
+  },
+  {
+    "line": 53,
+    "text": "{character:Hideki Akechi}Yes, the horse that won the competition with me is still living on a racecourse in the suburbs of One Han City. I'm visiting it this weekend, so you can come with me if you're interested."
+  },
+  {
+    "line": 54,
+    "text": "{character:player}Of course I'm interested! It's decided then. See you on the weekend!"
+  },
+  {
+    "line": 55,
+    "text": "That's the end of my flashback. I look up at the clock on the wall and see that it's almost seven o'clock."
+  },
+  {
+    "line": 56,
+    "text": "Given my understanding of Hideki, he usually arrives earlier than agreed. With this in mind, I get up quickly so that I won't be late."
+  },
+  {
+    "line": 57,
+    "text": "Compared with the congested city center, the suburbs are far quieter. Free from car exhaust pollution, the mixture of fresh air with the faint fragrance of grass and trees smells refreshing and comfortable."
+  },
+  {
+    "line": 58,
+    "text": "As it turns out, my understanding of Hideki is spot on. When we meet at the entrance of the racecourse half an hour earlier than we agreed, I'm really glad that I decided to leave home early."
+  },
+  {
+    "line": 59,
+    "text": "{character:player}Hideki, good morning!"
+  },
+  {
+    "line": 60,
+    "text": "{character:Hideki Akechi}Good morning, {var:player_nickname}. To minimize the disruption to the schedule of the horses, I chose to meet you here in the morning. I hope this didn't inconvenience you that much."
+  },
+  {
+    "line": 61,
+    "text": "{character:player}Although I really didn't want to get out of my comfortable bed, I woke up immediately when I thought about the fact that I'll be able to get in close contact with horses. Speaking of it, if you didn't tell me the address, I would never have realized that there is such a large racecourse in the suburbs of One Han City."
+  },
+  {
+    "line": 62,
+    "text": "{character:Hideki Akechi}This racecourse runs on a membership model and is mostly promoted in the form of recommendations by members. No advertisements are placed in the city, so it's normal for you to not know about it."
+  },
+  {
+    "line": 63,
+    "text": "After I follow Hideki into the racecourse, I am shocked by the magnificent reception hall in front of me that is big enough to accommodate hundreds of people and very vibrantly colored, reflecting the unrestrained charm of nature everywhere."
+  },
+  {
+    "line": 64,
+    "text": "In the lobby reception hall, exquisite artworks are placed every few steps, some of which have appeared on TV before. Although I don't remember their names, I clearly remember the trail of zeroes in the price."
+  },
+  {
+    "line": 65,
+    "text": "Not to mention, there is a huge painting of eight horses hanging on the wall..."
+  },
+  {
+    "line": 66,
+    "text": "{character:player}Is this painting the \"Eight Galloping Horses\" that I heard was sold for one billion Coppers on the news?"
+  },
+  {
+    "line": 67,
+    "text": "{character:Hideki Akechi}This is the last painting of Mr. Hongzhi. He announced that he would retire after this piece. Whether it is out of genuine love or for investment purposes, many collectors wanted this painting. Mr. Hongzhi was unhappy with the conflicts that arose over the painting, so the racecourse owner managed to get this painting in the end."
+  },
+  {
+    "line": 68,
+    "text": "{character:player}Placing \"Eight Galloping Horses\" here is a good choice. Mr. Hongzhi would be happy to know that."
+  },
+  {
+    "line": 69,
+    "text": "I look around me. There are exquisite works of art, paintings created by famous artists, and a luxurious reception hall... Everything around me tells me that things must be very expensive at this racecourse. Not to mention, it must cost a fortune to raise your own horse in an independent stable here."
+  },
+  {
+    "line": 70,
+    "text": "From how Hideki would often buy afternoon tea for the club members during club activities on weekdays, I vaguely sensed that his family must be well off, but I never expected them to be this well off."
+  },
+  {
+    "line": 71,
+    "text": "In front of me, Hideki seems to be used to seeing all this. He stops and turns to ask me a question."
+  },
+  {
+    "line": 72,
+    "text": "{character:Hideki Akechi}Since this is your first time here, would you like me to show you around? Or do you have anything else in mind?"
+  },
+  {
+    "line": 73,
+    "text": "{character:player}I want to see your horse, Hideki—the one that you won the competition with."
+  },
+  {
+    "line": 74,
+    "text": "Hideki came here to visit his horse, so he gladly agrees to my request. After walking a certain distance, we arrive at the stables."
+  },
+  {
+    "line": 75,
+    "text": "*Neigh* The moment we arrive at the doors of the stables, we are greeted by the excited neighing of the horse, as if he already knew his owner had arrived and was greeting him in advance."
+  },
+  {
+    "line": 76,
+    "text": "{character:player}He knows you're here before he sees you. Is this the spiritual connection between an equestrian and his horse?"
+  },
+  {
+    "line": 77,
+    "text": "{character:Hideki Akechi}Haha, he just heard us chatting. Horses recognize their owners with their ears, not their eyes."
+  },
+  {
+    "line": 78,
+    "text": "As we speak, Hideki takes me into the stables. It's spacious, clean, and airy in here, and there's plenty of feed in the manger. Straw is even specially laid under the horse's feet. Even a person who knows nothing about horses knows that this horse is very well cared for."
+  },
+  {
+    "line": 79,
+    "text": "Now that I can finally see the horse, I see that it is pure white with a long loose mane. It is well-proportioned, but its strength can be seen at a glance."
+  },
+  {
+    "line": 80,
+    "text": "\"No wonder everyone loves prince charming who rides a white horse.\" When I imagine this steed and Hideki appearing at the same time, I find myself thinking this."
+  },
+  {
+    "line": 81,
+    "text": "{character:Hideki Akechi}Don't be afraid. He's very gentle and won't hurt you, so you can stand a little closer."
+  },
+  {
+    "line": 82,
+    "text": "{character:player}Thanks, I'm just a little astonished... by how beautiful he is. This is the most beautiful horse I've ever seen!"
+  },
+  {
+    "line": 83,
+    "text": "*Snort* A streak of silver flashes before my eyes as the horse snorts suddenly and flicks his long tail gently."
+  },
+  {
+    "line": 84,
+    "text": "{character:Hideki Akechi}Silver Snow, you can't be rude like that."
+  },
+  {
+    "line": 85,
+    "text": "The tall horse lowers his head and makes an aggrieved expression after Hideki scolds him gently."
+  },
+  {
+    "line": 86,
+    "text": "{character:player}His name is Silver Snow? What a beautiful name. Um, did I do something to make him unhappy just then?"
+  },
+  {
+    "line": 87,
+    "text": "{character:Hideki Akechi}It's probably because you said he is beautiful and not handsome. Silver Snow is a stallion and is obsessed with being called handsome."
+  },
+  {
+    "line": 88,
+    "text": "{character:player}What?! He understands what I'm saying?"
+  },
+  {
+    "line": 89,
+    "text": "{character:Hideki Akechi}The IQ of an adult horse is equivalent to that of a six-year-old child. They are curious about the world and learn by imitating everything. When they are unhappy, they will throw a small tantrum and wait for someone to coax them, so don't look down on horses."
+  },
+  {
+    "line": 90,
+    "text": "{character:player}Sorry, Silver Snow. I praised you with the wrong word earlier. You're the most handsome horse I've ever seen!"
+  },
+  {
+    "line": 91,
+    "text": "Silver Snow"
+  },
+  {
+    "line": 92,
+    "text": "{character:Silver Snow}*Neigh—*"
+  },
+  {
+    "line": 92,
+    "text": "{character:Steed}*Neigh—*"
+  },
+  {
+    "line": 92,
+    "text": "{character:Shining Night}*Neigh—*"
+  },
+  {
+    "line": 92,
+    "text": "{character:Shadow Conqueror}*Neigh—*"
+  },
+  {
+    "line": 93,
+    "text": "Silver Snow neighs happily. Although we don't speak the same language, I miraculously understand what he is saying: \"I'll forgive you this time.\""
+  },
+  {
+    "line": 94,
+    "text": "{character:player}Hmm, he's such a proud horse."
+  },
+  {
+    "line": 95,
+    "text": "{character:Hideki Akechi}It looks like you and Silver Snow have already cleared up the misunderstanding. I thought I would have to get you to do something to improve your relationship with Silver Snow."
+  },
+  {
+    "line": 96,
+    "text": "{character:player}Something that can improve our relationship quickly... You mean feeding him?"
+  },
+  {
+    "line": 97,
+    "text": "I quickly grasp the key point. As Ichihime's owner, no one understands how practical this approach is more than I do."
+  },
+  {
+    "line": 98,
+    "text": "Seeing that I'm interested in this, Hideki calls over the groom who usually takes care of Silver Snow and asks him to bring over Silver Snow's favorite carrots."
+  },
+  {
+    "line": 99,
+    "text": "{character:Hideki Akechi}Just hand them over slowly. You'll scare him if you move too quickly. Silver Snow looks big and strong, but he's quite timid."
+  },
+  {
+    "line": 100,
+    "text": "{character:player}Okay, I got it... Silver Snow, here's a carrot for you. I'm gonna give it to you slowly..."
+  },
+  {
+    "line": 101,
+    "text": "I carefully hand a carrot to Silver Snow. He sniffs it and starts chomping on it."
+  },
+  {
+    "line": 102,
+    "text": "{character:player}Take your time. There's more where that came from."
+  },
+  {
+    "line": 103,
+    "text": "Groom"
+  },
+  {
+    "line": 104,
+    "text": "{character:Groom}Silver Snow accepted the carrots so easily? That's... incredible!"
+  },
+  {
+    "line": 105,
+    "text": "{character:player}Why is that?"
+  },
+  {
+    "line": 106,
+    "text": "{character:Groom}Silver Snow has a docile temperament, but he is very cautious and never accepts food and water from people he doesn't know well. No one except for Mr. Akechi has been able to gain his trust in such a short period of time."
+  },
+  {
+    "line": 107,
+    "text": "{character:Groom}When I was selected to be his groom, it took me half a year to just get Silver Snow to reluctantly trust me. Even though I've taken care of him for nearly five years, he still always watches my every action cautiously by the side whenever I add more feed."
+  },
+  {
+    "line": 108,
+    "text": "The disheartened groom scratches his head helplessly and leaves with doubts running through his head because he can't understand the reason."
+  },
+  {
+    "line": 109,
+    "text": "{character:player}Hahaha! Judging from how depressed he sounds, he must have put in a lot of effort to gain Silver Snow's trust."
+  },
+  {
+    "line": 110,
+    "text": "{character:Hideki Akechi}Hmm... That's certainly true. I remember telling him that I can ask the stud farm to send someone else if he wants to give up, but Silver Snow seems to have aroused his competitive spirit, so he rejected my proposal immediately."
+  },
+  {
+    "line": 111,
+    "text": "{character:Hideki Akechi}I heard the other workers say that he especially moved here and ate and lived with Silver Snow for one whole month before Silver Snow would let him approach his manger."
+  },
+  {
+    "line": 112,
+    "text": "{character:player}What a determined person... If Silver Snow is so cautious, how did you get along with him in the first place?"
+  },
+  {
+    "line": 113,
+    "text": "{character:Hideki Akechi}My father bought him on a business trip when Silver Snow was still a foal. Due to various reasons, he kept Silver Snow in his birthplace after the business trip ended. It wasn't until Silver Snow was almost two years old that he was moved here to One Han City and officially given to me."
+  },
+  {
+    "line": 114,
+    "text": "{character:Hideki Akechi}Before then, I was training with the horses of the stud farm, so it's not surprising that I went through a rough time after I really started raising a horse. It was particularly bad when Silver Snow started shedding his teeth as one tooth just wouldn't come out, and Silver Snow was in so much pain that he couldn't eat or drink, relying only on infusions to maintain his nutrition."
+  },
+  {
+    "line": 115,
+    "text": "{character:player}What happened after that? Did you help pull that tooth out?"
+  },
+  {
+    "line": 116,
+    "text": "As if he knows that we are talking about him, Silver Snow's huge head starts rubbing us to show his master his affection."
+  },
+  {
+    "line": 117,
+    "text": "{character:Hideki Akechi}Haha, you seem to think that I can do anything. If you ever have the need, {var:player_nickname}, I would love to learn about it."
+  },
+  {
+    "line": 118,
+    "text": "{character:Hideki Akechi}There was a problem with Silver Snow's deciduous tooth, and the veterinarian that came to check up on him was inexperienced and didn't dare to pull out the tooth. Because of this, he starved for nearly three months. In the end, this problem was solved after I asked my father to ask a professor from overseas to help us."
+  },
+  {
+    "line": 119,
+    "text": "{character:Hideki Akechi}Dental problems are quite common in this type of thoroughbred horse, and Silver Snow recovered quickly after the deciduous tooth was pulled out. Somehow, Silver Snow seemed to know that I helped find that doctor and wholeheartedly accepted me as his master after that. This is why we have a better tacit understanding than other contestants in competitions and might even be why I won that competition."
+  },
+  {
+    "line": 120,
+    "text": "{character:player}In that case, it really is incredible how he just accepted the food I handed over to him! Do I have some kind of special ability? Or am I wearing some accessories he is particularly fond of?"
+  },
+  {
+    "line": 121,
+    "text": "I look down at the clothes I'm wearing and try to find a believable reason. Hideki starts laughing next to me and raises his hand to stop me."
+  },
+  {
+    "line": 122,
+    "text": "{character:Hideki Akechi}Actually, it's not that surprising."
+  },
+  {
+    "line": 124,
+    "text": "{character:Hideki Akechi}Have you heard of the saying: \"A horse is like a mirror that reflects its master\"? A modest master will train disciplined horses. A competitive master will raise horses that bully other horses."
+  },
+  {
+    "line": 125,
+    "text": "{character:player}So Silver Snow is so cautious because of you?"
+  },
+  {
+    "line": 126,
+    "text": "Seeing that I didn't understand what he meant, Hideki sighs with resignation and closes the distance between us by leaning over and whispering in my ear."
+  },
+  {
+    "line": 127,
+    "text": "{character:Hideki Akechi}What I mean is that like me, Silver Snow trusts you and regards you as someone important."
+  },
+  {
+    "line": 128,
+    "text": "No whisper is light enough to escape a horse's ears. Silver Snow neighs joyfully again as if he has seen through the little secret between Hideki and me and only calms down again after Hideki pats his head lightly."
+  },
+  {
+    "line": 129,
+    "text": "After saying this, Hideki quickly turns around to take care of Silver Snow, leaving me staring at his slender back with ears that are burning red."
+  },
+  {
+    "line": 130,
+    "text": "{character:player}Ahem, I trust Hideki a lot too."
+  },
+  {
+    "line": 131,
+    "text": "This response seems to calm Hideki's emotions. He gradually relaxes and becomes the gentleman I'm familiar with once again. Hmm... He's just as easy to coax as Silver Snow."
+  },
+  {
+    "line": 132,
+    "text": "The breeze caresses the hay and enters the stables on this summer morning, bringing slightly warm air and a faint grassy fragrance. A thought arises in my heart as I look at the man and the horse in front of me..."
+  },
+  {
+    "line": 133,
+    "text": "{character:player}I want to try riding a horse so badly..."
+  },
+  {
+    "line": 134,
+    "text": "{character:Hideki Akechi}Of course you can. Silver Snow probably wants to go out for a walk too."
+  },
+  {
+    "line": 135,
+    "text": "Only after hearing Hideki's reply do I realize that I spoke my thoughts out loud."
+  },
+  {
+    "line": 136,
+    "text": "{character:player}Huh? You mean... you're willing to let me ride Silver Snow?"
+  },
+  {
+    "line": 137,
+    "text": "{character:Hideki Akechi}Don't worry, I think Silver Snow won't mind."
+  },
+  {
+    "line": 139,
+    "text": "As if he is responding to Hideki's words, Silver Snow stomps twice and lowers his head in a lovely manner. Seeing this, I stop hesitating and guide it out of the stable with Hideki."
+  },
+  {
+    "line": 140,
+    "text": "A worker tells Hideki that the racetrack is temporarily closed because they are preparing for a large competition, so we take Silver Snow to the training grounds on the other side."
+  },
+  {
+    "line": 141,
+    "text": "{character:Hideki Akechi}Hold the reins tightly and sit still. Be careful not to shift your center of gravity."
+  },
+  {
+    "line": 142,
+    "text": "Following the orders of his trusted owner, the steed obediently rides a few laps around the training grounds with me on his back. To my surprise, although this is the first time I've been in close contact with him, we seem to have some tacit understanding. From the corner of my eye, I catch a glimpse of Hideki who is watching me carefully at all times... Well, I guess it might just be due to his master's training."
+  },
+  {
+    "line": 143,
+    "text": "Although it looks really cool to ride a horse, the summer sun is a little too hot for me. It isn't long before I choose to dismount, let another worker take care of Silver Snow for me, and prepare to return to the air-conditioned hall with Hideki."
+  },
+  {
+    "line": 144,
+    "text": "{character:Hideki Akechi}{var:player_nickname}, you're very talented at horse riding."
+  },
+  {
+    "line": 145,
+    "text": "{character:player}All I did was ride on his back for a few laps..."
+  },
+  {
+    "line": 146,
+    "text": "{character:Hideki Akechi}Don't look down on yourself. I'm usually right about people. Silver Snow loves you. If you're okay with it, can I invite you to visit him again another time?"
+  },
+  {
+    "line": 147,
+    "text": "{character:player}Sure thing! I love Silver Snow too."
+  },
+  {
+    "line": 148,
+    "text": "{character:player}Wouldn't it be a pity to not experience riding a horse since I've come to a stud farm?"
+  },
+  {
+    "line": 149,
+    "text": "{character:Hideki Akechi}True. The stud farm allows people to temporarily rent a horse. You can choose one you like."
+  },
+  {
+    "line": 150,
+    "text": "Hideki thoughtfully calls over a worker for me and expresses my wishes concisely."
+  },
+  {
+    "line": 151,
+    "text": "Worker"
+  },
+  {
+    "line": 152,
+    "text": "{character:Worker}Sorry, we're preparing for a big competition here at the racetrack, so the racetrack won't be used in the next month. Only the training grounds in the stud farm can be used, but you're not allowed to gallop on horseback over there."
+  },
+  {
+    "line": 153,
+    "text": "{character:player}That's okay. I just want to experience what it's like to ride a horse."
+  },
+  {
+    "line": 154,
+    "text": "{character:Worker}That's perfectly fine then. What type of horse do you like? A medium-sized Aslan, a muscular Upper North, or a lighter Orlov Trotter? Each kind of horse has its own characteristics, so you can choose one according to your preferences."
+  },
+  {
+    "line": 155,
+    "text": "Seeing that I don't know much about horses, the worker patiently explains the advantages and disadvantages of each horse to me. Although the introduction is very detailed, I am still very confused afterward."
+  },
+  {
+    "line": 156,
+    "text": "{character:player}It's so hard to choose..."
+  },
+  {
+    "line": 157,
+    "text": "{character:Hideki Akechi}In that case, why don't we observe for a while at the training grounds before you decide? It should be time for the horses to go out for a walk, right?"
+  },
+  {
+    "line": 158,
+    "text": "{character:player}That's a good idea... Can I?"
+  },
+  {
+    "line": 159,
+    "text": "{character:Worker}Of course you can. Please follow me."
+  },
+  {
+    "line": 160,
+    "text": "Hideki and I walk for a while behind the worker before we arrive at the training grounds. On the green field, the horses are galloping, jumping, or acting docilely, each showing a different type of beauty."
+  },
+  {
+    "line": 161,
+    "text": "Steed"
+  },
+  {
+    "line": 162,
+    "text": "{character:Steed}*Neigh— Neigh—*"
+  },
+  {
+    "line": 163,
+    "text": "I feel myself gradually being drawn in as I shuttle through the horses and listen to them neighing."
+  },
+  {
+    "line": 164,
+    "text": "{character:Worker}So, which type of horse do you like more?"
+  },
+  {
+    "line": 165,
+    "text": "{character:player}Um..."
+  },
+  {
+    "line": 166,
+    "text": "*Clip-clop, clip-clop* While I'm hesitating, a trainer leads a group of fine horses in front of me. The white horse at the front has slender limbs and a shiny long mane around his neck, which immediately attracts my attention."
+  },
+  {
+    "line": 167,
+    "text": "{character:player}I've decided. I choose this horse!"
+  },
+  {
+    "line": 168,
+    "text": "{character:Worker}What an excellent choice. This is the only Akhal-Teke horse among the horses that can be chosen. It's also known as a Ferghana horse. I'll get Shadow Conqueror to come over here for you."
+  },
+  {
+    "line": 169,
+    "text": "I feel excited that I chose such a precious horse among all these horses with my own judgment. Because of this, I'm quite puzzled when I see Hideki's worried expression from the corner of my eye."
+  },
+  {
+    "line": 170,
+    "text": "{character:player}Hideki, is something wrong?"
+  },
+  {
+    "line": 171,
+    "text": "{character:Hideki Akechi}...Nothing. Don't worry, I'll help you."
+  },
+  {
+    "line": 172,
+    "text": "{character:player}...Hmm?"
+  },
+  {
+    "line": 173,
+    "text": "When the worker pulls the steed over to me, I finally understand why Hideki said that."
+  },
+  {
+    "line": 174,
+    "text": "The dark blue eyes of the steed are shining with disdain and exude strength and majesty. Sure enough, all precious horses have their own temper. It won't be as easy to get along with this horse as I imagined."
+  },
+  {
+    "line": 175,
+    "text": "But it also triggered a strange desire to win in me. I must conquer this horse today and make him my mount."
+  },
+  {
+    "line": 176,
+    "text": "{character:Hideki Akechi}It's very dangerous to suddenly get close to a horse that doesn't know you. You can try to call his name first to familiarize him with your voice."
+  },
+  {
+    "line": 177,
+    "text": "Hideki has been standing closer to me ever since the white horse was brought over here, but he doesn't ask me to choose another horse. Instead, he patiently guides me through all the steps to gain the trust of a horse. Even the worker next to us praises his meticulousness."
+  },
+  {
+    "line": 178,
+    "text": "{character:Hideki Akechi}Yes, just like that... You can touch his neck carefully now. This will help Shadow Conqueror calm down."
+  },
+  {
+    "line": 179,
+    "text": "Shadow Conqueror"
+  },
+  {
+    "line": 180,
+    "text": "{character:Hideki Akechi}Don't be nervous. This neighing is a sound of joy. He has tentatively accepted you, so you can get on now. Hold the reins tightly and sit still. Be careful not to shift your center of gravity."
+  },
+  {
+    "line": 181,
+    "text": "{character:player}Okay."
+  },
+  {
+    "line": 182,
+    "text": "Although this Ferghana horse called Shadow Conqueror has a temper of its own, he is still an excellent domesticated animal, so he walks around the training ground with me on his back. To ensure my safety, Hideki stands in front of me the whole time, holding the rein tightly while I am riding."
+  },
+  {
+    "line": 183,
+    "text": "The summer sun is not gentle at all, and even I'm sweating while sitting on the horse's back, let alone Hideki, who is leading the horse for me. After a few laps, I choose to dismount and prepare to return to the air-conditioned hall with Hideki."
+  },
+  {
+    "line": 184,
+    "text": "{character:Hideki Akechi}Don't look down on yourself. I'm usually right about people. We can come here more often in the future if you like it here."
+  },
+  {
+    "line": 185,
+    "text": "As the saying goes, if you're bad at solving problems, then just solve the problem itself. Compared to someone like me who can only make a random last-minute choice, there's someone here who obviously knows which horse would be good for me."
+  },
+  {
+    "line": 186,
+    "text": "{character:player}Hideki, can you choose a horse for me?"
+  },
+  {
+    "line": 187,
+    "text": "{character:Hideki Akechi}Of course I can."
+  },
+  {
+    "line": 188,
+    "text": "Hideki is a little taken aback by my request but agrees readily anyway. Meanwhile, I'm not at all worried that he'll choose an unsuitable horse for me. This is the absolute trust I, a temporary training partner of the mahjong club, have in the club president!"
+  },
+  {
+    "line": 189,
+    "text": "After considering the information provided by the worker in the context of his own observations, Hideki chooses a petite white horse that is grazing for me."
+  },
+  {
+    "line": 190,
+    "text": "{character:Worker}If you like white horses, there's another one that is more excellent here."
+  },
+  {
+    "line": 191,
+    "text": "{character:Hideki Akechi}A horse rider shouldn't choose which horse to ride based on the quality of the horse. The most important thing is to choose the most suitable horse for them."
+  },
+  {
+    "line": 192,
+    "text": "{character:Worker}I understand. I bring Shining Night over here now."
+  },
+  {
+    "line": 193,
+    "text": "The moment this white horse is brought over to me, I instantly understand why Hideki chose him. This steed neighs joyfully, approaches me, and presses his huge head against my shoulder."
+  },
+  {
+    "line": 194,
+    "text": "{character:player}What's he doing?"
+  },
+  {
+    "line": 195,
+    "text": "{character:Hideki Akechi}This is how horses show affection. You can rub his neck gently as it'll help him relax."
+  },
+  {
+    "line": 196,
+    "text": "Shining Night"
+  },
+  {
+    "line": 197,
+    "text": "The white horse snorts and obediently stands still to let Hideki help me get on his back before walking around the training ground with me on his back. To ensure my safety, Hideki stands in front of me the whole time, holding the rein tightly while I am riding."
+  },
+  {
+    "line": 198,
+    "text": "Everyone loves to receive compliments, especially when the person complimenting you is President Akechi who has high standards. When I am immersed in joy, Hideki suddenly stops moving next to me."
+  },
+  {
+    "line": 199,
+    "text": "{character:player}Hideki, what's wrong?"
+  },
+  {
+    "line": 200,
+    "text": "{character:Hideki Akechi}Ahem, nothing. Why don't we return from another route?"
+  },
+  {
+    "line": 201,
+    "text": "{character:player}Hmm..."
+  },
+  {
+    "line": 202,
+    "text": "This suggestion comes so suddenly that it's obvious Hideki wants to avoid something. Unfortunately... it's too late. I follow his gaze and see someone galloping toward us on horseback."
+  },
+  {
+    "line": 203,
+    "text": "*Clip-clop, clip-clop* Just as the rider and the horse are about to collide with us, the rider controls the horse to side-step perfectly, stopping steadily right in front of Hideki and me."
+  },
+  {
+    "line": 204,
+    "text": "It's obvious that this person hasn't come with kind intentions."
+  },
+  {
+    "line": 205,
+    "text": "???"
+  },
+  {
+    "line": 206,
+    "text": "{character:???}I just bought this Hest Warmblood and started training it yesterday. If everything goes to plan, it'll be my partner in the next race."
+  },
+  {
+    "line": 207,
+    "text": "{character:Hideki Akechi}It's very suitable for you."
+  },
+  {
+    "line": 208,
+    "text": "{character:???}You haven't changed at all. Have you lost even the most basic of emotions after you stopped horse racing?"
+  },
+  {
+    "line": 209,
+    "text": "Wait a minute. Horse racing... These distinct words job my memory. Although this person's figure has changed slightly, I remember this person is Levine, the runner-up and \"Mr. Unhappy\" in the photo."
+  },
+  {
+    "line": 210,
+    "text": "Levine takes a step closer and speaks in a tone that expresses strong dissatisfaction when he sees that Hideki is unmoved."
+  },
+  {
+    "line": 211,
+    "text": "Levine"
+  },
+  {
+    "line": 212,
+    "text": "{character:Levine}You won that equestrian competition that year. How could you stop racing out of fear of losing? Are you really willing to rest on your laurels like that?"
+  },
+  {
+    "line": 213,
+    "text": "{character:Levine}I feel sorry for your horse for having a master like you."
+  },
+  {
+    "line": 214,
+    "text": "After speaking, Levine turns and prepares to leave."
+  },
+  {
+    "line": 215,
+    "text": "{character:player}I really want to see Hideki and Silver Snow perform together..."
+  },
+  {
+    "line": 216,
+    "text": "{character:Hideki Akechi}I can make that happen if that's what you want."
+  },
+  {
+    "line": 217,
+    "text": "{character:player}Yeah!"
+  },
+  {
+    "line": 218,
+    "text": "{character:player}Um, would it be too much trouble?"
+  },
+  {
+    "line": 219,
+    "text": "{character:Hideki Akechi}There's a special training grounds in the stud farm, so it should be okay as long as I let the workers know. But even a private performance can't be too casual, so can I ask you to wait for me at the training grounds so I can prepare with Silver Snow?"
+  },
+  {
+    "line": 220,
+    "text": "{character:player}I accept your request. I'll see you in a bit then!"
+  },
+  {
+    "line": 221,
+    "text": "Fully aware that Hideki is an out-and-out perfectionist, I am not surprised by what he is thinking. I come to the side of the training grounds and wait with great anticipation for the free performance."
+  },
+  {
+    "line": 222,
+    "text": "Almost as if our hearts are connected, I look at the entrance immediately when the training ground broadcast changes to background music. Hideki enters the training grounds on Silver Snow like prince charming in fairy tales and approaches me slowly."
+  },
+  {
+    "line": 223,
+    "text": "Dressage really deserves to be called equestrian ballet. Silver Snow moves with the rhythm of the music, completing the change gallop, backward walk, half-pass, piaffe, etc., one by one... Instead of following Hideki's instructions, it's more accurate to say Silver Snow is moving autonomously."
+  },
+  {
+    "line": 224,
+    "text": "It's so elegant! That's the only thing I can think of. Hideki and Silver Snow become one in my eyes. The horse is the rider's assistant, and the rider is an extension of the horse. The connection between the two is soft but inseparable."
+  },
+  {
+    "line": 225,
+    "text": "After the music ends, Silver Snow finishes the performance with an amble. Enthusiastic applause breaks out in the entire training grounds, which is the best reward for Hideki, Silver Snow, and the performance itself."
+  },
+  {
+    "line": 226,
+    "text": "{character:???}Tsk, he's still as skilled as ever. Just you wait and see, it won't be long until I become a champion too!"
+  },
+  {
+    "line": 227,
+    "text": "I hear a sullen voice behind me, which is the only discordant factor in the cheering around us. Judging from the tone, this person should know Hideki. I turn around to see who the speaker is."
+  },
+  {
+    "line": 228,
+    "text": "However, too many people have been attracted here by the equestrian performance, so I can't identify the speaker at all."
+  },
+  {
+    "line": 229,
+    "text": "{character:Hideki Akechi}What are you looking at?"
+  },
+  {
+    "line": 230,
+    "text": "{character:player}Oh, nothing. Hideki, your performance with Silver Snow is out of this world! I don't know how I can describe it. In short... it was brilliant!"
+  },
+  {
+    "line": 231,
+    "text": "Hideki accepts my praise graciously and nods his head in thanks."
+  },
+  {
+    "line": 232,
+    "text": "{character:Hideki Akechi}I'm glad you like it."
+  },
+  {
+    "line": 233,
+    "text": "{character:player}Of course I like it. I don't think anyone can not like such an amazing performance."
+  },
+  {
+    "line": 234,
+    "text": "{character:Hideki Akechi}If you like it, I can perform for you again in the future, but I'll make some advance preparations next time to give you a performance that belongs only to you."
+  },
+  {
+    "line": 235,
+    "text": "On the green grass under the bright sun, Hideki, who is leading a white horse, extends an invitation to me. I don't think anyone would say no, and I won't either."
+  },
+  {
+    "line": 236,
+    "text": "{character:player}Okay... it's a promise then."
+  },
+  {
+    "line": 237,
+    "text": "Everyone present starts smiling, and our joyful emotions are accurately conveyed by Silver Snow's neighing."
+  },
+  {
+    "line": 238,
+    "text": "The sun is so nice today, and the wind is so gentle."
+  },
+  {
+    "line": 239,
+    "text": "Those words were a little harsh and were tantamount to rubbing salt in the wounds that caused Hideki sadness. Although Hideki doesn't seem to be angered by Levine's words, I can still feel that he isn't happy right now."
+  },
+  {
+    "line": 240,
+    "text": "My body starts moving, and I call out directly to the rider who is about to leave."
+  },
+  {
+    "line": 241,
+    "text": "{character:player}Stop!"
+  },
+  {
+    "line": 242,
+    "text": "{character:Levine}What can I do for you?"
+  },
+  {
+    "line": 243,
+    "text": "Levine is polite and courteous to anyone other than Hideki. He takes off his hat and performs a standard knight salute, but that doesn't make me any less mad."
+  },
+  {
+    "line": 244,
+    "text": "{character:player}You should apologize to Hideki Akechi."
+  },
+  {
+    "line": 245,
+    "text": "{character:Levine}Apologize... to him? Excuse me, can you tell me why?"
+  },
+  {
+    "line": 246,
+    "text": "{character:player}Don't you think your words were a bit excessive just now?"
+  },
+  {
+    "line": 247,
+    "text": "{character:Levine}But I was just speaking the truth. I know the Akechi family is not a family I can afford to offend, but I'm just expressing my opinion on this matter."
+  },
+  {
+    "line": 248,
+    "text": "{character:Levine}Raising a horse shouldn't be something that the rich do on a whim. A rider who chooses to give up affects not only himself but also a horse that could have shined on the racetracks."
+  },
+  {
+    "line": 249,
+    "text": "Levine looks down on me condescendingly from where he is on the back of his horse. His shadow overlaps with the horse's shadow on the ground."
+  },
+  {
+    "line": 250,
+    "text": "{character:Levine}You have to admit that this is a very selfish thing to do, right?"
+  },
+  {
+    "line": 251,
+    "text": "Of course not! You don't know the whole story! As I prepare to refute him with these words, I am interrupted by a large boom that fills the air as workers drop the goods they are carrying, which makes a loud noise when it hits the ground."
+  },
+  {
+    "line": 252,
+    "text": "This is a trivial matter that no one would care about elsewhere, but this is a serious problem at a stud farm. The horses in every corner of the training grounds are frightened and neigh restlessly. Thankfully, the trainers are with the horses at all times and calm them down quickly."
+  },
+  {
+    "line": 253,
+    "text": "But.. there's one exception—"
+  },
+  {
+    "line": 254,
+    "text": "{character:Levine}That won't hurt you, Red Lightning! Look, someone has already picked up the cargo!"
+  },
+  {
+    "line": 255,
+    "text": "Levine hasn't established enough trust with his new horse yet. Even though he points out the thing that gave the horse a fright and pulls on the reins to divert its attention, his efforts do little good. This maroon horse called Red Lightning doesn't calm down completely, and things would be even worse if Levine isn't an experienced rider."
+  },
+  {
+    "line": 256,
+    "text": "Red Lightning keeps making tiny movements, each of which implies that it is in an anxious state, which isn't good news. Hideki pulls me behind him quickly to protect me from the horse's hooves."
+  },
+  {
+    "line": 257,
+    "text": "I notice that the workers in the distance are coming here, and I hope that Red Lightning doesn't go out of control before they arrive."
+  },
+  {
+    "line": 258,
+    "text": "Red Lightning"
+  },
+  {
+    "line": 259,
+    "text": "{character:Red Lightning}*Huff, huff...*"
+  },
+  {
+    "line": 260,
+    "text": "*Tick—tock—tick–tock*"
+  },
+  {
+    "line": 261,
+    "text": "At this extremely tense moment, I hear a very rhythmic sound. I look towards the source of the sound and see that it is coming from Hideki's mobile phone. He has turned up the volume on his phone to ensure Red Lightning can hear it."
+  },
+  {
+    "line": 262,
+    "text": "{character:Hideki Akechi}Levine, adjust its rhythm."
+  },
+  {
+    "line": 263,
+    "text": "{character:Levine}...I don't need to you tell me that!"
+  },
+  {
+    "line": 264,
+    "text": "Then a miracle happens just like that! Red Lightning gradually calms down after he starts following the fixed beat. Hideki keeps the music going until everything returns to normal."
+  },
+  {
+    "line": 265,
+    "text": "{character:player}What... was that?"
+  },
+  {
+    "line": 266,
+    "text": "{character:Hideki Akechi}I just used a mobile metronome app."
+  },
+  {
+    "line": 267,
+    "text": "{character:Hideki Akechi}A fixed beat can help horses make every step rhythmically, which helps the rider calm the horse's emotions. That's why experienced riders usually install a metronome app on their mobile phone in case of an emergency."
+  },
+  {
+    "line": 269,
+    "text": "{character:Levine}I didn't think you would remember that..."
+  },
+  {
+    "line": 270,
+    "text": "Red Lightning has calmed down and becomes docile again. Levine dismounts, comes up to us, and looks at Hideki with a complicated expression."
+  },
+  {
+    "line": 271,
+    "text": "{character:Hideki Akechi}Of course, equestrianism is an important part of my life. I'll never forget it."
+  },
+  {
+    "line": 272,
+    "text": "{character:player}Ahem, actually, Hideki comes to the stud farm very often. If he didn't, you wouldn't always run into him, right?"
+  },
+  {
+    "line": 273,
+    "text": "{character:Levine}..."
+  },
+  {
+    "line": 274,
+    "text": "This \"Mr. Unhappy\" is a really simple person. The anger in his eyes has disappeared now, and the change in his expression shows that he has accepted our words and his heart has started to waver."
+  },
+  {
+    "line": 275,
+    "text": "However, he doesn't immediately shake hands and make peace with his \"rival.\" With his head lowered, the rider asks in a muffled voice the issue he has been struggling with for many years."
+  },
+  {
+    "line": 276,
+    "text": "{character:Levine}If that's the case, why did you suddenly give up on equestrianism...? I trained extra hard so that I could compete with you again, yet you never participated in another competition..."
+  },
+  {
+    "line": 277,
+    "text": "{character:Levine}Many people told me that you're not like me and that winning an equestrianism competition is just another glory to add to your resume, not what you really pursue..."
+  },
+  {
+    "line": 278,
+    "text": "{character:Hideki Akechi}That's not true."
+  },
+  {
+    "line": 279,
+    "text": "Hideki interrupts him, steps forward, and looks him in the eyes."
+  },
+  {
+    "line": 280,
+    "text": "{character:Hideki Akechi}Perhaps some people really do learn equestrianism to enrich their resume, but I've never thought that way."
+  },
+  {
+    "line": 281,
+    "text": "{character:Hideki Akechi}A family member of mine fell ill, and I had a lot of coursework to do. I just didn't have time for everything. I thought about it for a long time before I made this decision, and I apologized to the coach and Silver Snow for this."
+  },
+  {
+    "line": 282,
+    "text": "{character:Hideki Akechi}I regret that I can't continue to compete with you on the racetrack, but I don't regret my decision. Levine, I owe you an apology."
+  },
+  {
+    "line": 283,
+    "text": "{character:Levine}Urgh... Is this how the people in your family talk?! That's so cheesy!"
+  },
+  {
+    "line": 284,
+    "text": "He backs away suddenly and makes exaggerated movements to hide his emotions."
+  },
+  {
+    "line": 285,
+    "text": "{character:Levine}Um, well, I'm sorry."
+  },
+  {
+    "line": 286,
+    "text": "{character:Hideki Akechi}Huh?"
+  },
+  {
+    "line": 287,
+    "text": "{character:Levine}I misunderstood you earlier and mocked you for so long. I won't do that anymore..."
+  },
+  {
+    "line": 288,
+    "text": "{character:Hideki Akechi}When I visited Silver Snow last time, I heard that you have a great chance of competing in an international equestrian event. I hope you do well."
+  },
+  {
+    "line": 289,
+    "text": "Probably because he isn't accustomed to interacting so peacefully with Hideki, \"Mr. Unhappy\" freezes for a moment and keeps opening and shutting his mouth. In the end, he turns awkwardly to touch Red Lightning."
+  },
+  {
+    "line": 290,
+    "text": "{character:Levine}I'll definitely become the champion! Just wait for my good news!"
+  },
+  {
+    "line": 291,
+    "text": "{character:Hideki Akechi}...Okay."
+  },
+  {
+    "line": 292,
+    "text": "Levine mounts his horse again and leaves in the opposite direction at a faster speed than when he approached us earlier. Now he is trying to run away from Hideki."
+  },
+  {
+    "line": 293,
+    "text": "{character:player}At least he recognizes his mistakes and apologizes sincerely."
+  },
+  {
+    "line": 294,
+    "text": "{character:Hideki Akechi}The world would be a better place if everyone could say what they are thinking directly like you, {var:player_nickname}. Thank you."
+  },
+  {
+    "line": 295,
+    "text": "{character:player}Why are you thanking me?"
+  },
+  {
+    "line": 296,
+    "text": "{character:Hideki Akechi}I always thought that I'll be the one protecting you when we're together, but you stood up for me today."
+  },
+  {
+    "line": 297,
+    "text": "{character:Hideki Akechi}If I came alone today, Levine would continue to misunderstand me. It's because of you that we can untie the knots in our hearts."
+  },
+  {
+    "line": 298,
+    "text": "{character:player}Ahem, I didn't think that much about it... I just know that he was wrong, and I had already come forward before I realized it."
+  },
+  {
+    "line": 299,
+    "text": "{character:Hideki Akechi}Yes, I know. Either way, I'm very happy today."
+  },
+  {
+    "line": 300,
+    "text": "Hideki's face seems a little red, but he doesn't avoid my gaze like before. Instead, he takes the initiative to look at me and acquiesces that I've entered his personal zone."
+  },
+  {
+    "line": 301,
+    "text": "I can't tell which horse started neighing first, but all the horses in the training grounds start expressing their joy in their own way soon. Hideki and I also see a shining brilliance in each other's eyes."
+  },
+  {
+    "line": 302,
+    "text": "In my heart, I think to myself that it was the right thing to come to the stud farm with Hideki."
+  },
+  {
+    "line": 303,
+    "text": "{character:Worker}Please wait! A customer has left a gift for you two."
+  },
+  {
+    "line": 304,
+    "text": "After our first visit to the stud farm, Hideki and I have come here to ride horses together every month. When we finished our ride today as usual and were about to go home, a worker hands us a beautiful gift box."
+  },
+  {
+    "line": 305,
+    "text": "{character:player}It's for us? Are you sure?"
+  },
+  {
+    "line": 306,
+    "text": "I basically haven't interacted with any customer here other than Hideki, so I'm a little surprised when I hear what the worker said."
+  },
+  {
+    "line": 307,
+    "text": "{character:Worker}Yes. The person who asked me to give this to you described your appearances in great detail, so there's no way I've made a mistake."
+  },
+  {
+    "line": 308,
+    "text": "{character:player}Okay, thanks..."
+  },
+  {
+    "line": 309,
+    "text": "Hideki accepts the gift and thanks the worker. I step forward and open the box to find a pair of equestrian hats in different colors."
+  },
+  {
+    "line": 310,
+    "text": "The tall hat has no wrinkles, and the length of the tongue and rope is just right, appearing simple yet elegant. Someone who can choose this as a gift must be very familiar with equestrianism."
+  },
+  {
+    "line": 311,
+    "text": "{character:player}I wonder who gave us these gifts."
+  },
+  {
+    "line": 312,
+    "text": "{character:Hideki Akechi}There are two letters under the hats... This one seems to be for you."
+  },
+  {
+    "line": 313,
+    "text": "{character:player}Let me see..."
+  },
+  {
+    "line": 314,
+    "text": "I open the letter to see some flamboyantly written lines on the piece of paper—I bought this gift for you along the way to thank you for last time. Also, you really suck at horse riding. Next time, you should get someone else to teach you. Someone like me, a professional rider who is about to win the world championship."
+  },
+  {
+    "line": 315,
+    "text": "It's obvious that the person who wrote this letter and is so obsessed with being a champion is the \"Mr. Unhappy\" we met earlier."
+  },
+  {
+    "line": 316,
+    "text": "{character:player}Is this a gift to thank me for helping to absolve your misunderstanding? He has good taste... but how dare he say that I suck at horse riding! His way of talking is still as infuriating as ever!"
+  },
+  {
+    "line": 317,
+    "text": "{character:Hideki Akechi}Don't get angry, or else you'll become the next \"Mr. Unhappy.\""
+  },
+  {
+    "line": 318,
+    "text": "{character:player}Hmph! Hideki, you should make him remember what it feels like to be the runner-up the next time he comes to the stud farm."
+  },
+  {
+    "line": 319,
+    "text": "{character:Hideki Akechi}Well... This challenge is a little difficult, but if that's what you want, {var:player_nickname}, I'll think of a way to make it happen."
+  },
+  {
+    "line": 320,
+    "text": "Hideki smiles subtly. Not even he thought it would be possible for his former \"rival\" to become his friend."
+  },
+  {
+    "line": 321,
+    "text": "With Hideki's permission, I read the letter Levine wrote to him. \"As a representative who is participating in the FEI World Equestrian Games on the international stage, I already have higher goals and stronger opponents, but you can't lose either!\""
+  },
+  {
+    "line": 322,
+    "text": "At the end of the letter, \"Mr. Unhappy\" even drew a very abstract gesture that looks like he is cheering for Hideki but also seems like he is showing off his own achievements."
+  },
+  {
+    "line": 323,
+    "text": "Tsk, what an awkward friendship you two have."
+  },
+  {
+    "line": 324,
+    "text": "I wanted to refute him, but just as I'm about to open my mouth, I think of Hideki's attitude whenever he mentions this person, so I decide to give up because he probably doesn't want to have any conflicts with Levine."
+  },
+  {
+    "line": 325,
+    "text": "After Levine leaves, I walk up to Hideki and pat his shoulder to console him."
+  },
+  {
+    "line": 326,
+    "text": "Although Hideki doesn't seem to be angered by Levine's words, I can still feel that he isn't happy right now."
+  },
+  {
+    "line": 327,
+    "text": "{character:Hideki Akechi}It's okay, {var:player_nickname}. I'm already used to this."
+  },
+  {
+    "line": 328,
+    "text": "{character:Hideki Akechi}He's just angry that I gave up equestrianism. He doesn't bear any malice, so I hope you won't take it to heart."
+  },
+  {
+    "line": 329,
+    "text": "{character:player}I... understand."
+  },
+  {
+    "line": 330,
+    "text": "Seeing that Hideki is still speaking in support of him, I suppress the surging emotions in my heart."
+  },
+  {
+    "line": 331,
+    "text": "Although neither of us mentions him again in the following activities, our emotions were affected by this episode, and the date ends in a hurry."
+  },
+  {
+    "line": 332,
+    "text": "{character:player}A list of competitors in the FEI World Equestrian Games...?"
+  },
+  {
+    "line": 333,
+    "text": "The title of this push notification catches my attention instantly. I press it and am not surprised to see a high-definition ID photo of \"Mr. Unhappy.\""
+  },
+  {
+    "line": 334,
+    "text": "{character:player}\"Levine will represent us in international equestrian events. Let us wish him excellent results.\" ...I see, so he has already become such an amazing rider..."
+  },
+  {
+    "line": 335,
+    "text": "The reporter who wrote this article hasn't hesitated to describe Levine's achievements will all kinds of flamboyant words, but \"runner-up in the youth group\" is particularly conspicuous among the various competitions mentioned."
+  },
+  {
+    "line": 336,
+    "text": "The runner-up from back then has become a rising star in the equestrian world, but the champion, Hideki Akechi, who also loves equestrianism, had to give up this sport. I sigh deeply in my heart and feel sad about how fate plays tricks on people."
+  },
+  {
+    "line": 337,
+    "text": "I wonder what Hideki will think when he sees this article. Maybe... only he will know."
+  },
+  {
+    "line": 338,
+    "text": "Take a look at Hideki's horse"
+  },
+  {
+    "line": 339,
+    "text": ""
+  },
+  {
+    "line": 340,
+    "text": "Experience horse riding"
+  },
+  {
+    "line": 341,
+    "text": "I want to see Hideki perform equestrianism"
+  },
+  {
+    "line": 342,
+    "text": "I want to try riding a horse at the training grounds"
+  },
+  {
+    "line": 343,
+    "text": "Choose a horse myself"
+  },
+  {
+    "line": 344,
+    "text": "Ask Hideki to choose a horse for me"
+  },
+  {
+    "line": 345,
+    "text": "One week ago"
+  },
+  {
+    "line": 346,
+    "text": ""
+  },
+  {
+    "line": 347,
+    "text": "One hour later"
+  },
+  {
+    "line": 348,
+    "text": "Refute the rider's words"
+  },
+  {
+    "line": 349,
+    "text": "Comfort Hideki"
+  },
+  {
+    "line": 350,
+    "text": "Several months later"
+  }
+]

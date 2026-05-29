@@ -1,0 +1,764 @@
+syntax = "proto3";
+
+package lq;
+
+message ActionAnGangAddGang {
+  uint32 seat = 1;
+  uint32 type = 2;
+  string tiles = 3;
+  .lq.OptionalOperationList operation = 4;
+  repeated string doras = 6;
+  bool zhenting = 7;
+  repeated .lq.TingPaiInfo tingpais = 8;
+  .lq.MuyuInfo muyu = 9;
+}
+
+message ActionBaBei {
+  uint32 seat = 1;
+  .lq.OptionalOperationList operation = 4;
+  repeated string doras = 6;
+  bool zhenting = 7;
+  repeated .lq.TingPaiInfo tingpais = 8;
+  bool moqie = 9;
+  uint32 tile_state = 10;
+  .lq.MuyuInfo muyu = 11;
+}
+
+message ActionChangeTile {
+  repeated string in_tiles = 1;
+  repeated int32 in_tile_states = 2;
+  repeated string out_tiles = 3;
+  repeated int32 out_tile_states = 4;
+  repeated string doras = 5;
+  repeated .lq.TingPaiDiscardInfo tingpais0 = 6;
+  repeated .lq.TingPaiInfo tingpais1 = 7;
+  .lq.OptionalOperationList operation = 8;
+  uint32 change_type = 9;
+}
+
+message ActionChiPengGang {
+  uint32 seat = 1;
+  uint32 type = 2;
+  repeated string tiles = 3;
+  repeated uint32 froms = 4;
+  .lq.LiQiSuccess liqi = 5;
+  .lq.OptionalOperationList operation = 6;
+  bool zhenting = 7;
+  repeated .lq.TingPaiDiscardInfo tingpais = 8;
+  repeated uint32 tile_states = 9;
+  .lq.MuyuInfo muyu = 10;
+  repeated int32 scores = 11;
+  uint32 liqibang = 12;
+  .lq.YongchangInfo yongchang = 13;
+  .lq.HunZhiYiJiBuffInfo hun_zhi_yi_ji_info = 14;
+}
+
+message ActionDealTile {
+  uint32 seat = 1;
+  string tile = 2;
+  uint32 left_tile_count = 3;
+  .lq.OptionalOperationList operation = 4;
+  .lq.LiQiSuccess liqi = 5;
+  repeated string doras = 6;
+  bool zhenting = 7;
+  repeated .lq.TingPaiDiscardInfo tingpais = 8;
+  uint32 tile_state = 9;
+  .lq.MuyuInfo muyu = 10;
+  uint32 tile_index = 11;
+  .lq.HunZhiYiJiBuffInfo hun_zhi_yi_ji_info = 12;
+}
+
+message ActionDiscardTile {
+  uint32 seat = 1;
+  string tile = 2;
+  bool is_liqi = 3;
+  .lq.OptionalOperationList operation = 4;
+  bool moqie = 5;
+  bool zhenting = 6;
+  repeated .lq.TingPaiInfo tingpais = 7;
+  repeated string doras = 8;
+  bool is_wliqi = 9;
+  uint32 tile_state = 10;
+  .lq.MuyuInfo muyu = 11;
+  bool revealed = 12;
+  repeated int32 scores = 13;
+  uint32 liqibang = 14;
+  .lq.YongchangInfo yongchang = 25;
+  .lq.HunZhiYiJiBuffInfo hun_zhi_yi_ji_info = 26;
+  uint32 liqi_type_beishuizhizhan = 27;
+}
+
+message ActionFillAwaitingTiles {
+  repeated string awaiting_tiles = 1;
+  uint32 left_tile_count = 2;
+  .lq.OptionalOperationList operation = 3;
+  .lq.LiQiSuccess liqi = 4;
+}
+
+message ActionGangResult {
+  .lq.ChuanmaGang gang_infos = 1;
+}
+
+message ActionGangResultEnd {
+  .lq.ChuanmaGang gang_infos = 1;
+}
+
+message ActionHule {
+  repeated .lq.HuleInfo hules = 1;
+  repeated int32 old_scores = 2;
+  repeated int32 delta_scores = 3;
+  uint32 wait_timeout = 4;
+  repeated int32 scores = 5;
+  .lq.GameEnd gameend = 6;
+  repeated string doras = 7;
+  .lq.MuyuInfo muyu = 8;
+  int32 baopai = 9;
+  .lq.HunZhiYiJiBuffInfo hun_zhi_yi_ji_info = 10;
+}
+
+message ActionHuleXueZhanEnd {
+  repeated .lq.HuInfoXueZhanMid hules = 1;
+  repeated int32 old_scores = 2;
+  repeated int32 delta_scores = 3;
+  repeated int32 scores = 4;
+  uint32 wait_timeout = 5;
+  .lq.GameEnd gameend = 6;
+  repeated string doras = 7;
+  .lq.MuyuInfo muyu = 8;
+  repeated .lq.HuleInfo hules_history = 9;
+}
+
+message ActionHuleXueZhanMid {
+  repeated .lq.HuInfoXueZhanMid hules = 1;
+  repeated int32 old_scores = 2;
+  repeated int32 delta_scores = 3;
+  repeated int32 scores = 5;
+  repeated string doras = 7;
+  .lq.MuyuInfo muyu = 8;
+  .lq.LiQiSuccess liqi = 9;
+  bool zhenting = 10;
+}
+
+message ActionLiuJu {
+  uint32 type = 1;
+  .lq.GameEnd gameend = 2;
+  uint32 seat = 3;
+  repeated string tiles = 4;
+  .lq.LiQiSuccess liqi = 5;
+  repeated string allplayertiles = 6;
+  .lq.MuyuInfo muyu = 7;
+  repeated .lq.HuleInfo hules_history = 9;
+}
+
+message ActionLockTile {
+  uint32 seat = 1;
+  repeated int32 scores = 2;
+  uint32 liqibang = 3;
+  string tile = 4;
+  .lq.OptionalOperationList operation = 5;
+  bool zhenting = 6;
+  repeated .lq.TingPaiInfo tingpais = 7;
+  repeated string doras = 8;
+  int32 lock_state = 9;
+}
+
+message ActionMJStart {
+}
+
+message ActionNewCard {
+  uint32 field_spell = 1;
+}
+
+message ActionNewRound {
+  uint32 chang = 1;
+  uint32 ju = 2;
+  uint32 ben = 3;
+  repeated string tiles = 4;
+  string dora = 5;
+  repeated int32 scores = 6;
+  .lq.OptionalOperationList operation = 7;
+  uint32 liqibang = 8;
+  repeated .lq.TingPaiDiscardInfo tingpais0 = 9;
+  repeated .lq.TingPaiInfo tingpais1 = 10;
+  bool al = 11;
+  string md5 = 12;
+  uint32 left_tile_count = 13;
+  repeated string doras = 14;
+  repeated .lq.NewRoundOpenedTiles opens = 15;
+  .lq.MuyuInfo muyu = 16;
+  uint32 ju_count = 17;
+  uint32 field_spell = 18;
+  string sha256 = 19;
+  .lq.YongchangInfo yongchang = 20;
+  string saltSha256 = 21;
+  .lq.XiaKeShangInfo xia_ke_shang = 26;
+}
+
+message ActionNoTile {
+  bool liujumanguan = 1;
+  repeated .lq.NoTilePlayerInfo players = 2;
+  repeated .lq.NoTileScoreInfo scores = 3;
+  bool gameend = 4;
+  .lq.MuyuInfo muyu = 5;
+  repeated .lq.HuleInfo hules_history = 9;
+}
+
+message ActionPrototype {
+  uint32 step = 1;
+  string name = 2;
+  bytes data = 3;
+}
+
+message ActionRevealTile {
+  uint32 seat = 1;
+  bool is_liqi = 2;
+  bool is_wliqi = 3;
+  bool moqie = 4;
+  repeated int32 scores = 5;
+  uint32 liqibang = 6;
+  .lq.OptionalOperationList operation = 7;
+  repeated .lq.TingPaiInfo tingpais = 8;
+  string tile = 9;
+  bool zhenting = 10;
+}
+
+message ActionSelectGap {
+  repeated uint32 gap_types = 1;
+  repeated .lq.TingPaiDiscardInfo tingpais0 = 2;
+  repeated .lq.TingPaiInfo tingpais1 = 3;
+  .lq.OptionalOperationList operation = 4;
+}
+
+message ActionSubmit {
+  repeated .lq.SubmitInfo submits = 1;
+}
+
+message ActionTake {
+  repeated .lq.TakeInfo takes = 1;
+  repeated .lq.TingPaiDiscardInfo tingpais0 = 2;
+  repeated .lq.TingPaiInfo tingpais1 = 3;
+  .lq.OptionalOperationList operation = 4;
+}
+
+message ActionUnveilTile {
+  int32 seat = 1;
+  repeated int32 scores = 2;
+  uint32 liqibang = 3;
+  .lq.OptionalOperationList operation = 4;
+}
+
+message ChuanmaGang {
+  repeated int32 old_scores = 1;
+  repeated int32 delta_scores = 2;
+  repeated int32 scores = 3;
+  .lq.GameEnd gameend = 4;
+  repeated .lq.HuleInfo hules_history = 5;
+}
+
+message FanInfo {
+  string name = 1;
+  uint32 val = 2;
+  uint32 id = 3;
+}
+
+message GameAction {
+  uint32 passed = 1;
+  uint32 type = 2;
+  bytes result = 3;
+  .lq.GameUserInput user_input = 4;
+  .lq.GameUserEvent user_event = 5;
+  uint32 game_event = 6;
+}
+
+message GameChiPengGang {
+  uint32 type = 1;
+  uint32 index = 2;
+  bool cancel_operation = 3;
+  uint32 timeuse = 6;
+}
+
+message GameDetailRecords {
+  repeated bytes records = 1;
+  uint32 version = 2;
+  repeated .lq.GameAction actions = 3;
+  bytes bar = 4;
+}
+
+message GameEnd {
+  repeated int32 scores = 1;
+}
+
+message GameSelfOperation {
+  uint32 type = 1;
+  uint32 index = 2;
+  string tile = 3;
+  bool cancel_operation = 4;
+  bool moqie = 5;
+  uint32 timeuse = 6;
+  int32 tile_state = 7;
+  repeated string change_tiles = 8;
+  repeated int32 tile_states = 9;
+  uint32 gap_type = 10;
+}
+
+message GameSnapshot {
+
+  message PlayerSnapshot {
+
+    message Fulu {
+      uint32 type = 1;
+      repeated string tile = 2;
+      repeated uint32 from = 3;
+    }
+
+    int32 score = 1;
+    int32 liqiposition = 2;
+    uint32 tilenum = 3;
+    repeated string qipais = 4;
+    repeated .lq.GameSnapshot.PlayerSnapshot.Fulu mings = 5;
+  }
+
+  uint32 chang = 1;
+  uint32 ju = 2;
+  uint32 ben = 3;
+  uint32 index_player = 4;
+  uint32 left_tile_count = 5;
+  repeated string hands = 6;
+  repeated string doras = 7;
+  uint32 liqibang = 8;
+  repeated .lq.GameSnapshot.PlayerSnapshot players = 9;
+  bool zhenting = 10;
+}
+
+message GameUserEvent {
+  uint32 seat = 1;
+  uint32 type = 2;
+}
+
+message GameUserInput {
+  uint32 seat = 1;
+  uint32 type = 2;
+  uint32 emo = 3;
+  .lq.GameSelfOperation operation = 10;
+  .lq.GameChiPengGang cpg = 11;
+  .lq.GameVoteGameEnd vote = 12;
+}
+
+message GameVoteGameEnd {
+  bool yes = 1;
+}
+
+message HuInfoXueZhanMid {
+  uint32 seat = 1;
+  uint32 hand_count = 2;
+  repeated string hand = 3;
+  repeated string ming = 4;
+  string hu_tile = 5;
+  bool zimo = 6;
+  bool yiman = 7;
+  uint32 count = 8;
+  repeated .lq.FanInfo fans = 9;
+  uint32 fu = 10;
+  uint32 title_id = 11;
+}
+
+message HuleInfo {
+  repeated string hand = 1;
+  repeated string ming = 2;
+  string hu_tile = 3;
+  uint32 seat = 4;
+  bool zimo = 5;
+  bool qinjia = 6;
+  bool liqi = 7;
+  repeated string doras = 8;
+  repeated string li_doras = 9;
+  bool yiman = 10;
+  uint32 count = 11;
+  repeated .lq.FanInfo fans = 12;
+  uint32 fu = 13;
+  string title = 14;
+  uint32 point_rong = 15;
+  uint32 point_zimo_qin = 16;
+  uint32 point_zimo_xian = 17;
+  uint32 title_id = 18;
+  uint32 point_sum = 19;
+  uint32 dadian = 20;
+  uint32 baopai = 21;
+  repeated uint32 baopai_seats = 22;
+  repeated string lines = 23;
+  uint32 tianming_bonus = 24;
+  repeated string baida_changed = 25;
+  string hu_tile_baiDa_changed = 26;
+  uint32 xia_ke_shang_coefficient = 27;
+}
+
+message HunZhiYiJiBuffInfo {
+  uint32 seat = 1;
+  uint32 continue_deal_count = 2;
+  bool overload = 3;
+}
+
+message LiQiSuccess {
+  uint32 seat = 1;
+  int32 score = 2;
+  uint32 liqibang = 3;
+  bool failed = 4;
+  uint32 liqi_type_beishuizhizhan = 5;
+  .lq.XiaKeShangInfo xia_ke_shang = 6;
+}
+
+message MuyuInfo {
+  uint32 seat = 1;
+  uint32 count = 2;
+  uint32 count_max = 3;
+  uint32 id = 4;
+}
+
+message NewRoundOpenedTiles {
+  uint32 seat = 1;
+  repeated string tiles = 2;
+  repeated uint32 count = 3;
+}
+
+message NoTilePlayerInfo {
+  bool tingpai = 3;
+  repeated string hand = 4;
+  repeated .lq.TingPaiInfo tings = 5;
+  bool already_hule = 6;
+}
+
+message NoTileScoreInfo {
+  uint32 seat = 1;
+  repeated int32 old_scores = 2;
+  repeated int32 delta_scores = 3;
+  repeated string hand = 4;
+  repeated string ming = 5;
+  repeated string doras = 6;
+  uint32 score = 7;
+  repeated int32 taxes = 8;
+  repeated string lines = 9;
+}
+
+message OptionalOperation {
+  uint32 type = 1;
+  repeated string combination = 2;
+  repeated string change_tiles = 3;
+  repeated int32 change_tile_states = 4;
+  uint32 gap_type = 5;
+}
+
+message OptionalOperationList {
+  uint32 seat = 1;
+  repeated .lq.OptionalOperation operation_list = 2;
+  uint32 time_add = 4;
+  uint32 time_fixed = 5;
+}
+
+message PlayerLeaving {
+  uint32 seat = 1;
+}
+
+message RecordAnGangAddGang {
+  uint32 seat = 1;
+  uint32 type = 2;
+  string tiles = 3;
+  repeated string doras = 6;
+  repeated .lq.OptionalOperationList operations = 7;
+  .lq.MuyuInfo muyu = 8;
+}
+
+message RecordBaBei {
+  uint32 seat = 1;
+  repeated string doras = 6;
+  repeated .lq.OptionalOperationList operations = 7;
+  bool moqie = 8;
+  uint32 tile_state = 10;
+  .lq.MuyuInfo muyu = 11;
+}
+
+message RecordChangeTile {
+
+  message TingPai {
+    uint32 seat = 1;
+    repeated .lq.TingPaiInfo tingpais1 = 2;
+  }
+
+  message ChangeTile {
+    repeated string in_tiles = 1;
+    repeated int32 in_tile_states = 2;
+    repeated string out_tiles = 3;
+    repeated int32 out_tile_states = 4;
+  }
+
+  repeated string doras = 1;
+  repeated .lq.RecordChangeTile.TingPai tingpai = 2;
+  repeated .lq.RecordChangeTile.ChangeTile change_tile_infos = 3;
+  .lq.OptionalOperationList operation = 4;
+  uint32 change_type = 5;
+  repeated .lq.OptionalOperationList operations = 6;
+}
+
+message RecordChiPengGang {
+  uint32 seat = 1;
+  uint32 type = 2;
+  repeated string tiles = 3;
+  repeated uint32 froms = 4;
+  .lq.LiQiSuccess liqi = 5;
+  repeated bool zhenting = 7;
+  .lq.OptionalOperationList operation = 8;
+  repeated uint32 tile_states = 9;
+  .lq.MuyuInfo muyu = 10;
+  repeated int32 scores = 11;
+  uint32 liqibang = 12;
+  .lq.YongchangInfo yongchang = 13;
+  .lq.HunZhiYiJiBuffInfo hun_zhi_yi_ji_info = 14;
+}
+
+message RecordDealTile {
+  uint32 seat = 1;
+  string tile = 2;
+  uint32 left_tile_count = 3;
+  .lq.LiQiSuccess liqi = 5;
+  repeated string doras = 6;
+  repeated bool zhenting = 7;
+  .lq.OptionalOperationList operation = 8;
+  uint32 tile_state = 9;
+  .lq.MuyuInfo muyu = 11;
+  uint32 tile_index = 12;
+  .lq.HunZhiYiJiBuffInfo hun_zhi_yi_ji_info = 13;
+}
+
+message RecordDiscardTile {
+  uint32 seat = 1;
+  string tile = 2;
+  bool is_liqi = 3;
+  bool moqie = 5;
+  repeated bool zhenting = 6;
+  repeated .lq.TingPaiInfo tingpais = 7;
+  repeated string doras = 8;
+  bool is_wliqi = 9;
+  repeated .lq.OptionalOperationList operations = 10;
+  uint32 tile_state = 11;
+  .lq.MuyuInfo muyu = 12;
+  .lq.YongchangInfo yongchang = 13;
+  .lq.HunZhiYiJiBuffInfo hun_zhi_yi_ji_info = 14;
+  uint32 liqi_type_beishuizhizhan = 27;
+}
+
+message RecordFillAwaitingTiles {
+  repeated string awaiting_tiles = 1;
+  uint32 left_tile_count = 2;
+  .lq.OptionalOperationList operation = 3;
+  .lq.LiQiSuccess liqi = 4;
+}
+
+message RecordGangResult {
+  .lq.ChuanmaGang gang_infos = 1;
+}
+
+message RecordGangResultEnd {
+  .lq.ChuanmaGang gang_infos = 1;
+}
+
+message RecordHule {
+  repeated .lq.HuleInfo hules = 1;
+  repeated int32 old_scores = 2;
+  repeated int32 delta_scores = 3;
+  uint32 wait_timeout = 4;
+  repeated int32 scores = 5;
+  .lq.GameEnd gameend = 6;
+  repeated string doras = 7;
+  .lq.MuyuInfo muyu = 8;
+  int32 baopai = 9;
+  .lq.HunZhiYiJiBuffInfo hun_zhi_yi_ji_info = 10;
+}
+
+message RecordHuleXueZhanEnd {
+  repeated .lq.HuInfoXueZhanMid hules = 1;
+  repeated int32 old_scores = 2;
+  repeated int32 delta_scores = 3;
+  repeated int32 scores = 4;
+  uint32 wait_timeout = 5;
+  .lq.GameEnd gameend = 6;
+  repeated string doras = 7;
+  .lq.MuyuInfo muyu = 8;
+  repeated .lq.HuleInfo hules_history = 9;
+}
+
+message RecordHuleXueZhanMid {
+  repeated .lq.HuInfoXueZhanMid hules = 1;
+  repeated int32 old_scores = 2;
+  repeated int32 delta_scores = 3;
+  repeated int32 scores = 5;
+  repeated string doras = 7;
+  .lq.MuyuInfo muyu = 8;
+  .lq.LiQiSuccess liqi = 9;
+  repeated bool zhenting = 10;
+}
+
+message RecordLiuJu {
+  uint32 type = 1;
+  .lq.GameEnd gameend = 2;
+  uint32 seat = 3;
+  repeated string tiles = 4;
+  .lq.LiQiSuccess liqi = 5;
+  repeated string allplayertiles = 6;
+  .lq.MuyuInfo muyu = 7;
+  repeated .lq.HuleInfo hules_history = 9;
+}
+
+message RecordLockTile {
+  uint32 seat = 1;
+  repeated int32 scores = 2;
+  uint32 liqibang = 3;
+  string tile = 4;
+  repeated .lq.OptionalOperationList operation = 5;
+  repeated bool zhentings = 6;
+  repeated .lq.TingPaiInfo tingpais = 7;
+  repeated string doras = 8;
+  int32 lock_state = 9;
+}
+
+message RecordNewCard {
+  uint32 field_spell = 1;
+}
+
+message RecordNewRound {
+
+  message TingPai {
+    uint32 seat = 1;
+    repeated .lq.TingPaiInfo tingpais1 = 2;
+  }
+
+  uint32 chang = 1;
+  uint32 ju = 2;
+  uint32 ben = 3;
+  string dora = 4;
+  repeated int32 scores = 5;
+  uint32 liqibang = 6;
+  repeated string tiles0 = 7;
+  repeated string tiles1 = 8;
+  repeated string tiles2 = 9;
+  repeated string tiles3 = 10;
+  repeated .lq.RecordNewRound.TingPai tingpai = 11;
+  .lq.OptionalOperationList operation = 12;
+  string md5 = 13;
+  string paishan = 14;
+  uint32 left_tile_count = 15;
+  repeated string doras = 16;
+  repeated .lq.NewRoundOpenedTiles opens = 17;
+  .lq.MuyuInfo muyu = 18;
+  repeated .lq.OptionalOperationList operations = 19;
+  uint32 ju_count = 20;
+  uint32 field_spell = 21;
+  string sha256 = 22;
+  .lq.YongchangInfo yongchang = 23;
+  string saltSha256 = 24;
+  string salt = 25;
+  .lq.XiaKeShangInfo xia_ke_shang = 26;
+}
+
+message RecordNoTile {
+  bool liujumanguan = 1;
+  repeated .lq.NoTilePlayerInfo players = 2;
+  repeated .lq.NoTileScoreInfo scores = 3;
+  bool gameend = 4;
+  .lq.MuyuInfo muyu = 5;
+  repeated .lq.HuleInfo hules_history = 9;
+}
+
+message RecordRevealTile {
+  uint32 seat = 1;
+  bool is_liqi = 2;
+  bool is_wliqi = 3;
+  bool moqie = 4;
+  repeated int32 scores = 5;
+  uint32 liqibang = 6;
+  repeated .lq.OptionalOperationList operations = 7;
+  repeated .lq.TingPaiInfo tingpais = 8;
+  string tile = 9;
+  repeated bool zhenting = 10;
+}
+
+message RecordSelectGap {
+
+  message TingPai {
+    uint32 seat = 1;
+    repeated .lq.TingPaiInfo tingpais1 = 2;
+  }
+
+  repeated uint32 gap_types = 1;
+  repeated .lq.RecordSelectGap.TingPai tingpai = 2;
+  .lq.OptionalOperationList operation = 3;
+}
+
+message RecordSubmit {
+  repeated .lq.SubmitInfo submits = 1;
+}
+
+message RecordTake {
+
+  message TingPai {
+    uint32 seat = 1;
+    repeated .lq.TingPaiInfo tingpais1 = 2;
+  }
+
+  repeated .lq.TakeInfo takes = 1;
+  repeated .lq.TingPaiDiscardInfo tingpais0 = 2;
+  repeated .lq.RecordTake.TingPai tingpai = 3;
+  .lq.OptionalOperationList operation = 4;
+}
+
+message RecordUnveilTile {
+  int32 seat = 1;
+  repeated int32 scores = 2;
+  uint32 liqibang = 3;
+  .lq.OptionalOperationList operation = 4;
+}
+
+message SubmitGroup {
+  uint32 count = 1;
+  repeated string tiles = 2;
+}
+
+message SubmitInfo {
+  uint32 submit_seat = 1;
+  repeated .lq.SubmitGroup groups = 2;
+}
+
+message TakeInfo {
+  uint32 take_seat = 1;
+  uint32 from_seat = 2;
+  uint32 count = 3;
+  repeated string tiles = 4;
+}
+
+message TingPaiDiscardInfo {
+  string tile = 1;
+  bool zhenting = 2;
+  repeated .lq.TingPaiInfo infos = 3;
+}
+
+message TingPaiInfo {
+  string tile = 1;
+  bool haveyi = 2;
+  bool yiman = 3;
+  uint32 count = 4;
+  uint32 fu = 5;
+  uint32 biao_dora_count = 6;
+  bool yiman_zimo = 7;
+  uint32 count_zimo = 8;
+  uint32 fu_zimo = 9;
+}
+
+message XiaKeShangInfo {
+  repeated uint32 score_coefficients = 1;
+}
+
+message YongchangInfo {
+  uint32 seat = 1;
+  uint32 moqie_count = 2;
+  uint32 moqie_bonus = 3;
+  uint32 shouqie_count = 4;
+  uint32 shouqie_bonus = 5;
+}

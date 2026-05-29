@@ -1,0 +1,766 @@
+[
+  {
+    "line": 10,
+    "text": "player"
+  },
+  {
+    "line": 392,
+    "text": "Hibiki Himekawa"
+  },
+  {
+    "line": 393,
+    "text": "Thanks for waiting! To all our viewers in front of the screen, HIBI CHANNEL's special program, \"Haunted Dormitory Live,\" will be starting soon."
+  },
+  {
+    "line": 394,
+    "text": "We're starting later than planned because the previous teams took longer than expected to clear the stages. Let me introduce two new friends to everyone."
+  },
+  {
+    "line": 395,
+    "text": "First up is the mysterious girl next to me. Her left arm is wrapped in bandages, and she has a mysterious aura that is befitting of a haunted house. Ayako, say hello to everyone."
+  },
+  {
+    "line": 396,
+    "text": "Ayako Morikawa"
+  },
+  {
+    "line": 397,
+    "text": "..."
+  },
+  {
+    "line": 398,
+    "text": "Come on, don't be shy. Come closer... Don't worry, they can't bully you through the screen."
+  },
+  {
+    "line": 399,
+    "text": "Th-That's not it... Anyway, hello everyone..."
+  },
+  {
+    "line": 400,
+    "text": "You got a gift just for saying hello?! People sure are nice to characters who have a gloomy personality in these times... The second person is {var:player_nickname}, who is standing on the other side of me."
+  },
+  {
+    "line": 401,
+    "text": "Why are you just standing there? Say hello to everyone!"
+  },
+  {
+    "line": 402,
+    "text": "...Oh? That's all you have to say? Why is my introduction so casual...?"
+  },
+  {
+    "line": 403,
+    "text": "Fine then. Hi, everyone, I'm {var:player_nickname}."
+  },
+  {
+    "line": 404,
+    "text": "This story about our livestream trio, who seem to have nothing to do with each other, started in the morning."
+  },
+  {
+    "line": 405,
+    "text": "*Knock-knock!* *Knock-knock!* A continuous knocking on the door wakes me from my sleep."
+  },
+  {
+    "line": 406,
+    "text": "Morning"
+  },
+  {
+    "line": 407,
+    "text": "Who is that...? It's so early in the morning that I still haven't slept enough."
+  },
+  {
+    "line": 408,
+    "text": "Ayako?"
+  },
+  {
+    "line": 409,
+    "text": "Am I disturbing you?"
+  },
+  {
+    "line": 410,
+    "text": "Not really because it's almost time I got up anyway. What's up?"
+  },
+  {
+    "line": 411,
+    "text": "Hanako said she met some new friends on the island and wants to play together with us today... so..."
+  },
+  {
+    "line": 412,
+    "text": "So?"
+  },
+  {
+    "line": 413,
+    "text": "So... {var:player_nickname}, can you play with us today?"
+  },
+  {
+    "line": 414,
+    "text": "Sure thing. Where are we going?"
+  },
+  {
+    "line": 415,
+    "text": "We're going to a haunted house."
+  },
+  {
+    "line": 416,
+    "text": "...Okay then."
+  },
+  {
+    "line": 417,
+    "text": "Unexpectedly, we ran into Hibiki Himekawa just after we got to the entrance of the haunted house. Unfortunately, she also chose us to be her companions in her program called \"Haunted Dormitory Live.\""
+  },
+  {
+    "line": 418,
+    "text": "The Present"
+  },
+  {
+    "line": 419,
+    "text": "It's one thing if you rope me in, but shouldn't you ask Ayako if she wants to join you?"
+  },
+  {
+    "line": 422,
+    "text": "Hmm?"
+  },
+  {
+    "line": 423,
+    "text": "{var:player_nickname}, they said... they know you so well that they can't scare you anymore, so..."
+  },
+  {
+    "line": 424,
+    "text": "So they're thinking of ways to scare me every day?"
+  },
+  {
+    "line": 425,
+    "text": "Yes... I've tried to stop them, but you all look very happy..."
+  },
+  {
+    "line": 426,
+    "text": "...I see. In that case, I'll give someone else that honor today."
+  },
+  {
+    "line": 427,
+    "text": "By the way, I can't believe the organizer would actually let you livestream the inside of the haunted house. After watching it, the audience would feel like they've already experienced it, which means they wouldn't find it fun the next time they come."
+  },
+  {
+    "line": 428,
+    "text": "Don't worry, I've discussed it with the organizers. My livestream will promote their haunted house and help them get feedback from the audience to improve the haunted house. This is a win-win situation."
+  },
+  {
+    "line": 429,
+    "text": "If you're worried about people getting sick of it... then you can stop worrying now."
+  },
+  {
+    "line": 430,
+    "text": "That man over there said that people rushed here from all over the place after they heard about a new amusement park here... Lots of new people are coming here every day..."
+  },
+  {
+    "line": 431,
+    "text": "The... man over there?! Aha, I see."
+  },
+  {
+    "line": 432,
+    "text": "Ayako is even deliberately keeping the conversation alive. She seems to know what a show like this needs. Anyway, the previous team should hurry up. The viewers are getting so bored that they are starting to spam the video with messages."
+  },
+  {
+    "line": 433,
+    "text": "Announcement"
+  },
+  {
+    "line": 434,
+    "text": "The next group can get ready now. Your spirit adventure is about to begin."
+  },
+  {
+    "line": 435,
+    "text": "Good! It's time for a top player like me to show off my skills! I'm going to clear this haunted house without losing a life."
+  },
+  {
+    "line": 436,
+    "text": "Just so you know, in the bullet comments, most people are betting that you'll surrender and sign an admission of cowardice within ten minutes of entering."
+  },
+  {
+    "line": 438,
+    "text": "We store our mobile phones and anything that can generate light at the front desk. Only Hibiki Himekawa is allowed to hold her mobile phone so she can stream our adventure. Under the guidance of the staff, we walk through a dark tunnel and through a rusty iron door."
+  },
+  {
+    "line": 439,
+    "text": "Staff"
+  },
+  {
+    "line": 440,
+    "text": "There are three floors in this exploration area. Please explore every area to find the clues you need to escape."
+  },
+  {
+    "line": 441,
+    "text": "Well now... I wish you good luck!"
+  },
+  {
+    "line": 442,
+    "text": "The staff smiles strangely while leaving from the entrance after explaining everything we need to know about our mission. With the help of the faint light provided by the old street lamp next to me, I can barely tell that the building in front of me is a dormitory."
+  },
+  {
+    "line": 443,
+    "text": "I can hear the pattering of rain mixed with the sound of thunder. From time to time, a cool gust blows past my feet. Even though I know these sounds are just sound effects and that it isn't really raining, I still feel like something damp and cold is entering my pores, as if it really is the dark and humid rainy season."
+  },
+  {
+    "line": 444,
+    "text": "The atmosphere is quite impressive. But for such a big haunted house, why are they letting just the three of us hog this place?"
+  },
+  {
+    "line": 445,
+    "text": "I prefer it when there are fewer people. Beginners will only slow me down."
+  },
+  {
+    "line": 446,
+    "text": "Eh? The light has gone out!"
+  },
+  {
+    "line": 447,
+    "text": "As soon as we step onto the steps leading to the corridor of the dormitory building, we hear the crisp sound of glass breaking, then the lights behind us go out. In the darkness, our only source of lighting is the dimly lit screen of the mobile phone Hibiki Himekawa is using for streaming."
+  },
+  {
+    "line": 448,
+    "text": "Did you guys hear that?"
+  },
+  {
+    "line": 449,
+    "text": "Are you talking about that creaking sound?"
+  },
+  {
+    "line": 450,
+    "text": "Yes! Don't you think it sounds like... a door being closed?"
+  },
+  {
+    "line": 451,
+    "text": "Since the door is closed, it means we have no way out now. Hibiki, turn up the brightness of your screen so we can see what's around us."
+  },
+  {
+    "line": 452,
+    "text": "No, my mobile phone will die very quickly if I do that. The haunted house won't be fun if it's too bright."
+  },
+  {
+    "line": 453,
+    "text": "It's lights-out time. Please do not linger in the corridor and return to your room to sleep as soon as possible..."
+  },
+  {
+    "line": 454,
+    "text": "...I think I heard something."
+  },
+  {
+    "line": 455,
+    "text": "I think I heard it too... it's the sound of footsteps?"
+  },
+  {
+    "line": 456,
+    "text": "???"
+  },
+  {
+    "line": 457,
+    "text": "It's already so late. Why are there still people... loitering in the corridors?!{var:ShakeScene}"
+  },
+  {
+    "line": 458,
+    "text": "The crackling of electricity and an angry roar shatters the peaceful atmosphere."
+  },
+  {
+    "line": 459,
+    "text": "What on earth is that?!"
+  },
+  {
+    "line": 460,
+    "text": "When I see Hibiki Himekawa running away after hearing the sounds, I drag Ayako Morikawa with me and run after her. From time to time, I hear the sound of metal hitting the window frame behind me, which informs me of the person's malicious intentions without looking back."
+  },
+  {
+    "line": 461,
+    "text": "Hey! Slow down! Wait for us!"
+  },
+  {
+    "line": 462,
+    "text": "Why are you following me?! Lure it somewhere else!"
+  },
+  {
+    "line": 463,
+    "text": "There's only one path here, right? Come on, slow down! We need the light from your mobile phone."
+  },
+  {
+    "line": 464,
+    "text": "Please do not linger in the corridor and return to your room so you won't cause trouble for your dormitory supervisor..."
+  },
+  {
+    "line": 465,
+    "text": "Is it telling us to hide in a bedroom?"
+  },
+  {
+    "line": 466,
+    "text": "...{var:player_nickname}, Hanako said that the first bedroom after we turn right ahead isn't locked."
+  },
+  {
+    "line": 467,
+    "text": "Really? Hibiki! Check out the first room after turning right..."
+  },
+  {
+    "line": 468,
+    "text": "What? Ouch! That hurts... Hey! Come over here! The room's door really is open!"
+  },
+  {
+    "line": 469,
+    "text": "After we escape into the room that Ayako Morikawa mentioned and close the door, the footsteps chasing after us disappear. I notice that Hibiki Himekawa is frowning while stroking the tip of her nose, so I hand her a tissue."
+  },
+  {
+    "line": 470,
+    "text": "Are you okay? You bumped into something earlier, right? Is your nose bleeding?"
+  },
+  {
+    "line": 471,
+    "text": "I was in such a hurry to escape into the room that I forgot to open the door first and ran right into it. It hurts a lot, but my nose isn't bleeding. Hey! Since you guys are already laughing, the least you can do is give me a few gift messages as consolation!"
+  },
+  {
+    "line": 475,
+    "text": "What are you two muttering about over there? Our viewers are asking questions about that in the public chat."
+  },
+  {
+    "line": 476,
+    "text": "Well... it's nothing really. It's just that our friends in this room are saying that it's a little crowded here after we came in..."
+  },
+  {
+    "line": 477,
+    "text": "There are too many people in here."
+  },
+  {
+    "line": 479,
+    "text": "Ayako Morikawa smiles cutely. In this dimly lit room, she doesn't look like an angel... instead, she looks like a witch who is issuing a death sentence."
+  },
+  {
+    "line": 480,
+    "text": "Fortunately, the lights turn on at this moment, illuminating Hibiki Himekawa's pale face."
+  },
+  {
+    "line": 481,
+    "text": "Haha... Haha... Ayako, it'll be everyone's loss if you don't do any shows. I guarantee you'll be the number one streamer of paranormal content."
+  },
+  {
+    "line": 482,
+    "text": "After taking a short break to calm our nerves, we search the room and find a diary that is a clue for solving the mystery."
+  },
+  {
+    "line": 483,
+    "text": "\"The supervisor actually threw my secret notebook into the trash can in the corridor. I must find a time to retrieve it...\" According to the passage in the diary, I think we need to return to the dark corridor to find more clues, right? Who will go?"
+  },
+  {
+    "line": 484,
+    "text": "Hibiki Himekawa"
+  },
+  {
+    "line": 485,
+    "text": "Let's decide that with rock paper scissors. Oh, and Ayako doesn't need to play. After all, you discovered this room."
+  },
+  {
+    "line": 486,
+    "text": "Rock, paper, scissors... Sigh, I lost."
+  },
+  {
+    "line": 487,
+    "text": "{var:player_nickname}, you don't want to go... Are you afraid? Don't worry, Hanako says that our friends outside are very friendly."
+  },
+  {
+    "line": 488,
+    "text": "I guess I am a little scared. Although I know the taser is a prop used to scare people and won't really hurt me, hearing the sound makes me subconsciously want to run away."
+  },
+  {
+    "line": 489,
+    "text": "There's also another reason I don't want to go. My reason is..."
+  },
+  {
+    "line": 490,
+    "text": "Hibiki Himekawa"
+  },
+  {
+    "line": 491,
+    "text": "Tsk, it's such a pity that the lighting isn't good enough to give our viewers a clear look at the wonderful expression on the face when you run away. Why don't you make a little sacrifice for us and do it again?"
+  },
+  {
+    "line": 492,
+    "text": "Ten minutes later"
+  },
+  {
+    "line": 493,
+    "text": "Listen to yourself! How can you say something that horrible?"
+  },
+  {
+    "line": 494,
+    "text": "This is the main reason why I don't want to solve the mystery. I'll be teased by this woman who obviously harbors malicious intentions, and I might even end up as comedic material in the livestream clips."
+  },
+  {
+    "line": 495,
+    "text": "I got what we need. I'm telling you now that I'm not going to take the lead next time."
+  },
+  {
+    "line": 496,
+    "text": "Okay then. To be fair, we'll take turns to test the waters. Let me see, according to this tip... Eh? So that's where the secret passage is? Can't they prepare a more challenging puzzle? I almost fell asleep solving that one."
+  },
+  {
+    "line": 497,
+    "text": "As she boasts, Hibiki Himekawa leans down and crawls into the secret passage, but she stops halfway through it. After a short moment of silence, we hear the sound of a taser from the other end of the passage. Hibiki Himekawa immediately retreats, then she stands up and shouts with a look of shock on her face."
+  },
+  {
+    "line": 498,
+    "text": "Is something wrong with them?! They are actually camping at the exit of the secret passage and scaring people with a taser! That's not fair!"
+  },
+  {
+    "line": 499,
+    "text": "It's a good thing I didn't get in right after you, but it's a pity that I wasn't holding the mobile phone. The look on your face when you came out was simply... spectacular, hehehe. Why don't you make a little sacrifice for us and do it again?"
+  },
+  {
+    "line": 500,
+    "text": "Why don't you go in instead? I can't subject myself to such torture even if I'm a streamer... Oh no, my mobile phone is almost dead. I'll charge it first. Please wait for me..."
+  },
+  {
+    "line": 501,
+    "text": "The mobile phone's screen becomes black before Hibiki Himekawa can finish speaking. I bet many people are complaining about whether our great streamer is making a tactical retreat. Too bad I don't have my mobile phone, or else I can post some bullet comments to fan the flames."
+  },
+  {
+    "line": 502,
+    "text": "The battery runs out faster than I expected when streaming outdoors. Fortunately, I brought two extra power banks with me... We only get a certain amount of time to clear this secret room of the haunted house. Our progress is a little slow, so let's go through the secret passage quickly."
+  },
+  {
+    "line": 503,
+    "text": "After speaking, Hibiki Himekawa passes through the secret passage quickly. After confirming that I can't hear the sound of a taser from the other side, I follow her boldly with Ayako Morikawa, thinking that the NPC guarding the other side should have already left."
+  },
+  {
+    "line": 504,
+    "text": "Huh?!"
+  },
+  {
+    "line": 505,
+    "text": "It turns out that there is a guard, but everyone has to be scared once in the spirit of fairness..."
+  },
+  {
+    "line": 506,
+    "text": "The strange thing is that Hibiki Himekawa is no longer frightened like before after she stops streaming. Instead, she focuses calmly on solving the puzzles. Because she is in a race against time, she actively takes the lead every time to search for the clues at the risk of being scared."
+  },
+  {
+    "line": 507,
+    "text": "Why are you so calm like you're a different person now? Have you already gotten used to the methods used by the NPCs to scare us?"
+  },
+  {
+    "line": 508,
+    "text": "Well, since we aren't streaming right now, I'll tell you the truth. I haven't been scared by anything since the very beginning."
+  },
+  {
+    "line": 509,
+    "text": "Really? But your reactions seemed genuine. Also, aren't you usually afraid of playing horror games?"
+  },
+  {
+    "line": 512,
+    "text": "Huh... Th-There really is a..."
+  },
+  {
+    "line": 513,
+    "text": "Fine, I believe you. In that case, why did you pretend to be scared? And how are you able to make it seem so real?"
+  },
+  {
+    "line": 514,
+    "text": "I need to make a living, right? If the livestream isn't interesting, my viewers will feel bored, and I'll lose followers. Losing followers is much scarier than visiting a haunted house."
+  },
+  {
+    "line": 515,
+    "text": "I have suspended a lot of projects, so my income for this month rests on this livestream. If it isn't good, I might not have any money to spend this month, which is scary enough already."
+  },
+  {
+    "line": 516,
+    "text": "What a realistic reason..."
+  },
+  {
+    "line": 517,
+    "text": "Hibiki Himekawa is pretending to be scared to make her show more interesting, while Ayako Morikawa... has always been very calm. When she isn't solving the puzzles, she spends most of her time smiling at her dolls or looking at me and behind me. That means..."
+  },
+  {
+    "line": 518,
+    "text": "It looks like you're the only one who is scared here."
+  },
+  {
+    "line": 519,
+    "text": "Thanks for not saying that while streaming."
+  },
+  {
+    "line": 520,
+    "text": "Our exploration of the first floor is basically complete after we leave the room we're in. After that, we follow the prompts from the announcements and arrive at a fork. We'll need to split up into two groups to solve the next puzzle."
+  },
+  {
+    "line": 521,
+    "text": "I'll go to the third floor, and you two will go to the second floor. We'll meet up again here later. Ah, it's time to start streaming again now that my mobile phone is fully charged. I'm going to take a lozenge to moisten my throat first."
+  },
+  {
+    "line": 522,
+    "text": "Be careful. Don't get too absorbed in your acting and accidentally hit your head."
+  },
+  {
+    "line": 523,
+    "text": "Without Hibiki Himekawa's help, Ayako Morikawa and I take a lot longer to solve the puzzles..."
+  },
+  {
+    "line": 524,
+    "text": "...{var:player_nickname}, the password is the number of prohibited items carried by the student in the notebook."
+  },
+  {
+    "line": 525,
+    "text": "Oh, you're right. There are six pages each mentioning a number of confiscated prohibited items, and they should correspond to a 6-digit password... You really are smarter than me. I probably wouldn't be able to leave this place by the time the game ends if I'm all by myself."
+  },
+  {
+    "line": 526,
+    "text": "The boy on your left told me that. He said that the previous teams solved the puzzle by doing that."
+  },
+  {
+    "line": 527,
+    "text": "On my... left. I slowly turn my head and take a look, but see nothing. I don't know if it's a psychological suggestion or not, but I start to feel like there really is someone standing on my left-hand side."
+  },
+  {
+    "line": 528,
+    "text": "I made a mistake. You should have teamed up with Hibiki because she is more courageous than me."
+  },
+  {
+    "line": 529,
+    "text": "After that, with the help of some \"friends\" such as a little girl wearing a bowknot, a middle-aged woman wearing a hospital gown, and a young man holding an umbrella, we start solving the puzzles much faster than before."
+  },
+  {
+    "line": 530,
+    "text": "When we return to the fork where we parted ways earlier, we see Hibiki Himekawa leaning against the wall and looking at us triumphantly."
+  },
+  {
+    "line": 531,
+    "text": "{var:player_nickname}, you're too slow!"
+  },
+  {
+    "line": 532,
+    "text": "We're sorry... we're late because we were busy chatting with our new friends."
+  },
+  {
+    "line": 533,
+    "text": "Your n-new friends?"
+  },
+  {
+    "line": 534,
+    "text": "Ahahaha... a top player like you should be more understanding of ordinary players like us. At least we managed to come back within the allotted time."
+  },
+  {
+    "line": 535,
+    "text": "Haha, that makes some sense, but most of my puzzles were quite simple. When I finally encountered a difficult one, an NPC came over to give me hints. I think I'll have a discussion with the organizer later and ask if I can design the puzzles for them instead."
+  },
+  {
+    "line": 536,
+    "text": "If you design the puzzles, I think only one in ten players will be able to get out."
+  },
+  {
+    "line": 537,
+    "text": "You're underestimating me. At most, I think only one in a thousand players will be able to get out."
+  },
+  {
+    "line": 538,
+    "text": "But that NPC who gave me hints is quite good at hiding. I wanted to say thanks, but the person was gone already when I turned around... Huh? Someone sent me a message?"
+  },
+  {
+    "line": 539,
+    "text": "...What? Wh-What's this?"
+  },
+  {
+    "line": 540,
+    "text": "What is it?"
+  },
+  {
+    "line": 541,
+    "text": "My friend said they saw a strange figure behind me when I was streaming..."
+  },
+  {
+    "line": 542,
+    "text": "Hibiki Himekawa hands me her mobile phone, and from the screenshots of the livestream she received, I can see a person's hands or feet appear out of thin air behind Hibiki Himekawa. In some of the photos, I can vaguely see someone who is wearing glasses and drifting around like a ghost, but I can't see this person's face."
+  },
+  {
+    "line": 543,
+    "text": "I-It should be the NPC who gave me hints, right? This person is... quite good at hiding! You agree with me, right?"
+  },
+  {
+    "line": 544,
+    "text": "We manage to clear the stage and leave the haunted house after putting together all our clues. When I walk to the front desk to retrieve the items I stored there, I overhear some staff members talking to each other."
+  },
+  {
+    "line": 545,
+    "text": "Staff A"
+  },
+  {
+    "line": 546,
+    "text": "You have to believe me. I really heard a girl crying on the third floor of the haunted house. She was saying, \"I'm so scared. It's so dark...\" But I couldn't see anyone there."
+  },
+  {
+    "line": 547,
+    "text": "Staff B"
+  },
+  {
+    "line": 548,
+    "text": "What nonsense are you talking about during the day? You better cut it out now. The next group of customers are about to enter."
+  },
+  {
+    "line": 549,
+    "text": "Umm..."
+  },
+  {
+    "line": 550,
+    "text": "Hold it right there! Don't say anything. Ghosts don't appear during the day, so let's treat that person as an NPC!"
+  },
+  {
+    "line": 552,
+    "text": "...Don't worry, I wasn't going to say that you met a ghost. I just wanted to see those screenshots of the livestream again."
+  },
+  {
+    "line": 553,
+    "text": "I take another look at those screenshots again and get more and more convinced that the glasses-wearing person looks familiar... Now that I think about it, weird effects similar to what I see in the screenshots also happened when \"she\" was filming a promotional video for her club."
+  },
+  {
+    "line": 554,
+    "text": "I think I know what happened. You two should find a place to sit down while you wait for me. I need to go back inside the haunted house."
+  },
+  {
+    "line": 555,
+    "text": "{var:player_nickname}, can you do something for me? Sadako is still playing with her new friends in there..."
+  },
+  {
+    "line": 556,
+    "text": "If you see her, can you bring her out with you? I'm sorry that she's always so naughty..."
+  },
+  {
+    "line": 557,
+    "text": "Okay, I'll help you keep an eye out for her. If I don't find her, I'll ask the staff to help me. I'll be back soon..."
+  },
+  {
+    "line": 558,
+    "text": "Oh? It really is you."
+  },
+  {
+    "line": 559,
+    "text": "After searching inside the haunted house for a while, I see Hana Ninomiya shivering while squatting in a corner of a room on the third floor."
+  },
+  {
+    "line": 560,
+    "text": "Hana Ninomiya"
+  },
+  {
+    "line": 561,
+    "text": "{var:player_nickname}?! A-Are you here to get me?"
+  },
+  {
+    "line": 562,
+    "text": "Yes. I heard the staff say that they heard a girl crying but didn't see anyone around, so I was wondering if that was you. Hibiki Himekawa also said that someone gave her hints when she was solving a puzzle, but couldn't see anyone when she turned around. That person must have been you too, right?"
+  },
+  {
+    "line": 563,
+    "text": "By the way, why are you here all by yourself? I thought you need to be in a team of at least three people to enter the haunted house. Where are your teammates?"
+  },
+  {
+    "line": 564,
+    "text": "I got separated from them soon after we entered... It's so dark here, and there are multiple floors, so I keep getting lost and wandering around..."
+  },
+  {
+    "line": 565,
+    "text": "I finally managed to meet Hibiki Himekawa, and she even heard me talking, so I thought I could follow her out, but she left immediately after completing the task. When I was just about to follow her, I was startled by an NPC that jumped out... and lost her trail."
+  },
+  {
+    "line": 566,
+    "text": "*sobs*... I-I'm so happy you came back for me, or else I don't think I'll be able to get out today..."
+  },
+  {
+    "line": 567,
+    "text": "It's okay now, so dry up your tears. Next time you visit a haunted house, make sure to bring me along... Hmm? What's with that doll you're carrying?"
+  },
+  {
+    "line": 568,
+    "text": "This? I found it when I was solving a puzzle on the third floor. She was sitting on top of a television in the room next door. I thought it was a clue."
+  },
+  {
+    "line": 569,
+    "text": "...This is the third floor. Why would Ayako Morikawa's Sadako doll be here?"
+  },
+  {
+    "line": 570,
+    "text": "Why aren't you saying something, {var:player_nickname}? Is something wrong?"
+  },
+  {
+    "line": 571,
+    "text": "N-Nothing. Let's get out first."
+  },
+  {
+    "line": 572,
+    "text": "Maybe it's because Ayako Morikawa forgot she left Sadako in the haunted house that she said Sadako was playing with her new friends and didn't come out..."
+  },
+  {
+    "line": 573,
+    "text": "Okay, I'm going to pretend that's the case. I'm not going to worry about the details, such as how Ayako Morikawa and I never went to the third floor to solve any puzzles..."
+  },
+  {
+    "line": 575,
+    "text": "...Huh?! I-I received a text message."
+  },
+  {
+    "line": 577,
+    "text": "I open the voice message Hibiki Himekawa sent to me and listen to her excited voice coming from the mobile phone."
+  },
+  {
+    "line": 578,
+    "text": "Hey! Someone uploaded a clip of my livestream today, the part where I was haunted! Now the number of views keeps growing with unstoppable momentum! Woohoo! I'm going to have lots of money to spend this month!"
+  },
+  {
+    "line": 579,
+    "text": "H-Haunted?! Is this haunted house really haunted?!"
+  },
+  {
+    "line": 580,
+    "text": "Don't panic. It's just a misunderstanding. But I think she'll probably just think I'm poking my nose where it doesn't belong if I try to explain things to her now."
+  },
+  {
+    "line": 581,
+    "text": "After staring at the screen of the mobile phone in my hand for a while, I reply saying, \"As long as you're happy...\""
+  },
+  {
+    "line": 582,
+    "text": "Also, Reiko and the others said that it's better if there are... some strangers with us."
+  },
+  {
+    "line": 583,
+    "text": "I don't care. These viewers have always been waiting for me to make a fool of myself with a bowl of popcorn in hand. I've always managed to make them admit that they are the fools instead. Let's go!"
+  },
+  {
+    "line": 584,
+    "text": "Tsk, it's so dark in here that I can't even see what the NPCs look like. Besides, it's not like it'll be Game Over if they catch up to us. Even if I'm not streaming this, seeing how tiring it is for them to follow us everywhere, I guess any reaction I give them is giving them face."
+  },
+  {
+    "line": 585,
+    "text": "As for the jump scare with the secret passage, I'm not a beginner who doesn't know what to do. Whenever I go to a new place, I always scout out the area first. If you don't believe me... well, there's a secret door behind you. Now that I think about it, they should be coming through any minute."
+  },
+  {
+    "line": 586,
+    "text": "Oh, I... I don't mind... as long as {var:player_nickname} is with me."
+  },
+  {
+    "line": 587,
+    "text": "{var:player_nickname}, Sadako said a real person NPC was chasing after us just then."
+  },
+  {
+    "line": 588,
+    "text": "That's even scarier! Don't you know that people are the scariest things of all?"
+  },
+  {
+    "line": 589,
+    "text": "Yes... but..."
+  },
+  {
+    "line": 590,
+    "text": "I thought that you would be scared if I told you, but {var:player_nickname} said that it's scarier when people scare each other... so I think it's okay."
+  },
+  {
+    "line": 591,
+    "text": "Yes, that's right. That must be the case... I don't think anything strange has happened here before, right...?"
+  },
+  {
+    "line": 592,
+    "text": "It's simply impossible for a doll to run around on its own..."
+  },
+  {
+    "line": 593,
+    "text": "It's really scary when your phone vibrates while your thoughts are running wild."
+  }
+]

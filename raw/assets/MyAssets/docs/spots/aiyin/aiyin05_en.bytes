@@ -1,0 +1,284 @@
+1:player
+3:Ein
+4:You're incredible, {var:player_nickname}! You even managed to make a comeback in this situation.
+5:Haha, I just got lucky.
+6:After putting the scoring sticks away, I rise from fourth place to first place and become the ultimate winner of this game. I nod at the other two players in the game and stand up contently to stretch my body after sitting at the mahjong table all afternoon.
+7:Damn, if I kept that Red in the tenth turn, then I would've been able to win two turns before you.
+8:Are you still reviewing the log of the previous game? You can't always be so serious. You've got to learn to relax too, so get some rest now and start working hard again tomorrow.
+9:Sigh... I guess you're right.
+10:Ein stands up obediently and prepares to go outside with me for some fresh air, but he keeps talking about the game, and even his tail, which is usually raised high in the air, is hanging low behind him. It's obvious to anyone that he's unhappy about what happened.
+11:Hmm, Ein is still as persistent as ever when it comes to mahjong-related things... I should try to comfort him first.
+12:With this thought in mind, I quicken my pace to catch up to Ein so I can rub his furry tail and deliver my carefully considered message in a gentle tone to try to cheer him up.
+13:Ein, you've had quite a high winning percentage today, so you've done great... Huh? What's this...?
+14:My hand on his tail freezes suddenly after feeling something unfamiliar. I open my palm in disbelief and pick up a strand of messy orange-red animal fur.
+15:{var:player_nickname}, why did you stop suddenly? Did you forget something?
+16:I was trying to cheer you up, but now it seems that it has backfired... I feel a little complicated now.
+17:Huh?
+18:I sigh deeply in my heart as I look at Ein, who still hasn't reacted to my words, and motion for him to look back at his tail while showing him the fox fur in my hand in front of him.
+20:Yes, you're right. It's fur that you've just shed.
+21:Although this might sound a little offensive... I feel like I need to give you a reminder since we're such good mahjong buddies. Ein, you may have a serious fur loss problem based on the amount of fur you lost when I touched your tail gently.
+22:Immediately after I finish speaking, Ein's big, furry tail disappears quickly behind him. Avoiding my eyes, Ein stands up straight and spreads his arms to try to cover the bald tip of his tail with his body.
+23:You've got it wrong. Th-This is quite natural. Foxes have a molting period every year, and even the warriors of my tribe are no exception.
+24:Although you sound very sincere, I still suspect that you're hiding something from me.
+25:Did Zechs say something to you? Ahem, well...
+26:This has nothing to do with Zechs. It's mainly because I played with a little fox at Countless Springs for a long time when I was there a few days ago, and it didn't look like it was molting at all.
+27:If foxes do molt around this time of the year, then you should both be molting around the same time since you're both foxes, right?
+28:Well... umm... er... a-actually, every fox has their own difficulties, so...
+29:Judging from how you're stuttering, did I guess right?
+30:...
+31:With his amber-colored fox eyes, Ein looks at the sky, the ground, the mahjong table next to him, Ichihime who is busy with something, Wanjirou who is chatting, the scenery outside the door, and the noisy children. However, he doesn't look at me. Guilt is written all over his face.
+33:Ein, listen to me...
+34:{var:player_nickname}, actually, this is what happened.
+35:After a short silence, Ein and I speak at the same time. We share a glance and a smile after realizing we were thinking the same thing, which sweeps away the awkward atmosphere. Ein then graciously acts like a gentleman.
+36:You go first.
+37:I just want to tell you that fur shedding isn't such a serious problem, so you don't need to hide anything, Ein. There's nothing to be afraid of. I'll help you find a solution to help you recover.
+38:Are you saying that you'll keep me company the whole time?
+39:Yes, because like you said, we're best friends.
+40:I understand. {var:player_nickname}, you want to share my joys and sorrows.
+41:It's said the mood of an animal is reflected by the actions of its tail, and Ein seems to be proving the veracity of this statement right now as his tail, which he has been deliberately hiding behind his back, is now standing straight and trembling slightly. It's obvious that he's in a very good mood right now.
+42:But I still have some lingering concerns when I recall what happened the last time I shared his joys and sorrows... especially when I look subconsciously at a bare patch of flesh-colored skin at the tip of his tail, which forms a strong contrast with the orange-red fur all around it.
+43:I don't want him to become bald!!!
+44:Ein, the bald patch on your tail is so obvious that any member of the Furry Conservation Association would go crazy if they saw it. Hmm, if we go to the hospital, it would be bad if someone who knows you sees you there, but how else can we treat your fur shedding problem, Ein...?
+45:It's not actually that urgent. New fur will grow on my tail after a while.
+46:New fur... I know what we can do!
+47:Clerk
+48:Er... Welcome to Wellness & Happiness Pharmacy. How can I help you?
+
+50:If you see two customers wearing hats, sunglasses, and large black coats enter the store during the evening shift, most people would wonder if they should call the police, but this clerk is still serving us with a smile. That's some serious professionalism.
+51:The authorities will come after us soon if you keep mumbling and acting suspiciously. I'm only doing this to protect your privacy. After all, Mr. Fox, you don't want anyone to know that you've come to buy hair growth serum, right?!
+52:Is that a threat? It is, right? Where has my naive, cute, kind, brave, intelligent, and warm-hearted {var:player_nickname} gone?!
+53:If you keep dawdling like this, you'll soon know that I can follow up my threats with violence.
+54:Encouraged by my "kind" smile, Ein finally reluctantly asks the clerk about the item we've come to buy.
+55:I... We want to buy a bottle of... hair growth serum. Is there any product you would recommend?
+56:You've come at just the right time. We've just stocked a new anti-hair loss serum. Buy two bottles and you'll get one more bottle for free. It's also 20% off right now.
+57:I don't need it, but...
+58:I saw the promotional poster in the window. What's special about this hair growth serum?
+59:Please give me a few minutes to introduce this product to you. This serum is formulated with ginseng and oriental arborvitae, which effectively controls oil secretion and reduces dandruff. The company holds a special patent, and many influencers have recommended it on CatChat.
+60:I see. So this is basically a trending product promoted by Internet celebrities.
+61:Please don't let yourself be biased because of this. When a product becomes popular on the Internet, it's usually because it has features that people really like. You don't need to worry about this at all.
+62:What's more, you can get a free trial pack if you buy it today, but it's only available on a first-come, first-served basis while stock lasts.
+63:Now I understand why sales-related part-time jobs usually have higher pay. It's because very few people can resist buying something if they are guided bit by bit and lured with offers.
+64:Haha, you're really good at making jokes. I'm just recommending a product to you. But since you said that, have you already decided to buy it?
+65:I... We need to think about it. We'll let you know if we need more help.
+66:Sure thing. Please take your time.
+67:After the clerk walks off, I move closer to Ein and ask him a question in a low voice.
+68:Ein, is there something you don't like about it?
+69:No, no, no. I just have some doubts and want to know more about this product. The feelings of uneasiness I've had since entering this store have also been validated.
+70:After waving his finger at me to signal me to come closer, Ein puts his phone in front of my face and motions for me to read something together with him.
+71:{var:player_nickname}, this is some information I found online about this hair growth serum. Can you see anything strange about it?
+72:Let me see. There seems to be nothing wrong with its composition, factory of production, official certification, or patent certificate... What is strange about it...?
+73:Look over here! This company develops a hair growth serum, but the top of their chairman's head is bald! This doesn't make sense at all!
+74:Ein points at the photo as he speaks indignantly and gestures excitedly with his hands. His eyes are also full of distrust.
+75:This really is strange. Is it possible that the chairman hasn't used his own company's product?
+76:You agree with me, right? I have good reason to suspect that this hair growth serum isn't as effective as advertised, so we have absolutely no reason to buy it.
+77:Ads usually exaggerate the effects of products, but that doesn't mean the products won't work at all.
+78:B-But I don't need this type of thing at all!
+79:Look at your balding tail. You've lost so much fur that it'll go completely bald sooner or later if you don't do anything about it.
+80:But...
+81:Seeing that Ein has started hesitating, I decide to give him an extra push.
+82:I've come here to buy a hair growth serum with you during the precious time that I usually spend playing mahjong. You won't let my good intentions go to waste, right?
+83:N-No way. I won't do anything to make you sad. It's just a hair growth serum. I'll buy it now.
+84:As if he is afraid that I'll misunderstand him, Ein straightens his back and pats his chest. The determined look in his eyes even makes me think that he is about to participate in the finals of a mahjong competition at the Mahjong Soul Shrine.
+85:Wonderful! That'll be 12,000 Coppers. Will you pay by card or by cash?
+86:The clerk appears suddenly and smiles brightly while handing over an already-packaged hair growth serum gift box to Ein.
+87:12,000!!! I-I'll pay by cash, thanks. Sigh, I'm paying such a heavy price so that you get to stroke my furry tail again, {var:player_nickname}.
+88:In that case, I'll need to check up on you more closely after this. Remember to follow the instructions closely and use it at the right time every day. Start using it after you get home tonight. I'll check up on you.
+89:Ignoring Ein's distressed look, I lead him away forcefully without giving him any chance to regret anything. It isn't until after we part ways that I remember he was also about to tell me something when we were at the shrine.
+90:Hmm... it shouldn't be that important, right? I'll ask him the next time I see him.
+91:I was thinking of checking up on Ein every day, but I was caught up in other things, and a week had passed before things slowed down again.
+92:I wonder how Ein is doing. He should be at his part-time job right now, so maybe I should wait a little longer before...
+93:{var:player_nickname}, what a coincidence, haha.
+94:Oh, speak of the "fox," here he is. A familiar figure appears in front of me as hearty laughter rings in my ears.
+95:It must be my lucky day to run into you right after I left work today. Do you want to play mahjong together at the shrine? I won't lose to you today.
+96:Before that, let me take a look at your tail.
+97:Huh?
+98:Ein, who was just so happy that his head was shaking around, suddenly seemed to be paralyzed. He opens his mouth to say something, but only a few incomprehensible sounds come out.
+99:Wait! Wait! People will think we're doing something strange if you get too close to me.
+100:This is the most secluded part of the whole street, and very few people pass by here. It won't take very long to check up on your tail anyway. You just need to cooperate with me and turn around.
+101:Don't be shy. It'll be over soon.
+102:To make sure Ein won't be able to run away, I forcefully trap him between myself and the wall, then grab his tail and examine it carefully.
+103:The bald part at the tip of your tail looks almost the same as last week. Ein, have you really been using the hair growth serum every day?
+104:Umm, I... I guess so. I followed the instructions and applied a cold compress after using the essence.
+105:Hmm? I remember the instructions clearly state that you should apply a hot compress for half an hour before using the essence.
+106:!!!
+107:Ein, you're usually so meticulous when it comes to other people's affairs, so why are you so careless about your own affairs?
+108:As I already know that Ein is reluctant to use the hair growth serum, a seed of doubt quickly takes root in my heart when I see how ambiguous he is acting while trying to explain things and think about the mistake he made and his tail, which hasn't improved at all.
+109:Ein, did you really use the hair growth serum to treat your fur shedding problem?
+110:Upon hearing my words, Ein's face turns as red as a beetroot, and he pulls his tail out of my hands with a little force. I don't know if it's because he is angry or embarrassed, but the color of his body gradually becomes the same color as his orange-red hair.
+111:It's not right to doubt others without any evidence
+112:Without wavering, ask about the truth
+113:Ein's tribe hunts for a living, and having a strong body is an essential requirement of a warrior. Now that I think about it, Ein has been influenced by his tribe since a young age, so there's no way he'll neglect his health.
+114:Maybe Ein is telling the truth when he says that every fox has their own difficulties... It's not right to rashly doubt another person based on a few trivial things.
+115:Hmm... I should think of a way to help Ein with his fur shedding problem first, and then play mahjong with him to make up for it.
+116:After deciding how I'll be using my time in my head, I look up and into his eyes again.
+117:I, actually...
+118:I'm sorry, Ein. I shouldn't have doubted you. I'm only so anxious because I'm worried about your health.
+119:Actually, I'm really healthy. I'm telling the truth!
+120:As Ichihime's owner, a friend to Wanjirou, Zechs, Hannah, and Emma, a regular of Soul and Countless Springs, and a friendly playmate to Mojito the black panther and Snowy Dumpling the snow fox, I'm well aware that a healthy animal shouldn't shed their fur like this. Ein, please don't hide your condition from me because you don't want me to worry about you.
+121:Okay, then you should also forget about the hair growth serum. Either way, I'll definitely recover soon with you by my side.
+122:I feel relieved to see how positive you are about this. I'll also accompany you every step of the way when you see a doctor.
+123:...See a doctor?
+124:Since your fur shedding problem hasn't improved at all after so long, it looks like that hair growth serum might not be that suitable for you. I'm free this afternoon, so I can take you to see a doctor. I'll feel more relieved after that.
+125:Seeing that Ein is about to say something else, I quickly make an announcement that ends this one-sided argument.
+126:It's decided then. Let's go now!
+127:A hospital is a solemn place where people will subconsciously lower their voices after stepping through its doors, and even the naughtiest child doesn't dare to cause trouble in front of a doctor.
+128:I take Ein with me to the dermatology department and sit on the bench outside it. Compared with the patients beside me who are waiting quietly for their number to be called, the fox who is constantly whispering in my ear and fidgeting seems a little out of place.
+129:The registration fee for a consultation with the dermatologist costs 2,000 Coppers! Sigh... This hurts so badly...
+130:If you need any Coppers, I can...
+131:It's not about the Coppers. I just think this expense isn't necessary.
+132:Haven't we already discussed this many times on the way here? It's not good to hide your illness because you're afraid of the treatment.
+133:But physical health isn't the only reason for shedding fur. It can also be caused by excessive work stress, finishing in fourth place too often in mahjong games, or staying up late. In these situations, a doctor won't really be able to help.
+134:If the bald patch on your tail is caused by those reasons, your condition should have improved by a little since last time. After all, it's been a week since we discovered your problem, and you would definitely have improved your work and rest habits after becoming aware of what's happened.
+135:About this, {var:player_nickname}, you should take full responsibility.
+136:What does this have to do with me?
+137:You promised that you would keep me company until I recovered, but you didn't come to see me after that day, so I was constantly worried about whether you'd had any accidents. So... this is definitely an aftereffect of worrying too much about you!
+138:...There are so many elements that I don't even know where to start. Although your tone and expression are quite sincere, your wagging tail has given you away. It sounds like an excuse to not see the doctor!
+139:Well, it's not entirely an excuse.
+140:Embarrassed for having his thoughts exposed, Ein scratches his head and finally calms down for a while. The only sounds I can hear in the corridor now are a mechanical female voice calling out numbers from the help desk of the department and a few occasional soft replies.
+141:Hmm...
+142:Next to me, Ein becomes increasingly and evidently anxious as patients enter the consultation room one by one. He taps the armrest of his seat subconsciously with his index finger, and his toes started pointing towards the exit when I wasn't paying attention.
+143:Everything I can see indicates that Ein really wants to escape from here.
+144:Reflecting on Ein's recent behavior, I realize that he's been acting out of character, both at the pharmacy and the hospital... After thinking about it several times, I gradually come up with a possible explanation.
+145:Are you afraid of taking medicine?
+146:Is it possible that you didn't shed any fur in the first place?
+147:Ein, are you... afraid of taking medicine?
+148:Everyone is naturally apprehensive about taking medicine, and some people's reactions are especially obvious. They will keep worrying about when they will need to take medicine, and their emotions will overwhelm them, making them subconsciously want to escape the hospital. This is true even for a strong young man like Ein.
+149:When I see the look of surprise in Ein's eyes after I say this, I'm instantly sure that I'm right.
+150:Me? Afraid of taking medicine?
+151:You are very reluctant to use a medicinal product like a hair growth serum or see a doctor even though you aren't very stubborn by nature. After thinking about it, the only possible explanation is that you have a fear of hospitals.
+152:It seems that I might have hit the nail on the head. Ein lowers his head and doesn't say anything. I feel a little bad seeing him huddled quietly on the chair when he is usually so lively and cheerful, but I still insist on taking him to see a doctor, so I try to comfort him by patting his shoulder.
+153:Ahhh! You gave me a fright when you raised your head like that!
+154:{var:player_nickname}, listen to me. There's something I've been wanting to tell you.
+155:Ding-dong! The mechanical female voice at the help desk speaks suddenly, interrupting Ein's words. One hour and thirty-seven minutes after registering at the hospital, it's finally our turn.
+156:Paging System
+157:Number 113, Ein, please go to dermatology specialist consultation room 3 now.
+158:It's your turn, Ein. Let's go and see the doctor first, then I'll listen carefully to what you want to tell me.
+159:The dermatologist who is seeing Ein is a male doctor in his fifties, and his expressionless face makes him look imposing. The nameplate with the words "Chief Doctor" on it makes him look even more authoritative and reliable.
+160:The most important thing is that he has a head of thick, black hair.
+161:Doctor
+162:When did you notice that you were shedding fur?
+163:About a week ago... some fur had shed from my tail...
+164:Did you experience any strange sensations, such as itchiness or pain, at the site of fur loss before it happened? In the last few months before shedding fur, did you take any medicines or health products, such as vitamins or calcium tablets?
+165:No, everything has been normal, and I eat a mixture of meat and vegetables in all three meals of the day. Everything is regular.
+166:Have you experienced symptoms of insomnia, dizziness, or tinnitus recently? Do you have any problems, such as back pain, cold hands or feet, or fatigue when getting up in the morning, in daily life?
+167:Not at all. I'm very healthy.
+168:Please don't take offense at this, but have any elders in your family experienced similar frequent fur loss?
+169:...Heaven forbid, please don't let my parents hear that.
+170:Time passes quickly while the doctor asks questions, and the doctor's expression gradually becomes serious. The handwriting on the medical record is nearly indecipherable, but the number of lines written gives me a rough idea of the situation.
+171:It looks like Ein's condition is quite serious...
+172:Now that we've basically ruled out the conditions that may cause your fur loss, I'll need to examine the site of fur loss. Please enter the examination room inside, lie down on the bed, and expose your tail.
+173:Th-That doesn't seem necessary.
+174:Ein, who is already somewhat reluctant, refuses instantly with little hesitation, which makes the doctor look unhappily at him like I expected. Seeing the stalemate between them in the examination room, I resign myself to my fate and try to smooth things over between them.
+175:Help the doctor convince Ein to go ahead with the examination
+176:Help Ein explain the situation to the doctor
+177:Ein, I know it's a little embarrassing, but the doctor needs to thoroughly understand your problem to give you the most appropriate treatment plan, so an examination is necessary.
+178:A fox's tail isn't meant to be touched so casually by others.
+179:Huh? Who keeps asking me if I want to touch his tail and telling me that it feels very nice to touch his tail?
+180:You're different from the others!
+181:*coughs*...
+182:Probably because he noticed that we've gone off-topic, the doctor breaks his silence and interrupts our conversation with a cough. He stands slowly and puts on medical gloves, then he gives me a command in an irrefutable tone.
+183:Follow me inside and pin him down on the hospital bed so I can examine him carefully.
+184:...O-Okay.
+185:Although Ein is an excellent hunter, he is no match for the two of us. Before long, due to our combined efforts, Ein is lying on a bed inside the consultation room obediently for the examination.
+186:Five minutes later
+187:Can you really breathe with your face buried completely in the pillow?
+188:To think a hunter like me would be pinned down like prey. Everyone in my tribe would make fun of me if they knew about this.
+189:Don't forget that a consultation room is a doctor's hunting grounds. You taught me that an excellent hunter never misses, so there's nothing to be ashamed of if you're defeated in someone else's territory.
+190:But my tail has been touched. I'm going to need to clean myself three times tonight! Three times!
+191:He battles to raise his slender fingers in front of me and draws the number three. As if to emphasize his message, he deliberately waves his hand to the left and the right a few times, which makes his body sway slightly.
+192:In the next second, the doctor says something in his emotionless tone.
+193:Tsk, don't let go. Hold him tight.
+194:...Yes!
+195:Doctor, the truth is that my friend has a fear of hospitals, and he may be extremely anxious if he needs to lie down on a hospital bed.
+196:Well... I can understand that. Many patients who come to the hospital feel anxious here, but I can't come up with an appropriate and targeted treatment plan unless I examine him.
+197:Maybe you can try doing it another way. Ein has only lost fur on his tail, so can he sit on a chair while you examine him?
+198:Okay, I guess that's what we'll have to do.
+199:Wait, aren't either of you going to ask me about what I think?
+200:Huh? Were you going to say no?
+201:Of course... I wasn't. Anyway... please promise me that you won't get angry later, okay?
+202:Doctor, how is Ein doing? Have you figured out what's causing the shedding?
+203:After seeing that the doctor has let go of Ein's tail, I ignore the blushing fox next to me and quickly approach the doctor to ask about his situation.
+204:Yes, and the reason is quite clear too. The fur at the site of the most serious shedding should have been shaved off by a razor.
+205:...Huh?!
+206:Look over here. The edges of the remaining fur here are very neat, so it's obvious that the fur didn't fall out naturally. If you look carefully, you can even see red paint hidden under the long fur beside it.
+207:I surmise that the fur at this so-called afflicted area should have been shaved off by its owner after it was stained with red paint that couldn't be washed off.
+208:But I clearly remember that Ein's tail was perfectly fine when I met him that day. The small patch of fur only came out when I touched his tail.
+209:I don't know about that. Maybe you can ask him yourself.
+210:We both look at Ein, who is sitting in front of the table after the examination. His hands are covering his face, and he is trying to avoid making eye contact with me.
+211:Ein, what's going on here?!
+212:I guess I can't deny it any longer... Well, I've actually wanted to tell you this from the very beginning, but I kept getting interrupted every time I tried to explain.
+213:When I was at my part-time job a few days ago, I accidentally knocked over a bucket of paint next to me. Paint is really hard to clean, and the affected area was small, so I shaved the fur that was covered in paint in desperation.
+214:So the fur that fell out after I touched your tail was...
+215:Ahem, after shaving the fur at the tip of my tail, I realized that my bare tail looked a little... unsightly. After thinking about it, I borrowed some glue from an old lady who lived next to me and glued the fur back onto my tail. Nobody would notice it unless they looked carefully, but then you suddenly touched it...
+216:Oh, so now it's my fault?
+217:No, no, no, of course everything is my fault. I felt too embarrassed to tell you that I had shaved my fur and then glued it back onto my tail, so I didn't know what to say to you.
+218:I finally worked up the courage to tell you everything honestly, but then you said you would keep me company until I recovered. I... I thought we would be able to spend more time together because of this, so I selfishly...
+219:So that's the truth behind your fur loss.
+220:I'm sorry for making you worry about me for so long.
+221:Ein's voice becomes quieter and quieter until it disappears completely. He is a strong fox, but he looks at me timidly and expectantly with eyes that make him seem as innocent as a little white rabbit.
+222:Sigh, life is like a play, and we've met because of fate. I won't get mad at anyone, because who will take my place if I get sick...
+223:{var:player_nickname}, what are you reciting?
+224:The "don't be angry" chant. I need to calm myself down or else there will be news about a blood-stained consultation room in the evening news.
+225:Most likely because he knows he is in the wrong, Ein, who is just about to step forward, quickly retracts his steps and sits on the chair again where he makes a look that says "punish me however you want."
+226:Even though I know he is just pretending, I find it difficult to ignore the look he is giving me. I take a deep breath and gradually calm down. In the end, I can't help smiling at Ein who keeps observing my expression carefully from the corner of his eye.
+227:This is good news. At least we know that you're healthy and have no fur shedding problems.
+228:I'm sorry to interrupt you, but this fur shedding consultation isn't over yet.
+229:Huh? Didn't you already find out what had really happened?
+230:To be precise, that's just what you think is the truth. The fact is, upon examining you, I noticed that you do shed hair frequently. For example...
+231:The doctor motions for Ein to turn around, then reaches out and strokes his tail from one end to the other. As his arm moves, strands of fox fur, both long and short, fly into the air, covering the nearby table and chairs in a layer of orange-red fur.
+232:Not wanting to believe what he just saw, Ein reaches out and gently rubs his tail. However, no matter how many times he does this, he finds fur on his hand, which means that he does have a fur shedding problem.
+233:This is impossible! I really do have a fur shedding problem?
+234:Haha, you don't need to worry about it. Your situation isn't serious, and you'll get better if you take your medication on time.
+235:No way! This is impossible! I'm actually losing fur... I know, this is a dream!
+236:This blow is so heavy that Ein seems to have trouble coming to terms with reality. When I see his fingers reaching for his arm to try to wake himself up with pain, I quickly stop him.
+237:Just face the reality, Ein. You are shedding fur.
+238:But this is really unscientific. I'm obviously very healthy, right?
+239:Haha, sometimes fatigue can also cause fur loss. Perhaps you've been stressing about how to tell your friend the truth these past few days, which has caused the onset of this disease. Here's some medicine. Remember to make the patient take this every day after lunch.
+240:No problem. This time I'll make sure I check up on him closely!
+241:No!!!
+242:Ichihime, did you see where Ein went?
+243:One week later
+244:Ichihime
+245:Master, you're early today, nyaa. I, Wanjirou, and that bad rabbit have accepted Mr. Ein's snacks and promised to not tell you that he is hiding in the storeroom on the east side because he wants to wait for you to leave before coming out to play mahjong, nyaa.
+246:Thanks, Ichihime, go and play with Wanjirou and the others. I won't bother you anymore.
+247:I smile as I hand the snacks in my hand to Ichihime, and we exchange a knowing look at the same time. After that, I walk slowly towards where Ein is hiding with a bowl of medicine in my hands.
+248:Ein's fur shedding incident has turned from a mistake into a fact, and he has started to cheer up and face reality after being dispirited for a period of time. However, I don't know whether it is divine punishment, but Ein's medicine is very bitter. Its bitter stench infiltrates every corner of Mahjong Soul Shrine whenever it is boiled.
+249:Sigh, as they say, good medicine is bitter. Why doesn't Ein understand this? I even come here specially every day to make sure he drinks every last drop of his medicine. This is all for his own good.
+250:Pfft... Even I have trouble convincing myself with this excuse, hahahaha. It's his fault for deceiving me for so long before. Making sure he drinks this bitter medicine is just payback for his deception.
+251:With this thought in mind, I stand still in front of the storeroom entrance, pull the door bolt gently, and call out to him in my gentlest voice.
+252:Come on, Ein. It's time to drink your medicine...
+253:Ein, is it possible that you haven't actually shed any fur?
+254:Wh-Why would you suddenly say that?
+255:Aha, judging from your current expression... I take it that I'm right?
+256:Umm, let's talk about this outside.
+257:The breeze is cooler in early autumn than in summer. Although Ein and I are standing in a hidden place, it is still well-ventilated, and the cool breeze carries a few yellowing leaves through the gap between us, setting the stage for the upcoming interrogation scene.
+258:I'll give you one chance. Tell me what you're hiding from me. Confess honestly, and all shall be forgotten, or else a lot of punishment will be coming your way.
+259:Ahem, actually... {var:player_nickname}, you guessed right. I didn't shed any fur.
+260:It wasn't a guess but a reasonable inference because it's completely illogical for you to be so reluctant to try a treatment like a hair growth serum. I thought about it again carefully and realized that the fur around the bald part of your tail had clear and neat edges, so it looked more like the fur had been cut off instead of falling off.
+261:You remember it so clearly after just a few glances. You're as observant as the scouts in my tribe.
+262:A few compliments aren't going to make me forget that a certain fox lied to me.
+263:Well, everything started when I went inside a bookstore that was being renovated for my part-time job a few days ago. When I was carrying books, I accidentally knocked over a bucket of paint next to me with my tail.
+264:It's really difficult to clean red paint, and I shaved off the fur at the tip of my tail in a moment of recklessness.
+265:If that's what happened, I should have noticed that your tail looked different soon after we met on that day.
+266:Ahem, well... my tail looked a little ugly without any fur, so I borrowed some glue from the old lady who lived next to me and glued my shaved fur to my tail to hide the bald patch. The glue probably wasn't very good quality, so when you touched it lightly...
+267:Ein, it's hard to imagine that you would use a method that seems so obviously unreliable.
+268:Haha, now that I think about it, this really is something I really want to forget forever. Fortunately, you're the only one who knows about it, {var:player_nickname}.
+269:Possibly because he is tipped off by something in my expression, Ein stops smiling and leans over cautiously to apologize to me instead.
+270:I thought about telling you the truth, but I was interrupted when I started. You also said you would keep me company until I recovered, so...
+271:Don't be angry. I'll play a lot of mahjong with you at the shrine today to make up for all the wasted time. You can also touch my tail whenever you want from now on. How about that?
+272:He waggles his fluffy tail to the left and right in front of me and seems extremely confident that I will accept his offer and forgive him. To my frustration, I realize after thinking about it that I really can't turn him down.
+273:You've got it wrong. It's more like I'm playing mahjong with you. You're the one who is willing to spend all your time in a mahjong dojo. Also, I've always been allowed to touch your tail whenever I want, so this doesn't count as an apology at all!
+274:As I speak, I reach out and rub the tail in front of me from one end to the other end to resolve the resentment in my heart.
+275:Huh? Wait a minute... What's this familiar yet unfamiliar feeling...?
+276:Like last time, I open my palm in disbelief and look at the many clumps of messy orange-red animal fur on it.
+277:Ein, I think you really are shedding fur.
+278:What? That's not possible!
+279:His calm demeanor disappears, and his face turns pale in an instant. He reaches out to rub his tail, sending orange-red fur flying everywhere, covering everything around him in a layer of orange-red fur.
+280:Whoa! It looks like it's quite serious too.
+281:No way! This isn't possible! {var:player_nickname}, what should I do now?!
+282:Well... I'm not sure about that. You also said that every fox has their own difficulties.
+283:Ignoring Ein's plea for help, I turn and leave to go to a mahjong dojo. Behind me, Ein is still lost in shock after realizing he has a fur shedding problem, but he should go to a hospital to ask for help once he comes to terms with his situation.
+284:But I won't go with him this time. After all, those who lie to others should be punished for their actions.
+286:(whisper) Eliisa told me that even Shaun hides and doesn't want to be seen by others after losing its wool, let alone Ein. Oh well, maybe he has a reason for hiding it from me. I better not force him.
+287:Ron! Riichi, Ippatsu, Seat Wind - West, Half Flush, Dora 3, 16,000!
+288:Where's the fur at the tip of my tail? Ahhhh! Th-The thing in your hand! Could it be?!

@@ -1,0 +1,1078 @@
+[
+  {
+    "line": 1,
+    "text": "In the garden of the Temple of Moons are plants that Mai has taken meticulous care of for many years. Every spring, the gorgeous flowers compete to be the most beautiful and invite bees and butterflies to them. It's almost as if a grand tea party is being held."
+  },
+  {
+    "line": 2,
+    "text": "player"
+  },
+  {
+    "line": 3,
+    "text": "{character:player}Huff... This big garden looks great, but it sure is tiring to tend to it."
+  },
+  {
+    "line": 4,
+    "text": "Mai was taking care of the garden when I arrived at the Temple of Moons today. It must be time-consuming and physically exhausting for a girl like her to take care of so many flowers and plants. After thinking briefly, I volunteer to help her under her guidance."
+  },
+  {
+    "line": 5,
+    "text": "{character:player}Weeding, done! Mai, is there anything else you need help with...? Huh, where is she?"
+  },
+  {
+    "line": 6,
+    "text": "After finishing a task, I look up to find Mai, but she's nowhere to be seen. I walk around the garden and finally see her looking very anxious at the gate of the shrine."
+  },
+  {
+    "line": 7,
+    "text": "{character:player}What's wrong?"
+  },
+  {
+    "line": 8,
+    "text": "Mai Aihara"
+  },
+  {
+    "line": 9,
+    "text": "{character:Mai Aihara}Master, Tubby is missing...!"
+  },
+  {
+    "line": 10,
+    "text": "{character:player}Wasn't your chubby cat basking in the sun in the corridor when we were busy tending the garden? Look... Eh, where did he go?"
+  },
+  {
+    "line": 11,
+    "text": "The chubby figure is no longer visible in the corridor. The only thing left there is a flattened cardboard box."
+  },
+  {
+    "line": 12,
+    "text": "{character:player}Is there anywhere Tubby likes to go in particular?"
+  },
+  {
+    "line": 13,
+    "text": "{character:Mai Aihara}No... Tubby used to be a stray, but he hasn't really been outside the shrine ever since he moved here."
+  },
+  {
+    "line": 14,
+    "text": "{character:Mai Aihara}It's been a long time since the last time Tubby wandered outside the shrine... I worry he might accidentally get hit by a car..."
+  },
+  {
+    "line": 15,
+    "text": "Although I want to say \"that probably won't happen,\" but then I'm not so sure when I recalled how Tubby walked around leisurely everytime I see him..."
+  },
+  {
+    "line": 16,
+    "text": "{character:Mai Aihara}Tubby loves food... What if he gets a sore tummy after eating something that has gone bad...?"
+  },
+  {
+    "line": 17,
+    "text": "Although I wanted to say \"that probably won't happen,\" but then I'm not so sure when I recalled his round tummy..."
+  },
+  {
+    "line": 18,
+    "text": "{character:Mai Aihara}Ah... Sorry, Master, I know I shouldn't be imagining all these things, but I just can't help worrying about him."
+  },
+  {
+    "line": 19,
+    "text": "{character:player}That's not really the case. That fact that you're so worried about him proves that you're a good owner. Tubby has an owner that he can be proud of."
+  },
+  {
+    "line": 20,
+    "text": "{character:player}Well, since we've finished our work in the courtyard, why don't we look around the neighborhood? Tubby can't have run too far."
+  },
+  {
+    "line": 21,
+    "text": "{character:Mai Aihara}I-I can't make you do that! Master, I'm already so grateful that you helped me take care of the courtyard... It would be shameless of me to let you help me search for Tubby..."
+  },
+  {
+    "line": 22,
+    "text": "{character:player}Don't worry about it. I came here to help you, so I might as well do whatever I can. I won't feel good if I leave like this."
+  },
+  {
+    "line": 23,
+    "text": "{character:Mai Aihara}Master... Thank you! I'm sorry I'm so useless..."
+  },
+  {
+    "line": 24,
+    "text": "I want to say \"if someone like you who is capable of taking care of a shrine like this is useless, I don't think there are many useful people in this world,\" but I know that she would just think I'm being polite."
+  },
+  {
+    "line": 25,
+    "text": "{character:player}It's okay! You take care of me all the time. You can help me cleanse my bad luck again when you're free next time. I can't shake the feeling that the tile dealer is targeting me recently."
+  },
+  {
+    "line": 26,
+    "text": "{character:Mai Aihara}Yes! It would be my pleasure to pray for you, Master!"
+  },
+  {
+    "line": 27,
+    "text": "{character:player}Then we're just helping each other out. Let me see where we should start looking."
+  },
+  {
+    "line": 28,
+    "text": "Mai Aihara and I arrived at the Mahjong parlor in the Temple of Moons."
+  },
+  {
+    "line": 29,
+    "text": "???"
+  },
+  {
+    "line": 30,
+    "text": "{character:???}Is that you, Mai? Have you finished tidying up the garden?"
+  },
+  {
+    "line": 31,
+    "text": "The mahjong parlor is in business, and two regular customers sitting near the door greet us warmly when they see us walking in."
+  },
+  {
+    "line": 32,
+    "text": "Apparently, the elderly of the vicinity often come here for a walk because of the wonderful environment of the shrine. To give the elderly a place to rest, Mai emptied the small room next to the shrine to make it a lounge for them."
+  },
+  {
+    "line": 33,
+    "text": "After that, the elderly proposed to put a few mahjong tables in the room for their entertainment and to generate more income for the shrine. Mai agreed, so she changed the room into a mahjong parlor, which has been in business since then."
+  },
+  {
+    "line": 34,
+    "text": "Elderly Man"
+  },
+  {
+    "line": 35,
+    "text": "{character:Elderly Man}We're waiting for someone. Mai, how about you play a few rounds with us?"
+  },
+  {
+    "line": 36,
+    "text": "{character:Mai Aihara}S-sorry...! I'm a little busy right now. How about next time?"
+  },
+  {
+    "line": 37,
+    "text": "Elderly Woman"
+  },
+  {
+    "line": 38,
+    "text": "{character:Elderly Woman}Oh? You look a little distressed."
+  },
+  {
+    "line": 39,
+    "text": "{character:Elderly Man}You can tell me about it if you want. Maybe I can help."
+  },
+  {
+    "line": 40,
+    "text": "Most of the elderly who play mahjong here watched Mai grow up and have always been very kind to this girl who is like a granddaughter to them."
+  },
+  {
+    "line": 41,
+    "text": "{character:player}Um... have you seen Tubby?"
+  },
+  {
+    "line": 42,
+    "text": "{character:Elderly Man}Tubby? That fat cat? No, I haven't. I've been here by the door the whole time, so I would have noticed if a cat passed by. What? Is Tubby missing?"
+  },
+  {
+    "line": 43,
+    "text": "{character:Mai Aihara}Yes... I don't know where he's gone to or whether he is in any danger."
+  },
+  {
+    "line": 44,
+    "text": "{character:Elderly Woman}Mai, maybe you can take a look at the nearby animal shelter? I heard my son mention that someone has been giving canned food to stray cats and dogs there recently."
+  },
+  {
+    "line": 45,
+    "text": "{character:Mai Aihara}Canned food? Tubby loves that. He might actually be there! Thank you both! I'll go there right now."
+  },
+  {
+    "line": 46,
+    "text": "{character:Elderly Man}You're welcome. You take such good care of us all the time. In particular, this mahjong parlor has helped me pass a lot of time."
+  },
+  {
+    "line": 47,
+    "text": "{character:Elderly Woman}The old man is right. You're like a granddaughter to us, so you can always tell us if anything is troubling you. Granny is always here for you if someone bullies you."
+  },
+  {
+    "line": 48,
+    "text": "{character:player}With such reliable elders who dote on her, I believe no one will dare to bully her."
+  },
+  {
+    "line": 49,
+    "text": "{character:Elderly Woman}Hehe, the young one has a sweet tongue."
+  },
+  {
+    "line": 50,
+    "text": "{character:Elderly Man}A sweet tongue isn't enough without helping out."
+  },
+  {
+    "line": 51,
+    "text": "{character:Mai Aihara}Master has been taking good care of Mai and just helped me clean the courtyard. Now Master is helping me search for Tubby."
+  },
+  {
+    "line": 52,
+    "text": "{character:Elderly Man}It doesn't mean much until you find Tubby. Don't worry, Mai, grandpa will help you search for Tubby as well. I'm sure I'm more reliable than these young whippersnappers—OUCH! Why did you pinch me?"
+  },
+  {
+    "line": 53,
+    "text": "{character:Elderly Woman}Save yourself the trouble and stop getting in the way of young people. Mai, just go and do what you need to do."
+  },
+  {
+    "line": 54,
+    "text": "{character:Mai Aihara}Okay, take care and have fun then. We'll go to the animal shelter now."
+  },
+  {
+    "line": 55,
+    "text": "{character:player}Don't worry, old man, maybe we'll find Tubby before you finish a Hanchan."
+  },
+  {
+    "line": 56,
+    "text": "{character:Elderly Man}All talk and no... Argh! Stop pinching me, you old hag! I'll shut up, okay? Just go..."
+  },
+  {
+    "line": 57,
+    "text": "Mai and I arrive at Mahjong Soul Shrine and see Wanjirou and Ichihime basking in the sun there. Now it's the perfect opportunity to ask them about Tubby."
+  },
+  {
+    "line": 58,
+    "text": "{character:Mai Aihara}Have either of you seen Tubby?"
+  },
+  {
+    "line": 59,
+    "text": "Wanjirou"
+  },
+  {
+    "line": 60,
+    "text": "{character:Wanjirou}Nope, woof. Ichihime, you were in the corridor the whole time. Did you see Tubby?"
+  },
+  {
+    "line": 61,
+    "text": "Ichihime"
+  },
+  {
+    "line": 62,
+    "text": "{character:Ichihime}I didn't see him either, maybe because I fell asleep, nyaa!"
+  },
+  {
+    "line": 63,
+    "text": "{character:Wanjirou}How can you sound so proud about dozing off, woof?"
+  },
+  {
+    "line": 64,
+    "text": "{character:Ichihime}Because I dreamed that Master had come to see me, and then Master really came, nyaa! Wanjirou, you wouldn't understand, I wasn't dozing off, I had a prophetic dream!"
+  },
+  {
+    "line": 65,
+    "text": "{character:Ichihime}Master, do you want me to help you search the courtyard, nyaa?"
+  },
+  {
+    "line": 66,
+    "text": "{character:player}That would be great, thanks, Ichihime!"
+  },
+  {
+    "line": 67,
+    "text": "{character:Ichihime}Wanjirou, don't slack off! Come and help me, nyaa!"
+  },
+  {
+    "line": 68,
+    "text": "With Ichihime and Wanjirou's help, it doesn't take us long to search Mahjong Soul Shrine thoroughly but we still fail to find Tubby as there is only one cat in Mahjong Soul Shrine—Ichihime."
+  },
+  {
+    "line": 69,
+    "text": "{character:Mai Aihara}He's not here... Where could he be if he isn't in Mahjong Soul Shrine?"
+  },
+  {
+    "line": 70,
+    "text": "Mai looks a little crestfallen. The reason we came here first was that she said Tubby had come to Mahjong Soul Shrine a few times before and thought we would have a higher chance of finding him here."
+  },
+  {
+    "line": 71,
+    "text": "{character:player}Don't be disheartened. Tubby can't go that far since he likes to rest for a while every two steps he makes. At least now we can cross one place off the list."
+  },
+  {
+    "line": 72,
+    "text": "{character:Ichihime}Don't worry, Mai, Tubby is a smart cat. He'll be fine, nyaa."
+  },
+  {
+    "line": 73,
+    "text": "{character:Wanjirou}Although I want to tell you not to worry, I know it won't be easy since that cat is like family to you, woof."
+  },
+  {
+    "line": 74,
+    "text": "{character:Mai Aihara}Yea... Tubby and I have been together for four years already..."
+  },
+  {
+    "line": 75,
+    "text": "As Mai takes a trip down memory lane, she tells us about how she met Tubby. At first, Tubby, who was a kitten at the time, was just a stray tabby who came to beg for food in the neighborhood every evening, but at some point in time, he started to sleep in the courtyard of the Temple of Moons."
+  },
+  {
+    "line": 76,
+    "text": "The kind-hearted Mai was worried that he would catch a cold, so she made him a basic cat house. Over time, the cat became a member of the Temple of Moons and was given the name Tubby."
+  },
+  {
+    "line": 77,
+    "text": "Especially after Mai's grandfather passed away, Tubby became Mai's only remaining family. One can imagine how anxious and sad Mai must be feeling after Tubby disappeared."
+  },
+  {
+    "line": 78,
+    "text": "{character:Mai Aihara}It's almost time for lunch. I wonder if Tubby has managed to have a good meal outside..."
+  },
+  {
+    "line": 79,
+    "text": "{character:Wanjirou}Meal... I remember, woof! There's an animal shelter near the commercial strip. They have been providing canned cat food to stray cats there recently, so Tubby might be attracted over there, woof."
+  },
+  {
+    "line": 80,
+    "text": "{character:Ichihime}Canned cat food?!"
+  },
+  {
+    "line": 81,
+    "text": "{character:Wanjirou}Be careful, Ichihime. You better not get lost because of this too, woof."
+  },
+  {
+    "line": 82,
+    "text": "{character:Ichihime}Nyaa? I won't eat any canned food, nyaa! Because Master will give me a big snack pack with lots of yummier food, nyaa!"
+  },
+  {
+    "line": 83,
+    "text": "After Wanjirou reminds us of a place where Tubby might have gone, Mai thanks him and starts pulling me toward the animal shelter."
+  },
+  {
+    "line": 84,
+    "text": "{character:Mai Aihara}I hope we can find Tubby soon."
+  },
+  {
+    "line": 85,
+    "text": "{character:player}Let's go. Hopefully he likes the food there and will stay there for a little longer."
+  },
+  {
+    "line": 86,
+    "text": "{character:Ichihime}Master, you can do it, nyaa! Call me at any time if you need my help, nyaa!"
+  },
+  {
+    "line": 87,
+    "text": "{character:Wanjirou}I'll keep an eye out for you when I go outside later. Let's keep in touch, woof."
+  },
+  {
+    "line": 88,
+    "text": "A large group of cats is gathering around the meal trays at the animal shelter, meowing constantly as they eat. Mai and I enter this \"car paradise\" with the staff's permission."
+  },
+  {
+    "line": 89,
+    "text": "{character:player}There are many cats here... but I don't see Tubby among them."
+  },
+  {
+    "line": 90,
+    "text": "Tubby should be quite conspicuous among stray cats with its chubby figure, so I quickly come to the conclusion that Tubby isn't there."
+  },
+  {
+    "line": 91,
+    "text": "However, Mai is not willing to give up so soon. she calls Tubby's name a few times, hoping he will appear."
+  },
+  {
+    "line": 92,
+    "text": "{character:Mai Aihara}Tubby! Tubby! Stop playing hide and seek! I'm worried sick about you. Tubby!"
+  },
+  {
+    "line": 93,
+    "text": "{character:Mai Aihara}Master... I don't think Tubby is here."
+  },
+  {
+    "line": 94,
+    "text": "I pat her shoulder gently because I can see her getting more and more depressed."
+  },
+  {
+    "line": 95,
+    "text": "{character:player}There are still many places that cats would go to. Let's look around nearby."
+  },
+  {
+    "line": 96,
+    "text": "But we can't search aimlessly. It would be best to find some other clues."
+  },
+  {
+    "line": 97,
+    "text": "{character:Mai Aihara}Master... Although Tubby isn't here right now, is it possible that he has finished eating and left? Should we ask the staff?"
+  },
+  {
+    "line": 98,
+    "text": "{character:player}That's a good idea, but so many cats come here to eat every day... would they remember?"
+  },
+  {
+    "line": 99,
+    "text": "{character:player}...We can still try though. Mai, do you have a photo of Tubby on your phone?"
+  },
+  {
+    "line": 100,
+    "text": "Tubby is so conspicuous, we might really be able to find some clues if you show them his photo."
+  },
+  {
+    "line": 101,
+    "text": "We show Tubby's photo to the staff at the rescue station and are fortunate enough to find some clues."
+  },
+  {
+    "line": 102,
+    "text": "Staff"
+  },
+  {
+    "line": 103,
+    "text": "{character:Staff}Oh! This chubby cat came here today. He seemed to have gone to play in the commercial strip after eating his fill."
+  },
+  {
+    "line": 104,
+    "text": "{character:Mai Aihara}R-really? Thank you! Um, well, the cost of the food..."
+  },
+  {
+    "line": 105,
+    "text": "{character:Staff}Don't worry about that. You're the priestess of the Temple of Moons, right? The neighbors here say that things seem to get better if they pray at your shrine when they are down on their luck."
+  },
+  {
+    "line": 106,
+    "text": "{character:Staff}Just treat the cat food as a donation."
+  },
+  {
+    "line": 107,
+    "text": "{character:Mai Aihara}E-even if I have helped anyone... that's my duty as the priestess. It shouldn't be like that."
+  },
+  {
+    "line": 108,
+    "text": "{character:player}Haha!"
+  },
+  {
+    "line": 109,
+    "text": "{character:Mai Aihara}Eh... Master, why are you laughing? Did I say something strange?"
+  },
+  {
+    "line": 110,
+    "text": "{character:player}No, it's nothing. Mai, you're right. You're a very principled person."
+  },
+  {
+    "line": 111,
+    "text": "{character:Staff}Haha, you're such a serious and adorable person."
+  },
+  {
+    "line": 112,
+    "text": "The staff beside us also starts laughing because of our conversation. It's really like what he said, the way how Mai treats people so seriously is a little ditzy and cute."
+  },
+  {
+    "line": 113,
+    "text": "{character:Mai Aihara}Master, did I really say nothing strange?"
+  },
+  {
+    "line": 114,
+    "text": "{character:player}No, I guarantee you didn't. Let's go to the commercial strip now. If we ask around while showing the photo, we should be able to find Tubby soon."
+  },
+  {
+    "line": 115,
+    "text": "{character:Mai Aihara}Y-yes! Let's go, Master."
+  },
+  {
+    "line": 116,
+    "text": "Excellent, I manage to change the subject."
+  },
+  {
+    "line": 117,
+    "text": "Shop Employee"
+  },
+  {
+    "line": 118,
+    "text": "{character:Shop Employee}This chubby cat did come to our store. I was eating corn at the time, so I fed it some."
+  },
+  {
+    "line": 119,
+    "text": "{character:Shop Employee}Then I was busy greeting a customer that entered after that, and he had left by the time I turned my head. Sorry, I don't know where he's gone."
+  },
+  {
+    "line": 120,
+    "text": "{character:Mai Aihara}Please don't say that. I should be the one apologizing because Tubby bothered you."
+  },
+  {
+    "line": 121,
+    "text": "{character:player}Another dead end..."
+  },
+  {
+    "line": 122,
+    "text": "We ask around the commercial strip and follow the passerby's instructions to the shop Tubby had visited, but we seem to be one step too late again."
+  },
+  {
+    "line": 123,
+    "text": "{character:player}Other places... I can only think of that grill house. I often see cats hanging around there when I pass by."
+  },
+  {
+    "line": 124,
+    "text": "{character:Mai Aihara}I hope Tubby hasn't left the commercial strip. There are fewer cars here, so he should be safer here..."
+  },
+  {
+    "line": 125,
+    "text": "{character:Shop Employee}Are you leaving now? Are you sure you don't want to pick a few pieces of clothing? Our clothes are high-quality and inexpensive!"
+  },
+  {
+    "line": 126,
+    "text": "{character:Shop Employee}Especially this priestess. You look so lovely—we have lots of clothes that suit you!"
+  },
+  {
+    "line": 127,
+    "text": "{character:player}I'm sorry, you know we're looking for a cat. We'll come again next time. I promise."
+  },
+  {
+    "line": 128,
+    "text": "{character:Shop Employee}It won't take long—just a few minutes. Let me give you some recommendations. Take a look, this hat just arrived. It's incredibly trendy!"
+  },
+  {
+    "line": 129,
+    "text": "The shop employee plops a hat on my head just like that. When I look in the mirror, I see a hat with two fluffy decorations that resembled Wanjirou's ears on the brim. It looks like a hat people would wear to play a prank."
+  },
+  {
+    "line": 130,
+    "text": "{character:Mai Aihara}Oh, I've seen this hat in a magazine. It looks surprisingly good on you, Master."
+  },
+  {
+    "line": 131,
+    "text": "{character:player}Is this hat really popular right now? Well... I actually quite like it. H-hold on, didn't I just say we were busy? It won't be convenient to be carrying something right now. I'll come again another day after we find the cat."
+  },
+  {
+    "line": 132,
+    "text": "{character:Shop Employee}Customer! If you see something you like, you've got to buy it now! We happen to be doing a promotion right now, so you can get this hat for a special price!"
+  },
+  {
+    "line": 133,
+    "text": "{character:player}Ha... haha... Don't tell me that I can probably get anything I like for a special price..."
+  },
+  {
+    "line": 134,
+    "text": "After saying that, I grab Mai and run away from the enthusiastic employee and that shop. Sometimes, social anxiety is caused by \"social terrorists\"..."
+  },
+  {
+    "line": 135,
+    "text": "Unfortunately, we don't manage to find any clues at the grill house after that."
+  },
+  {
+    "line": 136,
+    "text": "{character:Mai Aihara}Master, Miss Nanami's café is nearby. You've been so busy all afternoon and haven't had a chance to drink anything. Do you want to have a drink and take a break there, or do you want to rest back at the shrine and see if Tubby has returned at the same time?"
+  },
+  {
+    "line": 137,
+    "text": "{character:Mai Aihara}Maybe... Maybe Tubby is just hiding somewhere and taking a nap. It would be great if that's the case..."
+  },
+  {
+    "line": 138,
+    "text": "Mai and I are exhausted after running around all afternoon looking for Tubby. She seems to notice my exhaustion while we were sitting on a bench by the street, so she makes a gentle suggestion."
+  },
+  {
+    "line": 139,
+    "text": "I want to say I don't need to, but I see her apologetic eyes and feel that she would definitely feel guilty if I forced myself to continue at this time."
+  },
+  {
+    "line": 140,
+    "text": "{character:player}Okay, let's have a cup of coffee to pick ourselves up."
+  },
+  {
+    "line": 141,
+    "text": "{character:Mai Aihara}Oh... Master, can you go there first? I just thought of a place Tubby might go to and want to ask around first."
+  },
+  {
+    "line": 142,
+    "text": "{character:player}I'll come with you."
+  },
+  {
+    "line": 143,
+    "text": "{character:Mai Aihara}It's okay! Master... place an order at the café first. It's just nearby, so I'll be back soon."
+  },
+  {
+    "line": 144,
+    "text": "Mai insists on going by herself, and I don't want to force her, so I head to Éternité by myself first. It would be a good idea to order a cup of her favorite black tea first so she can have it right after she comes back."
+  },
+  {
+    "line": 145,
+    "text": "Reina Nanami"
+  },
+  {
+    "line": 146,
+    "text": "{character:Reina Nanami}Welcome!"
+  },
+  {
+    "line": 147,
+    "text": "The soft sound of a wind chime and Reina Nanami's gentle greeting welcome me at the same time."
+  },
+  {
+    "line": 148,
+    "text": "{character:Reina Nanami}Ah, it's you, {var:player_nickname}. Is it just you today? We happen to have a new product that will become available from tomorrow. Can you try it out for me?"
+  },
+  {
+    "line": 149,
+    "text": "{character:player}Sure, but I'm with Mai at the moment. She'll be joining me later."
+  },
+  {
+    "line": 150,
+    "text": "{character:Reina Nanami}That's perfect! I'll have one more taster. This will be on the house."
+  },
+  {
+    "line": 151,
+    "text": "{character:???}Excuse me."
+  },
+  {
+    "line": 152,
+    "text": "I hear Mai's voice from behind me as I talk to Reina. She sure didn't exaggerate when she told me the place was nearby and that she would be back soon."
+  },
+  {
+    "line": 153,
+    "text": "{character:Mai Aihara}Sorry for making you wait, Master. I took a little longer because I bought some things along the way on my way back. I'm really sorry..."
+  },
+  {
+    "line": 154,
+    "text": "{character:player}It's okay, you came really quickly, so don't worry about it. By the way, Reina, have you seen this cat?"
+  },
+  {
+    "line": 155,
+    "text": "{character:Reina Nanami}Is this the cat of the Temple of Moons? I remember seeing him when I prayed at the shrine. Has he gone missing?"
+  },
+  {
+    "line": 156,
+    "text": "{character:Mai Aihara}Yes, he disappeared this morning. I'm worried that he might get into an accident..."
+  },
+  {
+    "line": 157,
+    "text": "{character:Reina Nanami}Cats all love to roam around everywhere. It's the same case for all the stray cats around the cafe. You won't see them usually, but they'll all come running when it is time for a meal."
+  },
+  {
+    "line": 158,
+    "text": "{character:Reina Nanami}Maybe Tubby will return home once it's time, so you don't need to be too worried. If he comes here, I'll let you know as soon as possible."
+  },
+  {
+    "line": 159,
+    "text": "Reina handed our drinks over as she spoke. The new coffee blend fills the mouth with a lavender-like aftertaste and seems to have a soothing effect."
+  },
+  {
+    "line": 160,
+    "text": "I look over at Mai. The steaming coffee seems to have eased her anxiety as she looks a lot more relaxed than she has been all afternoon."
+  },
+  {
+    "line": 161,
+    "text": "{character:Mai Aihara}Speaking of which, Master... am I worrying too much?"
+  },
+  {
+    "line": 162,
+    "text": "{character:player}You just care about Tubby a lot. Like I said, you're a good owner."
+  },
+  {
+    "line": 163,
+    "text": "{character:Reina Nanami}Most cats have a mind of their own. They come quietly and leave quietly before you even realize it. They never care whether their owner will worry about them."
+  },
+  {
+    "line": 164,
+    "text": "{character:Reina Nanami}Miss Aihara, after Tubby comes back, remember to tell him that you are very worried about him."
+  },
+  {
+    "line": 165,
+    "text": "{character:Mai Aihara}B-but will Tubby understand?"
+  },
+  {
+    "line": 166,
+    "text": "{character:Reina Nanami}Whether he understands isn't important. You need to let him feel that you worry about him and care about him."
+  },
+  {
+    "line": 167,
+    "text": "{character:Mai Aihara}Oh I see... Thank you, Reina, I'll try doing that. Yes... after I get back... I'll be a little mean to him and show him that I'm his owner."
+  },
+  {
+    "line": 168,
+    "text": "Reina and I both smiled after hearing that. Neither of us could imagine Mai being mean to anyone."
+  },
+  {
+    "line": 169,
+    "text": "{character:Reina Nanami}By the way, I just remembered that there's a nearby park where cats like to gather. Would you like to take a look there?"
+  },
+  {
+    "line": 170,
+    "text": "{character:Reina Nanami}But Tubby might already have returned to the shrine by now."
+  },
+  {
+    "line": 171,
+    "text": "{character:Mai Aihara}What do you think, Master?"
+  },
+  {
+    "line": 172,
+    "text": "The shadows on the ground grow longer and longer as the sun slowly sets in the west. Mai and I arrive at the park Reina Nanami mentioned and split up to search carefully."
+  },
+  {
+    "line": 173,
+    "text": "{character:player}Did you find her?"
+  },
+  {
+    "line": 174,
+    "text": "{character:Mai Aihara}No..."
+  },
+  {
+    "line": 175,
+    "text": "There are many cats here like Reina said, but we don't see Tubby among them."
+  },
+  {
+    "line": 176,
+    "text": "After searching for a while, we are both so tired and sweaty that we have to sit on a park bench to rest for a while."
+  },
+  {
+    "line": 177,
+    "text": "{character:player}I think we should take a look back at the shrine. Should we go now?"
+  },
+  {
+    "line": 178,
+    "text": "{character:Mai Aihara}It's getting late, and it's been a tiring day for you, Master. You should go home and get some rest. I'll go back to the shrine by myself to look for Tubby."
+  },
+  {
+    "line": 179,
+    "text": "{character:player}...Alright. If Tubby has returned to the shrine, then it isn't really necessary for me to come with you."
+  },
+  {
+    "line": 180,
+    "text": "{character:player}I'll go home first then. Call me if Tubby hasn't returned to the shrine."
+  },
+  {
+    "line": 181,
+    "text": "{character:Mai Aihara}Thank you, Master... Oh right, Master, please take this."
+  },
+  {
+    "line": 182,
+    "text": "Mai Aihara handed a bag to me. After receiving it, I took a look inside and saw the \"Wanjirou\" hat I saw earlier in the shop."
+  },
+  {
+    "line": 183,
+    "text": "{character:player}Huh, w... what's this for?"
+  },
+  {
+    "line": 184,
+    "text": "{character:Mai Aihara}Master, you said you liked this hat."
+  },
+  {
+    "line": 185,
+    "text": "I remember going along with her and expressing some affection for the hat because Mai said it looked good on me. I didn't expect her to take such a trivial matter to heart and buy me this hat as a gift. I would be lying if I said I wasn't happy, but..."
+  },
+  {
+    "line": 186,
+    "text": "{character:player}Mai... why are you giving me a gift all of a sudden?"
+  },
+  {
+    "line": 187,
+    "text": "{character:Mai Aihara}I've caused you a lot of trouble when you helped me taking care of the courtyard and search for Tubby today. This is a... thank-you gift."
+  },
+  {
+    "line": 188,
+    "text": "Mai's comment makes me think she is too concerned about needing to repay others for their help. Suddenly, the hat feels heavy in my hands."
+  },
+  {
+    "line": 189,
+    "text": "{character:Mai Aihara}...Master, why aren't you saying anything? D-do you not like it?"
+  },
+  {
+    "line": 190,
+    "text": "{character:player}No, I like it a lot. Thank you."
+  },
+  {
+    "line": 191,
+    "text": "{character:player}It's just, I did something a friend would do. To receive such a formal gift in return for a little favor feels a little..."
+  },
+  {
+    "line": 192,
+    "text": "{character:Mai Aihara}S-sorry! Did I make things difficult for you?"
+  },
+  {
+    "line": 193,
+    "text": "{character:Mai Aihara}I just think... you are so kind and gentle to me. I just want to respond to your kindness."
+  },
+  {
+    "line": 194,
+    "text": "{character:player}Mai, do you think we're friends?"
+  },
+  {
+    "line": 195,
+    "text": "{character:Mai Aihara}F-friends... Can I be friends with you?"
+  },
+  {
+    "line": 196,
+    "text": "{character:player}Of course. It's because I see you as a friend that I helped you with the garden and helped you search for Tubby. I didn't do this to be repaid. I just want you to be happy."
+  },
+  {
+    "line": 197,
+    "text": "{character:Mai Aihara}Then I'm the same... It's not entirely because you helped me that I got you this gift. I... When I see something you like, I also want to buy it for you and make you happy."
+  },
+  {
+    "line": 198,
+    "text": "{character:player}In that case, just make me some tea you and it would be the best gift already. Of course, it would be even nicer if you could make me a home-cooked meal. I think we'll be closer friends like that."
+  },
+  {
+    "line": 199,
+    "text": "{character:Mai Aihara}Eh? M-master, do you want us to... become closer?"
+  },
+  {
+    "line": 200,
+    "text": "{character:player}Of course! We're friends, right?"
+  },
+  {
+    "line": 201,
+    "text": "{character:Mai Aihara}O-okay! I... I'll remember that."
+  },
+  {
+    "line": 202,
+    "text": "Mai bows her head shyly, and I hear her whisper, \"become closer\" to herself."
+  },
+  {
+    "line": 203,
+    "text": "I once heard Ichihime say that Mai had been very lonely and isolated for a long time because of her strict family education. Perhaps that's why she cherishes Tubby and the friends around her so much. However, it also makes her too polite sometimes."
+  },
+  {
+    "line": 204,
+    "text": "Like I said earlier, I hope that we'll become a little closer after today's events."
+  },
+  {
+    "line": 205,
+    "text": "{character:player}Thank you for the hat. It's become dark after all that talking. I'll walk with you back to the shrine."
+  },
+  {
+    "line": 206,
+    "text": "{character:Mai Aihara}Thank you... Master."
+  },
+  {
+    "line": 207,
+    "text": "Excellent, she didn't try to say no politely. We've made some progress."
+  },
+  {
+    "line": 208,
+    "text": "{character:???}Nyaa!"
+  },
+  {
+    "line": 208,
+    "text": "{character:Tubby}Nyaaa!"
+  },
+  {
+    "line": 209,
+    "text": "As we prepared to get up, we heard the sound of a cat from behind the bench."
+  },
+  {
+    "line": 210,
+    "text": "Tubby"
+  },
+  {
+    "line": 211,
+    "text": "{character:Tubby}Nyaa—"
+  },
+  {
+    "line": 212,
+    "text": "{character:Mai Aihara}Tubby! M-master! It's Tubby!"
+  },
+  {
+    "line": 213,
+    "text": "{character:player}Geez... So you've finally decided to show your face? Where have you been all day? Hmm...? What's this on its back?"
+  },
+  {
+    "line": 214,
+    "text": "There is a yellow little chick sitting on Tubby's back. It's as bright as a hydrangea."
+  },
+  {
+    "line": 215,
+    "text": "{character:Mai Aihara}Is this... Tubby's friend?"
+  },
+  {
+    "line": 216,
+    "text": "{character:player}Maybe that's why he ran out for so long. He made a new friend and was having too much fun outside."
+  },
+  {
+    "line": 217,
+    "text": "The little chick doesn't seem afraid of us and continues to groom Tubby's fur with its beak. The two animals look like they are getting along so well."
+  },
+  {
+    "line": 218,
+    "text": "{character:Mai Aihara}...Tubby."
+  },
+  {
+    "line": 219,
+    "text": "{character:Mai Aihara}You can go outside and play with your friends, but you need to tell me first! We're family, so don't make me worry. Do you understand, Tubby?"
+  },
+  {
+    "line": 220,
+    "text": "{character:Mai Aihara}Master, did I show Tubby my authority as her owner?"
+  },
+  {
+    "line": 221,
+    "text": "{character:player}You've done very well for now, Mai."
+  },
+  {
+    "line": 222,
+    "text": "{character:Mai Aihara}Hehe..."
+  },
+  {
+    "line": 223,
+    "text": "But judging from Tubby's relaxed demeanor, he probably doesn't take it to heart. Tubby flips over, revealing his tummy, in a show of friendliness to Mai. The yellow chick also jumps over and rubs itself against her clogs endearingly."
+  },
+  {
+    "line": 224,
+    "text": "{character:player}You naive cat, do you think you can get away with it just by being cute to your owner?"
+  },
+  {
+    "line": 225,
+    "text": "{character:Mai Aihara}Tubby's tummy is so soft... it's so cute..."
+  },
+  {
+    "line": 226,
+    "text": "Hmm... Well, I guess he can. Even I couldn't resist the urge to touch it."
+  },
+  {
+    "line": 227,
+    "text": "{character:player}What about this yellow chick? Since they get along so well, should we bring this little guy back with us?"
+  },
+  {
+    "line": 228,
+    "text": "{character:Mai Aihara}That's what I'm thinking too. It wouldn't be nice to separate them since they get along so well together."
+  },
+  {
+    "line": 229,
+    "text": "{character:Mai Aihara}Master, let's go back. I... I want to cook you dinner."
+  },
+  {
+    "line": 230,
+    "text": "{character:player}Yay! I'm in for a treat!"
+  },
+  {
+    "line": 231,
+    "text": "And so, our adventure to find Tubby has ended perfectly."
+  },
+  {
+    "line": 232,
+    "text": "{character:Mai Aihara}...Master, can we go to that clothing shop again together sometime?"
+  },
+  {
+    "line": 233,
+    "text": "{character:Mai Aihara}I... I want to become closer to you, Master..."
+  },
+  {
+    "line": 234,
+    "text": "{character:player}... Sure! Let's go out and have some fun another time."
+  },
+  {
+    "line": 235,
+    "text": "I hope we can become as close as the two animals in front of us..."
+  },
+  {
+    "line": 236,
+    "text": "It's almost dusk by the time we return to the shrine. The setting sun elongates our shadows behind us, and Mai always stays half a step behind me with her head down. I don't know what's on her mind."
+  },
+  {
+    "line": 237,
+    "text": "{character:player}What's on your mind?"
+  },
+  {
+    "line": 238,
+    "text": "{character:Mai Aihara}Oh, nothing... I suddenly noticed that our shadows have overlapped."
+  },
+  {
+    "line": 239,
+    "text": "{character:player}You're right. Have you seen that recent anime? Having a shadow at least proves that we are humans."
+  },
+  {
+    "line": 240,
+    "text": "{character:Mai Aihara}I'm not good with scary topics. I just think that our shadows look very happy together like that..."
+  },
+  {
+    "line": 241,
+    "text": "I don't know if it’s the setting sun, but her face looks a little red. Mai seems much more relaxed than before, but she becomes shy again due to the dreamy atmosphere."
+  },
+  {
+    "line": 242,
+    "text": "{character:???}Nyaa?"
+  },
+  {
+    "line": 243,
+    "text": "{character:player}Huh? That sound is..."
+  },
+  {
+    "line": 244,
+    "text": "A furry creature appears in front of us suddenly. It's Tubby!"
+  },
+  {
+    "line": 245,
+    "text": "{character:Mai Aihara}It's Tubby! He really did return to the shrine!"
+  },
+  {
+    "line": 246,
+    "text": "{character:Mai Aihara}Geez! Master and I looked around everywhere for you... I was so worried about you Tubby. Did you know that...?"
+  },
+  {
+    "line": 247,
+    "text": "{character:Tubby}Nyaaaa!"
+  },
+  {
+    "line": 248,
+    "text": "Tubby doesn't understand the troubles of people, so he reveals his tummy to act cute, which is always effective. Although Mai complains about Tubby, her eyes are full of unconcealed love. She strokes every inch of Tubby's fur like she's making sure Tubby isn't hurt."
+  },
+  {
+    "line": 249,
+    "text": "{character:player}I'll buy a collar with GPS for you so you'll know if Tubby has gone anywhere dangerous."
+  },
+  {
+    "line": 250,
+    "text": "{character:Mai Aihara}Thank you, Master... I've caused you so much trouble today."
+  },
+  {
+    "line": 251,
+    "text": "{character:player}Not at all. I'm relieved that Tubby has returned home safely too."
+  },
+  {
+    "line": 252,
+    "text": "{character:Mai Aihara}If you don't mind, please rest for a while at the shrine. I'll make you some tea."
+  },
+  {
+    "line": 253,
+    "text": "{character:player}Thanks, Mai."
+  },
+  {
+    "line": 254,
+    "text": "{character:Mai Aihara}Yes... And if you don't mind my cooking, would you like to stay for dinner?"
+  },
+  {
+    "line": 255,
+    "text": "Mai asks me that question hesitantly after picking up Tubby, and I can tell she has plucked up a lot of courage before asking. Before this, she has hardly invited anyone on her own initiative. Does this mean she already considers us to be good friends?"
+  },
+  {
+    "line": 256,
+    "text": "{character:player}Oh? I'm in for a treat! My efforts today have paid off!"
+  },
+  {
+    "line": 257,
+    "text": "{character:Tubby}Nyaa!"
+  },
+  {
+    "line": 258,
+    "text": "{character:player}Stop shouting, you greedy little cat. Your owner won't forget your share."
+  },
+  {
+    "line": 259,
+    "text": "And with that, our search for Tubby comes to an end. I stay at the shrine and have dinner with Mai."
+  },
+  {
+    "line": 260,
+    "text": "Although we never find out where Tubby went during the day, we are both relieved that he has returned home safely. I'll need to hurry up and get him one of those collars with GPS soon."
+  },
+  {
+    "line": 261,
+    "text": "Look for Tubby inside the Temple of Moons"
+  },
+  {
+    "line": 263,
+    "text": "The Mahjong Soul Shrine..."
+  },
+  {
+    "line": 264,
+    "text": ""
+  },
+  {
+    "line": 265,
+    "text": "Go to the café to take a break"
+  },
+  {
+    "line": 266,
+    "text": "Go back to the shrine"
+  },
+  {
+    "line": 267,
+    "text": "Go to the park"
+  },
+  {
+    "line": 268,
+    "text": "Go back to the Temple of Moons"
+  },
+  {
+    "line": 269,
+    "text": "Several minutes later, inside Éternité"
+  }
+]

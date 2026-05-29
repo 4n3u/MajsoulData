@@ -1,0 +1,23 @@
+{
+  "bg_paychoose": 0,
+  "contract_bar": 0,
+  "contract_bg": 0,
+  "cvv1": 0,
+  "cvv2": 0,
+  "pay_ali": 0,
+  "pay_wechat": 0,
+  "amex": 0,
+  "contract_bar_bg": 0,
+  "dinersclub": 0,
+  "jcb": 0,
+  "maestro": 0,
+  "mastercard": 0,
+  "visa": 0,
+  "cartebleue": 0,
+  "contract_arrow": 0,
+  "close": 0,
+  "pay_arrow": 0,
+  "pay_bg": 0,
+  "small_arrow": 0,
+  "contract__line": 0
+}

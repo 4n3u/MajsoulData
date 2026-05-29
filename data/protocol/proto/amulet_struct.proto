@@ -1,0 +1,781 @@
+syntax = "proto3";
+
+package lq;
+
+import "com_struct.proto";
+
+message ActivityAmuletData {
+  uint32 activity_id = 1;
+  .lq.AmuletGameData game = 2;
+  uint32 version = 3;
+  .lq.ActivityAmuletUpgradeData upgrade = 4;
+  .lq.ActivityAmuletIllustratedBookData illustrated_book = 5;
+  uint32 book_effect_id = 6;
+  repeated .lq.ActivityAmuletGameRecordData game_records = 7;
+  .lq.ActivityAmuletStatisticData statistic = 8;
+}
+
+message ActivityAmuletEffectRecordData {
+  uint32 id = 1;
+  uint32 badge_id = 2;
+  uint32 volume = 3;
+}
+
+message ActivityAmuletGameRecordData {
+  repeated .lq.ActivityAmuletEffectRecordData effect_builds = 1;
+  uint32 level = 2;
+  string highest_level_score = 3;
+  string highest_fan = 4;
+  string highest_score = 5;
+  string coin_consumed = 6;
+  uint32 pack_count = 7;
+  uint32 time = 8;
+  .lq.ActivityAmuletHuRecord highest_hu = 9;
+  uint32 level_node = 10;
+}
+
+message ActivityAmuletHuRecord {
+  string point = 1;
+  string pai = 2;
+  string fan = 3;
+  string base = 4;
+  repeated .lq.ActivityAmuletEffectRecordData effect_builds = 5;
+}
+
+message ActivityAmuletHuRecordDirty {
+  bool dirty = 1;
+  .lq.ActivityAmuletHuRecord value = 2;
+}
+
+message ActivityAmuletIllustratedBookData {
+  repeated uint32 effect_collection = 1;
+  repeated uint32 badge_collection = 4;
+  repeated uint32 rune_stone_collection = 5;
+}
+
+message ActivityAmuletMapNodeDataArrayDirty {
+  bool dirty = 1;
+  repeated .lq.AmuletMapNodeData value = 2;
+}
+
+message ActivityAmuletStatisticData {
+  uint32 highest_level = 1;
+  .lq.ActivityAmuletHuRecord highest_hu = 2;
+  string highest_level_score = 3;
+  string highest_fan = 4;
+  string highest_score = 5;
+  uint32 pass_game_count = 6;
+  uint32 round_count = 7;
+  uint32 open_pack_count = 8;
+  string highest_coin_consumed = 9;
+  repeated .lq.CharacterStatistic character_statistic = 10;
+  uint32 highest_level_node = 11;
+}
+
+message ActivityAmuletTradeItemArrayDirty {
+  bool dirty = 1;
+  repeated .lq.AmuletTradeItem value = 2;
+}
+
+message ActivityAmuletTradeRewardDirty {
+  bool dirty = 1;
+  .lq.AmuletTradeReward value = 2;
+}
+
+message ActivityAmuletUpgradeData {
+  repeated .lq.AmuletSkillData skill = 2;
+}
+
+message AmuletActivityTingInfo {
+  string tile = 1;
+  string fan = 2;
+  string ting_tile = 3;
+}
+
+message AmuletAdvancedShopGoods {
+  uint32 id = 1;
+  uint32 type = 2;
+  .lq.AmuletEffectCandidate effect = 3;
+  uint32 rune_stone = 4;
+  uint32 sold = 5;
+  uint32 price = 6;
+}
+
+message AmuletAdvancedShopGoodsArrayDirty {
+  bool dirty = 1;
+  repeated .lq.AmuletAdvancedShopGoods value = 2;
+}
+
+message AmuletAdvancedShopUpgrade {
+  uint32 id = 1;
+  uint32 upgrade_id = 2;
+  uint32 sold = 3;
+  uint32 price = 4;
+}
+
+message AmuletAdvancedShopUpgradeArrayDirty {
+  bool dirty = 1;
+  repeated .lq.AmuletAdvancedShopUpgrade value = 2;
+}
+
+message AmuletBadgeData {
+  uint32 id = 1;
+  uint32 uid = 2;
+  repeated string store = 3;
+  uint32 random = 4;
+}
+
+message AmuletBuffData {
+  uint32 id = 1;
+  repeated string store = 3;
+}
+
+message AmuletBuffDataArrayDirty {
+  bool dirty = 1;
+  repeated .lq.AmuletBuffData value = 2;
+}
+
+message AmuletCharacterData {
+  uint32 character_id = 1;
+  uint32 max_hp = 2;
+  uint32 hp = 3;
+}
+
+message AmuletCharacterDataChanges {
+  .lq.UInt32Dirty character_id = 1;
+  .lq.UInt32Dirty hp = 2;
+  .lq.UInt32Dirty max_hp = 3;
+}
+
+message AmuletEffectCandidate {
+  uint32 id = 1;
+  uint32 badge_id = 2;
+}
+
+message AmuletEffectCandidatesArrayDirty {
+  bool dirty = 1;
+  repeated .lq.AmuletEffectCandidate value = 2;
+}
+
+message AmuletEffectCounterData {
+  uint32 effect_id = 1;
+  uint32 pack_candidate_count = 2;
+  uint32 gain_count = 3;
+}
+
+message AmuletEffectCounterDataArrayDirty {
+  bool dirty = 1;
+  repeated .lq.AmuletEffectCounterData value = 2;
+}
+
+message AmuletEffectData {
+  uint32 id = 1;
+  uint32 uid = 2;
+  repeated string store = 3;
+  .lq.AmuletBadgeData badge = 4;
+  uint32 volume = 5;
+  repeated uint32 tags = 6;
+}
+
+message AmuletEffectDataArrayDirty {
+  bool dirty = 1;
+  repeated .lq.AmuletEffectData value = 2;
+}
+
+message AmuletEffectDataChanges {
+  .lq.AmuletEffectDataArrayDirty effect_list = 1;
+  .lq.AmuletBuffDataArrayDirty buff_list = 2;
+  .lq.AmuletBuffDataArrayDirty skill_buff_list = 3;
+  .lq.AmuletBuffDataArrayDirty shop_buff_list = 4;
+  .lq.AmuletRuneStoneArrayDirty rune_stone_list = 5;
+  .lq.UInt32Dirty current_level_reward_pack = 7;
+  .lq.AmuletEffectCandidatesArrayDirty pack_candidates = 8;
+  .lq.AmuletPackQueueArrayDirty pack_queue = 9;
+  .lq.UInt32Dirty pack_goods_id = 10;
+}
+
+message AmuletEffectedHookData {
+  uint32 uid = 1;
+  uint32 id = 2;
+  .lq.AmuletHookResult result = 3;
+  uint32 type = 4;
+}
+
+message AmuletEnemyData {
+  uint32 id = 1;
+  string max_hp = 2;
+  string hp = 3;
+  uint32 atk = 4;
+}
+
+message AmuletEnemyDirty {
+  bool dirty = 1;
+  .lq.AmuletEnemyData value = 2;
+}
+
+message AmuletEventData {
+  uint32 type = 1;
+  repeated .lq.AmuletEffectedHookData effected_hooks = 2;
+  .lq.AmuletValueChanges value_changes = 3;
+  .lq.AmuletEventResult result = 4;
+  repeated .lq.AmuletEventHookData event_hooks = 5;
+  .lq.AmuletStateData state = 6;
+}
+
+message AmuletEventHookData {
+  repeated uint32 remove_effect = 1;
+}
+
+message AmuletEventResult {
+
+  message DealResult {
+    uint32 tile = 1;
+  }
+
+  message HuResult {
+
+    message HuInfo {
+      uint32 tile = 1;
+      repeated .lq.AmuletFan fan_list = 2;
+      string fan = 3;
+      string base = 4;
+      string point = 5;
+    }
+
+    .lq.AmuletEventResult.HuResult.HuInfo hu_final = 1;
+    .lq.AmuletEventResult.HuResult.HuInfo hu_base = 2;
+    string attack = 3;
+  }
+
+  message GameEndResult {
+    uint32 reason = 1;
+  }
+
+  message GangResult {
+    repeated uint32 new_dora = 1;
+  }
+
+  message UpgradeResult {
+    string level_coin = 1;
+  }
+
+  message SellEffectResult {
+    string price = 1;
+  }
+
+  message SelectPackResult {
+    uint32 uid = 1;
+    uint32 id = 2;
+    uint32 merge_type = 3;
+    repeated uint32 merged_list = 4;
+    uint32 merged_result = 5;
+    .lq.AmuletBadgeData badge = 6;
+  }
+
+  message GambleResult {
+    uint32 destroyed = 1;
+    uint32 result_selection = 2;
+    repeated .lq.AmuletTileScore modify_tile_score = 3;
+  }
+
+  message AdvancedShopUpgradeResult {
+    repeated .lq.AmuletTileScore modify_tile_score = 1;
+  }
+
+  .lq.AmuletEventResult.DealResult deal_result = 1;
+  .lq.AmuletEventResult.HuResult hu_result = 2;
+  .lq.AmuletEventResult.GameEndResult game_end_result = 3;
+  .lq.AmuletEventResult.GangResult gang_result = 4;
+  .lq.AmuletEventResult.UpgradeResult upgrade_result = 5;
+  .lq.AmuletGameData new_game_result = 6;
+  .lq.AmuletEventResult.SellEffectResult sell_effect_result = 7;
+  .lq.AmuletEventResult.SelectPackResult select_pack_result = 8;
+  .lq.AmuletEventResult.GambleResult gamble_result = 9;
+  .lq.AmuletEventResult.AdvancedShopUpgradeResult advanced_shop_upgrade_result = 10;
+}
+
+message AmuletFan {
+  uint32 id = 1;
+  string val = 2;
+  uint32 count = 3;
+  bool yiman = 4;
+}
+
+message AmuletFanValue {
+  uint32 id = 1;
+  string value = 2;
+}
+
+message AmuletFanValueArrayDirty {
+  bool dirty = 1;
+  repeated .lq.AmuletFanValue value = 2;
+}
+
+message AmuletGameData {
+  .lq.AmuletGameRoundData round = 1;
+  .lq.AmuletGameEffectData effect = 2;
+  .lq.AmuletGameInfoData game = 3;
+  .lq.AmuletShopData shop = 5;
+  .lq.AmuletGameRecordData record = 6;
+  .lq.AmuletStateData state = 7;
+  .lq.AmuletMapData map = 8;
+  .lq.AmuletCharacterData character = 9;
+  .lq.AmuletNodeEventData node_event = 10;
+}
+
+message AmuletGameEffectData {
+  repeated .lq.AmuletEffectData effect_list = 1;
+  repeated .lq.AmuletBuffData buff_list = 2;
+  repeated .lq.AmuletBuffData skill_buff_list = 3;
+  repeated .lq.AmuletBuffData shop_buff_list = 4;
+  repeated .lq.AmuletRuneStoneData rune_stone_list = 5;
+  uint32 max_effect_volume = 9;
+  repeated .lq.AmuletEffectCandidate pack_candidates = 10;
+  uint32 pack_goods_id = 11;
+  repeated .lq.AmuletPackQueue pack_queue = 12;
+  uint32 pack_disable_skip = 13;
+}
+
+message AmuletGameInfoData {
+  uint32 level = 1;
+  string coin = 2;
+  uint32 max_effect_volume = 3;
+  repeated .lq.AmuletTileScore tile_score_map = 6;
+  uint32 book_effect_id = 8;
+  repeated .lq.AmuletFanValue fan_value_map = 9;
+  uint32 init_change_hand_count = 10;
+}
+
+message AmuletGameInfoDataChanges {
+  .lq.UInt32Dirty level = 1;
+  .lq.StringDirty coin = 2;
+  .lq.UInt32Dirty max_effect_volume = 3;
+  .lq.AmuletTileScoreArrayDirty tile_score_map = 6;
+  .lq.AmuletFanValueArrayDirty fan_value_map = 7;
+}
+
+message AmuletGameOperation {
+
+  message GangTiles {
+    repeated uint32 tiles = 1;
+  }
+
+  uint32 type = 1;
+  repeated .lq.AmuletGameOperation.GangTiles gang = 2;
+  int32 value = 3;
+}
+
+message AmuletGameOperationArrayDirty {
+  bool dirty = 1;
+  repeated .lq.AmuletGameOperation value = 2;
+}
+
+message AmuletGameRecordData {
+  uint32 yiman_count = 1;
+  uint32 level_hu_count = 2;
+  uint32 game_hu_count = 3;
+  uint32 effect_gain = 4;
+  string coin_consume = 5;
+  string coin_gain = 6;
+  .lq.ActivityAmuletHuRecord highest_hu = 7;
+  string highest_level_score = 8;
+  string highest_fan = 9;
+  uint32 pack_count = 10;
+  uint32 round_count = 11;
+  repeated .lq.AmuletEffectCounterData effect_counter = 12;
+  repeated uint32 hu_tiles_id = 13;
+  uint32 effect_upgrade_count = 14;
+}
+
+message AmuletGameRoundData {
+  repeated .lq.AmuletTile pool = 1;
+  repeated .lq.AmuletTile tile_replace = 2;
+  repeated string tian_dora = 3;
+  repeated uint32 dora = 4;
+  repeated uint32 hands = 5;
+  repeated uint32 used_desktop = 6;
+  repeated .lq.AmuletMingInfo ming = 7;
+  repeated uint32 locked_tile = 8;
+  uint32 change_tile_count = 9;
+  uint32 total_change_tile_count = 10;
+  repeated .lq.AmuletGameOperation next_operation = 11;
+  repeated .lq.AmuletActivityTingInfo ting_list = 12;
+  uint32 locked_tile_count = 15;
+  .lq.AmuletEnemyData enemy = 17;
+  repeated uint32 mountain = 101;
+  repeated uint32 used = 102;
+  repeated uint32 desktop = 103;
+  repeated uint32 show_desktop = 104;
+  uint32 after_gang = 105;
+  repeated uint32 berserk_tile = 106;
+  uint32 delay_round = 107;
+  uint32 desktop_remain = 201;
+  repeated .lq.AmuletShowDesktopTileData show_desktop_tiles = 202;
+  repeated uint32 berserk_tile_pos = 203;
+}
+
+message AmuletGameShopGoods {
+  uint32 id = 1;
+  bool sold = 2;
+  uint32 goods_id = 3;
+  uint32 price = 4;
+}
+
+message AmuletHookResult {
+
+  message AddEffectResult {
+    uint32 uid = 1;
+    uint32 id = 2;
+    uint32 merge_type = 3;
+    repeated uint32 merged_list = 4;
+    uint32 merged_result = 5;
+    .lq.AmuletBadgeData badge = 6;
+    repeated string store = 7;
+    uint32 volume = 8;
+  }
+
+  message AddDoraResult {
+    uint32 count = 1;
+    repeated uint32 list = 2;
+  }
+
+  message BigIntValueResult {
+    string origin = 1;
+    string modify = 2;
+    string final = 3;
+  }
+
+  message ModifyDoraResult {
+    string tile = 1;
+    bool is_dora = 2;
+    bool is_red_dora = 3;
+    bool is_tian_dora = 4;
+    uint32 dora_count = 5;
+  }
+
+  message TransformResult {
+    uint32 uid = 1;
+    uint32 effect_id = 2;
+    .lq.AmuletHookResult.AddEffectResult add_result = 3;
+  }
+
+  message AddBadge {
+    uint32 uid = 1;
+    uint32 badge_id = 2;
+    uint32 badge_uid = 3;
+  }
+
+  message CopyEffect {
+    uint32 uid = 1;
+    uint32 from_uid = 2;
+  }
+
+  message AmuletChangeDesktopResult {
+    repeated .lq.AmuletShowDesktopTileData show_desktop_tiles = 1;
+    repeated uint32 desktop = 2;
+    uint32 locked_tile_count = 3;
+    uint32 desktop_remain = 4;
+    repeated uint32 locked_tile = 5;
+    repeated uint32 berserk_tile_pos = 7;
+  }
+
+  message UpgradeEffectResult {
+    uint32 uid = 1;
+    uint32 id = 2;
+    .lq.AmuletBadgeData badge = 3;
+    repeated string store = 4;
+    uint32 volume = 5;
+  }
+
+  message UInt32ValueResult {
+    uint32 origin = 1;
+    uint32 modify = 2;
+    uint32 final = 3;
+  }
+
+  repeated .lq.AmuletHookResult.AddEffectResult add_effect = 1;
+  repeated uint32 remove_effect = 2;
+  repeated uint32 add_buff = 3;
+  repeated uint32 remove_buff = 4;
+  repeated string add_tian_dora = 5;
+  .lq.AmuletHookResult.AddDoraResult add_dora = 6;
+  .lq.AmuletHookResult.BigIntValueResult coin_modify = 8;
+  repeated .lq.AmuletTile tile_replace = 10;
+  repeated uint32 add_show_tile = 11;
+  repeated .lq.AmuletTileScore modify_tile_score = 12;
+  int32 calc_desktop_count = 13;
+  int32 modify_desktop_count = 14;
+  int32 modify_show_desktop_count = 15;
+  int32 modify_lock_tile_count = 16;
+  int32 modify_change_hands_count = 17;
+  int32 modify_change_hands_tile_count = 18;
+  bool force_moqie = 19;
+  bool replace_hu = 20;
+  string modify_target_point = 21;
+  bool upgrade_level = 22;
+  repeated .lq.AmuletHookResult.ModifyDoraResult modify_dora = 23;
+  int32 modify_dora_max_count = 25;
+  int32 modify_shop_goods_count = 26;
+  bool modify_shop_rare_weight = 27;
+  bool modify_shop_goods_price = 28;
+  repeated uint32 modify_shop_pack_effect = 29;
+  int32 modify_effect_max_count = 30;
+  repeated .lq.AmuletGameShopGoods modify_goods = 31;
+  repeated uint32 remove_goods = 32;
+  .lq.AmuletHookResult.BigIntValueResult modify_base = 33;
+  .lq.AmuletHookResult.BigIntValueResult modify_fan = 34;
+  repeated .lq.AmuletFan modify_fan_info = 37;
+  repeated .lq.AmuletHookResult.TransformResult transform_effect = 39;
+  repeated .lq.AmuletHookResult.AddBadge add_badge = 40;
+  repeated uint32 remove_badge = 41;
+  string modify_effect_price = 42;
+  repeated .lq.AmuletHookResult.CopyEffect copy_effect = 43;
+  bool effect_growth = 44;
+  string modify_tile_score_aura = 45;
+  uint32 modify_hule_count = 46;
+  bool can_gang = 47;
+  repeated uint32 modify_change_hands_list = 48;
+  .lq.AmuletHookResult.AmuletChangeDesktopResult modify_change_desktop = 49;
+  uint32 self_effect_id = 50;
+  string modify_change_coin = 51;
+  repeated .lq.AmuletTileScore set_tile_score = 52;
+  repeated .lq.AmuletHookResult.UpgradeEffectResult upgrade_effect = 53;
+  repeated .lq.AmuletTileScore modify_tile_base_score = 54;
+  .lq.AmuletHookResult.UInt32ValueResult heal = 55;
+  .lq.AmuletHookResult.UInt32ValueResult damage = 56;
+  uint32 modify_berserk_tile_count = 57;
+  .lq.AmuletHookResult.BigIntValueResult modify_enemy_max_hp = 58;
+  repeated .lq.AmuletFanValue add_fan_value = 59;
+  uint32 set_change_tile_count = 60;
+  bool modify_shop_upgrade_goods_price = 61;
+}
+
+message AmuletMapData {
+  uint32 level = 1;
+  uint32 node = 2;
+  repeated .lq.AmuletMapNodeData map_nodes = 3;
+  uint32 transport_count = 4;
+}
+
+message AmuletMapDataChanges {
+  .lq.UInt32Dirty level = 1;
+  .lq.UInt32Dirty node = 2;
+  .lq.ActivityAmuletMapNodeDataArrayDirty map_nodes = 3;
+  .lq.UInt32Dirty transport_count = 4;
+}
+
+message AmuletMapNodeData {
+  uint32 type = 1;
+  uint32 sub_type = 2;
+  repeated uint32 args = 3;
+}
+
+message AmuletMingInfo {
+  uint32 type = 1;
+  repeated uint32 tile_list = 2;
+}
+
+message AmuletMingInfoArrayDirty {
+  bool dirty = 1;
+  repeated .lq.AmuletMingInfo value = 2;
+}
+
+message AmuletNodeEventChanges {
+  .lq.AmuletAdvancedShopGoodsArrayDirty advanced_shop_goods = 1;
+  .lq.UInt32Dirty advanced_shop_refresh_count = 2;
+  .lq.UInt32Dirty advanced_shop_refresh_price = 3;
+  .lq.UInt32ArrayDirty bonfire_selection = 4;
+  .lq.UInt32Dirty gamble_id = 5;
+  .lq.UInt32Dirty gamble_count = 6;
+  .lq.UInt32Dirty gamble_price = 7;
+  .lq.UInt32ArrayDirty gamble_selections = 8;
+  .lq.ActivityAmuletTradeItemArrayDirty trade_items = 9;
+  .lq.UInt32Dirty trade_count = 10;
+  .lq.ActivityAmuletTradeRewardDirty trade_reward = 11;
+  .lq.AmuletAdvancedShopUpgradeArrayDirty advanced_shop_upgrade = 12;
+}
+
+message AmuletNodeEventData {
+  repeated .lq.AmuletAdvancedShopGoods advanced_shop_goods = 1;
+  uint32 advanced_shop_refresh_count = 2;
+  repeated uint32 bonfire_selection = 3;
+  uint32 gamble_id = 4;
+  uint32 gamble_count = 5;
+  uint32 gamble_price = 6;
+  repeated uint32 gamble_selections = 7;
+  repeated .lq.AmuletTradeItem trade_items = 8;
+  uint32 trade_count = 9;
+  .lq.AmuletTradeReward trade_reward = 10;
+  repeated .lq.AmuletAdvancedShopUpgrade advanced_shop_upgrade = 11;
+  uint32 advanced_shop_refresh_price = 12;
+}
+
+message AmuletPackQueue {
+  uint32 pack_id = 1;
+  repeated uint32 sure_candidate = 2;
+  uint32 count = 3;
+  uint32 disable_skip = 4;
+  uint32 source = 5;
+}
+
+message AmuletPackQueueArrayDirty {
+  bool dirty = 1;
+  repeated .lq.AmuletPackQueue value = 2;
+}
+
+message AmuletRecordDataChanges {
+  .lq.UInt32Dirty yiman_count = 1;
+  .lq.UInt32Dirty level_hu_count = 2;
+  .lq.UInt32Dirty game_hu_count = 3;
+  .lq.UInt32Dirty effect_gain = 4;
+  .lq.StringDirty coin_consume = 5;
+  .lq.StringDirty coin_gain = 6;
+  .lq.ActivityAmuletHuRecordDirty highest_hu = 7;
+  .lq.StringDirty highest_level_score = 8;
+  .lq.StringDirty highest_fan = 9;
+  .lq.UInt32Dirty pack_count = 10;
+  .lq.UInt32Dirty round_count = 11;
+  .lq.AmuletEffectCounterDataArrayDirty effect_counter = 12;
+  .lq.UInt32ArrayDirty hu_tiles_id = 13;
+  .lq.UInt32Dirty effect_upgrade_count = 14;
+}
+
+message AmuletRoundDataChanges {
+  .lq.AmuletTileArrayDirty pool = 1;
+  .lq.AmuletTileArrayDirty tile_replace = 2;
+  .lq.StringArrayDirty tian_dora = 3;
+  .lq.UInt32ArrayDirty dora = 5;
+  .lq.UInt32ArrayDirty hands = 6;
+  .lq.UInt32ArrayDirty used_desktop = 7;
+  .lq.UInt32ArrayDirty used = 8;
+  .lq.AmuletMingInfoArrayDirty ming = 9;
+  .lq.UInt32ArrayDirty locked_tile = 12;
+  .lq.UInt32Dirty change_tile_count = 13;
+  .lq.UInt32Dirty total_change_tile_count = 14;
+  .lq.AmuletGameOperationArrayDirty next_operation = 15;
+  .lq.AmuletTingInfoArrayDirty ting_list = 16;
+  .lq.UInt32Dirty desktop_remain = 20;
+  .lq.AmuletShowDesktopTileDataArrayDirty show_desktop_tiles = 21;
+  .lq.UInt32Dirty locked_tile_count = 22;
+  .lq.UInt32ArrayDirty berserk_tile_pos = 23;
+  .lq.AmuletEnemyDirty enemy = 24;
+  .lq.UInt32Dirty delay_round = 25;
+}
+
+message AmuletRuneStoneArrayDirty {
+  bool dirty = 1;
+  repeated .lq.AmuletRuneStoneData value = 3;
+}
+
+message AmuletRuneStoneData {
+  uint32 id = 1;
+  repeated string store = 2;
+}
+
+message AmuletShopData {
+  repeated .lq.AmuletGameShopGoods goods = 1;
+  uint32 shop_refresh_count = 3;
+  uint32 refresh_price = 4;
+  repeated .lq.AmuletShopUpgradeGoods upgrade_goods = 5;
+}
+
+message AmuletShopDataChanges {
+  .lq.AmuletShopGoodsArrayDirty goods = 1;
+  .lq.UInt32Dirty shop_refresh_count = 3;
+  .lq.UInt32Dirty refresh_price = 4;
+  .lq.AmuletShopUpgradeGoodsArrayDirty upgrade_goods = 5;
+}
+
+message AmuletShopGoodsArrayDirty {
+  bool dirty = 1;
+  repeated .lq.AmuletGameShopGoods value = 2;
+}
+
+message AmuletShopUpgradeGoods {
+  uint32 id = 1;
+  uint32 upgrade_id = 2;
+  uint32 level = 3;
+  uint32 price = 4;
+}
+
+message AmuletShopUpgradeGoodsArrayDirty {
+  bool dirty = 1;
+  repeated .lq.AmuletShopUpgradeGoods value = 2;
+}
+
+message AmuletShowDesktopTileData {
+  uint32 id = 1;
+  uint32 pos = 2;
+}
+
+message AmuletShowDesktopTileDataArrayDirty {
+  bool dirty = 1;
+  repeated .lq.AmuletShowDesktopTileData value = 2;
+}
+
+message AmuletSkillData {
+  uint32 id = 1;
+  uint32 level = 2;
+}
+
+message AmuletStateData {
+  uint32 current = 1;
+  uint32 interrupt = 2;
+}
+
+message AmuletTile {
+  uint32 id = 1;
+  string tile = 2;
+}
+
+message AmuletTileArrayDirty {
+  bool dirty = 1;
+  repeated .lq.AmuletTile value = 2;
+}
+
+message AmuletTileScore {
+  string tile = 1;
+  string score = 2;
+}
+
+message AmuletTileScoreArrayDirty {
+  bool dirty = 1;
+  repeated .lq.AmuletTileScore value = 2;
+}
+
+message AmuletTingInfoArrayDirty {
+  bool dirty = 1;
+  repeated .lq.AmuletActivityTingInfo value = 2;
+}
+
+message AmuletTradeItem {
+  uint32 id = 1;
+  repeated uint32 store = 2;
+}
+
+message AmuletTradeReward {
+  uint32 id = 1;
+  uint32 type = 2;
+  uint32 rune_stone_id = 3;
+  uint32 effect_id = 4;
+  uint32 badge_id = 5;
+}
+
+message AmuletValueChanges {
+  .lq.AmuletRoundDataChanges round = 1;
+  .lq.AmuletEffectDataChanges effect = 2;
+  .lq.AmuletGameInfoDataChanges game = 3;
+  .lq.AmuletShopDataChanges shop = 5;
+  .lq.AmuletRecordDataChanges record = 6;
+  .lq.AmuletStateData state = 7;
+  .lq.AmuletMapDataChanges map = 8;
+  .lq.AmuletCharacterDataChanges character = 9;
+  .lq.AmuletNodeEventChanges node_event = 10;
+}
+
+message CharacterStatistic {
+  uint32 character_id = 1;
+  uint32 highest_level = 2;
+  string highest_score = 3;
+  uint32 highest_level_node = 4;
+}

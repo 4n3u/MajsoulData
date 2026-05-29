@@ -1,0 +1,285 @@
+1:player
+2:Is this dagger... also a laser tag device?
+3:Ein
+4:That's right. It's made out of rubber, and the laser transmitter on the tip makes a sound when it comes into contact with the laser receiver.
+5:At this time, there are lots of people in the spacious lobby of the wargame club. Standing in front of the display cabinet, I marvel at the various weapons inside it and really stand out among all the veteran players walking past me. Fortunately, Ein has been accompanying me the whole time and explaining everything to me.
+7:Haha, that's not surprising since they were made to look like the real thing to give players a realistic gaming experience.
+8:Laser guns, camouflage uniforms, field battle scenarios that are modeled to look real and natural... Now I think I made the right decision when I abandoned my plans to have a lazy weekend to come to this wargame club with you on the outskirts of the city.
+9:What? Did you really come to play?!
+10:Why else... would I come?
+11:(whisper) I thought you came with me because you wanted to...
+12:Hmm? What did you say? I couldn't hear that clearly.
+13:N-Nothing. Oh right, this is a paintball gun. Getting hit by one of these bullets is no laughing matter because it hurts really badly and leaves a bruise. For that reason, the club requires everyone to wear corresponding helmets, protective glasses, and protective clothing if any player wants to use this weapon in a game.
+14:Ein, you seem to know a lot about all the equipment here at the club. Let me guess. Are you a regular?
+15:I don't really count as a regular. I just come here once or twice a month.
+16:In my hometown, my tribe often organizes hunts. All the hunters will rush into the mountains and woodlands to capture wild animals, and the winner will be decided based on the number of prey caught and their size.
+17:Although I can't participate in those hunts now, I can't let my body become lazy, so I've been looking for places to practice hunting after arriving here in One Han City.
+18:But... based on what I know, shouldn't a wargame like this be different from the hunts you mentioned?
+19:Yes, but playing wargames is an effective way to train both my physical ability and combat decision-making skills. It allows me to maintain the same state as when I'm hunting.
+20:I see.
+21:Haha, since we're already here, let me show you what a hunt is like.
+22:???
+23:I don't really understand. Are you saying that there's no one for us to play against right now? What can we do...
+24:Tsk, I told you ages ago that you shouldn't expect to run into any evenly matched opponents in a game filled with novices. How could you possibly...
+25:{var:player_nickname}? You're here too?
+26:I turn my head to the left and look behind me at where the voices are coming from and find myself looking into a pair of pink pupils. I also see a rather irritable young man standing next to the owner of these eyes.
+27:Zechs
+28:The disciple of Nishiba-ryu and... Ein? Why are you two together?
+29:Because we get along really well. Isn't that right, {var:player_nickname}?
+30:Ah, y-yes! I guess?
+31:Seeing the menacing look in Zechs's eyes, my affirmative statement ends with an uncertain tone.
+32:Hey, we also get along really well, right?
+33:Oh? Er... yes?
+34:I see... In that case, {var:player_nickname}, who do you get along with better between Zechs and me?
+35:...
+36:Getting the feeling that I've been dragged into a terrible war, I look at Hannah next to me for help, only to find that she's twiddling her fingers and looking at the ceiling, the floor, and the people passing by... She's looking at everything except me.
+37:Staff
+38:Excuse me, but our next treasure hunt is about to start. If the four of you are together, you have just enough people for a game.
+39:No, we're not together.
+40:Okay.
+41:Tsk, that's what I wanted to say.
+42:Huh?!!!
+43:Then let me introduce the rules to you.
+44:Wait a minute...
+45:Ein and Zechs gather next to the staff excitedly to listen carefully to the explanation, and even Hannah has joined them. Nobody cares about my rejection...
+46:I get it. I'm just deadweight, like a fragile support character who has forgotten to wear the right gear in a MOBA game...
+47:{var:player_nickname}? If you don't listen to the rules carefully, you'll be scurrying around with your tail between your legs when the game starts.
+48:Ein tugs me gently, pulling me into their group, which is listening carefully to the staff's explanation.
+49:Well, it looks like this Attack Damage Carry is still in control, so I'll reluctantly agree to join them.
+50:Are there any new players today? I'm referring to anyone who is here for the first time today.
+51:Hannah
+52:Me.
+53:Me.
+54:...Same here.
+56:To give new players a better gaming experience, we'll make it so that each receiver won't register any more hits within five seconds of being hit. In other words, you'll get five seconds of invincibility.
+57:However, please note that if the laser receiver on a player's head receives a laser signal from a weapon, that player that has been hit will be eliminated immediately, so remember to protect your head when you're hiding.
+58:I subconsciously touch my head. It looks like headshots are a thing in all games.
+59:In a treasure hunt game, players will be divided into multiple teams and search for the same hidden target. The team that finds the target and takes it back to their camp safely or eliminates all their enemies will win the game. Based on the number of players you have, I recommend that you split into two teams.
+60:Let's team up, {var:player_nickname}!
+61:Right after Hannah speaks, three intense gazes focus on me.
+62:Hey, I'm the best hunter in the tribe. Think carefully!
+63:I'm not even going to bother to ask you whether your claim of being the best has been verified. {var:player_nickname}, don't you think it's better to choose an old partner with whom you've shared your joys and sorrows?
+64:I've had enough of this topic of sharing joys and sorrows!!! I have no idea how I survived that month!!! I wail in my heart and then turn to look at Hannah.
+65:A-Are you gonna choose me...?
+66:Probably because my gaze is too intense when I look at Hannah for help, she shyly taps the floor with her tail gracefully. After a loud bang, dust fills the air, and I see that the floor has cracked.
+67:Haha... I never would have thought that I, the worst fighter here, would be the one who gets to choose my partner.
+68:Team up with Zechs
+69:Team up with Ein
+70:Team up with Hannah
+71:Ein and I came together in the first place, and he seems to know the games here very well.
+72:I've decided! I'll team up with Ein.
+73:Ein's golden fox eyes curve into a beautiful crescent shape, and his big furry tail sways from side to side behind him, which is what he does subconsciously when he is in a good mood.
+74:Nice!
+75:Hmph, just so you know, I won't go easy on you later. Don't cry too loudly later.
+76:{var:player_nickname}, you better be careful then. A graceful lady doesn't pull any punches on the hunting grounds!
+77:The pre-game trash talk is really scary.
+78:Don't be afraid. We'll definitely win.
+79:We wear the game equipment under the guidance of the staff. Each of us gets a laser gun and a replica dagger, and the computer will automatically determine whether attacks are successful. We are then divided into two teams before entering the field and being led to our respective camps.
+
+81:After the announcement plays on the radio, we eagerly leave the safe area of our camps and rush to the battle area. The treasure hunt has officially started.
+82:Although I know that I'm still somewhere inside the wargame club... the venue is simply too realistic, and the trees, streams, and bushes look just like the ones you would find in a real wild jungle.
+83:Ein, is this what your hometown looks like?
+84:If you're interested, you're welcome to come home with me anytime. My old man even said that he'll make some time to personally welcome you.
+85:Huh? It sounds like... you've already told your family about me?
+86:Oh, well... it's impossible to not mention the people around me when I talk to my family. You're not an outsider, {var:player_nickname}, so I've told them some things about you.
+87:But you don't need to take it that seriously. My old man isn't anyone amazing anyway. So... will you come with me?
+88:Of course!
+89:That's great! I'm filled with energy now! I feel like I can beat ten Zechs.
+90:Ahem, that's a slight exaggeration. Zechs's muscles aren't just for show. You... can probably beat five Zechs.
+91:Ein and I look at each other and smile. It seems that my plan to go hunting in that land I've been dying to visit is finally going to happen. Of course, I do need to survive today first.
+92:"Buzz-- Buzz-- Buzz--"
+94:Find some cover!
+95:At this moment, the gap between me and a good hunter is clear at a glance. In response to the enemy's sudden attack, Ein immediately takes cover behind a big tree that is so wide that not even the two of us can fully wrap our arms around it. Meanwhile, I'm standing still on the spot and thinking about where I should run to.
+96:{var:player_nickname}, come to me!
+97:Oh, okay.
+99:{var:player_nickname}, judging from the sound of the gunfire, it seems that only one of them has come. I'll lure them away later, and you'll take that opportunity to find a safe place to hide.
+100:That's too dangerous.
+101:I haven't been hit yet, so I have more HP than you. The five seconds of invincibility is more than enough for me to find a new place to hide.
+102:Realizing that Ein's suggestion is our best option at this moment and that time is of the essence, I nod at him.
+103:When Ein rushes out from his cover, he instantly draws the fire of the opponent. The moment the red dot starts flashing on Ein's left shoulder, I quickly rush to where he was earlier and hide behind the tree.
+104:Judging from how much that person wants to finish you off, I'm guessing that it's Zechs.
+107:Ein, do you think Zechs's strategy is to eliminate us before searching for the treasure?
+108:Hannah still hasn't appeared yet, so it's possible that Zechs is thinking of keeping us occupied here while Hannah searches for the treasure.
+109:They are thinking of sending one person to take us both out. It looks like they are looking down on us.
+110:No, this is an opportunity
+111:Sorry, I'm dragging you down
+112:All alone, deep behind enemy lines, looking down on their opponent... I link these words together...
+113:Ein, this is our chance!
+114:{var:player_nickname}, this is our chance!
+115:It looks like we're thinking of the same thing.
+116:Let's take out Zechs first while he's all alone.
+117:But...
+118:Hmm?
+119:Although this is a little straightforward... Ein, I don't think you can beat Zechs one on one... right?
+120:The silence sure is awkward. I shrink back and try to say something to make up for what I said, but to my surprise, Ein starts laughing instead.
+121:Who said I'll be taking him on one on one? You're here with me, right?
+122:Me? I've only beaten Zechs before in mahjong. Does that really mean I'm stronger than him...?
+123:I'm sorry, Ein...
+124:Huh? Why are you apologizing all of a sudden?
+126:No one knows who will win yet.
+127:But I...
+128:{var:player_nickname}, one's fighting ability isn't everything in a hunt. Having a good understanding of your own abilities and being able to choose a strategy that suits yourself... are the keys to victory.
+129:Taking our current situation as an example, it's true that Zechs and Hannah's team is stronger than our team, but they have chosen to fight separately in an unfamiliar terrain purely because they are both strong fighters. This isn't very rational and might be the crucial element for us to turn the situation around.
+130:But... what can I help you with in this situation?
+131:Don't underestimate yourself, {var:player_nickname}. There's something that only you can do right now.
+132:Although Zechs is an amazing melee fighter, he isn't very familiar with ranged weapons like these firearms. That's obvious based on how many times he has missed.
+133:Once he runs out of ammo, he'll definitely choose to attack us with his favorite melee combat. This will be our chance.
+134:I'll engage him, while you stay here and find a chance to snipe him from a distance.
+135:I suddenly feel like I'm under a lot of pressure. I hope I don't end up missing every shot.
+136:Just as Ein and I finish deciding what tactics to use, the shooting sounds die down in the distance. Ein raises his index finger and signals for me to be silent, then his ears move in the air while he listens to all the sounds around him.
+137:My grip on the laser gun in my hand tightens when I see that Ein has pulled out his replica dagger. I start counting down silently in my heart...
+138:5... 4...
+139:{var:player_nickname}, relax.
+140:3...
+141:I trust you.
+142:2...
+143:So you should trust me too.
+144:1...
+145:We'll definitely win!
+146:Ein rushes out of his cover like a flying arrow, and actively attacks the intruder like a wild beast whose territory has been intruded upon.
+147:Not to be outdone, Zechs rushes forward to engage him. The battle between these great hunters is powerful and wild, and I can only see two blurry figures among the dust and falling leaves around them in the scope. In fact, I can only tell where Ein is by looking at the color of his fur.
+148:However, red and brown just look too similar!!!
+149:Huff... I need to calm down. It would be bad if I hit Ein by mistake.
+150:The signal receiver used for scoring purposes on his wrist is constantly vibrating and flashing with a red light, which means that Ein doesn't have the advantage in the fight with Zechs. I take a few deep breaths and force myself to calm down, then I pick up the laser gun again and put my finger on the trigger in preparation to shoot at any time.
+151:Huh? Ein is looking at... me?
+152:Through the scope, I can see that Ein is looking in my direction and mouthing some words.
+153:He's telling me to... shoot? But Zechs isn't in the best position... I...
+154:"Bang!" My body reacts before my brain, and my finger pulls the trigger the moment I notice that Ein is giving me the signal. The dust stirred up by the two people entangled in the distance makes it impossible for me to judge whether my attack was effective.
+155:Did I hit him? Wow, what a strong vibration. I didn't hit Ein, right?
+156:Announcement
+157:Member 1 of the blue team has been eliminated.
+158:It worked?
+159:Ein and I are members of the red team, which means Zechs must have been eliminated.
+160:Good job, {var:player_nickname}. Your headshot won us a crucial victory.
+161:I didn't do anything. It's all thanks to your great leadership.
+163:Yes.
+164:Hey, can you two stop flattering each other? I'm still here and I can hear everything you're saying!
+165:Losers should just shut up.
+166:Tsk, you aren't guaranteed to win this game. I'm just here to hold you up over here. Judging from the time, Hannah should have found the treasure and should be on her way back to the camp.
+167:This time I'm going to make you call me your older brother instead!
+168:Ein, we really did waste a lot of time here with Zechs. There's only 20 minutes left until the game ends.
+169:Given how fast Hannah is, since we haven't received any notifications about her finding the treasure, I'm guessing that she's run into some trouble.
+170:Oh? What could possibly trouble a hunter in a forest?
+171:We'll find out once we get there.
+172:We walk all the way to where the treasure is hidden and find that it really has been taken away by Hannah. The footprints on the ground are a mess, and not even Ein can determine Hannah's whereabouts at this time, so we have no choice but to return to the camp and wait for further news.
+173:Time's up. The game is over. This game is a draw.
+174:Didn't Hannah find the treasure? Why is it a draw?
+175:Ein and I return to the place where we waited for the game to start and encounter Hannah, who is covered in vines. According to what everyone else said, Hannah's intuition quickly led her to the hidden treasure, but then she got lost...
+176:(whisper) {var:player_nickname}, you must remember that losing one's sense of direction in a jungle is a major mistake for hunters.
+179:Sigh, what a shame.
+180:What's a shame? That we didn't win the game?
+181:No. I just really like the environment we were in earlier, as well as that excitement.
+182:That's easy. Do you remember what we were saying when the game just started?
+183:Your hometown?
+184:Yeah! We can set off whenever you're ready.
+185:You can go sunbathing, hunting, or do whatever you want. I'll take you to experience real nature.
+186:I turn to look at Ein and see that he is looking right at me like he is waiting to hear my answer.
+188:It's a promise.
+189:Okay.
+190:If I want to win, I can't be careless when choosing my teammate, and my teammate's fighting ability is what I need to prioritize.
+191:I've decided! I'll team up with Zechs!
+192:Hah! I like smart people like you.
+193:{var:player_nickname}, are you SURE about this?
+194:Are you threatening my teammate?!
+195:I just want {var:player_nickname} to make the right decision.
+196:Hey, say your answer out loud again so that stinky fox will give up.
+197:{var:player_nickname}?
+198:No one can remain calm when they are being stared at by a fox and a wolf at the same time. I wipe some non-existent sweat off my forehead and stick with my decision.
+199:I-I've decided to team up with Zechs!
+200:Did you hear that? You stinky fox!
+201:Sigh... I must say that you've made a great mistake, {var:player_nickname}. In that case, don't blame me for not showing you any mercy in the game.
+202:It seems that it's too late to change my mind now. I... I just hope I won't run into Ein when I'm all alone.
+203:Although Zechs and I agreed that one of us would hold back the opponent's fighting force while the other searches for the treasure alone, walking alone in an unfamiliar jungle really makes me feel insecure.
+204:It would be better to have a companion with me right now, and... Huh? Wait a minute. I have a strange feeling... Is someone following me?
+205:A strange feeling arises in my heart, and I feel like a hot gaze that I can't ignore is watching my every move.
+206:Is it Ein or Hannah? Have they already defeated Zechs so quickly? No, the scoring device hasn't vibrated at all, so they must not have met yet. The thing following me... can't possibly be a GoPro camera installed by the club, right?
+207:I better think of a way to find out whether I'm right.
+208:Some flowers blooming by the side of the path catch my attention, and I realize that they are real flowers after I kneel down to take a look at them. I feel a little sorry when I think about a fox who is allergic to pollen, but... I can't be kind to him if he isn't going to show me any mercy!
+209:The moment I sense someone rushing towards me from behind, I quickly turn around and slap the person's face with the flower I just plucked.
+210:Achoo!
+211:It really is you, Ein!
+212:There's no time for me to wonder about how Ein managed to get past Zechs's line of defense. Only one thing will happen to me if I encounter an experienced hunter all alone in the wild. To stall for time so that my teammate can come and help me, I rush to the jungle on the other side without hesitation to try and avoid Ein's attack.
+213:Arghhhhhhhh! Why is there a trap in this wargame venue?!
+214:Achoo! This trap isn't part of the venue. I prepared it specially for you.
+215:How did you dig such a big hole in such a short period of time?
+216:Heh, I'm a professional at digging traps. Achoo! I even lined the bottom of the hole with a layer of hay so that you wouldn't get hurt when falling. Alas... even though a certain person didn't choose me to be their teammate, I still have to take special care of them.
+217:It's not possible for you to climb out of this trap without any help, but I've always been kind and helpful. I'll pull you up if you shout "I'll definitely pick Ein as my teammate in the future" out loud three times. How about it?
+218:Agree and do it immediately
+219:Refuse because you won't regret the decisions you've made
+221:I'll definitely pick Ein as my teammate in the future. I'll definitely pick Ein as my teammate in the future. I'll definitely pick Ein as my teammate in the future.
+222:You won't go back on your word, right?
+223:Of course not. I'm just surprised by how quickly you agreed. It looks like I still don't understand you well enough.
+224:I also didn't think you would care so much about who I would team up with.
+225:Haha, then we're even. Okay, I'll pull you up now.
+226:Buzz-- The scoring device I'm wearing vibrates powerfully, clearly indicating that I've eliminated Ein. The moment he leans towards me, exposing his head, and extends a friendly hand to me, I stealthily raise my laser gun and aim it at the receiver on his head.
+227:There's no such thing as too much deception in war. I'm only doing this for the final victory.
+228:{var:player_nickname}!!!
+229:The cry of an angry fox resounds throughout the jungle. Meanwhile, I quietly put away my gun with no intention of boasting or showing off.
+230:As the saying goes, one can be killed but not humiliated. Only 20 minutes have passed since the game started. To go back on my word now is to question my judgment, which is something I can't agree to given how stubborn I am.
+231:I won't betray my teammate!
+232:Then don't blame me for this.
+234:Buzz-- The scoring device I'm wearing vibrates powerfully, clearly indicating that Ein and I have both been eliminated.
+235:{var:player_nickname}, you've even learned to launch sneak attacks?!
+236:Perhaps I learned it from the people around me.
+237:So it's my fault now?
+238:Look on the bright side of things. Although we weren't on the same team, at least we were both eliminated together.
+239:...You really know what to say to comfort people.
+240:According to the result on the scoring device, {var:player_nickname} and Zechs have won the game. Congratulations!
+241:Although some people on both sides were unfortunate enough to get shot during the game, we managed to win thanks to Zechs's powerful fighting ability and Hannah's extraordinary ability to get lost.
+242:Hey, cheer up. We won the game.
+243:(whisper) But I fell into a trap right after the game started, so I don't feel like I participated. I think it would be better to choose a different partner to work with next time.
+244:Hey, it sounds like you aren't very happy with the tactical arrangements I made today.
+245:Uh-oh, I forgot that Zechs has excellent hearing...
+246:Zechs, listen to my explanation first. I'm very happy to have won the game.
+247:{var:player_nickname}, so you care more about winning than who you team up with.
+248:Ein, when did you get here? Ahem, you should listen to my explanation too. I actually wanted to team up with you too.
+249:Eh?! A-Am I the only one {var:player_nickname} doesn't want to team up with?! I'm so sad...
+250:Hannah, why are you joining in...
+251:Hey, don't change the subject. Are you unhappy with me?
+252:I really wanted to team up with you.
+253:Sigh... {var:player_nickname} is so realistic, so cold, and so heartless.
+254:Something I said unintentionally has caused all three of them to gang up on me, and comforting them one after another makes me so busy that I sigh silently in my heart...
+255:It seems that being too popular can also be a pain sometimes...
+256:Regardless of who I choose between Ein and Zechs, the other person will go berserk on the spot right? For my own safety, it's better to avoid them.
+257:I've decided! I'll team up with Hannah.
+258:The moment I say these words, all three people in front of me look at me in disbelief. Hannah is covering her mouth with her hands and looking at me with a surprised look on her face, but Ein and Zechs beside me don't look that happy.
+259:{var:player_nickname}, would you like to reconsider that?
+260:Ein is smiling like always, but his beautiful golden eyes are narrowed slightly, giving him the appearance of a predator who is looking at his prey.
+261:Compared to Ein, who is able to maintain his image, Zechs is obviously more irritable.
+262:Doesn't that mean I'll need to team up with this stinky fox? No, I don't want to do that.
+263:What a coincidence. That's what I'm thinking too.
+264:Seeing that things are about to get messy, I grab Hannah's hand and rush to the preparation area first.
+265:We wear the game equipment under the guidance of the staff. Each of us gets a laser gun and a replica dagger, and the computer will automatically determine whether attacks are successful. Before entering the field, our two teams are led to our respective camps.
+266:I've been walking like this with {var:player_nickname} for ten minutes now, but there's still no sign of Ein and Zechs. This feels strange.
+267:Oh no, since they can move faster than us, could they have already gone to find the treasure?
+268:Don't worry! I won't lose to them in a contest of speed.
+269:But I will!
+270:Then I'll carry you. You can relax, {var:player_nickname}. With my strength and speed, I'll easily overtake them even if I'm carrying you.
+271:The red team has been eliminated. The game is over, and the blue team has won.
+272:Hannah, aren't we the blue team?
+273:But we haven't found the treasure yet...
+274:Let's go back and take a look since we've already been declared the winners.
+275:Hannah and I return to the preparation area, where we see Zechs and Ein angry with each other. After hearing the staff's explanation, Hannah and I learn that the reason we won so easily is because they hit the receiving device on each other's head at the same time after the game started.
+276:I'm so scared! It turns out that the bullets can be used to eliminate our own teammates.
+277:Fortunately, our team is peaceful and friendly. I was right about teaming up with Hannah. I feel so safe with her.
+278:It's just a little boring because the game ended before we did anything...
+279:After hearing what she said, I look at the ears of the two people on the other side, which are twitching slightly, and clear my throat before saying something loudly
+280:I haven't had enough fun yet. Why don't we play another game? This time, we'll form different teams.
+281:Really?
+282:I agree.
+283:It's just as I expected. Ahaha... I hope I have enough stamina today to keep up with these three energetic hunters and allow them to have a good time.
+284:Wait, now that I think about it, is it possible that I'm the only prey today...?
+285:These laser tag weapons look so realistic. I almost thought I'm in some kind of munitions and weapons exhibition hall.
+286:Haha, quite a few of you are new players. In that case, I'll focus on explaining the various equipment to you. This is a laser receiver that players will wear in games. Each player will wear a total of six of these. When it is hit, an alarm will sound to indicate that the player has been injured.
+287:As soon as this thought flashes through my mind, the laser receiver on my right arm suddenly vibrates strongly. The flashing red light indicates that I've just been hit.
+288:However, I keep hearing gunshots coming from behind me. After taking two steps towards Ein, I realize that I've also been hit on my left arm, so I squat down low behind a short bush nearby and protect my head.
+290:However, to ensure that everything is fair in a treasure hunt, the treasure is usually hidden in a place that is the same distance away from the camps of both sides. In that case, why would Zechs appear around our camp?
+291:I pick up the laser gun on my back and search slowly for the enemy through the scope. Sure enough, I see a few strands of brown hair in the gaps between the leaves, but the laser receivers on Zechs's body are well blocked, so I can't find an opening to exploit.
+292:Although Ein speaks very softly, I see Hannah's furry ears twitch a few times before they become limp and start drooping.
+293:Hannah and Zechs leave us after telling us that they want to go home and train. After that, Ein and I are in a good mood on the way home. The exhaust from speeding cars makes Ein sneeze several times and awakens me from my reverie of the immersive experience of that beautiful natural environment I was in earlier.
+294:I'll put that on my schedule then.
+295:As the saying goes, a great person knows when to yield and when to stand firm. There's also another saying: a wise person submits to the circumstances.
+296:The sound of footsteps gets louder as they get closer as Ein approaches me outside the trap. I stealthily raise my laser gun and aim it at the receiver on his head.
+297:The main reason we won is because you trust me. After all, Zechs wasn't in the center of the scope yet when I signaled for you to shoot, right?
+301:If I'm also an outstanding hunter who is good in a fight, then Zechs wouldn't dare to look down on us so much. Moreover, they've already managed to score three hits on us before we've even started to fight properly...
+302:???

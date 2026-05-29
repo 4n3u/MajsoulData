@@ -1,0 +1,1558 @@
+[
+  {
+    "line": 1,
+    "text": "It's another beautiful sunny day on the weekend today. Without any warning, Nadeshiko \"intercepted\" me again on her motorcycle soon after I left home and told me to hop on behind her."
+  },
+  {
+    "line": 2,
+    "text": "Nadeshiko"
+  },
+  {
+    "line": 3,
+    "text": "{character:Nadeshiko}Put on the helmet and hold on tight."
+  },
+  {
+    "line": 4,
+    "text": "player"
+  },
+  {
+    "line": 5,
+    "text": "{character:player}This sure feels familiar. Where are we going this time?"
+  },
+  {
+    "line": 6,
+    "text": "{character:Nadeshiko}It'll be a worthwhile adventure."
+  },
+  {
+    "line": 7,
+    "text": "{character:player}...Isn't that basically what you said last time?!"
+  },
+  {
+    "line": 8,
+    "text": "*Vroom*"
+  },
+  {
+    "line": 9,
+    "text": "The domineering sound of the engine starting up covers the sound of my question."
+  },
+  {
+    "line": 10,
+    "text": "The motorcycle drives out of the outer ring of One Han City. Nadeshiko describes our destination to me bit by bit at each traffic light. After a while, I finally have a general idea of where we're going this time."
+  },
+  {
+    "line": 11,
+    "text": "We are heading towards the wilderness on the outskirts of One Han City where there are many gentle winding rivers, and it is possible to witness the spectacle of several sunset reflections on the water from nearby highlands in the evening."
+  },
+  {
+    "line": 12,
+    "text": "{character:player}It sounds like an oil painting of multiple sunsets!"
+  },
+  {
+    "line": 13,
+    "text": "{character:Nadeshiko}Yes, it's gorgeous. {var:player_nickname}, do you remember the promise we made last time?"
+  },
+  {
+    "line": 14,
+    "text": "{character:player}You mean \"a motorcycle ride with just the two of us?\""
+  },
+  {
+    "line": 15,
+    "text": "{character:Nadeshiko}Mhm-hmm. I've screened the best scenic spots I've been to and picked this one. I'm sure you'll love it! Once I decided, I couldn't wait to take you out."
+  },
+  {
+    "line": 16,
+    "text": "{character:player}Haha, I'm starting to get used to your \"extraordinary\" ability to take action. Where exactly is the scenic spot you're taking me to?"
+  },
+  {
+    "line": 17,
+    "text": "{character:Nadeshiko}Just follow me."
+  },
+  {
+    "line": 18,
+    "text": "{character:player}Sure, I'll leave it to you then."
+  },
+  {
+    "line": 19,
+    "text": "In the end, soon after we left the city, Nadeshiko suddenly stops at a fork with no road sign and falls silent."
+  },
+  {
+    "line": 20,
+    "text": "{character:player}..."
+  },
+  {
+    "line": 20,
+    "text": "{character:Nadeshiko}..."
+  },
+  {
+    "line": 21,
+    "text": "{character:player}What is it?"
+  },
+  {
+    "line": 22,
+    "text": "{character:Nadeshiko}There was only one road here the last time I came."
+  },
+  {
+    "line": 23,
+    "text": "{character:player}...Hold on."
+  },
+  {
+    "line": 24,
+    "text": "Looking at one of the roads that seems to have been paved not long ago, I suddenly realize what's wrong."
+  },
+  {
+    "line": 25,
+    "text": "{character:player}When was the last time you went to this place?"
+  },
+  {
+    "line": 26,
+    "text": "{character:Nadeshiko}Five or six years ago, I think."
+  },
+  {
+    "line": 27,
+    "text": "{character:player}???"
+  },
+  {
+    "line": 28,
+    "text": "{character:player}...This isn't a big problem. It's normal for roads to change as time passes. Let me turn on the GPS... Okay, so what's the name of that place?"
+  },
+  {
+    "line": 29,
+    "text": "I turn on the map on my mobile phone to enter the destination, but Nadeshiko shrugs."
+  },
+  {
+    "line": 30,
+    "text": "{character:Nadeshiko}I just drove around following my heart and ended up there. I remember the general route, but didn't pay attention to the name of the place."
+  },
+  {
+    "line": 31,
+    "text": "{character:Nadeshiko}Hmm?"
+  },
+  {
+    "line": 31,
+    "text": "{character:player}Hmm?"
+  },
+  {
+    "line": 32,
+    "text": "{character:Nadeshiko}Why don't we just choose one of these two roads randomly?"
+  },
+  {
+    "line": 33,
+    "text": "{character:player}Huh???"
+  },
+  {
+    "line": 34,
+    "text": "{character:Nadeshiko}It's decided. {var:player_nickname}, which one do you want to take?"
+  },
+  {
+    "line": 35,
+    "text": "{character:player}Um..."
+  },
+  {
+    "line": 35,
+    "text": "{character:Nadeshiko}Um..."
+  },
+  {
+    "line": 36,
+    "text": "Well, it looks like Nadeshiko has made up her mind and is quite happy with this temporary solution. In that case, I'll choose which way to go."
+  },
+  {
+    "line": 37,
+    "text": "{character:player}Hmm... If we are playing mahjong, the unpredictable preceding player sits on the left side. Although I don't know what tile they'll play, I'm always looking forward to it... I choose the left side!"
+  },
+  {
+    "line": 38,
+    "text": "{character:Nadeshiko}Haha, what an interesting way of thinking. You're as amazing as ever! Let's look forward to what we'll encounter!"
+  },
+  {
+    "line": 39,
+    "text": "The condition of this road isn't very good, and the road became an unpaved dirt and gravel road soon after we started driving. Fortunately, Nadeshiko is a terrific driver and manages to find a relatively stable path amid the exposed sharp stones of all sizes, so our ride is relatively smooth."
+  },
+  {
+    "line": 40,
+    "text": "But one motorcycle driving in the opposite direction isn't so lucky. When we saw it from a distance, it was lying pitifully on the side of the road, and its owner was staring at it anxiously. So, Nadeshiko stops her motorcycle."
+  },
+  {
+    "line": 41,
+    "text": "{character:Nadeshiko}Hey, need any help?"
+  },
+  {
+    "line": 42,
+    "text": "Biker"
+  },
+  {
+    "line": 43,
+    "text": "{character:Biker}Eh?! Are you an experienced biker? Please help!"
+  },
+  {
+    "line": 44,
+    "text": "Nadeshiko's motorcycle equipment and calm aura make the tough-looking male biker take off his sunglasses when he sees us with a tearful look that says \"I've finally met my savior.\""
+  },
+  {
+    "line": 45,
+    "text": "...After performing some inspections, Nadeshiko quickly finds out what caused the motorcycle to break down."
+  },
+  {
+    "line": 46,
+    "text": "To speed things up, Nadeshiko instructs the male biker to polish the replacement parts while she pulls out the maintenance tool box she carries on her motorcycle and performs more detailed repairs on the other motorcycle."
+  },
+  {
+    "line": 47,
+    "text": "Seeing Nadeshiko act so professionally and efficiently, I wonder if I should offer to help."
+  },
+  {
+    "line": 48,
+    "text": "According to the plot of typical road trip movies I've seen, the \"dangerous forbidden place\" passers-by mention is often the destination the protagonist is seeking, and it's a shame to give up halfway."
+  },
+  {
+    "line": 49,
+    "text": "{character:player}I want to keep going ahead to see what's out there. What do you think, Nadeshiko?"
+  },
+  {
+    "line": 50,
+    "text": "{character:Nadeshiko}Same here. I don't like to listen to hearsay. This road might not be friendly to novices, but it's still within my ability at the moment. We can discuss what it's like after we drive there."
+  },
+  {
+    "line": 51,
+    "text": "Nadeshiko and I hit it off immediately. We hop back on the motorcycle and keep driving."
+  },
+  {
+    "line": 52,
+    "text": "Sure enough, as Nadeshiko predicted, the road ahead wasn't any worse than the road before. The experience of that novice biker doesn't apply to Nadeshiko. However, the scenery starts becoming more and more desolate after we drive for a while, and the scenic spot we are looking for is still nowhere to be seen. At the same time, the sky is getting dark..."
+  },
+  {
+    "line": 53,
+    "text": "{character:player}Hold on, it's summer right now, so don't you think it's getting dark too quickly?"
+  },
+  {
+    "line": 54,
+    "text": "I look at my watch suspiciously and see that there's clearly some time until sunset."
+  },
+  {
+    "line": 55,
+    "text": "{character:Nadeshiko}This is..."
+  },
+  {
+    "line": 56,
+    "text": "*Bang* The rumbling thunder swallows Nadeshiko's words. Close behind her, a huge dark cloud instantly engulfs the clear sky that was still there a moment ago!"
+  },
+  {
+    "line": 57,
+    "text": "{character:player}Huh?! Wait—"
+  },
+  {
+    "line": 58,
+    "text": "{character:Nadeshiko}It's thunderstorm clouds! Hold on tight!"
+  },
+  {
+    "line": 59,
+    "text": "Nadeshiko responds with a sudden burst in speed. The wind gushes towards me in an instant, and the bumpiness of the road intensifies. I grab Nadeshiko tightly in panic, but can't help looking back at the sky in the rear-view mirror."
+  },
+  {
+    "line": 60,
+    "text": "Above us, the sky is playing a magical scene. The world seems to be split in two. The sky in front of us is still clear and bright, but the sky behind us is under the complete control of dark clouds mixed with lightning, and heavy rain soon pours down. White fog instantly fills the section of the road we just passed. The boundary line between the sunny sky and the dark sky gets closer and closer to us."
+  },
+  {
+    "line": 61,
+    "text": "At this moment, I'm so shocked that I don't know what to say."
+  },
+  {
+    "line": 62,
+    "text": "Nadeshiko reacts quickly to the situation, and there is no change in her expression. She even has enough time to watch how I'm doing in the rear-view mirror after she accelerates. In the cacophony of thunder, wind, and roaring engine, her voice still reaches my eardrums clearly and firmly."
+  },
+  {
+    "line": 63,
+    "text": "{character:Nadeshiko}Relax—it's very common to be chased by rain on a bike ride. Just think of this as a race that suddenly started! It's more interesting to have a race with the rain than it is to have a race with people!"
+  },
+  {
+    "line": 64,
+    "text": "{character:player}This is what you call \"interesting?!\""
+  },
+  {
+    "line": 65,
+    "text": "Since you're so confident, you can easily win this race like always, right?"
+  },
+  {
+    "line": 66,
+    "text": "{character:Nadeshiko}Of course! After all, this is a race that I can participate in with the mentality of \"it's the taking part that counts!\""
+  },
+  {
+    "line": 67,
+    "text": "{character:player}...Huh? What do you mean?"
+  },
+  {
+    "line": 68,
+    "text": "In the next second: *Pattering*"
+  },
+  {
+    "line": 69,
+    "text": "...The thunderstorm clouds catch up to us, surprising me. I wipe the rainwater off my face and realize the answer to my previous question and why I had an ominous premonition earlier. Nadeshiko is right. Up against invincible natural forces, it's already very positive to have the mentality of \"it's the taking part that counts.\""
+  },
+  {
+    "line": 70,
+    "text": "{character:player}Never mind. I've got it."
+  },
+  {
+    "line": 71,
+    "text": "{character:Nadeshiko}Haha! Okay, since you're here, I'll be more competitive today!"
+  },
+  {
+    "line": 72,
+    "text": "Nadeshiko accelerates again and rushes out of the edge of the rain curtain."
+  },
+  {
+    "line": 73,
+    "text": "If someone was to take aerial photos of this suburb with a drone, I bet they would take such thrilling shots. A heavy motorcycle is streaking through a winding and stretching road like a bolt of nimble and swift black lightning, advancing calmly and resolutely towards the extensive mountains and rivers ahead despite the heavy rain behind it..."
+  },
+  {
+    "line": 74,
+    "text": "{character:player}Huff... Puff..."
+  },
+  {
+    "line": 75,
+    "text": "I grip the motorcycle under me, feeling my heart beat furiously under an adrenaline rush. In front of me, Nadeshiko's thin and narrow back is tensed, showing me that she is going all out to outrun the rain behind us."
+  },
+  {
+    "line": 76,
+    "text": "However, this rain has no intention to stop chasing us. The wetness I felt on my back several times seemed to predict the outcome of this race..."
+  },
+  {
+    "line": 77,
+    "text": "Suddenly, Nadeshiko makes a cry of surprise. At the same time, the motorcycle slows down a bit. I look forward and see a man-made building beside the road covered with grass and trees. It looks like a..."
+  },
+  {
+    "line": 78,
+    "text": "{character:player}Nadeshiko, is that an... inn?"
+  },
+  {
+    "line": 79,
+    "text": "{character:Nadeshiko}Yes, and it looks like a beautiful one too."
+  },
+  {
+    "line": 80,
+    "text": "{character:player}...Is it common to suddenly encounter an inn in the wilderness on a bike ride?"
+  },
+  {
+    "line": 81,
+    "text": "{character:Nadeshiko}No, but this is the only chance of winning this \"race.\" Well, should we go in?"
+  },
+  {
+    "line": 82,
+    "text": "My answer is:"
+  },
+  {
+    "line": 83,
+    "text": "In this situation, it'd be unwise to continue forward. It'll be dangerous whether you continue to accelerate or move forward on the slippery road in the rain. Let's stay at this inn until the rain stops."
+  },
+  {
+    "line": 84,
+    "text": "{character:player}Let's go in. A wise person submits to the circumstances!"
+  },
+  {
+    "line": 85,
+    "text": "{character:Nadeshiko}Great minds think alike!"
+  },
+  {
+    "line": 86,
+    "text": "Turning quickly into the inn to park, we hide under the eaves just before we're completely shrouded by the rain."
+  },
+  {
+    "line": 87,
+    "text": "{character:Nadeshiko}Phew!"
+  },
+  {
+    "line": 87,
+    "text": "{character:player}Phew!"
+  },
+  {
+    "line": 88,
+    "text": "Nadeshiko and I let out a sigh of relief at the same time and look at each other in embarrassment."
+  },
+  {
+    "line": 89,
+    "text": "{character:Nadeshiko}So what do you think about the feeling of taking part?"
+  },
+  {
+    "line": 90,
+    "text": "{character:player}It feels amazing, but I think I'll give it a pass next time."
+  },
+  {
+    "line": 91,
+    "text": "{character:Nadeshiko}Hahaha, same here."
+  },
+  {
+    "line": 92,
+    "text": "*Jingle*... A sudden gust of wind makes the wind chime ring leisurely, bringing us back to reality."
+  },
+  {
+    "line": 93,
+    "text": "I look back. Behind me, the doors of the inn suddenly slide open automatically, revealing a dark interior. There's a lot of space inside, but no lights are on and there's no one inside... The smile on my face disappears instantly."
+  },
+  {
+    "line": 94,
+    "text": "{character:player}This place... Eh?"
+  },
+  {
+    "line": 95,
+    "text": "Next to me, Nadeshiko doesn't hesitate to step inside."
+  },
+  {
+    "line": 96,
+    "text": "{character:Nadeshiko}It's a little chilly indeed. We'll need to borrow two blow dryers from the innkeeper... {var:player_nickname}, the sensor door won't close if you stay in front of the entrance. The rain is going to come inside."
+  },
+  {
+    "line": 97,
+    "text": "{character:player}...Coming!"
+  },
+  {
+    "line": 98,
+    "text": "My brain that short-circuited in the fierce \"race\" just now finally reconnects, and I finally see the infrared device of the sensor door I should have noticed ages ago."
+  },
+  {
+    "line": 99,
+    "text": "After walking into the inn, it isn't long before we meet the innkeeper. The wind chimes that let him know when guests arrive woke him up from his nap. The innkeeper entertains us warmly and gets us to dry our clothes and hair first."
+  },
+  {
+    "line": 100,
+    "text": "By the time I walk back to the inner hall of the inn, I see that Nadeshiko has returned before me. There is steaming hot fragrant tea here, and delicate cakes and pastries are lined up on the table, creating a quiet and wonderful atmosphere under the warm light. The innkeeper greets me with a smile when he sees me coming."
+  },
+  {
+    "line": 101,
+    "text": "Innkeeper"
+  },
+  {
+    "line": 102,
+    "text": "{character:Innkeeper}Come and have a cup of hot tea to warm yourself up."
+  },
+  {
+    "line": 103,
+    "text": "{character:player}Thanks, I will."
+  },
+  {
+    "line": 104,
+    "text": "{character:Innkeeper}You're welcome. I'll be back in a moment."
+  },
+  {
+    "line": 105,
+    "text": "The innkeeper stands and leaves quickly for some reason. I sit next to Nadeshiko and look at her inquisitively."
+  },
+  {
+    "line": 106,
+    "text": "{character:Nadeshiko}...Amazing."
+  },
+  {
+    "line": 107,
+    "text": "Nadeshiko seems to be immersed in the conversation she had with the innkeeper just now, and her eyes betray a rare look of envy as she thinks about something."
+  },
+  {
+    "line": 108,
+    "text": "{character:player}Nadeshiko, what did you chat about?"
+  },
+  {
+    "line": 109,
+    "text": "{character:Nadeshiko}...We talked about the reason he opened this inn here."
+  },
+  {
+    "line": 110,
+    "text": "Nadeshiko tells me that the innkeeper was once a white-collar worker in One Han City. He quit his high-paying job when his chance of being promoted was the highest because he was sick of the complicated and restrictive workplace life. It's been almost three years since he bought a small abandoned property here, transformed it into an inn, and became an innkeeper who worked for himself."
+  },
+  {
+    "line": 111,
+    "text": "{character:Nadeshiko}I want to just resign like that too, but I tell myself to calm down whenever I think of how many collector's edition motorcycle helmets I haven't bought yet."
+  },
+  {
+    "line": 112,
+    "text": "{character:player}...Eh???"
+  },
+  {
+    "line": 113,
+    "text": "{character:Nadeshiko}?"
+  },
+  {
+    "line": 113,
+    "text": "{character:player}?"
+  },
+  {
+    "line": 113,
+    "text": "{character:Biker}?"
+  },
+  {
+    "line": 114,
+    "text": "{character:player}No, nothing."
+  },
+  {
+    "line": 115,
+    "text": "It turns out that Nadeshiko is also a white-collar worker, which is an unexpected discovery. Thinking about it, Nadeshiko must have spent a lot of money buying motorcycle equipment. Thinking of expenses, another question comes to mind."
+  },
+  {
+    "line": 116,
+    "text": "{character:player}Wait, even if he resigned to open an inn, why would he choose a place like this? There don't seem to be any guests around here."
+  },
+  {
+    "line": 117,
+    "text": "{character:Nadeshiko}It's probably because opening the inn in a busy place would make him as busy as if his white-collar job."
+  },
+  {
+    "line": 118,
+    "text": "{character:Innkeeper}Hahaha, you're completely right."
+  },
+  {
+    "line": 119,
+    "text": "The innkeeper returns while we're still chatting."
+  },
+  {
+    "line": 120,
+    "text": "{character:Innkeeper}There's actually one more reason why I chose this place. The roads in this area are terrible, and travelers who drive long distances often encounter danger here."
+  },
+  {
+    "line": 121,
+    "text": "{character:Innkeeper}When I used to go to work, I liked to drive around One Han City and go camping nearby on the weekends. When I noticed how bad the roads were around here the first time I came here, I thought to myself that a lot of unnecessary accidents could be prevented if there was an inn here for travelers to rest."
+  },
+  {
+    "line": 122,
+    "text": "{character:player}So that's why."
+  },
+  {
+    "line": 123,
+    "text": "{character:Nadeshiko}That's very considerate of you."
+  },
+  {
+    "line": 124,
+    "text": "{character:Innkeeper}It's nothing. Oh yes, Ms. Nadeshiko, the place you asked me about is this place, right?"
+  },
+  {
+    "line": 125,
+    "text": "The innkeeper shows us the mobile phone he just brought over. The landscape photo displayed on the screen is the wonderful sunset Nadeshiko described earlier."
+  },
+  {
+    "line": 126,
+    "text": "{character:Nadeshiko}Yes, it's this place. Is it nearby?"
+  },
+  {
+    "line": 127,
+    "text": "{character:Innkeeper}Aha, congratulations! You've gone the wrong way."
+  },
+  {
+    "line": 128,
+    "text": "The innkeeper jokes as he quickly draws a simple and clear route map with a pen and paper, marking our location and the correct destination."
+  },
+  {
+    "line": 129,
+    "text": "{character:player}Wait a minute!"
+  },
+  {
+    "line": 130,
+    "text": "The other branch of the fork where Nadeshiko hesitated at the beginning leads to the correct destination... I touch my nose in embarrassment."
+  },
+  {
+    "line": 131,
+    "text": "{character:player}Oh no! We were moving in a completely different direction since that fork."
+  },
+  {
+    "line": 132,
+    "text": "{character:Nadeshiko}Haha, we chose randomly, so this outcome isn't surprising at all."
+  },
+  {
+    "line": 133,
+    "text": "{character:Innkeeper}Yeah, the roads that were originally here have been completely changed after they started planning and developing this area into a scenic spot. People come here often to ask for directions."
+  },
+  {
+    "line": 134,
+    "text": "{character:Nadeshiko}Scenic spot?"
+  },
+  {
+    "line": 135,
+    "text": "{character:Innkeeper}Yeah, it's quite famous recently, and many people go there just to see it. I'm actually surprised that you didn't know about it."
+  },
+  {
+    "line": 136,
+    "text": "{character:Nadeshiko}Well, I prefer scenic spots that are more niche, so I usually ignore scenic spot information. We came this time because I remember the sunset was really beautiful there and wanted to take my friend there to see it in person."
+  },
+  {
+    "line": 137,
+    "text": "{character:Innkeeper}Ahaha, no wonder. It doesn't matter though. According to my experience, this rain will end soon in around half an hour. You can take a quick rest and think about whether you want to go today. If you do, you should be able to make it in time for today's sunset after the rain stops."
+  },
+  {
+    "line": 138,
+    "text": "The innkeeper stretches lazily."
+  },
+  {
+    "line": 139,
+    "text": "{character:Innkeeper}I'll nap for a little longer, so I'll leave you alone. You two can do whatever you want."
+  },
+  {
+    "line": 140,
+    "text": "Without any worries, the innkeeper returns to his room to keep sleeping, leaving Nadeshiko and me alone in the huge lobby."
+  },
+  {
+    "line": 141,
+    "text": "The sound of the rain outside the window and the beautiful fragrance of the tea inside the room seem to make time slow down at this extraordinarily peaceful and beautiful moment. My thoughts are still elsewhere until I see the corner of the map on the table fluttering in the wind."
+  },
+  {
+    "line": 142,
+    "text": "...Shall we go to the scenic spot after the rain stops?"
+  },
+  {
+    "line": 143,
+    "text": "{character:Nadeshiko}{var:player_nickname}, what do you think?"
+  },
+  {
+    "line": 144,
+    "text": "Nadeshiko asks me this question right after I make a decision in my head."
+  },
+  {
+    "line": 145,
+    "text": "{character:player}Since it's a beautiful piece of scenery you praised so highly, it'll be a shame if I don't see it with my own eyes."
+  },
+  {
+    "line": 146,
+    "text": "{character:Nadeshiko}Mhm-hmm. Although it's quite nice to listen to the rain here, the sunset after the rain might be more worth looking forward to."
+  },
+  {
+    "line": 147,
+    "text": "{character:player}That's right!"
+  },
+  {
+    "line": 148,
+    "text": "We embark on our way back in the fresh and moist air after the rain and finally arrive at the correct destination as the sun sets."
+  },
+  {
+    "line": 149,
+    "text": "Guide"
+  },
+  {
+    "line": 150,
+    "text": "{character:Guide}Dear tourists, please enjoy the most beautiful sunset here. Line up here to buy tickets to go to the sightseeing platform!"
+  },
+  {
+    "line": 151,
+    "text": "This scenic spot has been developed very well. The road signs along the way are clear and easy to understand, and the workers here are enthusiastically guiding everyone. After buying tickets, we park the motorcycle in the parking lot according to the guide and enthusiastically walk along a man-made plank road to the sightseeing platform."
+  },
+  {
+    "line": 152,
+    "text": "The plain that stretches outward is outlined by the unique sunset halo. The winding river beach and its many bends are favored by the setting sun, the sparkling water reflects nine silhouettes of the setting sun, creating a dreamlike and unreal scene. I look beside me and see a look of nostalgia on Nadeshiko's face."
+  },
+  {
+    "line": 153,
+    "text": "{character:Nadeshiko}Look, this is the gorgeous scene that I haven't been able to forget even after so many years! {var:player_nickname}, what do you think?"
+  },
+  {
+    "line": 154,
+    "text": "{character:player}Yeah, it's beautiful! It would be even better if we can see a panoramic view without a mobile phone camera."
+  },
+  {
+    "line": 155,
+    "text": "Right after I finish speaking, a passerby squeezes in beside me. The scene on the screen of my mobile phone flickers, instantly changing from the beautiful sunset to the round back of a tourist's head."
+  },
+  {
+    "line": 156,
+    "text": "This is just great! Not only can I see nine suns setting here but also at least 999 tourists!!!"
+  },
+  {
+    "line": 157,
+    "text": "There are lots of people on the sightseeing platform built on a small hillside. Among them are photographers with tripods and tourists with selfie sticks so they can take photos with the sunset. There are also travel bloggers who are livestreaming themselves here or staging photos."
+  },
+  {
+    "line": 158,
+    "text": "The crowd fills up the three inner floors and three outer floors all the way to the safety fence. The continuous uproar and the scene of the sunset over the long river don't go well together. Nadeshiko and I squeeze our way out of the crowd and sit on the empty steps at the back completely exhausted."
+  },
+  {
+    "line": 160,
+    "text": "{character:player}I... get it now..."
+  },
+  {
+    "line": 161,
+    "text": "Tourist"
+  },
+  {
+    "line": 162,
+    "text": "{character:Tourist}Um, hello?"
+  },
+  {
+    "line": 163,
+    "text": "A young male tourist suddenly greets me."
+  },
+  {
+    "line": 164,
+    "text": "{character:Tourist}Can you take a photo for us?"
+  },
+  {
+    "line": 165,
+    "text": "He points at a young woman wearing matching outfits with him standing in the near distance."
+  },
+  {
+    "line": 166,
+    "text": "I understand immediately and look at Nadeshiko."
+  },
+  {
+    "line": 167,
+    "text": "{character:player}Do you mind if I go over there for a while?"
+  },
+  {
+    "line": 168,
+    "text": "{character:Nadeshiko}...Just go."
+  },
+  {
+    "line": 169,
+    "text": "Nadeshiko makes a concise reply after a moment of surprise."
+  },
+  {
+    "line": 171,
+    "text": "{character:Tourist}Haha, it's alright. We just want something to remember this moment! Thanks!"
+  },
+  {
+    "line": 172,
+    "text": "I take the tourist's camera, walk over to the background they like, and capture the couple in the lens. Although people are walking everywhere around them, they only have eyes for each other and make all sorts of sweet photo poses. After trying my best to capture these moments, I return the camera to him."
+  },
+  {
+    "line": 173,
+    "text": "{character:Tourist}Thank you... WOW! These photos are amazing! Oh yeah, do you want me to take some photos for you too? I'm actually quite good at taking photos too!"
+  },
+  {
+    "line": 175,
+    "text": "Surprised, I pause and look at the steps where Nadeshiko is sitting languidly nearby, and she also happens to be looking in our direction. When our eyes meet, she smiles at me, seemingly in a good mood."
+  },
+  {
+    "line": 176,
+    "text": "Well then, should I ask Nadeshiko to come over for a photo?"
+  },
+  {
+    "line": 177,
+    "text": "{character:player}Hmm... In a game of mahjong, the scheming player who goes after me sits to my right. As long as I observe this player carefully, I'll be able to control their every move... I choose the right side!"
+  },
+  {
+    "line": 178,
+    "text": "{character:Nadeshiko}That sounds like something you would say. Let's look forward to what we'll encounter!"
+  },
+  {
+    "line": 179,
+    "text": "This road is quite smooth, so Nadeshiko's motorcycle moves smoothly along it."
+  },
+  {
+    "line": 180,
+    "text": "It's currently early summer, so the sky is cloudy and bright. The air is extremely fresh in the wilderness, and the sweltering heat is dispersed by the cool breeze blowing at us while the motorcycle moves. Without a thick shell around us, we are 100% in tune with nature. This is the unique charm of riding a motorcycle compared with driving a car."
+  },
+  {
+    "line": 181,
+    "text": "But my unique experience is soon changed."
+  },
+  {
+    "line": 182,
+    "text": "At some point, more and more vehicles pour in from various intersections and converge on this road, forcing Nadeshiko's motorcycle to slow down. We move slower and slower until we're completely surrounded... and stuck in the congested traffic."
+  },
+  {
+    "line": 183,
+    "text": "*SCREEEEEECH* Nadeshiko suddenly steps on the brakes."
+  },
+  {
+    "line": 184,
+    "text": "{character:Nadeshiko}Geez, why is there so much traffic?"
+  },
+  {
+    "line": 185,
+    "text": "{character:player}Did I choose the wrong road? It doesn't look like this road is leading to the countryside. It's more like there's some sort of important event going on."
+  },
+  {
+    "line": 186,
+    "text": "Upon hearing my words, the people in several nearby vehicles suddenly turn over to look at us."
+  },
+  {
+    "line": 187,
+    "text": "What's going on?"
+  },
+  {
+    "line": 188,
+    "text": "Passerby A"
+  },
+  {
+    "line": 189,
+    "text": "{character:Passerby A}Hey, you're on the way to see the nine sunsets, right? This is the right way."
+  },
+  {
+    "line": 190,
+    "text": "{character:Nadeshiko}!"
+  },
+  {
+    "line": 190,
+    "text": "{character:player}!"
+  },
+  {
+    "line": 191,
+    "text": "The speaker is the owner of a motorcycle driving parallel to us."
+  },
+  {
+    "line": 192,
+    "text": "{character:player}...How did you know where we're going?"
+  },
+  {
+    "line": 193,
+    "text": "{character:Passerby A}Ahahaha, isn't that the destination of everyone who comes here? This is the most popular scenic spot recently. Everyone is talking about it online!"
+  },
+  {
+    "line": 195,
+    "text": "{character:Passerby A}Oh, I know. You mustn't have come here in a while. Let me put it this way. This place has become a popular scenic spot ever since it was promoted by the media earlier."
+  },
+  {
+    "line": 196,
+    "text": "{character:Passerby A}Very few people came here at the beginning when the area was still being developed, but the current situation is quite predictable. After all, it isn't enough to see such a beautiful piece of scenery just once, right?"
+  },
+  {
+    "line": 197,
+    "text": "{character:player}...Nadeshiko, it looks like the scenic spot you wanted to recommend to me has been discovered by the world."
+  },
+  {
+    "line": 198,
+    "text": "{character:Nadeshiko}Yeah... I have a bad feeling about this."
+  },
+  {
+    "line": 199,
+    "text": "After reaching the scenic spot, I finally understand where Nadeshiko's premonition came from."
+  },
+  {
+    "line": 200,
+    "text": "The development of the scenic spot has transformed the spacious and exquisite scenery in Nadeshiko's memories into a place filled with man-made things. This place no longer appeals to her heart, and she can no longer ride her motorcycle freely here."
+  },
+  {
+    "line": 201,
+    "text": "There's still some time until sunset, but many tourists have already come to this scenic spot. Photography enthusiasts, bloggers, etc., have all come early to set up their cameras and wait for the best shooting angle..."
+  },
+  {
+    "line": 202,
+    "text": "To make things worse, the scene becomes a massive mess when a thunderstorm starts blowing, forcing us to leave and wait in the visitor center."
+  },
+  {
+    "line": 203,
+    "text": "...After all this, the last traces of our intention to watch the sunset disappear."
+  },
+  {
+    "line": 204,
+    "text": "{character:player}Safety comes first. Should we skip it since accidents take place often here?"
+  },
+  {
+    "line": 205,
+    "text": "{character:Nadeshiko}Well... Actually, even if the road conditions are the same, the experience can be completely different based on the skill of the biker. You can't rely on others' suggestions to make an accurate judgment. You need to try it for yourself."
+  },
+  {
+    "line": 206,
+    "text": "{character:Nadeshiko}But it's good that you're aware of safety. Since you're so worried, we'll turn back. Maybe the other path leads to the scenic spot."
+  },
+  {
+    "line": 207,
+    "text": "Nadeshiko starts riding back to the fork. Everything starts off well, then the sky suddenly becomes dark when we almost reach the fork."
+  },
+  {
+    "line": 208,
+    "text": "*Boom* Several peals of thunder fill the sky."
+  },
+  {
+    "line": 209,
+    "text": "{character:Nadeshiko}On no, it's thunderstorm clouds!"
+  },
+  {
+    "line": 210,
+    "text": "{character:player}What?"
+  },
+  {
+    "line": 211,
+    "text": "In the sky ahead of us, thick dark clouds rush towards us!"
+  },
+  {
+    "line": 212,
+    "text": "{character:Nadeshiko}We won't be able to avoid it, so we'll try to charge right through it. I hope we'll make it."
+  },
+  {
+    "line": 213,
+    "text": "Nadeshiko steps hard on the pedal, sending our motorcycle head-first into the thunderstorm clouds."
+  },
+  {
+    "line": 214,
+    "text": "{character:player}AHHHH!"
+  },
+  {
+    "line": 215,
+    "text": "However, not even the top speed of the motorcycle can compare to the speed at which nature creates rain."
+  },
+  {
+    "line": 216,
+    "text": "Torrential rain pours down on us, drenching us instantly. If this goes on, our ride will have to end."
+  },
+  {
+    "line": 217,
+    "text": "Who hasn't been drenched in rain in their youth? Since things have come to this, I won't give up without a fight!"
+  },
+  {
+    "line": 218,
+    "text": "{character:player}It's summer, so a little rain won't matter. Let's keep going!"
+  },
+  {
+    "line": 219,
+    "text": "{character:Nadeshiko}{var:player_nickname}, I'm surprised that you're more persistent than me, but..."
+  },
+  {
+    "line": 220,
+    "text": "Nadeshiko starts slowing down, then she brakes and turns to look at me."
+  },
+  {
+    "line": 221,
+    "text": "{character:Nadeshiko}But the road conditions are too terrible now, so we can't keep going. Safety is always the most important thing to consider when riding a motorcycle. You have to remember what I told you in class, {var:player_nickname}."
+  },
+  {
+    "line": 222,
+    "text": "{character:player}...I'm sorry, Coach Nadeshiko."
+  },
+  {
+    "line": 224,
+    "text": "Based on what the innkeeper tells us, I realize that the other branch of the road leads to our original destination. However, it's obviously too late to wait for our clothes to dry and then rush there to watch the sunset."
+  },
+  {
+    "line": 225,
+    "text": "We spend a leisurely afternoon in the inn."
+  },
+  {
+    "line": 227,
+    "text": "I grab my phone and show Nadeshiko all the images I found about that scenic spot."
+  },
+  {
+    "line": 232,
+    "text": "Nadeshiko seems a little hesitant."
+  },
+  {
+    "line": 235,
+    "text": "Nadeshiko yawns and ends our brief discussion by reclining in a comfortable position and closing her eyes to rest. Still doubtful, I have no choice but to read the graffiti and messages on the walls of the inn."
+  },
+  {
+    "line": 236,
+    "text": "\"The experiences of two people, and not the scenery enjoyed by one person, are what make a bike ride meaningful.\" \"I want to bring her here with me next time. I want to share all my experiences and feelings with the people I care about.\""
+  },
+  {
+    "line": 237,
+    "text": "As I read out the handwritten messages written by my predecessors, I suddenly realize something. I turn my head to look at Nadeshiko and see her sleeping peacefully. I suppress the suspicions in my heart. After the rain stops, we bid farewell to this inn where we stayed for a brief time."
+  },
+  {
+    "line": 238,
+    "text": "I actively raise my hand."
+  },
+  {
+    "line": 239,
+    "text": "{character:player}Nadeshiko, can I help you with anything?"
+  },
+  {
+    "line": 240,
+    "text": "{character:Nadeshiko}You don't need to. Go get some rest."
+  },
+  {
+    "line": 241,
+    "text": "Nadeshiko rejects me without looking up as she works busily on motorcycle components."
+  },
+  {
+    "line": 242,
+    "text": "{character:player}I can't sit here and let you do everything. I may not be as professional as you, but I can do basic repairs."
+  },
+  {
+    "line": 243,
+    "text": "I try my best to convey my sincerity with my eyes, and Nadeshiko thinks for a moment."
+  },
+  {
+    "line": 244,
+    "text": "{character:Nadeshiko}Hmm... There is a task that is perfect for you."
+  },
+  {
+    "line": 246,
+    "text": "Slightly dopey, I sit upright on the portable bench that Nadeshiko moves over. Nadeshiko pats my shoulder in satisfaction."
+  },
+  {
+    "line": 247,
+    "text": "{character:Nadeshiko}Your job is to sit here and watch me repair the motorcycle."
+  },
+  {
+    "line": 248,
+    "text": "{character:player}...Hey! What kind of job is that?"
+  },
+  {
+    "line": 249,
+    "text": "Between laughter and tears, I can't help but protest. Nadeshiko answers me without pausing the repair work she's doing."
+  },
+  {
+    "line": 250,
+    "text": "{character:Nadeshiko}This is an extremely important position. Repairing a motorcycle under someone's watch is quite different from repairing one alone."
+  },
+  {
+    "line": 251,
+    "text": "{character:player}Is that right? Then please, elaborate."
+  },
+  {
+    "line": 252,
+    "text": "{character:Nadeshiko}As my old man used to say, the god of maintenance favors maintenance engineers and bless them with better results than usual when their work is being watched. Motorcycles repaired this way will also last longer... Sounds like a nonsensical tale that adults tell to coax children, right?"
+  },
+  {
+    "line": 253,
+    "text": "{character:player}It doesn't just sound like one. It is one, right?"
+  },
+  {
+    "line": 254,
+    "text": "{character:Nadeshiko}Haha! I didn't believe it either when I was little, but my old man insisted that I watch the repairs from the side. Over time, I realized..."
+  },
+  {
+    "line": 255,
+    "text": "{character:player}What did you... realize?"
+  },
+  {
+    "line": 256,
+    "text": "Nadeshiko's serious tone makes me unable to help myself from asking her this question."
+  },
+  {
+    "line": 257,
+    "text": "{character:Nadeshiko}I realized I'm right. Whether I was there or not or whether I could see the motorcycle really didn't affect the repair results."
+  },
+  {
+    "line": 258,
+    "text": "I can't believe I was expecting a twist!"
+  },
+  {
+    "line": 259,
+    "text": "{character:Nadeshiko}Hahaha..."
+  },
+  {
+    "line": 260,
+    "text": "Nadeshiko fails to hold back her laughter after seeing the dismal look on my face."
+  },
+  {
+    "line": 261,
+    "text": "{character:Nadeshiko}{var:player_nickname}, you're too cute. I now understand the interesting thing about this nonsensical legend."
+  },
+  {
+    "line": 262,
+    "text": "I have no idea what realization Nadeshiko has made. After chatting with her for a while, although I haven't actually managed to help her with anything, Nadeshiko is in a good mood the whole time."
+  },
+  {
+    "line": 264,
+    "text": "Motorcycle repairs are not my field of expertise. Instead of adding to the chaos with my enthusiasm, I should think of other ways to help Nadeshiko."
+  },
+  {
+    "line": 265,
+    "text": "I look up at the blazing sun, then I take out the umbrella in my backpack and open it above Nadeshiko's head."
+  },
+  {
+    "line": 266,
+    "text": "The shadow created by the umbrella interrupts the focused state she's in while repairing the motorcycle. She looks up at me in confusion."
+  },
+  {
+    "line": 267,
+    "text": "{character:player}Oh, I thought I could make some shade for you since the sun is so strong today."
+  },
+  {
+    "line": 268,
+    "text": "{character:Nadeshiko}But then I can't see the parts clearly."
+  },
+  {
+    "line": 269,
+    "text": "With a look of helplessness, Nadeshiko shows me the two fine chains she's working on."
+  },
+  {
+    "line": 270,
+    "text": "{character:player}...Eh? Oh! Sorry."
+  },
+  {
+    "line": 271,
+    "text": "I quickly move the umbrella away in embarrassment, but Nadeshiko stops working and looks at me with an... \"affectionate\" look in her eyes."
+  },
+  {
+    "line": 272,
+    "text": "{character:Nadeshiko}Even so, I'm so happy that you care so much about me. Due to my height, I'm usually the one who holds the umbrellas for all my friends. At that moment, I... got to experience a rare feeling again..."
+  },
+  {
+    "line": 273,
+    "text": "Nadeshiko's touched tone makes my heart beat faster... Is she going to say..."
+  },
+  {
+    "line": 274,
+    "text": "{character:Nadeshiko}Yes, it reminds me of my mother! I feel assured like when my mother used to take care of me when I was little! Thank you, {var:player_nickname}!"
+  },
+  {
+    "line": 277,
+    "text": "...What was I hoping to hear?!"
+  },
+  {
+    "line": 278,
+    "text": "{character:Nadeshiko}Yes, I'm feeling even more motivated than ever. Go and get some rest. I'll be done soon!"
+  },
+  {
+    "line": 279,
+    "text": "{character:player}Okay, you've got this."
+  },
+  {
+    "line": 280,
+    "text": "Although I haven't actually managed to help her with anything, Nadeshiko is in a good mood the whole time."
+  },
+  {
+    "line": 281,
+    "text": "After some serious repairs by Nadeshiko, the motorcycle can be used normally again."
+  },
+  {
+    "line": 282,
+    "text": "{character:Biker}Thanks a lot! I'm still a beginner, so I think I would have no choice but to push my motorcycle back to the city if I didn't run into you."
+  },
+  {
+    "line": 283,
+    "text": "{character:Nadeshiko}You're welcome! Bikers should take care of one another on the road."
+  },
+  {
+    "line": 284,
+    "text": "{character:Biker}You're both beautiful and kind. Feel free to let me know if you ever need help with anything!"
+  },
+  {
+    "line": 285,
+    "text": "{character:Nadeshiko}There's something you can help me with actually."
+  },
+  {
+    "line": 286,
+    "text": "Nadeshiko describes the place we're searching for to the biker and asks him if he knows where it is. The biker scratches his head with embarrassment."
+  },
+  {
+    "line": 287,
+    "text": "{character:Biker}I-I'm so sorry! I don't know much about the natural scenery in this area. I only came here because I heard that this road is quite challenging, and then my motorcycle broke down soon after I started."
+  },
+  {
+    "line": 288,
+    "text": "{character:Nadeshiko}I see."
+  },
+  {
+    "line": 289,
+    "text": "{character:Biker}I'm so sorry!"
+  },
+  {
+    "line": 290,
+    "text": "{character:Nadeshiko}It's okay. We'll just keep going to take a look."
+  },
+  {
+    "line": 291,
+    "text": "{character:Biker}What? You're still thinking of going forward?"
+  },
+  {
+    "line": 292,
+    "text": "{character:Nadeshiko}What's wrong with that?"
+  },
+  {
+    "line": 293,
+    "text": "Nadeshiko's rigid facial features become sharper than usual when she gets serious, making her exude an aura that is a little oppressive to those who aren't familiar with her."
+  },
+  {
+    "line": 294,
+    "text": "{character:Biker}No, no, no! I'm just saying that the road conditions get worse as you go. Lots of accidents have taken place over there..."
+  },
+  {
+    "line": 295,
+    "text": "{character:Nadeshiko}Oh, I see. Thanks."
+  },
+  {
+    "line": 296,
+    "text": "The biker realizes that he should stop talking now and rides off after politely bidding farewell to us."
+  },
+  {
+    "line": 297,
+    "text": "Nadeshiko looks at me inquisitively."
+  },
+  {
+    "line": 298,
+    "text": "We haven't found any clues of the scenic spot, yet someone has warned us that the wilderness ahead is very dangerous. In this situation, we should..."
+  },
+  {
+    "line": 299,
+    "text": "{character:player}...We should try again next time and plan everything well in advance."
+  },
+  {
+    "line": 300,
+    "text": "With this thought in mind, I quickly end this ride with Nadeshiko."
+  },
+  {
+    "line": 303,
+    "text": "{character:player}Well, should we take a commemorative photo together?"
+  },
+  {
+    "line": 305,
+    "text": "After thinking briefly, Nadeshiko stands up briskly. We find a place with fewer people and get ready to take a picture."
+  },
+  {
+    "line": 306,
+    "text": "Tourist"
+  },
+  {
+    "line": 307,
+    "text": "{character:Tourist}Come on, smile! Stand a little closer to each other. Yes... 3, 2, 1... Cheese! Good, now let's take one more!"
+  },
+  {
+    "line": 309,
+    "text": "In the end, the enthusiastic tourist took several dozen photos for us."
+  },
+  {
+    "line": 310,
+    "text": "After taking the photos."
+  },
+  {
+    "line": 311,
+    "text": "{character:player}Thanks!"
+  },
+  {
+    "line": 313,
+    "text": "The tourist holds his girlfriend's hand proudly and leaves. As Nadeshiko and I flip through the photos, our faces which were stiff from all the smiling become even stiffer."
+  },
+  {
+    "line": 315,
+    "text": "{character:player}Um..."
+  },
+  {
+    "line": 316,
+    "text": "The background is messy, the photos are backlit, and Nadeshiko and I are smiling stiffly in a crowd. How dare he claim to be good at taking photos..."
+  },
+  {
+    "line": 317,
+    "text": "I take a deep breath."
+  },
+  {
+    "line": 318,
+    "text": "{character:player}Well, it seems like other than having commemorative significance, these photos..."
+  },
+  {
+    "line": 320,
+    "text": "Nadeshiko finishes my sentence without any hesitation."
+  },
+  {
+    "line": 321,
+    "text": "We glance at each other quickly. Our tacit acknowledgment of this situation turns our embarrassment into joy, and we both laugh out loud at the same time."
+  },
+  {
+    "line": 322,
+    "text": "{character:player}Hahaha... I never thought today would turn out like this. This ride was worth it."
+  },
+  {
+    "line": 324,
+    "text": "{character:player}No matter what, thank you for inviting me today. I had lots of fun along the way."
+  },
+  {
+    "line": 326,
+    "text": "Nadeshiko's eyebrow rises slightly. A gleam of excitement flashes in her eyes as she looks at me."
+  },
+  {
+    "line": 328,
+    "text": "{character:player}So does this mean you'll invite me again next time?"
+  },
+  {
+    "line": 331,
+    "text": "{character:player}Haha, sure thing."
+  },
+  {
+    "line": 332,
+    "text": "In the end, we watch the sunset among the crowd. Although it isn't as immersive as we expected, we ended up having a lively and joyful time. I hope there will be even more fun in store for us next time."
+  },
+  {
+    "line": 333,
+    "text": "The joy and happiness we get from a trip should be doubled when two of us are on the trip together. Nadeshiko wanted me to see this beautiful scene with my own eyes. I should also consider what Nadeshiko likes so that she can return home happily after today's journey."
+  },
+  {
+    "line": 334,
+    "text": "{character:player}Thank you, but it won't be necessary."
+  },
+  {
+    "line": 335,
+    "text": "After rejecting the tourist's offer to take photos for us, I hurry back over to Nadeshiko."
+  },
+  {
+    "line": 336,
+    "text": "{character:player}Sorry to have kept you waiting."
+  },
+  {
+    "line": 337,
+    "text": "{character:Nadeshiko}These youths really like to have a sense of ceremony. {var:player_nickname}, do you want to take some photos here? Although I'm not interested, I can take some for you."
+  },
+  {
+    "line": 338,
+    "text": "{character:player}Instead of staying and taking a photo to prove we were here like everyone else, why don't we go somewhere else for a walk before it gets dark."
+  },
+  {
+    "line": 339,
+    "text": "{character:Nadeshiko}Really? This is the best spot to watch the sunset, and it took us a lot of time and effort to get it. Are you sure you want to leave?"
+  },
+  {
+    "line": 340,
+    "text": "{character:player}The ultimate objective of going on a trip is to relax our mind and body, not to wear ourselves out to get a good commemorative photo out of it. It would be like putting the cart before the horse to do the opposite."
+  },
+  {
+    "line": 341,
+    "text": "Nadeshiko looks at me and suddenly makes a relaxed smile."
+  },
+  {
+    "line": 342,
+    "text": "{character:Nadeshiko}Great, that's what I thought too. Come on, I'll show you a place."
+  },
+  {
+    "line": 343,
+    "text": "{character:player}Hmm? Will it be another \"worthwhile adventure\"?"
+  },
+  {
+    "line": 344,
+    "text": "{character:Nadeshiko}Hey, what's with that teasing tone? Are you coming with me or not?"
+  },
+  {
+    "line": 345,
+    "text": "{character:player}Haha, I'm just joking. Today's trip was wonderful, and I don't mind if things get more exciting."
+  },
+  {
+    "line": 346,
+    "text": "I grab Nadeshiko's hand, letting my actions speak for me."
+  },
+  {
+    "line": 347,
+    "text": "With the sunset behind us, we leave as quickly as possible, attracting glances from many due to the decisiveness of our movements."
+  },
+  {
+    "line": 348,
+    "text": "{character:Nadeshiko}Quickly! We need to get over there before the sun sets."
+  },
+  {
+    "line": 349,
+    "text": "{character:player}Sure!"
+  },
+  {
+    "line": 350,
+    "text": "After getting off the viewing platform, we leave the scenic spot and venture deeper into the wilder depths of nature."
+  },
+  {
+    "line": 351,
+    "text": "The galloping motorcycle under us takes us into the undeveloped wilderness. The setting sun hangs in the sky beside the road, looking like it is following us at this moment. As the horizon recedes, a wider world spreads out in front of our eyes little by little."
+  },
+  {
+    "line": 352,
+    "text": "{character:player}Woohoo!"
+  },
+  {
+    "line": 353,
+    "text": "I can't help but shout out."
+  },
+  {
+    "line": 354,
+    "text": "This is probably the true meaning of going on a bike ride. The goal is not to go to a predetermined destination but to always move forward courageously and decisively and to have the courage to do something different and seek freedom..."
+  },
+  {
+    "line": 355,
+    "text": "{character:Nadeshiko}We're here. At least this place is still the same."
+  },
+  {
+    "line": 356,
+    "text": "Our motorcycle stops on a remote cliff not far from the viewing platform we were at earlier, but it was not included in the scope of the scenic development."
+  },
+  {
+    "line": 357,
+    "text": "{character:player}I think this place must have been left alone because it faces the setting sun at an oblique angle with a poor observation angle of the river beach that makes it impossible to see multiple sunsets here."
+  },
+  {
+    "line": 358,
+    "text": "{character:Nadeshiko}Well, I wanted to invite you to see a spectacular sunset, but we ended up watching an ordinary sunset in the end. {var:player_nickname}, I hope you don't mind."
+  },
+  {
+    "line": 359,
+    "text": "At this moment, the only things here are the primitive land, quiet wind, and us. Although I didn't get to see the spectacular nine sunsets, my mood is especially good right now."
+  },
+  {
+    "line": 360,
+    "text": "{character:player}Haha, the most important thing is that we had an amazing adventure together. Thank you for letting me experience such an interesting ride."
+  },
+  {
+    "line": 361,
+    "text": "{character:Nadeshiko}It was nothing. To be honest, if someone told me before today that someone would talk about the importance of experience to me, I wouldn't have believed them. However, coming here with you today has changed my mind a lot about this."
+  },
+  {
+    "line": 362,
+    "text": "{character:Nadeshiko}It's more interesting than I expected for two people to develop bonds on the road. {var:player_nickname}, however we meet, let's meet more often in the future."
+  },
+  {
+    "line": 363,
+    "text": "{character:player}Sure, it's a promise."
+  },
+  {
+    "line": 364,
+    "text": "The sun continues to sink in the sky. As the last ray of light is about to disappear against the edge of the horizon, Nadeshiko pulls out her mobile phone."
+  },
+  {
+    "line": 365,
+    "text": "{character:Nadeshiko}Let's take a photo together to remember this ordinary sunset and extraordinary ride."
+  },
+  {
+    "line": 366,
+    "text": "*Click* We leave an intimate image in the camera lens."
+  },
+  {
+    "line": 367,
+    "text": "However, when I look at the photo, I realize that Nadeshiko's photo-taking skills are really... Let's just say she's very talented in abstract photography."
+  },
+  {
+    "line": 368,
+    "text": "{character:player}Nadeshiko, I finally know why you rarely appear in the photos you take on your travels!"
+  },
+  {
+    "line": 369,
+    "text": "{character:Nadeshiko}Ahaha, it's called realistic! I even made you look so cute in the photo! Don't you think so? Hmm? Hmm?"
+  },
+  {
+    "line": 370,
+    "text": "While talking, Nadeshiko wraps her arm around my shoulder, puts her phone in front of me, and starts showing me the photos she's taken."
+  },
+  {
+    "line": 371,
+    "text": "Seeing the cheerful smile on her face, I reluctantly nod in agreement."
+  },
+  {
+    "line": 372,
+    "text": "{character:player}Yes, very cute indeed."
+  },
+  {
+    "line": 373,
+    "text": "Road on the left."
+  },
+  {
+    "line": 374,
+    "text": "Road on the right."
+  },
+  {
+    "line": 375,
+    "text": "Help out if you can."
+  },
+  {
+    "line": 376,
+    "text": ""
+  },
+  {
+    "line": 377,
+    "text": "Leave it to the professional and help in other ways."
+  },
+  {
+    "line": 379,
+    "text": "Keep charging forward!"
+  },
+  {
+    "line": 380,
+    "text": "Go inside to hide from the rain!"
+  },
+  {
+    "line": 381,
+    "text": "Go."
+  },
+  {
+    "line": 382,
+    "text": "Don't go."
+  },
+  {
+    "line": 383,
+    "text": "Yes. I also want a commemorative photo with Nadeshiko."
+  },
+  {
+    "line": 385,
+    "text": "Nadeshiko doesn't like this type of touristy photo. I better not mention this."
+  },
+  {
+    "line": 386,
+    "text": "Keep going."
+  },
+  {
+    "line": 387,
+    "text": "Return along the original path."
+  },
+  {
+    "line": 388,
+    "text": "{character:Nadeshiko}??"
+  },
+  {
+    "line": 389,
+    "text": "{character:player}Look, this place is really popular recently. If we go, we may just see a big crowd of tourists there."
+  },
+  {
+    "line": 390,
+    "text": "{character:Nadeshiko}You don't want to go?"
+  },
+  {
+    "line": 391,
+    "text": "{character:player}Well, I can imagine the beautiful scenery just by looking at the images on the Internet. Also, I remember you saying that you don't like crowded places like that, isn't that right?"
+  },
+  {
+    "line": 392,
+    "text": "{character:Nadeshiko}It's true that I'm not interested in these types of scenic spots, but..."
+  },
+  {
+    "line": 393,
+    "text": "{character:Nadeshiko}It's okay. We'll turn back after the rain stops. Ah... I'm getting sleepy."
+  },
+  {
+    "line": 394,
+    "text": "{character:player}Just leave it to me!"
+  },
+  {
+    "line": 395,
+    "text": "Since we're here, let's do what people usually do to show that we've been here. With this thought in mind, I nod at the tourist and walk quickly toward Nadeshiko."
+  },
+  {
+    "line": 396,
+    "text": "{character:Tourist}Hehe, you're welcome!"
+  },
+  {
+    "line": 397,
+    "text": "{character:Nadeshiko}Hahaha, I never expected that everything would be so unpredictable when traveling with you!"
+  },
+  {
+    "line": 398,
+    "text": "{character:Nadeshiko}...Is that right?"
+  },
+  {
+    "line": 399,
+    "text": "{character:Nadeshiko}What a coincidence. I felt pretty good too."
+  },
+  {
+    "line": 400,
+    "text": "{character:Nadeshiko}No."
+  },
+  {
+    "line": 401,
+    "text": "{character:Nadeshiko}You can arrange everything next time. Things like the route we'll take. I don't want to experience this a second time."
+  },
+  {
+    "line": 402,
+    "text": "Two minutes later"
+  },
+  {
+    "line": 403,
+    "text": "{character:Nadeshiko}This is why I don't like coming to scenic spots."
+  },
+  {
+    "line": 404,
+    "text": "{character:player}Aha, are you referring to Nadeshiko and me? We're..."
+  },
+  {
+    "line": 405,
+    "text": "{character:player}..."
+  },
+  {
+    "line": 406,
+    "text": "{character:player}Wow, that really is a great feeling."
+  },
+  {
+    "line": 407,
+    "text": "{character:Nadeshiko}Finished yet?"
+  },
+  {
+    "line": 408,
+    "text": "{character:Nadeshiko}Huh? Right here? Fine... let's do it."
+  },
+  {
+    "line": 409,
+    "text": "{character:Nadeshiko}Will never be looked at again!!"
+  },
+  {
+    "line": 410,
+    "text": "As we speak, the rain reaches us, completely drenching Nadeshiko and me. Now that we're both soaked from head to toe, there's no way the ride can continue."
+  },
+  {
+    "line": 411,
+    "text": "We go to the inn to ask for help, and a relaxed young innkeeper greets us."
+  },
+  {
+    "line": 412,
+    "text": "{character:player}I'll be back soon. Let's get onto it, but just remember that I'm not a professional photographer."
+  }
+]

@@ -1,0 +1,479 @@
+1:Sara
+2:{character:Sara}That's it for today's performance. Thank you all for coming! I hope we'll see you again next time!
+3:The music that is played whenever the show ends fills the theater, symbolizing the end of the Soul's performance for the day. The audience start clapping, which proves that today's performance was as exciting as ever.
+4:Some members of the audience weren't satisfied with just clapping. Right at this moment, a woman wearing sunglasses got on the stage and put a bouquet of flowers in Sara's arms, then kissed Sara's hand gently in front of everyone.
+5:The sudden situation caused lots of people to cry out loud. I was surprised too, but more than anything, I was curious about the identity of this woman.
+6:player
+7:{character:player}Sara is smiling and laughing while talking to her. Are they friends? I really want to know, but I'm too far to hear what they are saying.
+8:After chatting for a while, the woman takes off her sunglasses. That face... Have I seen her before?
+9:Audience A
+10:{character:Audience A}Huh? I-Isn't that Olevi?
+11:{character:player}Olevi... Oh, I remember now.
+12:I lean forward and confirm that I'm not mistaken after taking a closer look. The woman next to Sara is Olevi, a member of a popular troupe. I just saw the news that she had just arrived at One Han City the day before yesterday.
+13:After Olevi notices the audience looking at her, she smiles and raises her hand to greet everyone. She then takes the microphone from Sara and talks to everyone with her deep androgynous voice from the stage.
+14:Olevi
+15:{character:Olevi}I think this is the first time I'm meeting almost everyone here. Let me introduce myself... Hello everyone, I'm Olevi from Musae! It's an honor to meet everyone!
+16:Musae is an all female singing and dancing troupe, which is very popular among female fans. The most popular group in the troupe is called Dazzle, and the top star of Dazzle is Olevi. The screams that fill my ears at this moment show me just how excited the female fans are.
+17:{character:Olevi}I've come here today to make an announcement... In a month's time, I'll be having a stage performance competition on this stage with my good rival, Sara.
+18:{character:Olevi}Depending on the result of the competition, Sara may even be joining Musae! I hereby sincerely invite everyone to come and witness this competition!
+19:{character:player}...Eh?
+20: Huh—???
+21:It's clear that many others are just as dumbfounded by this unexpected declaration as I am, causing the venue to be momentarily filled with silence. After everyone comes back to their senses, the chattering of many conversations fills the air.
+22:After the performers all withdraw from the stage, I get up immediately and rush to the backstage because I can't sit still any longer.
+23:{character:player}Sara!
+24:I rush over to the staff lounge and push open the doors to find Olevi chatting happily with Sara and the other troupe members.
+25:{character:Olevi}Who's this? Sara, is this a new member?
+26:{character:Sara}Oh, it's you. You're here just in time. We were just talking about you.
+27:{character:Olevi}Oh? Is this that important guest of yours I've heard so many things about?
+28:{character:Sara}Yes, this is the one.
+29:{character:Olevi}It's nice to meet you. I'm Olevi. Ah, Sara said you watched the performance, so I guess it's a little pointless to introduce myself to you again.
+30:{character:player}It's nice to meet you, I'm {var:player_nickname}... Hold on, this isn't the time to say hi to each other.
+31:{character:player}Ciri, is it alright for you to chat leisurely with Ms. Olevi? She's here to poach your leader. Aren't you nervous at all?
+32:Ciri
+33:{character:Ciri}Nope, it's not the first time they have competed like this.
+34:Ryan
+35:{character:Ryan}On the other hand, why are you so nervous?
+36:{character:player}I...
+37:{character:Sara}Haha, it looks like you're a little confused. Let me explain things to you.
+38:{character:Sara}I met Olevi when I was on tour. She watched my performance once and really liked it, so she hopes that I can join her troupe.
+39:Gaffer
+40:{character:Gaffer}Sara turned down the invitation, so Ms. Olevi challenged her. Ah... That was such a fantastic competition.
+41:{character:player}H-How fantastic exactly?
+42:{character:Gaffer}It was absolutely amazing! It was the best turnout we had ever had since I joined the troupe. The people of the city were all packed into our tent!
+43:...So is he just saying that they made a lot from ticket sales that time?!
+44:Ticket Inspector
+45:{character:Ticket Inspector}Business is especially good whenever Ms. Olevi challenges the leader to a competition. Although it's very tiring checking all the tickets, I'm still really grateful to you.
+46:{character:Olevi}You're welcome! But it must be hard on all of you because you need to work overtime whenever I come.
+47:{character:player}So... the competition is just a gimmick to bring in more customers?
+48:{character:Olevi}Of course not. I try my best every time we compete. I'll get Sara to join our troupe one day!
+49:{character:Ciri}Ryan, how many times have they competed already?
+50:{character:Ryan}I've forgotten. They always end in a tie anyway, and I think it'll probably be the same this time.
+51:{character:Olevi}Haha, Ryan, you don't need to save face for me. Being unable to convince Sara to join Musae means that I've lost. There's no such thing as a tie.
+52:Olevi talks and carries herself in such a cool and impressive manner. I can understand why she has so many female fans.
+53:According to what they are saying, they have always ended in a tie, so I can kind of understand why the members of Soul are so relaxed, but...
+54:{character:player}Sara, it isn't that I don't believe in your ability, but accidents can happen. If you really do lose, will you join her troupe?
+55:{character:Sara}Well, Olevi always challenges me seriously, so it's natural that I should keep my promise.
+56:{character:player}Isn't that too unfair? Even if the competition manages to draw more customers, it's such a great loss to Soul if you lose, Sara.
+57:{character:Olevi}It will be a big loss to Soul, but I don't think it's a bad thing to Sara personally if she can spread her wings on a bigger stage. Don't you think?
+58:{character:player}...I shouldn't be the one to answer that question. Sara, what do you think?
+59:{character:Sara}Soul isn't as famous as it used to be, and we manage to attract many new audiences whenever I have a competition with Olevi. With rewards come certain risks, and this is a good deal for the troupe. Not to mention, Olevi considerately comes to our venue to challenge me every time, so I can't let her good intentions go to waste.
+60:{character:Sara}Also... on a personal level, I'm very willing to accept challenges. After all, I'm very competitive and have never avoided a dancing competition in my life.
+61:{character:Sara}What's more, there aren't many chances to compete against a rival as good as her. I'm really looking forward to our competition, Olevi.
+62:{character:Olevi}Same here. My mind is still filled with the scenes of our last competition.
+63:{character:player}In that case... Good luck, Sara. I'll be rooting for you with all the other fans on that day.
+64:{character:Sara}Hehe, thanks.
+65:Sara is indifferent to most things, so it's rare to see such fighting spirit burning in her eyes. If I don't support her now, I won't have the face to call myself her diehard fan.
+66:{character:Sara}Olevi, has the theme of our upcoming competition been decided?
+67:{character:Olevi}I decided it ages ago. The theme this time is Carmen.
+68:{character:player}Carmen...
+69:{character:Sara}Oh, you know about Carmen?
+70:{character:player}It's that famous opera, right? I read the script at the library before.
+71:Carmen is the most performed opera in the world today. It tells the story of a beautiful and free-spirited female tobacco factory worker who falls in love with a police officer and is later killed by her lover because she fell in love with someone else.
+72:The name of the opera, Carmen, is also the name of the heroine. Although the story ends in tragedy, regardless of the plot, just based on the videos I've seen of this show, it's somewhat strange to define this work as just a tragedy.
+73:{character:player}I've heard of it. It's an opera, right? I haven't seen it before though.
+74:{character:Sara}It's a very interesting piece of work...
+75:Sara briefly explains the story of Carmen to me. It tells the story of a beautiful and free-spirited female tobacco factory worker who falls in love with a police officer and is later killed by her lover because she fell in love with someone else.
+76:{character:player}It sounds like a tragedy.
+77:{character:Sara}If you look at just the ending, then does count as a tragedy, but I think it's somewhat strange to define this work as just a tragedy.
+78:{character:Sara}If you're interested, you can take a look at the script or watch some videos of it later. It really is a wonderful piece of work.
+79:{character:player}I definitely need to watch it since you recommend it so highly.
+80:{character:Olevi}Since we have a theme, we need to assign roles. This time, I want to play the matador Leo.
+81:{character:Sara}Oh, what an unexpected decision. I thought you would play the police officer Don.
+82:{character:Sara}Are you sure about this? The matador doesn't have as much of a role as the other two protagonists.
+83:{character:Olevi}A performer's acting prowess is not defined by the amount of stage time they get. You and I should both know this well.
+84:{character:Olevi}I like to play the role of the winner both on and off screen. Leo is the one who wins over Carmen's heart in the opera, which is a good omen. I'm bound to win this time, and...
+85:Olevi walks behind Sara and holds her hair.
+86:{character:Olevi}It's too dangerous for you if I play Don's character. I don't want to do anything rough to you because I'm too deep in character.
+87:{character:Sara}Haha... Are you already in character, Olevi?
+88:{character:Olevi}The sooner one prepares, the greater the chance of success, right?
+89:This is bad. I had a lot of confidence in Sara, but I can tell Olevi is a really amazing performer based on her joking interactions with Sara.
+90:{character:player}Then Sara will be playing the role of Carmen.
+91:{character:Olevi}Of course, who else but her can play it?
+92:{character:Sara}Who else but me, huh...
+93:{character:player}Hmm?
+94:An almost unnoticeable bitter smile flashes across Sara's face, leaving me wondering if my eyes were playing tricks on me.
+95:{character:Olevi}Well, it's getting late, so I better get out of your hair today. See you on the stage in one month, Sara.
+96:{character:Sara}Take care, Olevi.
+97:After Olevi leaves, the gaffer strokes his beard triumphantly.
+98:{character:Gaffer}Excellent! You couldn't play a better character.
+99:{character:Ticket Inspector}Although I feel bad for Ms. Olevi, we'll be winning again this time.
+100:{character:player}What do you mean?
+101:{character:Ryan}A "beautiful girl who is good at singing and dancing and is bold and unrestrained." Don't you think that this description of Carmen fits Sara very well?
+102:{character:Ciri}Indeed, many people have said that Sara resembles Carmen a lot.
+103:I see, well it's very advantageous to play a character suitable for yourself.
+104:{character:Sara}Well, not exactly. I'm sure you all know how talented and magnificent Olevi is. We can't take her lightly.
+105:{character:player}You're right, she's a strong opponent., It's better to be cautious. Speaking of which, who will play the role of Don?
+106:{character:player}This character has a lot of interaction with Carmen's character, so it'll affect your performance as well. You need to choose your partner carefully.
+107:{character:Sara}How astute of you. You noticed the key issue immediately. I want to ask you to help me out with this.
+108:{character:player}Sure, I'll do whatever I can.
+109:{character:Sara}It's something you can definitely help me out with... I want you to be my partner and play the role of Don.
+110:{character:player}Yes, I definitely can do that... WHAT? Hold on! You want me to play Don's character?!
+111:{character:Sara}Is something wrong?
+112:{character:player}I should be asking you if there's something wrong with you... Wouldn't the performers of your troupe be more suitable than me? For example, Ciri here...
+113:{character:Ciri}No, I can't do it. I'm just a beast tamer.
+114:{character:player}Aren't I just a member of the audience...? Well, what about Ryan then?
+115:{character:Ryan}Will you be playing Carmen? If you are, I'll gladly perform on the stage as your Don.
+116:{character:player}Thank you for volunteering, but that doesn't solve our problem.
+117:{character:player}What about the others? There are so many people in this troupe, someone should be suitable for the role of Don, right?
+118:I look at the gaffer who is smoking on one side and the ticket inspector. They smile as they wave at me.
+119:{character:Ticket Inspector}I'm already so old. I won't mess around on the young people's stage.
+120:{character:Gaffer}Oldies like us are happy playing the role of extras in a crowd. We're happy just to participate. Good luck! Hahaha!
+121:{character:Sara}I know my request is a little sudden. You can think about it first and tell me your answer later.
+122:I wanted to ask her if she was joking, but it looks like she's serious. What should I do?
+123:{character:player}...Shouldn't you find a more experienced partner for such an important competition?
+124:Although it's really tempting to be Sara's partner, I get a little scared when I think about how important this competition is to Soul.
+125:{character:Ciri}Don't worry, the fact that Sara is inviting you means that you've got what it takes. Good luck.
+126:Mojito
+127:{character:Mojito}*Grrr!*
+128:{character:player}Huh?!
+129:Ciri's partner, a black panther called Mojito, has walked up to her at some point and is growling at me silently while staring at me.
+130:{character:Ciri}Look, even Mojito is rooting for you. You can do it.
+131:{character:player}Thanks for the encouragement, even though it sounds more like Mojito is threatening me...
+132:What should I do? Should I take her up on the offer?
+133:{character:player}It'll be very bad for Soul if I mess up and affect Sara. Ryan, you agree with me, right?
+134:{character:Ryan}That won't happen. You're the best to me. I just feel a little unhappy when I think that I need to share you with other people when you are shining so brightly on stage.
+135:{character:Ryan}But... Even if Sara leaves, you'll still come to watch my performance, right? That sounds like an even better deal to me, hehe.
+136:...I asked the wrong person for support, but it looks like everyone else also agrees with Sara, so...
+137:{character:player}...Sorry, Sara, I can't help you this time.
+138:{character:player}This is a competition that determines whether you need to go to another troupe, so I don't think it's right for a complete beginner like me to go on stage. How about I ask Osamu Saitou if any of his artists can help out?
+139:{character:Sara}You don't need to apologize. It was rude of me to ask. I just decided to ask you because I thought you would be a good fit for the role. But like you said, maybe it is a little rash for the competition.
+140:{character:Sara}I'll find someone else for the performance, so you don't need to worry about it. Will you come and watch the competition?
+141:{character:player}Of course! I'll be cheering for you with all my heart!
+142:{character:Sara}Hehe, thank you in advance...
+143:"Don"
+144:{character:"Don"}No! I'll make you bleed before I let you leave me! Carmen, you must be with me!
+145:{character:Sara}Very well, either you kill me or you... give me freedom!
+146:On the stage, with bloodshot eyes, "Don" draws his dagger and approaches Carmen who he is enamored with.
+147:The matador Leo walks out of the bullring in high spirits with the crowd cheering for him, but what he sees is the body of his lover who is falling backward slowly.
+148:Rose petals are scattered all around Carmen, and a gust of wind blows her soul to the unfettered shore.
+149:{character:player}...Bravo!
+150:Soul's special performance comes to an end amidst the praise and cheers of the audience. Sara's performance is as stable and wonderful as ever, and Olevi also manages to captivate the audience in just a few short scenes like she said. The contest is still a tie this time.
+151:"There's always a spot for you in Musae, Sara." Olevi leaves gracefully after saying this.
+152:In the end, Sara asked one of Olevi's colleagues to play the role of Don. In order to not affect the contest between them, this actress was very restrained on the stage and played the role of helper very professionally. As I watched her interact with Sara on the stage, I found myself filled with both envy and regret.
+153:{character:player}If it's just a routine performance without stealing Sara's limelight, then even I can do it. I missed a precious opportunity to experience this...
+154:Oh well, I backed down from it, so there's no point lamenting about it now.
+155:But I wonder how many more times Sara and Olevi will compete again like today...
+156:{character:player}If I get another chance like today, I'll try to muster up the courage to get on stage. Yes! Next time for sure.
+157:{character:player}...To be able to perform as Sara's partner is an unbelievable opportunity for a fan. I'm very happy and willing to do it.
+158:{character:player}But Don is such an important character in the original work. Will I really be okay?
+159:{character:Sara}If you're worried that your performance will affect our competition or Soul, then you don't need to worry at all because the decision will be based on my performance and Olevi's performance.
+160:{character:Sara}If you're worried that you won't be able to memorize the lines, we can get someone to voice the lines for you behind the stage, but we'll need you to do your best to complete the actions on the stage.
+161:{character:player}That's okay. I still have another month to practice. I'm just wondering why you want me to do it. If you just need a standard performance, then won't someone else be more suitable than me?
+162:I don't think it's because I have any undiscovered acting talent.
+163:{character:Sara}Although it's an important competition, I don't want the audience to just focus on the contest between me and Olevi. Even if it's more exciting, it won't be fun.
+164:{character:Sara}So I want you to be my partner. You also come up with ideas that are beyond my imagination, just like when we met the outsiders...
+165:{character:player}So what you want from me is an element of surprise?
+166:{character:Sara}That's right. I'm really looking forward to being surprised by you again this time. Also...
+167:{character:player}Also...
+168:{character:Sara}...No, nothing. The most important thing is your element of surprise. So, will you help me?
+169:While I'm hesitating, a small black head appears in the left side of my field of vision. Little Miaow comes out of nowhere, jumps onto my shoulder, and stares right at me with its yellow eyes while meowing.
+170:{character:Sara}Little Miaow, do you also think it's a good idea?
+171:Little Miaow
+172:{character:Little Miaow}Meow!
+173:{character:player}Even a cat is encouraging me. I don't think I can say no now. Sara, I'll be in your care for the next month. Please teach me well.
+174:{character:Sara}Hehe, let's do our best together.
+175:That's how it was decided that I would perform on stage with Sara.
+176:The competition is in one month, so we don't really have that much time left. During this time, Soul performed less frequently than usual to make time for our rehearsals and to give Sara sufficient time to rest and prepare for the competition.
+177:{character:Ciri}...That's the wrong movement.
+178:{character:player}I was too slow. I should get up and act like I'm pushing open doors here... Oh, that's wrong. That's what I should be doing when the next part of the music starts.
+179:{character:Sara}Why don't you take a break first? We'll rehearse these two parts separately later.
+180:{character:player}No, let's follow the order. I'll go over the script again now.
+181:Carmen's script isn't that long, but the whole play is very compact. If I get distracted during the rehearsal, I won't be able to keep up with the pace of the overall performance.
+182:Over the next few days, I basically return home sweaty every day and fall asleep instantly after showering.
+183:{character:Sara}The tired way of singing you used just now when we were doing the part with the fiancée is very good because it highlights Don's guilty conscience.
+184:{character:player}Haha... Actually, I was just singing like that because I'm tired. But if it's good, I'll sing it like that during the official performance.
+185:Although my body is tired, my spirit is very excited, especially as I always continue until I'm exhausted when I practice with Sara.
+186:During this time, I feel myself growing almost every day, which is a truly exciting thing...
+187:{character:Sara}Ciri, can you get them to play the music again?
+188:{character:Ciri}Okay.
+189:{character:player}We've been practicing for almost two hours. Sara, don't you want to rest for a bit?
+190:{character:Sara}I want to keep practicing while I'm in good condition.
+191:Is this the difference between a professional and an amateur? Sara practices several times as much as me, but her movements are still so clean and performed with ease.
+192:{character:Sara}Heh!
+193:...Or maybe she doesn't feel tired because she's doing something she loves.
+194:Before I know it, there were less than two weeks until the competition.
+195:{character:player}Cheers!
+195:{character:Sara}Cheers!
+196:Today, I managed to complete one round of the rehearsal without any mistakes. After practicing, Sara and I eat dinner at a restaurant to celebrate this achievement.
+197:{character:Sara}You've got such a good memory. You only needed three days to memorize the lines. To think I was thinking of getting someone to say the lines for you. I underestimated you.
+198:{character:player}It's just because that script is so short. I wish my body can remember the movements like my brain remembers the lines.
+199:{character:Sara}Didn't everything go well today though?
+200:{character:player}I was just lucky enough to succeed once. Maybe my movements and positioning will be all over the place again after I wake up tomorrow.
+201:{character:Sara}Hehe, you're quite harsh on yourself. Actually, you don't need to worry too much about how precise your movements are. It's okay if they aren't perfect.
+202:{character:Sara}The most important thing about opera is to move in a way that matches the character. If you become your character, the audience will surely feel the charisma of your performance.
+203:{character:player}Becoming the character... That's actually what I find the hardest.
+204:{character:player}From the script, I can understand that Don is so in love with Carmen that he's gone crazy, but it's totally different when I play his character. I'm not confident that I can fully understand him. Maybe that's why I hesitate at some of the more intense parts of the plot.
+205:Such as... when Don kills his lover. Even if it's just an act, without being able to deeply feel the emotions of the character, I feel like my performance in that scene is almost meaningless.
+206:{character:player}In comparison, Sara, you're really amazing, and your performance is really natural. I finally understand why the gaffer and the others are so confident about this competition. Like they say, you are just like Carmen.
+207:{character:Sara}...Do you really think so?
+208:The fleeting bitter smile I saw the other day appears clearly on Sara's face.
+209:{character:player}Sara? I... Did I say something wrong?
+210:{character:Sara}No, you didn't. That really is what many people think about me.
+211:{character:Sara}I just don't really understand what they mean specifically when they say I resemble her.
+212:I've known Sara for a while, but this is the first time I've seen such an anxious or even lost expression on her face...
+213:{character:Sara}I understand that I share some characteristics with Carmen, but we're ultimately two different people. That's why I can't help but wonder if the resemblances I'm thinking of are the same things others want to see in me.
+214:{character:Sara}Other people's expectations are really heavy... I want to respond to their expectations as much as possible and become the Carmen in their hearts, but I don't know if what I'll show everyone is just my conceited idea of what I think they want to see.
+215:{character:Sara}I can't help but get a little nervous whenever I think about this recently.
+216:{character:player}...Sorry, Sara. I didn't realize I was stressing you out.
+217:I finally understand why Sara is acting so strangely when Olevi said who else but her can play the role of Carmen. I never considered that these compliments would become her burden...
+218:{character:player}Now that I think about it, these compliments are a little rude. Sara, you are you. You don't need to resemble anyone else. The person I want to see on the stage is you, not Carmen.
+219:{character:player}I think you're great the way you are now.
+220:{character:Sara}Ahaha, if you start saying things like that, I also need to apologize to you.
+221:{character:Sara}You asked me why I wanted you to play the role of Don. The element of surprise is just one factor. Another factor is... I felt that your fondness for me is similar to Don's fascination with Carmen.
+222:{character:Sara}But it looks like I was being rude too. You are you. You aren't Carmen's Don. You're my customer.
+223:{character:player}...Haha, then it's a tie. To be honest, I'm quite happy to hear this.
+224:{character:Sara}Why is that?
+225:{character:player}Because we have the same troubles and are letting go of our expectations for each other at the same time. Don't you think this is worth toasting to?
+226:{character:Sara}It is indeed. Cheers.
+227:{character:player}Cheers.
+228:I feel like I understand Sara a little bit more. We seem to have become closer...
+229:After dinner, I take Sara back to the troupe.
+230:{character:player}Sara, if something unexpected happens and Olevi wins, will you really go to Musae?
+231:{character:Sara}Oh, do you think I'm just joking? If I lose, of course I need to abide by the agreement. Will you be lonely if I go to another troupe?
+232:{character:player}Although it's a little mean to Ciri and the others to say this, as your fan, Sara, it doesn't matter to me where you go. And rationally speaking, I would actually recommend that you go to a larger and more promising troupe.
+233:{character:Sara}Then why don't you want me to lose?
+234:{character:player}Huh? Have I ever said that I don't want you to lose?
+235:{character:Sara}You haven't said it out loud, but that's the feeling I get from you.
+236:{character:player}Haha, to be honest, yes, as your diehard fan, I don't want you to lose at all. No, what I mean is, I can't imagine you losing to her.
+237:{character:Sara}Oh... Now I really have to win, or else I'll be letting you down.
+238:{character:player}I won't apologize this time. I'll do everything I can to help you and achieve my goal.
+239:{character:player}Even if you're right, what if I can't become the character in the end? I can only pray that the audience will ignore me and only focus on your contest with Olevi.
+240:{character:Sara}Haha, you don't need to force yourself if you can't.
+241:{character:player}But didn't you just say that it's very important?
+242:{character:Sara}Yes, but didn't you say that what you want to see on the stage is me? The only person I can show to the audience is myself.
+243:The only person I can show to the audience is myself.
+244:{character:Sara}...What do you see when you look at me now?
+245:{character:player}Um... How should I say this...
+246:{character:Sara}It's alright. You don't need to tell me now. We can revisit this again before the competition.
+247:{character:Sara}If you find an answer, maybe we'll both know what to do to complete our performance.
+248:{character:Sara}I'll be okay from here. Good night. Don't forget the homework I gave you, hehe...
+249:{character:player}Sure, good night, Sara.
+250:It's already after eleven o'clock by the time I get home, but I'm not sleepy at all.
+251:After showering, I sit on the bed and flip through the script of Carmen again.
+252:To play a character well, I definitely need to feel the same way the character does.
+253:{character:player}Don... I'm reading your life. I'm trying to understand you.
+254:Maybe I'll never truly understand you. I mean, we're two different people after all.
+255:"What do you see when you look at me now?"
+256:{character:player}...Sara, do you see me when you look at me?
+257:Or are you seeing Don?
+258:{character:player}T-There are so many people...
+259:On the day of the competition, the venue is already bursting with people even though there's still some time until the show starts.
+260:{character:Ticket Inspector}Ms. Olevi's appeal sure is extraordinary. All the tickets were sold in the blink of an eye.
+261:Based on Soul's past ticket sales situation, many of the audience should be Olevi's fans—maybe even half of them.
+262:{character:player}Sara sure is right. We can't take her lightly even if this is our home ground.
+263:{character:Sara}Hehe, are you feeling nervous?
+264:{character:player}Of course I am. We'll need to work twice as hard to win over the votes of her fans!
+265:{character:Sara}Hehe, you're in high spirits today.
+266:{character:Ciri}Sara, it's time to put on your makeup.
+267:{character:Sara}Okay. It's almost time for you to get changed too, right?
+268:{character:player}Yes, I'll be going now. Oh right, Sara.
+269:{character:player}If... I'm wondering... If Carmen could leave safely, how do you think this play would have ended?
+270:{character:Sara}If Carmen could leave safely... When you ask me so suddenly like this, I don't have an answer for you.
+271:{character:Sara}But this is a very meaningful question. I'll think about it.
+272:{character:player}Sure... You've got this, Sara.
+273:{character:Sara}Same goes for you. Let's meet again on the stage.
+274:{character:player}Yes, let's meet on the stage.
+275:Announcer
+276:{character:Announcer}Thank you for waiting! Soul's special opera performance, Carmen, is starting now!
+277:It is the early morning, and there is a steady flow of pedestrians in the square. "I" and a few colleagues are chatting casually while standing guard outside the barracks.
+278:"My" name is Don, a police officer who just started working here recently. At this moment, I'm sitting on a chair and focusing on making a gun chain.
+279:Officer
+280:{character:Officer}Don, do you think those girls who are rolling up cigarettes in this building are pretty?
+281:{character:player}Sorry, sir. I don't know. I don't pay attention to these types of things.
+282:{character:Officer}I know, my friend, it's because you already have a sweetheart, haha!
+283:As we chat, loud noise can be heard from the distance, and my colleagues blow their whistles. Clearly, the noise is made by the female workers of the tobacco factory who are getting off work.
+284:{character:player}Sir, why don't you find out if they are pretty for yourself?
+285:Soldiers
+286:{character:Soldiers}(chorus) Where is Carmen? Why can't we see Carmen?
+287:After being called out so enthusiastically by the soldiers, Carmen pushes the crowd aside and steps onto the stage.
+288:She holds her head high and dances proudly. The soldiers are all around her, but they are actually just embracing their own desires.
+289:{character:Soldiers}(chorus) Carmen, when will you have a heart-to-heart talk with us? When will you give us your love?
+290:{character:Sara}Love is like a free bird that none should try to tame. Love is like a vagabond that will never be restrained by the law.
+291:{character:Sara}Even if you don't fall in love with me, you can't stop me from falling into your arms. But if I fall for you, you better be careful!
+292:As she sings proudly, a flower hits me on the head. I pick up the sweet acacia flower that has fallen to the ground and look blankly at her in the crowd.
+293:{character:Sara}Hey, what are you doing?
+294:{character:player}Me? I'm making a chain for my gun.
+295:{character:Sara}Your chain, hehe... Your chain is a chain that binds my soul!
+296:Carmen laughs and runs off singing "love is like a vagabond..." as the bell of the tobacco factory sounds. The others follow her lead and leave one after another.
+297:The only people left in the plaza are me and the officer beside me.
+298:{character:player}What's with that look? She knows no shame! If witches who harm others really exist, she would be one of them!
+299:{character:Officer}Haha! It's a farce, but it has nothing to do with you, Don. You already have a sweetheart.
+300:That's right, "I" already have a "sweetheart"...
+301:Fiancée
+302:{character:Fiancée}Don, mother told me to tell you that she misses you day and night. She even told me to bring you a kiss and wants you to tell her.
+303:{character:player}Mother brought me a kiss... Please tell her how much I love and respect her, and please help me bring this kiss to her.
+304:"My" sweetheart should be simple and kind.
+305:{character:Sara}You want to put me in jail?
+306:{character:player}I'm sorry, I must do that.
+307:{character:Sara}...Don, you even threw away the flowers I gave you. You're been bewitched! You already love me, and you can do anything for me!
+308:...I couldn't throw away the flower. I fell under the witch's spell. "I" can no longer say that my sweetheart is that simple and kind girl.
+309:{character:Sara}Love is like a vagabond that will never be restrained by the law.
+310:Lost in Carmen's bewitching song, "I" embark on a road of no return.
+311:{character:Soldiers}(chorus) Hooray! Hooray! Let's all cheer for the matador, Leo!
+312:Amidst the sonorous and powerful beating of drums, Olevi, playing the role of Leo the matador, takes to the stage happily on a black horse like a general returning in triumph.
+313:Female Fan
+314:{character:Female Fan}Ah! Olevi is here!
+315:The screams of the female fans in the tent are so loud they seem to lift the roof.
+316:{character:Olevi}I should respond to your toast with a toast of my own, gentlemen, because you are soldiers who resemble us matadors! We take pride in fighting!
+317:"Leo" picks up a red cloth and unfolds it in front of his chest while staring in front of himself. After a moment, he turns gracefully and continues to sing.
+318:{character:Olevi}The fully-seated arena is a festive scene. The sound of ecstatic shouting fluctuates... There is a challenge, applause, and noise! It is violent and fiery!
+319:Carmen walks over to Leo with her head held high. The matador smiles and makes the bright red cloth dance in his hands to welcome the challenge of love.
+320:{character:Olevi}Love is waiting for you, matador!
+321:{character:player}Olevi is such a talented actress...
+322:Although I don't want to admit it, I would be more willing to choose this majestic matador instead of Don. As I watch Olevi's performance, I become increasingly unsure of whether we'll win the competition.
+323:{character:player}She declared that she would be able to captivate the audience in just a few short scenes before. It looks like she wasn't bragging about that.
+324:{character:Sara}Hehe, Olevi is just as talented as she is confident, but I don't think I'm inferior to her in the slightest.
+325:{character:Sara}You're doing well today, much better than you were in our previous rehearsals. The first few scenes are over, so you just need to keep this up until the end.
+326:{character:player}Really? That would be great as I won't put the hard work of the last few days to waste.
+327:{character:Sara}To be honest, I think you're quite talented at acting and also dance well. Will you consider joining Soul officially after this competition?
+328:{character:player}If I can help you win this competition, then maybe I do have some talent in this area and I could actually consider your proposal.
+329:Joining Soul... She should just be joking to help me relax. Even so, I'm still a little happy to be recognized by a professional like Sara.
+330:{character:Sara}You should consider it carefully since I'm serious about it.
+331:{character:player}I-Is that so?
+332:{character:Sara}It's time for my next scene. You should get some rest while you can. Oh, and don't forget to consider my proposal.
+333:{character:player}Oh...
+334:She... She was serious?
+335:The performance is nearly over, and the next scene is the most crucial one.
+336:After learning that Carmen now loves another person, on the day of the bullfight, Don comes to his lover in despair and tries to save his love.
+337:This is the climax, the most intense conflict of the whole play. This scene could determine the outcome of the competition...
+338:Outside the bullring, "I" stagger up to Carmen numbly and grab her arm tightly.
+339:{character:Sara}Let me go.
+340:{character:player}Is your new lover the one everyone is cheering for?
+341:{character:player}Carmen, don't leave with him. You... Must you go to him? Do you really love him?
+342:{character:Sara}I love him. Even if I die, I must say that I love him!
+343:In the bullring, the people stare at the blood gushing from the black bull and burst into applause. "Victory! Victory!" The applause seems to be mocking "me" at this very moment...
+344:{character:player}If that's the case, then not even my soul will be saved. How dare you throw yourself into his arms shamelessly and mock me together! No! I'll make you bleed before I let you leave me! Carmen, you must be with me!
+345:{character:Sara}No... No, no! It will never happen!
+346:Carmen breaks free from "my" grasp and throws the ring "I" gave her at me.
+347:{character:Sara}This is the ring you gave me. Take it! Either you kill me or you... give me freedom!
+348:{character:player}...
+349:Okay, it's time to make a decision.
+350:"I" draw a sharp knife while looking at Carmen. There is no trace of fear on her face. She has been fearless from the beginning to the end.
+351:Sara's fearless expression isn't because this is a play and I'm holding a prop. It's because she has become Carmen right now. She is the "outsider" Carmen who bewitches the world in the name of love and would rather die than lose her freedom.
+352:{character:player}(whisper) You're so amazing... Sara. You're so incredible...
+353:Suddenly, I finally understand how Don is feeling at this moment. Like Sara said before, Don is fascinated by Carmen's every move, and I'm also fascinated by Sara's dance. We are just the same.
+354:Can I really kill this person who has enchanted me so deeply?
+355:{character:Sara}(whisper) Psst, are you okay?
+356:Before I make my next move, I need to sort out two things. Who am I seeing right now?
+357:And... How does Don see himself?
+358:"I" was supposed to live a stable life with my simple and kind fiancée and my mother in our hometown, but Carmen entered "my" life like a turbulent storm.
+359:Like I said before, she is a witch who harms other people, and she has seduced "me" into abandoning everything.
+360:Now, she has destroyed the last vestiges of "my" dignity by loving someone else, making "me" a laughing stock and an outcast of fate.
+361:"I" should feel unhappy... I should feel angry!
+362:{character:player}...Fine! Then die!
+363:"I" pull out a sharp knife and stab Carmen in the chest to take revenge on my beautiful lover, using blood to seek justice for my love!
+364:{character:player}Arrest me! I'm the one who killed her!
+365:"I" hug the body of Carmen, who will never move again, and shout with my head raised. Rose petals are scattered all around Carmen, and a gust of wind blows her soul to the unfettered shore.
+366:This is the last decision I make. To present a perfect performance and help Sara win the competition, I will play out Don's life to the end.
+367:The performance ends amidst the audience's sighs...
+368:{character:Olevi}So it's the same old outcome again?
+369:{character:Sara}Ahaha, too bad, Olevi.
+370:After the performance, the competition ends with the audience voting for a tie.
+371:{character:Olevi}Oh well, there's still plenty of time. There's always a spot for you in Musae, Sara. Let's compete again next time.
+372:{character:Sara}Hehe, I'll be looking forward to it.
+373:{character:Olevi}Oh right, will your guest be performing on stage again next time?
+374:{character:player}Huh? Me?
+375:{character:Olevi}Sara told me you've only been practicing for a month or so, but your performance today was simply brilliant. Like she said, you're quite talented.
+376:{character:Olevi}Things will be even more interesting if you also perform on stage the next time we compete.
+377:{character:player}No, no, no. It's better if you two compete alone. I'll...
+378:{character:Sara}Hehe, won't you think it's unfair? We'll have a great advantage.
+379:{character:Olevi}Challenges must be difficult to be fun. It's decided then. See you next time.
+380:After speaking, Olevi waves her hand and leaves.
+381:{character:Sara}It looks like this won't be the last time we perform together.
+382:{character:player}W-Will you two really keep competing like tonight...?
+383:...Oh well, there's no point worrying about the future. For now, let's just celebrate today's victory!
+384:"Don" was supposed to live a stable life with his simple and kind fiancée and his mother in their hometown, but Carmen entered "his" life like a turbulent storm.
+385:Like he said, she is a witch that harms people. However... is Don really unfortunate after experiencing all this?
+386:{character:player}Go, Carmen.
+387:{character:Sara}What are you saying?
+388:{character:player}I said go! Carmen.
+389:Even if Carmen initially approached Don with other plans in mind, I believe that she really did throw that sweet acacia flower at Don outside the tobacco factory in an impulse of love.
+390:Carmen has no lack of suitors, yet she was drawn to Don by his unintentional indifference. Their love was accidental and a stroke of luck. Don just received someone's love by accident.
+391:At this moment, I too am just a lucky fan who was invited by Sara to perform on the same stage as her.
+392:{character:Sara}...Hahahah! Are you pitying me?
+393:{character:player}Never! We don't need to pity each other because...
+394:{character:player}Love is like a free bird that none should try to tame!
+395:In my opinion, Carmen, who Don pursues, is that very free bird. Many of Carmen's actions are unforgivable, but if she loses her proud nature and willingly enters his "birdcage," will she still be the same Carmen who fascinates him?
+396:I don't think so. Although Don and I are similar in some ways, we are still different people. I can't become Don. Like Sara said, the only person I can show to the audience is myself.
+397:So, the person in front of me is Sara, not Carmen. I... want her to be free.
+398:{character:player}Love is like a vagabond that will never be restrained by the law! Go! You're free now, Carmen!
+399:I can see that some members of the audience are already making doubtful and even stunned expressions. It's natural for the audience to have such a reaction when the script is changed at the last minute.
+400:Fortunately, Sara is as calm as always. In my heart, I'm secretly glad that I mentioned the possibility of changing the ending to her before the show started. I can only hope that she understands that I'm trying to "express who I am" at this moment.
+401:...No, I believe she'll understand because this is our homework.
+402:Full of anticipation, I wait for the response of the person who fascinates me. Like her, I also look forward to the element of surprise she has. This kind of improvision is precisely what she's best at.
+403:{character:Sara}Oh? You're so arrogant! That's so arrogant of you, Don!
+404:Sara's fingers slide down my cheeks to my neck and lift up my chin. Her eyes are still proud, but there's a trace of tenderness inside them.
+405:{character:Sara}Go? Where do you want me to go? What right do you have to tell me to leave you?
+406:{character:player}You no longer love me. I don't want you to die, so I can only give you your freedom.
+407:{character:Sara}You've never taken my freedom, so what makes you think it's yours to give? You think you're being generous, but you're actually more arrogant than anyone else.
+408:{character:Sara}You want me to leave? Haha, then I won't leave. Hold my hand, Don. I won't leave anymore!
+409:{character:player}...Are you pitying me, Carmen?
+410:{character:Sara}You were rude to me first, so I'm just paying you back.
+411:Seeing that I'm not moving, Sara grabs my hand herself.
+412:{character:Sara}Don, I like the sound of cheering and winners.
+413:{character:player}But I am a loser of life. Meeting you has made me lose everything.
+414:{character:Sara}No, that chain... your chain... is a chain that binds my soul. It has just wound itself around my heart again just now.
+415:{character:player}Just now? You capricious woman. You declare me the winner just because of this?
+416:{character:Sara}Why not? Love is arbitrary in the first place. It is like a gust of wind, and it happens to be blowing towards you now.
+417:{character:Sara}Let go of your petty self-esteem. At least for this moment, you are enchanting, so you are the winner.
+418:{character:Sara}Rejoice! Winner!
+419:The People
+420:{character:The People}(chorus) Yes! This is great! Victory! Glory belongs to the victor—Don!
+421:Rose petals fall from the roof and land beside us. The bright red that originally symbolizes tragedy has now turned into a blessing for the winner.
+422:Just like that, Soul's special opera performance ends amidst the cheering of the crowd...
+423:After the performance, the competition ends with the audience voting for Sara's victory.
+424:But the last-minute changes to the script spark some controversy, and Olevi's colleagues are angry at the result.
+425:Colleague A
+426:{character:Colleague A}Ignoring the fact that this is their home ground, is a performance that doesn't respect the original work really a qualified performance?
+427:Colleague B
+428:{character:Colleague B}I can't agree with this result. Olevi's performance was more brilliant.
+429:{character:Olevi}Okay, that's enough. Although Sara's impromptu adaptation of the ending was very sudden, doesn't the audience's response prove that this was a wonderful performance?
+430:{character:Olevi}As for winning or losing... Sara's choice is the most direct response. Even if my performance won the audience's applause, since the matador failed to win Carmen's heart, then this is naturally my loss.
+431:Seeing Olevi admits defeat like that, her colleagues have nothing else to say, and this little dispute after the performance is settled.
+432:{character:Sara}You were really brilliant tonight, Olevi.
+433:{character:Olevi}You were too. I was no match for your impromptu performance.
+434:{character:player}Thank you for calming down your colleagues. They made such scary expressions just now...
+435:{character:Olevi}Hahaha, don't mention it. I must say, from your performance, I can't tell that you've only practiced for around one month. Like Sara says, you're really talented at acting.
+436:{character:player}I'm flattered to hear that.
+437:{character:Olevi}If we get the chance, let's perform together on stage again in the future.
+438:{character:player}Huh? That wouldn't be good, right? I only stepped up this time because we couldn't find someone. You two should compete alone next time.
+439:{character:Olevi}That's not really right. I didn't just lose to Sara today—I lost to the two of you. You wouldn't do something unromantic like running away after winning, right?
+440:{character:player}Um, I'm not really running away after winning... Im just helping out...
+441:{character:player}W-Wait! Ms. Olevi—!
+442:Without giving me the opportunity to reject her, Olevi turns around and leaves after speaking.
+443:Oh well, at least this headhunting incident has ended well. I'll worry about the future later.
+444:{character:Sara}By the way, have you decided yet?
+445:{character:player}Decided? Decide on what?
+446:{character:Sara}Hehe, you shouldn't pretend to be confused at this time. Have you decided whether you will officially join Soul or not?
+447:{character:player}Oh, this matter...
+448:So Sara was serious! Forget about the troubles of the future. I have a big problem waiting for me right now...
+449:{character:player}Sorry, Sara, I was too busy thinking about the performance and haven't decided yet.
+450:{character:player}I'll consider it carefully. I'll let you know once I have an answer!
+451:{character:Sara}Hehe, then I'll be waiting for your response.
+452:{character:Sara}You don't need to rush. I'll keep waiting until you have an answer.
+453:{character:player}...Okay.
+454:Actually, I know in my heart that it's not very likely that I'll join Soul, but the option of rejecting her proposal immediately never appeared in my mind.
+455:After all, the person in front of me is my very own Carmen.
+456:No matter how our relationship changes in the future, at least I hope that she'll be a part of my life...
+457:I know about it
+459:I don't know about it
+460: Soul's lounge
+461:Turn her down
+462:Ask some questions
+463:I can't do it
+465:I've considered it carefully, and I can't do it
+466:Unlucky person
+467:Lucky person
+468:Let me consider that carefully
+469:I... I can't decide now
+470:
+471:Several days later
+472:On the day of the competition
+473:Opening time
+474:Act I: Overture
+475:Act I, Scene III
+476:Act I, Finale
+477:Act II, Overture
+478:Act IV, Finale
+479:Memories
+480:While Olevi puts on her solo show, Sara and I go back to the lounge.

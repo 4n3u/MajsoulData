@@ -1,0 +1,272 @@
+11:player
+
+1207:A Recipe for an Endless Summer
+1209:Huff... Puff...
+1211:And that's the last pot...!
+1212:Inside the Gardening Club, National University of Fuuchi
+1213:Hinata Takanashi
+1214:Whew! I'm done moving them too!
+1215:These little guys are safe from the blistering sun now.
+1216:Glad I could help!
+1217:I'd never have finished this alone with so many plants to move. Thanks for the help, {var:player_nickname}.
+1218:Now for the shade nets. Once those are up, they'll be protected no matter where the sun hits.
+1219:I'm definitely a bit of a sweaty mess... but seeing them all tucked away and tidy really makes my day.
+1220:You're right. There's nothing like that "job well done" feeling...
+1221:So, it's finally the weekend...
+1222:Don't you have a shift at the cafe today?
+1223:I was just heading out! But it's been so scorching lately, I couldn't focus on work knowing my plants were baking.
+1224:Care to join me, {var:player_nickname}? Reina just got some fresh coffee beans in today!
+1225:Sounds good. I could really use a cold drink to cool off.
+1226:Then let's get moving! I'll personally make that first cup for you, {var:player_nickname}.
+1227:Reina Nanami
+1228:Oh, Hinata, you're here! Just in time. Do you think you could help me move these boxes outside?
+1229:At Éternité
+1230:Huh? Move them out? Wait, what's going on, Reina?
+1231:Hmm... Sad to say, but Éternité might be closed for the summer.
+1232:Huh?! Why?!
+1233:It's the heat and humidity. The coffee beans for our summer special were ruined during delivery.
+1234:We had other food and drinks we could've served, but just our luck – the AC just gave up on us this morning.
+1235:I'm not letting everyone work in such harsh conditions, and no one is going to sit down to eat in a sauna.
+1236:Restocking and fixing the AC will take time. {var:player_nickname}, Hinata, I'll update you when we're back. My apologies...
+1237:That look on Reina's face... I can't stop thinking about it.
+1238:She's been working for the new blend since spring. Breaking a promise to her regulars is the last thing she wanted.
+1239:Should we do something to help her out?
+1240:Yeah... I just don't know how. If only I were as clever as you, {var:player_nickname}...
+1241:Umm... {var:player_nickname}, could you help me out? Just like the way you handled things with Sprout Nursery!
+1242:Hmm, let me see...
+1243:What if we make a "summer special" that doesn't need any coffee beans at all?
+1244:Oh! That would solve the whole restocking problem!
+1245:But what should we make? Plain tea or juice might disappoint the regulars. It needs to be special.
+1246:I know! {var:player_nickname}, you have so many friends in One Han City. Let's go ask them for ideas!
+1247:Good plan. Let's see what we can find out!
+1248:Saturne
+1249:"The special flavor of summer," huh? Hahaha... You always come through with the most random questions, {var:player_nickname}.
+1250:Summer's the only thing that can melt Northland's snow, but it's hard to describe the "flavor" of that.
+1251:If I had to choose the most "honest" answer, though, I would have to say...
+1252:...this "orange soda" right here.
+1253:Wait, was that in your suit the whole time?!
+1254:And it's just the basic kind from any old vending machine...
+1255:A great businessman knows the best investments are often the most cost-effective ones.
+1256:Real treasure is found in the simple things that trigger precious memories. When you've lived through the snow, you appreciate the sweetness.
+1257:And who knows? An orange soda mixed by {var:player_nickname} might be something truly special.
+1258:Haruna Igarashi
+1259:The flavor of summer? Popsicles, obviously! Especially when you split one with a friend!
+1260:And what's the flavor?
+1261:Peach is sweet, Chocolate is so rich... My tummy loves them all! Don't make me pick!
+1262:But I know this: if it's a good drink, it'll be an even better popsicle!
+1263:I'm gotta go find the kitties! {var:player_nickname}, don't forget, you're coming with me next time!
+1264:Yui Yagi
+1265:Good morning, senpai.
+1266:Good morning!
+1267:(whisper) Are we really asking Yui?
+1268:Shake head
+1269:Shake head faster!
+1270:...?
+1271:It's funny how tense you look, senpai. You're here to ask about the food, right?//nI'd recommend the Yam & Fish Soda.
+1272:...Noted. Thanks!
+1273:Alright, we've got a list! Orange soda and popsicles... total summer classics!
+1274:But Éternité is closed. Where can we actually do the mixing?
+1275:No need to bother anyone else. Let's just go to my place!
+1276:To your place?
+1277:Are you sure?
+1278:It's fine, follow me!
+1279:Welcome! Please, come in!
+1280:Thank goodness for air conditioning... I'm alive again...
+1281:The house smells faintly of flowers.
+1282:We've been out in the sun too long. Here, {var:player_nickname}, let me help you with that sweat.
+1283:It's nice and cool inside. {var:player_nickname}, feel free to look around and rest before we start!
+1284:Hehe, it's like natural perfume, smells refreshing, right? I'm glad you like it, {var:player_nickname}!
+1285:{var:player_nickname}, feel free to look around! Make yourself at home!
+1286:Her place looks like a typical home, aside from a jungle of potted plants on the tables...
+1287:Also, even with the AC on low, the room feels surprisingly cool...
+1288:How is it, {var:player_nickname}? Pretty cool in here, right?
+1289:It is... I can barely feel the summer heat. Is the AC even doing that much?
+1290:Hehe, that's because my "green helpers" are working their magic!
+1291:This way! I'll introduce you to them!
+1292:Ta-da!
+1293:Hinata, you have... so many plants in your yard!
+1294:Yep! They're my pride and joy. I've been waiting for the day I could finally show you around.
+1295:I tell them everything – about school, the cafe... and {var:player_nickname}...
+1296:Ah! I-I mean... they provide shade and keep the air fresh and cool. Plus, aren't they just pretty?
+1297:{var:player_nickname}... what do you think? Do you like it?
+1298:Check out the plants
+1299:Check out Hinata's face
+1300:N-not me! I mean the plants in the yard...!
+1301:They look so healthy. You've really poured your heart into this, haven't you?
+1302:Wait... Are these little tags on the plants? Some old, some new, and some are even laminated. But that's not your writing, is it?
+1303:My grandma wrote those. I've saved them all since I first started gardening with her.
+1304:This one's from my 5th birthday. The other reminds me not to overwater the ball cactus...
+1305:Hmm? That bunny succulent you brought back has a tag too. The color is different. Is it special?
+1306:Oh! That's...!
+1307:Take a closer look
+1308:Wait for Hinata to finish
+1309:"I hope that someday I can..."
+1310:H-hey! No peeking!
+1311:At least... not now. Maybe another time!
+1312:Phew... Okay, tour's over. We have a drink to make! To the kitchen, {var:player_nickname}!
+1313:Right, let's get to work.
+1314:I'd love to see more...
+1315:Ugh...
+1316:I tried making it more bubbly, which completely washed out the flavor...
+1317:Then I added orange zest and an orange popsicle as a garnish. It looks nice, but now it has this bitter taste I can't fix...
+1318:I feel like I've tried everything I can think of, but it's just not working...
+1319:It's okay... at least you did your best...
+1320:I just... I really wanted this to work.
+1321:But no matter what I do, I just can't find that "flavor of summer" we're looking for...
+1322:Yeah, it feels like something is missing...
+1323:Is there really nothing we can do until the next coffee beans arrive...?
+1324:Maybe... we're trying too hard to find other people's "flavor of summer" instead of ours?
+1325:What's your idea of summer?
+1326:What's your favorite summer drink?
+1327:Oh, me? Hmm...
+1328:Besides the drinks on family trips... my grandma used to make me this cold drink when I was little.
+1329:On those hot summer evenings with the cicadas buzzing... I'd sit on my little chair and watch her work in the garden.
+1330:She'd hum these old songs I didn't know while rinsing the fresh-picked mint and basil. The whole yard would smell like them.
+1331:Just when I was about to nod off from the heat, she'd hand me that drink...
+1332:One sip of it felt like finding a patch of cool moss on a burning road, and just lying there to cool off...
+1333:That's a very "Hinata" way to describe it.
+1334:I don't know why, but that's the image that stuck. It was herbal and refreshingly cool just like the moss...
+1335:But... don't all grandmas make drinks like that? It's probably nothing special...
+1336:No, not all of them.
+1337:Wait, really?!
+1338:There's the clueless Hinata we know...
+1339:Haha... Good thing you're here... otherwise I'd be making a fool of myself again.
+1340:Still, that drink sounds unique, delicious, and simple... That's it! The perfect "summer special" Éternité needs!! Let's try to recreate it!
+1341:Really? But... I don't have a recipe. I have no idea how she actually made it...
+1342:We don't need a recipe if we have your memories. Let's work through it one step at a time!
+1343:You said she washed the fresh mint and basil... What was her secret for getting that aroma out?
+1344:Now that you mention it, I do remember a bit of what she did to them.
+1345:She didn't chop them. She'd put the basil and mint in her palm and give them a light "clap"... That's how she woke up the aroma!
+1346:There's the first step!
+1347:The glass was always icy and full of bubbles... so we need chilled soda water!
+1348:And the sweetness... she told me once it wasn't sugar, but I've totally forgotten what she used...
+1349:...
+1350:Hinata?
+1351:Actually... Grandma left me a wooden box. She said her most precious things were inside.
+1352:Sounds like a treasure box... Maybe the secret to the drink is in there!
+1353:Hehe, I think so too. I was a bit scared to go through her things before... I didn't want to get sad again.
+1354:But now, I've realized that remembering her doesn't have to be sad... What she left behind for me wasn't meant to be sorrow, but the joy within those memories.
+1355:{var:player_nickname}, let's open it together.
+1356:It's... dried mint, basil, and... stevia leaves? That must be the source of the sweetness! And there's a note underneath...
+1357:{var:player_nickname}, I...
+1358:It's okay.
+1359:I'm right here with you.
+1360:Okay...
+1361:Note
+1362:"To my dearest Hinata, who always gets woozy in the summer heat – "
+1363:"If you ever miss my special drink, try this: 5 spearmint leaves, 3 sweet basil leaves, 2 stevia leaves. Clap them 'awake,' then add chilled soda and lemon."
+1364:"I want you to learn this drink. That way, I'll always be by your side, and we'll share another joyful, unforgettable summer."
+1365:She knew that eventually, some summer afternoon would lead me right back to this drink.
+1366:I think... she wanted you to move forward. She left you a map to find her and recall the beautiful memories again.
+1367:Alright, {var:player_nickname}. Let's make it!
+1368:This time, I'm going to make "our" summer special using Grandma's recipe, so everyone can feel the same joy!
+1369:Basil, stevia, lemon, mint... add the soda, a quick stir...
+1370:All done! {var:player_nickname}, can you... do the honors?
+1371:Take a sip
+1372:Wow. That's amazing. It's completely different from anything in a store.
+1373:R-really? Let me try it too!
+1374:This is it! It tastes just like Grandma's! We did it, {var:player_nickname}!
+1375:You're squeezing me too hard...!
+1376:The drink is going to spill...!
+1377:Whoops! Sorry, sorry! I just got a little excited...
+1378:Since you liked it too, let's go talk to Reina!
+1379:Let's go!
+1380:Hmm... such a unique flavor. It's so refreshing. This could actually work as our new special...
+1381:Yes!
+1382:But... there's still one problem.
+1383:Hmm... the technician came by. He has to order a specific part for the compressor, so the AC can only run on low power now.
+1384:Oh no... how unfortunate...
+1385:We've got the drink, but it's still a sauna in here. We'll pass out before we can serve anyone.
+1386:And no customers will stick around to finish their drink...
+1387:You know, when we were at your place, it felt cool even with the AC on low...
+1388:We can use the same setup here!
+1389:Time to bring in your "green helpers"!
+1390:Of course! The plants! Transpiration will cool the air down and increase the humidity!
+1391:{var:player_nickname}, let's help Reina one more time!
+1392:If we bring some plants from the club and my house, it'll cool the place down and give it a fresh look!
+1393:Hmm... a "green" renovation?
+1394:That's a very "Hinata" idea. Bold, sweet, and unique.
+1395:If it's not too much trouble... please, give it a try! I'd love to see how it looks!
+1396:I've got a bit more left in the tank.
+1397:This is for the cafe and all of us!
+1398:I'm totally spent...
+1399:Didn't we just do this earlier today...?
+1400:Wow! The cafe looks just like a garden now! The temperature's still up, but it's already feeling fresher and I'm feeling better already!
+1401:Hinata, {var:player_nickname}, thank you so much!
+1402:We're all set! Now we just wait for the plants to work their magic.
+1403:Great job, {var:player_nickname}. Here, Reina and I made these sandwiches while you were finishing up.
+1404:Thanks for the sandwiches!
+1405:Delicious! I feel like myself again...
+1406:Now, let's take a group photo!
+1407:One, two... three! To the new summer special and our "green AC"!
+1408:Hehe... I couldn't have done it without you!
+1409:Glad to help.
+1410:No big deal, really!
+1411:A few days later...
+1412:Customer A
+1413:This new drink is so refreshing... and it's way cooler in here.
+1414:Customer B
+1415:Whoa! It's like a garden party in here! And it makes a great photo spot! I'm so glad I followed Sprout Nursery's recommendation!
+1416:Customer C
+1417:The new drink is totally different from the old ones, but it's actually amazing!
+1418:The customers are raving about it! You two really saved the day!
+1419:Hehe...
+1420:We did it, {var:player_nickname}! I'm so happy everyone likes Grandma's drink. And Reina is smiling again!
+1421:You're the one who made it happen.
+1422:No, {var:player_nickname} was the one who asked around, thought of the plants, and... helped me find Grandma's recipe.
+1423:It was a team effort!
+1424:Here's to more teamwork!
+1425:Phew... Shift's over.
+1426:Everyone loves our "summer special," but I think...
+1427:That first glass we shared... that was the only one that felt "special" to me.
+1428:Because of the memories of your grandma?
+1429:Because it was the first one we got right?
+1430:Hehe... maybe.
+1431:But maybe it's also because the air here makes all the stress and worry just... disappear.
+1432:I used to feel a bit sad when I thought about Grandma in the summer. Like those days were gone forever.
+1433:But today, watching the bubbles rise and the ice clinking in the glass...
+1434:I feel like those memories aren't something to be sad about. They've just changed into something new and come back to me.
+1435:Something new?
+1436:Yeah. It's not just that one dusty memory of a hot summer anymore.
+1437:It's a brand new summer where {var:player_nickname} helped me, and we made a mess of the kitchen, and finally sat here in the breeze...
+1438:I love this feeling... I wish this moment could last just a little longer.
+1439:Then let's enjoy the evening breeze a bit longer.
+1440:Don't worry, we've still got ice in our glasses.
+1441:Yeah.
+1442:The setting sun filters through the layers of leaves, painting a forest in the glass and casting soft, dappled light across her face.
+1443:The best fruits are always hidden under the leaves, waiting for someone who's actually looking.
+1444:I finally found that "hidden fruit" I couldn't reach all these years, and it's all because of you.
+1445:Cheers, {var:player_nickname}! Thank you for helping me find my way back to that summer...
+1446:And thank you for giving me such a wonderful new memory!
+1447:That was a bit embarrassing to say... hehe...
+1448:Hinata raises her glass toward the setting sun. The bubbles sparkle in the golden light as if capturing the moment.
+1449:Raise the glass.
+1450:The two glasses clink together with a clear, crisp sound.
+1451:Within the bubbles, the flavors of two different summers become one.
+1452:I didn't realize you were so interested in my plants, {var:player_nickname}...!
+1453:Then I'll introduce you to every single one!
+1454:I brought my camera too! I've always thought you'd look great with plants. Can I take a few photos?
+1455:How long will this take?
+1456:You're really feeling it, huh?
+1457:It'll be quick, I promise! Just need the right angle, focus, and lighting!
+1458:Of course, it's a special occasion! {var:player_nickname}, try to look natural. Imagine you're a plant soaking up the sun!
+1459:Oh, that "huh?" look is perfect! You look just like that lithops. Very adorable!
+1460:Now, move a bit to the left, right next to that mint!
+1461:I'm starting to feel like a specimen in a greenhouse...
+1462:That's a natural expression! Now one more with the spider plant!
+1463:The sun's moving. Let's try a different angle!
+1464:This angle is great for a duo. The bunny succulent is resting, so {var:player_nickname}, let's pose like we're waking it up together!
+1465:Uh, isn't this a bit close?!
+1466:Wait, where did the tag on the bunny succulent go?
+1467:Oh! I-I'm sure it's just around here somewhere... but anyway!
+1468:By September, the bunny succulent will look like little bunnies again! We'll have to take another photo from this angle then, like we actually woke it up. It'll be so much fun!
+1469:Okay, now check this one! It's a perfect background for us, too. Its scientific name is actually...
+1470:The "quick" photoshoot continued as Hinata kept finding one "perfect angle" after another...
+1471:Hehe... I didn't realize it had gotten so late... Sorry, I got a bit carried away...
+1472:But you looked so good with the plants, {var:player_nickname}. I can't bring myself to delete a single photo!
+1473:...
+1474:Wait, what time is it?! Oh no!
+1475:Did we... completely forget about the "summer special" drink?!
+1476:It took you that long to realize?!
+1477:I couldn't stop you even if I tried...
+1478:Ugh... But a promise is a promise! I'll definitely figure out the drink by tomorrow, I swear!

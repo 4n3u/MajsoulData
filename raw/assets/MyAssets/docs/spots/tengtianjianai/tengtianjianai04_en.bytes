@@ -1,0 +1,273 @@
+1:Very few people walk around in the community at noon on weekdays. Office workers have not returned home yet at this time, and the entire residential area is relatively quiet. In such an atmosphere, the notification sound made by the elevator when it reaches its destination is a little abrupt.
+2:I take a deep breath and step out of the elevator, then I stop outside Kana Fujita's door and start to check the things I'm carrying carefully. I even make sure I check all the hidden pockets of the backpack too.
+3:player
+4:{character:player}There are no chips, no sweets, and no bottled drinks... Phew... It should be okay.
+5:I have a shriveled backpack, am making a serious expression, and am saying strange things... The weird behavior I am exhibiting today is all related to why I have come to visit Kana today, and everything started one week ago.
+6:Circadas take turns chirping on the side of the road, singing about the hot summer with their lives and making particularly noisy sounds in the bustling city.
+7:The usually bustling commercial strip gradually becomes empty as the temperature rises. Passers-by hurry past on the street, and when the occasional customer appears, they rush into stores with air-conditioning quickly to choose what to buy.
+8:This situation makes the long queue at the milk tea shop at the corner particularly special as people are choosing to endure the hot sun over their heads just to try out this signature cold drink that has become an Internet sensation.
+9:It's the nature of human beings to want to join in the fun, so after mulling over it a few times in my head, I lose to my curiosity and end up joining the end of the queue.
+10:???
+11:{character:???}{var:player_nickname}, is that you?
+12:Soon after I join the queue, I hear a familiar voice behind me. I turn around and see a girl wearing sunglasses and a curvy mustache with a huge sun umbrella in her hands.
+13:Her iconic pink hair makes it really easy for me to get her identity, while her strange outfit leaves me dumbfounded.
+14:{character:player}Kana, your outfit... Hahaha, did you get on the bad side of your stylist?
+15:Kana Fujita
+16:{character:Kana Fujita}Shush! Be quiet! That's not it. My stylist loves me.
+17:{character:player}Then what are you doing now?
+18:{character:Kana Fujita}Ahem, as a popular idol, isn't it very normal for me to put on some disguises when I go out? By the way, it looks like we'll need to wait at least 20 minutes before it's our turn to order. Are you sure you don't want to join me under the umbrella?
+19:Kana takes off her sunglasses and winks at me. This scene would be so beautiful if I can ignore the look she is currently sporting.
+20:I can see that Kana is trying her best to change the subject. It probably isn't very enjoyable for an idol to appear in public wearing this outfit.
+21:I move next to Kana like she wants, and the shadow cast by the umbrella swallows both our shadows. A faint sweet fragrance unique to young girls wafts over.
+22:{character:player}Kana, aren't you usually attending a dance class at your company at this time? I remember you even sent me a message a few days ago, complaining that you wouldn't be free in the afternoon for a while.
+23:{character:Kana Fujita}First of all, I didn't skip class. Due to certain irresistible circumstances, my manager changed the location of the dance class to some place around this milk tea shop. I've just come out to buy a cup of milk tea during the break.
+24:{character:player}Certain... irresistible circumstances?
+25:{character:Kana Fujita}Ahem, it's still confidential right now. But since you're not just anyone, I'll tell you something in advance. In One Han City, I'll soon be... Oh no! I've been discovered!
+26:As if she has seen something terrifying, the girl who was just talking eloquently just now steps back in panic and tries to hide herself completely.
+27:I turn around and see a woman who looks to be around 30 years old. She storms over towards us with her eyes glued tight to Kana.
+28:The woman looks familiar, but I can't quite place her at this time. In consideration of the unique nature of Kana's profession and the threatening comments made by anti-fans on the Internet, I instinctively take a step forward and shield Kana from her because I'm worried that she might do something drastic.
+29:{character:player}You...
+30:{character:???}Follow me!
+31:{character:player}...?
+32:Completely dumbfounded, I freeze in place. Behind me, Kana makes a move before I do. With her head lowered dejectedly, she follows the woman silently to an uncrowded path.
+33:When she walks past me, Kana looks at me with a sad expression while the woman isn't looking.
+34:Are my eyes playing tricks on me? Why is Kana acting like an elementary school student who got caught not doing her homework?
+35:It's just... this is not a good time to ask. Because I'm worried about her, I follow them after a brief moment of hesitation.
+36:The woman looks around her to make sure no one else is around her, then she taps Kana's forehead with her index finger.
+37:{character:???}KANA FUJITA! How dare you go to buy milk tea!!!
+38:{character:Kana Fujita}Um... Would you believe me if I said I only walked over there to chat with a friend I happened to see over there?
+39:{character:???}Haha!
+40:{character:Kana Fujita}It... looks like you don't believe that.
+41:The thrilling scene I imagined didn't take place. Based on their interaction it is obvious that they know each other and are even very familiar with each other.
+42:With a flash of inspiration, I finally remember the identity of this woman.
+43:{character:player}You're the star-maker of the entertainment company under Samu Corporation, the manager of W.I.N!
+44:{character:Kana Fujita}Bingo, that's right. Let me introduce you. Manager, this is {var:player_nickname}, who is my friend and fan.
+45:Manager
+46:{character:Manager}So you're {var:player_nickname}. It's nice to finally meet you.
+47:{character:player}You know about me?
+48:{character:Manager}Of course. Kana talks about you a lot. I can feel that she is very happy when she's with you. I've heard that you're quite good at mahjong, so maybe we can play together if we get the chance.
+49:{character:player}Haha, no problem. I mistook you for Kana's anti-fan and was about to run away with her.
+50:{character:Manager}I didn't want to act so fierce either, but I had no choice because a certain idol is always sneaking out to drink milk tea when she's supposed to be controlling her weight.
+51:{character:player}Controlling her weight?
+52:{character:Manager}Yes, W.I.N will be performing in a concert at One Han City in three months, so our whole company has started preparing for it.
+53:{character:Manager}Kana's constitution makes it easy for her to gain weight, so she needs to control her weight before the concert to show her fans her best self. During this time, all milk tea, snacks, and other similar foods are banned.
+54:{character:Kana Fujita}Ah! I was thinking of giving {var:player_nickname} a surprise! How can you just say it like that...
+55:The manager spreads her arms and ignores Kana's protest.
+56:{character:player}No news about this has been released yet. Am I the first fan to hear about this surprise?!
+57:{character:Manager}We'll only announce it officially after all the preparations for the concert are complete, so please keep it a secret for now.
+58:{character:player}No problem! I need to start training to increase my finger speed so that I can get a ticket to the concert.
+59:{character:Manager}Haha, if only Kana is as serious as you about controlling her weight. We hired a fitness expert to design a series of weight loss plans for her, but she slacks off whenever I take my eyes off her.
+60:{character:Manager}I need to go with the other members of the group to a commercial performance in a neighboring city next week, so I've been worried about who I can find to watch over Kana.
+61:{character:Kana Fujita}Ahem, I have an immature suggestion to make!
+62:{character:Manager}Oh? What is it?
+63:{character:Kana Fujita}The person you're looking for is right in front of you! You can get {var:player_nickname} to watch over me.
+64:{character:player}Huh... Me?
+65:{character:Kana Fujita}That's right! You're my friend, so you can watch over me at my place. This way, we can ensure the confidentiality of this matter and the smooth progress of the weight loss plans. You're the best candidate for this!
+66:I'm taken aback after being thrust under the spotlight. On the other hand, the manager rubs her chin while lost in thought, as if she is considering whether this is possible.
+67:{character:Manager}It sounds like a good idea. {var:player_nickname}, will you help us out?
+68: Agree decisively
+69:
+70:Politely refuse
+71:Who can possibly turn down the opportunity to spend a long period of time with their idol? At least I won't. Afraid that the manager would regret it, I agree without hesitation before she can ask me a second time.
+72:{character:player}Of course I can. I'll be very happy to help.
+73:{character:Manager}Haha, I won't make you help me for free. Since you're Kana's fan... how about I repay you with a ticket to Kana's concert?
+74:{character:player}That's the best reward you can give me! Don't worry, I'll make sure that Kana controls her weight.
+75:{character:Manager}I really appreciate your help.
+76:An opportunity to spend a long period of time with my idol is very rare, but it won't be easy to turn down Kana when she's acting cute, so I hesitate and finally decide to refuse.
+77:{character:player}Sorry, I...
+78:{character:Kana Fujita}Ahem!
+79:Kana interrupts me with deliberate coughing the moment I start to refuse the offer. She moves next to me with exaggerated movements and starts talking in a low voice.
+80:{character:Kana Fujita}{var:player_nickname}, I heard that Zechs is thinking of taking you to practice in the jungle sometime soon. I think you would rather stay with me in One Han City than participate in a survival challenge in the wilderness in the height of summer, right?
+81:{character:player}Ack! How did you find out about that?
+82:{character:Kana Fujita}Don't underestimate the information gathering speed of an Internet surfer on an 8G connection. Do you want to reconsider your answer to my manager now...?
+83:{character:player}Um, is that a threat?
+84:{character:Kana Fujita}Hehe, {var:player_nickname}, you want more benefits? You're so greedy. Um... okay then. If you help me, I'll reserve a ticket to the concert for you.
+85:{character:player}The ticket doesn't really matter. I'm helping mainly because I'm an enthusiastic person who likes to help people out! ...Miss Manager, leave this to me.
+86:The manager looks at me and Kana a few times, as if she has seen through our secret arrangement.
+87:{character:Kana Fujita}Um, Miss Manager...
+88:{character:Manager}Well, I'll agree to it since Kana insists... I'll leave it to you.
+89:That's why I've hurried over here to Kana's home on a weekday. As for why I have to inspect my backpack so carefully, this is just something I've learned from my experiences in my battle of wits with Kana these few days to ensure the weight loss plan progresses well.
+90:After making sure I don't have any high-calorie foods on me, I knock on Kana's front door gently.
+91:{character:Kana Fujita}Coming! {var:player_nickname}, good afternoon!
+92:Kana's joyful voice on the other side of the door is followed by a clanging sound like many things have been knocked down at the same time. Fortunately, the door opens soon, revealing Kana's smiling face.
+93:I look at her forehead and see fine beads of sweat rolling down her fair and delicate face, leaving a pool of water on the floor. She looks energetic and cute and gives people an irresistible urge to want to dry her sweat for her.
+94:Although she puts on a perfect appearance on the stage, Kana Fujita is a playful girl in private.
+95:{character:player}Good afternoon, Kana. Have you already started exercising? How many calories have you burned? Have you recorded it?
+96:{character:Kana Fujita}Hey! Shouldn't you praise me for being hardworking first? If I knew you would be so strict, {var:player_nickname}, I wouldn't have recommended my manager to ask you to watch over me. Does this count as shooting myself in the foot...?
+97:{character:player}It's too late to regret it now. I promised your manager I would help you lose at least five pounds. If I succeed, she'll upgrade my ticket to VIP seat for free.
+98:{character:Kana Fujita}You don't need my manager to do that. I can help you too.
+99:The girl throws a wink at me, but... her lovely appearance doesn't win over any flowers and applause like it usually does. Instead, it makes me take a step back and become vigilant.
+100:{character:Kana Fujita}Look, it's almost time for lunch. Since I've been working so hard, can lunch be changed slightly?
+101:After catching Kana secretly drinking a bottle of carbonated soft drink yesterday, secretly eating a pack of chocolate cookies the day before yesterday, and trying to secretly buy instant noodles three days ago, I'm not surprised by her proposal at all. It even makes me think: "I knew it."
+102:{character:player}For example... Changing the vegetable salad to the honey-fried chicken from downstairs?
+103:{character:Kana Fujita}It looks like we aren't just compatible in games. We even have similar tastes in food. Haha, I've already done some research, and the best deal is to order a takeaway family bucket plus a crispy chicken fillet.
+104:{character:player}That's a good idea, but that's my lunch.
+105:{character:player}Huh?
+105:{character:Kana Fujita}Huh?
+106:{character:player}Your manager arranged your meals for the entire week before she left. Let me see... You're having a mango and shrimp salad set today.
+107:After hearing this, Kana who was happily discussing what she wanted for lunch starts protesting. She grabs my sleeve pitifully to wipe nonexistent tears as if she is the little match girl.
+108:{character:Kana Fujita}Please! It's been two weeks now. Do you know what it's been like for me these last two weeks? I've been eating different types of salad every day. I smell like roasted sesame sauce dressing now...
+109:{character:Kana Fujita}I have four hours of fitness classes in the afternoon, and all I want is to eat some meat to replenish my energy. Is that too much to ask...?
+110:{character:player}It does sound like a reasonable request.
+111:{character:Kana Fujita}Hehe, I knew you care about me the most. Can we order the fried chicken takeaway now?
+112:No one can say no to Kana Fujita when she is acting cute. By the time I come to my senses, I hear myself agreeing to her request before my mind can react.
+113:She takes out her mobile phone happily and starts discussing the discounted takeaway deals again. However... my sense of duty brings me to my senses just before she can tap the button to confirm her order.
+114:{character:Kana Fujita}Huh?
+114:{character:player}Huh?
+115:Looking into Kana's eyes, filled with trust, surprise, and a hint of worry. I feel like a battle between a devil and an angel is taking place in my heart.
+116:Satisfy Kana's request
+117:Strictly follow the weight loss diet
+118:{character:player}It should be okay if you only have a little, right?
+119:Unable to bear the disappointed look in Kana's eyes, the little angel in my heart finally prevails, and I confirm the order under her concerned gaze.
+120:{character:Kana Fujita}Woohoo! {var:player_nickname}, from now on, you're my idol!
+121:{character:player}Eh, I bet your manager will kick me out of the fan club once she finds out.
+122:{character:Kana Fujita}Don't worry! I won't tell her. This will be our little secret.
+123:Kana's mood brightens obviously because of the fried chicken. She even hums a lively tune when I urge her to continue exercising.
+124:Forget it, if it makes her so happy, why not make an exception once in a while?
+125:It doesn't take long for the takeaway to arrive. The crispy chicken fillet is fried perfectly and very fragrant, and the signature pistol drumsticks are golden and crispy, slightly charred on the outside and tender on the inside. Just seeing them there makes me hungry.
+126:Kana squints slightly and licks the sauce off her fingers with her pink tongue like a languid kitten.
+127:{character:Kana Fujita}This honey mustard sauce goes so well with the honey-fried chicken. {var:player_nickname}, you have to try some.
+128:{character:player}W-Wait up... Kana, you've already eaten three pieces of chicken popcorn! You've almost reached your maximum calorie intake for today. You'll exceed the limit if you eat any more.
+129:{character:Kana Fujita}But I still want to eat some more...
+130:The girl refuses to let go of the fried chicken nugget she just picked up and looks at me with pleading eyes. Even if I can make up my mind to stop her, I just can't make a harsh expression.
+131:I sigh inwardly and regret that I ordered the fried chicken for Kana against my principles. I thought she would just eat a few pieces to satisfy her craving, but now it looks like she has no intention to stop.
+132:In that case, I can only try another method to stop her.
+133:{character:Kana Fujita}Mmm, this spicy chicken wing is so delicious. I can eat one more... no, make it two!
+134:{character:player}On average, each serving of spicy chicken wing contains 196 kcal, which can barely be burned off by running for about 22 minutes.
+135:{character:Kana Fujita}And this popcorn chicken is so fragrant and crunchy. It tastes absolutely heavenly with this Thai-style sweet and spicy sauce.
+136:{character:player}On average, each serving of popcorn chicken contains 390 kcal. As it has a high oil content, it'll take about 44.3 minutes of running to burn it off.
+137:{character:Kana Fujita}Um... I can have some fries...
+138:{character:player}On average, a large serving of fries contains 421 kcal, and it is recommended to run for 47 minutes to burn it off.
+139:{character:Kana Fujita}In that case, a piece of original chicken should be okay... right?
+140:{character:player}On average, every 100g of the original chicken contains about 346 kcal!
+141:{character:Kana Fujita}Ahem, then let me have a bit of this chicken and egg burger...
+142:{character:player}384 kcal!
+143:{character:player}...
+143:{character:Manager}...
+143:{character:Kana Fujita}...
+144:{character:player}What else do you want to eat, Kana?
+145:{character:Kana Fujita}Argh! I won't eat it now! {var:player_nickname}, you're like a calorie demon. Every bite fills me with guilt now.
+146:The air conditioner in the room slowly sends out a cool breeze that dispels the summer heat and spreads the aroma of fried chicken to every corner of the room. This makes Kana's weight loss plan even more difficult. She curls her lips and looks away from the dining table reluctantly.
+147:{character:Kana Fujita}There are still three months until the concert. How will I last until then...?
+148:{character:player}No... No!
+149:The devil in my heart defeats the soft-hearted angel to gain the upper hand. With great difficulty, I force myself to reject her.
+150:To get that VIP ticket to the concert, I'll have to be harsh just this once. Ignoring the girl's look of accusation, I place the two lunches the manager prepared separately on the dining table.
+151:The mango and shrimp salad in the lunch box is bright green, just like bamboo shoots that have just broken through the ground, and the shrimp meat embellishes it with specks of white. As a whole, the colors go well together, and it looks, smells, and tastes good. But that's only if there isn't an enticing deluxe fried chicken rice bowl right next to it.
+152:The tragic visual contrast makes me feel even worse about the situation, so I try to eat as quietly as possible to make myself feel more invisible.
+153:{character:Kana Fujita}Sigh...
+154:{character:player}Am I affecting you? Should I go to the living room for now?
+155:{character:Kana Fujita}Of course not. I already feel bad that I can't try that delicious fried chicken rice bowl. It'll be even harder for me to stomach this food if I can't see you while I'm eating, {var:player_nickname}.
+156:{character:player}I think I know what to give you after your concert ends, a bouquet of fried chicken drumsticks would be perfect.
+157:{character:Kana Fujita}Haha! I don't mind, but my manager will definitely stop you. Sigh... I feel miserable whenever I remember that I'll have to wait until after my concert ends three months later before I can eat meat again.
+158:The young girl leans softly against the back of the chair and pokes the food in her bowl with her fork instead of eating the food.
+159:Seeing how depressed she looks, the angel in my heart stands up again with shaky legs and starts chanting a magic spell while waving a staff around. Because I want to remove the frown from her face so much, the magic spell enchants me easily.
+160:{character:player}Kana, if you don't mind, you can try some of this fried chicken.
+161:{character:Kana Fujita}Huh? Really?!
+162:{character:player}Yeah, but since we need to watch your calorie count, you can only have a little bit. I'll also tell your fitness trainer about the situation and arrange for you to do extra training...
+163:{character:Kana Fujita}That's okay! I don't care if I need to train for an extra day as long as I can eat some meat! ...Mmm! Thanks, {var:player_nickname}! It's as tasty as I imagined!
+164:Before I can finish speaking, Kana, who is no longer depressed, comes over. She takes my spoon eagerly and takes a bite, stuffing her cheeks until they are bulging, making satisfied and happy sounds while she eats.
+165:{character:player}Wait, Kana! That's the spoon I was using...
+166:Her face becomes as red as a beetroot. She quickly thrusts the spoon back into my hand, then turns around so her back is facing me and picks up the salad set she was eating before. The vegetables she disliked so much before are now like delicacies that have her full attention.
+167:Her actions remind me of a video compilation of cute little squirrels on CatChat. In my heart, I feel a little lucky and proud because only I have seen such a vivid side of her.
+168:It's just... I press my hand against my cheek and realize that Kana isn't the only person affected by what happened.
+169:After a short break following lunch, the ringing alarm clock reminds us that it's time to exercise. The fitness trainer hired by the manager usually would arrive early at this time, but something unexpected happened today.
+170:{character:Kana Fujita}You're saying that... the fitness trainer has taken the day off?
+171:{character:player}Yes, he just sent me a message saying that he can't come today because something happened at home.
+172:{character:Kana Fujita}Heaven must have noticed that I was working too hard and decided to give me an extra day off. Why don't we go and play mahjong with Ichihime and the others in the afternoon? I've been exercising so hard during this time that I haven't played a South Wind match in a long time.
+174:{character:Kana Fujita}{var:player_nickname}, you suddenly pulled out something terrifying!
+175:{character:player}I won't let you take any days off unless you reach the target weight.
+176:{character:Kana Fujita}Ahem, I was just joking. I'll exercise seriously, so put the electronic scale away now... Since you insist, you can be my trainer for today!
+177:{character:Kana Fujita}Why are you so surprised? You've been supervising me while I exercise these last few days, so you should be really familiar with the exercises the trainer has been teaching me. There's also the training video my manager recorded at home to help you. You can do this!
+178:Kana interrupts my instinctive refusal. After hearing her analysis, I actually begin to approve of this plan. At least this really is the best course of action we can take to save time and keep up with the weight loss plan.
+179:Noticing that Kana has already started cheering and thinking of what she can do for fun in the afternoon, I have no choice but to pull out an electronic scale to ruthlessly tear down her fantasies.
+180:That sounds like a good idea
+181:Professional things should be left to the professionals
+182:{character:player}That sounds like a good idea, but... you didn't make this suggestion because you want to see me out of breath after exercising, right?
+183:{character:Kana Fujita}Ahem, no way. Exercise is an important part of life, and I want to share this healthy lifestyle with you. Shall we start now?
+184:Seeing that she was starting to convince me, Kana quickly finds the recorded training video and even sets up an exercise mat for me. Perhaps it's merely an illusion, but I sense a mischievous sparkle in her eyes.
+185:It's obviously too late to back out now. Under Kana's expectant gaze, I stand and press the button to start playing the video.
+186:I still feel okay after exercising for one minute... After five minutes, it starts to feel strenuous... After ten minutes, I am sweating profusely and feel like my whole body is soaking in water.
+187:Most of the movements in the video look simple but are actually really difficult. It is an epic disaster for a beginner like me.
+188:I can clearly feel that I am losing control of my arms and legs. The sound of my heavy panting gradually becomes louder than the background music of the training video. I'm afraid I would have given up ages ago if it wasn't for the fact that I didn't want to embarrass myself in front of Kana. When I finally survive until it is time for a break, I plunge my head into the sofa and don't want to stand for even a second longer.
+189:{character:player}Huff... Huff... Huff...
+190:{character:Kana Fujita}Are you okay? Do you want to have some water? There's some warm water here.
+191:{character:player}I'm okay... Huff... I'll be okay after I catch my breath. Huff... Kana, you actually have the strength to walk around after doing such intense exercise. You're really fit.
+192:{character:Kana Fujita}Haha, that sounds really familiar. I think Mia said something similar to that before.
+193:{character:player}Did your manager also make arrangements for Mia to lose weight?
+194:{character:Kana Fujita}No, but everyone was practicing a new dance when W.I.N first debuted, and I could continue to dance to the music even after Mia and Akane were too tired to move. That's why she said that.
+195:{character:Kana Fujita}"Why do you have such an unreasonable fitness level when you're clearly a gamer?" Haha, that's what she said.
+196:{character:Kana Fujita}To meet the boss' requirements, we trained up to 12 hours a day during that time... It feels really nostalgic now that I think about it.
+197:{character:player}Idols put in so much hard work just to perform for a few minutes on stage.
+198:{character:player}It's the same even now. Even though your manager wants you to lose weight, you're not fat. In fact, I can even say that you're slender. Yet you're not allowed to take even one bite of your favorite foods. Now that I think about it, being an idol is really hard work.
+199:{character:Kana Fujita}Haha, although I'm really happy to be praised by you, it doesn't mean I agree with what you're saying.
+200:Kana pulls her loose hair behind her head, then sits down beside me with a glass of warm water. She looks outside the window... The afternoon sun shines through gaps in the shadows of trees, spreading summer to every corner and filling all the gaps between the sky and the earth.
+201:{character:Kana Fujita}The reason idols are so popular is essentially that they have something people yearn for.
+202:{character:Kana Fujita}Everyone desires to become someone outstanding like an idol, so they start following the footsteps of the other person and start regarding idols as some kind of symbol.
+203:{character:Kana Fujita}It might sound a little boastful, but... since I'm lucky enough to become a ray of light in another person's life, I shouldn't do things to disappoint my fans, right?
+204:Maybe Kana became an idol at the very beginning simply because she wanted to stand on a gorgeous stage, but as time passed by, her dream is no longer limited to that stage.
+205:Just like how her fans love her, Kana also loves her fans and wants to actively give back to them.
+206:{character:player}Kana, your fans are really lucky.
+207:{character:Kana Fujita}Hehe, congratulations then because you're one of them...
+208:{character:player}Haha, in that case... the break is over. It's time to exercise again.
+209:{character:Kana Fujita}Ah! The warm atmosphere has been ruined! {var:player_nickname}, you're too cunning.
+210:Although she makes this complaint, Kana, who spoils her fans, stops me from getting up and stands on the fitness mat alone.
+211:When she works hard for the wishes of her fans, she seems more serious and devoted than usual.
+212:{character:player}M-Manager! Why are you here? Isn't there two more days before the commercial performance ends?!
+213:{character:Manager}I arranged for someone else to take care of Mia, so I rushed back to do a spot check on the progress of the weight loss plan. Kana, don't just stand there. Hop on the scale.
+214:{character:Kana Fujita}Why does hearing that make me feel like a sheep being led to the slaughter?
+215:Kana's manager ignores the looks of protests she makes and stands firm on her mandatory request. The numbers on the electronic scale jump back and forth before finally stopping firmly on a number.
+216:{character:Manager}I'm a little surprised that you actually passed. I'll record it then. Today's weight is...
+217:{character:Kana Fujita}Ahhh! It's enough for you and {var:player_nickname} to know. Don't say it out loud.
+218:{character:Manager}There's no helping it. Anyway... {var:player_nickname}, thank you for helping out over the last few days. I'll reserve a VIP ticket for you as agreed. I'll see you at the concert.
+219:{character:player}Sure!
+220:Sure enough, I feel really lucky to be Kana's fan!
+221:{character:player}Forget it.
+222:An anonymous person once said something that makes a lot of sense even though it hasn't been proven: "Professional things should be left to the professionals." I know very well that I'm not fit enough to be a temporary trainer, so I firmly reject Kana's proposal.
+223:To thoroughly extinguish the little flame of Kana's desire to be lazy, I send a text message to her manager about what afternoon arrangements I should make.
+224:{character:Manager}It looks like it's time to activate plan B.
+225:{character:Manager}A nearby gym has signed an agreement with us to provide corresponding fitness services to our artists and protect their privacy.
+226:{character:Manager}I'll call the manager of the gym now. You should take Kana there after half an hour. I've just sent you the address. →shared address URL
+227:{character:player}Okay.
+228:{character:player}As expected, every manager has a plan B. However, why does this address look so familiar?
+229:I take Kana to the gym. The moment I open the door, I can feel a strong... sporty atmosphere.
+230:All the exercise equipment is in use. People are either letting off some steam or trying to improve their physical fitness. However, regardless of their motive, they are doing all this for one goal, which is to exchange their sweat for positive energy.
+231:The fitness trainer the manager contacted is waiting for us at the door long before we arrived. He strictly skips all the usual visit procedures and takes Kana directly to the personal training room.
+232:{character:player}Kana, give it your all!
+233:Deliberately ignoring the "resentment" in her eyes, I calmly find a comfortable place to sit down and prepare to play a mahjong game on my mobile phone for the rest of the afternoon.
+234:{character:player}According to the schedule, Kana will need to train for at least four hours... I better make the most of this time to rank up!
+235:{character:player}Hmm... Should I call Pon on this tile or not?
+236:Fitness trainer
+237:{character:Fitness trainer}Of course you should. What are you waiting for with your hand?
+238:{character:player}Then I'll... Hmm? Wait a minute, you...
+239:{character:Fitness trainer}The countdown is almost over. Call Pon now before it's too late! Oh, I was going to ask you. Do you know where Miss Fujita has gone?
+240:{character:player}She isn't in the room?
+241:{character:Fitness trainer}No. She suddenly disappeared when I went outside to drink some water. The other trainers and I have been looking for her for a while, but we haven't had much luck.
+242:{character:player}What?!
+243:After hearing the news, I jump up from the chair and anxiously start searching for her.
+244:{character:Fitness trainer}Slow down, you can call Pon on that tile first...
+245:This street, queue, and milk tea fragrance are all so familiar to me... After turning at the corner, I finally realize why this gym is so familiar to me. It's because it's just across the street from that popular milk tea.
+246:Remembering that this is where I met Kana and her agent last week, which led to me having the opportunity to spend some time in close proximity to my idol, I can't help but slow down and relive the joy I experienced at that time.
+247:Suddenly... I see a figure wearing sunglasses and a curvy mustache with a huge sun umbrella in her hands in the queue to buy milk tea. After noticing my gaze, the person steps back guiltily.
+248:{character:Kana Fujita}Ahem, {var:player_nickname}, what a coincidence...
+249:{character:player}Surely you won't try to tell me that you've come here to chat with a friend this time, right?
+250:{character:Kana Fujita}Maybe my legs have a mind of their own?
+251:I finally understand why your manager is always sighing. With raised eyebrows, I reach out to pull Kana out of the long queue at the milk tea shop and take her back to the fitness trainer.
+252:{character:player}I'll stand guard outside the door this time so you won't get the chance to sneak out to buy milk tea again. You haven't quite reached your manager's goal yet, so you need to work hard!
+253:{character:Kana Fujita}Sigh, I'm doing so much for your VIP ticket.
+254:{character:Fitness trainer}Miss Fujita, milk tea is something you must avoid while trying to lose weight. Because of what you just did, I've decided to work overtime for free today and give you double the practice time. I hope you'll remember this lesson.
+255:{character:Kana Fujita}No! You don't need to do that.
+256:{character:Fitness trainer}Before we start exercising again, I have one last question. {var:player_nickname}, I want to know... did you call Pon on that tile in the end?
+257: It looks like he is also a mahjong enthusiast. But compared with the mahjong game, shouldn't he be focusing on Kana's weight loss plan? I hope everything goes well before her manager returns to One Han City.
+258:{character:Manager}I had a feeling the weight loss plan would fail, but... I didn't expect Kana to gain weight instead of losing weight.
+259:{character:player}But the trainer clearly gave Kana two extra hours of training yesterday. How could...
+260:The air becomes silent suddenly, and even the wind has stopped blowing outside the window. With her manager and me looking at her suspiciously, Kana lowers her head guiltily and coughs gently.
+261:{character:Kana Fujita}Ahem, I used up so much energy in yesterday's extra training and was so hungry that I couldn't sleep in the middle of the night... I just happened to see a fried chicken restaurant's ad for takeaway, so...
+262:Listening to her gradually softening voice, I finally understand what happened. Her manager and I quickly glance at each other and we see helplessness in each other's eyes.
+263:{character:Manager}It's a good thing I returned early. It's not too late to make up for lost time. Kana, I'll be supervising your exercise personally, and I'll notify your fitness trainer to double your training amount. I hope you'll reach your target weight as soon as possible.
+264:{character:Kana Fujita}What? Please don't!
+265:Kana and I, who was completely innocent, wail mournfully at the same time. I would miss out on a VIP ticket to the concert because of one supper!
+266:Fortunately, Kana's manager knows that it isn't my fault and arranged a ticket for me anyway, which cools and soothes my miserable heart that feels like it has been exposed to the heat of summer.
+267:One week ago
+268:
+269:The second day
+270:A little while later

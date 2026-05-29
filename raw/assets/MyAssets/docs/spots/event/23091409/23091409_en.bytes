@@ -1,0 +1,374 @@
+1:Due to its geographical location, the sun rises very early in One Han City even in this season. I check the time and see that it's now 7:15 a.m. The sky is already very bright, and the sun feels warm on my body. Many diligent white-collar workers have also begun their journey through the morning rush hour.
+2:Ciri, Oumu, and I are seated, eating breakfast quietly at a food stall across the street from the entrance of the warehouse. They are both quiet people, and their calm demeanor makes me feel like I'm the only one who is feeling nervous about our upcoming mission.
+3:player
+4:{character:player}Hey... do you two think our mission will be successful today?
+5:Ciri
+6:{character:player}Hmm?
+6:{character:Ciri}Hmm?
+7:{character:player}It's broad daylight, and quite a lot of people are coming and going around here... Will we really be able to sneak in?
+8:{character:player}As the saying goes, it's easier to do this type of thing on a dark and windy night.
+9:Oumu
+10:{character:Oumu}Everything rests on Shijukara. Didn't the boss say that he'll distract the guards and get their attention?
+12:???
+14:While we discuss whether we can infiltrate the warehouse, two people wearing the same uniforms as the security guards of the warehouse across the street sit down next to us. After eavesdropping on their conversation with the stall owner, we learn that the older man is called Tora and the younger man is called Boo. They have come here to have breakfast before changing shifts with the guards across the street, which means we will have to follow them when we try to sneak inside later.
+15:After thinking of this, I focus all my attention on their conversation to try to find something that we can use.
+16:Tora
+17:{character:Tora}Boo, you don't look well today. Is anything wrong? Did you not sleep well last night?
+18:Boo
+19:{character:Boo}Sigh, don't mention it. I didn't sleep at all last night.
+20:{character:Tora}Haha, you young people sure do party hard. Take care of yourself though.
+21:{character:Boo}Tora, please don't make fun of me. The fatty and the others will tease me forever if they hear about it.
+22:{character:Tora}Fine then. Well, what happened?
+23:{character:Boo}Do you know that the place I'm renting isn't very soundproof?
+24:{character:Tora}Yea, you mentioned it before.
+26:{character:Tora}You're an adult now. How can you still be scared of ghosts? Don't be so superstitious.
+27:I glance at them from the corner of my eye and see that Boo seems to be reliving some horrifying memories. His face is pale, and I can see fear in his eyes.
+28:{character:Boo}The problem isn't the horror story but the spirit-summoning game called Candle Circle that they were playing. In this game, a group of people sit down in a circle and take turns telling ghost stories. Each person lights up the candle in their hand before starting and blows it out after telling their story. But if the candle goes out while they are telling the story, something bad will happen.
+30:{character:Boo}It's because they were so loud! I was filled with despair because I couldn't do anything about it!
+31:{character:Tora}Okay, okay, I understand. What ghost stories did they tell?
+33:{character:Boo}There were so many. For example, one story was about a man called Jack and his girlfriend Marie. Their class was about to fly overseas for their graduation trip. However, the moment he got on the plane, Jack felt dizzy and saw something incredible: the plane would explode after taking off...
+34:{character:Tora}This story isn't scary. It even sounds a little familiar. I think I've read about it somewhere...
+35:{character:Boo}Um, I'll tell you another one then. This one left quite an impression on me... There was a woman called Marie, and her husband was a taxi driver called Jack. One day, Marie suddenly woke up in the middle of the night and realized that Jack had already come home. However, instead of going to bed, he was squatting on the balcony alone and looking down.
+37:{character:Boo}"Look at our car. Can you see a woman in red clothes in the back seat?"
+38:{character:Boo}At first, Marie thought Jack was imagining things, but when she looked down, she really did see a woman in red clothes holding a child in the back seat of their taxi. And when Marie looked at her, the woman suddenly turned her head and looked directly at Marie through the car window.
+39:{character:Boo}They were living on the tenth floor and it was the middle of the night. It's already quite incredible that they could see the car, let alone see someone sitting inside the car. Marie was so frightened that she fainted, and it was already the next day when she woke up. She told Jack what happened last night, but he didn't seem to remember anything. He told her that she had a nightmare because she was worrying about too many things during the day. After that, Marie also treated this as a nightmare.
+41:{character:Boo}One day, Marie went to their bedroom to look for Jack. As soon as she opened the bedroom door, she saw Jack sitting on the railing of the balcony. He gave Marie a strange smile and muttered, "They're calling me... They're calling me..." After that, he turned around and fell off the building...
+42:{character:Boo}Later, Marie learned from the taxi company's employees who visited her to express their condolences that the car the company arranged for Jack to drive had been involved in a car accident and killed a pregnant woman.
+44:{character:Boo}Well? This one's scary, right? I started dreaming of red clothes whenever I closed my eyes last night!
+45:{character:Tora}I guess... this one is okay. It has a retro horror story feeling to it. But I just don't get why all female ghosts have to wear red clothes.
+50:{character:Boo}It was like... It was like someone was smashing the wall forcefully, and then I heard a man scream...
+51:{character:Tora}A scream? What did he say when he was screaming?
+52:Boo's voice trembles like he is extremely distressed, which makes me feel the most curious I've ever been in my life.
+53:{character:Boo}This man has a strong local accent. I couldn't understand what he was shouting. It just felt miserable... extremely miserable. But I think I heard him say...
+54:{character:Boo}"Don't come over here!!!"
+55:{character:Boo}I'm not sure if that's what he said exactly... The screaming continued for a while, and then the room next to me became quiet. I couldn't hear anyone speaking anymore. Tora, you know I'm a timid person. There's no way I would dare to go over to take a look, so I covered my head and waited until dawn.
+56:{character:Boo}When I walked past the room next to mine in the morning today, I saw talisman paper densely pasted on the door.
+57:{character:Tora}Talisman paper? What does it look like? Is it like the yellow paper we see in those exorcism movies?
+58:{character:Boo}I didn't dare to take a closer look. I was too scared. I quickly made my way to work without taking a closer look.
+59:After eavesdropping on their conversation, I lean over towards Ciri and start discussing things with her in a quiet voice.
+60:{character:player}Even luck is on our side! The horror stories were doing us a favor.
+61:{character:Ciri}Something feels fishy about this to me.
+64:Tora finishes off his breakfast very quickly and puts down his bowl and chopsticks after about ten minutes. Meanwhile, Boo is obviously worn out after the events of the previous night. He barely has two bites before he stands and follows Tora to cross the street and change shifts with their colleagues.
+65:Ciri and I exchange a glance. We stand up in a hurry and get Oumu to join us when we follow them. However, all three of us stop at the same time when we are about five meters away from the warehouse door. The four security guards at the warehouse door are completing the procedures to change shifts, and I don't think we can just waltz in like that.
+67:Suddenly, a miserable male voice disturbs the peaceful atmosphere of the early morning. It's so sudden that we can't even tell where it came from.
+68:Boo pauses for a moment, then he grabs Tora's hand and shouts emotionally.
+69:{character:Boo}That's him! That's him! That's the voice I heard!!! AAAHHHHH!!! Don't come over here!!!
+71:Ciri suddenly grabs my hand and takes this opportunity to sneak through the warehouse door. Oumu follows us quickly, and the three of us run behind some shelves in the corner of the warehouse to hide.
+72:Before long, the security guards outside seem to manage to calm Boo down and finish changing shifts. Through the gaps in the shelves, we vaguely see a person that looks like Tora walk over and slam the warehouse doors shut.
+73:{character:player}That miserable male voice sounds so familiar. Could it be Shijukara's voice?
+74:{character:Oumu}It should be Shijukara. Didn't the boss tell him to sow confusion for us?
+75:{character:player}Does that mean Shijukara is also responsible for terrifying that security guard called Boo last night?
+76:{character:Oumu}Now that you mention it, Shijukara did leave mysteriously with some of our brothers last night...
+77:{character:player}I didn't expect someone who looks a little slow-witted like Shijukara to be able to plan ahead like this.
+79:{character:Oumu}This is a small warehouse that has been rented out. When I staked out this place yesterday, I managed to get my hands on the floor plan from the reception.
+81:Judging from where the gate is, we should be in the southeast corner of the warehouse. The layout of the warehouse is like a big square with a smaller square inside it, and only the area in the middle is really used for storage. This area is further divided into eight spaces of varying sizes.
+83:{character:Oumu}The red-crowned cranes you're looking for should be in one of these warehouses, but I'm not sure which one is the right one.
+84:{character:Ciri}Shush-- I hear footsteps coming towards us.
+86:{character:player}Shall we observe their security patrol before deciding what to do?
+87:{character:Ciri}Yes, we'll observe their patrol patterns before taking action.
+88:We squat patiently in the corner and take our time to observe everything that's happening in the warehouse. We notice that the security guards have a fixed patrol routine and go on patrol once every half an hour. The four guards divide themselves into two groups to start patrolling in opposite directions.
+89:They will meet once near another entrance on the southwest side before they continue to move forward separately. The two people coming towards us will go around the northeast corner before disappearing from our sight...
+90:{character:Oumu}This warehouse should have four sets of doors. They probably came in from the side doors on the northeast side.
+91:After squatting for about 45 minutes, after the security guards disappear from our sight on their second patrol, Ciri and Oumu coincidentally stand up at the same time.
+92:{character:Ciri}We can start now.
+93:{character:player}Oh, okay.
+95:{character:player}Ahaha... I've been squatting for too long.
+97:{character:Ciri}It looks like I'll need to do more exercise with you later.
+98:{character:player}That's not necessary, really. My blood pressure is just a little low after squatting for so long.
+101:{character:Oumu}Pick one of them. If we're lucky, we'll find them immediately.
+102:Since they are using this place to imprison wild animals, I choose...
+103:The wild animals should be the most valuable goods of this organization, so I think they'll be kept in a more tightly-guarded warehouse.
+104:{character:player}I think it should be the electronic lock on the right.
+105:{character:Ciri}I'll agree with you then, since I don't know which one is right either.
+106:{character:Oumu}I don't mind since I'll still be picking a lock anyway.
+107:{character:player}Do you need me and Ciri to keep watch for you?
+108:{character:Oumu}No.
+109:In this short time we've been talking, I see that Oumu has already taken out a roll of transparent tape. He pulls off a piece and lightly presses it onto the number pad attached to the wall beside the door. After sweeping it back and forth with his palm a few times, he peels off the transparent tape and holds it up to the light. I can see traces of fingerprints on several numbers.
+110:{character:player}It looks like there are seven digits.
+112:{character:player}Why?
+113:{character:Oumu}If you look carefully, the fingerprint on "8" is clearer than the other ones, yet there is some overlap. Don't you think it looks like it was pressed twice in a row?
+114:{character:player}You make some sense. How can we determine the order of these numbers then?
+115:Oumu doesn't answer me. Instead, he looks at the fingerprints on the tape a few more times.
+116:{character:Oumu}I usually need to perform a few more procedures... but I don't think I need to this time because this password is a birthday.
+117:After he types something quickly on the keyboard, I hear a click that sounds like something opening. Ciri then pulls hard on the warehouse door and opens it halfway.
+118:{character:Oumu}Do you now understand why various apps don't let you use birthdays as passwords?
+119:I nod to express my understanding, but... it's really convenient to use your birthday as your password.
+121:He is munching on a chicken drumstick in his hand seriously when we enter the room. The moment he raises his head and meets our eyes, his eyes glaze over for a moment. After that, he reacts quickly, holding up the drumstick with one hand and quickly reaching for the walkie-talkie on the other side of the table with his other hand.
+123:{character:player}Do people really knock people out with a karate chop like in the movies?
+124:{character:Ciri}I don't know because I hit them with the handle of my whip.
+125:I look down at the security guard, who is now lying peacefully on the ground with his eyes closed, and the dirty drumstick that fell on the ground before it could be put away, shedding some insincere tears for them in my heart.
+126:After Oumo closes the warehouse door, he walks over and looks at the security guard on the ground.
+127:{character:Oumu}Let's finish this as soon as possible. There'll be trouble when he wakes up.
+129:When we walk in, I find that my experiences are indeed useful. There really are lots of valuable stored here.
+130:There are safes lined up in a row here. If Shijukara is here, even he would know that it's not possible to store two red-crowned cranes in here. It seems that we've entered the wrong room.
+131:{character:player}Ahaha... Let's try another door. I just knew I wouldn't be lucky enough to pick the right one on my first guess.
+132:The security guard who was eating the drumstick is still unconscious when we go back the way we came, and we walk around him to the door. Oumu quietly opens a crack in the door. After seeing that nobody is there, he motions for us to quickly slip out and run to the door locked with a chain on the left.
+133:I have the impression that both the zoo and Soul like to lock up the living areas of animals with chains, which is a traditional and strong form of lock.
+134:{character:player}Let's go this way. It looks more likely to be a place where animals would be locked up.
+135:{character:Ciri}I agree with that.
+137:Oumu takes a toolbox out of his backpack. After he opens it, I see all sorts of tools, ranging from slender steel wires to various types of screwdrivers.
+139:{character:player}The problem with this kind of lock is that once we enter this door, the security guards will definitely know it has been opened the next time they patrol this area.
+140:{character:Oumu}If that happens, there are only two possible outcomes. Either the security guard locks it again from the outside, trapping us inside, or they will notice that someone has entered the room and enter it to catch us.
+141:{character:Ciri}I prefer the second scenario because I'm confident in my fighting skills. It'll be more troublesome if we're locked inside.
+142:{character:Oumu}It won't be a big problem. Before coming here, the boss and I agreed that I'd send him a text message every half an hour. If we don't leave this place within two hours or if I don't send him a text message within half an hour, he will assume something has gone wrong and come here to save us. However...
+143:{character:player}However what?
+144:{character:Oumu}If that happens, both sides will suffer great losses. People are bound to get hurt or die in fights.
+146:{character:Ciri}Now that Soumu's got our backs, we'd better not waste any time here. Let's try to find the red-crowned cranes before we get caught.
+149:{character:Ciri}This looks like the droppings of some kind of bird, but I can't tell if it's from the red-crowned cranes.
+150:{character:player}This is a good sign. At least we have a direction now.
+151:We run towards the door on the other side. This door is also locked with a chain, which is completely ineffective to Oumu.
+152:After we enter the next room, we find ourselves in an empty room that is about 200 to 300 square meters big. The only difference is that there are two doors, one on the wall in front of us and the other on our right, and there is something that looks like the droppings we saw earlier on the floor leading to both doors.
+153:{character:player}We found this trail again, but there are two trails this time. Could this be some kind of trap?
+154:Ciri walks over and inspects them carefully.
+156:{character:Ciri}It looks like both directions may lead us to animals, but I'm not sure which direction is the right one...
+157:{character:Oumu}Time doesn't wait for anyone. Let's pick one randomly and see where it leads to.
+158:I think Oumu makes a lot of sense. We won't get anywhere just by standing here, so I choose...
+160:After we walk up to the door, we find that it isn't locked and opens with a slight push. The smell of disinfectant hits us immediately.
+161:I go inside and take a look around. There really are many birdcages inside, but they are all empty.
+162:{character:Ciri}It looks like they have just cleaned and disinfected this place after removing all the animals.
+163:We look at each other in the eyes. That means the other warehouse is the right one. Oumu rushes over and opens the lock.
+164:I look down at the two trails of droppings and suddenly have a bold thought.
+165:{character:player}It's been several days since Ciri rescued that red-crowned crane. Is it possible that they might have moved from their original location? Why don't we take a look at the right side?
+166:Oumu rushes over and opens the lock.
+168:Ciri walks over to the wall and fumbles around before finding the light switch. We are shocked by the scene in front of us after the lights are turned on. There are hundreds of different birds in cages of various sizes.
+169:{character:player}It's impossible for the three of us to save all these birds...
+170:Oumu looks at the flock of birds in front of us and frowns, then he turns to look at me.
+171:{character:Oumu}Can you find those two red-crowned cranes? Let's save our targets first.
+172:{character:player}Red-crowned cranes have very obvious characteristics... Let me see.
+173:I move quickly through the various bird cages. It looks like people don't clean them every day as the aisles between the cages are filled with feathers and droppings. This shows that these little ones are living in a terrible environment.
+174:{character:player}Ah, I found them!
+176:Just as I am about to call Ciri over, I notice that she is constantly checking the status of the other birds in various cages.
+177:{character:player}Ciri?
+178:{character:Ciri}Hmm... I don't think we should just save the two red-crowned cranes. All the lives here belong to nature and shouldn't be used as capital in human transactions.
+179:{character:player}But... if it's just the three of us...
+180:Suddenly, I remember that the police gave me a mobile number that I can use to contact them if I discover anything. Soumu warned us earlier that any rash actions we take may make the other party kill all the hostages, so I was thinking of saving the little red-crowned cranes before making a police report.
+181:It looks like I'll need to bring this plan forward now.
+182:{character:player}Ciri, I don't think the three of us can save all these birds. Even if nobody stops us, we still wouldn't be able to move them out of here.
+183:{character:player}Why don't we let the police deal with this? After all, we have sufficient evidence right now.
+184:{character:Ciri}That's what I was thinking.
+185:{character:Ciri}I should have thought of this earlier. Since this is a gang that specializes in wildlife trafficking, there's no way they would only catch a few animals, especially when they have rented such a large warehouse...
+186:{character:player}We've all been nervous these days, so nobody really thought about this carefully.
+187:{character:Ciri}Yea...
+188:Ciri suddenly falls silent. While I'm taking photos as evidence to send to the police, I look up and see her staring behind a pile of birdcages. She motions for me to be quiet just as I'm about to ask her what's wrong.
+189:{character:Ciri}Shush-- Listen carefully. Can you hear the sound of animals?
+190:{character:Oumu}Isn't this place filled with animals?
+191:{character:Ciri}No, not birds. It's the sound of beasts.
+192:{character:Ciri}...It sounds really familiar. It sounds like... a young cheetah calling for help.
+194:Ciri rushes over quickly and finds a door behind the birdcages after pushing them aside. The door is not locked and is ajar. Light fills the room after she pushes the doors open, revealing a cruel scene to us.
+195:There is a group of mammals in this warehouse. Unlike the birds outside, they seem to have been locked up here for a long time. They are so skinny that they look like skin and bones, and their fur has no luster.
+196:Ciri turns on the torch of her mobile phone and looks through the cages while searching for the origin of the sound. Eventually, she finds a thin cheetah that looks sick and in poor condition.
+197:After seeing Ciri, it raises its head and makes a few weak sounds, which are the same as the cries for help we just heard.
+198:Ciri circles around the cage, trying to find the lock to set it free. Suddenly, I hear a burst of footsteps outside and the loud shouting of security guards.
+199:Security Guard A
+200:{character:Security Guard A}There's an intruder. Everyone, come here quickly to search for them!
+201:We immediately calm down and listen carefully to the movements outside. Judging from the footsteps and voices, it seems that all four patrolling security guards are coming.
+202:Security Guard B
+203:{character:Security Guard B}Hey, this is warehouse number two. We need backup. We need backup...
+204:{character:player}Someone is calling for reinforcements. If we don't do anything, their numbers will keep increasing.
+205:Oumu glances at his mobile phone and looks at us anxiously.
+206:{character:Oumu}The boss told us to leave quickly. Several vehicles belonging to this security company are moving in this direction.
+207:{character:Oumu}Quickly! We have to leave now, or we won't be able to get away.
+208:I pull Ciri's hand and notice that she is looking at all these cages painfully.
+209:{character:Ciri}Oumu, please take {var:player_nickname} away from here first.
+210:{character:player}I disagree. It's too dangerous for you to stay here alone, Ciri.
+211:Seeing that the security guards are about to rush in, I make up my mind to ignore Ciri's objections. I forcefully grab her and start leaving.
+212:Oumu follows closely beside us, trying to convince Ciri as we try to get outside as quickly as possible.
+213:{character:Oumu}I know you feel uncomfortable about this, but we might not be able to get that cheetah outside safely even if you bring it with us now.
+214:{character:Ciri}But...
+215:{character:Oumu}Where there is life, there is hope.
+216:{character:player}Oumu, you use such classic lines when you comfort people.
+217:{character:Oumu}...You must not be very scared since you can still roast me.
+218:{character:player}I'm just pretending to be optimistic...
+219:{character:Ciri}I understand.
+220:Ciri calms down after we run outside the room with all the birds in it. I look at the door and see that the security guards seem to be outside the door. If we rush outside now, we'll definitely end up face-to-face with them.
+222:{character:Ciri}Let's hide in here first.
+223:Before I can ask her why, she runs inside, dragging me with her. As soon as the door closes, I hear the sound of the warehouse door being opened forcefully outside. I'm so scared that I don't dare to breathe. All I can do is listen quietly to what's going on outside.
+224:Security Guard C
+225:{character:Security Guard C}The door of warehouse number four has been opened. Check if any of the customer's goods are missing!
+226:{character:Security Guard C}You and you, check warehouse number five in the back. Capture any suspicious people you see and don't hold back.
+227:Ciri stealthily opens the door slightly. After seeing the security guards running into the warehouse with the birds in it, she tells us to run outside quickly.
+228:{character:Ciri}Now's our chance!
+229:We run back along the route we followed on our way inside. All the warehouse doors along the way are open, so we run to the outermost doors without any hindrance and end up face-to-face with a young security guard who is guarding the door. It is Boo, who was so scared that he couldn't get any sleep last night.
+230:When he sees us, he instinctively takes out his walkie-talkie to try to notify everyone else. Suddenly, a wooden stick hits him hard on the back of the head.
+231:*Thud!*
+232:After the young security guard falls slowly to the ground, I see Shijukara standing there behind him.
+233:Shijukara
+234:{character:Shijukara}This way. Follow me.
+235:We follow Shijukara into a van parked by the road.
+236:{character:player}Shijukara, you can't keep picking on the same poor guy like this. Look at what you've done to Boo.
+237:{character:Shijukara}You don't understand. Of course you gotta target the soft ones.
+238:{character:Shijukara}What's more, if people can keep exploiting the same group of suckers, why can't I target the same guy once or twice?
+239:I see a police car pass us as we reach an intersection.
+240:{character:Shijukara}Ah, we can relax now that the cops are here. We'll leave everything to them now.
+241:Ciri closes her eyes and leans back against her seat without saying anything. I know she is still worried about the animals back there.
+242:Shijukara leaves after taking us to Soul. Sara and Ryan have been worried, so I tell them a summary of everything that has happened recently but don't elaborate on the more dangerous parts.
+243:I stay and have dinner with everyone that night. After I have my fill of food and drink, Ryan suddenly walks next to the bonfire.
+244:Elderly Man
+245:{character:Elderly Man}Is little Ryan going to perform a magic trick for us all?
+246:Everyone
+247:{character:Everyone}Perform a trick! Perform a trick!
+248:Ryan
+249:{character:Ryan}I do have a performance for everyone, but it isn't magic. I've prepared this with some of the other children.
+250:{character:Ryan}Are you all ready to enjoy the show?
+252:Ryan wears a black cloak and starts cackling like a bad guy.
+253:A child wearing wings on his back and a red hat on his head emerges from the crowd and runs around in front of Ryan, looking like a happy and free little red-crowned crane.
+254:Ryan follows the child quietly while the child runs around. Suddenly, Ryan grabs the little red-crowned crane hard when he is off guard and locks him in a cage that Ryan has prepared in advance. The little red-crowned crane huddles in a corner of the cage and begs for mercy while Ryan laughs happily.
+255:At this time, a girl with a whip rushes over and starts fighting with Ryan without saying a word. They seem to be evenly matched, and when the fight becomes a stalemate, another child appears from the side. Unless I'm mistaken, the mask he is wearing... looks like my face.
+256:After "I" join the fight, Ryan loses to us, and the two heroes save the red-crowned crane together, winning everyone's applause.
+257:I instantly understand that the story Ryan and the other children are performing is what Ciri and I have been doing recently. After the performance ends, Ryan motions for everyone to quiet down when they are clapping and cheering, then he points at Ciri and me.
+258:{character:Ryan}Actually, it's thanks to Ciri and the world's bravest and kindest onee-sama, {var:player_nickname}, that the other children and I came up with this performance.
+259:{character:Ryan}This story is adapted from the true story of two people who bravely rescued a little red-crowned crane. I also heard that a certain lady from Countless Springs also helped out. If I had known about this in advance, I would have tagged along to see her beauty for myself.
+260:Although Ryan doesn't say it explicitly, everyone understands what he wants to say. The reason Ciri has been going to Countless Springs is to save the red-crowned crane.
+261:After understanding that they had misunderstood Ciri during this time, several people who are usually quite straightforward get up immediately and walk over to Ciri to talk to her.
+262:{character:???}Youngster, I knew I was right about you.
+263:I look up in the direction of the voice and see the elderly man who helped me with ticket inspections the other day. He should have gotten enough rest over the last few days as he looks much better now. He smiles as he talks to me and sits down slowly next to me.
+264:{character:Elderly Man}Sigh, with my old arms and legs, it's getting more and more difficult to sit on the ground.
+265:{character:player}Why don't I help you sit on the chair over there?
+266:{character:Elderly Man}No, that's not necessary. I came to talk to you on behalf of all the old people here.
+267:{character:Elderly Man}After watching Ryan's performance, we asked Sara about a few things and found out that Ciri and you have been working hard to save wild animals these days.
+268:{character:Elderly Man}When the others in the group said bad things about Ciri, I already told them that Ciri is a good child. See? I wasn't wrong, right?
+269:{character:player}Yes, you were absolutely correct!
+270:The elderly man looks at Ciri who is chatting with the others while standing on the other side and then pats me on the shoulder.
+271:{character:Elderly Man}Anyway, it's all thanks to you. Things have been hard for Ciri these last few years as she's as stubborn as a donkey. That she can talk and laugh with everyone like this proves that you've done a good job.
+272:{character:Elderly Man}Youngster, you're a little flame that lights up Soul. You don't look special, but you're the reason why Soul's bonfire burns brightly.
+273:{character:player}You're flattering me and giving me too much credit...
+274:{character:Elderly Man}Haha, you don't need to be so formal with me. Okay, Ciri is here, so I won't get in your way.
+275:The elderly man smiles and waves at someone behind me, then he stands and walks away. When I turn around, I see that Ciri is sitting down next to me.
+276:{character:Ciri}Thanks.
+277:{character:player}You're welcome. Actually, I didn't do much.
+278:{character:Ciri}No, you've done a lot... And everyone came to apologize to me for misunderstanding me earlier.
+279:{character:Ciri}Actually, they didn't need to apologize to me because this incident wasn't anyone's fault... The reason why I didn't tell them in the beginning is that I didn't want to be a burden to everyone because of something I wanted to do personally. I didn't expect to create such a big misunderstanding.
+280:{character:Ciri}I even made you all worry about me. If you didn't help out this time, this matter might have escalated so much that I can't deal with it. No matter what, I have to thank you properly and express my gratitude.
+281:I take the drink she hands me and clink glasses with her. The drink seems to be a special drink that is cool and delicious with a herbal fragrance.
+282:Suddenly, my phone starts vibrating. I look at the incoming call and see that it is the police officer I reported the crime to. Under Ciri's expectant gaze, I answer the phone.
+283:Police Officer
+284:{character:Police Officer}Is this... {var:player_nickname}?
+285:{character:player}Yes, that's me.
+286:{character:Police Officer}Okay, you can relax. I'm just calling to let you know that we've cracked down on the wildlife trafficking den that you reported. Although several people are still on the run, we've identified where they are with the clues we have, and they will all be arrested soon.
+287:{character:Police Officer}We've sealed that warehouse because it is suspected of harboring criminal evidence. All the animals inside the warehouse have been handed over to wildlife rescue agencies except for a few Tibetan foxes that were too sick and no longer had any vital signs by the time we arrived at the scene. As for the other animals... oh, those two little red-crowned cranes you specifically mentioned before are safe, so don't worry.
+288:{character:Police Officer}Oh right, we've also moved the red-crowned crane in Beryl Blue over to the rescue agencies with the other animals.
+289:The resonant voice of the police officer is loud and clear in the night, so Ciri, who is next to me, also hears everything clearly.
+290:{character:Ciri}{var:player_nickname}, can you ask about that little cheetah for me?
+291:{character:player}Excuse me, there's a young cheetah among the animals. Is it still well?
+292:{character:Police Officer}A cheetah? There are too many animals... Hold on, let me ask one of the vets of the rescue agency for you.
+293:{character:Police Officer}Hello? Are you still there?
+294:{character:player}Yes, I'm here.
+295:{character:Police Officer}I just went to check up on the cheetah with the vet. The young cheetah is a little malnourished, but it's not too serious because it was sent here in time. You don't need to worry about it. If there's nothing else, I'll be hanging up. A silk banner will be sent to your home in a few days to commend you for your contribution to One Han City.
+296:{character:player}Eh? There's even a silk banner? Can you send it to Soul instead then?
+297:{character:Police Officer}Soul... Is that the touring troupe?
+298:{character:player}Yes. I didn't do this alone. This honor belongs to everyone.
+299:{character:Police Officer}Haha, okay, I understand.
+300:After hanging up, I see Ciri next to me hugging Mojito, who had come over at some point, with a soft smile on her face. When she sees that I've hung up, she reaches out with her other arm, wraps it around my neck, and pulls my head over so that our two heads and Mojito's head are right against each other.
+301:Ciri's merry laughter tells me that she's very happy right now, even happier than when the others realized that they had misunderstood her.
+302:I grit my teeth when I look at the little cheetah's moist eyes and Ciri's firm gaze.
+303:{character:player}Oumu, can you open the cage for us?
+304:{character:Oumu}Sigh, no wonder Shijukara told me that life is filled with danger when I'm with you.
+305:After letting out another sigh, Oumu comes back to us and helps us open the cage. Then, before I can say anything else, he takes the initiative to open the remaining seven or eight cages one after another. However, the animals in these cages have been locked up for a long time and don't dare to come out.
+306:{character:player}Do they think we're with the bad guys who locked them in there?
+307:{character:Oumu}Maybe, but at least they are free now. Whether they run or stay is something beyond our control since we're also in trouble now.
+308:Ciri is momentarily stunned by our actions, as if she can't understand why we would help her. However, the footsteps that are getting closer and closer outside give us no time to explain. Ciri purses her lips and decisively places the little cheetah into my arms, then she grabs her whip and rushes forward.
+309:{character:Ciri}Follow me.
+310:Because it took a lot of time to open the locks of the cages, we run into the patrolling security guards right after we reach the entrance of the warehouse with the birds in it. Ciri pushes me gently towards Oumu.
+311:{character:Ciri}{var:player_nickname}, run.
+312:{character:player}Ciri...
+313:{character:Ciri}Trust me. I can handle this.
+314:I look at the little cheetah in my arms. Its breathing is a little weak, so the best thing I can do is to run away with it right now. Oumu is very nimble. He stretches out his leg and trips one of the security guards in front of him, then he grabs me by the collar and rushes out.
+315:Behind us, I hear the sounds of metal colliding, moaning, scolding, cursing... and the sound of a whip cracking through the air.
+316:I seem to have returned to that time at noon in the alleyway under the scorching sun when Ciri fought alone against Shijukara, but this time, she's not alone.
+317:Ciri stops fighting after we rush out of the warehouse. She shakes off the security guards and follows us. We follow Shijukara and get inside a van parked on the side of the road.
+318:I see a police car pass us as we reach an intersection.
+319:Ciri takes the little cheetah from me, then she gives Shijukara an address and tells him to take us there.
+320:Shijukara leaves after taking us to our destination - a veterinary clinic. Ciri opens the doors like she knows the place well. A glasses-wearing female vet greets us, and Ciri hands the little cheetah to her for a preliminary inspection.
+321:Vet
+322:{character:Vet}This young cheetah is experiencing some stress reactions and is malnourished. It could even have died if you didn't take it here in time.
+323:{character:Vet}We'll perform some systematic inspections and emergency treatment. You can wait outside for a while.
+324:Ciri and I sit in the reception room outside while we wait for the vet to treat the little cheetah. During this time, a nurse thoughtfully brings us some hot towels so that we can wipe away the dust and dirt covering our bodies.
+325:{character:player}Are you so worried about this little cheetah because of Mojito?
+326:Ciri first nods and then shakes her head, but does not say anything in response.
+327:After a long time, the vet comes outside and tells us that the little cheetah is fine but will need to stay in the clinic for an observation period of a few days. In front of me, Ciri becomes visibly relieved, and I see a hint of relief appear on her tired face.
+328:{character:Ciri}{var:player_nickname}, I don't know what to say in response to your question. If you're free right now, I want to take you somewhere.
+329:{character:player}Sure, I'm free at any time.
+330:I never would have expected that the place Ciri mentioned would be the street where Countless Springs is located. It seems like an important ceremony will take place here today, and both sides of the street are filled with people.
+331:{character:Ciri}Countless Springs' geisha parade will be held today, so it'll be very lively. Follow me.
+332:She takes me through various small alleys. After we make our way back to the side of the road again, I see that we're in an excellent viewing position as I can see everything on the street clearly from here.
+333:{character:Ciri}She was sitting behind the screen the entire time when we went to Countless Springs last time, so you probably couldn't see her appearance clearly. That person on the street is Kurone Toujou.
+334:I look where she is pointing and see a splendidly dressed woman walking slowly along the street, catching everyone's attention.
+335:{character:Ciri}I pretty much guessed the reason you've been following me everywhere these days. You want to know what I'm up to, right? It's most likely that you were asked to do this by someone close to you. Is it Sara, Ryan, or someone else?
+336:{character:Ciri}Haha, don't be nervous. I wouldn't have brought you here if I was bothered by this.
+337:{character:player}Then the reason you've brought me here is...
+338:{character:Ciri}I guess I want to clear up your confusion. We've been through a lot these days, so I think I can tell you some things about myself.
+339:{character:Ciri}The thing is, I was raised by tigers and lived in the jungle until I was eight years old. Sid found me and brought me back to human society.
+340:{character:Ciri}But, deep in my heart, I've always considered beasts to be part of my family.
+341:{character:Ciri}That's why I often go camping in the jungle when I'm not performing to live together with them for a while. It's precisely because of this habit that I learned about the existence of poachers.
+342:{character:Ciri}I've been fighting against various poachers all these years, but I don't have the power to stop many tragedies from happening.
+343:{character:player}Ciri, you've already done very well.
+344:{character:Ciri}No, it's not enough. I couldn't protect my family in Soul when it broke apart, and I haven't been able to protect those innocent animals.
+345:Having said this, Ciri looks at Kurone Toujou on the street.
+347:{character:player}Um... she's a luxurious, elegant, and beautiful person.
+348:Ciri nods in agreement with my words.
+349:{character:Ciri}That's what I think about Kurone Toujou too, but...
+350:{character:Ciri}Whenever I make contact with her, I can sense the aura of a powerful beast on her. That aura is savage, mighty, and powerful...
+351:{character:player}That feeling doesn't seem very compatible with Kurone Toujou's appearance.
+353:After saying all this, she smiles at me.
+354:{character:Ciri}Okay, you know all my secrets now. Can you make this our secret and not tell anyone else about this?
+355:{character:player}Not even the people of Soul, right?
+356:{character:Ciri}Yes. Taking this red-crowned crane incident as an example, the things I want to do will definitely be dangerous. If the other members of Soul find out, I'll only put them in danger too.
+357:I know what she's worried about, but I don't think she's right.
+358:{character:player}Ciri, I don't think you need to shoulder this burden alone. You still have me.
+359:Ciri looks at me for a long time after hearing what I said, then she mumbles something.
+360:{character:Ciri}Maybe you're right. At least my experiences over the last few days are telling me that it's quite nice to have a companion.
+361:Suddenly, my phone starts vibrating. I look at the incoming call and see that it is the police officer I reported the crime to.
+362:{character:Police Officer}Oh right, we've also moved the red-crowned crane in Beryl Blue over to the rescue agencies with the other animals. If there's nothing else, I'll be hanging up. A silk banner will be sent to your home in a few days to commend you for your contribution to One Han City.
+363:After hanging up, Ciri gives me a confused look, and I relay the conversation in the phone call to her.
+364:Ciri covers her eyes with her hands and leans on the wall behind her. I can't see her expression, but I can tell she is happy from the raised corners of her mouth.
+365:After a while, Ciri controls her emotions and reaches out to me with a bright and sincere smile.
+366:{character:Ciri}{var:player_nickname}, I'm glad to be your companion.
+367:
+368:Choose the right side
+369:Choose the left side
+371:He picks up two slender steel wires and inserts them into the keyhole, unlocking the lock after fiddling around with them a few times. Oumu catches the slipping chain quickly with lightning-fast reflexes so that it doesn't fall onto the ground and attract the security guards.
+373:Choose the semi-dry trail on the right
+374:Drag Ciri away and leave everything to the police
+375:Help Ciri save the little cheetah and then break out of the enclosure
+377:{character:Ciri}The room over there.
+378:{character:Ciri}{var:player_nickname}, what kind of person do you think Kurone Toujou is?
+379:
+380:{character:Ciri}I wonder how his preparations went.
+381:{character:???}Chef, two large bowls of wontons with extra cilantro.
+382:{character:Boo}Last night, a group of brats appeared from nowhere and just had to play a spirit-summoning game in the room next to me in the middle of the night. They then told ghost stories there all night long.
+383:{character:Tora}You... You know the details so well that it's almost as if you were playing with them.
+384:Tora at the table next to me just said what I was thinking. When I heard Boo start telling ghost stories, I also become interested. Ciri looks at me and seems to realize something. She smiles and shakes her head, but she also puts down the spoon in her hand and starts to observe the table next to us.
+386:{character:Boo}Out of curiosity, Marie asked him what he was doing. However, she didn't expect Jack to mysteriously pull her to the balcony and whisper to her...
+387:{character:Boo}A few days later, Marie reheats Jack's dinner for him because he comes home late, but his meal is getting cold again, and he still hasn't come to the dining room.
+388:{character:Boo}At night, after Marie sees off everyone who had come to express their condolences, she walks to the balcony of the bedroom and looks down. She sees a woman in red clothes with a child in her arms standing in the open space downstairs, and Jack is standing next to her. Jack waves at Marie and says, "Marie, come... come join us..."
+389:{character:Boo}Tora, I won't talk to you anymore if you keep saying things like that. I'm scared to death here, and you're just picking on me.
+390:{character:Tora}Hey, I just wanted to divert your attention. So you were scared by this?
+391:{character:Boo}No, something scarier happens after that. They tell another seven or eight ghost stories like that, then suddenly... it becomes completely silent in the room next door...
+392:{character:Boo}Out of curiosity, I put my ear against the wall to listen carefully. It is so quiet on the other side that it seems like everyone had disappeared into thin air. Just as I was about to go back to bed, I heard several loud banging sounds.
+393:{character:Oumu}It should be the patrolling security guards.
+394:Ciri helps me stand, then she pats my shoulder and says something sincerely.
+396:After walking out from behind the shelves, we arrive at the storage area in the middle. There are two doors really close to us. The warehouse door on our left is slightly closer to us, and it is locked with a chain that has been wrapped twice around a steel door bolt. This form of defense is solid and down-to-earth. The warehouse door on our right is slightly further away from us. It is installed with an electronic code lock, and this warehouse looks like a place where valuables are stored.
+398:{character:player}Please don't make something so terrible sound so commonplace.
+399:{character:player}Well, if we can complete our mission before we're discovered, we can avoid having any direct conflicts.
+400:The scene that greets me after I push open the doors and enter the room is not what I expected. I quickly estimate that the empty room has an area of around 200 square meters, and there's a door on the wall opposite us. On the floor are some marks leading to the door. Ciri kneels down to check this out.
+401:{character:Ciri}This shouldn't be a trap. The droppings are darker on one side. Judging from the dryness, these droppings have been here for longer. The droppings on the other side are still semi-dry, so they should be relatively fresh.
+402:Choose the dry trail on the left
+403:{character:player}Let's try the left side. Judging from when Ciri found the injured red-crowned crane, if it was imprisoned at that time, the droppings it left when it was transported must have dried by now.
+404:I open the doors and find that it is completely dark inside. Before my eyes can adjust to the darkness, the smell of bird feathers mixed with droppings assaults my senses. After Oumu turns on the torch of his mobile phone and waves it around a few times in this room, the originally quiet warehouse is filled with the sound of chirping birds and wings flapping violently against cages.
+405:In a large cage on the inner side, I see two particularly conspicuous blots of red. I walk over and see that there are many birds inside this cage. Most of them have tattered wings, and two red-crowned cranes are among them.
+406:I hold my breath and listen carefully. Sure enough, amid the chirping of birds and flapping of wings, I hear some subtle cat-like calls.
+409:Everyone is naturally happy to watch a performance. They clap and ask them to start sooner. Even I sit up straight and look at them expectantly.
+411:{character:???}Don't come over here!!!{var:ShakeScene}
+412:{character:Oumu}This type of lock usually requires an eight-digit password. It looks like the number "8" appears twice in this password.
+413:{character:player}What do you mean?
+414:{character:Ciri}Well... I think it's too much of a coincidence.
+415:The two security guards who are changing shifts with them obviously have no idea about what's going on. To prevent Boo's strange behavior from attracting an audience, they quickly take Boo behind the shrubs next to the door with Tora, leaving the warehouse door half open and completely defenseless in front of us.
+416:I take a look at the warehouse while I talk. The incandescent lamp on the ceiling looks old. The lighting isn't very bright, but it doesn't stop us from seeing the general layout clearly. This warehouse doesn't have an open layout that allows people to see where goods are stored clearly. There is even a wall close to us.
+417:As he speaks, he pulls out a floor plan from his backpack and hands it to us. In the dim lighting, we confirm where we are first.
+418:The layout of the warehouse is like a big square with a smaller square inside it, and the outer layer we're in is a corridor between the two squares that connects different warehouse doors. The corners are also used to store miscellaneous items and unimportant goods.
+419:After hearing Ciri's words, I stand up quickly and intend to follow them. To my surprise, I black out momentarily right after I stand up and almost fall over. Fortunately, Ciri manages to catch me in time.
+420:In One Han City, the number of people who want to take me hiking, to the beach, and to training camps is large enough to form a team, which really makes me feel the goodwill of this city. However, I turn down Ciri's kind offer so that I don't end up exercising 24 hours a day.
+421:We are dumbfounded as soon as we enter the warehouse. Who would have imagined that the goods stored in this warehouse would be so valuable... There's another door in this warehouse, as well as another security guard who is sitting behind the desk at the door.
+422:Ciri reacts quickly, dashing forward with quick steps to strike him with a blow as fast as the wind. After the security guard falls over, she kindly cushions his head with her foot before it hits the ground.
+423:As he speaks, he searches the security guard and finds an access card. He then walks to the door behind the desk and swipes the access control system on the wall next to him. The door opens with a click.
+424:{character:Ciri}It is quite contradictory, right? But my intuition is never wrong, which is why I've been going to Countless Springs to get close to her. Beasts should act together with beasts, right?

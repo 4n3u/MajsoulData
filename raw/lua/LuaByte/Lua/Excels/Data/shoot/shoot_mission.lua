@@ -1,0 +1,1 @@
+local a=require("ExcelTool")local b=a.Pack;local c=a.Sub;local d=a.PackGet;local e=a.Dmap;local f={["group_id"]=1,["level"]=2,["enemy_group_id"]=3}local g={101,nil,nil}local h=function(i,j)return d(i,j,f,g)end;local k={}k[101]={b({false,1011,1011},h),b({false,1012,1012},h),b({false,1013,1013},h)}return{tb=k}

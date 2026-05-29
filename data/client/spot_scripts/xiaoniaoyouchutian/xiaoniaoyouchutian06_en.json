@@ -1,0 +1,918 @@
+[
+  {
+    "line": 14,
+    "text": "player"
+  },
+  {
+    "line": 954,
+    "text": "Capturing the Moment"
+  },
+  {
+    "line": 955,
+    "text": "Today, I'm meeting up with Hinata Takanashi after receiving a request from her in a private message."
+  },
+  {
+    "line": 956,
+    "text": "\"There's something very important that I'd like us to do together...\" What could she mean?"
+  },
+  {
+    "line": 957,
+    "text": "Hinata Takanashi"
+  },
+  {
+    "line": 958,
+    "text": "Oh, {var:player_nickname}! Over here!"
+  },
+  {
+    "line": 960,
+    "text": "Good morning, Hinata!"
+  },
+  {
+    "line": 962,
+    "text": "I hope I didn't keep you waiting."
+  },
+  {
+    "line": 963,
+    "text": "Morning, {var:player_nickname}! Thanks for coming to meet me!"
+  },
+  {
+    "line": 964,
+    "text": "I only just got here myself. You're right on time, {var:player_nickname}!"
+  },
+  {
+    "line": 965,
+    "text": "I hope you're ready for an exciting day."
+  },
+  {
+    "line": 966,
+    "text": "Speaking of which... check it out!"
+  },
+  {
+    "line": 967,
+    "text": "Ta-da!"
+  },
+  {
+    "line": 968,
+    "text": "This is my new photo album! Isn't it cute?"
+  },
+  {
+    "line": 969,
+    "text": "And for today's activity... I especially brought the camera my grandma gave me!"
+  },
+  {
+    "line": 970,
+    "text": "You mean, the activity you wanted us to do together... is to take photos?"
+  },
+  {
+    "line": 971,
+    "text": "Hehe, to be precise... It's to take a photo of us together!"
+  },
+  {
+    "line": 972,
+    "text": "Remember the photos you took with the plants at my house before?//nI really liked them... but by the time I got them developed, there wasn't any space left in my photo album."
+  },
+  {
+    "line": 973,
+    "text": "I want to share the space in this new album with you and use it to preserve even more memories of our times together."
+  },
+  {
+    "line": 974,
+    "text": "{var:player_nickname}, would you help me get the perfect photo of the two of us to use as the cover image for this album?"
+  },
+  {
+    "line": 975,
+    "text": "Of course!"
+  },
+  {
+    "line": 976,
+    "text": "Great! Shall we try taking our first photo then? Here, let's face the camera..."
+  },
+  {
+    "line": 977,
+    "text": "Our journey to take the perfect photo together begins with this first snap in a park she often visited as a child."
+  },
+  {
+    "line": 978,
+    "text": "In a narrow alley packed with flower shops, we strike all sorts of poses at the various storefronts, experimenting with novel compositions."
+  },
+  {
+    "line": 979,
+    "text": "Inside a diorama shop currently trending on CatChat, we huddle close together, holding our breath as we focus on a flower the size of a fingernail."
+  },
+  {
+    "line": 980,
+    "text": "Before we know it, the afternoon has already flown by..."
+  },
+  {
+    "line": 981,
+    "text": "This one seems pretty good..."
+  },
+  {
+    "line": 982,
+    "text": "That one looks pretty good, too."
+  },
+  {
+    "line": 983,
+    "text": "The test shots we took on my phone look quite nice composition-wise... I'm getting more and more excited to see how they'll turn out on film."
+  },
+  {
+    "line": 984,
+    "text": "Hmm, it's tough to pick a favorite. They're all good pictures..."
+  },
+  {
+    "line": 985,
+    "text": "But the perfect photo should make us think \"That's the one!\" the moment we look at it – meaning it should have jumped out at us right away. Instead, we can't pick one at all..."
+  },
+  {
+    "line": 986,
+    "text": "So... let's keep going! We'll switch locations until we take a photo worthy of being called the perfect photo!"
+  },
+  {
+    "line": 987,
+    "text": "Sounds good.//nBut haven't we already been to all the places you originally planned to go to?"
+  },
+  {
+    "line": 988,
+    "text": "Oh, how silly of me – I should have planned for more!"
+  },
+  {
+    "line": 989,
+    "text": "Where else can we take a photo together...?"
+  },
+  {
+    "line": 990,
+    "text": "Since we can't think of anything right now..."
+  },
+  {
+    "line": 991,
+    "text": "Why don't we forget about the photo criteria for the time being?"
+  },
+  {
+    "line": 992,
+    "text": "Eh? But... we haven't taken the perfect photo yet."
+  },
+  {
+    "line": 993,
+    "text": "Maybe you didn't notice, but all those good photos were taken when we were having a great time..."
+  },
+  {
+    "line": 994,
+    "text": "I could be wrong, but maybe \"good photos\" go hand-in-hand with \"good feelings.\""
+  },
+  {
+    "line": 995,
+    "text": "So, why don't we put those complicated notions to the side?"
+  },
+  {
+    "line": 996,
+    "text": "The key is to relax and be fully in the moment."
+  },
+  {
+    "line": 997,
+    "text": "I see... Maybe it is better if our minds are totally blank for the photos!"
+  },
+  {
+    "line": 998,
+    "text": "That's... not quite what I meant..."
+  },
+  {
+    "line": 999,
+    "text": "Ahaha... I guess I don't really get it..."
+  },
+  {
+    "line": 1000,
+    "text": "{var:player_nickname}, why don't you decide where we go next? I'm sure I'll like wherever you pick!"
+  },
+  {
+    "line": 1001,
+    "text": "So... The best photo isn't about whether the shooting criteria are met, but whether we're fully immersed in the scene itself?"
+  },
+  {
+    "line": 1002,
+    "text": "That's right. Our photos will feel more genuine if we let go of that \"professional\" mindset."
+  },
+  {
+    "line": 1003,
+    "text": "Then let's go somewhere we feel like having fun! Any suggestions, {var:player_nickname}?"
+  },
+  {
+    "line": 1004,
+    "text": "Mahjong Soul Shrine"
+  },
+  {
+    "line": 1005,
+    "text": "The gardening club"
+  },
+  {
+    "line": 1006,
+    "text": "If it's an activity we both enjoy... then how about Mahjong Soul Shrine?"
+  },
+  {
+    "line": 1007,
+    "text": "Good thinking! All the photos we took before were more focused on everyday moments..."
+  },
+  {
+    "line": 1008,
+    "text": "But the vibe in the shrine is totally different, maybe we really could capture something special there! Let's go!"
+  },
+  {
+    "line": 1009,
+    "text": "We went to a lot of places before, but I think... your favorite place of all is probably the gardening club."
+  },
+  {
+    "line": 1010,
+    "text": "I bet it's only when you're with the plants there that you really, truly relax."
+  },
+  {
+    "line": 1011,
+    "text": "Hehe, am I that easy to read? I was worried that you'd get bored if we just stayed there the whole time..."
+  },
+  {
+    "line": 1012,
+    "text": "Let's go back to the gardening club then! We'll take a photo there... the perfect photo that only the two of us could capture!"
+  },
+  {
+    "line": 1013,
+    "text": "We're baaack!"
+  },
+  {
+    "line": 1014,
+    "text": "Inside the Gardening Club, National University of Fuuchi"
+  },
+  {
+    "line": 1015,
+    "text": "(Breathes deeply)"
+  },
+  {
+    "line": 1016,
+    "text": "Yeah, the air in the gardening club sure is relaxing! Wanna give it a try, {var:player_nickname}?"
+  },
+  {
+    "line": 1017,
+    "text": "Close your eyes and breathe in"
+  },
+  {
+    "line": 1018,
+    "text": "The scent of earth and plants fills the air. I close my eyes and draw a deep breath."
+  },
+  {
+    "line": 1019,
+    "text": "However, the tranquility I was anticipating is short-lived. A warmth suddenly brushes by my cheek followed by a faint clicking sound."
+  },
+  {
+    "line": 1020,
+    "text": "Hehe, got it! You had such a calm expression on your face there, {var:player_nickname}. I felt like we were both in the zone!"
+  },
+  {
+    "line": 1021,
+    "text": "...Just what kind of photo did she take with me when my eyes were shut?"
+  },
+  {
+    "line": 1022,
+    "text": "Before I can come up with an answer, Hinata excitedly turns on her camera, adjusts a few settings, and then points the lens down at the ground beneath the leaves."
+  },
+  {
+    "line": 1023,
+    "text": "Ah, the sunlight is lovely today! The way it's shining through the leaves and dappling the ground is so pretty."
+  },
+  {
+    "line": 1024,
+    "text": "I couldn't possibly waste such a good opportunity to photograph the plants! Okay, first up is the sunflowers..."
+  },
+  {
+    "line": 1025,
+    "text": "Then the little potted plants on the windowsill..."
+  },
+  {
+    "line": 1026,
+    "text": "Gosh, they're all so photogenic... Who should I take a photo of next...?"
+  },
+  {
+    "line": 1027,
+    "text": "Oh, {var:player_nickname}...!"
+  },
+  {
+    "line": 1028,
+    "text": "Did you find a nice angle?"
+  },
+  {
+    "line": 1029,
+    "text": "Am I in the way of the light?"
+  },
+  {
+    "line": 1030,
+    "text": "I sure did! This angle and lighting are perfect! Don't move a muscle, {var:player_nickname}!"
+  },
+  {
+    "line": 1031,
+    "text": "Not at all, you're in just the right spot... Hold that pose for me, please... and stay completely still."
+  },
+  {
+    "line": 1032,
+    "text": "And I'm going to come in a little closer... Okay, I'm pressing the shutter button now!"
+  },
+  {
+    "line": 1033,
+    "text": "(Click)"
+  },
+  {
+    "line": 1034,
+    "text": "...Finally, we got it!"
+  },
+  {
+    "line": 1035,
+    "text": "Amazing! {var:player_nickname}, this is the perfect photo I wanted to take!"
+  },
+  {
+    "line": 1036,
+    "text": "I'm curious to see what side of me you captured in the photo."
+  },
+  {
+    "line": 1037,
+    "text": "I can't show you yet!"
+  },
+  {
+    "line": 1038,
+    "text": "Very mysterious... I wasn't making a weird face, was I?"
+  },
+  {
+    "line": 1039,
+    "text": "Of course not. The lighting, the composition, and your expression all looked great!"
+  },
+  {
+    "line": 1040,
+    "text": "Let's get going. We got a great photo, so let's have some lunch!"
+  },
+  {
+    "line": 1041,
+    "text": "I brought a lunch basket – let's find somewhere nearby to have a picnic!"
+  },
+  {
+    "line": 1042,
+    "text": "Can't we just eat here? I can't walk another step..."
+  },
+  {
+    "line": 1043,
+    "text": "I still have a walk in me! Let's go!"
+  },
+  {
+    "line": 1044,
+    "text": "Hehe! We're going on a picnic! There's still plenty more fun we can have before the day's over!"
+  },
+  {
+    "line": 1045,
+    "text": "That lawn's always so busy at lunchtime, let's..."
+  },
+  {
+    "line": 1046,
+    "text": "...Huh?"
+  },
+  {
+    "line": 1047,
+    "text": "It's suddenly getting really cloudy..."
+  },
+  {
+    "line": 1048,
+    "text": "Oh no, it's starting to rain! Come on, Hinata! Let's find shelter!"
+  },
+  {
+    "line": 1049,
+    "text": "It was a clear, sunny day just a moment ago, how could it..."
+  },
+  {
+    "line": 1050,
+    "text": "Eek! The rain is getting bigger...! This is bad, I can't let my camera get wet...!"
+  },
+  {
+    "line": 1051,
+    "text": "Here, get under my coat!"
+  },
+  {
+    "line": 1052,
+    "text": "Oh... Thank you, {var:player_nickname}...!"
+  },
+  {
+    "line": 1053,
+    "text": "Hinata ducks under my coat. It isn't big enough to fully cover the two of us, so all we can do is squeeze close together."
+  },
+  {
+    "line": 1054,
+    "text": "{var:player_nickname}, come closer!"
+  },
+  {
+    "line": 1055,
+    "text": "Careful, don't get caught in the rain!"
+  },
+  {
+    "line": 1056,
+    "text": "I'm okay... Huh?! {var:player_nickname}, watch out!"
+  },
+  {
+    "line": 1057,
+    "text": "What's with this wind?!"
+  },
+  {
+    "line": 1058,
+    "text": "It's blowing the rain in...!"
+  },
+  {
+    "line": 1059,
+    "text": "We can take cover from the rain under those eaves! Let's hurry!"
+  },
+  {
+    "line": 1060,
+    "text": "Rain pours down as turbulent winds whip raindrops at us from all directions."
+  },
+  {
+    "line": 1061,
+    "text": "Under my coat, I hear Hinata's breathing turn uneven."
+  },
+  {
+    "line": 1062,
+    "text": "I can barely keep my eyes open. My vision blurs, but Hinata's warmth beside me is enough to guide me as I make for the shelter of the eaves."
+  },
+  {
+    "line": 1063,
+    "text": "What a big storm... Phew... I should have checked the weather forecast..."
+  },
+  {
+    "line": 1064,
+    "text": "It's okay. Are you alright?"
+  },
+  {
+    "line": 1065,
+    "text": "Good thing we got the perfect photo already."
+  },
+  {
+    "line": 1066,
+    "text": "Yes, I'm fine...! What about you? You'd better dry off before you catch cold."
+  },
+  {
+    "line": 1067,
+    "text": "Don't worry, I'm fine. What about your camera?"
+  },
+  {
+    "line": 1068,
+    "text": "Oh, my camera...! It should be fine, right?!"
+  },
+  {
+    "line": 1069,
+    "text": "I'm not so sure..."
+  },
+  {
+    "line": 1070,
+    "text": "Oh no... With all that rain, if the film roll got wet...!"
+  },
+  {
+    "line": 1071,
+    "text": "...Some water got in."
+  },
+  {
+    "line": 1072,
+    "text": "This is bad... What do we do now, {var:player_nickname}...?"
+  },
+  {
+    "line": 1073,
+    "text": "All our photos were in there... No..."
+  },
+  {
+    "line": 1074,
+    "text": "Hinata... Hinata?"
+  },
+  {
+    "line": 1075,
+    "text": "{var:player_nickname}... What is it?"
+  },
+  {
+    "line": 1076,
+    "text": "Even if water got in, some of the photos may still be salvageable... As soon as the rain stops, let's take the film to a specialist. There may only be a small chance... but it's still worth trying."
+  },
+  {
+    "line": 1077,
+    "text": "...You're right!"
+  },
+  {
+    "line": 1078,
+    "text": "Early autumn rains often clear up as quickly as they begin – within an hour, the rain has stopped."
+  },
+  {
+    "line": 1079,
+    "text": "Photo Lab"
+  },
+  {
+    "line": 1080,
+    "text": "{var:player_nickname}, I'm back."
+  },
+  {
+    "line": 1081,
+    "text": "How's the film?"
+  },
+  {
+    "line": 1082,
+    "text": "The clerk said so much water got in that the film is all stuck together and the emulsion is peeling off... They can't be developed. Not even our perfect photo."
+  },
+  {
+    "line": 1083,
+    "text": "Then... what do you have in that bag?"
+  },
+  {
+    "line": 1084,
+    "text": "This is the only one left. I accidentally hit the shutter while we were trying to get out of the rain..."
+  },
+  {
+    "line": 1085,
+    "text": "The photo is blurred and badly water-damaged, but I can still see Hinata gripping my hand tightly as she pulls me through the hazy curtain of rain."
+  },
+  {
+    "line": 1086,
+    "text": "The composition is a mess, it's dark, blurry, and you can barely make out our faces... This definitely can't be the cover photo for our album."
+  },
+  {
+    "line": 1087,
+    "text": "I disagree."
+  },
+  {
+    "line": 1088,
+    "text": "I think it's just the opposite – this photo is unique, and special too."
+  },
+  {
+    "line": 1089,
+    "text": "...Huh?"
+  },
+  {
+    "line": 1090,
+    "text": "It's blurry, yet you can clearly see how tightly our hands are clasped together."
+  },
+  {
+    "line": 1091,
+    "text": "Eh? I didn't even notice..."
+  },
+  {
+    "line": 1092,
+    "text": "At the time... I was just trying to keep you from getting rained on..."
+  },
+  {
+    "line": 1093,
+    "text": "To me, the way you held my hand so tightly in the rain was your way of protecting my feelings."
+  },
+  {
+    "line": 1094,
+    "text": "How strange. I didn't think this was a good photo before..."
+  },
+  {
+    "line": 1095,
+    "text": "But after what you've said... even though it's not quite what I was looking for, maybe it's not so bad after all."
+  },
+  {
+    "line": 1096,
+    "text": "Looking at this photo really does take me straight back to that heavy rain – to the feeling of running for shelter with you..."
+  },
+  {
+    "line": 1097,
+    "text": "...As well as the pitter-patter of the rain on your coat over our heads... our ragged breathing... and how my heart felt like it was pounding out of my chest."
+  },
+  {
+    "line": 1098,
+    "text": "Photographs are carriers of memories. When I look at this picture, I can remember exactly how I was feeling at the time it was taken. Doesn't that meet the criteria?"
+  },
+  {
+    "line": 1099,
+    "text": "Hinata doesn't answer immediately. Instead, she looks down and fixes her eyes on the blurry photo, then nods."
+  },
+  {
+    "line": 1100,
+    "text": "{var:player_nickname}."
+  },
+  {
+    "line": 1101,
+    "text": "Can we... retake our photo together another time?"
+  },
+  {
+    "line": 1102,
+    "text": "Of course."
+  },
+  {
+    "line": 1103,
+    "text": "Mm. I'll treasure every second as I capture all the moments you and I share together."
+  },
+  {
+    "line": 1104,
+    "text": "This may be the only photo left from this shoot, but next time... I promise I'll keep our memories safe!"
+  },
+  {
+    "line": 1105,
+    "text": "You mean you want to take the \"perfect photo\" again?"
+  },
+  {
+    "line": 1106,
+    "text": "Actually, I just realized that as long as we're together, every photo holds a precious memory..."
+  },
+  {
+    "line": 1107,
+    "text": "Perhaps every photo we take together will be the \"perfect photo\" in my heart."
+  },
+  {
+    "line": 1108,
+    "text": "Just a moment ago, you were agonizing over every flaw in that photo of us holding hands..."
+  },
+  {
+    "line": 1109,
+    "text": "Hey...! It's just that... I was being a little too greedy before."
+  },
+  {
+    "line": 1110,
+    "text": "I used to think that for a photo to bring back memories, it needed the perfect setting, composition, and lighting..."
+  },
+  {
+    "line": 1111,
+    "text": "But today I learned that none of that was necessary to begin with... To capture an unforgettable memory, all I had to do was press the shutter in that exact moment..."
+  },
+  {
+    "line": 1112,
+    "text": "{var:player_nickname}! Can we... make a promise?"
+  },
+  {
+    "line": 1113,
+    "text": "A promise...?"
+  },
+  {
+    "line": 1114,
+    "text": "Yes... That from this day on, no matter what happens – rain or shine, whatever we may be doing..."
+  },
+  {
+    "line": 1115,
+    "text": "...You'll hold my hand like you did today, and that we'll share all those unforgettable moments together?"
+  },
+  {
+    "line": 1116,
+    "text": "Alright."
+  },
+  {
+    "line": 1117,
+    "text": "Hehe, it's a promise then!"
+  },
+  {
+    "line": 1118,
+    "text": "No matter what happens in the future, I won't let go of your hand, {var:player_nickname}!"
+  },
+  {
+    "line": 1119,
+    "text": "Pinky promise!"
+  },
+  {
+    "line": 1120,
+    "text": "Pinky promise!"
+  },
+  {
+    "line": 1121,
+    "text": "If you break your promise... you have to help me loosen the soil, water the plants, and put all the potted plants out in the sun! And on top of that..."
+  },
+  {
+    "line": 1122,
+    "text": "...Wait, there's even more?!"
+  },
+  {
+    "line": 1123,
+    "text": "A few months later"
+  },
+  {
+    "line": 1124,
+    "text": "Ever since that storm, taking photos has taken on a slightly different meaning for the two of us.//nIt's no longer an activity that has to be meticulously planned; instead, it's become one of those small, natural moments in life."
+  },
+  {
+    "line": 1125,
+    "text": "Just like now..."
+  },
+  {
+    "line": 1126,
+    "text": "{var:player_nickname}... Don't move!"
+  },
+  {
+    "line": 1127,
+    "text": "Sure. Did you want to take a photo?"
+  },
+  {
+    "line": 1128,
+    "text": "Correct! I've found a great shot, so stay perfectly still, {var:player_nickname}!"
+  },
+  {
+    "line": 1129,
+    "text": "You look great, {var:player_nickname}! Hehe."
+  },
+  {
+    "line": 1130,
+    "text": "Her finger hovers over the shutter button as golden light cascades through the branches above her head. Time seems to slow down as the light lingers at the ends of her hair, with only the wind rustling through the leaves and our quiet breaths breaking the silence."
+  },
+  {
+    "line": 1131,
+    "text": "This is the one! With this shot, we have a perfect ending to today's field trip!"
+  },
+  {
+    "line": 1132,
+    "text": "Since we agreed that this photo album is for the two of us to share, shouldn't you let me see the photo this time?"
+  },
+  {
+    "line": 1133,
+    "text": "Nope, it's a secret! If you want a sweet result, you'll have to be patient and wait for it to ripen!"
+  },
+  {
+    "line": 1134,
+    "text": "The screen has merely captured the image, but... that sensation that makes your heart skip a beat..."
+  },
+  {
+    "line": 1135,
+    "text": "...will have to wait until we can sit down on a bench to go through the photo album together."
+  },
+  {
+    "line": 1136,
+    "text": "I have no idea what kind of photo Hinata just took, but seeing the corners of her mouth lift with satisfaction..."
+  },
+  {
+    "line": 1137,
+    "text": "I know that once the picture is developed, I'll remember today's sunlight, the green leaves, and her smile all over again."
+  },
+  {
+    "line": 1138,
+    "text": "Hehe! After a Kan!"
+  },
+  {
+    "line": 1139,
+    "text": "Mahjong Soul Shrine"
+  },
+  {
+    "line": 1140,
+    "text": "Ichihime"
+  },
+  {
+    "line": 1141,
+    "text": "I can't believe you won with such a tricky play, nyaa!"
+  },
+  {
+    "line": 1142,
+    "text": "Wanjirou"
+  },
+  {
+    "line": 1143,
+    "text": "Even a pro like me can have an off day, woof..."
+  },
+  {
+    "line": 1144,
+    "text": "You're on fire today, Hinata...!"
+  },
+  {
+    "line": 1145,
+    "text": "I was all fired up to take photos today, but I channeled that energy into playing mahjong instead – it only makes sense that I'm on a roll!"
+  },
+  {
+    "line": 1146,
+    "text": "I get it, nyaa! It's like when you have no snacks to eat or nobody to play mahjong with, so you end up wanting to scratch the floor and squish every cardboard box in sight, nyaa!"
+  },
+  {
+    "line": 1147,
+    "text": "Pretty sure that's just a you thing, woof... You know, it's a good thing you two came here when you did. If you'd gotten caught in that storm, you definitely would've caught a cold."
+  },
+  {
+    "line": 1148,
+    "text": "True. That was some good foresight on your part, {var:player_nickname}!"
+  },
+  {
+    "line": 1149,
+    "text": "What about our perfect photo...?"
+  },
+  {
+    "line": 1150,
+    "text": "It's raining now, so we'll just have to do it another time... But we can treat this as the start of a whole new memory and take a photo to remember it by!"
+  },
+  {
+    "line": 1151,
+    "text": "That sounds pretty good, too!"
+  },
+  {
+    "line": 1152,
+    "text": "Since there are four of us here in the mahjong room, why don't Ichihime and Wanjirou take a photo with us?"
+  },
+  {
+    "line": 1153,
+    "text": "We're taking a photo, nyaa? Then I want to be right in the middle of it, nyaa!"
+  },
+  {
+    "line": 1154,
+    "text": "When it comes to this handsome face, remember to capture my cool, yet approachable side, woof."
+  },
+  {
+    "line": 1155,
+    "text": "It's not the photo I was imagining, but everyone looks so happy in it."
+  },
+  {
+    "line": 1156,
+    "text": "That's the end of this roll of film... And here I thought the \"perfect photo\" would be on it."
+  },
+  {
+    "line": 1157,
+    "text": "Hinata..."
+  },
+  {
+    "line": 1158,
+    "text": "I actually had a great day today! You and I went to so many different places, we got to play mahjong together, and we snapped such a lively group photo!"
+  },
+  {
+    "line": 1159,
+    "text": "{var:player_nickname}, we'll definitely capture it the next time we get together!"
+  },
+  {
+    "line": 1160,
+    "text": "We'll keep taking photos together until you get the perfect one!"
+  },
+  {
+    "line": 1161,
+    "text": "Hearing you say that makes me even more motivated, {var:player_nickname}! I'm going to plan an amazing outing for us next time!"
+  },
+  {
+    "line": 1162,
+    "text": "I'll be sure to pick a day with better weather and a better place... so that nothing could go wrong when I invite you!"
+  },
+  {
+    "line": 1163,
+    "text": "But days when nothing could go wrong are hard to come by. Looks like the cover of the new photo album will remain empty for a long time to come."
+  },
+  {
+    "line": 1164,
+    "text": "Only the undeveloped roll of film in the camera captured this slightly damp afternoon."
+  },
+  {
+    "line": 1165,
+    "text": "Phew, I'm stuffed... How did it taste, {var:player_nickname}...?"
+  },
+  {
+    "line": 1166,
+    "text": "I want more!"
+  },
+  {
+    "line": 1167,
+    "text": "I accidentally ate too much..."
+  },
+  {
+    "line": 1168,
+    "text": "Have you had enough rest, Hinata? Shall we go to a new place and take another photo?"
+  },
+  {
+    "line": 1169,
+    "text": "Oh... um..."
+  },
+  {
+    "line": 1170,
+    "text": "Actually... I'm having a nice time just sitting here. I'm full after a nice meal, the plants are quiet, and I just got nice and warm in the sunlight..."
+  },
+  {
+    "line": 1171,
+    "text": "And something about being next to you is making me a little sleepy..."
+  },
+  {
+    "line": 1172,
+    "text": "Hinata?"
+  },
+  {
+    "line": 1173,
+    "text": "I'll just... lean against you for a moment... Just for five more minutes..."
+  },
+  {
+    "line": 1174,
+    "text": "Without waiting for my reply, Hinata slowly leans her head against my shoulder."
+  },
+  {
+    "line": 1175,
+    "text": "Her warm breath gently brushes against my collar. As the rain falls rhythmically outside the window, she drifts off to sleep."
+  },
+  {
+    "line": 1176,
+    "text": "(whisper) ...Looks like our photographer is calling it a day."
+  },
+  {
+    "line": 1177,
+    "text": "Zzz..."
+  },
+  {
+    "line": 1178,
+    "text": "(whisper) Then... I'll be the one to record this new memory of ours."
+  },
+  {
+    "line": 1179,
+    "text": "Look at Hinata's sleeping face"
+  },
+  {
+    "line": 1180,
+    "text": "Her breathing is soft and steady. It's been a busy day... she must be exhausted. She looks so peaceful resting against me."
+  },
+  {
+    "line": 1181,
+    "text": "I press the shutter in my mind, etching this moment into my memory."
+  },
+  {
+    "line": 1182,
+    "text": "Outside the greenhouse, the rain is pouring down, but inside, all is quiet and still. On this afternoon where we've simply pressed \"pause,\" no new photos are taken and no future plans are made – it's just us and our unspoken bond."
+  },
+  {
+    "line": 1187,
+    "text": "..."
+  }
+]

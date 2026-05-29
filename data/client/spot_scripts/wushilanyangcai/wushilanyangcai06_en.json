@@ -1,0 +1,846 @@
+[
+  {
+    "line": 671,
+    "text": "Haruna Igarashi"
+  },
+  {
+    "line": 672,
+    "text": "{var:player_nickname}! Hurry up!"
+  },
+  {
+    "line": 674,
+    "text": "Haruna... Slow down!"
+  },
+  {
+    "line": 675,
+    "text": "Brightville is a quaint suburban village not too far from One Han City. Sheltered from the summer heat by its surrounding forests and lush greenery, with gentle breezes rustling through, it's an oasis of peace and quiet."
+  },
+  {
+    "line": 676,
+    "text": "The reason I'm here begins with a phone call I got yesterday."
+  },
+  {
+    "line": 677,
+    "text": "{var:player_nickname}, could you come visit me at my grandma's?"
+  },
+  {
+    "line": 678,
+    "text": "I've been on the hunt for this rainbow popsicle I had when I was little, but it's like it vanished off the face of the earth! I've never been able to find one since."
+  },
+  {
+    "line": 679,
+    "text": "Grandma bought me lots of popsicles this summer, but none of them were the kind I was looking for...//nAnd my mom's coming to pick me up in a few days..."
+  },
+  {
+    "line": 680,
+    "text": "Please! I really want to find that rainbow popsicle! You can totally make it happen, right?"
+  },
+  {
+    "line": 681,
+    "text": "The address is No. 11 Sunflower Street, Brightville. You've got to come, alright?!"
+  },
+  {
+    "line": 682,
+    "text": "{var:player_nickname}! Look! That's Grandma's peach orchard!"
+  },
+  {
+    "line": 683,
+    "text": "Wanna go peach picking? It'll be really fun!"
+  },
+  {
+    "line": 685,
+    "text": "Haruna, stay focused on the popsicle."
+  },
+  {
+    "line": 687,
+    "text": "Is your grandma alright with you doing that?"
+  },
+  {
+    "line": 688,
+    "text": "Oh, right! The popsicle!"
+  },
+  {
+    "line": 689,
+    "text": "If we go peach picking, it'll be dark by the time we finish trekking up and down the mountain!"
+  },
+  {
+    "line": 690,
+    "text": "Well... I remember Grandma warning me to stay away from the mountain and stick to the village instead..."
+  },
+  {
+    "line": 691,
+    "text": "Ah! The search! Argh! I almost forgot my popsicle!"
+  },
+  {
+    "line": 692,
+    "text": "Hehe! Thank goodness you're here to remind me, {var:player_nickname}."
+  },
+  {
+    "line": 693,
+    "text": "Grandma's peaches are sweet like honey! It's too bad. Let's have some another time, {var:player_nickname}."
+  },
+  {
+    "line": 694,
+    "text": "Then shall we... Huh? Where did she go?!"
+  },
+  {
+    "line": 695,
+    "text": "{var:player_nickname}! I see a scarecrow over there! Hurry up!"
+  },
+  {
+    "line": 696,
+    "text": "Catch Up"
+  },
+  {
+    "line": 697,
+    "text": "That kitty over there... It's Whitey! {var:player_nickname}, Whitey used to be a good friend of mine!"
+  },
+  {
+    "line": 698,
+    "text": "Huh? Whitey? Don't run away!"
+  },
+  {
+    "line": 699,
+    "text": "Whitey... D-Don't you remember me? We raided an anthill together, dug up loaches by the pond, and I even climbed a tree with you... Oh, if it wasn't for Grandma, that huge bee monster would have eaten both of us alive!"
+  },
+  {
+    "line": 700,
+    "text": "Whitey! Stop!"
+  },
+  {
+    "line": 701,
+    "text": "Hey! Haruna! Don't just run off after it!"
+  },
+  {
+    "line": 703,
+    "text": "Next thing I know, I'm standing in front of a snack stall."
+  },
+  {
+    "line": 704,
+    "text": "Brightville - Shopping Street"
+  },
+  {
+    "line": 705,
+    "text": "I wanna eat them all! Which should I choose? Eeny, meeny, miny, moe..."
+  },
+  {
+    "line": 706,
+    "text": "Look! I picked all of these for you, {var:player_nickname}!"
+  },
+  {
+    "line": 707,
+    "text": "They're for me?"
+  },
+  {
+    "line": 708,
+    "text": "Because I want to see you happy!"
+  },
+  {
+    "line": 709,
+    "text": "This is a popping candy that goes off like fireworks in your mouth; this one turns your tongue a different color, and this one is the best of 'em all! Bubble gum!"
+  },
+  {
+    "line": 710,
+    "text": "Sounds awesome, right?"
+  },
+  {
+    "line": 711,
+    "text": "I appreciate it, Haruna. But..."
+  },
+  {
+    "line": 712,
+    "text": "If we spend too much..."
+  },
+  {
+    "line": 713,
+    "text": "If we overeat..."
+  },
+  {
+    "line": 714,
+    "text": "{var:Shake}Oh no! We won't have enough money to get the rainbow popsicle!"
+  },
+  {
+    "line": 715,
+    "text": "{var:Shake}Oh right! We won't be able to eat the rainbow popsicle then!"
+  },
+  {
+    "line": 716,
+    "text": "Waah... I have to do it for my yummy popsicle... I'll be back, my precious candies!"
+  },
+  {
+    "line": 717,
+    "text": "By the way, what does your rainbow popsicle look like? Maybe one of the stores on this street has it."
+  },
+  {
+    "line": 718,
+    "text": "Um... Well... I've actually forgotten."
+  },
+  {
+    "line": 719,
+    "text": "Huh?"
+  },
+  {
+    "line": 720,
+    "text": "Hehe! You're always my lucky charm, {var:player_nickname}! Good things happen when you're around, and I have a feeling this time will be no different..."
+  },
+  {
+    "line": 721,
+    "text": "But... Hehe, we still haven't found anything after so long."
+  },
+  {
+    "line": 722,
+    "text": "Haruna, if it's called a rainbow popsicle..."
+  },
+  {
+    "line": 723,
+    "text": "Does eating it let us see a rainbow?"
+  },
+  {
+    "line": 724,
+    "text": "Is it in the colors of the rainbow?"
+  },
+  {
+    "line": 725,
+    "text": "Oh, I remember how it was always so cold, sweet, and delicious...//nI-It was like seeing a rainbow!"
+  },
+  {
+    "line": 726,
+    "text": "(whisper) It was like... seeing a rainbow?"
+  },
+  {
+    "line": 727,
+    "text": "Wow! That grocery store has a freezer! Hurry up, {var:player_nickname}!"
+  },
+  {
+    "line": 728,
+    "text": "That's a lot of popsicles... But which one is the rainbow popsicle?"
+  },
+  {
+    "line": 729,
+    "text": "Brightville - Grocery Store"
+  },
+  {
+    "line": 730,
+    "text": "Store Manager"
+  },
+  {
+    "line": 731,
+    "text": "Haruna? Haruna Igarashi?"
+  },
+  {
+    "line": 732,
+    "text": "Y-Yeah? I'm Haruna! Do I know you?"
+  },
+  {
+    "line": 733,
+    "text": "Haha! Don't you recognize me? You used to call me Miss Manager!"
+  },
+  {
+    "line": 734,
+    "text": "Huh? Miss Manager?"
+  },
+  {
+    "line": 735,
+    "text": "Hmph! No wonder you've forgotten me. You have a new friend now.//nHehe! Nice to meet you, Haruna's new friend."
+  },
+  {
+    "line": 736,
+    "text": "Hi, I'm {var:player_nickname}. I'm taking care of her for the time being."
+  },
+  {
+    "line": 737,
+    "text": "You two seem close, so you can just call me Miss Manager, too."
+  },
+  {
+    "line": 738,
+    "text": "Miss Manager"
+  },
+  {
+    "line": 739,
+    "text": "Oh my! I think you were six or seven back then, right? You'd always sneak out to play here when visiting your grandma."
+  },
+  {
+    "line": 740,
+    "text": "Huh...?"
+  },
+  {
+    "line": 741,
+    "text": "Don't you remember? Your mother banned you from the TV. So whenever she started cooking, you'd sneak out to watch anime at my store until it was time to rush back home to eat!"
+  },
+  {
+    "line": 742,
+    "text": "Pfft! That sounds like Haruna alright."
+  },
+  {
+    "line": 743,
+    "text": "Hmph! I even remember a certain someone telling me to keep it a secret from her mother because we're best friends!"
+  },
+  {
+    "line": 744,
+    "text": "Hehe. I'm sorry... I can't remember."
+  },
+  {
+    "line": 745,
+    "text": "That's not surprising. Kids sure grow up quick. I wouldn't have recognized you if you hadn't mentioned that rainbow popsicle."
+  },
+  {
+    "line": 746,
+    "text": "What?! You know about the rainbow popsicle?"
+  },
+  {
+    "line": 747,
+    "text": "Of course! Here, remember this anime?"
+  },
+  {
+    "line": 748,
+    "text": "The manager swipes through her phone for a while before bringing up a page."
+  },
+  {
+    "line": 749,
+    "text": "Rainbow Valley? I... I think I've seen this somewhere..."
+  },
+  {
+    "line": 750,
+    "text": "You watched this here every day when you were young! You'd always get a popsicle to eat while watching, and you'd finish it just as the anime ended."
+  },
+  {
+    "line": 751,
+    "text": "And that's why... You used to call it a rainbow popsicle! Because it tasted like happiness."
+  },
+  {
+    "line": 752,
+    "text": "Huh? It tasted like happiness?//nOh, right! I think I remember now! That popsicle... It's..."
+  },
+  {
+    "line": 753,
+    "text": "It's a pink, peach-flavored popsicle, and it has several kinds of peach bits on it."
+  },
+  {
+    "line": 754,
+    "text": "{var:Shake}!! Yeah! That's it!"
+  },
+  {
+    "line": 755,
+    "text": "{var:player_nickname}! I've finally found my rainbow popsicle!"
+  },
+  {
+    "line": 756,
+    "text": "That's wonderful, and it's such a coincidence too."
+  },
+  {
+    "line": 757,
+    "text": "Miss Manager, I want two rainbow popsicles!"
+  },
+  {
+    "line": 758,
+    "text": "Ah, well... I'm afraid we haven't been able to stock it for a few years now."
+  },
+  {
+    "line": 759,
+    "text": "{var:Shake}... WHAT?!! Y-You don't have it anymore?!"
+  },
+  {
+    "line": 760,
+    "text": "C-Calm down... I have many new peach popsicles! And all of 'em are delicious!"
+  },
+  {
+    "line": 761,
+    "text": "Ugh... But my greatest wish on this trip was to have my rainbow popsicle..."
+  },
+  {
+    "line": 762,
+    "text": "Why don't you try the others? Maybe you'll like them, too?"
+  },
+  {
+    "line": 763,
+    "text": "As your \"lucky charm,\" I guess your wish is my command."
+  },
+  {
+    "line": 764,
+    "text": "M-Manager... Do you have any leads on where to find them? I'll try to figure something out."
+  },
+  {
+    "line": 765,
+    "text": "Hmm... If it's Haruna's wish, then I have to help. Give me a minute!"
+  },
+  {
+    "line": 766,
+    "text": "The manager entered the store's back room to get the contact information of popsicle manufacturers. Meanwhile, Haruna and I sat on the wooden stools, waiting. Suddenly, the white cat we saw earlier strutted past the entrance with its tail held high, chasing after a butterfly."
+  },
+  {
+    "line": 767,
+    "text": "{var:player_nickname}... I think I understand why Whitey forgot me."
+  },
+  {
+    "line": 768,
+    "text": "Forgetting seems to be part of growing up..."
+  },
+  {
+    "line": 769,
+    "text": "But you don't want to forget, don't you?"
+  },
+  {
+    "line": 770,
+    "text": "If you don't want to forget, then retrieve your memories."
+  },
+  {
+    "line": 771,
+    "text": "If you put your heart into it, I'm sure even the rainbow tucked away in the corners of your memories will reappear when you're older."
+  },
+  {
+    "line": 772,
+    "text": "{var:player_nickname}... You mean... I'll definitely find my rainbow popsicle, right?!"
+  },
+  {
+    "line": 773,
+    "text": "Okay! For the rainbow popsicle, I must get it together! I can do it!"
+  },
+  {
+    "line": 774,
+    "text": "Look what I've found! This old business card has the manufacturer's contact number on it. Maybe it'll be of some help to you!"
+  },
+  {
+    "line": 775,
+    "text": "Thank you!"
+  },
+  {
+    "line": 776,
+    "text": "Thanks!"
+  },
+  {
+    "line": 777,
+    "text": "System Sound"
+  },
+  {
+    "line": 778,
+    "text": "The number you have dialed is currently unavailable."
+  },
+  {
+    "line": 779,
+    "text": "I tried a few times but I couldn't get through..."
+  },
+  {
+    "line": 780,
+    "text": "..."
+  },
+  {
+    "line": 781,
+    "text": "Don't worry, I'm sure there are other ways!//n{var:player_nickname}, why don't we just go to the popsicle factory?"
+  },
+  {
+    "line": 782,
+    "text": "It's decided! I'll get the Kitty Warriors to help, just like they helped in the search for the missing workbook!"
+  },
+  {
+    "line": 783,
+    "text": "Hmph! It's time to bring out my \"Cat Boss\" ultimate! Dried fish kitty summoning technique!"
+  },
+  {
+    "line": 784,
+    "text": "Kitty Warriors? Huh? Wait up!"
+  },
+  {
+    "line": 785,
+    "text": "Hurry, {var:player_nickname}! Whitey went that way with the dried fish!"
+  },
+  {
+    "line": 786,
+    "text": "Haruna... Slow down!"
+  },
+  {
+    "line": 787,
+    "text": "Oh? I-It laid down here. Then... Is this the mysterious popsicle factory?"
+  },
+  {
+    "line": 788,
+    "text": "It's clearly a home for cats, Haruna. And it seems someone made it just for them."
+  },
+  {
+    "line": 789,
+    "text": "Huh? There's some writing on it!//nSnowy's Home..."
+  },
+  {
+    "line": 790,
+    "text": "White Cat"
+  },
+  {
+    "line": 791,
+    "text": "Nyaa!"
+  },
+  {
+    "line": 792,
+    "text": "Snowy?"
+  },
+  {
+    "line": 793,
+    "text": "Nyaa, nyaa!"
+  },
+  {
+    "line": 794,
+    "text": "Wow! You even have a new name! No wonder you ignored me when I called you Whitey!"
+  },
+  {
+    "line": 795,
+    "text": "I guess it makes sense. After all, even a human could totally change after so long, not to mention a cat."
+  },
+  {
+    "line": 796,
+    "text": "Oh... {var:player_nickname}, do you think the popsicle factory has changed too?"
+  },
+  {
+    "line": 797,
+    "text": "It's like a lightbulb moment. I quickly look up the manufacturer online and manage to track down their new number."
+  },
+  {
+    "line": 798,
+    "text": "Factory Manager"
+  },
+  {
+    "line": 799,
+    "text": "That peach popsicle you're looking for has been discontinued. I'm happy to look through my inventory if you're interested in other flavors."
+  },
+  {
+    "line": 800,
+    "text": "Why was it discontinued? Well, it mainly came down to the high production costs. We're currently making a range of other popsicles, and I can confidently say they're just as delightful! Feel free to contact me if you'd like to purchase some."
+  },
+  {
+    "line": 801,
+    "text": "Yes, we won't be bringing it back into production again. Can I help you with anything else?"
+  },
+  {
+    "line": 802,
+    "text": "..."
+  },
+  {
+    "line": 803,
+    "text": "My phone is on loudspeaker, so Haruna catches every word, and even I can feel the dejection radiating from her drooped little head."
+  },
+  {
+    "line": 804,
+    "text": "{var:player_nickname}! Wait!"
+  },
+  {
+    "line": 805,
+    "text": "Haruna?"
+  },
+  {
+    "line": 806,
+    "text": "You told me that if I put my heart to it, then I'll be able to find anything I want to find."
+  },
+  {
+    "line": 807,
+    "text": "I want to give it another try!"
+  },
+  {
+    "line": 808,
+    "text": "A determined glow flashes in her eyes. I nod and pass the phone to her."
+  },
+  {
+    "line": 809,
+    "text": "Hello, Mr. Manager."
+  },
+  {
+    "line": 810,
+    "text": "Hello, um, a kid?"
+  },
+  {
+    "line": 811,
+    "text": "I-I'm Haruna Igarashi. Mr. Manager, I really, really like your peach popsicles!"
+  },
+  {
+    "line": 812,
+    "text": "When I was little, I spent every summer at my grandma's. Those days were the best – having peach popsicles, playing with the kitties and doggies, and hanging out with my parents and grandparents..."
+  },
+  {
+    "line": 813,
+    "text": "So, in my memories, those peach popsicles taste like happiness."
+  },
+  {
+    "line": 814,
+    "text": "But after I started school in the city, and my parents also couldn't take time off anymore... Now that I'm back here, I really want to have that peach popsicle again!"
+  },
+  {
+    "line": 815,
+    "text": "If I can't buy it anymore... Then could you tell me how it's made?"
+  },
+  {
+    "line": 816,
+    "text": "You want to make it yourself?"
+  },
+  {
+    "line": 817,
+    "text": "A-Am I asking for too much?"
+  },
+  {
+    "line": 818,
+    "text": "No..."
+  },
+  {
+    "line": 819,
+    "text": "The manager's business-like tone seems to mellow down."
+  },
+  {
+    "line": 820,
+    "text": "I'm just surprised someone still remembers our peach popsicles after all these years."
+  },
+  {
+    "line": 821,
+    "text": "My passion for making great popsicles ultimately became a burden for the company. Handmaking them was too costly, so we had to discontinue production."
+  },
+  {
+    "line": 822,
+    "text": "Ah... But it was so yummy!"
+  },
+  {
+    "line": 823,
+    "text": "I know! That's what I hated the most! Our popsicles shouldn't be forgotten just like that!"
+  },
+  {
+    "line": 824,
+    "text": "I haven't forgotten it! And I'll always remember it!"
+  },
+  {
+    "line": 825,
+    "text": "Ahem, you're really pumping me up here, kid."
+  },
+  {
+    "line": 826,
+    "text": "I'll give you the recipe, but how much of its flavor you can bring back is in your hands."
+  },
+  {
+    "line": 827,
+    "text": "{var:Shake}WOW!! Thank you!"
+  },
+  {
+    "line": 828,
+    "text": "I'll do my best! I promise I'll make the most delicious peach popsicle ever!"
+  },
+  {
+    "line": 829,
+    "text": "Grandma's peaches are the sweetest! Do it like this, then add this..."
+  },
+  {
+    "line": 830,
+    "text": "Brightville - Haruna's Grandma's House"
+  },
+  {
+    "line": 831,
+    "text": "Oh, it's my favorite popping candy... Hehe! I'll add a little! Just a little!"
+  },
+  {
+    "line": 832,
+    "text": "All these ingredients really make it look like a true rainbow popsicle."
+  },
+  {
+    "line": 833,
+    "text": "At the end of the day, the purée created from a blend of Haruna's creativity and the factory manager's recipe was poured into the yogurt bottles \"generously sponsored\" by Haruna's grandma."
+  },
+  {
+    "line": 834,
+    "text": "Hehe! My beautiful popsicles! Freeze up nice and sweet for me!"
+  },
+  {
+    "line": 835,
+    "text": "Brimming with Haruna's anticipation, the rainbow-colored popsicles are carefully placed into her grandma's freezer."
+  },
+  {
+    "line": 836,
+    "text": "The fields outside are painted a warm gold by the setting sun."
+  },
+  {
+    "line": 837,
+    "text": "See you tomorrow, sun! And thanks for the hard work!"
+  },
+  {
+    "line": 838,
+    "text": "{var:player_nickname}, our popsicles... They're quite different from the manager's recipe! Will they taste good?"
+  },
+  {
+    "line": 839,
+    "text": "Well... Remember your popsicle coffee? A unique idea always leaves a deep impression."
+  },
+  {
+    "line": 840,
+    "text": "That's relieving to hear, {var:player_nickname}!"
+  },
+  {
+    "line": 841,
+    "text": "Hahaha! You're here!"
+  },
+  {
+    "line": 842,
+    "text": "...Haruna?"
+  },
+  {
+    "line": 843,
+    "text": "Haha! Snowy, do you finally remember me now?"
+  },
+  {
+    "line": 844,
+    "text": "It doesn't matter if you don't. Let's start fresh and be good friends from now on, alright?"
+  },
+  {
+    "line": 845,
+    "text": "Hi! I'm Haruna Igarashi! Nice to meet you!"
+  },
+  {
+    "line": 846,
+    "text": "Snowy appears out of nowhere, circling Haruna as it tries to snatch the green foxtail she's playfully waving. Together, the girl and the cat romp around in the field. At this moment, Haruna's smile shines brighter than the sun, and I can't help but be completely captivated by it."
+  },
+  {
+    "line": 847,
+    "text": "Her hometown, family, and the love of her friends have shaped Haruna into the lively and innocent person she is today, and she is giving back to us in her own unique way."
+  },
+  {
+    "line": 848,
+    "text": "{var:player_nickname}!"
+  },
+  {
+    "line": 849,
+    "text": "Haruna suddenly turns around and runs toward me with her sparkling eyes."
+  },
+  {
+    "line": 850,
+    "text": "What is it, Haruna?"
+  },
+  {
+    "line": 851,
+    "text": "Hehe! I've found my popsicle! {var:player_nickname}... Could you grant another wish of mine?"
+  },
+  {
+    "line": 852,
+    "text": "You want a new popsicle?"
+  },
+  {
+    "line": 853,
+    "text": "Okay, I'll do it."
+  },
+  {
+    "line": 854,
+    "text": "N-No! I don't want another popsicle!"
+  },
+  {
+    "line": 855,
+    "text": "Geez! I haven't even told you what I want. How could you just agree like that?!"
+  },
+  {
+    "line": 856,
+    "text": "I just... I just want to make a promise with you, {var:player_nickname}... That we'll always, always have fun together!"
+  },
+  {
+    "line": 857,
+    "text": "It's a deal!"
+  },
+  {
+    "line": 858,
+    "text": "That wish has already come true from the very beginning."
+  },
+  {
+    "line": 859,
+    "text": "Right now, neither of us knows if the cold, sweet popsicle we've made together will taste as delicious as the one etched in her memories."
+  },
+  {
+    "line": 860,
+    "text": "However, we're undoubtedly creating memories that are uniquely ours."
+  },
+  {
+    "line": 861,
+    "text": "Why don't you try the other popsicles? Maybe you'll like them, right?"
+  },
+  {
+    "line": 862,
+    "text": "Well..."
+  },
+  {
+    "line": 863,
+    "text": "That's right, and I've made some \"upgrades\" to my store. Watching anime isn't the only thing you can do here anymore – now, you can play games too! How about we grab a popsicle and play together?"
+  },
+  {
+    "line": 864,
+    "text": "Games?! What games?"
+  },
+  {
+    "line": 865,
+    "text": "Hmph! Anything you could think of!"
+  },
+  {
+    "line": 866,
+    "text": "Perhaps afraid of Haruna leaving, the manager dashes into the back room and quickly returns with a large box of game cards."
+  },
+  {
+    "line": 867,
+    "text": "Wow! This is amazing!"
+  },
+  {
+    "line": 868,
+    "text": "Hahaha! I remember worrying back then about whether I should try making it in the big city while I was still young... But in the end, I chose this life instead. I can sleep as long as I want, play games all day, binge-watch TV, and snack to my heart's content... It's a pretty good life."
+  },
+  {
+    "line": 869,
+    "text": "After all, if a kid can treat eating a popsicle as a serious wish to fulfill, then as an adult, I can have a simple wish too, right?"
+  },
+  {
+    "line": 870,
+    "text": "I wanna play this one!"
+  },
+  {
+    "line": 871,
+    "text": "Jyanshi Party? Great choice! It has many special mahjong modes!"
+  },
+  {
+    "line": 872,
+    "text": "At the manager's passionate invitation, we soon found ourselves immersed in the game."
+  },
+  {
+    "line": 873,
+    "text": "Mrs. Igarashi"
+  },
+  {
+    "line": 874,
+    "text": "Did you two have fun at Grandma's? Have you found that rainbow popsicle thing?"
+  },
+  {
+    "line": 875,
+    "text": "One Han City - Haruna Igarashi's House"
+  },
+  {
+    "line": 877,
+    "text": "We met my old kitty friend, and I showed {var:player_nickname} around the village... And also, we went to the... grocery store."
+  },
+  {
+    "line": 878,
+    "text": "The grocery store? Hmm, I bet you had lots of snacks and watched plenty of anime, right?"
+  },
+  {
+    "line": 879,
+    "text": "N-N-No! We didn't watch anime!"
+  },
+  {
+    "line": 880,
+    "text": "Aha! Someone sounds guilty! If you didn't watch anime, then were you... playing games instead?!"
+  },
+  {
+    "line": 881,
+    "text": "Waah! {var:player_nickname}! Save me!"
+  },
+  {
+    "line": 882,
+    "text": "Hehe! Even {var:player_nickname} can't save you this time. Since you've used up all your playtime in advance, you'll be spending the rest of your vacation finishing the homework I've prepared for you!"
+  },
+  {
+    "line": 883,
+    "text": "NOOOO! I've got so, so many fun games I want to play with {var:player_nickname}!!"
+  },
+  {
+    "line": 884,
+    "text": "I guess it won't be that easy for Haruna to get away with playing with me for the rest of her vacation..."
+  },
+  {
+    "line": 885,
+    "text": "player"
+  },
+  {
+    "line": 888,
+    "text": "Umm... {var:player_nickname} and I searched all day, but we couldn't find my popsicle... B-But, we still had loads of fun together!"
+  }
+]

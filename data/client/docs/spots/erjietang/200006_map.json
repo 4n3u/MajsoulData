@@ -1,0 +1,514 @@
+{
+  "contents": [
+    {
+      "id": 130,
+      "realid": 0,
+      "refc": 1,
+      "content": "受到二阶堂美树的拜托在天和阁打工中，因为四年一度的国际宝石博览会即将在一番市举行，世界各地的珠宝爱好者都因此聚集在了这里。"
+    },
+    {
+      "id": 131,
+      "realid": 0,
+      "refc": 1,
+      "content": "这些日子一番市的各大珠宝店每天顾客络绎不绝，颇负盛名的天和阁自然也不例外。\r\n当了一整天的店员，虽然只是一些负责接待的简单工作，但是也感觉到疲惫不堪。"
+    },
+    {
+      "id": 132,
+      "realid": 0,
+      "refc": 26,
+      "content": "二阶堂美树"
+    },
+    {
+      "id": 133,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:二阶堂美树}今天我会亲自下厨准备晚饭，作为对你最近表现优异的奖励，请~好~好~期~待~哦~"
+    },
+    {
+      "id": 134,
+      "realid": 0,
+      "refc": 1,
+      "content": "这句话为什么听起来这么耳熟？还挟裹着一股不祥的感觉迎面扑来！"
+    },
+    {
+      "id": 135,
+      "realid": 0,
+      "refc": 20,
+      "content": "player"
+    },
+    {
+      "id": 136,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:player}不用了不用了，忙了一天你一定也很累，不如我们出去吃吧？"
+    },
+    {
+      "id": 137,
+      "realid": 0,
+      "refc": 1,
+      "content": "二阶堂美树意味深长地看了我一眼，似乎猜到了我的心思一般露出一抹狡黠的笑容。"
+    },
+    {
+      "id": 138,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:二阶堂美树}既然这样，那就拜托你请我吃晚餐吧。"
+    },
+    {
+      "id": 139,
+      "realid": 0,
+      "refc": 1,
+      "content": "摸了摸口袋里刚拿到手尚且还未捂热的薪资，为了不用吃到二阶堂美树的料理，必要的牺牲还是要做的。"
+    },
+    {
+      "id": 140,
+      "realid": 0,
+      "refc": 2,
+      "content": "商业街"
+    },
+    {
+      "id": 141,
+      "realid": 0,
+      "refc": 1,
+      "content": "和二阶堂美树一起来到商业街，因为展会的关系，这里比起平时多了很多游客，熙熙攘攘的人群不时会将我和二阶堂美树分开。而我碰巧出门的时候忘记带手机，这个时候万一和她走散就麻烦了。"
+    },
+    {
+      "id": 142,
+      "realid": 0,
+      "refc": 1,
+      "content": "牵着手一起走就不会被分开了"
+    },
+    {
+      "id": 143,
+      "realid": 0,
+      "refc": 1,
+      "content": "不太好意思还是让她抓着自己的衣摆吧"
+    },
+    {
+      "id": 144,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:player}为了防止被人群分开，我们牵着手吧。"
+    },
+    {
+      "id": 145,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:二阶堂美树}呵呵~我可是从来都没有和任何人一起牵手逛过街哦~{var:player_nickname}这是想要拿走我的第一次吗？"
+    },
+    {
+      "id": 147,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:二阶堂美树}如果是你的话，可以哦~那么就请你好好怜惜我的第一次吧。"
+    },
+    {
+      "id": 148,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:player}为了防止被人群分开，不如你抓着我的衣摆吧。"
+    },
+    {
+      "id": 149,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:二阶堂美树}没想到{var:player_nickname}是如此正经的人，都什么年代了，直接牵手不是更方便吗，呵呵~"
+    },
+    {
+      "id": 150,
+      "realid": 0,
+      "refc": 1,
+      "content": "说罢，二阶堂美树主动牵起我的手朝附近的餐厅走去，不知道是不是我的错觉，她的指尖似乎有些微微颤抖，像是在紧张着什么。"
+    },
+    {
+      "id": 151,
+      "realid": 0,
+      "refc": 1,
+      "content": "可是我不清楚到底是什么事情，会让一向冷静的二阶堂美树感觉到紧张呢。"
+    },
+    {
+      "id": 152,
+      "realid": 0,
+      "refc": 2,
+      "content": "     "
+    },
+    {
+      "id": 153,
+      "realid": 0,
+      "refc": 1,
+      "content": "跟着二阶堂美树穿过两条街后，来到一家店门口。这是一家看起来十分素雅干净的面馆，二阶堂美树像是这里的常客，非常熟稔地找了个角落的位置坐下，然后拿起桌子上的菜单递给我。"
+    },
+    {
+      "id": 154,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:二阶堂美树}考验我和{var:player_nickname}默契的时间到了，帮我挑一碗面吧。"
+    },
+    {
+      "id": 155,
+      "realid": 0,
+      "refc": 1,
+      "content": "我看着菜单，思考着二阶堂平时的喜好。"
+    },
+    {
+      "id": 156,
+      "realid": 0,
+      "refc": 1,
+      "content": "帮二阶堂美树选一碗清淡的鸡汤面"
+    },
+    {
+      "id": 157,
+      "realid": 0,
+      "refc": 1,
+      "content": "帮二阶堂美树选一碗浓香的炸酱面"
+    },
+    {
+      "id": 158,
+      "realid": 0,
+      "refc": 1,
+      "content": "帮二阶堂美树选了一碗松茸鸡汤面，很快就被端了上来。晶亮的鸡汤上漂浮着几滴金黄色的鸡油，衬着雪白的面条，让人看了就食欲大动。"
+    },
+    {
+      "id": 159,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:二阶堂美树}为什么选鸡汤面给我？"
+    },
+    {
+      "id": 160,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:player}因为这些天二阶堂太劳累了，鸡汤营养比较好。"
+    },
+    {
+      "id": 161,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:二阶堂美树}{var:player_nickname}的这份关心可比鸡汤让我觉得更有营养哦~"
+    },
+    {
+      "id": 162,
+      "realid": 0,
+      "refc": 1,
+      "content": "帮二阶堂美树选了一碗炸酱面，很快就被端了上来。手擀的面条像是掺杂了粗粮，有着金黄的色泽，上面浇着用胡萝卜、土豆和肉切成丁煮成的酱料，浓郁的香气扑面而来。"
+    },
+    {
+      "id": 163,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:二阶堂美树}为什么选炸酱面给我？"
+    },
+    {
+      "id": 164,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:player}猜的，上次你做晚饭给我吃的时候，大概了解了一下你的口味。"
+    },
+    {
+      "id": 165,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:二阶堂美树}呵呵~看在你对我这么用心的份上，我就把这份炸酱面当做{var:player_nickname}来好~好~品~尝~吧~"
+    },
+    {
+      "id": 166,
+      "realid": 0,
+      "refc": 1,
+      "content": "二阶堂美树总是喜欢和我开这样的玩笑，看她平时游走在各种人之间那般游刃有余的样子，应该恋爱经验也十分丰富吧？"
+    },
+    {
+      "id": 167,
+      "realid": 0,
+      "refc": 1,
+      "content": "很好奇二阶堂美树的感情状况"
+    },
+    {
+      "id": 168,
+      "realid": 0,
+      "refc": 1,
+      "content": "问这个问题会被二阶堂美树用食物毒死吧"
+    },
+    {
+      "id": 169,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:二阶堂美树}突然间笑得这么诡异，该不会在打什么坏主意吧？"
+    },
+    {
+      "id": 170,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:player}不是坏主意，就是有件事十分在意。"
+    },
+    {
+      "id": 171,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:二阶堂美树}哦，什么事情？"
+    },
+    {
+      "id": 172,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:player}二阶堂是不是谈过很多次恋爱？"
+    },
+    {
+      "id": 173,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:二阶堂美树}突然间脸色变得这么苍白……该不会是想到什么会被我折磨的事情吧？呵呵~"
+    },
+    {
+      "id": 174,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:player}你怎么……"
+    },
+    {
+      "id": 175,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:二阶堂美树}啊啦，原来我真的猜中了。那么，现在来和二阶堂姐姐说一说你在想什么？"
+    },
+    {
+      "id": 176,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:player}我在想……二阶堂是不是谈过很多次恋爱？"
+    },
+    {
+      "id": 177,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:二阶堂美树}恋爱啊……"
+    },
+    {
+      "id": 178,
+      "realid": 0,
+      "refc": 1,
+      "content": "二阶堂美树像是在思考着什么，目光在我的脸上来回巡视着。"
+    },
+    {
+      "id": 179,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:二阶堂美树}恋爱的话谈过很多次哦~"
+    },
+    {
+      "id": 180,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:player}很多次？！"
+    },
+    {
+      "id": 181,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:二阶堂美树}大概十二、三次吧……嗯……也可能是十四、五？次数太多了，自己也记不太清楚了。"
+    },
+    {
+      "id": 182,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:player}这些人你都喜欢吗？"
+    },
+    {
+      "id": 183,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:二阶堂美树}那是当然，恋爱的时候就要不顾一切去爱，我对每个人都是一心一意的哦~"
+    },
+    {
+      "id": 184,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:player}那二阶堂现在还会已经分手了的人联系吗？"
+    },
+    {
+      "id": 185,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:二阶堂美树}那是小孩子的做法，成熟的大人是不会选择在分手后打扰彼此的。不过……你这么好奇我的事情，难道是想做我的第二十三任恋爱对象吗？"
+    },
+    {
+      "id": 186,
+      "realid": 0,
+      "refc": 1,
+      "content": "奇怪的数字又增长了！\r"
+    },
+    {
+      "id": 187,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:player}我拒绝，根据第二十三任这个数字可以看得出来，跟你的恋爱时间会很短暂。"
+    },
+    {
+      "id": 188,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:二阶堂美树}原来在你的心里我是这么花心的人吗？我可是和每个人都会谈一年以上的哦~"
+    },
+    {
+      "id": 189,
+      "realid": 0,
+      "refc": 1,
+      "content": "二十二任？每任一年以上？"
+    },
+    {
+      "id": 190,
+      "realid": 0,
+      "refc": 1,
+      "content": "似乎感受到我质疑的目光，一向镇定自若的二阶堂美树突然间显得有几分慌乱。"
+    },
+    {
+      "id": 191,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:二阶堂美树}虽然……每个都是一年以上，但是一年内也可以同时和好几个人交往……"
+    },
+    {
+      "id": 192,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:player}你刚才说自己对每个人都是一心一意的……"
+    },
+    {
+      "id": 193,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:二阶堂美树}那是因为……因为……"
+    },
+    {
+      "id": 194,
+      "realid": 0,
+      "refc": 1,
+      "content": "看着二阶堂美树躲闪的目光，我突然有了一个大胆的猜想。"
+    },
+    {
+      "id": 195,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:player}莫非二阶堂你其实根本没有谈过这么多次恋爱？或者……其实你根本没有谈过恋爱？"
+    },
+    {
+      "id": 196,
+      "realid": 0,
+      "refc": 1,
+      "content": "二阶堂美树的目光四处游离不肯与我对视，这明显就是心虚的表现。"
+    },
+    {
+      "id": 197,
+      "realid": 0,
+      "refc": 1,
+      "content": "为了试探，询问她是否可以拥抱一下"
+    },
+    {
+      "id": 198,
+      "realid": 0,
+      "refc": 1,
+      "content": "这个气氛，还是不要继续为难她了"
+    },
+    {
+      "id": 199,
+      "realid": 0,
+      "refc": 1,
+      "content": "如果二阶堂美树真的如我猜测的那般从来都没有谈过恋爱，那么她应该也没有和其他人亲密接触的经验吧。我想了想，走到她的面前张开双臂。"
+    },
+    {
+      "id": 200,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:player}二阶堂，可以给我一个拥抱吗？"
+    },
+    {
+      "id": 201,
+      "realid": 0,
+      "refc": 1,
+      "content": "二阶堂美树眯起眼睛警惕地看着我，犹豫了一下，始终没有靠过来。"
+    },
+    {
+      "id": 202,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:二阶堂美树}为什么突然要拥抱？"
+    },
+    {
+      "id": 203,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:player}二阶堂不喜欢吗？"
+    },
+    {
+      "id": 204,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:二阶堂美树}拥抱倒是无所谓，可是这是只能跟喜欢的人做的事情哦~{var:player_nickname}觉得没关系吗？"
+    },
+    {
+      "id": 205,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:player}没关系哦，因为我很喜欢二阶堂啊。"
+    },
+    {
+      "id": 206,
+      "realid": 0,
+      "refc": 1,
+      "content": "二阶堂美树没有回话，而是盯着我看了一会儿，似乎在确认我的话是真是假。"
+    },
+    {
+      "id": 207,
+      "realid": 0,
+      "refc": 1,
+      "content": "忽然，她凑了过来，轻轻地抱着我。"
+    },
+    {
+      "id": 208,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:二阶堂美树}我也喜欢{var:player_nickname}哦~"
+    },
+    {
+      "id": 210,
+      "realid": 0,
+      "refc": 1,
+      "content": "我轻轻地拍了拍她的背，很庆幸这样的她只有我一个可以看到。"
+    },
+    {
+      "id": 211,
+      "realid": 0,
+      "refc": 1,
+      "content": "没想到表面看起来强势的二阶堂美树，实际上却有可能是个恋爱新手，这点实在出乎了我的意料。我忍住了想要拆穿她的想法，这样可爱的一面，只有我知道就可以了。"
+    },
+    {
+      "id": 212,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:player}我刚才和你开玩笑的，二阶堂看起来这么成熟怎么会没有谈过恋爱呢。"
+    },
+    {
+      "id": 213,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:二阶堂美树}当……当然，如果{var:player_nickname}有什么关于恋爱的困扰也可以向我请教哦~如果是你的话，我一定会亲自好~好~教~你~的~"
+    },
+    {
+      "id": 214,
+      "realid": 0,
+      "refc": 1,
+      "content": "二阶堂美树恢复了以往的从容镇定，继续和我开着玩笑，但是现在我已经不会担心她再捉弄我了。\r"
+    },
+    {
+      "id": 215,
+      "realid": 0,
+      "refc": 1,
+      "content": "{character:player}请不要说这种会令人误会的话！"
+    },
+    {
+      "id": 216,
+      "realid": 0,
+      "refc": 1,
+      "content": "虽然还是一贯捉弄人的声调，却夹杂着一丝丝的颤抖。没想到平时里看起来冷静知性的二阶堂美树居然还有这样的一面，仿佛刚破茧的蝴蝶正在颤颤巍巍地展开自己的双翼。"
+    }
+  ]
+}

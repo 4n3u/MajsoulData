@@ -1,0 +1,18 @@
+[
+  {
+    "spine_width": "2686",
+    "spine_height": "5000",
+    "pivot_x": "1327",
+    "pivot_y": "2513",
+    "idle": "6666",
+    "greeting": "12000",
+    "celebrate": "11166",
+    "click": "11966",
+    "greeting_init": "8000",
+    "click2": "8000",
+    "celebrate_idle": "6666",
+    "greet_scale": "170",
+    "greet_x": "0",
+    "greet_y": "0"
+  }
+]

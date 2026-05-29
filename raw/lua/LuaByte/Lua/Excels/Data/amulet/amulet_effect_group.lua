@@ -1,0 +1,1 @@
+local a=require("ExcelTool")local b=a.Pack;local c=a.Sub;local d=a.PackGet;local e=a.Dmap;local f={["id"]=1,["merge_card"]=2}local g={nil,nil}local h=function(i,j)return d(i,j,f,g)end;local k={}k[1]=b({1,1730},h)k[2]=b({2,1740},h)return{tb=k}

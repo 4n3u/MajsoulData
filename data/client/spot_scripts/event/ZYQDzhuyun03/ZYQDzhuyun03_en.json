@@ -1,0 +1,898 @@
+[
+  {
+    "line": 1,
+    "text": "player"
+  },
+  {
+    "line": 504,
+    "text": "\"Ancient Ingredients Go Viral: Hunt for lost ancient ingredients like bags of rare spices collecting dust, jars of sauce sealed for decades, and mushrooms stored for centuries, all to promote Bamboo Cloud's menu development...\""
+  },
+  {
+    "line": 505,
+    "text": "\"Supreme Flavor Competition: Host a 'Flavor Showcase' to establish our brand as the embodiment of 'Supreme Flavor.' Plan a 'Flavor Tour' and 'Free Tastings and Talks' where culinary ambassadors from different regions serve as Bamboo Cloud's 'organic brand advocates,' naturally promoting Bamboo Cloud in various food-related fields...\""
+  },
+  {
+    "line": 506,
+    "text": "???"
+  },
+  {
+    "line": 507,
+    "text": "These are all alternate promotional campaign proposals for the anniversary celebration. What do you think?"
+  },
+  {
+    "line": 508,
+    "text": "The soft, elegant fragrance of orchids fills the tastefully decorated room. The charming young man in the wheelchair smiles at me, his brows arched."
+  },
+  {
+    "line": 509,
+    "text": "This is Ran, one of the Four Nobles of Bamboo Cloud. Before I arrived, Jiu Hua and Take gave me an intense rundown on the many misdeeds of this \"Mr. Ran,\" making me picture him as a \"smiling devil.\""
+  },
+  {
+    "line": 510,
+    "text": "However, their portrayal of him doesn't seem entirely accurate to me now..."
+  },
+  {
+    "line": 511,
+    "text": "From what I've seen so far..."
+  },
+  {
+    "line": 512,
+    "text": "Ran"
+  },
+  {
+    "line": 513,
+    "text": "It's fine, just say what you think. Ms. Fuuka gave you a glowing recommendation on assisting me with the final campaign for the anniversary celebration, and I trust both her judgment and your abilities."
+  },
+  {
+    "line": 514,
+    "text": "They're pretty ambitious projects. With the celebration around the corner, I'm just worried that we won't have enough time to pull off something of this scale."
+  },
+  {
+    "line": 515,
+    "text": "You make a good point. What do you think about this one then?"
+  },
+  {
+    "line": 516,
+    "text": "Ran reaches for another document and hands it to me."
+  },
+  {
+    "line": 517,
+    "text": "\"Anniversary Celebration Ambassador: Invite a celebrity to endorse our brand and boost its influence...\""
+  },
+  {
+    "line": 518,
+    "text": "It's a relatively traditional approach, but highly doable."
+  },
+  {
+    "line": 519,
+    "text": "I turn to the second page: \"Proposed Invitees: Popular girl group W.I.N, international supermodel Cynthia, top streamer Hibiki Himekawa...\" This is looking a little like my friends list."
+  },
+  {
+    "line": 520,
+    "text": "If I agree with this proposal, then..."
+  },
+  {
+    "line": 521,
+    "text": "Then I hope you'll take charge of it and invite one of the people on the list to be Bamboo Cloud's brand ambassador for this year's anniversary celebration."
+  },
+  {
+    "line": 522,
+    "text": "Ran looks at me with an affable smile, just like an NPC in a game assigning quests in the beginner village. Hold on, now Jiu Hua's \"smiling devil\" description is starting to make sense – we've only just started and he's already given me a Nightmare-level quest!"
+  },
+  {
+    "line": 523,
+    "text": "A new main quest has been automatically assigned to the Jyanshi: Invite a celebrity or celebrity group as the ambassador for the anniversary celebration. (0/1)"
+  },
+  {
+    "line": 524,
+    "text": "A group that can sing and dance like W.I.N should be a good fit for the lively celebration. I decide to give Kana Fujita a call."
+  },
+  {
+    "line": 525,
+    "text": "Kana Fujita"
+  },
+  {
+    "line": 526,
+    "text": "{var:player_nickname}! You called just after I finished rehearsal. You're not psychic, are you? Haha."
+  },
+  {
+    "line": 527,
+    "text": "What's this call about then? Just so you know, I'm trying to eat healthy these days, so I'll have to pass on any dinner invites."
+  },
+  {
+    "line": 528,
+    "text": "Then we'll celebrate with a banquet after your tour's over. Anyway, the real reason I'm calling is..."
+  },
+  {
+    "line": 529,
+    "text": "I tell Kana about Bamboo Cloud's hunt for a brand ambassador for the anniversary celebration."
+  },
+  {
+    "line": 530,
+    "text": "Aww... I'd really like to, but the group just signed an exclusive contract last month to represent a bubble tea brand on Champion Street, so we can't represent any other food or drink brands right now."
+  },
+  {
+    "line": 531,
+    "text": "I see... That's too bad."
+  },
+  {
+    "line": 532,
+    "text": "Hanging up, I heave a sigh. Still, it didn't come as a complete surprise – W.I.N's popularity has skyrocketed over the last two years, and companies must be lining up to partner with them."
+  },
+  {
+    "line": 533,
+    "text": "Looking at the list, the next familiar names I see are Cynthia and Hibiki Himekawa."
+  },
+  {
+    "line": 534,
+    "text": "Hibiki's been making livestreams about Bamboo Cloud's anniversary celebration nonstop lately. Inviting her to be the ambassador won't make much of a splash if customers see it as too predictable."
+  },
+  {
+    "line": 535,
+    "text": "As for Cynthia... What?! \"Supermodel Cynthia becomes the most-searched public figure on major search engines after her workout videos dominate the Trending list on CatChat.\""
+  },
+  {
+    "line": 536,
+    "text": "Just as I'm torn between candidates, a push notification for trending topics on CatChat pops up on my phone... After reading it, my mind is made up."
+  },
+  {
+    "line": 537,
+    "text": "Cynthia"
+  },
+  {
+    "line": 538,
+    "text": "My call fee during working hours isn't based on call charges, but rather on my hourly rate. Timer starts now –"
+  },
+  {
+    "line": 539,
+    "text": "Wait, already?!"
+  },
+  {
+    "line": 540,
+    "text": "Before I'm forced to declare bankruptcy over a phone call, I get right to the point and explain the ambassador role to Cynthia. She likewise gets right to the point and turns me down."
+  },
+  {
+    "line": 541,
+    "text": "Can't, sorry."
+  },
+  {
+    "line": 542,
+    "text": "Why?"
+  },
+  {
+    "line": 543,
+    "text": "Simple: I like Bamboo Cloud's menu, but I have to maintain my public image as a model, which obviously doesn't align with the restaurant industry's endorsement requirements."
+  },
+  {
+    "line": 544,
+    "text": "People tend to associate models with tags like \"fit, slender, and aloof,\" but the restaurants need people who are \"gourmets, foodies, and approachable.\""
+  },
+  {
+    "line": 545,
+    "text": "It would be like asking a bald person to endorse a shampoo brand. Even if I wanted to, my team would never sign off on it."
+  },
+  {
+    "line": 546,
+    "text": "Failed again..."
+  },
+  {
+    "line": 547,
+    "text": "Having a hard time, huh?"
+  },
+  {
+    "line": 548,
+    "text": "Ms. Fuuka? Wh-What are you doing here?"
+  },
+  {
+    "line": 549,
+    "text": "Fuuka Minami"
+  },
+  {
+    "line": 550,
+    "text": "Relax, I'm not supervising your work. I was walking by and happened to see you standing there in a daze."
+  },
+  {
+    "line": 551,
+    "text": "Come on, tell me what's troubling you. Who knows, maybe I can offer some helpful advice."
+  },
+  {
+    "line": 552,
+    "text": "After hearing my recap of the calls, Fuuka thinks for a moment."
+  },
+  {
+    "line": 553,
+    "text": "I don't see it as a failure. Cynthia declined because, objectively speaking, the two parties aren't a good fit. However, it didn't sound like she genuinely wanted to turn down your offer."
+  },
+  {
+    "line": 554,
+    "text": "Hm... but how can I convince her? She does make a good point..."
+  },
+  {
+    "line": 555,
+    "text": "An open mind is key to successful negotiations. It needs to be a two-way street, not one-sided persuasion."
+  },
+  {
+    "line": 556,
+    "text": "Seeing the look of slight confusion on my face, Fuuka smiles and taps my forehead with her fan."
+  },
+  {
+    "line": 557,
+    "text": "Think about it, people expect girl groups to have a \"healthy and fit\" image as well. So, how could a brand selling bubble tea – often considered a high-calorie \"junk food\" – convince W.I.N to be its ambassador?"
+  },
+  {
+    "line": 558,
+    "text": "That's right! And if they can turn the \"impossible\" into \"possible\"..."
+  },
+  {
+    "line": 559,
+    "text": "With this in mind, I give Kana Fujita another call."
+  },
+  {
+    "line": 560,
+    "text": "You're quite clingy today, {var:player_nickname} – but I like it, hehe."
+  },
+  {
+    "line": 561,
+    "text": "Let me guess... you're calling again to continue our brand ambassador conversation from earlier?"
+  },
+  {
+    "line": 562,
+    "text": "Are you psychic?! That's exactly why I'm calling."
+  },
+  {
+    "line": 563,
+    "text": "There's just something I still don't understand... As an idol group, why would you endorse a bubble tea brand?"
+  },
+  {
+    "line": 564,
+    "text": "Hm... Well, first of all, because bubble tea is Kana's favorite!"
+  },
+  {
+    "line": 565,
+    "text": "Second, the label thought that this type of nutritious bubble tea is the perfect after-school pick-me-up for busy and active high school students. Given our high school image, it aligns exactly with what the brand's customer base wants, so it was a natural fit!"
+  },
+  {
+    "line": 566,
+    "text": "(sips)... And this bubble tea is honestly pretty good!"
+  },
+  {
+    "line": 567,
+    "text": "Manager"
+  },
+  {
+    "line": 568,
+    "text": "Kana!! Haven't I told you that you can't drink too much of that stuff even if it is nutritious?!"
+  },
+  {
+    "line": 569,
+    "text": "Shoot, the manager caught me! I'm in for it now... Gotta run, bye!"
+  },
+  {
+    "line": 570,
+    "text": "Based on what Kana told me, I think I understand now. For a brand endorsement to really catch people's interest, both parties' images need to be compatible."
+  },
+  {
+    "line": 571,
+    "text": "And so, I decide to give Cynthia another call."
+  },
+  {
+    "line": 572,
+    "text": "I knew you'd call back. Giving up after just one try isn't your style."
+  },
+  {
+    "line": 573,
+    "text": "I didn't realize you knew me so well... Haha."
+  },
+  {
+    "line": 574,
+    "text": "Fine, I'll give you ten minutes to convince me – no charge. But if you go over that time, my hourly rate will kick in."
+  },
+  {
+    "line": 575,
+    "text": "Ten minutes is plenty. Cynthia, I've thought about it, and I believe that Bamboo Cloud's brand image has a lot in common with yours."
+  },
+  {
+    "line": 576,
+    "text": "For example?"
+  },
+  {
+    "line": 577,
+    "text": "Bamboo Cloud has always focused on using high-quality, healthy ingredients with clear origins in its dishes, so the public can enjoy them with peace of mind."
+  },
+  {
+    "line": 578,
+    "text": "And you think that relates to my image how...?"
+  },
+  {
+    "line": 579,
+    "text": "Like Bamboo Cloud, your brand image has always emphasized transparency and health. Your fans can trust your integrity just like they trust Bamboo Cloud's quality dishes – there's no risk of any scandal!"
+  },
+  {
+    "line": 580,
+    "text": "Tch... I should have known you'd be able to draw a connection like that. But what else do you have? I don't see any real benefit from just this angle."
+  },
+  {
+    "line": 581,
+    "text": "We'd both stand to gain from partnering, of course! I've given it some thought, and now that your activities are focused abroad, your style may blend in with other supermodels. To truly stand out in the fashion world, you need to showcase your unique strengths and qualities."
+  },
+  {
+    "line": 582,
+    "text": "If you collaborate with Bamboo Cloud and integrate Champion Street's unique local style into your look, I'm certain it would only further set your image apart and make you more popular than you already are."
+  },
+  {
+    "line": 583,
+    "text": "Excuse me, are you saying my current look doesn't stand out from the crowd? Wow..."
+  },
+  {
+    "line": 584,
+    "text": "No, that's not what I meant, I –"
+  },
+  {
+    "line": 585,
+    "text": "Hey, you heard all that too. I think {var:player_nickname} is on to something. We've been wanting to try out some new styles anyway, so why not start with this brand endorsement?"
+  },
+  {
+    "line": 586,
+    "text": "Hold on, who are you talking to?"
+  },
+  {
+    "line": 587,
+    "text": "Oh, Soumu happened to be here today to observe my work. You know I have to get the OK from my boss and manager before I can agree to something like this."
+  },
+  {
+    "line": 588,
+    "text": "Soumu"
+  },
+  {
+    "line": 589,
+    "text": "I have no objections, let's do it."
+  },
+  {
+    "line": 590,
+    "text": "Miss Cynthia, this is Bamboo Cloud's official booth."
+  },
+  {
+    "line": 591,
+    "text": "After night falls"
+  },
+  {
+    "line": 593,
+    "text": "Only a few hours earlier, I managed to convince Cynthia to serve as Bamboo Cloud's brand ambassador for its anniversary celebration."
+  },
+  {
+    "line": 594,
+    "text": "Cynthia has arrived at the food market set up by Bamboo Cloud to take in the festive atmosphere and record some videos for future promos."
+  },
+  {
+    "line": 595,
+    "text": "No matter how high-end a business event is, at the end of the day, the goal is always to attract customers and increase sales. So, to spice up the anniversary celebration, we launched a limited \"mystery box dish\" event."
+  },
+  {
+    "line": 596,
+    "text": "And what is a \"mystery box dish\" event exactly?"
+  },
+  {
+    "line": 597,
+    "text": "Random ingredients paired with random seasonings. Customers won't know the flavor until they take a bite."
+  },
+  {
+    "line": 598,
+    "text": "As for food safety, there's nothing to be concerned about. All ingredients and seasonings used in this event have been rigorously selected and are completely safe for consumption."
+  },
+  {
+    "line": 599,
+    "text": "Furthermore, to ensure everyone's peace of mind, we've also avoided any food combinations that are commonly mentioned as conflicting online."
+  },
+  {
+    "line": 600,
+    "text": "Sounds very fun."
+  },
+  {
+    "line": 601,
+    "text": "We're honored that you think so. Would you like to try being today's \"mystery box chef\"?"
+  },
+  {
+    "line": 602,
+    "text": "Sure!"
+  },
+  {
+    "line": 603,
+    "text": "What about you, {var:player_nickname}? Are we doing this together, or do you have work you need to do?"
+  },
+  {
+    "line": 605,
+    "text": "Get back to work"
+  },
+  {
+    "line": 607,
+    "text": "Join Cynthia"
+  },
+  {
+    "line": 608,
+    "text": "As I glance at the cameras densely packed around Cynthia, I decide I'd rather get some air away from the limelight."
+  },
+  {
+    "line": 609,
+    "text": "I've got a few things to take care of. Let's meet back up after you finish this."
+  },
+  {
+    "line": 610,
+    "text": "Okay, see you later then."
+  },
+  {
+    "line": 611,
+    "text": "I say goodbye to Cynthia and head off to check out the other stalls in the food market. After all, I need to get a lay of the land so I can keep a cool head on the day of the celebration."
+  },
+  {
+    "line": 612,
+    "text": "{var:player_nickname}!!"
+  },
+  {
+    "line": 613,
+    "text": "Jiu Hua?"
+  },
+  {
+    "line": 614,
+    "text": "Jiu Hua"
+  },
+  {
+    "line": 615,
+    "text": "Get over here and try this! I just bought them, so they're still hot!"
+  },
+  {
+    "line": 616,
+    "text": "I look at the shrimp dumplings. The faint blue-greenish color inside makes them look even more translucent. I instantly take a bite –"
+  },
+  {
+    "line": 617,
+    "text": "Ahhh... Ah-CHOO! {var:ShakeScene}"
+  },
+  {
+    "line": 618,
+    "text": "The tender shrimp filling abruptly bursts with a pungent wasabi kick that stings my sinuses. The ground seems to spin beneath me, and I'm bombarded by sneezes as tears stream from my eyes."
+  },
+  {
+    "line": 619,
+    "text": "Jiu Hua!!"
+  },
+  {
+    "line": 620,
+    "text": "Hmph, that's what you get for your treachery! You promised me – Ah-choo! – that you wouldn't tell Ume... Ah-choo! I can't believe you went back on your word like that... Ah-choo! Ah-CHOO! {var:ShakeScene}"
+  },
+  {
+    "line": 621,
+    "text": "I look at Jiu Hua, who, like me, is wiping tears from her face, and pass her some tissues. I'm not sure whether to laugh or to cry."
+  },
+  {
+    "line": 622,
+    "text": "We need to stick together right now! And which stall did you get these dumplings from? I need to steer clear of it..."
+  },
+  {
+    "line": 623,
+    "text": "Following Jiu Hua's directions, I make my way to the dumpling stall alone, only to find out that the \"volunteer chef\" is none other than Miki Nikaidou."
+  },
+  {
+    "line": 624,
+    "text": "...Suddenly, everything makes sense."
+  },
+  {
+    "line": 625,
+    "text": "Just as I'm about to slip away, I spot Take. He looks up and our eyes meet."
+  },
+  {
+    "line": 626,
+    "text": "Take"
+  },
+  {
+    "line": 627,
+    "text": "Oh? We meet again."
+  },
+  {
+    "line": 628,
+    "text": "I walk over and see him holding a pen, scribbling some calculations. A box of snacks with the lid half-off rests next to him, nearly cold..."
+  },
+  {
+    "line": 629,
+    "text": "You should be enjoying the food, not working overtime!"
+  },
+  {
+    "line": 630,
+    "text": "\"Food\"?"
+  },
+  {
+    "line": 631,
+    "text": "Without saying another word, Take hands me the box besides him. An eerie green light glows from the half-eaten shrimp dumpling inside... I see. None of us can escape Miki Nikaidou's \"dumpling spell.\""
+  },
+  {
+    "line": 632,
+    "text": "Take picks up his chopsticks and takes a small bite. Wiping away a tear and gritting his teeth, he continues with his calculations on the scrap paper."
+  },
+  {
+    "line": 634,
+    "text": "Miki... Look what have you done!"
+  },
+  {
+    "line": 635,
+    "text": "After leaving precisely one fourth of the dumplings behind, Take invites me back to Bamboo Cloud for a late-night snack. As we're eating, he takes out a pot of neatly pruned bamboo and passes it to me."
+  },
+  {
+    "line": 636,
+    "text": "Bamboo Cloud HQ, VIP Room"
+  },
+  {
+    "line": 637,
+    "text": "I know it's a little sudden, but... please accept this."
+  },
+  {
+    "line": 638,
+    "text": "What's this...?"
+  },
+  {
+    "line": 639,
+    "text": "Lucky bamboo. I thought I should give you something as thanks for helping me clean up the accounting office the other day. Lucky bamboo symbolizes wealth, so I figured it would make a fitting gift."
+  },
+  {
+    "line": 640,
+    "text": "Memento Received: [Potted Lucky Bamboo]"
+  },
+  {
+    "line": 641,
+    "text": "Wealth... The perfect blessing in every sense."
+  },
+  {
+    "line": 642,
+    "text": "I feel an indentation on the bottom of the pot. I lift it up and see words carved into it: \"From Shi Nian.\""
+  },
+  {
+    "line": 643,
+    "text": "Shi Nian?"
+  },
+  {
+    "line": 644,
+    "text": "Oh, that's my name."
+  },
+  {
+    "line": 645,
+    "text": "Huh? I thought your names were \"Ume,\" \"Ran,\" \"Take,\" and \"Kiku.\""
+  },
+  {
+    "line": 646,
+    "text": "Shi Nian"
+  },
+  {
+    "line": 648,
+    "text": "I didn't realize you faced such cut-throat competition for your name."
+  },
+  {
+    "line": 649,
+    "text": "Ahem... We have a good relationship though. You can just call me by my real name like Jiu Hua does in private. But out there, you'll have to call me \"Take.\""
+  },
+  {
+    "line": 650,
+    "text": "After all, it's a form of recognition. It means that, like Ume and Ran, I've earned my title!"
+  },
+  {
+    "line": 651,
+    "text": "Then, what about Jiu Hua..."
+  },
+  {
+    "line": 652,
+    "text": "She's different. Her name is like her spear – it holds special meaning. Once you've known her for a long time, you'll understand."
+  },
+  {
+    "line": 653,
+    "text": "Great, now you've made me more curious."
+  },
+  {
+    "line": 654,
+    "text": "Just as I'm about to attempt to smooth-talk all the secrets of the \"Four Nobles of Bamboo Cloud\" out of Shi Nian – or rather, Take – Ran calls on the phone to let me know that we're meeting in Bamboo Cloud's main hall."
+  },
+  {
+    "line": 655,
+    "text": "When I arrive, I'm surprised to see that Fuuka Minami is here too, as well as the other two of the \"Four Nobles.\""
+  },
+  {
+    "line": 656,
+    "text": "Bamboo Cloud HQ, Main Hall"
+  },
+  {
+    "line": 657,
+    "text": "I had Ran call you over because... the four of them have presented me with another campaign proposal."
+  },
+  {
+    "line": 659,
+    "text": "What's this...?"
+  },
+  {
+    "line": 660,
+    "text": "Celebrity endorsements aren't the only way to promote our brand. Another great approach is to release a behind-the-scenes documentary, showcasing Bamboo Cloud's meticulous preparations for the anniversary celebration and the staff's passion for the company."
+  },
+  {
+    "line": 661,
+    "text": "And you, my dutiful secretary, are perfect for the central character in this documentary. After all, you could be found pretty much anywhere the preparation work was happening."
+  },
+  {
+    "line": 662,
+    "text": "As you can see, this video is just missing one final piece: an on-camera interview with you, to talk about your experience working at Bamboo Cloud."
+  },
+  {
+    "line": 663,
+    "text": "Hehe, don't worry! If we do more intro videos later, I'll be sure to say lots of good things about you."
+  },
+  {
+    "line": 664,
+    "text": "I will too."
+  },
+  {
+    "line": 665,
+    "text": "Ume"
+  },
+  {
+    "line": 666,
+    "text": "Okay... Let's get started then."
+  },
+  {
+    "line": 667,
+    "text": "As Ume raises the camera to record the last part of the documentary, all the feelings I've experienced at Bamboo Cloud over the last few days well up from my heart... only to get stuck in my throat."
+  },
+  {
+    "line": 668,
+    "text": "Come on, relax! Try looking a little more natural!"
+  },
+  {
+    "line": 669,
+    "text": "There's a wrinkle in the hem of your shirt."
+  },
+  {
+    "line": 670,
+    "text": "Finally, I face the camera and say..."
+  },
+  {
+    "line": 671,
+    "text": "Welcome to Bamboo Cloud!//nAnd welcome to Bamboo Cloud's anniversary celebration!"
+  },
+  {
+    "line": 672,
+    "text": "I'll join you. After all, I'm the one who invited you here."
+  },
+  {
+    "line": 673,
+    "text": "Wonderful."
+  },
+  {
+    "line": 674,
+    "text": "Cynthia and I walk over to the window, help each other tie our aprons, and set to work making our mystery box dishes. We've now officially become \"mystery box chefs.\""
+  },
+  {
+    "line": 675,
+    "text": "I actually feel kind of like an artist. It's amazing getting to mix and match as you please."
+  },
+  {
+    "line": 676,
+    "text": "Hm... what should I pair these shrimp dumplings with? What do you think, {var:player_nickname}?"
+  },
+  {
+    "line": 677,
+    "text": "Blue cheese dressing"
+  },
+  {
+    "line": 678,
+    "text": "Stinky tofu"
+  },
+  {
+    "line": 679,
+    "text": "Blue Cheese Shrimp Dumplings are ready!"
+  },
+  {
+    "line": 680,
+    "text": "Customer A"
+  },
+  {
+    "line": 682,
+    "text": "Customer B"
+  },
+  {
+    "line": 683,
+    "text": "The tenderness of the shrimp filling combined with the sudden burst of creamy cheese gives it such a layered flavor that lingers!"
+  },
+  {
+    "line": 684,
+    "text": "Hibiki Himekawa"
+  },
+  {
+    "line": 685,
+    "text": "It's savory with a hint of spice. I bet even the shrimp didn't begrudge their fate. My fans, I've made up my mind – I'll treat ten of my haters to this! Ahh! Oh no... Water, I need water! {var:Shake}"
+  },
+  {
+    "line": 686,
+    "text": "This humble little shrimp dumpling leads to ecstasy for some and unconsciousness for others."
+  },
+  {
+    "line": 687,
+    "text": "Stinky Tofu Shrimp Dumplings are ready!"
+  },
+  {
+    "line": 688,
+    "text": "The stink is completely overpowering."
+  },
+  {
+    "line": 689,
+    "text": "But the mix of fermented tofu and fresh shrimp creates an insanely amazing aroma. It's hardcore delicious!"
+  },
+  {
+    "line": 690,
+    "text": "Ayako Morikawa"
+  },
+  {
+    "line": 691,
+    "text": "I think I can feel the chill of the underworld..."
+  },
+  {
+    "line": 692,
+    "text": "While most first-time tasters are repelled by the smell, for a select, brave few... the unique blend of flavors opens the doors to a new sensory world."
+  },
+  {
+    "line": 693,
+    "text": "Interesting."
+  },
+  {
+    "line": 694,
+    "text": "Are you enjoying yourself, Cynthia?"
+  },
+  {
+    "line": 695,
+    "text": "I am. Everyone's reactions are so interesting, I've never seen such obvious disgust and enjoyment."
+  },
+  {
+    "line": 696,
+    "text": "You know, in our industry, there are all sorts of people: diehard fans, haters, fan-to-haters, casual followers... Oh, and some \"casual\" followers aren't so casual after all... The point is, it can be hard to tell who actually likes you."
+  },
+  {
+    "line": 697,
+    "text": "But now..."
+  },
+  {
+    "line": 698,
+    "text": "You never have to wonder how people really feel about your shrimp dumplings."
+  },
+  {
+    "line": 699,
+    "text": "Bingo! That's why I enjoy pure reactions like these. Okay, let's try something else now... like this cheung fun – you know, the rice noodle rolls. What do you think we should pair them with?"
+  },
+  {
+    "line": 700,
+    "text": "Mint sauce"
+  },
+  {
+    "line": 701,
+    "text": "Jujubes and goji berries"
+  },
+  {
+    "line": 702,
+    "text": "Mint Sauce and Taro Paste Rice Noodle Rolls are ready!"
+  },
+  {
+    "line": 703,
+    "text": "Rice noodle rolls? I thought it was something like macarons. The green of that mint sauce is gorgeous though!"
+  },
+  {
+    "line": 704,
+    "text": "Rice noodle rolls with taro paste are already an affront to humanity, but with mint sauce too? Everyone knows that two wrongs don't make a right!"
+  },
+  {
+    "line": 705,
+    "text": "Chihori Terasaki"
+  },
+  {
+    "line": 706,
+    "text": "The mint sauce complements the smooth taro filling wonderfully, it's like chewing taro-flavored gum... This dish alone is headline-worthy."
+  },
+  {
+    "line": 707,
+    "text": "A word to the wise began spreading around the food market: Just like you shouldn't eat brightly-colored mushrooms, you shouldn't eat brightly-colored rice noodle rolls either..."
+  },
+  {
+    "line": 708,
+    "text": "Jujube, Goji Berry, and Mushroom Rice Noodle Rolls are ready!"
+  },
+  {
+    "line": 709,
+    "text": "It has such a strong herbal smell... Can something like this taste good? Might as well just take some herbal medicine."
+  },
+  {
+    "line": 710,
+    "text": "Hmm, the taste is actually quite healthy and refreshing. I didn't expect these flavors to go so well together. I'll take two more to help me recover from yesterday's overtime!"
+  },
+  {
+    "line": 711,
+    "text": "Lin Lang"
+  },
+  {
+    "line": 712,
+    "text": "Murder! Someone's... trying... to kill... me... ughh... {var:Shake}"
+  },
+  {
+    "line": 714,
+    "text": "After a few more rounds, Cynthia and I are completely exhausted. Seeing the customers' smiles... or scowls or frowns... I feel like it's been a truly fulfilling evening."
+  },
+  {
+    "line": 715,
+    "text": "After closing down the stall, Ume invites me back to Bamboo Cloud for a chat."
+  },
+  {
+    "line": 716,
+    "text": "Bamboo Cloud HQ, VIP Room"
+  },
+  {
+    "line": 717,
+    "text": "Uh-oh... Did our dubious dishes cause that much of a stir...?"
+  },
+  {
+    "line": 718,
+    "text": "No, I wanted to give you this."
+  },
+  {
+    "line": 719,
+    "text": "Huh? You mean..."
+  },
+  {
+    "line": 720,
+    "text": "Ume stands up, picks up a small pot with a kumquat tree, and hands it to me."
+  },
+  {
+    "line": 721,
+    "text": "It's a kumquat tree. We know how hard you've been working on the celebration preparations, and all your colleagues have nothing but praise for you."
+  },
+  {
+    "line": 722,
+    "text": "On behalf of Bamboo Cloud, as your manager, and as your friend... thank you for everything you've done."
+  },
+  {
+    "line": 723,
+    "text": "The kumquat tree symbolizes career success. Think of it as my best wishes for your future."
+  },
+  {
+    "line": 724,
+    "text": "*sniffling* M-Ms. Ume... Bamboo Cloud takes such good care of its staff!"
+  },
+  {
+    "line": 725,
+    "text": "Memento Received: [Potted Kumquat]"
+  },
+  {
+    "line": 726,
+    "text": "Just when I'm about to use the skills I've diligently honed over the last few days – \"how to win over your boss in three sentences\" – Ran calls on the phone to let me know that we're meeting in Bamboo Cloud's main hall."
+  },
+  {
+    "line": 727,
+    "text": "When I enter the main hall, I'm surprised to see that Fuuka Minami is here too, as well as the other two of the \"Four Nobles.\""
+  },
+  {
+    "line": 728,
+    "text": "Bamboo Cloud HQ, Main Hall"
+  },
+  {
+    "line": 731,
+    "text": "I'll be at a loss if I don't finish three fourths of it. {var:player_nickname}, if you ate some too, you'd better work out your loss rate now."
+  },
+  {
+    "line": 732,
+    "text": "If you love someone to the depths of your soul, give them this. If you hate someone with every fiber of your being, you should also give them this... Either way, that person will never forget you."
+  },
+  {
+    "line": 735,
+    "text": "Jiu Hua comes bounding over to me with a mysterious smile. She plays an edited video clip on her phone. To my surprise, it has the livestream Hibiki Himekawa filmed of my \"duel\" with Jiu Hua, Ume's footage of me hopelessly overwhelmed by ledgers in the accounting office, and even a photo Cynthia posted on CatChat of us at the food market..."
+  },
+  {
+    "line": 736,
+    "text": "We're in a bustling food market with food tastings, prize draws, and chefs cooking up a storm... Champion Street is buzzing with activity, lit up by lanterns stretching as far as the eye can see."
+  },
+  {
+    "line": 739,
+    "text": "Ms. Fuuka gave us those names as status symbols. Basically, if I perform well, I get to be \"Take.\" But if I don't and Ms. Fuuka is dissatisfied, then someone else might take the name \"Take.\""
+  },
+  {
+    "line": 740,
+    "text": "A server told us that some unknown customer actually picked out every bit of chopped shiitake mushroom from more than 30 rice noodle rolls and piled them all onto a single plate. It was quite a spectacular sight."
+  }
+]

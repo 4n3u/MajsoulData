@@ -1,0 +1,2491 @@
+{
+  "items": [
+    {
+      "filepath": "course\\course0.png"
+    },
+    {
+      "filepath": "course\\course1.png"
+    },
+    {
+      "filepath": "course\\course2.png"
+    },
+    {
+      "filepath": "course\\course3.png"
+    },
+    {
+      "filepath": "course\\course4.png"
+    },
+    {
+      "filepath": "course\\course5.png"
+    },
+    {
+      "filepath": "course\\course6.png"
+    },
+    {
+      "filepath": "course\\course7.png"
+    },
+    {
+      "filepath": "course\\course8.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ch_course10.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ch_course12.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ch_course13.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ch_course14.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ch_course15.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ch_course16.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ch_course17.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ch_course18.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ch_course19.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ch_course2.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ch_course20.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ch_course21.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ch_course22.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ch_course23.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ch_course24.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ch_course25.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ch_course3.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ch_course4.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ch_course5.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ch_course6.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ch_course7.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ch_course8.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ch_course9.png"
+    },
+    {
+      "filepath": "course\\detail_course\\guide_img\\1-1.png"
+    },
+    {
+      "filepath": "course\\detail_course\\guide_img\\1-2.png"
+    },
+    {
+      "filepath": "course\\detail_course\\guide_img\\1-3.png"
+    },
+    {
+      "filepath": "course\\detail_course\\guide_img\\1-4.png"
+    },
+    {
+      "filepath": "course\\detail_course\\guide_img\\2-1.png"
+    },
+    {
+      "filepath": "course\\detail_course\\guide_img\\3-1.png"
+    },
+    {
+      "filepath": "course\\detail_course\\guide_img\\4-1.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ui_img\\collected.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ui_img\\correct.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ui_img\\skip.png"
+    },
+    {
+      "filepath": "course\\detail_course\\ui_img\\title.png"
+    },
+    {
+      "filepath": "extendRes\\level\\sanma_quejie.png"
+    },
+    {
+      "filepath": "extendRes\\level\\sanma_quesheng.png"
+    },
+    {
+      "filepath": "extendRes\\level\\sima_quejie.png"
+    },
+    {
+      "filepath": "extendRes\\level\\sima_quesheng.png"
+    },
+    {
+      "filepath": "myres\\22winter\\banner_bg.jpg"
+    },
+    {
+      "filepath": "myres\\22winter\\banner_btn.png"
+    },
+    {
+      "filepath": "myres\\22winter\\btn_lobby.png"
+    },
+    {
+      "filepath": "myres\\22winter\\btn_reward.png"
+    },
+    {
+      "filepath": "myres\\22winter\\btn_reward_gray.png"
+    },
+    {
+      "filepath": "myres\\22winter\\text_time.png"
+    },
+    {
+      "filepath": "myres\\22winter\\title_main.png"
+    },
+    {
+      "filepath": "myres\\2303wenquan\\niudan\\btn_lobby.png"
+    },
+    {
+      "filepath": "myres\\2303wenquan\\niudan\\btn_pool.png"
+    },
+    {
+      "filepath": "myres\\2303wenquan\\niudan\\title_bg_task.png"
+    },
+    {
+      "filepath": "myres\\2303wenquan\\niudan\\title_main.png"
+    },
+    {
+      "filepath": "myres\\2303wenquan\\niudan\\title_pool.png"
+    },
+    {
+      "filepath": "myres\\2303wenquan\\niudan\\title_reward_1.png"
+    },
+    {
+      "filepath": "myres\\2303wenquan\\niudan\\title_reward_sp.png"
+    },
+    {
+      "filepath": "myres\\2304llx\\bg_banner.jpg"
+    },
+    {
+      "filepath": "myres\\2304llx\\btn_banner.png"
+    },
+    {
+      "filepath": "myres\\2304llx\\btn_lobby.png"
+    },
+    {
+      "filepath": "myres\\2304llx\\jiaoxue1.png"
+    },
+    {
+      "filepath": "myres\\2304llx\\jiaoxue2.png"
+    },
+    {
+      "filepath": "myres\\2304llx\\jiaoxue3.png"
+    },
+    {
+      "filepath": "myres\\2304llx\\jiaoxue4.png"
+    },
+    {
+      "filepath": "myres\\2304llx\\label_point.png"
+    },
+    {
+      "filepath": "myres\\2304llx\\text_match_dark.png"
+    },
+    {
+      "filepath": "myres\\2304llx\\text_point_dark.png"
+    },
+    {
+      "filepath": "myres\\2304llx\\text_point_light.png"
+    },
+    {
+      "filepath": "myres\\2304llx\\text_spot_dark.png"
+    },
+    {
+      "filepath": "myres\\2304llx\\text_spot_light.png"
+    },
+    {
+      "filepath": "myres\\2304llx\\text_task_dark.png"
+    },
+    {
+      "filepath": "myres\\2304llx\\text_task_light.png"
+    },
+    {
+      "filepath": "myres\\2304llx\\title_main.png"
+    },
+    {
+      "filepath": "myres\\2305maid\\spine_tip.png"
+    },
+    {
+      "filepath": "myres\\2311yly\\btn_match.png"
+    },
+    {
+      "filepath": "myres\\2311yly\\btn_point.png"
+    },
+    {
+      "filepath": "myres\\2311yly\\btn_spot.png"
+    },
+    {
+      "filepath": "myres\\2311yly\\btn_task.png"
+    },
+    {
+      "filepath": "myres\\2311yly\\ch1.png"
+    },
+    {
+      "filepath": "myres\\2311yly\\ch2.png"
+    },
+    {
+      "filepath": "myres\\2311yly\\ch3.png"
+    },
+    {
+      "filepath": "myres\\2311yly\\ch4.png"
+    },
+    {
+      "filepath": "myres\\2311yly\\ch5.png"
+    },
+    {
+      "filepath": "myres\\2311yly\\ch6.png"
+    },
+    {
+      "filepath": "myres\\2311yly\\jiaoxue1.png"
+    },
+    {
+      "filepath": "myres\\2311yly\\jiaoxue2.png"
+    },
+    {
+      "filepath": "myres\\2311yly\\jiaoxue3.png"
+    },
+    {
+      "filepath": "myres\\2311yly\\jiaoxue4.png"
+    },
+    {
+      "filepath": "myres\\2311yly\\text_match.png"
+    },
+    {
+      "filepath": "myres\\2311yly\\text_reward.png"
+    },
+    {
+      "filepath": "myres\\2311yly\\text_spot.png"
+    },
+    {
+      "filepath": "myres\\2311yly\\text_task.png"
+    },
+    {
+      "filepath": "myres\\2311yly\\title.png"
+    },
+    {
+      "filepath": "myres\\2312winter\\localize\\btn_recipe.png"
+    },
+    {
+      "filepath": "myres\\2312winter\\localize\\btn_reward.png"
+    },
+    {
+      "filepath": "myres\\2312winter\\localize\\btn_task.png"
+    },
+    {
+      "filepath": "myres\\2312winter\\localize\\help_1.png"
+    },
+    {
+      "filepath": "myres\\2312winter\\localize\\help_2.png"
+    },
+    {
+      "filepath": "myres\\2312winter\\localize\\help_title.png"
+    },
+    {
+      "filepath": "myres\\2312winter\\localize\\title.png"
+    },
+    {
+      "filepath": "myres\\2312winter\\localize\\title_new.png"
+    },
+    {
+      "filepath": "myres\\2312winter\\localize\\title_recipe.png"
+    },
+    {
+      "filepath": "myres\\2312winter\\localize\\title_reward.png"
+    },
+    {
+      "filepath": "myres\\2312winter\\localize\\title_task.png"
+    },
+    {
+      "filepath": "myres\\2312winter\\localize\\txt_type_1.png"
+    },
+    {
+      "filepath": "myres\\2312winter\\localize\\txt_type_2.png"
+    },
+    {
+      "filepath": "myres\\2312winter\\localize\\txt_type_3.png"
+    },
+    {
+      "filepath": "myres\\2312winter\\localize\\txt_type_4.png"
+    },
+    {
+      "filepath": "myres\\2312winter\\localize\\txt_type_5.png"
+    },
+    {
+      "filepath": "myres\\23chunjie\\banner_bg.jpg"
+    },
+    {
+      "filepath": "myres\\23chunjie\\banner_btn.png"
+    },
+    {
+      "filepath": "myres\\23chunjie\\btn_claim.png"
+    },
+    {
+      "filepath": "myres\\23chunjie\\btn_claim_gray.png"
+    },
+    {
+      "filepath": "myres\\23chunjie\\btn_firework.png"
+    },
+    {
+      "filepath": "myres\\23chunjie\\btn_food.png"
+    },
+    {
+      "filepath": "myres\\23chunjie\\btn_lantern.png"
+    },
+    {
+      "filepath": "myres\\23chunjie\\btn_lobby.png"
+    },
+    {
+      "filepath": "myres\\23chunjie\\text_claim_task.png"
+    },
+    {
+      "filepath": "myres\\23chunjie\\text_pt.png"
+    },
+    {
+      "filepath": "myres\\23chunjie\\text_title.png"
+    },
+    {
+      "filepath": "myres\\2401chunjie\\localize\\help_1.png"
+    },
+    {
+      "filepath": "myres\\2401chunjie\\localize\\help_2.png"
+    },
+    {
+      "filepath": "myres\\2401chunjie\\localize\\help_3.png"
+    },
+    {
+      "filepath": "myres\\2401chunjie\\localize\\pop_title_temple_1.png"
+    },
+    {
+      "filepath": "myres\\2401chunjie\\localize\\pop_title_temple_2.png"
+    },
+    {
+      "filepath": "myres\\2401chunjie\\localize\\title.png"
+    },
+    {
+      "filepath": "myres\\2401chunjie\\localize\\title_building.png"
+    },
+    {
+      "filepath": "myres\\2403wenquan\\localize\\banner_bg.jpg"
+    },
+    {
+      "filepath": "myres\\2403wenquan\\localize\\banner_btn.png"
+    },
+    {
+      "filepath": "myres\\2403wenquan\\localize\\bg.png"
+    },
+    {
+      "filepath": "myres\\2403wenquan\\localize\\btn_lobby.png"
+    },
+    {
+      "filepath": "myres\\2403wenquan\\localize\\get.png"
+    },
+    {
+      "filepath": "myres\\2403wenquan\\localize\\getted.png"
+    },
+    {
+      "filepath": "myres\\2403wenquan\\localize\\gift_back.png"
+    },
+    {
+      "filepath": "myres\\2403wenquan\\localize\\gift_get.png"
+    },
+    {
+      "filepath": "myres\\2403wenquan\\localize\\miaotv.png"
+    },
+    {
+      "filepath": "myres\\2403wenquan\\localize\\noreach.png"
+    },
+    {
+      "filepath": "myres\\2404ba\\localize\\entranceicon.png"
+    },
+    {
+      "filepath": "myres\\2404ba\\localize\\help_1.png"
+    },
+    {
+      "filepath": "myres\\2404ba\\localize\\help_2.png"
+    },
+    {
+      "filepath": "myres\\2404ba\\localize\\main_biaoti.png"
+    },
+    {
+      "filepath": "myres\\2404ba\\localize\\main_btn_huiyizhiting.png"
+    },
+    {
+      "filepath": "myres\\2404ba\\localize\\main_btn_hunzhiyiji.png"
+    },
+    {
+      "filepath": "myres\\2404ba\\localize\\main_btn_shetuanjiangli.png"
+    },
+    {
+      "filepath": "myres\\2404ba\\localize\\main_btn_xiaoqingtask.png"
+    },
+    {
+      "filepath": "myres\\2404ba\\localize\\main_btn_zuyuanlevelup.png"
+    },
+    {
+      "filepath": "myres\\2404ba\\localize\\rankup_qingdian.png"
+    },
+    {
+      "filepath": "myres\\2404ba\\localize\\task_getted.png"
+    },
+    {
+      "filepath": "myres\\2404ba\\localize\\tian_tip_fail.png"
+    },
+    {
+      "filepath": "myres\\2406haidao\\localize\\award_have_received.png"
+    },
+    {
+      "filepath": "myres\\2406haidao\\localize\\gameplay_1.png"
+    },
+    {
+      "filepath": "myres\\2406haidao\\localize\\gameplay_2.png"
+    },
+    {
+      "filepath": "myres\\2406haidao\\localize\\gameplay_3.png"
+    },
+    {
+      "filepath": "myres\\2406haidao\\localize\\main_activity_button_award.png"
+    },
+    {
+      "filepath": "myres\\2406haidao\\localize\\main_activity_button_backpack.png"
+    },
+    {
+      "filepath": "myres\\2406haidao\\localize\\main_activity_button_news.png"
+    },
+    {
+      "filepath": "myres\\2406haidao\\localize\\main_activity_button_remember.png"
+    },
+    {
+      "filepath": "myres\\2406haidao\\localize\\main_activity_button_task.png"
+    },
+    {
+      "filepath": "myres\\2406haidao\\localize\\main_activity_title.png"
+    },
+    {
+      "filepath": "myres\\2406haidao\\localize\\plot_plot_diagram_7.jpg"
+    },
+    {
+      "filepath": "myres\\2407shuiyi\\localize\\2407_exchange.jpg"
+    },
+    {
+      "filepath": "myres\\2407shuiyi\\localize\\2407_task.jpg"
+    },
+    {
+      "filepath": "myres\\activity_21guoqing\\banner.jpg"
+    },
+    {
+      "filepath": "myres\\activity_21guoqing\\banner_huahuo.jpg"
+    },
+    {
+      "filepath": "myres\\activity_abmatch\\ab_rule.png"
+    },
+    {
+      "filepath": "myres\\activity_abmatch\\banner_activity.png"
+    },
+    {
+      "filepath": "myres\\activity_abmatch\\banner_bg.jpg"
+    },
+    {
+      "filepath": "myres\\activity_abmatch\\bg.png"
+    },
+    {
+      "filepath": "myres\\activity_abmatch\\btn_abmatch.png"
+    },
+    {
+      "filepath": "myres\\activity_abmatch\\btn_battle.png"
+    },
+    {
+      "filepath": "myres\\activity_abmatch\\btn_get.png"
+    },
+    {
+      "filepath": "myres\\activity_abmatch\\btn_qiquan.png"
+    },
+    {
+      "filepath": "myres\\activity_abmatch\\btn_rewardinfo.png"
+    },
+    {
+      "filepath": "myres\\activity_abmatch\\btn_ruchang.png"
+    },
+    {
+      "filepath": "myres\\activity_abmatch\\freeticket.png"
+    },
+    {
+      "filepath": "myres\\activity_banner\\banner_bg.jpg"
+    },
+    {
+      "filepath": "myres\\activity_banner\\banner_btn.png"
+    },
+    {
+      "filepath": "myres\\activity_banner\\btn_lobby.png"
+    },
+    {
+      "filepath": "myres\\activity_dailyreward\\bg.png"
+    },
+    {
+      "filepath": "myres\\activity_dailyreward\\huima_dark.png"
+    },
+    {
+      "filepath": "myres\\activity_dailyreward\\huima_dark_long.png"
+    },
+    {
+      "filepath": "myres\\activity_dailyreward\\huima_light.png"
+    },
+    {
+      "filepath": "myres\\activity_dailyreward\\huima_light_long.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\ban_cancelpipei1.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\banner_maj.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\banner_movie.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\banner_shop.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\banner_travel.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\btn_doupai.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\btn_get.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\btn_maj.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\btn_movie.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\btn_pipei1.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\btn_pipei2.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\btn_shop.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\btn_travel.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\course\\an1.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\course\\an2.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\course\\an3.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\course\\an4.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\course\\m1.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\course\\m2.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\course\\s1.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\course\\s2.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\course\\s3.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\course\\s4.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\img_getted.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\img_rule.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\logo.png"
+    },
+    {
+      "filepath": "myres\\activity_doupai\\noinfo.png"
+    },
+    {
+      "filepath": "myres\\activity_exchange\\banner.jpg"
+    },
+    {
+      "filepath": "myres\\activity_exchange\\banner_huahuo.jpg"
+    },
+    {
+      "filepath": "myres\\activity_feednian\\btn_collect.png"
+    },
+    {
+      "filepath": "myres\\activity_feednian\\btn_collect_reward.png"
+    },
+    {
+      "filepath": "myres\\activity_feednian\\btn_collect_reward_done.png"
+    },
+    {
+      "filepath": "myres\\activity_feednian\\btn_collected.png"
+    },
+    {
+      "filepath": "myres\\activity_feednian\\btn_feed.png"
+    },
+    {
+      "filepath": "myres\\activity_feednian\\btn_feedNian_lobby.png"
+    },
+    {
+      "filepath": "myres\\activity_feednian\\btn_reward.png"
+    },
+    {
+      "filepath": "myres\\activity_feednian\\btn_rule.png"
+    },
+    {
+      "filepath": "myres\\activity_feednian\\btn_task.png"
+    },
+    {
+      "filepath": "myres\\activity_feednian\\collected_stamp.png"
+    },
+    {
+      "filepath": "myres\\activity_feednian\\confirm_title.png"
+    },
+    {
+      "filepath": "myres\\activity_feednian\\limit_reached_stamp.png"
+    },
+    {
+      "filepath": "myres\\activity_feednian\\main_title.png"
+    },
+    {
+      "filepath": "myres\\activity_feednian\\reward_title.png"
+    },
+    {
+      "filepath": "myres\\activity_feednian\\send_label.png"
+    },
+    {
+      "filepath": "myres\\activity_feednian\\send_label_disable.png"
+    },
+    {
+      "filepath": "myres\\activity_feednian\\task_bg.jpg"
+    },
+    {
+      "filepath": "myres\\activity_feednian\\task_btn.png"
+    },
+    {
+      "filepath": "myres\\activity_feednian\\task_title.png"
+    },
+    {
+      "filepath": "myres\\activity_flip_task\\bg.jpg"
+    },
+    {
+      "filepath": "myres\\activity_flip_task\\btn_final_get.png"
+    },
+    {
+      "filepath": "myres\\activity_flip_task\\btn_final_getted.png"
+    },
+    {
+      "filepath": "myres\\activity_flip_task\\btn_normal_get.png"
+    },
+    {
+      "filepath": "myres\\activity_flip_task\\btn_normal_getted.png"
+    },
+    {
+      "filepath": "myres\\activity_flip_task\\puzzle_ing.png"
+    },
+    {
+      "filepath": "myres\\activity_flip_task\\puzzle_reward.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\banner_bg.jpg"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\banner_btn.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\btn_cancel_match.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\btn_card.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\btn_close_main.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\btn_collect.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\btn_collected.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\btn_collection.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\btn_enter_match.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\btn_huiye_lobby.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\btn_match.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\btn_point.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\btn_story.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\btn_task.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\btn_uncompleted.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\card_collect_btn.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\main_title.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\point_sum.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\title_card1.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\title_card2.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\title_card3.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\title_match.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\title_point.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\title_task.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\yindao1.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\yindao2.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\yindao3.png"
+    },
+    {
+      "filepath": "myres\\activity_huiye\\yindao4.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\bg_lvguan.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\btn.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\btn_baopaikuangre.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\btn_chuanma.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\btn_get.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\btn_getted.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\btn_lvguan.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\btn_noitce.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\btn_sight.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\btn_ta.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\btn_xiuxing.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\btn_xiuxue.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\btn_yizhong.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\bugaolan.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\guanjingting.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\maintitle.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\noinfo.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\number_bg.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\pg1.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\pg2.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\pg3.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\pg4.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\pg5.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\pimax_panel.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\ptbuff_panel.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\questbuff_panel.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\rankbuff_panel.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\ranked.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\ranked2.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\rule.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\xianrenzhita.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\xiuxing.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\xiuxue.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\yd1.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\yd2.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\yd3.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\yd4.png"
+    },
+    {
+      "filepath": "myres\\activity_kuangdu\\yd6.png"
+    },
+    {
+      "filepath": "myres\\activity_lengyin\\banner_reward.jpg"
+    },
+    {
+      "filepath": "myres\\activity_lengyin\\banner_task.jpg"
+    },
+    {
+      "filepath": "myres\\activity_nianshou\\bg_main.png"
+    },
+    {
+      "filepath": "myres\\activity_nianshou\\bg_rank.png"
+    },
+    {
+      "filepath": "myres\\activity_nianshou\\bg_task.png"
+    },
+    {
+      "filepath": "myres\\activity_nianshou\\btn_entrance.png"
+    },
+    {
+      "filepath": "myres\\activity_nianshou\\btn_getreward.png"
+    },
+    {
+      "filepath": "myres\\activity_nianshou\\btn_getreward_gray.png"
+    },
+    {
+      "filepath": "myres\\activity_nianshou\\btn_nianshou.png"
+    },
+    {
+      "filepath": "myres\\activity_nianshou\\btn_return.png"
+    },
+    {
+      "filepath": "myres\\activity_nianshou\\btn_rule.png"
+    },
+    {
+      "filepath": "myres\\activity_nianshou\\rank_reward.png"
+    },
+    {
+      "filepath": "myres\\activity_richman\\banner_reward.jpg"
+    },
+    {
+      "filepath": "myres\\activity_richman\\banner_task.jpg"
+    },
+    {
+      "filepath": "myres\\activity_richman\\btn_go.png"
+    },
+    {
+      "filepath": "myres\\activity_richman\\btn_remote.png"
+    },
+    {
+      "filepath": "myres\\activity_richman\\reward.png"
+    },
+    {
+      "filepath": "myres\\activity_richman\\title_1.png"
+    },
+    {
+      "filepath": "myres\\activity_richman\\title_2.png"
+    },
+    {
+      "filepath": "myres\\activity_richman\\title_3.png"
+    },
+    {
+      "filepath": "myres\\activity_richman\\title_4.png"
+    },
+    {
+      "filepath": "myres\\activity_richman\\title_5.png"
+    },
+    {
+      "filepath": "myres\\activity_rpg\\ui\\banner_bg.jpg"
+    },
+    {
+      "filepath": "myres\\activity_rpg\\ui\\btn_banner.png"
+    },
+    {
+      "filepath": "myres\\activity_rpg\\ui\\btn_cancel.png"
+    },
+    {
+      "filepath": "myres\\activity_rpg\\ui\\btn_confirm.png"
+    },
+    {
+      "filepath": "myres\\activity_rpg\\ui\\btn_duanwei.png"
+    },
+    {
+      "filepath": "myres\\activity_rpg\\ui\\btn_get.png"
+    },
+    {
+      "filepath": "myres\\activity_rpg\\ui\\btn_get_grey.png"
+    },
+    {
+      "filepath": "myres\\activity_rpg\\ui\\btn_pipei.png"
+    },
+    {
+      "filepath": "myres\\activity_rpg\\ui\\btn_reward.png"
+    },
+    {
+      "filepath": "myres\\activity_rpg\\ui\\btn_rpg.png"
+    },
+    {
+      "filepath": "myres\\activity_rpg\\ui\\btn_zhanchang.png"
+    },
+    {
+      "filepath": "myres\\activity_rpg\\ui\\guanqia.png"
+    },
+    {
+      "filepath": "myres\\activity_rpg\\ui\\rewardtitle.png"
+    },
+    {
+      "filepath": "myres\\activity_rpg\\ui\\tip_boss.png"
+    },
+    {
+      "filepath": "myres\\activity_rpg\\ui\\title.png"
+    },
+    {
+      "filepath": "myres\\activity_rpg_new\\banner_bg.jpg"
+    },
+    {
+      "filepath": "myres\\activity_rpg_new\\banner_btn.png"
+    },
+    {
+      "filepath": "myres\\activity_rpg_new\\btn_nextstage.png"
+    },
+    {
+      "filepath": "myres\\activity_rpg_new\\lobby_btn.png"
+    },
+    {
+      "filepath": "myres\\activity_rpg_new\\num\\word_stage.png"
+    },
+    {
+      "filepath": "myres\\activity_rpg_new\\title_buff_1.png"
+    },
+    {
+      "filepath": "myres\\activity_rpg_new\\title_buff_2.png"
+    },
+    {
+      "filepath": "myres\\activity_rpg_new\\title_buff_3.png"
+    },
+    {
+      "filepath": "myres\\activity_rpg_new\\title_buff_4.png"
+    },
+    {
+      "filepath": "myres\\activity_rpg_new\\title_main.png"
+    },
+    {
+      "filepath": "myres\\activity_rpg_new\\title_task.png"
+    },
+    {
+      "filepath": "myres\\activity_saki2\\banner.jpg"
+    },
+    {
+      "filepath": "myres\\activity_saki2\\bg_match.png"
+    },
+    {
+      "filepath": "myres\\activity_saki2\\bg_point.png"
+    },
+    {
+      "filepath": "myres\\activity_saki2\\bg_spot.png"
+    },
+    {
+      "filepath": "myres\\activity_saki2\\bg_task.png"
+    },
+    {
+      "filepath": "myres\\activity_saki2\\btn_banner.png"
+    },
+    {
+      "filepath": "myres\\activity_saki2\\btn_cancelmatch.png"
+    },
+    {
+      "filepath": "myres\\activity_saki2\\btn_collect.png"
+    },
+    {
+      "filepath": "myres\\activity_saki2\\btn_collected.png"
+    },
+    {
+      "filepath": "myres\\activity_saki2\\btn_match_start.png"
+    },
+    {
+      "filepath": "myres\\activity_saki2\\btn_point.png"
+    },
+    {
+      "filepath": "myres\\activity_saki2\\btn_spot.png"
+    },
+    {
+      "filepath": "myres\\activity_saki2\\btn_startmatch.png"
+    },
+    {
+      "filepath": "myres\\activity_saki2\\btn_task.png"
+    },
+    {
+      "filepath": "myres\\activity_saki2\\btn_unachieved.png"
+    },
+    {
+      "filepath": "myres\\activity_saki2\\lobby_btn.png"
+    },
+    {
+      "filepath": "myres\\activity_saki2\\status_match.png"
+    },
+    {
+      "filepath": "myres\\activity_saki2\\text_return.png"
+    },
+    {
+      "filepath": "myres\\activity_saki2\\title_main.png"
+    },
+    {
+      "filepath": "myres\\activity_saki2\\title_rule.png"
+    },
+    {
+      "filepath": "myres\\activity_saki2\\yindao1.png"
+    },
+    {
+      "filepath": "myres\\activity_saki2\\yindao2.png"
+    },
+    {
+      "filepath": "myres\\activity_saki2\\yindao3.png"
+    },
+    {
+      "filepath": "myres\\activity_saki2\\yindao4.png"
+    },
+    {
+      "filepath": "myres\\activity_shengdanpoint\\bg.png"
+    },
+    {
+      "filepath": "myres\\activity_shengdanpoint\\btn_get.png"
+    },
+    {
+      "filepath": "myres\\activity_shengdanpoint\\btn_get_gray.png"
+    },
+    {
+      "filepath": "myres\\activity_shengdanpoint\\btn_in.png"
+    },
+    {
+      "filepath": "myres\\activity_shengdanpoint\\btn_rule.png"
+    },
+    {
+      "filepath": "myres\\activity_shengdanpoint\\btn_title.png"
+    },
+    {
+      "filepath": "myres\\activity_shengdanpoint\\taskbg.jpg"
+    },
+    {
+      "filepath": "myres\\activity_shuiyi\\banner.jpg"
+    },
+    {
+      "filepath": "myres\\activity_shuiyi\\bg.jpg"
+    },
+    {
+      "filepath": "myres\\activity_shuiyi\\btn_activity.png"
+    },
+    {
+      "filepath": "myres\\activity_shuiyi\\btn_confirm.png"
+    },
+    {
+      "filepath": "myres\\activity_shuiyi\\getted.png"
+    },
+    {
+      "filepath": "myres\\activity_spot\\btn_collect.png"
+    },
+    {
+      "filepath": "myres\\activity_spot\\btn_collected.png"
+    },
+    {
+      "filepath": "myres\\activity_spot\\btn_lobby.png"
+    },
+    {
+      "filepath": "myres\\activity_spot\\btn_receive.png"
+    },
+    {
+      "filepath": "myres\\activity_spot\\btn_received.png"
+    },
+    {
+      "filepath": "myres\\activity_spot\\btn_unachieved.png"
+    },
+    {
+      "filepath": "myres\\activity_spot\\deco_left.png"
+    },
+    {
+      "filepath": "myres\\activity_spot\\enter.png"
+    },
+    {
+      "filepath": "myres\\activity_spot\\text_left.png"
+    },
+    {
+      "filepath": "myres\\activity_spot\\title_1.png"
+    },
+    {
+      "filepath": "myres\\bothui\\getreward.png"
+    },
+    {
+      "filepath": "myres\\bothui\\jump.png"
+    },
+    {
+      "filepath": "myres\\bothui\\title_get.png"
+    },
+    {
+      "filepath": "myres\\bothui\\update_spine\\spine_dropdown.png"
+    },
+    {
+      "filepath": "myres\\chuanma\\dingque_m.png"
+    },
+    {
+      "filepath": "myres\\chuanma\\dingque_m_gray.png"
+    },
+    {
+      "filepath": "myres\\chuanma\\dingque_p.png"
+    },
+    {
+      "filepath": "myres\\chuanma\\dingque_p_gray.png"
+    },
+    {
+      "filepath": "myres\\chuanma\\dingque_s.png"
+    },
+    {
+      "filepath": "myres\\chuanma\\dingque_s_gray.png"
+    },
+    {
+      "filepath": "myres\\chuanma\\recom.png"
+    },
+    {
+      "filepath": "myres\\dailyreward_sp\\tag.png"
+    },
+    {
+      "filepath": "myres\\dailyreward_sp\\title.png"
+    },
+    {
+      "filepath": "myres\\endtrail\\bg_txt.png"
+    },
+    {
+      "filepath": "myres\\endtrail\\calc.png"
+    },
+    {
+      "filepath": "myres\\endtrail\\loading4.png"
+    },
+    {
+      "filepath": "myres\\endtrail\\result_title.png"
+    },
+    {
+      "filepath": "myres\\endtrail\\rewardbg.png"
+    },
+    {
+      "filepath": "myres\\entrance\\login.png"
+    },
+    {
+      "filepath": "myres\\entrance\\regis.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\big_fate1.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\big_fate2.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\big_fate3.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\big_fate4.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\big_fate5.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\big_fortune1.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\big_fortune2.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\big_fortune3.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\big_fortune4.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\big_fortune5.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\big_zhuang1.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\big_zhuang2.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\big_zhuang3.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\big_zhuang4.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\big_zhuang5.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\small_fate1.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\small_fate2.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\small_fate3.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\small_fate4.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\small_fate5.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\small_fortune1.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\small_fortune2.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\small_fortune3.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\small_fortune4.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\small_fortune5.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\small_zhuang1.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\small_zhuang2.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\small_zhuang3.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\small_zhuang4.png"
+    },
+    {
+      "filepath": "myres\\field_spell\\small_zhuang5.png"
+    },
+    {
+      "filepath": "myres\\lobby\\act_bright.png"
+    },
+    {
+      "filepath": "myres\\lobby\\act_dark.png"
+    },
+    {
+      "filepath": "myres\\lobby\\btn_dajiangsai.png"
+    },
+    {
+      "filepath": "myres\\lobby\\btn_longzhenghudou.png"
+    },
+    {
+      "filepath": "myres\\lobby\\btn_yibanchang.png"
+    },
+    {
+      "filepath": "myres\\lobby\\btn_yourenchang.png"
+    },
+    {
+      "filepath": "myres\\lobby\\btn0.png"
+    },
+    {
+      "filepath": "myres\\lobby\\btn1.png"
+    },
+    {
+      "filepath": "myres\\lobby\\btn2.png"
+    },
+    {
+      "filepath": "myres\\lobby\\btn3.png"
+    },
+    {
+      "filepath": "myres\\lobby\\btn4.png"
+    },
+    {
+      "filepath": "myres\\lobby\\btn5.png"
+    },
+    {
+      "filepath": "myres\\lobby\\btn6.png"
+    },
+    {
+      "filepath": "myres\\lobby\\change.png"
+    },
+    {
+      "filepath": "myres\\lobby\\closed.png"
+    },
+    {
+      "filepath": "myres\\lobby\\collect.png"
+    },
+    {
+      "filepath": "myres\\lobby\\collect_no.png"
+    },
+    {
+      "filepath": "myres\\lobby\\collected.png"
+    },
+    {
+      "filepath": "myres\\lobby\\flag_owned.png"
+    },
+    {
+      "filepath": "myres\\lobby\\icon_act.png"
+    },
+    {
+      "filepath": "myres\\lobby\\mail_bright.png"
+    },
+    {
+      "filepath": "myres\\lobby\\mail_dark.png"
+    },
+    {
+      "filepath": "myres\\lobby\\new_mode\\w_hunzhiyiji.png"
+    },
+    {
+      "filepath": "myres\\lobby\\new_mode\\w_tianmingzhizhan.png"
+    },
+    {
+      "filepath": "myres\\lobby\\new_mode\\w_yongchangzhizhan.png"
+    },
+    {
+      "filepath": "myres\\lobby\\new_mode\\w_zhanxingzhizhan.png"
+    },
+    {
+      "filepath": "myres\\lobby\\OB_btn.png"
+    },
+    {
+      "filepath": "myres\\lobby\\recharge_first.png"
+    },
+    {
+      "filepath": "myres\\lobby\\spineskin_tip.png"
+    },
+    {
+      "filepath": "myres\\lobby\\w_anyezhizhan.png"
+    },
+    {
+      "filepath": "myres\\lobby\\w_chiyuzhizhan.png"
+    },
+    {
+      "filepath": "myres\\lobby\\w_createroom.png"
+    },
+    {
+      "filepath": "myres\\lobby\\w_dora3.png"
+    },
+    {
+      "filepath": "myres\\lobby\\w_huanjingchuanshuo.png"
+    },
+    {
+      "filepath": "myres\\lobby\\w_huodongchang.png"
+    },
+    {
+      "filepath": "myres\\lobby\\w_jinzhijian.png"
+    },
+    {
+      "filepath": "myres\\lobby\\w_joinroom.png"
+    },
+    {
+      "filepath": "myres\\lobby\\w_longzhenghudou.png"
+    },
+    {
+      "filepath": "myres\\lobby\\w_mingjingzhizhan.png"
+    },
+    {
+      "filepath": "myres\\lobby\\w_muyu.png"
+    },
+    {
+      "filepath": "myres\\lobby\\w_saishidating.png"
+    },
+    {
+      "filepath": "myres\\lobby\\w_sanrendong.png"
+    },
+    {
+      "filepath": "myres\\lobby\\w_shilian.png"
+    },
+    {
+      "filepath": "myres\\lobby\\w_sirendong.png"
+    },
+    {
+      "filepath": "myres\\lobby\\w_tongzhijian.png"
+    },
+    {
+      "filepath": "myres\\lobby\\w_wangzuo.png"
+    },
+    {
+      "filepath": "myres\\lobby\\w_xiuluozhizhan.png"
+    },
+    {
+      "filepath": "myres\\lobby\\w_xiuxian.png"
+    },
+    {
+      "filepath": "myres\\lobby\\w_yijushengfu.png"
+    },
+    {
+      "filepath": "myres\\lobby\\w_yinzhijian.png"
+    },
+    {
+      "filepath": "myres\\lobby\\w_yuzhijian.png"
+    },
+    {
+      "filepath": "myres\\lobby\\xm-tag1.png"
+    },
+    {
+      "filepath": "myres\\lobby\\xm-tag2.png"
+    },
+    {
+      "filepath": "myres\\lobby\\xm-title.png"
+    },
+    {
+      "filepath": "myres\\match_lobby\\marker_trend.png"
+    },
+    {
+      "filepath": "myres\\match_room\\localize\\add_attention.png"
+    },
+    {
+      "filepath": "myres\\match_room\\localize\\icon_modify_the_rules.png"
+    },
+    {
+      "filepath": "myres\\matchcreate\\localize\\icon_creation_event.png"
+    },
+    {
+      "filepath": "myres\\matchcreate\\localize\\icon_management_event.png"
+    },
+    {
+      "filepath": "myres\\matchcreate\\localize\\icon_management_web.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\bg_dora.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\bg_lidora.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\fanfu.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\huangpailiuju.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\hunzhiyiji\\weak.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\jiuzhongjiupai.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\muyu\\muyu_0.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\nofan.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\op_babei.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\op_chi.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\op_gang.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\op_hu.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\op_liuju.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\op_lizhi.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\op_peng.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\op_x.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\op_zimo.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\sanjiahule.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\shengduan\\btn_close.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\shengduan\\sdb0.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\shengduan\\sdb1.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\shengduan\\title.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\shengduan\\w0.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\shengduan\\w1.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\shengduan\\w2.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\shout_babei.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\shout_chi.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\shout_gang.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\shout_lizhi.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\shout_locktile.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\shout_peng.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\shout_unveil.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\show_tingpai.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\sifenglianda.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\sigangsanle.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\sijializhi.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\tianming\\tianming_big_1.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\tianming\\tianming_big_2.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\tianming\\tianming_big_3.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\tianming\\tianming_big_4.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\tianming\\tianming_big_5.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\update_21doupai\\op_lock.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\update_21doupai\\op_revealliqi.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\update_21doupai\\op_unveil.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\update_21kuangdu\\fangang.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\update_21kuangdu\\tingpai.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\update_21saki\\op_changetile.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\update_21saki\\recom_chs.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\update_21saki\\recom_chs_t.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\update_21sns\\pause.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\upgrade.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\winlose.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\word_point.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\word_yiman.png"
+    },
+    {
+      "filepath": "myres\\mjdesktop\\yongchang\\yongchang_guide.png"
+    },
+    {
+      "filepath": "myres\\necessary\\enter_lobby.png"
+    },
+    {
+      "filepath": "myres\\necessary\\enter_mj.png"
+    },
+    {
+      "filepath": "myres\\necessary\\load_lobby.png"
+    },
+    {
+      "filepath": "myres\\necessary\\word.png"
+    },
+    {
+      "filepath": "myres\\newbie_quest\\btn_collect.png"
+    },
+    {
+      "filepath": "myres\\newbie_quest\\btn_quiz.png"
+    },
+    {
+      "filepath": "myres\\newbie_quest\\quiz_1.png"
+    },
+    {
+      "filepath": "myres\\newbie_quest\\quiz_2.png"
+    },
+    {
+      "filepath": "myres\\newbie_quest\\quiz_3.png"
+    },
+    {
+      "filepath": "myres\\newbie_quest\\quiz_4.png"
+    },
+    {
+      "filepath": "myres\\newbie_quest\\quiz_5.png"
+    },
+    {
+      "filepath": "myres\\newbie_quest\\quiz_6.png"
+    },
+    {
+      "filepath": "myres\\newbie_quest\\quiz_7.png"
+    },
+    {
+      "filepath": "myres\\newbie_quest\\title_quiz.png"
+    },
+    {
+      "filepath": "myres\\pic_zhengting.png"
+    },
+    {
+      "filepath": "myres\\priscreen\\btn_reset.png"
+    },
+    {
+      "filepath": "myres\\room\\ai.png"
+    },
+    {
+      "filepath": "myres\\room\\bianjietishi.png"
+    },
+    {
+      "filepath": "myres\\room\\btn_cancel.png"
+    },
+    {
+      "filepath": "myres\\room\\btn_create.png"
+    },
+    {
+      "filepath": "myres\\room\\btn_create_no.png"
+    },
+    {
+      "filepath": "myres\\room\\btn_ready.png"
+    },
+    {
+      "filepath": "myres\\room\\btn_start.png"
+    },
+    {
+      "filepath": "myres\\room\\btn_start_no.png"
+    },
+    {
+      "filepath": "myres\\room\\chibaopai.png"
+    },
+    {
+      "filepath": "myres\\room\\fandian.png"
+    },
+    {
+      "filepath": "myres\\room\\fanfu.png"
+    },
+    {
+      "filepath": "myres\\room\\gaojishezhi.png"
+    },
+    {
+      "filepath": "myres\\room\\jushu.png"
+    },
+    {
+      "filepath": "myres\\room\\ob.png"
+    },
+    {
+      "filepath": "myres\\room\\qishidianshu.png"
+    },
+    {
+      "filepath": "myres\\room\\ready.png"
+    },
+    {
+      "filepath": "myres\\room\\roomowner.png"
+    },
+    {
+      "filepath": "myres\\room\\timeset.png"
+    },
+    {
+      "filepath": "myres\\room\\txt_bet.png"
+    },
+    {
+      "filepath": "myres\\room\\txt_doublelimit.png"
+    },
+    {
+      "filepath": "myres\\room\\txt_eatornot.png"
+    },
+    {
+      "filepath": "myres\\room\\txt_match.png"
+    },
+    {
+      "filepath": "myres\\room\\txt_mode.png"
+    },
+    {
+      "filepath": "myres\\room\\txt_open_hand.png"
+    },
+    {
+      "filepath": "myres\\room\\txt_unnormal.png"
+    },
+    {
+      "filepath": "myres\\room\\zimosun.png"
+    },
+    {
+      "filepath": "myres\\room_create\\localize\\room_create_advance_text.png"
+    },
+    {
+      "filepath": "myres\\room_create\\localize\\room_create_computer_text.png"
+    },
+    {
+      "filepath": "myres\\room_create\\localize\\room_create_create_text.png"
+    },
+    {
+      "filepath": "myres\\room_create\\localize\\room_create_fanfu_text.png"
+    },
+    {
+      "filepath": "myres\\room_create\\localize\\room_create_guyi_text.png"
+    },
+    {
+      "filepath": "myres\\room_create\\localize\\room_create_hongbaopai_text.png"
+    },
+    {
+      "filepath": "myres\\room_create\\localize\\room_create_jushu_text.png"
+    },
+    {
+      "filepath": "myres\\room_create\\localize\\room_create_match_text.png"
+    },
+    {
+      "filepath": "myres\\room_create\\localize\\room_create_observe_text.png"
+    },
+    {
+      "filepath": "myres\\room_create\\localize\\room_create_open_hand.png"
+    },
+    {
+      "filepath": "myres\\room_create\\localize\\room_create_point_text.png"
+    },
+    {
+      "filepath": "myres\\room_create\\localize\\room_create_shiduan_text.png"
+    },
+    {
+      "filepath": "myres\\room_create\\localize\\room_create_start_point_text.png"
+    },
+    {
+      "filepath": "myres\\room_create\\localize\\room_create_time_text.png"
+    },
+    {
+      "filepath": "myres\\room_create\\localize\\room_create_tip_text.png"
+    },
+    {
+      "filepath": "myres\\room_create\\localize\\room_create_zimosun_text.png"
+    },
+    {
+      "filepath": "myres\\room_create\\localize\\room_rule_btn.png"
+    },
+    {
+      "filepath": "myres\\room_friend\\localize\\btn_yi.png"
+    },
+    {
+      "filepath": "myres\\room_friend\\localize\\room_cancel_btn_text.png"
+    },
+    {
+      "filepath": "myres\\room_friend\\localize\\room_prepare_text.png"
+    },
+    {
+      "filepath": "myres\\room_friend\\localize\\room_start_btn_text.png"
+    },
+    {
+      "filepath": "myres\\room_friend\\localize\\room_suit_btn_text.png"
+    },
+    {
+      "filepath": "myres\\shop\\buyed.png"
+    },
+    {
+      "filepath": "myres\\shop\\haitanpaiduilibao2_shop.jpg"
+    },
+    {
+      "filepath": "myres\\shop\\owned.png"
+    },
+    {
+      "filepath": "myres\\shop\\xianding.png"
+    },
+    {
+      "filepath": "myres\\sns\\231203.jpg"
+    },
+    {
+      "filepath": "myres\\sns\\231205.jpg"
+    },
+    {
+      "filepath": "myres\\sns\\231210.jpg"
+    },
+    {
+      "filepath": "myres\\sns\\240601.jpg"
+    },
+    {
+      "filepath": "myres\\sns\\240606.jpg"
+    },
+    {
+      "filepath": "myres\\star_up\\levelup.png"
+    },
+    {
+      "filepath": "myres\\sushe\\gift_send.png"
+    },
+    {
+      "filepath": "myres\\sushe\\gift_sign.png"
+    },
+    {
+      "filepath": "myres\\sushe\\gift_sign1.png"
+    },
+    {
+      "filepath": "myres\\sushe\\time_limit.png"
+    },
+    {
+      "filepath": "myres\\tanfang_new\\btn_skip.png"
+    },
+    {
+      "filepath": "myres\\treasure\\liandong_multi\\treasure_btn0_chosed_ld1.png"
+    },
+    {
+      "filepath": "myres\\treasure\\liandong_multi\\treasure_btn0_chosed_ld2.png"
+    },
+    {
+      "filepath": "myres\\treasure\\liandong_multi\\treasure_btn0_unchose_ld1.png"
+    },
+    {
+      "filepath": "myres\\treasure\\liandong_multi\\treasure_btn0_unchose_ld2.png"
+    },
+    {
+      "filepath": "myres\\treasure\\liandong_multi\\treasure_btn1_chosed_ld1.png"
+    },
+    {
+      "filepath": "myres\\treasure\\liandong_multi\\treasure_btn1_chosed_ld2.png"
+    },
+    {
+      "filepath": "myres\\treasure\\liandong_multi\\treasure_btn1_unchose_ld1.png"
+    },
+    {
+      "filepath": "myres\\treasure\\liandong_multi\\treasure_btn1_unchose_ld2.png"
+    },
+    {
+      "filepath": "myres\\treasure\\treasure_btn_chosed_ld.png"
+    },
+    {
+      "filepath": "myres\\treasure\\treasure_btn_unchose_ld.png"
+    },
+    {
+      "filepath": "myres\\treasure\\treasure_btn0_chosed.png"
+    },
+    {
+      "filepath": "myres\\treasure\\treasure_btn0_chosed_ld.png"
+    },
+    {
+      "filepath": "myres\\treasure\\treasure_btn0_chosed_up.png"
+    },
+    {
+      "filepath": "myres\\treasure\\treasure_btn0_unchose.png"
+    },
+    {
+      "filepath": "myres\\treasure\\treasure_btn0_unchose_ld.png"
+    },
+    {
+      "filepath": "myres\\treasure\\treasure_btn0_unchose_up.png"
+    },
+    {
+      "filepath": "myres\\treasure\\treasure_btn1_chosed_ld.png"
+    },
+    {
+      "filepath": "myres\\treasure\\treasure_btn1_chosed_up2.png"
+    },
+    {
+      "filepath": "myres\\treasure\\treasure_btn1_unchose_ld.png"
+    },
+    {
+      "filepath": "myres\\treasure\\treasure_btn1_unchose_up2.png"
+    },
+    {
+      "filepath": "myres\\treasure_new\\hint_lefttime.png"
+    },
+    {
+      "filepath": "myres\\treasure_new\\mark_owned.png"
+    },
+    {
+      "filepath": "myres\\trial\\banner.jpg"
+    },
+    {
+      "filepath": "myres\\trial\\book.png"
+    },
+    {
+      "filepath": "myres\\trial\\btn_cancel.png"
+    },
+    {
+      "filepath": "myres\\trial\\btn_rank.png"
+    },
+    {
+      "filepath": "myres\\trial\\btn_reissue.png"
+    },
+    {
+      "filepath": "myres\\trial\\btn_reward.png"
+    },
+    {
+      "filepath": "myres\\trial\\btn_stamp.png"
+    },
+    {
+      "filepath": "myres\\trial\\btn_start.png"
+    },
+    {
+      "filepath": "myres\\trial\\score_trail.png"
+    },
+    {
+      "filepath": "myres\\trial\\stamp_fail.png"
+    },
+    {
+      "filepath": "myres\\trial\\stamp_success.png"
+    },
+    {
+      "filepath": "myres\\trial\\upgrade_f.png"
+    },
+    {
+      "filepath": "myres\\trial\\upgrade_s.png"
+    },
+    {
+      "filepath": "myres\\vote_skin\\activity_banner.jpg"
+    },
+    {
+      "filepath": "myres\\vote_skin\\activity_btn.png"
+    },
+    {
+      "filepath": "myres\\vote_skin\\btn_collect.png"
+    },
+    {
+      "filepath": "myres\\vote_skin\\btn_collected.png"
+    },
+    {
+      "filepath": "myres\\vote_skin\\btn_goto.png"
+    },
+    {
+      "filepath": "myres\\vote_skin\\btn_goto_yueka.png"
+    },
+    {
+      "filepath": "myres\\vote_skin\\btn_unachieved.png"
+    },
+    {
+      "filepath": "myres\\vote_skin\\lobby_btn.png"
+    },
+    {
+      "filepath": "myres\\vote_skin\\tab_result_dark.png"
+    },
+    {
+      "filepath": "myres\\vote_skin\\tab_result_light.png"
+    },
+    {
+      "filepath": "myres\\vote_skin\\tab_vote_dark.png"
+    },
+    {
+      "filepath": "myres\\vote_skin\\tab_vote_light.png"
+    },
+    {
+      "filepath": "myres\\vote_skin\\title.png"
+    },
+    {
+      "filepath": "myres\\xianding_black.png"
+    },
+    {
+      "filepath": "myres\\xianding_light.png"
+    },
+    {
+      "filepath": "myres\\yueka\\bg_yueka.jpg"
+    },
+    {
+      "filepath": "myres\\yueka\\buy.png"
+    },
+    {
+      "filepath": "myres\\yueka\\get.png"
+    },
+    {
+      "filepath": "myres\\yueka\\last.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\all_black.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\all_light.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\banner.jpg"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\banner_btn.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\bg_chahuahui.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\btn_guize.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\btn_hesu.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\btn_intro.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\chahuahui.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\chh_yd.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\duiju_black.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\duiju_light.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\duizhanshi.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\duizhanshi_tanchuang.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\dz_yd.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\finish_black.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\finish_light.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\finished.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\getted_black.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\getted_light.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\info.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\nofinish_black.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\nofinish_light.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\noinfo.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\page5.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\page6.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\page7.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\qiyuan.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\qiyuan_tanchuang.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\sk_yd.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\title.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\xiaomaibu.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\xiaomaibu_tanchuang.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\xmb_yd.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\yindao1.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\yindao2.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\yindao3.png"
+    },
+    {
+      "filepath": "myres2\\activity_hesu\\yindao4.png"
+    },
+    {
+      "filepath": "myres2\\pool_view\\collab\\up_collab.png"
+    },
+    {
+      "filepath": "myres2\\pool_view\\default\\icon_frame.png"
+    },
+    {
+      "filepath": "myres2\\pool_view\\default\\up_new_0.png"
+    },
+    {
+      "filepath": "myres2\\pool_view\\default\\up_new_1.png"
+    },
+    {
+      "filepath": "myres2\\pool_view\\default\\up_special_0.png"
+    },
+    {
+      "filepath": "myres2\\pool_view\\default\\up_special_1.png"
+    },
+    {
+      "filepath": "myres2\\pool_view\\default_0\\title.png"
+    },
+    {
+      "filepath": "myres2\\pool_view\\default_1\\title.png"
+    },
+    {
+      "filepath": "myres2\\room_rule\\anye1.png"
+    },
+    {
+      "filepath": "myres2\\room_rule\\anye2.png"
+    },
+    {
+      "filepath": "myres2\\room_rule\\chiyu1.png"
+    },
+    {
+      "filepath": "myres2\\room_rule\\chiyu2.png"
+    },
+    {
+      "filepath": "myres2\\room_rule\\sanren.png"
+    },
+    {
+      "filepath": "myres2\\room_rule\\siren.png"
+    },
+    {
+      "filepath": "myres2\\room_rule\\xiuluo.png"
+    },
+    {
+      "filepath": "myres2\\treasurehead\\23071.png"
+    },
+    {
+      "filepath": "myres2\\treasurehead\\23072.png"
+    },
+    {
+      "filepath": "myres2\\treasurehead\\2307M1.png"
+    },
+    {
+      "filepath": "myres2\\treasurehead\\treasure_pic0709.png"
+    },
+    {
+      "filepath": "myres2\\treasurehead\\treasure_pic1910.png"
+    },
+    {
+      "filepath": "myres2\\treasurehead\\yh_c.png"
+    },
+    {
+      "filepath": "myres2\\treasurehead\\yh_collab.png"
+    },
+    {
+      "filepath": "myres2\\treasurehead\\yh_cz.png"
+    },
+    {
+      "filepath": "myres2\\treasurehead\\yh_d.png"
+    },
+    {
+      "filepath": "myres2\\treasurehead\\yh_lh.png"
+    },
+    {
+      "filepath": "myres2\\treasurehead\\yh_q.png"
+    },
+    {
+      "filepath": "myres2\\treasurehead\\yh_x.png"
+    },
+    {
+      "filepath": "myres2\\treasurehead\\yh1_lh.png"
+    },
+    {
+      "filepath": "myres2\\treasurehead\\yh2_lh.png"
+    },
+    {
+      "filepath": "myres2\\treasurehead\\zl_c.png"
+    },
+    {
+      "filepath": "myres2\\treasurehead\\zl_collab.png"
+    },
+    {
+      "filepath": "myres2\\treasurehead\\zl_cz.png"
+    },
+    {
+      "filepath": "myres2\\treasurehead\\zl_d.png"
+    },
+    {
+      "filepath": "myres2\\treasurehead\\zl_lh.png"
+    },
+    {
+      "filepath": "myres2\\treasurehead\\zl_q.png"
+    },
+    {
+      "filepath": "myres2\\treasurehead\\zl_x.png"
+    },
+    {
+      "filepath": "myres2\\xiariji_qingku\\bg.jpg"
+    },
+    {
+      "filepath": "myres2\\xiariji_qingku\\btn_qingku.png"
+    },
+    {
+      "filepath": "myres2\\xiariji_qingku\\btn_qingkuxiari.png"
+    },
+    {
+      "filepath": "myres2\\xiariji_qingku\\btn_tip.png"
+    },
+    {
+      "filepath": "myres2\\xiariji_qingku\\getted.png"
+    },
+    {
+      "filepath": "newyear_loading\\2019_report\\report2019.png"
+    },
+    {
+      "filepath": "spot\\aiyin_guyongquan.png"
+    },
+    {
+      "filepath": "spot\\auto_play.png"
+    },
+    {
+      "filepath": "spot\\baishinainai_jiesuan.png"
+    },
+    {
+      "filepath": "spot\\baishinainai_wangma.png"
+    },
+    {
+      "filepath": "spot\\bijiben.png"
+    },
+    {
+      "filepath": "spot\\bijiben2.png"
+    },
+    {
+      "filepath": "spot\\btn_hide.png"
+    },
+    {
+      "filepath": "spot\\btn_next.png"
+    },
+    {
+      "filepath": "spot\\btn_play.png"
+    },
+    {
+      "filepath": "spot\\btn_return.png"
+    },
+    {
+      "filepath": "spot\\damaoxian1.png"
+    },
+    {
+      "filepath": "spot\\damaoxian2.png"
+    },
+    {
+      "filepath": "spot\\damaoxian3.png"
+    },
+    {
+      "filepath": "spot\\deguoxinzangbing.png"
+    },
+    {
+      "filepath": "spot\\ditiezhan.png"
+    },
+    {
+      "filepath": "spot\\fuzicatchat1.png"
+    },
+    {
+      "filepath": "spot\\fuzicatchat2.png"
+    },
+    {
+      "filepath": "spot\\fuzicatchat3.png"
+    },
+    {
+      "filepath": "spot\\haibao.png"
+    },
+    {
+      "filepath": "spot\\jiutiaoliyu_qianzhi.png"
+    },
+    {
+      "filepath": "spot\\jiutiaoliyu_yiji1.png"
+    },
+    {
+      "filepath": "spot\\lt_niming.png"
+    },
+    {
+      "filepath": "spot\\lt_nuoya.png"
+    },
+    {
+      "filepath": "spot\\luntan.png"
+    },
+    {
+      "filepath": "spot\\LX_kuwu.png"
+    },
+    {
+      "filepath": "spot\\ming5paipu.png"
+    },
+    {
+      "filepath": "spot\\ming5shouxiexin.png"
+    },
+    {
+      "filepath": "spot\\nuoyaphone.png"
+    },
+    {
+      "filepath": "spot\\nuoyashipin.png"
+    },
+    {
+      "filepath": "spot\\player_pause.png"
+    },
+    {
+      "filepath": "spot\\qianzhicatchat1.png"
+    },
+    {
+      "filepath": "spot\\qianzhicatchat2.png"
+    },
+    {
+      "filepath": "spot\\qianzhizhitiao.png"
+    },
+    {
+      "filepath": "spot\\qunliao_fuzi1.png"
+    },
+    {
+      "filepath": "spot\\qunliao_fuzi2.png"
+    },
+    {
+      "filepath": "spot\\spot_end1.png"
+    },
+    {
+      "filepath": "spot\\spot_end2.png"
+    },
+    {
+      "filepath": "spot\\spot_end3.png"
+    },
+    {
+      "filepath": "spot\\xindongditu.png"
+    },
+    {
+      "filepath": "spot\\yangpizhi1.png"
+    },
+    {
+      "filepath": "spot\\yangpizhi2.png"
+    },
+    {
+      "filepath": "spot\\youhuiquan.png"
+    },
+    {
+      "filepath": "spot\\youxifengmian.png"
+    },
+    {
+      "filepath": "spot\\zhangdan.png"
+    },
+    {
+      "filepath": "spot\\zhenxinhua1.png"
+    },
+    {
+      "filepath": "spot\\zhenxinhua2.png"
+    },
+    {
+      "filepath": "spot\\zhenxinhua3.png"
+    },
+    {
+      "filepath": "spot\\zhitiao.png"
+    },
+    {
+      "filepath": "tanfang\\title_result.png"
+    }
+  ]
+}

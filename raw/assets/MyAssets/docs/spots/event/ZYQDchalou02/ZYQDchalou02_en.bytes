@@ -1,0 +1,313 @@
+2:player
+
+1330:Hello...?
+1331:???
+1332:From the sound of your voice, I take it you're still in bed?
+1333:Ume?
+1334:Ume
+1335:Correct.
+1339:Do you need me to find out who took the photo?
+1344:I understand, it's my job to share the boss's load. I should be able to come up with something on my own.
+1345:With everything happening so suddenly, all I can do is get to Champion Street as early.
+1347:Ichihime... and Mai? What are you two doing here?
+1348:Mai Aihara
+1349:Ichihime said she wanted to watch the drama, and... when I heard it had to do with you... I got a little worried.
+1350:Ichihime
+1351:In other words, we're here to cheer you on, nyaa!
+1353:Nyaa? Looking for something, master, nyaa?
+1356:Nyaa! It's packed, we can't even get in, nyaa!
+1360:Yuan Xiao
+1361:The entrance has been packed since early this morning, and not just with people from Champion Street. A lot of outsiders to this street even came to spectate... Huh? Who are these two?
+1362:Um... Spectators from out of the street.
+1363:What?! {var:Shake}
+1365:Whew--That's good. You three can go in with me through the back door.
+1366:I said {var:player_nickname} wouldn't come alone. Hehe, popular as ever, I see!
+1368:Fu Ji, you're here too?
+1369:Fu Ji
+1370:I wasn't about to miss out on the fun.
+1372:But don't mind me, just do what you have to do.
+1373:Speaking of Fei Ming, he's not here, is he?
+1376:Yuan Feng
+1378:Um... actually...
+1380:So...
+1382:Wait...
+1384:Mr. Li
+1394:Mr. Dong
+1396:Mr. Wu
+1397:Sure, I'll keep it simple.
+1399:Everybody clear on the rules?
+1400:Crystal clear.
+1402:Oof... Under these conditions, it'll be three against one. With so much at stake, I'm afraid Yuan Xiao will have to work a miracle to win.
+1403:Steak? Where, nyaa? Can I have some?
+1407:Back to the matter at hand, does this mean that some of us will be chosen to help Yuan Xiao...? Because I for one won't be doing any free work for Fei Ming.
+1409:You mean, you already have someone in mind?
+1410:Yes! Well, actually, the boss did.
+1412:I see.
+1413:I see!
+1414:Yuan Xiao, Yuan Feng, and Fu Ji simultaneously run their eyes over the faces of Ichihime, Mai Aihara, and then stop on me.
+1416:Will you help me, kind soul?
+1417:Hold on, I...
+1418:Before I can get my sentence out, Yuan Xiao grabs a book from a table to the side and shoves it into my hands--Its title reads: "Grandpa's Secrets to Perfectly Brewed Tea."
+1420:You got this, master! Nyaa!
+1421:We'll all be cheering you on. You can do this.
+1422:But...
+1425:You'll get used to it. Our corporate overlords--I mean, employers, are all alike these days.
+1426:Mr. Wang
+1428:No, no. We've confirmed our team...
+1429:Yuan Xiao reaches out and grabs firmly ahold of my arm.
+1430:It'll be us two.
+1432:Naturally, Yuan Xiao takes the lead in the first round.
+1434:Yuan Xiao, are you...?
+1437:I'm afraid she has suddenly realized that the work she usually does for her employer is now a test of her ability. She must be feeling the pressure.
+1441:Let me help.
+1443:Yuan Xiao turns to look at me. To my surprise, her eyes are red.
+1446:What kind of tea has chili peppers in it?! {var:ShakeScene}
+1452:AHH! My eyes!!{var:ShakeScene}
+1453:Huh? Why are you crying? I only just got back, what happened?
+1456:Yuan Xiao looks completely slack, like...
+1459:A small spoonful of salt, two strips of dried orange peel, ginger... Hm, maybe a little less than that...
+1460:Hearing Yuan Xiao's mumblings, I look curiously into the pot in front of her. A viscous, green liquid bubbles slightly in the wide-mouthed teapot over the small stove...
+1461:The judges... They're in pretty good health, right?
+1463:This way of making tea was all the rage over a thousand years ago, but you almost never see it nowadays. Fei Ming's actually dropping some legit knowledge...
+1465:But I've never seen anyone add chilis. I'll have to get a taste of it later, nyaa.
+1467:The first round of the competition ends, and we move into the judging phase.
+1469:It's rare that someone so young possesses such a deep understanding of a technique this ancient. Very rare indeed!
+1470:You're a role model for today's youth.
+1473:Isn't this congee... nyaa?
+1474:Yeah, pretty sure it's congee.
+1475:It is... isn't it?
+1478:These aren't the chili seeds we removed earlier, are they?
+1479:Well spotted! You have good eyes.
+1480:Yuan Xiao has just returned to my side after tidying away the tea set.
+1481:Well? How does it taste?
+1483:Oh no, where's my fan pendant? I need to go look for it...
+1484:When Yuan Xiao's eyes turn to me, Mai Aihara and I step back simultaneously... leaving Ichihime standing alone before the teacup.
+1486:Yes, please!
+1488:NYAA! M-My tongue... Water, water, water... nyaa...!!{var:Shake}
+1490:I didn't realize you knew ancient tea brewing techniques.
+1491:Huh? Ancient tea?
+1493:Oh, that... Hehe, actually, I just made it that way because I thought it tasted good.
+1494:Huh?
+1495:When I asked the boss this morning what I should do, he just told me to follow my heart, so that's what I did. I didn't expect it to go over this well.
+1496:...Some people are just blessed, I guess.
+1497:If everyone's ready, we'll proceed to the second round.
+1498:Uh oh. Careful, your opponent is that grouch from the other day.
+1501:...
+1502:Mr. Zhao
+1504:Tea Drinker A
+1505:Yeah, that's right! Just give up if you're too chicken. Haha!
+1506:Tea Drinker B
+1507:You'd better hurry, kid. Mr. Zhao is famous around Champion Street for his impatience!
+1509:That isn't helping me relax!
+1512:For today's competition, I just need to ensure that I carry out the first nine steps.
+1513:Round two officially begins.
+1515:Tea Drinker
+1517:Seriously...
+1523:1. Boil fresh spring water 2. Display the tea leaves 3. Warm the teapot with hot water
+1525:1. Display the tea leaves 2. Warm the teapot with hot water 3. Boil fresh spring water
+1527:1. Warm the teapot with hot water 2. Boil fresh spring water 3. Display the tea leaves
+1529:Judge Wang walks over to me and reaches out to feel the temperature of the clay pot. Satisfied, he nods to me.
+1533:Oh no, don't do that! Not yet!
+1534:Yikes... If you can't even get the steps right, Mr. Zhao is definitely going to win.
+1535:I think we can go ahead and congratulate Mr. Zhao now.
+1539:Second brew
+1540:Third brew
+1541:Fourth brew
+1542:I pour the brewed tea leaves into the serving teapot. Just as I'm about to distribute the tea, I hear Mr. Zhao sneer from behind me.
+1543:Unbelievable. Don't bother, I won.
+1546:Huh? Boss, you're back!
+1547:Your boss? Fei Ming?
+1549:Huh?!
+1550:Fei Ming
+1552:So true. If you could get good tea off an assembly line, we'd all be getting our tea from convenience stores instead of visiting tea houses.
+1553:What should I do now then?
+1554:Follow your heart.
+1555:You've gotta be kidding me...
+1557:Huh? Hey, my tea!
+1560:Your boss?
+1562:Since you're back, I'll leave the rest of the competition in your capable hands...
+1564:Huh?
+1565:Mr. Fei Ming, I'm actually... not so good at this tea ceremony business.
+1567:I don't know.
+1568:The art of appreciating and appraising tea.
+1569:I don't know.
+1573:What makes you say that?
+1574:Fei Ming smiles, then points to the teapot with his fan.
+1578:Hehe, you're the one who told me to pick out whatever I wanted. You better not dock it from my pay later!
+1580:How do I do that?
+1582:Forests, mountains, mountain streams... Stuff like that.
+1585:Between four and five p.m., the sun is...
+1590:A while later
+1594:Unbelievable. Who would've thought someone so unremarkable was actually a little tea genius.
+1595:Wait, is that praise?
+1598:He's... leaving? How is his tea then?
+1599:What the heck! This is like having someone barge in while I'm doing my homework, rip up my notebook, and run off!
+1600:Could Mr. Zhao... actually be a tsundere?
+1602:Mr. Zhao's sudden departure whips the crowd into a frenzy. Yuan Feng promptly stands up and politely directs a question to the judges.
+1603:Excuse me, but since the other competitor has left, may I ask if the winner is...?
+1606:Why don't we call this round a draw then?
+1607:San Niang
+1611:Shameful as it is, after studying tea ceremony my entire life, it was the younger generation that really taught me this lesson.
+1612:But...
+1616:...
+1617:So, did we win?
+1619:Hurray! We won, kind soul! We won!
+1621:I take a few steps back, whip out the contract I prepared well in advance, and present it to him with a standard professional smile.
+1622:If you'd please take a look, Mr. Fei Ming...
+1624:Deal.
+1625:Huh?
+1626:The boss's seal! Hurry, where do I stamp? Aww... If I'd known, I would have made another contract to give me a raise and given it a good stamp.
+1627:That's dangerous thinking, I'd stop if I were you.
+1629:Not so. Had Fuuka Minami come here instead, I'm afraid there'd be no hope for your partnership.
+1630:Why?
+1631:Firstly, New Moon bends over backward for her for fear of doing anything to offend her--behavior which Fei Ming himself despises.
+1635:Haha, you really are something.
+1639:You mean... I'm done with work for the day?
+1641:Hurray for food, nyaa!
+1642:Huh? Then... um, h-hurray for d-dinner with Master!
+1643:"Buzz--Buzz--"
+1644:I'm calling to inform you that something's come up in relation to Magical Dream's acceptance of the tea association's challenge. Take a look at this.
+1645:I receive a screenshot from Ume--It's today's trending searches.
+1646:Based on the angle, this photo was likely taken by someone in the tea house that day. It seems they're not just opinionated about Magical Dream, but also have quite a bit to say about Bamboo Cloud switching suppliers.
+1647:No need, I'll handle whoever pulled this little stunt under Bamboo Cloud's nose myself.
+1648:The key issue now is that we've been inextricably tied to Magical Dream--meaning their fate is our fate. So, your job today is to ensure that Magical Dream wins the competition.
+1649:But I don't have any experience in this sort of thing. How am I supposed to...
+1650:Hello? Hellooo? Did you lose signal or something? ...Whatever, if anything comes up, just get in touch with Ran. Hanging up now.
+1651:Nyaa! Master, it's you!
+1652:When she finishes speaking, I instinctively scan the area around them...
+1653:Nope, nothing.
+1654:(whisper) At least Kaguyahime isn't here. Otherwise, it would definitely make matters worse...
+1655:There are already so many people at the entrance to Magical Dream that nothing's getting in or out at this rate.
+1656:(whisper) Kind soul! Over here!
+1657:I follow the sound and see a head poke out from around the corner--it's Yuan Xiao.
+1658:It's okay! They're actually friends of mine.
+1659:I hear a familiar voice as soon as I walk in and look around the tea room. Other than Yuan Feng, who promised yesterday that he'd be here, I see an unexpected face--Fu Ji.
+1660:Fei Ming's always acting like he's above it all. How could I pass up the chance to see what kind of trouble he's suddenly gotten himself into?
+1661:He still hasn't returned since he left yesterday. I asked him about the competition this morning, and he just told me to follow procedure...
+1662:Sigh... You'll get used to it. Our bosses are always acting on whims and completely ignoring the dumpster fires we end up in.
+1663:Just a reminder, everyone, our punctual friends from the tea association will be arriving soon. I suppose Yuan Xiao will have to rise to the occasion on her own?
+1664:Since it's a tea competition, you'll need to put your tea serving and preparation technique on display. You won't get a high score with just a routine brew, I'm afraid.
+1665:That's right. Pretty much everyone on this street has some skill in this area. If you don't show some genuine ability out there, the results won't be pretty.
+1666:I notice Yuan Xiao casting me repeated glances, seemingly wanting to say something. But--
+1667:Everyone, thank you for your support. Today, we at New Moon specially invited Champion Street's esteemed elders, Mr. Dong, Mr. Wu, and Mr. Wang to serve as our judges for this tea competition...
+1668:I assume the owner of Magical Dream doesn't mind?
+1669:The competitors from New Moon has already arrived in the main hall with the judges. Now, apart from Mr. Li, Mr. Zhao, and San Niang, there are also three graying, yet spry elderly men.
+1670:(whisper) Those three do have a good reputation on this street. I believe they'll remain impartial.
+1671:The owner of Magical Dream hasn't returned yet, but he sent a message... Ahem.
+1672:"As long as you're happy."
+1673:(whisper) Is that really what your boss said?
+1674:(whisper) No, he just grunted, but I could tell what he meant and that was my loose translation. He can't hear it anyway...
+1675:(whisper) You're definitely a good translator...
+1676:Since neither side objects, shall we go over the rules, Mr. Wu?
+1677:Ahem, your attention please. For this competition, the competitors will each brew the best tea they have in stock, and the three of us will score your entries. The one who wins the best two out of three will be the final winner.
+1678:Understood.
+1679:"Stake," not "steak." Be good and go play with the tea leaves over there.
+1680:Nyaa? This tea all smells like plain old tree leaves.
+1681:Haha, you're not wrong. Tea is essentially just leaves from tea shrubs. This is their natural smell before undergoing any processing.
+1682:Hold it!! This is what I wanted to discuss with you all from the beginning!
+1683:He said, "If you're short-handed, get that little moth from yesterday to help."
+1684:Then... the "moth" he was talking about yesterday wasn't New Moon tea house, but me?
+1685:Cramming is better than nothing. Good luck!
+1686:The boss also said, "If Bamboo Cloud can't even manage this, tell them there won't be any partnership."
+1687:...Please don't keep talking like him, you're scaring me. How does he sound just as corporate as my boss?!
+1688:Is there a problem, Magical Dream?
+1689:And so, before I can protest or object, the tea competition has already begun...
+1690:I watch as she lines up the tea-making utensils and then, seemingly unsatisfied, rearranges a few of them. This is repeated several times, but the ideal arrangement is still not found.
+1691:Is she... nervous?
+1692:Yuan Xiao isn't the kind of person that can relax and make tea. Fei Ming clearly has been tempering her character while teaching her the tea ceremony.
+1693:Nyaa, it's just like the students who don't study enough and come to the Mahjong Soul Shrine to make a prayer before a test.
+1694:As we're talking, a sharp sound rings out from where Yuan Xiao is--She's accidentally broken a piece of the tea set.
+1695:As her "colleague" for all intents and purposes, I should jump in to assist. After taking a deep breath, I grab one of the backup pieces and walk over to her.
+1696:Thank you...
+1697:Hey, hey, it's okay...
+1698:Waaaah! You are such a kind soul. I just accidentally rubbed my eyes with the hand I was preparing the chili peppers with, and it hurts so freaking much! Could you help me peel the rest of them?
+1699:Hehe, you'll see soon enough. Oww, ow, it hurts... I'm gonna go wash my eyes, I'll leave this pile to you!
+1700:Yuan Xiao then dashes off upstairs, leaving me flabbergasted. Bracing myself, I look over at the ingredients on the table--cone peppers, dried chilis, Sichuan peppercorns, cinnamon, and star anise...
+1701:Nanxiang Beef Noodle Restaurant next door doesn't even use this many spices to cook their beef...
+1702:Yuan Xiao has left me the task of peeling a small pile of fresh green chilis, removing the white seeds, and placing them into a small bowl.
+1703:I grab a chili and give it a good cut...
+1704:Never in my wildest dreams did I ever imagine that tea ceremony would be more dangerous than Kendo... Good luck, I need to go wash my eyes out too.
+1705:By the time I get back to the first floor, the tea competition has already begun.
+1706:If I had to compare Yuan Xiao with her opponent, Mr. Li is a hard worker who puts in the extra hours, while Yuan Xiao has trained herself not to smile too hard when playing online mahjong, lest her boss realize she's slacking off right next to him.
+1707:After all, how many people actually come to work with a smile on their faces?
+1708:Pfft--They'll be fine, don't worry. Still, I sure did miss it...
+1709:Now that you mention it, Ichihime and I had a milk tea like that the other day. It had sticky rice and sea salt in it, and we had to eat it with a spoon... It was interesting.
+1710:Careful. Curiosity killed the cat, you know.
+1711:Excellent, just excellent!
+1712:Unexpectedly receiving the unanimous praise of the judges, Yuan Xiao emerges from this round victorious.
+1713:The surrounding tea enthusiasts begin divvying up the remaining tea, one after another exclaiming in delight.
+1714:We're clearly the odd ones out here as we all stare at the "tea" snatched back by Ichihime, each with a different expression on our faces.
+1715:Fine slices of ginger rest atop the thick green liquid and a closer whiff reveals the strong aroma of cinnamon. If you give it a stir using the small spoon from the tea tray, you'll see some small white seeds.
+1716:I read my fortune before going out this morning, and today isn't a good day for tea... Let someone else have it.
+1717:Nyaa? You want me to drink it... nyaa?
+1718:Seeing the expectation in Yuan Xiao's eyes and the sympathy in ours, Ichihime solemnly throws back the tea in one gulp...
+1719:I watch Ichihime as she disappears around the corner. When Yuan Xiao looks at me again, I take the initiative... to strike up a conversation.
+1720:You know, this... tea you just made.
+1721:Haha... It's a competition, not a battle. It's not like he's gonna pour scalding hot tea on me or anything.
+1722:Tsk tsk, I wouldn't be so sure, my friend. I just read your fortune... You face a hostile adversary today, prudence is strongly advised.
+1723:Unbelievable. This is a tea competition! What are you hemming and hawing for? You're like a talking parrot that doesn't know when to shut up. Forfeit already if you're so scared, then we can all go home early.
+1724:See, what did I tell you? Anyway, just keep calm and relax. There won't be any bloodshed.
+1725:In spite of my trepidation, the second round begins.
+1726:Yuan Xiao prepared an oolong tea for me. According to "Grandpa's Secrets to Perfectly Brewed Tea," there are 18 steps in total, the first nine of which are dedicated to brewing the tea, while the last nine focus on serving etiquette and interacting with guests.
+1727:To my great surprise, the moment the competition begins, the cantankerous Mr. Zhao instantly becomes quiet. Even his overall aura has changed. It would seem that, in this moment, it's just him and the tea.
+1728:Mr. Zhao's looking more deeply into the tea leaves than he would into his lady's eyes...
+1729:Don't just look at other people, look at your tea too! Gently caress it with your eyes!
+1730:Master, shuw em wo'chu got, nyaa! ...Nyaa, my tongue's killing me, and noo I can't cheer yo paperly, nyaa!
+1731:You have to look at it like it's your wif--er, a person you love. The way you're looking at it now is more like you're looking at an exam paper.
+1732:How is this not like an exam...? I need to remember what the first three steps for brewing oolong tea are...
+1736:I pour the spring water Yuan Xiao collected early this morning into the kettle. As it comes to a boil, I show the oolong tea to all the guests. Then, I give the clay pot I'll be using later a careful rinse with the boiled water.
+1737:Mm-hm, I'd expect nothing less from someone who read my tea guidebook. Looks like you've learned it well.
+1738:Just when I pick up the tea to show to everyone, I see Yuan Xiao desperately shaking her head at me. It must not be time for this step yet.
+1739:Just when I rinse the clay pot with the boiled water, I hear Yuan Xiao call out to me in a frantic whisper.
+1740:Hmph! Unbelievable. Beating an amateur isn't something to celebrate, it's an embarrassment.
+1741:Mr. Zhao's voice is as resonant as ever, and his words are just as grating as always. Still, considering I messed up for all to see, I can't say he's wrong. All I can do is start over and do it right this time.
+1742:If I remember correctly, steps four to six should have something to do with rinsing the tea. Oolong tea must be drunk in a very particular way--you don't normally drink the first brew. The perfect brew should be the...
+1743:Don't be so sure.
+1744:Before Yuan Xiao can stand up and come to my defense, an aloof male voice rings out from the crowd.
+1745:A man dressed in cyan emerges from the crowd. He walks straight up to me, looks at my tea, then reaches over and pours it out.
+1746:The art of tea ceremony can't be boiled down to a mere set of rigid rules. The water quality, temperature, and even the temperature of the cup to a certain extent will all affect the end result.
+1747:As I place the brewed tea leaves into the serving pot, I catch Yuan Xiao nodding out of the corner of my eye. So far so good. So, now...
+1748:Just as I'm about to serve the tea, a slender hand reaches out and snatches my teapot.
+1749:I look up to see a man dressed in cyan and exuding an air of detached indifference. He studies the tea I brewed and frowns.
+1750:Yep, this is the head honcho at Magical Dream--Fei Ming.
+1751:You won't be able to win with this cup. Brew it again.
+1752:What do you think makes a tea ceremony?
+1753:Heh, you're way more honest than that slick boss of yours.
+1754:Not knowing is normal. In the years since I opened my tea house, only a handful of people that really understand tea have walked through those doors. Or you could say that everyone understands, and no one understands.
+1755:Sure, that's one kind of tea ceremony.
+1756:Brewing directly in boiled water is a tea ceremony. Grinding it into a powder and adding boiled water to turn it into a paste is a tea ceremony. Gulping it down to quench your thirst is a tea ceremony, as is tasting it in small sips.
+1757:Tea ceremony is an art of the heart. It doesn't matter what form you practice it in.
+1758:So, I suggest you make a fresh pot. Don't waste the fine tea she picked out for you.
+1759:Since you have time for chitchat, how about fetching your new friend here some fresh spring water? As for you... why don't you start by getting to know this tea a little.
+1760:What does the scent make you think of?
+1761:Oolong tea is produced in mountainous regions interlaced with rivers. So, your description is actually quite fitting.
+1762:Once the tea leaves are harvested, they must be sun withered, or dried. The sun is just right for this at around four or five o'clock in the afternoon. The leaves are spread out evenly to allow the moisture to evaporate...
+1763:Fei Ming's descriptions are so immersive that I feel like I'm actually experiencing the process of making tea.
+1764:In a tea field halfway up the mountainside, tea pickers quickly pluck young shoots from branch after branch. Meanwhile, in a farmhouse nearby, tea leaves are being neatly arranged stack by stack...
+1765:There's no hard and fast rule for making tea. The best approach is whichever suits the tea in front of you.
+1766:By the time I've made a new pot of tea, everyone's been quiet for a while now. Many have their eyes fixed on the amber-colored tea before me, which fills the room with a lingering, faintly floral fragrance.
+1767:Before I know it, Mr. Zhao is already in the seat in front of me. Without saying a word, he raises one of the cups of tea I've poured and takes a sip.
+1768:Premium Phoenix Dan Cong Oolong. The poor climate in Nanxiang these last couple of years led to a decline in production, so you can hardly get it anywhere on Champion Street. And here you used it in the competition, hmph.
+1769:I think you have praise for more than just the tea.
+1770:Hmph! It's a nice thought, but there's nothing I despise more than a phony tea expert. You may have gotten lucky this time, but this is where your luck runs out.
+1771:Having said his piece, Mr. Zhao raises the other cup and finishes it in a single gulp. He then departs just as swiftly.
+1772:Heh. Vulgar people and high society just don't mix.
+1773:The three of us were just discussing this. The fact is, each had their strengths and weaknesses. Mr. Zhao's tea was refined and consistent--perfect, even. But too much perfection is a flaw in itself. It makes the tea too inaccessible.
+1774:Indeed. On the other hand, our young friend here--though slightly clumsy in technique--managed to resonate with tea and adapt to the circumstances under Fei Ming's direction. This actually brought out the greatest possible fragrance... It's hard to determine the winner.
+1775:With all due respect, Magical Dream did not brew their tea using the proper methods. How could it be a draw?
+1776:That's not entirely accurate, San Niang. Of the two competitors from Magical Dream, one pursued an ancient technique and the other engaged in a dance of sorts with the tea. It serves to remind us just what the art of tea brewing is.
+1777:It's either immutable and cautious or showcases the tea leaves' true charm. The three of us subscribe to the latter interpretation.
+1778:Paying no further attention to San Niang, the judges--waxing poetic and exchanging impassioned interjections--walk off together.
+1779:San Niang glares fiercely at me through the crowd. She then grabs hold of Mr. Li--who's been slumped over dejectedly ever since they lost the first round--and drags him out of the tea house with her.
+1780:See, what did I tell you? You have a grudge being held against you now.
+1781:Yep, you won.
+1782:I guess that makes me something of a hero then.
+1783:To my surprise, Fei Ming doesn't take it. Instead, he waves it away, tosses a seal stamp to Yuan Xiao, and heads up to the third floor.
+1784:Still, Mr. Fei Ming is much easier to talk to than I imagined.
+1785:Secondly, as a businesswoman, Fuuka Minami is an expert in cost-benefit analysis. Were this tea competition mishandled, both parties would take offense, and she'd most certainly find an excuse to wash her hands off the whole affair--naturally leaving the proposed partnership with Fei Ming dead in the water.
+1786:So, my friend... you really were the hero of the day in every respect.
+1787:Hehe, aw shucks, all these compliments are embarrassing me. It's fine though, you can keep going. I can take it.
+1788:The truth is, this should have been an uneventful matter, but your involvement breathed life back into it. It's quite interesting, really. I think Fei Ming realized that as well, which is why he agreed to cooperate with you.
+1789:Okay. I've had a quick look at the contract, and Fei Ming will decide which tea to supply. He'll hash out the other details with your boss.
+1790:Now all you have to do is go back, enjoy a well-deserved rest, and pick up the tea samples tomorrow so you can report back.
+1791:No, silly! We're ALL done with work for the day! Hurray for clocking out! Hurray for no more tea competition!

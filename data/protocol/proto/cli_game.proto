@@ -1,0 +1,224 @@
+syntax = "proto3";
+
+package lq;
+
+import "com_struct.proto";
+import "liqi_struct.proto";
+
+message GameRestore {
+  .lq.GameSnapshot snapshot = 1;
+  repeated .lq.ActionPrototype actions = 2;
+  uint32 passed_waiting_time = 3;
+  uint32 game_state = 4;
+  uint32 start_time = 5;
+  uint32 last_pause_time_ms = 6;
+}
+
+message NotifyAccountLevelChange {
+  .lq.AccountLevel origin = 1;
+  .lq.AccountLevel final = 2;
+  uint32 type = 3;
+}
+
+message NotifyActivityPoint {
+
+  message ActivityPoint {
+    uint32 activity_id = 1;
+    uint32 point = 2;
+  }
+
+  repeated .lq.NotifyActivityPoint.ActivityPoint activity_points = 1;
+}
+
+message NotifyActivityReward {
+
+  message ActivityReward {
+    uint32 activity_id = 1;
+    repeated .lq.RewardSlot rewards = 2;
+  }
+
+  repeated .lq.NotifyActivityReward.ActivityReward activity_reward = 1;
+}
+
+message NotifyEndGameVote {
+
+  message VoteResult {
+    uint32 account_id = 1;
+    bool yes = 2;
+  }
+
+  repeated .lq.NotifyEndGameVote.VoteResult results = 1;
+  uint32 start_time = 2;
+  uint32 duration_time = 3;
+}
+
+message NotifyGameBroadcast {
+  uint32 seat = 1;
+  string content = 2;
+}
+
+message NotifyGameEndResult {
+  .lq.GameEndResult result = 1;
+}
+
+message NotifyGameFinishReward {
+
+  message LevelChange {
+    .lq.AccountLevel origin = 1;
+    .lq.AccountLevel final = 2;
+    uint32 type = 3;
+  }
+
+  message MatchChest {
+    uint32 chest_id = 1;
+    uint32 origin = 2;
+    uint32 final = 3;
+    bool is_graded = 4;
+    repeated .lq.RewardSlot rewards = 5;
+  }
+
+  message MainCharacter {
+    uint32 level = 1;
+    uint32 exp = 2;
+    uint32 add = 3;
+  }
+
+  message CharacterGift {
+    uint32 origin = 1;
+    uint32 final = 2;
+    uint32 add = 3;
+    bool is_graded = 4;
+  }
+
+  uint32 mode_id = 1;
+  .lq.NotifyGameFinishReward.LevelChange level_change = 2;
+  .lq.NotifyGameFinishReward.MatchChest match_chest = 3;
+  .lq.NotifyGameFinishReward.MainCharacter main_character = 4;
+  .lq.NotifyGameFinishReward.CharacterGift character_gift = 5;
+  repeated .lq.BadgeAchieveProgress badges = 6;
+}
+
+message NotifyGamePause {
+  bool paused = 1;
+}
+
+message NotifyGameTerminate {
+  string reason = 1;
+}
+
+message NotifyLeaderboardPoint {
+
+  message LeaderboardPoint {
+    uint32 leaderboard_id = 1;
+    uint32 point = 2;
+  }
+
+  repeated .lq.NotifyLeaderboardPoint.LeaderboardPoint leaderboard_points = 1;
+}
+
+message NotifyNewGame {
+  string game_uuid = 1;
+  repeated string player_list = 2;
+}
+
+message NotifyObserveData {
+  .lq.GameLiveUnit unit = 1;
+}
+
+message NotifyPlayerConnectionState {
+  uint32 seat = 1;
+  .lq.GamePlayerState state = 2;
+}
+
+message NotifyPlayerLoadGameReady {
+  repeated uint32 ready_id_list = 1;
+}
+
+message ReqAuthGame {
+  uint32 account_id = 1;
+  string token = 2;
+  string game_uuid = 3;
+  .lq.ClientDeviceInfo device = 7;
+}
+
+message ReqAuthObserve {
+  string token = 1;
+}
+
+message ReqBroadcastInGame {
+  string content = 1;
+  bool except_self = 2;
+}
+
+message ReqChiPengGang {
+  uint32 type = 1;
+  uint32 index = 2;
+  bool cancel_operation = 3;
+  uint32 timeuse = 6;
+}
+
+message ReqGMCommandInGaming {
+  string json_data = 1;
+}
+
+message ReqSelfOperation {
+  uint32 type = 1;
+  uint32 index = 2;
+  string tile = 3;
+  bool cancel_operation = 4;
+  bool moqie = 5;
+  uint32 timeuse = 6;
+  int32 tile_state = 7;
+  repeated string change_tiles = 8;
+  repeated int32 tile_states = 9;
+  uint32 gap_type = 10;
+}
+
+message ReqSyncGame {
+  string round_id = 1;
+  uint32 step = 2;
+}
+
+message ReqVoteGameEnd {
+  bool yes = 1;
+}
+
+message ResAuthGame {
+  .lq.Error error = 1;
+  repeated .lq.PlayerGameView players = 2;
+  repeated uint32 seat_list = 3;
+  bool is_game_start = 4;
+  .lq.GameConfig game_config = 5;
+  repeated uint32 ready_id_list = 6;
+  repeated .lq.PlayerGameView robots = 7;
+}
+
+message ResEnterGame {
+  .lq.Error error = 1;
+  bool is_end = 2;
+  uint32 step = 3;
+  .lq.GameRestore game_restore = 4;
+}
+
+message ResGameEndVote {
+  bool success = 1;
+  uint32 vote_cd_end_time = 2;
+  .lq.Error error = 3;
+}
+
+message ResGamePlayerState {
+  .lq.Error error = 1;
+  repeated .lq.GamePlayerState state_list = 2;
+}
+
+message ResStartObserve {
+  .lq.GameLiveHead head = 1;
+  .lq.GameLiveSegment passed = 2;
+}
+
+message ResSyncGame {
+  .lq.Error error = 1;
+  bool is_end = 2;
+  uint32 step = 3;
+  .lq.GameRestore game_restore = 4;
+}

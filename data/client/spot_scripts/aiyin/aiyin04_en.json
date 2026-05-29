@@ -1,0 +1,1222 @@
+[
+  {
+    "line": 1,
+    "text": "The breeze rustles through the cherry blossoms that are blooming like pink clouds on the branches and radiating a tenderness unique to spring while covering the earth in a coat of pink."
+  },
+  {
+    "line": 2,
+    "text": "I'm walking on the street with a bag of snacks, and everything seems so quiet, beautiful, and dreamlike to me... but it would be even better if a certain fox wasn't squatting on the ground, sighing with his hands on his knees on the corner of the street."
+  },
+  {
+    "line": 3,
+    "text": "player"
+  },
+  {
+    "line": 4,
+    "text": "Ein? What's wrong?"
+  },
+  {
+    "line": 5,
+    "text": "Ein"
+  },
+  {
+    "line": 6,
+    "text": "{var:player_nickname}? Oh... I've even been seen by someone I know when I'm having bad luck. That's one more unlucky event for today."
+  },
+  {
+    "line": 7,
+    "text": "After hearing his words, I look at him and see many broken cartons and squashed food scattered on the ground next to him. It looks like he had just experienced a disaster."
+  },
+  {
+    "line": 8,
+    "text": "Is this the unlucky event you're talking about?"
+  },
+  {
+    "line": 9,
+    "text": "Ahaha... this is just part of it."
+  },
+  {
+    "line": 10,
+    "text": "When I was delivering milk in the morning, I slipped on some garbage and splashed the milk all over the buyer's face. When I was unloading goods for a store, a box broke, scattering the goods everywhere, and some of it even rolled into the sewer. I just picked up a takeout order and everything was going well when an Alaskan Malamute more reckless than Zechs suddenly charged at me..."
+  },
+  {
+    "line": 11,
+    "text": "Wow, you really are quite unlucky today."
+  },
+  {
+    "line": 12,
+    "text": "After all, the great master warned me about this, and I should have taken their advice yesterday. I shouldn't have left home today even if a fire breaks out, the ceiling collapses, or the gas tank explodes!"
+  },
+  {
+    "line": 13,
+    "text": "...I think you shouldn't stay at home because it sounds like you're in more danger there."
+  },
+  {
+    "line": 14,
+    "text": "By the way, who is this great master who can tell your fortune so accurately?"
+  },
+  {
+    "line": 15,
+    "text": "That great master often speaks in riddles, charges fees arbitrarily, and has a stall that's always swarming with customers..."
+  },
+  {
+    "line": 16,
+    "text": "Yuan Feng"
+  },
+  {
+    "line": 17,
+    "text": "Kaavi"
+  },
+  {
+    "line": 19,
+    "text": "Yuan Feng?"
+  },
+  {
+    "line": 20,
+    "text": "No, it's Miss Kaavi... But now that you mention it, they do have some similarities."
+  },
+  {
+    "line": 21,
+    "text": "You might as well say that they are both good at tricking, umm... at making you pay them willingly."
+  },
+  {
+    "line": 22,
+    "text": "Kaavi?"
+  },
+  {
+    "line": 23,
+    "text": "As expected of the most popular person in One Han City. You guessed it right away."
+  },
+  {
+    "line": 24,
+    "text": "Haha, we're all old acquaintances after all."
+  },
+  {
+    "line": 25,
+    "text": "I don't know who you're talking about, but can you refer this person to me? I have a friend who wants to ask about unlucky events recently."
+  },
+  {
+    "line": 27,
+    "text": "Oh, then she does tell my fortune a lot, but she tells me a calamity involving women is in store for me every single time, so I didn't realize you were talking about her when you mentioned an accurate fortune telling master..."
+  },
+  {
+    "line": 28,
+    "text": "*Rumble* All of a sudden, I hear a strange sound while I'm chatting with Ein."
+  },
+  {
+    "line": 29,
+    "text": "Hmm?"
+  },
+  {
+    "line": 30,
+    "text": "That wasn't me..."
+  },
+  {
+    "line": 31,
+    "text": "*Rumble* This time, it's clear to me that Ein made that sound. Seeing my eyes focusing on the part of his body that made that sound, Ein touches his nose nervously."
+  },
+  {
+    "line": 32,
+    "text": "...It was me."
+  },
+  {
+    "line": 33,
+    "text": "Are you hungry? Do you want to eat something first?"
+  },
+  {
+    "line": 34,
+    "text": "Yes... but I don't have any money left after paying compensation for everything. Right now, it's more important for me to make money than to eat."
+  },
+  {
+    "line": 35,
+    "text": "When I see Ein's drooping ears, I understand that it's time for me to shine. After all, I'm an enthusiastic citizen of One Han City."
+  },
+  {
+    "line": 36,
+    "text": "Treat Ein to a meal"
+  },
+  {
+    "line": 37,
+    "text": "Treat Ein to some snacks"
+  },
+  {
+    "line": 38,
+    "text": "I pat my wallet - I've been quite well-off recently, so I'll treat him to a meal. I step up to Ein and pat him on the shoulder before making my generous proposal."
+  },
+  {
+    "line": 39,
+    "text": "As they say, every meeting we have is preordained by fate. I'll treat you to lunch today."
+  },
+  {
+    "line": 40,
+    "text": "Wow! {var:player_nickname}, you're such a good person... Umm, but doesn't it seem like I'm living off you then? My old man will give me a beating if he finds out."
+  },
+  {
+    "line": 41,
+    "text": "A son is not bound by his father's orders when he is not living at home."
+  },
+  {
+    "line": 42,
+    "text": "That might be true, but I still feel a little embarrassed. Is there anything I can do for you?"
+  },
+  {
+    "line": 43,
+    "text": "I can't think of anything right now. Let's think about it while we eat."
+  },
+  {
+    "line": 44,
+    "text": "But..."
+  },
+  {
+    "line": 45,
+    "text": "*Rumble* My tummy is rumbling this time. I was on my way to scrounge a free meal at the Mahjong Soul Shrine, but I missed their mealtime because of my unexpected encounter with Ein."
+  },
+  {
+    "line": 46,
+    "text": "Umm..."
+  },
+  {
+    "line": 48,
+    "text": "Ein leads me to an inconspicuous ramen shop on the next street. The shop isn't that big, and the tables and chairs look weathered with age, but the thick aroma of the ramen soup fills the shop, inexplicably giving it a slightly homey atmosphere."
+  },
+  {
+    "line": 50,
+    "text": "Do you know what the highest praise that can be given to a restaurant in One Han City is?"
+  },
+  {
+    "line": 51,
+    "text": "Absolutely amazing?"
+  },
+  {
+    "line": 52,
+    "text": "No, it's: \"The food reminds me of home.\""
+  },
+  {
+    "line": 53,
+    "text": "Then what would be considered a bad review?"
+  },
+  {
+    "line": 54,
+    "text": "\"The food tastes the same as the food at home.\""
+  },
+  {
+    "line": 55,
+    "text": "One Han City's culture sure is deep and profound..."
+  },
+  {
+    "line": 56,
+    "text": "As we speak, Ein leads me nimbly through the long, narrow aisles and sits down at an empty table. He then pulls out a menu from next to him and hands it to me."
+  },
+  {
+    "line": 57,
+    "text": "Are you a regular here?"
+  },
+  {
+    "line": 58,
+    "text": "I come here every few days. If you don't know what to order, I recommend the signature tonkotsu ramen."
+  },
+  {
+    "line": 59,
+    "text": "Trust me, it'll remind you of your home."
+  },
+  {
+    "line": 60,
+    "text": "Then let's have two signature ramens..."
+  },
+  {
+    "line": 61,
+    "text": "???"
+  },
+  {
+    "line": 62,
+    "text": "Oh? You've brought a friend with you this time? Good work, for a guy who's always alone! I'll give you two free marinated soft-boiled eggs today."
+  },
+  {
+    "line": 63,
+    "text": "I look up in response to the sound and see a burly man wearing an apron featuring bear designs that doesn't suit his style standing next to us."
+  },
+  {
+    "line": 64,
+    "text": "If it wasn't for the pair of brown sunglasses he was wearing and the large tattoos exposed under his rolled-up sleeves, I might actually believe that he's the owner of this ramen shop."
+  },
+  {
+    "line": 65,
+    "text": "Thanks!"
+  },
+  {
+    "line": 66,
+    "text": "Oh, right. I'm having all sorts of troubles with my part-time job today. About those errands I agreed to do for you, can I do them for you tomorrow instead?"
+  },
+  {
+    "line": 67,
+    "text": "The burly man makes the OK gesture at Ein and leaves without speaking."
+  },
+  {
+    "line": 68,
+    "text": "Is he really the owner of this ramen shop?"
+  },
+  {
+    "line": 69,
+    "text": "Haha, {var:player_nickname}, your reaction is the same as mine when I first met the owner."
+  },
+  {
+    "line": 70,
+    "text": "Although he was involved in some shady things in the past, he is now the owner of this ramen shop."
+  },
+  {
+    "line": 71,
+    "text": "Does he personally cook all the food here?"
+  },
+  {
+    "line": 72,
+    "text": "Of course. Don't look down on this ramen shop. This is his hunting grounds, just like how your hunting grounds are mahjong dojos, {var:player_nickname}."
+  },
+  {
+    "line": 73,
+    "text": "A hunter never misses in their hunting grounds."
+  },
+  {
+    "line": 74,
+    "text": "You flatter me. I can carelessly lose 32,000 points in my hunting grounds."
+  },
+  {
+    "line": 75,
+    "text": "Haha, are you sure that isn't part of your plan to lure in enemies? We hunters have a saying: \"Skilled hunters often appear as prey.\""
+  },
+  {
+    "line": 76,
+    "text": "{var:player_nickname}, you're probably someone who is brave and resourceful like that."
+  },
+  {
+    "line": 77,
+    "text": "...Geez, I don't know what to say about you."
+  },
+  {
+    "line": 78,
+    "text": "Ramen Shop Owner"
+  },
+  {
+    "line": 79,
+    "text": "Your food is ready! My dear customers, please enjoy the signature tonkotsu ramen you ordered."
+  },
+  {
+    "line": 80,
+    "text": "Two big bowls appear in front of us after the owner speaks in his deep voice. The milky-white soup base is filled with noodles of even thickness, sprinkled with finely chopped green onions, and has a mouth-watering aroma."
+  },
+  {
+    "line": 81,
+    "text": "The edge of the bowl is lined with moderately thick slices of tender and juicy pork. It's difficult to find another shop in One Han City that can rival this one based on the portion size alone. Suddenly, the owner's face looks more amiable and friendly to me because of this bowl of noodles."
+  },
+  {
+    "line": 82,
+    "text": "Ah! It's so hot!"
+  },
+  {
+    "line": 83,
+    "text": "Having a bowl of the owner's signature ramen at the end of a busy day is one of the happiest moments in my life."
+  },
+  {
+    "line": 84,
+    "text": "You're so easily satisfied."
+  },
+  {
+    "line": 85,
+    "text": "I know some other places that are affordable and delicious. I'll treat you to a meal at one of those places next time."
+  },
+  {
+    "line": 86,
+    "text": "Ein, it looks like you know One Han City very well."
+  },
+  {
+    "line": 87,
+    "text": "Yes, because I love this place."
+  },
+  {
+    "line": 88,
+    "text": "Why is that?"
+  },
+  {
+    "line": 89,
+    "text": "This city is sufficiently tolerant and fair, and those who work hard won't be picked on because of their origin or appearance."
+  },
+  {
+    "line": 90,
+    "text": "This place is also big enough with plenty of hunting grounds. Each hunter can run to their heart's content and display their abilities here."
+  },
+  {
+    "line": 91,
+    "text": "I hope my tribespeople can come here and take a look in the future. The nature of a hunting ground shouldn't be defined, and no hunter should be underestimated."
+  },
+  {
+    "line": 92,
+    "text": "I don't feel very strongly about this because I live here every day, but listening to your words makes me feel so hot-blooded and excited about being a good citizen of One Han City!"
+  },
+  {
+    "line": 94,
+    "text": "Owner! Owner! Bring us some towels!"
+  },
+  {
+    "line": 95,
+    "text": "Eh? Ahhhhhh!"
+  },
+  {
+    "line": 96,
+    "text": "After some fuss and confusion, I finally wipe most of the soup off my clothes, and the amiable owner refills my soup for free."
+  },
+  {
+    "line": 97,
+    "text": "This is why it's a bad idea to listen to passionate speeches while eating. It's so easy to knock over bowls and dishes when you get excited."
+  },
+  {
+    "line": 99,
+    "text": "Ahhh, I'm so full. You're the reason I feel alive today, {var:player_nickname}."
+  },
+  {
+    "line": 100,
+    "text": "I wouldn't go that far. After all, we're such good friends. True friends are those who can share their joys and sorrows with each other."
+  },
+  {
+    "line": 102,
+    "text": "By the way, have you decided what you need me to do for you?"
+  },
+  {
+    "line": 103,
+    "text": "Umm... not really."
+  },
+  {
+    "line": 104,
+    "text": "Haha, I knew it. Fortunately, I'm prepared for this."
+  },
+  {
+    "line": 105,
+    "text": "Ein pulls out a piece of paper from his pocket and hands it to me. It looks like the piece of paper he was writing and drawing on in the restaurant for a long time."
+  },
+  {
+    "line": 106,
+    "text": "I receive it from him and see that it's a \"free employment voucher\" with the following words on it: The employer, {var:player_nickname}, can use this voucher to get Ein to perform one job for free. The task will be completed properly without any mistakes. Ein"
+  },
+  {
+    "line": 108,
+    "text": "Tsk, when you put it like that, it does sound like I am, haha."
+  },
+  {
+    "line": 109,
+    "text": "But you can only use this once, so think carefully before using it. Please don't use it for something like making a pair of fox-fur gloves."
+  },
+  {
+    "line": 110,
+    "text": "...I'm not Eliisa."
+  },
+  {
+    "line": 111,
+    "text": "I know, I know. Of course, you're not Eliisa. You're my best friend, {var:player_nickname}."
+  },
+  {
+    "line": 112,
+    "text": "My face turns red with embarrassment after hearing something this cheesy during the day, even if it's true."
+  },
+  {
+    "line": 113,
+    "text": "What are you thinking of doing next? Do you want to play mahjong with me at the Mahjong Soul Shrine?"
+  },
+  {
+    "line": 114,
+    "text": "Why would I play mahjong when I'm cursed with bad luck? Do I look like I want to deal into a Thirteen Orphans and then a Nine Gates? I've decided to spend the day safely at home today."
+  },
+  {
+    "line": 115,
+    "text": "Ein's ears droop again after thinking of his tragic bout of bad luck today. I don't want to make things difficult for him, so we go our separate ways."
+  },
+  {
+    "line": 116,
+    "text": "Wanjirou"
+  },
+  {
+    "line": 117,
+    "text": "Ron! Thirteen Orphans, woof! Thanks, {var:player_nickname}."
+  },
+  {
+    "line": 118,
+    "text": "One hour later"
+  },
+  {
+    "line": 119,
+    "text": "Ichihime"
+  },
+  {
+    "line": 120,
+    "text": "Ron, nyaa! Big Three Dragons, nyaa! Master is great! Thanks, Master, nyaa."
+  },
+  {
+    "line": 121,
+    "text": "Eight minutes later"
+  },
+  {
+    "line": 122,
+    "text": "Kaguyahime"
+  },
+  {
+    "line": 123,
+    "text": "Ehehe, Ron! {var:player_nickname}, thanks for offering me this Nine Gates."
+  },
+  {
+    "line": 124,
+    "text": "Six minutes later"
+  },
+  {
+    "line": 125,
+    "text": "Forehead covered in cold sweat, I touch the \"free employment voucher\" I received from Ein in my pocket. This guy... Could he have passed his bad luck to me? I don't want that to happen!"
+  },
+  {
+    "line": 126,
+    "text": "I glance at the snack bag in my hand and decide to stand up for snacks, a food often associated with laziness, weight gain, and dependency. However, if it is served to a hungry person, it can also be a noble food!"
+  },
+  {
+    "line": 127,
+    "text": "For example, dealing in can be a matter of having good tiles and skill but bad tile luck."
+  },
+  {
+    "line": 128,
+    "text": "If you don't mind, why don't you stave off your hunger with these snacks?"
+  },
+  {
+    "line": 129,
+    "text": "Wow! There are so many snacks here. {var:player_nickname}, you better be careful or you could get fat."
+  },
+  {
+    "line": 130,
+    "text": "...Why are you cursing me when I'm giving you some food to eat? I was going to give these to Ichihime because she seems to be eating a lot more than usual recently."
+  },
+  {
+    "line": 131,
+    "text": "Oh, I know about that."
+  },
+  {
+    "line": 132,
+    "text": "Ein opens a bag of cookies and throws a cookie into his mouth, then he starts chatting with me while chewing on it."
+  },
+  {
+    "line": 133,
+    "text": "When I was playing mahjong a while ago, I heard Ichihime say something like: \"I can't let Lin Lang look down on me, nyaa.\""
+  },
+  {
+    "line": 134,
+    "text": "Lin Lang... I think they want to make my wallet become flat!"
+  },
+  {
+    "line": 135,
+    "text": "Haha, then you're going to need to work hard to make money, {var:player_nickname}. I'll share some with you the next time I get a good part-time job."
+  },
+  {
+    "line": 136,
+    "text": "Although I want to say no, I start thinking about the ridiculous prices of desserts in dessert shops recently. Sigh..."
+  },
+  {
+    "line": 137,
+    "text": "If you want desserts, I know of a place that sells affordable desserts that are absolutely delicious."
+  },
+  {
+    "line": 138,
+    "text": "Oh?! Asking for a friend - what's the address?"
+  },
+  {
+    "line": 139,
+    "text": "Haha, I can't eat your snacks for free, so I might as well take you there myself."
+  },
+  {
+    "line": 141,
+    "text": "It's a red light. Let's wait for a while."
+  },
+  {
+    "line": 142,
+    "text": "Okay."
+  },
+  {
+    "line": 143,
+    "text": "I look up at the countdown of the red light and see there are 293 seconds left. One Han City has its own currency, its own units of measurement, and its own traffic light durations. I silently take out my cell phone and start reading a novel I hadn't finished reading on the subway while Ein explains the traffic conditions to me enthusiastically."
+  },
+  {
+    "line": 144,
+    "text": "The traffic is really busy here, so you can hold onto my tail if you're afraid we'll get separated."
+  },
+  {
+    "line": 145,
+    "text": "There's a puddle of water in front of us, so be careful of slipping."
+  },
+  {
+    "line": 146,
+    "text": "Wow! {var:player_nickname}, if we run now, we'll be able to make the next green light perfectly."
+  },
+  {
+    "line": 147,
+    "text": "We made it! We're so lucky!"
+  },
+  {
+    "line": 148,
+    "text": "Suddenly, I recall that Musa said Ein is a really noisy man."
+  },
+  {
+    "line": 149,
+    "text": "Ein..."
+  },
+  {
+    "line": 150,
+    "text": "Hmm? What is it? Do you need me to help you with anything? I guarantee I'll solve your problem."
+  },
+  {
+    "line": 151,
+    "text": "Forget it, it's nothing."
+  },
+  {
+    "line": 152,
+    "text": "Actually, it's quite nice to have such an energetic person around me, especially since the things he says show that he cares about me and loves me. I don't think I've really felt this way since I was in kindergarten."
+  },
+  {
+    "line": 153,
+    "text": "Thanks to Ein, the long road in front of me doesn't seem that long anymore... Wait a minute, it's this road?"
+  },
+  {
+    "line": 154,
+    "text": "Hold on, this road looks really familiar to me... Doesn't it lead all the way to the One Han City Amusement Park?"
+  },
+  {
+    "line": 155,
+    "text": "Haha, I thought you would only realize where we're going after we arrive at the gates of the amusement park."
+  },
+  {
+    "line": 156,
+    "text": "The shop we're going to is in the amusement park?"
+  },
+  {
+    "line": 157,
+    "text": "To be precise, it's near the amusement park. Although it's a little far from the city, the desserts will be well worth the journey."
+  },
+  {
+    "line": 158,
+    "text": "It won't be much longer. We'll get there in about ten minutes after taking the road on the left."
+  },
+  {
+    "line": 159,
+    "text": "I look at where Ein is pointing and see two completely different roads leading to the same destination at a familiar intersection in front of me."
+  },
+  {
+    "line": 160,
+    "text": "Lush trees stand on both sides of the road on the right, making it look even more attractive under the sunlight. Next to the road, intertwining vines form a natural green barrier with the leaves. The road on the left that Ein is pointing at is very uneven and looks like an undeveloped country road."
+  },
+  {
+    "line": 161,
+    "text": "Where does the road on the right lead to?"
+  },
+  {
+    "line": 162,
+    "text": "Oh, it takes you to the same place, but you'll need to walk for an extra thirty minutes."
+  },
+  {
+    "line": 163,
+    "text": "So it's ten minutes compared to thirty minutes..."
+  },
+  {
+    "line": 164,
+    "text": "Ein has been leading me all the way here in such a hurry. Do I want to choose which path I want to take here?"
+  },
+  {
+    "line": 165,
+    "text": "Choose the path on the right to enjoy the scenery"
+  },
+  {
+    "line": 166,
+    "text": "Take his recommendation and choose the path on the left"
+  },
+  {
+    "line": 167,
+    "text": "As the saying goes, no two leaves are exactly the same. In the case of scenery, even the same scenery will look different every day."
+  },
+  {
+    "line": 168,
+    "text": "Besides, I'm very fit, so I can afford to be willful."
+  },
+  {
+    "line": 169,
+    "text": "Ein, let's take the path on the right."
+  },
+  {
+    "line": 170,
+    "text": "Sure thing, but remember to tell me when you get tired. The \"princess carry\" is quite trendy lately, right? If you like, I'm happy to offer that service, haha."
+  },
+  {
+    "line": 172,
+    "text": "I start shuddering at this overly beautiful image and shake my head quickly to get this image out of my mind."
+  },
+  {
+    "line": 173,
+    "text": "Ahem, the light has turned green. Let's go."
+  },
+  {
+    "line": 174,
+    "text": "After turning at the intersection, I see colorful flowers blooming on both sides of the road, proudly displaying themselves amidst the greenery. At the corner of the street not far away lies a small artificial lake, its surface glistening like golden ribbons in the sunlight."
+  },
+  {
+    "line": 175,
+    "text": "If it isn't because Ein is walking faster and faster, I would definitely have the chance to enjoy this!"
+  },
+  {
+    "line": 176,
+    "text": "After several minutes, I finally give in and tug his tail, which makes him stop moving suddenly."
+  },
+  {
+    "line": 177,
+    "text": "Huh?!"
+  },
+  {
+    "line": 178,
+    "text": "Ein, you're walking too quickly."
+  },
+  {
+    "line": 179,
+    "text": "Oh, I'm sorry... I'm used to doing that."
+  },
+  {
+    "line": 180,
+    "text": "Is it because you're afraid you'll take too long while making deliveries?"
+  },
+  {
+    "line": 181,
+    "text": "Haha, it's not that. It's mainly because I feel like I can hear my old man scolding me whenever I start slowing down."
+  },
+  {
+    "line": 182,
+    "text": "Ein, is your old... father really strict?"
+  },
+  {
+    "line": 183,
+    "text": "I almost called Ein's father \"old man\" like he does. Fortunately, the virtue of elegance reminds me to always be polite."
+  },
+  {
+    "line": 185,
+    "text": "So it's a good thing based on the outcome."
+  },
+  {
+    "line": 186,
+    "text": "That's right. I really need to thank my old man for training me to have such good physical strength. If it wasn't for him, I might not have been able to win the favor of my employers in One Han City."
+  },
+  {
+    "line": 187,
+    "text": "I really like my work as a delivery staff. The feeling of moving quickly through the city is very similar to the feeling of hunting in my hometown. It makes me want to keep moving faster and faster. To be able to run as fast as the wind would be the best thing ever!"
+  },
+  {
+    "line": 188,
+    "text": "Actually, it's good to stop what you're doing occasionally and adopt a slow and leisurely pace in life."
+  },
+  {
+    "line": 189,
+    "text": "A slow... and leisurely pace in life?"
+  },
+  {
+    "line": 190,
+    "text": "That's right. That's the theme of most variety shows now, and we should follow fashion trends closely. For example, if you look at both sides of the road here, you might see different scenery from what you're used to seeing."
+  },
+  {
+    "line": 191,
+    "text": "As if he understands the message behind my words, Ein takes a deep breath and slows down. He slowly turns his neck and looks at the mottled shadows of trees on both sides of the road and the white clouds floating in the sky."
+  },
+  {
+    "line": 192,
+    "text": "Time seems to slow down when Ein's eyes finally fall on the path in front of him. I watch him slowly open his hands to caress the gentle wind and listen to the gurgling of water with his ears."
+  },
+  {
+    "line": 193,
+    "text": "The scenery around him seems to imbue his clear eyes with more color, making them look as dazzling as sparkling gems."
+  },
+  {
+    "line": 194,
+    "text": "Look! The cloud over there looks like two people who are wrestling."
+  },
+  {
+    "line": 195,
+    "text": "I think the cloud looks more like you. Yes, that's right."
+  },
+  {
+    "line": 196,
+    "text": "Am I that fat?"
+  },
+  {
+    "line": 197,
+    "text": "It's about right if I factor in the fluffiness of your fur."
+  },
+  {
+    "line": 198,
+    "text": "As I speak, I deliberately pull on Ein's big furry tail, which makes him jump away quickly to protect his tail."
+  },
+  {
+    "line": 199,
+    "text": "Stop! My fur will fall out if you do that!!!"
+  },
+  {
+    "line": 200,
+    "text": "You take such good care of the fur on your tail that your tail won't go bald after being pulled once or twice."
+  },
+  {
+    "line": 201,
+    "text": "Ein and I laugh and talk as we walk on the path beside the flowers. Now that he's no longer obsessed with rushing, his pace also slows down."
+  },
+  {
+    "line": 202,
+    "text": "I pass by this road often when I'm doing my part-time job, but it's my first time seeing all this beautiful scenery today."
+  },
+  {
+    "line": 203,
+    "text": "It's because you have a pair of eyes that are so good at discovering beauty."
+  },
+  {
+    "line": 204,
+    "text": "Haha, the most beautiful thing I've discovered is... Hmm, wait a minute... What's this?"
+  },
+  {
+    "line": 205,
+    "text": "I turn around to look at what he is looking at and see an advertisement posted in the window of a shop on the street."
+  },
+  {
+    "line": 206,
+    "text": "New teddy bear merch will be available for sale from 8:00 a.m. on the 30th of this month? Ein, are you interested in this type of merch?"
+  },
+  {
+    "line": 207,
+    "text": "It's my employer who's interested. Speaking of which, you know her too."
+  },
+  {
+    "line": 208,
+    "text": "We have so many common friends, haha. Is it Chiori?"
+  },
+  {
+    "line": 209,
+    "text": "She does own a lot of this merch, but my employer is actually her maid. She has hired me to collect all sorts of teddy bear merch information and pays me a generous wage."
+  },
+  {
+    "line": 210,
+    "text": "I clap my hands in surprise when I remember that Riu Kujou had mentioned that Chiori Mikami was very sad after losing her handbag. Fortunately, a special, kind person took Index home afterwards."
+  },
+  {
+    "line": 211,
+    "text": "Could you be that kind person?"
+  },
+  {
+    "line": 212,
+    "text": "What kind person?"
+  },
+  {
+    "line": 213,
+    "text": "The kind person who found Chiori's handbag for her."
+  },
+  {
+    "line": 214,
+    "text": "Oh, you're talking about that incident. That was because the request to find the missing item stated that the finder would be thanked generously. I'm just a worker who's trying to earn more Coppers."
+  },
+  {
+    "line": 215,
+    "text": "Oh, we're here."
+  },
+  {
+    "line": 216,
+    "text": "The somewhat weathered signboard of the dessert shop appears in front of us after Ein cries out joyfully."
+  },
+  {
+    "line": 217,
+    "text": "This dessert shop is very plainly decorated, and I've never noticed it before, probably because of its remote location."
+  },
+  {
+    "line": 218,
+    "text": "However, the furnishings of the shop are quite elegant, and the spacious and bright layout complements its warm, soft color combination very well. Guests have also left comments and photos on the walls, which adds to the cozy ambiance."
+  },
+  {
+    "line": 219,
+    "text": "The warmest thing of all to me is the price of the exquisite desserts."
+  },
+  {
+    "line": 220,
+    "text": "What do you think? The desserts here are affordable and delicious, right?"
+  },
+  {
+    "line": 221,
+    "text": "Dessert Shop Owner"
+  },
+  {
+    "line": 222,
+    "text": "Oh, it's you, Ein... I was just thinking that the voice sounded familiar..."
+  },
+  {
+    "line": 223,
+    "text": "The elderly woman who owns the shop comes out to greet us after hearing customers enter. Judging from her familiar tone, I guess that Ein is a regular customer here."
+  },
+  {
+    "line": 224,
+    "text": "Is this your friend? Haha, this is the first time Ein has brought a friend here."
+  },
+  {
+    "line": 225,
+    "text": "This sounds really familiar. Are you going to say that it's been a long time since Ein has been this happy next?"
+  },
+  {
+    "line": 226,
+    "text": "Hahahaha, I might be old, but I still watch television. Who has time to worry about being happy or unhappy every day? Ein here is happy every day."
+  },
+  {
+    "line": 227,
+    "text": "Indeed, I've rarely seen Ein look depressed or unhappy, and he also cheered himself up pretty quickly earlier. He is an optimistic, cheerful, and sunny boy."
+  },
+  {
+    "line": 228,
+    "text": "The best time to arrive is just in time. I have a batch of new desserts that are fresh out of the oven. Ein, why don't you and your friend help me taste test them?"
+  },
+  {
+    "line": 229,
+    "text": "Thanks, it's our pleasure."
+  },
+  {
+    "line": 230,
+    "text": "Ein takes me to sit down at a table by the window. The sweet fragrance permeating the shop heightens my expectations for the new dessert."
+  },
+  {
+    "line": 231,
+    "text": "The cake is sweet but not too heavy, and the cream just melts in your mouth... I give it the highest rating that can be given in One Han City: It's not too sweet."
+  },
+  {
+    "line": 232,
+    "text": "This one is for you."
+  },
+  {
+    "line": 233,
+    "text": "As I am indulging myself in this dessert, Ein hands me something that feels hard. I open my fingers to see a necklace with a sharp object hanging on it."
+  },
+  {
+    "line": 234,
+    "text": "What's this...?"
+  },
+  {
+    "line": 235,
+    "text": "It's a gift to thank you for teaching me a new way to experience life. The fang on this pendant is mine. I... hope you don't mind."
+  },
+  {
+    "line": 236,
+    "text": "Ein starts acting unusually reserved, as if he will take the pendant back if I don't want his fang. However, I'm someone who won't let go of anything, be it a duck or a fang, that falls into my hands, so I accept it quickly and nod in appreciation."
+  },
+  {
+    "line": 237,
+    "text": "Thanks, I'll take good care of it."
+  },
+  {
+    "line": 238,
+    "text": "Time passes leisurely, and Ein and I leave the dessert shop after finishing our shopping."
+  },
+  {
+    "line": 239,
+    "text": "One hour later"
+  },
+  {
+    "line": 240,
+    "text": "Do you have any other part-time jobs to go to after this?"
+  },
+  {
+    "line": 241,
+    "text": "Nope, I'm done for the day."
+  },
+  {
+    "line": 242,
+    "text": "Oh? Then what about dinner..."
+  },
+  {
+    "line": 243,
+    "text": "Ein smiles and shakes his phone to clear up my confusion."
+  },
+  {
+    "line": 244,
+    "text": "I've received my pay for providing information about the teddy bear merch. Shall I take you to go hunting after this?"
+  },
+  {
+    "line": 245,
+    "text": "Hunting...? But I'm thinking of going to the Mahjong Soul Shrine."
+  },
+  {
+    "line": 246,
+    "text": "I know."
+  },
+  {
+    "line": 247,
+    "text": "You showed me another way to experience life in One Han City, so it's time for me to show you another way to experience mahjong."
+  },
+  {
+    "line": 248,
+    "text": "Are you ready, {var:player_nickname}?"
+  },
+  {
+    "line": 249,
+    "text": "When he mentions mahjong, Ein starts exuding an aura of confidence and strength. At this moment, he looks like he is worthy of being the future successor of his tribe."
+  },
+  {
+    "line": 250,
+    "text": "Of course, but I won't go easy on you."
+  },
+  {
+    "line": 251,
+    "text": "I won't admit defeat easily in anything related to mahjong."
+  },
+  {
+    "line": 252,
+    "text": "However, the game that Ein, Ichihime, Wanjirou, and I play at the Mahjong Soul Shrine on that day is a story for another time."
+  },
+  {
+    "line": 253,
+    "text": "As the saying goes, time is money. After careful consideration, I decisively abandon the scenic path and unhesitatingly join Ein to take the shortest path to our destination."
+  },
+  {
+    "line": 254,
+    "text": "This isn't about having sufficient physical strength or not. A forty-minute trip will just waste my precious time."
+  },
+  {
+    "line": 255,
+    "text": "I don't know if it's because Kaavi's prophecy has come true or not, but it isn't long after we start walking when we encounter a sign that says: \"Emergency Maintenance, No Entry.\""
+  },
+  {
+    "line": 256,
+    "text": "...How troublesome. Do we need to walk all the way back?"
+  },
+  {
+    "line": 257,
+    "text": "Leave this minor problem to me. Follow me."
+  },
+  {
+    "line": 258,
+    "text": "Because I trust Ein, I follow him without hesitation as he shuttles through various alleys. Although we take a bit of a detour, when I come to my senses, I realize that we've passed the road that is under maintenance."
+  },
+  {
+    "line": 259,
+    "text": "Amazing! Is this the ability of a delivery staff?!"
+  },
+  {
+    "line": 260,
+    "text": "Haha, I guess so. Every good hunter must know how to avoid danger. After all, we also need to have excellent vision, smell, and hearing."
+  },
+  {
+    "line": 261,
+    "text": "This is a talent of your people. I'm so envious."
+  },
+  {
+    "line": 262,
+    "text": "Actually... you don't need to be envious."
+  },
+  {
+    "line": 263,
+    "text": "Do you want to be able to hear the footsteps coming from next door, the chatter of the elderly downstairs, or even whistling sounds from as far as a street away?"
+  },
+  {
+    "line": 264,
+    "text": "I don't think I would like that. It sounds so noisy."
+  },
+  {
+    "line": 265,
+    "text": "Unfortunately, that's what I need to deal with every day. Sigh... my hometown is so quiet, so I never thought it could be so noisy anywhere."
+  },
+  {
+    "line": 266,
+    "text": "How did you solve this problem?"
+  },
+  {
+    "line": 267,
+    "text": "I worked a few more part-time jobs and saved enough money to buy a pair of noise-canceling headphones so I could sleep peacefully."
+  },
+  {
+    "line": 268,
+    "text": "The worst thing about this is that it's a passive skill. You can't choose to get rid of it."
+  },
+  {
+    "line": 269,
+    "text": "You understand me so well. Besides, the climate here in One Han City is so different from the climate in my hometown that I started suffering from hay fever. Now I sneeze uncontrollably whenever there's pollen around me... Do you know how much I get paid to run errands for those florists?"
+  },
+  {
+    "line": 270,
+    "text": "Sigh... I can only give up those jobs reluctantly."
+  },
+  {
+    "line": 271,
+    "text": "Don't be so..."
+  },
+  {
+    "line": 272,
+    "text": "Just as I'm about to say something to comfort Ein, he suddenly shouts out loud."
+  },
+  {
+    "line": 274,
+    "text": "After hearing Ein's shout and feeling a strong tug, I realize that I've switched places with him, and there's now a fox covered with muddy water in front of me."
+  },
+  {
+    "line": 275,
+    "text": "I miscalculated. I forgot it rained last night and that there might be some puddles here."
+  },
+  {
+    "line": 276,
+    "text": "Are you okay?"
+  },
+  {
+    "line": 277,
+    "text": "I'm fine."
+  },
+  {
+    "line": 279,
+    "text": "Ein doesn't keep me waiting for long before he comes back out. Although there's no more mud on him now, he is completely drenched."
+  },
+  {
+    "line": 280,
+    "text": "Five minutes later"
+  },
+  {
+    "line": 281,
+    "text": "What happened to you...?"
+  },
+  {
+    "line": 282,
+    "text": "...The restroom's faucet burst."
+  },
+  {
+    "line": 283,
+    "text": "It burst?"
+  },
+  {
+    "line": 284,
+    "text": "I turned it gently, and the faucet... fell off."
+  },
+  {
+    "line": 285,
+    "text": "Huh?"
+  },
+  {
+    "line": 286,
+    "text": "Oops, where's the \"Under Maintenance\" sign I left at the door? That faucet can't be used right now. Look at what's happened. What should I do about the water all over the floor...?"
+  },
+  {
+    "line": 287,
+    "text": "Ein and I look at each other as we listen to the loud-voiced man next to us shout while walking. We're both thinking the same thing at this time."
+  },
+  {
+    "line": 288,
+    "text": "This must be a bout of bad luck."
+  },
+  {
+    "line": 289,
+    "text": "More than an hour passes before we manage to borrow a towel from that man and Ein manages to mostly dry his fur. Wearing his semi-dry clothes, Ein insists on taking me to the dessert shop even though I tell him we don't need to go, and it's obvious that he is talking less than he did before."
+  },
+  {
+    "line": 290,
+    "text": "The somewhat weathered signboard of the dessert shop appears in front of us after Ein finally says something after being silent for a long time."
+  },
+  {
+    "line": 291,
+    "text": "The only flaw is that... the selection is very limited because we've come too late. After noticing that several other customers who arrived too late like us are staring intently at the last few pieces of dessert, Ein rushes over like a small whirlwind and puts them on a plate for me."
+  },
+  {
+    "line": 292,
+    "text": "I'm sorry. I didn't think we would encounter so many problems along the way. These are the only ones that are left."
+  },
+  {
+    "line": 293,
+    "text": "It's alright. Neither of us wanted those accidents to happen."
+  },
+  {
+    "line": 294,
+    "text": "With Ein's help, I quickly pay for everything, then we leave the shop with the cakes the clerk has packed for us. Although we didn't buy much, the packaging is very complex to protect them from being damaged while being transported, so we ended up with four or five large boxes for just a few slices of cake."
+  },
+  {
+    "line": 295,
+    "text": "It looks like I'll need to see things through to the end and take you..."
+  },
+  {
+    "line": 296,
+    "text": "*Ringing* Ein's mobile phone starts ringing suddenly."
+  },
+  {
+    "line": 297,
+    "text": "Oh no! I forgot that I've got another part-time job to go to soon."
+  },
+  {
+    "line": 298,
+    "text": "It's okay. Just go do what you need to do. I'll be fine with these things."
+  },
+  {
+    "line": 299,
+    "text": "Because I don't want Ein to be late for his part-time job, I show off my arm strength by lifting all the boxes in front of him. Ein looks anxiously at the time on his phone with some hesitation on his face. Seeing this, I decide to use my secret weapon."
+  },
+  {
+    "line": 300,
+    "text": "If you don't go now, you'll need to start worrying about your dinner."
+  },
+  {
+    "line": 301,
+    "text": "Ein is stunned for a moment like he has been hit on the head by a stick, then he says goodbye to me listlessly and leaves. That was dangerous! I almost had to pay for his dinner too. I wonder when I started to feed more and more people here in One Han City, which isn't good at all."
+  },
+  {
+    "line": 302,
+    "text": "After Ein disappears from my sight, I put down the boxes in my hand because they are inconvenient to carry even though they aren't heavy. Suddenly, my phone vibrates as I receive a message from Ein."
+  },
+  {
+    "line": 303,
+    "text": "(Text Message) After thinking about it, I decided to ask Zechs to help you take the desserts to the Mahjong Soul Shrine. You just need to wait where you are for a few minutes."
+  },
+  {
+    "line": 304,
+    "text": "(Text Message) He might be a little reckless, but he's still reliable."
+  },
+  {
+    "line": 305,
+    "text": "My smile starts to disappear from my face when I see the name clearly. When we meet later, I hope Zechs won't start the conversation by saying... \"What? You can't even carry something like this? How weak can you be? Why don't I give you some special training?\""
+  },
+  {
+    "line": 306,
+    "text": "I don't want to do any special training in a forest!"
+  },
+  {
+    "line": 307,
+    "text": "Hot-blooded? ...Ahhhhh! {var:player_nickname}, you're feeling like that because you've spilled soup all over yourself! {var:Shake}"
+  },
+  {
+    "line": 309,
+    "text": "Watch out! {var:Shake}"
+  },
+  {
+    "line": 313,
+    "text": "Well... why don't we have something to eat first then? There's a fabulous ramen place around here."
+  },
+  {
+    "line": 314,
+    "text": "It seems that food has rescued Ein from the feelings of depression he had been experiencing due to his bad luck. After consuming two bags of cookies, a piece of bread, and a bottle of sparkling water, he starts taking me to the dessert shop at a vigorous pace."
+  },
+  {
+    "line": 315,
+    "text": "Not really. He's quite amiable most of the time, but he is the leader of the tribe, so he is stricter and more demanding of me. That's why I developed a habit of doing things faster and better than others since I was a child."
+  },
+  {
+    "line": 319,
+    "text": "I might not know who that is, but I'd like to meet this master"
+  },
+  {
+    "line": 320,
+    "text": "I'm sure this person always tells your fortune... it's Miss Kaavi."
+  },
+  {
+    "line": 321,
+    "text": "Although things didn't go completely smoothly at our meal, the delicious food still makes me happy."
+  },
+  {
+    "line": 322,
+    "text": "You're right. True friends are those who can share their joys and sorrows with each other."
+  },
+  {
+    "line": 323,
+    "text": "Haha, why does it look like you're selling yourself to me?"
+  },
+  {
+    "line": 324,
+    "text": "Ein's sleeveless shirt reveals his strong arms at this very moment, filling my mind with the image of him carrying me while running and jumping in the streets filled with cherry blossoms..."
+  },
+  {
+    "line": 325,
+    "text": "He walks to one side and takes off his coat, then he moves vigorously to shake water droplets out of his fur. The mud, on the other hand, is much more difficult to clean from his fur. With mixed feelings, I drag him to a public restroom by the road."
+  }
+]

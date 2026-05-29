@@ -1,0 +1,1094 @@
+[
+  {
+    "line": 1,
+    "text": "Very few people walk around in the community at noon on weekdays. Office workers have not returned home yet at this time, and the entire residential area is relatively quiet. In such an atmosphere, the notification sound made by the elevator when it reaches its destination is a little abrupt."
+  },
+  {
+    "line": 2,
+    "text": "I take a deep breath and step out of the elevator, then I stop outside Kana Fujita's door and start to check the things I'm carrying carefully. I even make sure I check all the hidden pockets of the backpack too."
+  },
+  {
+    "line": 3,
+    "text": "player"
+  },
+  {
+    "line": 4,
+    "text": "{character:player}There are no chips, no sweets, and no bottled drinks... Phew... It should be okay."
+  },
+  {
+    "line": 5,
+    "text": "I have a shriveled backpack, am making a serious expression, and am saying strange things... The weird behavior I am exhibiting today is all related to why I have come to visit Kana today, and everything started one week ago."
+  },
+  {
+    "line": 6,
+    "text": "Circadas take turns chirping on the side of the road, singing about the hot summer with their lives and making particularly noisy sounds in the bustling city."
+  },
+  {
+    "line": 7,
+    "text": "The usually bustling commercial strip gradually becomes empty as the temperature rises. Passers-by hurry past on the street, and when the occasional customer appears, they rush into stores with air-conditioning quickly to choose what to buy."
+  },
+  {
+    "line": 8,
+    "text": "This situation makes the long queue at the milk tea shop at the corner particularly special as people are choosing to endure the hot sun over their heads just to try out this signature cold drink that has become an Internet sensation."
+  },
+  {
+    "line": 9,
+    "text": "It's the nature of human beings to want to join in the fun, so after mulling over it a few times in my head, I lose to my curiosity and end up joining the end of the queue."
+  },
+  {
+    "line": 10,
+    "text": "???"
+  },
+  {
+    "line": 11,
+    "text": "{character:???}{var:player_nickname}, is that you?"
+  },
+  {
+    "line": 12,
+    "text": "Soon after I join the queue, I hear a familiar voice behind me. I turn around and see a girl wearing sunglasses and a curvy mustache with a huge sun umbrella in her hands."
+  },
+  {
+    "line": 13,
+    "text": "Her iconic pink hair makes it really easy for me to get her identity, while her strange outfit leaves me dumbfounded."
+  },
+  {
+    "line": 14,
+    "text": "{character:player}Kana, your outfit... Hahaha, did you get on the bad side of your stylist?"
+  },
+  {
+    "line": 15,
+    "text": "Kana Fujita"
+  },
+  {
+    "line": 16,
+    "text": "{character:Kana Fujita}Shush! Be quiet! That's not it. My stylist loves me."
+  },
+  {
+    "line": 17,
+    "text": "{character:player}Then what are you doing now?"
+  },
+  {
+    "line": 18,
+    "text": "{character:Kana Fujita}Ahem, as a popular idol, isn't it very normal for me to put on some disguises when I go out? By the way, it looks like we'll need to wait at least 20 minutes before it's our turn to order. Are you sure you don't want to join me under the umbrella?"
+  },
+  {
+    "line": 19,
+    "text": "Kana takes off her sunglasses and winks at me. This scene would be so beautiful if I can ignore the look she is currently sporting."
+  },
+  {
+    "line": 20,
+    "text": "I can see that Kana is trying her best to change the subject. It probably isn't very enjoyable for an idol to appear in public wearing this outfit."
+  },
+  {
+    "line": 21,
+    "text": "I move next to Kana like she wants, and the shadow cast by the umbrella swallows both our shadows. A faint sweet fragrance unique to young girls wafts over."
+  },
+  {
+    "line": 22,
+    "text": "{character:player}Kana, aren't you usually attending a dance class at your company at this time? I remember you even sent me a message a few days ago, complaining that you wouldn't be free in the afternoon for a while."
+  },
+  {
+    "line": 23,
+    "text": "{character:Kana Fujita}First of all, I didn't skip class. Due to certain irresistible circumstances, my manager changed the location of the dance class to some place around this milk tea shop. I've just come out to buy a cup of milk tea during the break."
+  },
+  {
+    "line": 24,
+    "text": "{character:player}Certain... irresistible circumstances?"
+  },
+  {
+    "line": 25,
+    "text": "{character:Kana Fujita}Ahem, it's still confidential right now. But since you're not just anyone, I'll tell you something in advance. In One Han City, I'll soon be... Oh no! I've been discovered!"
+  },
+  {
+    "line": 26,
+    "text": "As if she has seen something terrifying, the girl who was just talking eloquently just now steps back in panic and tries to hide herself completely."
+  },
+  {
+    "line": 27,
+    "text": "I turn around and see a woman who looks to be around 30 years old. She storms over towards us with her eyes glued tight to Kana."
+  },
+  {
+    "line": 28,
+    "text": "The woman looks familiar, but I can't quite place her at this time. In consideration of the unique nature of Kana's profession and the threatening comments made by anti-fans on the Internet, I instinctively take a step forward and shield Kana from her because I'm worried that she might do something drastic."
+  },
+  {
+    "line": 29,
+    "text": "{character:player}You..."
+  },
+  {
+    "line": 30,
+    "text": "{character:???}Follow me!"
+  },
+  {
+    "line": 31,
+    "text": "{character:player}...?"
+  },
+  {
+    "line": 32,
+    "text": "Completely dumbfounded, I freeze in place. Behind me, Kana makes a move before I do. With her head lowered dejectedly, she follows the woman silently to an uncrowded path."
+  },
+  {
+    "line": 33,
+    "text": "When she walks past me, Kana looks at me with a sad expression while the woman isn't looking."
+  },
+  {
+    "line": 34,
+    "text": "Are my eyes playing tricks on me? Why is Kana acting like an elementary school student who got caught not doing her homework?"
+  },
+  {
+    "line": 35,
+    "text": "It's just... this is not a good time to ask. Because I'm worried about her, I follow them after a brief moment of hesitation."
+  },
+  {
+    "line": 36,
+    "text": "The woman looks around her to make sure no one else is around her, then she taps Kana's forehead with her index finger."
+  },
+  {
+    "line": 37,
+    "text": "{character:???}KANA FUJITA! How dare you go to buy milk tea!!!"
+  },
+  {
+    "line": 38,
+    "text": "{character:Kana Fujita}Um... Would you believe me if I said I only walked over there to chat with a friend I happened to see over there?"
+  },
+  {
+    "line": 39,
+    "text": "{character:???}Haha!"
+  },
+  {
+    "line": 40,
+    "text": "{character:Kana Fujita}It... looks like you don't believe that."
+  },
+  {
+    "line": 41,
+    "text": "The thrilling scene I imagined didn't take place. Based on their interaction it is obvious that they know each other and are even very familiar with each other."
+  },
+  {
+    "line": 42,
+    "text": "With a flash of inspiration, I finally remember the identity of this woman."
+  },
+  {
+    "line": 43,
+    "text": "{character:player}You're the star-maker of the entertainment company under Samu Corporation, the manager of W.I.N!"
+  },
+  {
+    "line": 44,
+    "text": "{character:Kana Fujita}Bingo, that's right. Let me introduce you. Manager, this is {var:player_nickname}, who is my friend and fan."
+  },
+  {
+    "line": 45,
+    "text": "Manager"
+  },
+  {
+    "line": 46,
+    "text": "{character:Manager}So you're {var:player_nickname}. It's nice to finally meet you."
+  },
+  {
+    "line": 47,
+    "text": "{character:player}You know about me?"
+  },
+  {
+    "line": 48,
+    "text": "{character:Manager}Of course. Kana talks about you a lot. I can feel that she is very happy when she's with you. I've heard that you're quite good at mahjong, so maybe we can play together if we get the chance."
+  },
+  {
+    "line": 49,
+    "text": "{character:player}Haha, no problem. I mistook you for Kana's anti-fan and was about to run away with her."
+  },
+  {
+    "line": 50,
+    "text": "{character:Manager}I didn't want to act so fierce either, but I had no choice because a certain idol is always sneaking out to drink milk tea when she's supposed to be controlling her weight."
+  },
+  {
+    "line": 51,
+    "text": "{character:player}Controlling her weight?"
+  },
+  {
+    "line": 52,
+    "text": "{character:Manager}Yes, W.I.N will be performing in a concert at One Han City in three months, so our whole company has started preparing for it."
+  },
+  {
+    "line": 53,
+    "text": "{character:Manager}Kana's constitution makes it easy for her to gain weight, so she needs to control her weight before the concert to show her fans her best self. During this time, all milk tea, snacks, and other similar foods are banned."
+  },
+  {
+    "line": 54,
+    "text": "{character:Kana Fujita}Ah! I was thinking of giving {var:player_nickname} a surprise! How can you just say it like that..."
+  },
+  {
+    "line": 55,
+    "text": "The manager spreads her arms and ignores Kana's protest."
+  },
+  {
+    "line": 56,
+    "text": "{character:player}No news about this has been released yet. Am I the first fan to hear about this surprise?!"
+  },
+  {
+    "line": 57,
+    "text": "{character:Manager}We'll only announce it officially after all the preparations for the concert are complete, so please keep it a secret for now."
+  },
+  {
+    "line": 58,
+    "text": "{character:player}No problem! I need to start training to increase my finger speed so that I can get a ticket to the concert."
+  },
+  {
+    "line": 59,
+    "text": "{character:Manager}Haha, if only Kana is as serious as you about controlling her weight. We hired a fitness expert to design a series of weight loss plans for her, but she slacks off whenever I take my eyes off her."
+  },
+  {
+    "line": 60,
+    "text": "{character:Manager}I need to go with the other members of the group to a commercial performance in a neighboring city next week, so I've been worried about who I can find to watch over Kana."
+  },
+  {
+    "line": 61,
+    "text": "{character:Kana Fujita}Ahem, I have an immature suggestion to make!"
+  },
+  {
+    "line": 62,
+    "text": "{character:Manager}Oh? What is it?"
+  },
+  {
+    "line": 63,
+    "text": "{character:Kana Fujita}The person you're looking for is right in front of you! You can get {var:player_nickname} to watch over me."
+  },
+  {
+    "line": 64,
+    "text": "{character:player}Huh... Me?"
+  },
+  {
+    "line": 65,
+    "text": "{character:Kana Fujita}That's right! You're my friend, so you can watch over me at my place. This way, we can ensure the confidentiality of this matter and the smooth progress of the weight loss plans. You're the best candidate for this!"
+  },
+  {
+    "line": 66,
+    "text": "I'm taken aback after being thrust under the spotlight. On the other hand, the manager rubs her chin while lost in thought, as if she is considering whether this is possible."
+  },
+  {
+    "line": 67,
+    "text": "{character:Manager}It sounds like a good idea. {var:player_nickname}, will you help us out?"
+  },
+  {
+    "line": 68,
+    "text": " Agree decisively"
+  },
+  {
+    "line": 69,
+    "text": ""
+  },
+  {
+    "line": 70,
+    "text": "Politely refuse"
+  },
+  {
+    "line": 71,
+    "text": "Who can possibly turn down the opportunity to spend a long period of time with their idol? At least I won't. Afraid that the manager would regret it, I agree without hesitation before she can ask me a second time."
+  },
+  {
+    "line": 72,
+    "text": "{character:player}Of course I can. I'll be very happy to help."
+  },
+  {
+    "line": 73,
+    "text": "{character:Manager}Haha, I won't make you help me for free. Since you're Kana's fan... how about I repay you with a ticket to Kana's concert?"
+  },
+  {
+    "line": 74,
+    "text": "{character:player}That's the best reward you can give me! Don't worry, I'll make sure that Kana controls her weight."
+  },
+  {
+    "line": 75,
+    "text": "{character:Manager}I really appreciate your help."
+  },
+  {
+    "line": 76,
+    "text": "An opportunity to spend a long period of time with my idol is very rare, but it won't be easy to turn down Kana when she's acting cute, so I hesitate and finally decide to refuse."
+  },
+  {
+    "line": 77,
+    "text": "{character:player}Sorry, I..."
+  },
+  {
+    "line": 78,
+    "text": "{character:Kana Fujita}Ahem!"
+  },
+  {
+    "line": 79,
+    "text": "Kana interrupts me with deliberate coughing the moment I start to refuse the offer. She moves next to me with exaggerated movements and starts talking in a low voice."
+  },
+  {
+    "line": 80,
+    "text": "{character:Kana Fujita}{var:player_nickname}, I heard that Zechs is thinking of taking you to practice in the jungle sometime soon. I think you would rather stay with me in One Han City than participate in a survival challenge in the wilderness in the height of summer, right?"
+  },
+  {
+    "line": 81,
+    "text": "{character:player}Ack! How did you find out about that?"
+  },
+  {
+    "line": 82,
+    "text": "{character:Kana Fujita}Don't underestimate the information gathering speed of an Internet surfer on an 8G connection. Do you want to reconsider your answer to my manager now...?"
+  },
+  {
+    "line": 83,
+    "text": "{character:player}Um, is that a threat?"
+  },
+  {
+    "line": 84,
+    "text": "{character:Kana Fujita}Hehe, {var:player_nickname}, you want more benefits? You're so greedy. Um... okay then. If you help me, I'll reserve a ticket to the concert for you."
+  },
+  {
+    "line": 85,
+    "text": "{character:player}The ticket doesn't really matter. I'm helping mainly because I'm an enthusiastic person who likes to help people out! ...Miss Manager, leave this to me."
+  },
+  {
+    "line": 86,
+    "text": "The manager looks at me and Kana a few times, as if she has seen through our secret arrangement."
+  },
+  {
+    "line": 87,
+    "text": "{character:Kana Fujita}Um, Miss Manager..."
+  },
+  {
+    "line": 88,
+    "text": "{character:Manager}Well, I'll agree to it since Kana insists... I'll leave it to you."
+  },
+  {
+    "line": 89,
+    "text": "That's why I've hurried over here to Kana's home on a weekday. As for why I have to inspect my backpack so carefully, this is just something I've learned from my experiences in my battle of wits with Kana these few days to ensure the weight loss plan progresses well."
+  },
+  {
+    "line": 90,
+    "text": "After making sure I don't have any high-calorie foods on me, I knock on Kana's front door gently."
+  },
+  {
+    "line": 91,
+    "text": "{character:Kana Fujita}Coming! {var:player_nickname}, good afternoon!"
+  },
+  {
+    "line": 92,
+    "text": "Kana's joyful voice on the other side of the door is followed by a clanging sound like many things have been knocked down at the same time. Fortunately, the door opens soon, revealing Kana's smiling face."
+  },
+  {
+    "line": 93,
+    "text": "I look at her forehead and see fine beads of sweat rolling down her fair and delicate face, leaving a pool of water on the floor. She looks energetic and cute and gives people an irresistible urge to want to dry her sweat for her."
+  },
+  {
+    "line": 94,
+    "text": "Although she puts on a perfect appearance on the stage, Kana Fujita is a playful girl in private."
+  },
+  {
+    "line": 95,
+    "text": "{character:player}Good afternoon, Kana. Have you already started exercising? How many calories have you burned? Have you recorded it?"
+  },
+  {
+    "line": 96,
+    "text": "{character:Kana Fujita}Hey! Shouldn't you praise me for being hardworking first? If I knew you would be so strict, {var:player_nickname}, I wouldn't have recommended my manager to ask you to watch over me. Does this count as shooting myself in the foot...?"
+  },
+  {
+    "line": 97,
+    "text": "{character:player}It's too late to regret it now. I promised your manager I would help you lose at least five pounds. If I succeed, she'll upgrade my ticket to VIP seat for free."
+  },
+  {
+    "line": 98,
+    "text": "{character:Kana Fujita}You don't need my manager to do that. I can help you too."
+  },
+  {
+    "line": 99,
+    "text": "The girl throws a wink at me, but... her lovely appearance doesn't win over any flowers and applause like it usually does. Instead, it makes me take a step back and become vigilant."
+  },
+  {
+    "line": 100,
+    "text": "{character:Kana Fujita}Look, it's almost time for lunch. Since I've been working so hard, can lunch be changed slightly?"
+  },
+  {
+    "line": 101,
+    "text": "After catching Kana secretly drinking a bottle of carbonated soft drink yesterday, secretly eating a pack of chocolate cookies the day before yesterday, and trying to secretly buy instant noodles three days ago, I'm not surprised by her proposal at all. It even makes me think: \"I knew it.\""
+  },
+  {
+    "line": 102,
+    "text": "{character:player}For example... Changing the vegetable salad to the honey-fried chicken from downstairs?"
+  },
+  {
+    "line": 103,
+    "text": "{character:Kana Fujita}It looks like we aren't just compatible in games. We even have similar tastes in food. Haha, I've already done some research, and the best deal is to order a takeaway family bucket plus a crispy chicken fillet."
+  },
+  {
+    "line": 104,
+    "text": "{character:player}That's a good idea, but that's my lunch."
+  },
+  {
+    "line": 105,
+    "text": "{character:player}Huh?"
+  },
+  {
+    "line": 105,
+    "text": "{character:Kana Fujita}Huh?"
+  },
+  {
+    "line": 106,
+    "text": "{character:player}Your manager arranged your meals for the entire week before she left. Let me see... You're having a mango and shrimp salad set today."
+  },
+  {
+    "line": 107,
+    "text": "After hearing this, Kana who was happily discussing what she wanted for lunch starts protesting. She grabs my sleeve pitifully to wipe nonexistent tears as if she is the little match girl."
+  },
+  {
+    "line": 108,
+    "text": "{character:Kana Fujita}Please! It's been two weeks now. Do you know what it's been like for me these last two weeks? I've been eating different types of salad every day. I smell like roasted sesame sauce dressing now..."
+  },
+  {
+    "line": 109,
+    "text": "{character:Kana Fujita}I have four hours of fitness classes in the afternoon, and all I want is to eat some meat to replenish my energy. Is that too much to ask...?"
+  },
+  {
+    "line": 110,
+    "text": "{character:player}It does sound like a reasonable request."
+  },
+  {
+    "line": 111,
+    "text": "{character:Kana Fujita}Hehe, I knew you care about me the most. Can we order the fried chicken takeaway now?"
+  },
+  {
+    "line": 112,
+    "text": "No one can say no to Kana Fujita when she is acting cute. By the time I come to my senses, I hear myself agreeing to her request before my mind can react."
+  },
+  {
+    "line": 113,
+    "text": "She takes out her mobile phone happily and starts discussing the discounted takeaway deals again. However... my sense of duty brings me to my senses just before she can tap the button to confirm her order."
+  },
+  {
+    "line": 114,
+    "text": "{character:Kana Fujita}Huh?"
+  },
+  {
+    "line": 114,
+    "text": "{character:player}Huh?"
+  },
+  {
+    "line": 115,
+    "text": "Looking into Kana's eyes, filled with trust, surprise, and a hint of worry. I feel like a battle between a devil and an angel is taking place in my heart."
+  },
+  {
+    "line": 116,
+    "text": "Satisfy Kana's request"
+  },
+  {
+    "line": 117,
+    "text": "Strictly follow the weight loss diet"
+  },
+  {
+    "line": 118,
+    "text": "{character:player}It should be okay if you only have a little, right?"
+  },
+  {
+    "line": 119,
+    "text": "Unable to bear the disappointed look in Kana's eyes, the little angel in my heart finally prevails, and I confirm the order under her concerned gaze."
+  },
+  {
+    "line": 120,
+    "text": "{character:Kana Fujita}Woohoo! {var:player_nickname}, from now on, you're my idol!"
+  },
+  {
+    "line": 121,
+    "text": "{character:player}Eh, I bet your manager will kick me out of the fan club once she finds out."
+  },
+  {
+    "line": 122,
+    "text": "{character:Kana Fujita}Don't worry! I won't tell her. This will be our little secret."
+  },
+  {
+    "line": 123,
+    "text": "Kana's mood brightens obviously because of the fried chicken. She even hums a lively tune when I urge her to continue exercising."
+  },
+  {
+    "line": 124,
+    "text": "Forget it, if it makes her so happy, why not make an exception once in a while?"
+  },
+  {
+    "line": 125,
+    "text": "It doesn't take long for the takeaway to arrive. The crispy chicken fillet is fried perfectly and very fragrant, and the signature pistol drumsticks are golden and crispy, slightly charred on the outside and tender on the inside. Just seeing them there makes me hungry."
+  },
+  {
+    "line": 126,
+    "text": "Kana squints slightly and licks the sauce off her fingers with her pink tongue like a languid kitten."
+  },
+  {
+    "line": 127,
+    "text": "{character:Kana Fujita}This honey mustard sauce goes so well with the honey-fried chicken. {var:player_nickname}, you have to try some."
+  },
+  {
+    "line": 128,
+    "text": "{character:player}W-Wait up... Kana, you've already eaten three pieces of chicken popcorn! You've almost reached your maximum calorie intake for today. You'll exceed the limit if you eat any more."
+  },
+  {
+    "line": 129,
+    "text": "{character:Kana Fujita}But I still want to eat some more..."
+  },
+  {
+    "line": 130,
+    "text": "The girl refuses to let go of the fried chicken nugget she just picked up and looks at me with pleading eyes. Even if I can make up my mind to stop her, I just can't make a harsh expression."
+  },
+  {
+    "line": 131,
+    "text": "I sigh inwardly and regret that I ordered the fried chicken for Kana against my principles. I thought she would just eat a few pieces to satisfy her craving, but now it looks like she has no intention to stop."
+  },
+  {
+    "line": 132,
+    "text": "In that case, I can only try another method to stop her."
+  },
+  {
+    "line": 133,
+    "text": "{character:Kana Fujita}Mmm, this spicy chicken wing is so delicious. I can eat one more... no, make it two!"
+  },
+  {
+    "line": 134,
+    "text": "{character:player}On average, each serving of spicy chicken wing contains 196 kcal, which can barely be burned off by running for about 22 minutes."
+  },
+  {
+    "line": 135,
+    "text": "{character:Kana Fujita}And this popcorn chicken is so fragrant and crunchy. It tastes absolutely heavenly with this Thai-style sweet and spicy sauce."
+  },
+  {
+    "line": 136,
+    "text": "{character:player}On average, each serving of popcorn chicken contains 390 kcal. As it has a high oil content, it'll take about 44.3 minutes of running to burn it off."
+  },
+  {
+    "line": 137,
+    "text": "{character:Kana Fujita}Um... I can have some fries..."
+  },
+  {
+    "line": 138,
+    "text": "{character:player}On average, a large serving of fries contains 421 kcal, and it is recommended to run for 47 minutes to burn it off."
+  },
+  {
+    "line": 139,
+    "text": "{character:Kana Fujita}In that case, a piece of original chicken should be okay... right?"
+  },
+  {
+    "line": 140,
+    "text": "{character:player}On average, every 100g of the original chicken contains about 346 kcal!"
+  },
+  {
+    "line": 141,
+    "text": "{character:Kana Fujita}Ahem, then let me have a bit of this chicken and egg burger..."
+  },
+  {
+    "line": 142,
+    "text": "{character:player}384 kcal!"
+  },
+  {
+    "line": 143,
+    "text": "{character:player}..."
+  },
+  {
+    "line": 143,
+    "text": "{character:Manager}..."
+  },
+  {
+    "line": 143,
+    "text": "{character:Kana Fujita}..."
+  },
+  {
+    "line": 144,
+    "text": "{character:player}What else do you want to eat, Kana?"
+  },
+  {
+    "line": 145,
+    "text": "{character:Kana Fujita}Argh! I won't eat it now! {var:player_nickname}, you're like a calorie demon. Every bite fills me with guilt now."
+  },
+  {
+    "line": 146,
+    "text": "The air conditioner in the room slowly sends out a cool breeze that dispels the summer heat and spreads the aroma of fried chicken to every corner of the room. This makes Kana's weight loss plan even more difficult. She curls her lips and looks away from the dining table reluctantly."
+  },
+  {
+    "line": 147,
+    "text": "{character:Kana Fujita}There are still three months until the concert. How will I last until then...?"
+  },
+  {
+    "line": 148,
+    "text": "{character:player}No... No!"
+  },
+  {
+    "line": 149,
+    "text": "The devil in my heart defeats the soft-hearted angel to gain the upper hand. With great difficulty, I force myself to reject her."
+  },
+  {
+    "line": 150,
+    "text": "To get that VIP ticket to the concert, I'll have to be harsh just this once. Ignoring the girl's look of accusation, I place the two lunches the manager prepared separately on the dining table."
+  },
+  {
+    "line": 151,
+    "text": "The mango and shrimp salad in the lunch box is bright green, just like bamboo shoots that have just broken through the ground, and the shrimp meat embellishes it with specks of white. As a whole, the colors go well together, and it looks, smells, and tastes good. But that's only if there isn't an enticing deluxe fried chicken rice bowl right next to it."
+  },
+  {
+    "line": 152,
+    "text": "The tragic visual contrast makes me feel even worse about the situation, so I try to eat as quietly as possible to make myself feel more invisible."
+  },
+  {
+    "line": 153,
+    "text": "{character:Kana Fujita}Sigh..."
+  },
+  {
+    "line": 154,
+    "text": "{character:player}Am I affecting you? Should I go to the living room for now?"
+  },
+  {
+    "line": 155,
+    "text": "{character:Kana Fujita}Of course not. I already feel bad that I can't try that delicious fried chicken rice bowl. It'll be even harder for me to stomach this food if I can't see you while I'm eating, {var:player_nickname}."
+  },
+  {
+    "line": 156,
+    "text": "{character:player}I think I know what to give you after your concert ends, a bouquet of fried chicken drumsticks would be perfect."
+  },
+  {
+    "line": 157,
+    "text": "{character:Kana Fujita}Haha! I don't mind, but my manager will definitely stop you. Sigh... I feel miserable whenever I remember that I'll have to wait until after my concert ends three months later before I can eat meat again."
+  },
+  {
+    "line": 158,
+    "text": "The young girl leans softly against the back of the chair and pokes the food in her bowl with her fork instead of eating the food."
+  },
+  {
+    "line": 159,
+    "text": "Seeing how depressed she looks, the angel in my heart stands up again with shaky legs and starts chanting a magic spell while waving a staff around. Because I want to remove the frown from her face so much, the magic spell enchants me easily."
+  },
+  {
+    "line": 160,
+    "text": "{character:player}Kana, if you don't mind, you can try some of this fried chicken."
+  },
+  {
+    "line": 161,
+    "text": "{character:Kana Fujita}Huh? Really?!"
+  },
+  {
+    "line": 162,
+    "text": "{character:player}Yeah, but since we need to watch your calorie count, you can only have a little bit. I'll also tell your fitness trainer about the situation and arrange for you to do extra training..."
+  },
+  {
+    "line": 163,
+    "text": "{character:Kana Fujita}That's okay! I don't care if I need to train for an extra day as long as I can eat some meat! ...Mmm! Thanks, {var:player_nickname}! It's as tasty as I imagined!"
+  },
+  {
+    "line": 164,
+    "text": "Before I can finish speaking, Kana, who is no longer depressed, comes over. She takes my spoon eagerly and takes a bite, stuffing her cheeks until they are bulging, making satisfied and happy sounds while she eats."
+  },
+  {
+    "line": 165,
+    "text": "{character:player}Wait, Kana! That's the spoon I was using..."
+  },
+  {
+    "line": 166,
+    "text": "Her face becomes as red as a beetroot. She quickly thrusts the spoon back into my hand, then turns around so her back is facing me and picks up the salad set she was eating before. The vegetables she disliked so much before are now like delicacies that have her full attention."
+  },
+  {
+    "line": 167,
+    "text": "Her actions remind me of a video compilation of cute little squirrels on CatChat. In my heart, I feel a little lucky and proud because only I have seen such a vivid side of her."
+  },
+  {
+    "line": 168,
+    "text": "It's just... I press my hand against my cheek and realize that Kana isn't the only person affected by what happened."
+  },
+  {
+    "line": 169,
+    "text": "After a short break following lunch, the ringing alarm clock reminds us that it's time to exercise. The fitness trainer hired by the manager usually would arrive early at this time, but something unexpected happened today."
+  },
+  {
+    "line": 170,
+    "text": "{character:Kana Fujita}You're saying that... the fitness trainer has taken the day off?"
+  },
+  {
+    "line": 171,
+    "text": "{character:player}Yes, he just sent me a message saying that he can't come today because something happened at home."
+  },
+  {
+    "line": 172,
+    "text": "{character:Kana Fujita}Heaven must have noticed that I was working too hard and decided to give me an extra day off. Why don't we go and play mahjong with Ichihime and the others in the afternoon? I've been exercising so hard during this time that I haven't played a South Wind match in a long time."
+  },
+  {
+    "line": 174,
+    "text": "{character:Kana Fujita}{var:player_nickname}, you suddenly pulled out something terrifying!"
+  },
+  {
+    "line": 175,
+    "text": "{character:player}I won't let you take any days off unless you reach the target weight."
+  },
+  {
+    "line": 176,
+    "text": "{character:Kana Fujita}Ahem, I was just joking. I'll exercise seriously, so put the electronic scale away now... Since you insist, you can be my trainer for today!"
+  },
+  {
+    "line": 177,
+    "text": "{character:Kana Fujita}Why are you so surprised? You've been supervising me while I exercise these last few days, so you should be really familiar with the exercises the trainer has been teaching me. There's also the training video my manager recorded at home to help you. You can do this!"
+  },
+  {
+    "line": 178,
+    "text": "Kana interrupts my instinctive refusal. After hearing her analysis, I actually begin to approve of this plan. At least this really is the best course of action we can take to save time and keep up with the weight loss plan."
+  },
+  {
+    "line": 179,
+    "text": "Noticing that Kana has already started cheering and thinking of what she can do for fun in the afternoon, I have no choice but to pull out an electronic scale to ruthlessly tear down her fantasies."
+  },
+  {
+    "line": 180,
+    "text": "That sounds like a good idea"
+  },
+  {
+    "line": 181,
+    "text": "Professional things should be left to the professionals"
+  },
+  {
+    "line": 182,
+    "text": "{character:player}That sounds like a good idea, but... you didn't make this suggestion because you want to see me out of breath after exercising, right?"
+  },
+  {
+    "line": 183,
+    "text": "{character:Kana Fujita}Ahem, no way. Exercise is an important part of life, and I want to share this healthy lifestyle with you. Shall we start now?"
+  },
+  {
+    "line": 184,
+    "text": "Seeing that she was starting to convince me, Kana quickly finds the recorded training video and even sets up an exercise mat for me. Perhaps it's merely an illusion, but I sense a mischievous sparkle in her eyes."
+  },
+  {
+    "line": 185,
+    "text": "It's obviously too late to back out now. Under Kana's expectant gaze, I stand and press the button to start playing the video."
+  },
+  {
+    "line": 186,
+    "text": "I still feel okay after exercising for one minute... After five minutes, it starts to feel strenuous... After ten minutes, I am sweating profusely and feel like my whole body is soaking in water."
+  },
+  {
+    "line": 187,
+    "text": "Most of the movements in the video look simple but are actually really difficult. It is an epic disaster for a beginner like me."
+  },
+  {
+    "line": 188,
+    "text": "I can clearly feel that I am losing control of my arms and legs. The sound of my heavy panting gradually becomes louder than the background music of the training video. I'm afraid I would have given up ages ago if it wasn't for the fact that I didn't want to embarrass myself in front of Kana. When I finally survive until it is time for a break, I plunge my head into the sofa and don't want to stand for even a second longer."
+  },
+  {
+    "line": 189,
+    "text": "{character:player}Huff... Huff... Huff..."
+  },
+  {
+    "line": 190,
+    "text": "{character:Kana Fujita}Are you okay? Do you want to have some water? There's some warm water here."
+  },
+  {
+    "line": 191,
+    "text": "{character:player}I'm okay... Huff... I'll be okay after I catch my breath. Huff... Kana, you actually have the strength to walk around after doing such intense exercise. You're really fit."
+  },
+  {
+    "line": 192,
+    "text": "{character:Kana Fujita}Haha, that sounds really familiar. I think Mia said something similar to that before."
+  },
+  {
+    "line": 193,
+    "text": "{character:player}Did your manager also make arrangements for Mia to lose weight?"
+  },
+  {
+    "line": 194,
+    "text": "{character:Kana Fujita}No, but everyone was practicing a new dance when W.I.N first debuted, and I could continue to dance to the music even after Mia and Akane were too tired to move. That's why she said that."
+  },
+  {
+    "line": 195,
+    "text": "{character:Kana Fujita}\"Why do you have such an unreasonable fitness level when you're clearly a gamer?\" Haha, that's what she said."
+  },
+  {
+    "line": 196,
+    "text": "{character:Kana Fujita}To meet the boss' requirements, we trained up to 12 hours a day during that time... It feels really nostalgic now that I think about it."
+  },
+  {
+    "line": 197,
+    "text": "{character:player}Idols put in so much hard work just to perform for a few minutes on stage."
+  },
+  {
+    "line": 198,
+    "text": "{character:player}It's the same even now. Even though your manager wants you to lose weight, you're not fat. In fact, I can even say that you're slender. Yet you're not allowed to take even one bite of your favorite foods. Now that I think about it, being an idol is really hard work."
+  },
+  {
+    "line": 199,
+    "text": "{character:Kana Fujita}Haha, although I'm really happy to be praised by you, it doesn't mean I agree with what you're saying."
+  },
+  {
+    "line": 200,
+    "text": "Kana pulls her loose hair behind her head, then sits down beside me with a glass of warm water. She looks outside the window... The afternoon sun shines through gaps in the shadows of trees, spreading summer to every corner and filling all the gaps between the sky and the earth."
+  },
+  {
+    "line": 201,
+    "text": "{character:Kana Fujita}The reason idols are so popular is essentially that they have something people yearn for."
+  },
+  {
+    "line": 202,
+    "text": "{character:Kana Fujita}Everyone desires to become someone outstanding like an idol, so they start following the footsteps of the other person and start regarding idols as some kind of symbol."
+  },
+  {
+    "line": 203,
+    "text": "{character:Kana Fujita}It might sound a little boastful, but... since I'm lucky enough to become a ray of light in another person's life, I shouldn't do things to disappoint my fans, right?"
+  },
+  {
+    "line": 204,
+    "text": "Maybe Kana became an idol at the very beginning simply because she wanted to stand on a gorgeous stage, but as time passed by, her dream is no longer limited to that stage."
+  },
+  {
+    "line": 205,
+    "text": "Just like how her fans love her, Kana also loves her fans and wants to actively give back to them."
+  },
+  {
+    "line": 206,
+    "text": "{character:player}Kana, your fans are really lucky."
+  },
+  {
+    "line": 207,
+    "text": "{character:Kana Fujita}Hehe, congratulations then because you're one of them..."
+  },
+  {
+    "line": 208,
+    "text": "{character:player}Haha, in that case... the break is over. It's time to exercise again."
+  },
+  {
+    "line": 209,
+    "text": "{character:Kana Fujita}Ah! The warm atmosphere has been ruined! {var:player_nickname}, you're too cunning."
+  },
+  {
+    "line": 210,
+    "text": "Although she makes this complaint, Kana, who spoils her fans, stops me from getting up and stands on the fitness mat alone."
+  },
+  {
+    "line": 211,
+    "text": "When she works hard for the wishes of her fans, she seems more serious and devoted than usual."
+  },
+  {
+    "line": 212,
+    "text": "{character:player}M-Manager! Why are you here? Isn't there two more days before the commercial performance ends?!"
+  },
+  {
+    "line": 213,
+    "text": "{character:Manager}I arranged for someone else to take care of Mia, so I rushed back to do a spot check on the progress of the weight loss plan. Kana, don't just stand there. Hop on the scale."
+  },
+  {
+    "line": 214,
+    "text": "{character:Kana Fujita}Why does hearing that make me feel like a sheep being led to the slaughter?"
+  },
+  {
+    "line": 215,
+    "text": "Kana's manager ignores the looks of protests she makes and stands firm on her mandatory request. The numbers on the electronic scale jump back and forth before finally stopping firmly on a number."
+  },
+  {
+    "line": 216,
+    "text": "{character:Manager}I'm a little surprised that you actually passed. I'll record it then. Today's weight is..."
+  },
+  {
+    "line": 217,
+    "text": "{character:Kana Fujita}Ahhh! It's enough for you and {var:player_nickname} to know. Don't say it out loud."
+  },
+  {
+    "line": 218,
+    "text": "{character:Manager}There's no helping it. Anyway... {var:player_nickname}, thank you for helping out over the last few days. I'll reserve a VIP ticket for you as agreed. I'll see you at the concert."
+  },
+  {
+    "line": 219,
+    "text": "{character:player}Sure!"
+  },
+  {
+    "line": 220,
+    "text": "Sure enough, I feel really lucky to be Kana's fan!"
+  },
+  {
+    "line": 221,
+    "text": "{character:player}Forget it."
+  },
+  {
+    "line": 222,
+    "text": "An anonymous person once said something that makes a lot of sense even though it hasn't been proven: \"Professional things should be left to the professionals.\" I know very well that I'm not fit enough to be a temporary trainer, so I firmly reject Kana's proposal."
+  },
+  {
+    "line": 223,
+    "text": "To thoroughly extinguish the little flame of Kana's desire to be lazy, I send a text message to her manager about what afternoon arrangements I should make."
+  },
+  {
+    "line": 224,
+    "text": "{character:Manager}It looks like it's time to activate plan B."
+  },
+  {
+    "line": 225,
+    "text": "{character:Manager}A nearby gym has signed an agreement with us to provide corresponding fitness services to our artists and protect their privacy."
+  },
+  {
+    "line": 226,
+    "text": "{character:Manager}I'll call the manager of the gym now. You should take Kana there after half an hour. I've just sent you the address. →shared address URL"
+  },
+  {
+    "line": 227,
+    "text": "{character:player}Okay."
+  },
+  {
+    "line": 228,
+    "text": "{character:player}As expected, every manager has a plan B. However, why does this address look so familiar?"
+  },
+  {
+    "line": 229,
+    "text": "I take Kana to the gym. The moment I open the door, I can feel a strong... sporty atmosphere."
+  },
+  {
+    "line": 230,
+    "text": "All the exercise equipment is in use. People are either letting off some steam or trying to improve their physical fitness. However, regardless of their motive, they are doing all this for one goal, which is to exchange their sweat for positive energy."
+  },
+  {
+    "line": 231,
+    "text": "The fitness trainer the manager contacted is waiting for us at the door long before we arrived. He strictly skips all the usual visit procedures and takes Kana directly to the personal training room."
+  },
+  {
+    "line": 232,
+    "text": "{character:player}Kana, give it your all!"
+  },
+  {
+    "line": 233,
+    "text": "Deliberately ignoring the \"resentment\" in her eyes, I calmly find a comfortable place to sit down and prepare to play a mahjong game on my mobile phone for the rest of the afternoon."
+  },
+  {
+    "line": 234,
+    "text": "{character:player}According to the schedule, Kana will need to train for at least four hours... I better make the most of this time to rank up!"
+  },
+  {
+    "line": 235,
+    "text": "{character:player}Hmm... Should I call Pon on this tile or not?"
+  },
+  {
+    "line": 236,
+    "text": "Fitness trainer"
+  },
+  {
+    "line": 237,
+    "text": "{character:Fitness trainer}Of course you should. What are you waiting for with your hand?"
+  },
+  {
+    "line": 238,
+    "text": "{character:player}Then I'll... Hmm? Wait a minute, you..."
+  },
+  {
+    "line": 239,
+    "text": "{character:Fitness trainer}The countdown is almost over. Call Pon now before it's too late! Oh, I was going to ask you. Do you know where Miss Fujita has gone?"
+  },
+  {
+    "line": 240,
+    "text": "{character:player}She isn't in the room?"
+  },
+  {
+    "line": 241,
+    "text": "{character:Fitness trainer}No. She suddenly disappeared when I went outside to drink some water. The other trainers and I have been looking for her for a while, but we haven't had much luck."
+  },
+  {
+    "line": 242,
+    "text": "{character:player}What?!"
+  },
+  {
+    "line": 243,
+    "text": "After hearing the news, I jump up from the chair and anxiously start searching for her."
+  },
+  {
+    "line": 244,
+    "text": "{character:Fitness trainer}Slow down, you can call Pon on that tile first..."
+  },
+  {
+    "line": 245,
+    "text": "This street, queue, and milk tea fragrance are all so familiar to me... After turning at the corner, I finally realize why this gym is so familiar to me. It's because it's just across the street from that popular milk tea."
+  },
+  {
+    "line": 246,
+    "text": "Remembering that this is where I met Kana and her agent last week, which led to me having the opportunity to spend some time in close proximity to my idol, I can't help but slow down and relive the joy I experienced at that time."
+  },
+  {
+    "line": 247,
+    "text": "Suddenly... I see a figure wearing sunglasses and a curvy mustache with a huge sun umbrella in her hands in the queue to buy milk tea. After noticing my gaze, the person steps back guiltily."
+  },
+  {
+    "line": 248,
+    "text": "{character:Kana Fujita}Ahem, {var:player_nickname}, what a coincidence..."
+  },
+  {
+    "line": 249,
+    "text": "{character:player}Surely you won't try to tell me that you've come here to chat with a friend this time, right?"
+  },
+  {
+    "line": 250,
+    "text": "{character:Kana Fujita}Maybe my legs have a mind of their own?"
+  },
+  {
+    "line": 251,
+    "text": "I finally understand why your manager is always sighing. With raised eyebrows, I reach out to pull Kana out of the long queue at the milk tea shop and take her back to the fitness trainer."
+  },
+  {
+    "line": 252,
+    "text": "{character:player}I'll stand guard outside the door this time so you won't get the chance to sneak out to buy milk tea again. You haven't quite reached your manager's goal yet, so you need to work hard!"
+  },
+  {
+    "line": 253,
+    "text": "{character:Kana Fujita}Sigh, I'm doing so much for your VIP ticket."
+  },
+  {
+    "line": 254,
+    "text": "{character:Fitness trainer}Miss Fujita, milk tea is something you must avoid while trying to lose weight. Because of what you just did, I've decided to work overtime for free today and give you double the practice time. I hope you'll remember this lesson."
+  },
+  {
+    "line": 255,
+    "text": "{character:Kana Fujita}No! You don't need to do that."
+  },
+  {
+    "line": 256,
+    "text": "{character:Fitness trainer}Before we start exercising again, I have one last question. {var:player_nickname}, I want to know... did you call Pon on that tile in the end?"
+  },
+  {
+    "line": 257,
+    "text": " It looks like he is also a mahjong enthusiast. But compared with the mahjong game, shouldn't he be focusing on Kana's weight loss plan? I hope everything goes well before her manager returns to One Han City."
+  },
+  {
+    "line": 258,
+    "text": "{character:Manager}I had a feeling the weight loss plan would fail, but... I didn't expect Kana to gain weight instead of losing weight."
+  },
+  {
+    "line": 259,
+    "text": "{character:player}But the trainer clearly gave Kana two extra hours of training yesterday. How could..."
+  },
+  {
+    "line": 260,
+    "text": "The air becomes silent suddenly, and even the wind has stopped blowing outside the window. With her manager and me looking at her suspiciously, Kana lowers her head guiltily and coughs gently."
+  },
+  {
+    "line": 261,
+    "text": "{character:Kana Fujita}Ahem, I used up so much energy in yesterday's extra training and was so hungry that I couldn't sleep in the middle of the night... I just happened to see a fried chicken restaurant's ad for takeaway, so..."
+  },
+  {
+    "line": 262,
+    "text": "Listening to her gradually softening voice, I finally understand what happened. Her manager and I quickly glance at each other and we see helplessness in each other's eyes."
+  },
+  {
+    "line": 263,
+    "text": "{character:Manager}It's a good thing I returned early. It's not too late to make up for lost time. Kana, I'll be supervising your exercise personally, and I'll notify your fitness trainer to double your training amount. I hope you'll reach your target weight as soon as possible."
+  },
+  {
+    "line": 264,
+    "text": "{character:Kana Fujita}What? Please don't!"
+  },
+  {
+    "line": 265,
+    "text": "Kana and I, who was completely innocent, wail mournfully at the same time. I would miss out on a VIP ticket to the concert because of one supper!"
+  },
+  {
+    "line": 266,
+    "text": "Fortunately, Kana's manager knows that it isn't my fault and arranged a ticket for me anyway, which cools and soothes my miserable heart that feels like it has been exposed to the heat of summer."
+  },
+  {
+    "line": 267,
+    "text": "One week ago"
+  },
+  {
+    "line": 268,
+    "text": ""
+  },
+  {
+    "line": 269,
+    "text": "The second day"
+  },
+  {
+    "line": 270,
+    "text": "A little while later"
+  }
+]

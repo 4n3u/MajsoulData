@@ -1,0 +1,1 @@
+local a=require("ExcelTool")local b=a.Block;local c=a.PackGet;local d={["event_id"]=1,["selection_id"]=2,["selection_desc"]=3,["type"]=4,["check"]=1005,["args"]=6}local e={1005,nil,nil,1,nil,nil}local f=function(g,h)return c(g,h,d,e)end;local i={1031,1071,1100}local j={}return{tb=j,get=f,b2i=i}

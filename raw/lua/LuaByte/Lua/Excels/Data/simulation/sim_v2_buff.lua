@@ -1,0 +1,1 @@
+local a=require("ExcelTool")local b=a.Block;local c=a.PackGet;local d={["buff_id"]=1,["buff_result_desc"]=2,["buff_desc"]=3,["type"]=4,["match_effect"]=5,["param"]=1006}local e={nil,25049003,25049003,12003,nil,nil}local f=function(g,h)return c(g,h,d,e)end;local i={10650111,10840211,11000411}local j={}return{tb=j,get=f,b2i=i}

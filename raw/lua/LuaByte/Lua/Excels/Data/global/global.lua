@@ -1,0 +1,1 @@
+local a=require("ExcelTool")local b=a.Pack;local c=a.Sub;local d=a.PackGet;local e=a.Dmap;local f={["id"]=1,["args"]=1002}local g={nil,"3000"}local h=function(i,j)return d(i,j,f,g)end;local k={}k[1]=b({1,"1800,1200,600,420,300,240,180,120,60,30,10"},h)k[2]=b({2,"20179"},h)k[3]=b({3,"5"},h)k[4]=b({4},h)k[5]=b({5},h)return{tb=k}

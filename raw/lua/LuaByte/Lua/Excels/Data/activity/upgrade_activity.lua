@@ -1,0 +1,1 @@
+local a=require("ExcelTool")local b=a.Pack;local c=a.Sub;local d=a.PackGet;local e=a.Dmap;local f={["activity_id"]=1,["mail_id"]=2,["consume_item"]=1003,["total_reward_id"]=4,["reward_id"]=5}local g={nil,nil,nil,nil,nil}local h=function(i,j)return d(i,j,f,g)end;local k={}k[230101]=b({230101,112,"309069-1",23010199,c({23010101,23010102,23010103})},h)return{tb=k}

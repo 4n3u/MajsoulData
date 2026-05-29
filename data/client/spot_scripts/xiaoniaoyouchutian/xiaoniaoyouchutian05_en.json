@@ -1,0 +1,1086 @@
+[
+  {
+    "line": 11,
+    "text": "player"
+  },
+  {
+    "line": 1207,
+    "text": "A Recipe for an Endless Summer"
+  },
+  {
+    "line": 1209,
+    "text": "Huff... Puff..."
+  },
+  {
+    "line": 1211,
+    "text": "And that's the last pot...!"
+  },
+  {
+    "line": 1212,
+    "text": "Inside the Gardening Club, National University of Fuuchi"
+  },
+  {
+    "line": 1213,
+    "text": "Hinata Takanashi"
+  },
+  {
+    "line": 1214,
+    "text": "Whew! I'm done moving them too!"
+  },
+  {
+    "line": 1215,
+    "text": "These little guys are safe from the blistering sun now."
+  },
+  {
+    "line": 1216,
+    "text": "Glad I could help!"
+  },
+  {
+    "line": 1217,
+    "text": "I'd never have finished this alone with so many plants to move. Thanks for the help, {var:player_nickname}."
+  },
+  {
+    "line": 1218,
+    "text": "Now for the shade nets. Once those are up, they'll be protected no matter where the sun hits."
+  },
+  {
+    "line": 1219,
+    "text": "I'm definitely a bit of a sweaty mess... but seeing them all tucked away and tidy really makes my day."
+  },
+  {
+    "line": 1220,
+    "text": "You're right. There's nothing like that \"job well done\" feeling..."
+  },
+  {
+    "line": 1221,
+    "text": "So, it's finally the weekend..."
+  },
+  {
+    "line": 1222,
+    "text": "Don't you have a shift at the cafe today?"
+  },
+  {
+    "line": 1223,
+    "text": "I was just heading out! But it's been so scorching lately, I couldn't focus on work knowing my plants were baking."
+  },
+  {
+    "line": 1224,
+    "text": "Care to join me, {var:player_nickname}? Reina just got some fresh coffee beans in today!"
+  },
+  {
+    "line": 1225,
+    "text": "Sounds good. I could really use a cold drink to cool off."
+  },
+  {
+    "line": 1226,
+    "text": "Then let's get moving! I'll personally make that first cup for you, {var:player_nickname}."
+  },
+  {
+    "line": 1227,
+    "text": "Reina Nanami"
+  },
+  {
+    "line": 1228,
+    "text": "Oh, Hinata, you're here! Just in time. Do you think you could help me move these boxes outside?"
+  },
+  {
+    "line": 1229,
+    "text": "At Éternité"
+  },
+  {
+    "line": 1230,
+    "text": "Huh? Move them out? Wait, what's going on, Reina?"
+  },
+  {
+    "line": 1231,
+    "text": "Hmm... Sad to say, but Éternité might be closed for the summer."
+  },
+  {
+    "line": 1232,
+    "text": "Huh?! Why?!"
+  },
+  {
+    "line": 1233,
+    "text": "It's the heat and humidity. The coffee beans for our summer special were ruined during delivery."
+  },
+  {
+    "line": 1234,
+    "text": "We had other food and drinks we could've served, but just our luck – the AC just gave up on us this morning."
+  },
+  {
+    "line": 1235,
+    "text": "I'm not letting everyone work in such harsh conditions, and no one is going to sit down to eat in a sauna."
+  },
+  {
+    "line": 1236,
+    "text": "Restocking and fixing the AC will take time. {var:player_nickname}, Hinata, I'll update you when we're back. My apologies..."
+  },
+  {
+    "line": 1237,
+    "text": "That look on Reina's face... I can't stop thinking about it."
+  },
+  {
+    "line": 1238,
+    "text": "She's been working for the new blend since spring. Breaking a promise to her regulars is the last thing she wanted."
+  },
+  {
+    "line": 1239,
+    "text": "Should we do something to help her out?"
+  },
+  {
+    "line": 1240,
+    "text": "Yeah... I just don't know how. If only I were as clever as you, {var:player_nickname}..."
+  },
+  {
+    "line": 1241,
+    "text": "Umm... {var:player_nickname}, could you help me out? Just like the way you handled things with Sprout Nursery!"
+  },
+  {
+    "line": 1242,
+    "text": "Hmm, let me see..."
+  },
+  {
+    "line": 1243,
+    "text": "What if we make a \"summer special\" that doesn't need any coffee beans at all?"
+  },
+  {
+    "line": 1244,
+    "text": "Oh! That would solve the whole restocking problem!"
+  },
+  {
+    "line": 1245,
+    "text": "But what should we make? Plain tea or juice might disappoint the regulars. It needs to be special."
+  },
+  {
+    "line": 1246,
+    "text": "I know! {var:player_nickname}, you have so many friends in One Han City. Let's go ask them for ideas!"
+  },
+  {
+    "line": 1247,
+    "text": "Good plan. Let's see what we can find out!"
+  },
+  {
+    "line": 1248,
+    "text": "Saturne"
+  },
+  {
+    "line": 1249,
+    "text": "\"The special flavor of summer,\" huh? Hahaha... You always come through with the most random questions, {var:player_nickname}."
+  },
+  {
+    "line": 1250,
+    "text": "Summer's the only thing that can melt Northland's snow, but it's hard to describe the \"flavor\" of that."
+  },
+  {
+    "line": 1251,
+    "text": "If I had to choose the most \"honest\" answer, though, I would have to say..."
+  },
+  {
+    "line": 1252,
+    "text": "...this \"orange soda\" right here."
+  },
+  {
+    "line": 1253,
+    "text": "Wait, was that in your suit the whole time?!"
+  },
+  {
+    "line": 1254,
+    "text": "And it's just the basic kind from any old vending machine..."
+  },
+  {
+    "line": 1255,
+    "text": "A great businessman knows the best investments are often the most cost-effective ones."
+  },
+  {
+    "line": 1256,
+    "text": "Real treasure is found in the simple things that trigger precious memories. When you've lived through the snow, you appreciate the sweetness."
+  },
+  {
+    "line": 1257,
+    "text": "And who knows? An orange soda mixed by {var:player_nickname} might be something truly special."
+  },
+  {
+    "line": 1258,
+    "text": "Haruna Igarashi"
+  },
+  {
+    "line": 1259,
+    "text": "The flavor of summer? Popsicles, obviously! Especially when you split one with a friend!"
+  },
+  {
+    "line": 1260,
+    "text": "And what's the flavor?"
+  },
+  {
+    "line": 1261,
+    "text": "Peach is sweet, Chocolate is so rich... My tummy loves them all! Don't make me pick!"
+  },
+  {
+    "line": 1262,
+    "text": "But I know this: if it's a good drink, it'll be an even better popsicle!"
+  },
+  {
+    "line": 1263,
+    "text": "I'm gotta go find the kitties! {var:player_nickname}, don't forget, you're coming with me next time!"
+  },
+  {
+    "line": 1264,
+    "text": "Yui Yagi"
+  },
+  {
+    "line": 1265,
+    "text": "Good morning, senpai."
+  },
+  {
+    "line": 1266,
+    "text": "Good morning!"
+  },
+  {
+    "line": 1267,
+    "text": "(whisper) Are we really asking Yui?"
+  },
+  {
+    "line": 1268,
+    "text": "Shake head"
+  },
+  {
+    "line": 1269,
+    "text": "Shake head faster!"
+  },
+  {
+    "line": 1270,
+    "text": "...?"
+  },
+  {
+    "line": 1271,
+    "text": "It's funny how tense you look, senpai. You're here to ask about the food, right?//nI'd recommend the Yam & Fish Soda."
+  },
+  {
+    "line": 1272,
+    "text": "...Noted. Thanks!"
+  },
+  {
+    "line": 1273,
+    "text": "Alright, we've got a list! Orange soda and popsicles... total summer classics!"
+  },
+  {
+    "line": 1274,
+    "text": "But Éternité is closed. Where can we actually do the mixing?"
+  },
+  {
+    "line": 1275,
+    "text": "No need to bother anyone else. Let's just go to my place!"
+  },
+  {
+    "line": 1276,
+    "text": "To your place?"
+  },
+  {
+    "line": 1277,
+    "text": "Are you sure?"
+  },
+  {
+    "line": 1278,
+    "text": "It's fine, follow me!"
+  },
+  {
+    "line": 1279,
+    "text": "Welcome! Please, come in!"
+  },
+  {
+    "line": 1280,
+    "text": "Thank goodness for air conditioning... I'm alive again..."
+  },
+  {
+    "line": 1281,
+    "text": "The house smells faintly of flowers."
+  },
+  {
+    "line": 1282,
+    "text": "We've been out in the sun too long. Here, {var:player_nickname}, let me help you with that sweat."
+  },
+  {
+    "line": 1283,
+    "text": "It's nice and cool inside. {var:player_nickname}, feel free to look around and rest before we start!"
+  },
+  {
+    "line": 1284,
+    "text": "Hehe, it's like natural perfume, smells refreshing, right? I'm glad you like it, {var:player_nickname}!"
+  },
+  {
+    "line": 1285,
+    "text": "{var:player_nickname}, feel free to look around! Make yourself at home!"
+  },
+  {
+    "line": 1286,
+    "text": "Her place looks like a typical home, aside from a jungle of potted plants on the tables..."
+  },
+  {
+    "line": 1287,
+    "text": "Also, even with the AC on low, the room feels surprisingly cool..."
+  },
+  {
+    "line": 1288,
+    "text": "How is it, {var:player_nickname}? Pretty cool in here, right?"
+  },
+  {
+    "line": 1289,
+    "text": "It is... I can barely feel the summer heat. Is the AC even doing that much?"
+  },
+  {
+    "line": 1290,
+    "text": "Hehe, that's because my \"green helpers\" are working their magic!"
+  },
+  {
+    "line": 1291,
+    "text": "This way! I'll introduce you to them!"
+  },
+  {
+    "line": 1292,
+    "text": "Ta-da!"
+  },
+  {
+    "line": 1293,
+    "text": "Hinata, you have... so many plants in your yard!"
+  },
+  {
+    "line": 1294,
+    "text": "Yep! They're my pride and joy. I've been waiting for the day I could finally show you around."
+  },
+  {
+    "line": 1295,
+    "text": "I tell them everything – about school, the cafe... and {var:player_nickname}..."
+  },
+  {
+    "line": 1296,
+    "text": "Ah! I-I mean... they provide shade and keep the air fresh and cool. Plus, aren't they just pretty?"
+  },
+  {
+    "line": 1297,
+    "text": "{var:player_nickname}... what do you think? Do you like it?"
+  },
+  {
+    "line": 1298,
+    "text": "Check out the plants"
+  },
+  {
+    "line": 1299,
+    "text": "Check out Hinata's face"
+  },
+  {
+    "line": 1300,
+    "text": "N-not me! I mean the plants in the yard...!"
+  },
+  {
+    "line": 1301,
+    "text": "They look so healthy. You've really poured your heart into this, haven't you?"
+  },
+  {
+    "line": 1302,
+    "text": "Wait... Are these little tags on the plants? Some old, some new, and some are even laminated. But that's not your writing, is it?"
+  },
+  {
+    "line": 1303,
+    "text": "My grandma wrote those. I've saved them all since I first started gardening with her."
+  },
+  {
+    "line": 1304,
+    "text": "This one's from my 5th birthday. The other reminds me not to overwater the ball cactus..."
+  },
+  {
+    "line": 1305,
+    "text": "Hmm? That bunny succulent you brought back has a tag too. The color is different. Is it special?"
+  },
+  {
+    "line": 1306,
+    "text": "Oh! That's...!"
+  },
+  {
+    "line": 1307,
+    "text": "Take a closer look"
+  },
+  {
+    "line": 1308,
+    "text": "Wait for Hinata to finish"
+  },
+  {
+    "line": 1309,
+    "text": "\"I hope that someday I can...\""
+  },
+  {
+    "line": 1310,
+    "text": "H-hey! No peeking!"
+  },
+  {
+    "line": 1311,
+    "text": "At least... not now. Maybe another time!"
+  },
+  {
+    "line": 1312,
+    "text": "Phew... Okay, tour's over. We have a drink to make! To the kitchen, {var:player_nickname}!"
+  },
+  {
+    "line": 1313,
+    "text": "Right, let's get to work."
+  },
+  {
+    "line": 1314,
+    "text": "I'd love to see more..."
+  },
+  {
+    "line": 1315,
+    "text": "Ugh..."
+  },
+  {
+    "line": 1316,
+    "text": "I tried making it more bubbly, which completely washed out the flavor..."
+  },
+  {
+    "line": 1317,
+    "text": "Then I added orange zest and an orange popsicle as a garnish. It looks nice, but now it has this bitter taste I can't fix..."
+  },
+  {
+    "line": 1318,
+    "text": "I feel like I've tried everything I can think of, but it's just not working..."
+  },
+  {
+    "line": 1319,
+    "text": "It's okay... at least you did your best..."
+  },
+  {
+    "line": 1320,
+    "text": "I just... I really wanted this to work."
+  },
+  {
+    "line": 1321,
+    "text": "But no matter what I do, I just can't find that \"flavor of summer\" we're looking for..."
+  },
+  {
+    "line": 1322,
+    "text": "Yeah, it feels like something is missing..."
+  },
+  {
+    "line": 1323,
+    "text": "Is there really nothing we can do until the next coffee beans arrive...?"
+  },
+  {
+    "line": 1324,
+    "text": "Maybe... we're trying too hard to find other people's \"flavor of summer\" instead of ours?"
+  },
+  {
+    "line": 1325,
+    "text": "What's your idea of summer?"
+  },
+  {
+    "line": 1326,
+    "text": "What's your favorite summer drink?"
+  },
+  {
+    "line": 1327,
+    "text": "Oh, me? Hmm..."
+  },
+  {
+    "line": 1328,
+    "text": "Besides the drinks on family trips... my grandma used to make me this cold drink when I was little."
+  },
+  {
+    "line": 1329,
+    "text": "On those hot summer evenings with the cicadas buzzing... I'd sit on my little chair and watch her work in the garden."
+  },
+  {
+    "line": 1330,
+    "text": "She'd hum these old songs I didn't know while rinsing the fresh-picked mint and basil. The whole yard would smell like them."
+  },
+  {
+    "line": 1331,
+    "text": "Just when I was about to nod off from the heat, she'd hand me that drink..."
+  },
+  {
+    "line": 1332,
+    "text": "One sip of it felt like finding a patch of cool moss on a burning road, and just lying there to cool off..."
+  },
+  {
+    "line": 1333,
+    "text": "That's a very \"Hinata\" way to describe it."
+  },
+  {
+    "line": 1334,
+    "text": "I don't know why, but that's the image that stuck. It was herbal and refreshingly cool just like the moss..."
+  },
+  {
+    "line": 1335,
+    "text": "But... don't all grandmas make drinks like that? It's probably nothing special..."
+  },
+  {
+    "line": 1336,
+    "text": "No, not all of them."
+  },
+  {
+    "line": 1337,
+    "text": "Wait, really?!"
+  },
+  {
+    "line": 1338,
+    "text": "There's the clueless Hinata we know..."
+  },
+  {
+    "line": 1339,
+    "text": "Haha... Good thing you're here... otherwise I'd be making a fool of myself again."
+  },
+  {
+    "line": 1340,
+    "text": "Still, that drink sounds unique, delicious, and simple... That's it! The perfect \"summer special\" Éternité needs!! Let's try to recreate it!"
+  },
+  {
+    "line": 1341,
+    "text": "Really? But... I don't have a recipe. I have no idea how she actually made it..."
+  },
+  {
+    "line": 1342,
+    "text": "We don't need a recipe if we have your memories. Let's work through it one step at a time!"
+  },
+  {
+    "line": 1343,
+    "text": "You said she washed the fresh mint and basil... What was her secret for getting that aroma out?"
+  },
+  {
+    "line": 1344,
+    "text": "Now that you mention it, I do remember a bit of what she did to them."
+  },
+  {
+    "line": 1345,
+    "text": "She didn't chop them. She'd put the basil and mint in her palm and give them a light \"clap\"... That's how she woke up the aroma!"
+  },
+  {
+    "line": 1346,
+    "text": "There's the first step!"
+  },
+  {
+    "line": 1347,
+    "text": "The glass was always icy and full of bubbles... so we need chilled soda water!"
+  },
+  {
+    "line": 1348,
+    "text": "And the sweetness... she told me once it wasn't sugar, but I've totally forgotten what she used..."
+  },
+  {
+    "line": 1349,
+    "text": "..."
+  },
+  {
+    "line": 1350,
+    "text": "Hinata?"
+  },
+  {
+    "line": 1351,
+    "text": "Actually... Grandma left me a wooden box. She said her most precious things were inside."
+  },
+  {
+    "line": 1352,
+    "text": "Sounds like a treasure box... Maybe the secret to the drink is in there!"
+  },
+  {
+    "line": 1353,
+    "text": "Hehe, I think so too. I was a bit scared to go through her things before... I didn't want to get sad again."
+  },
+  {
+    "line": 1354,
+    "text": "But now, I've realized that remembering her doesn't have to be sad... What she left behind for me wasn't meant to be sorrow, but the joy within those memories."
+  },
+  {
+    "line": 1355,
+    "text": "{var:player_nickname}, let's open it together."
+  },
+  {
+    "line": 1356,
+    "text": "It's... dried mint, basil, and... stevia leaves? That must be the source of the sweetness! And there's a note underneath..."
+  },
+  {
+    "line": 1357,
+    "text": "{var:player_nickname}, I..."
+  },
+  {
+    "line": 1358,
+    "text": "It's okay."
+  },
+  {
+    "line": 1359,
+    "text": "I'm right here with you."
+  },
+  {
+    "line": 1360,
+    "text": "Okay..."
+  },
+  {
+    "line": 1361,
+    "text": "Note"
+  },
+  {
+    "line": 1362,
+    "text": "\"To my dearest Hinata, who always gets woozy in the summer heat – \""
+  },
+  {
+    "line": 1363,
+    "text": "\"If you ever miss my special drink, try this: 5 spearmint leaves, 3 sweet basil leaves, 2 stevia leaves. Clap them 'awake,' then add chilled soda and lemon.\""
+  },
+  {
+    "line": 1364,
+    "text": "\"I want you to learn this drink. That way, I'll always be by your side, and we'll share another joyful, unforgettable summer.\""
+  },
+  {
+    "line": 1365,
+    "text": "She knew that eventually, some summer afternoon would lead me right back to this drink."
+  },
+  {
+    "line": 1366,
+    "text": "I think... she wanted you to move forward. She left you a map to find her and recall the beautiful memories again."
+  },
+  {
+    "line": 1367,
+    "text": "Alright, {var:player_nickname}. Let's make it!"
+  },
+  {
+    "line": 1368,
+    "text": "This time, I'm going to make \"our\" summer special using Grandma's recipe, so everyone can feel the same joy!"
+  },
+  {
+    "line": 1369,
+    "text": "Basil, stevia, lemon, mint... add the soda, a quick stir..."
+  },
+  {
+    "line": 1370,
+    "text": "All done! {var:player_nickname}, can you... do the honors?"
+  },
+  {
+    "line": 1371,
+    "text": "Take a sip"
+  },
+  {
+    "line": 1372,
+    "text": "Wow. That's amazing. It's completely different from anything in a store."
+  },
+  {
+    "line": 1373,
+    "text": "R-really? Let me try it too!"
+  },
+  {
+    "line": 1374,
+    "text": "This is it! It tastes just like Grandma's! We did it, {var:player_nickname}!"
+  },
+  {
+    "line": 1375,
+    "text": "You're squeezing me too hard...!"
+  },
+  {
+    "line": 1376,
+    "text": "The drink is going to spill...!"
+  },
+  {
+    "line": 1377,
+    "text": "Whoops! Sorry, sorry! I just got a little excited..."
+  },
+  {
+    "line": 1378,
+    "text": "Since you liked it too, let's go talk to Reina!"
+  },
+  {
+    "line": 1379,
+    "text": "Let's go!"
+  },
+  {
+    "line": 1380,
+    "text": "Hmm... such a unique flavor. It's so refreshing. This could actually work as our new special..."
+  },
+  {
+    "line": 1381,
+    "text": "Yes!"
+  },
+  {
+    "line": 1382,
+    "text": "But... there's still one problem."
+  },
+  {
+    "line": 1383,
+    "text": "Hmm... the technician came by. He has to order a specific part for the compressor, so the AC can only run on low power now."
+  },
+  {
+    "line": 1384,
+    "text": "Oh no... how unfortunate..."
+  },
+  {
+    "line": 1385,
+    "text": "We've got the drink, but it's still a sauna in here. We'll pass out before we can serve anyone."
+  },
+  {
+    "line": 1386,
+    "text": "And no customers will stick around to finish their drink..."
+  },
+  {
+    "line": 1387,
+    "text": "You know, when we were at your place, it felt cool even with the AC on low..."
+  },
+  {
+    "line": 1388,
+    "text": "We can use the same setup here!"
+  },
+  {
+    "line": 1389,
+    "text": "Time to bring in your \"green helpers\"!"
+  },
+  {
+    "line": 1390,
+    "text": "Of course! The plants! Transpiration will cool the air down and increase the humidity!"
+  },
+  {
+    "line": 1391,
+    "text": "{var:player_nickname}, let's help Reina one more time!"
+  },
+  {
+    "line": 1392,
+    "text": "If we bring some plants from the club and my house, it'll cool the place down and give it a fresh look!"
+  },
+  {
+    "line": 1393,
+    "text": "Hmm... a \"green\" renovation?"
+  },
+  {
+    "line": 1394,
+    "text": "That's a very \"Hinata\" idea. Bold, sweet, and unique."
+  },
+  {
+    "line": 1395,
+    "text": "If it's not too much trouble... please, give it a try! I'd love to see how it looks!"
+  },
+  {
+    "line": 1396,
+    "text": "I've got a bit more left in the tank."
+  },
+  {
+    "line": 1397,
+    "text": "This is for the cafe and all of us!"
+  },
+  {
+    "line": 1398,
+    "text": "I'm totally spent..."
+  },
+  {
+    "line": 1399,
+    "text": "Didn't we just do this earlier today...?"
+  },
+  {
+    "line": 1400,
+    "text": "Wow! The cafe looks just like a garden now! The temperature's still up, but it's already feeling fresher and I'm feeling better already!"
+  },
+  {
+    "line": 1401,
+    "text": "Hinata, {var:player_nickname}, thank you so much!"
+  },
+  {
+    "line": 1402,
+    "text": "We're all set! Now we just wait for the plants to work their magic."
+  },
+  {
+    "line": 1403,
+    "text": "Great job, {var:player_nickname}. Here, Reina and I made these sandwiches while you were finishing up."
+  },
+  {
+    "line": 1404,
+    "text": "Thanks for the sandwiches!"
+  },
+  {
+    "line": 1405,
+    "text": "Delicious! I feel like myself again..."
+  },
+  {
+    "line": 1406,
+    "text": "Now, let's take a group photo!"
+  },
+  {
+    "line": 1407,
+    "text": "One, two... three! To the new summer special and our \"green AC\"!"
+  },
+  {
+    "line": 1408,
+    "text": "Hehe... I couldn't have done it without you!"
+  },
+  {
+    "line": 1409,
+    "text": "Glad to help."
+  },
+  {
+    "line": 1410,
+    "text": "No big deal, really!"
+  },
+  {
+    "line": 1411,
+    "text": "A few days later..."
+  },
+  {
+    "line": 1412,
+    "text": "Customer A"
+  },
+  {
+    "line": 1413,
+    "text": "This new drink is so refreshing... and it's way cooler in here."
+  },
+  {
+    "line": 1414,
+    "text": "Customer B"
+  },
+  {
+    "line": 1415,
+    "text": "Whoa! It's like a garden party in here! And it makes a great photo spot! I'm so glad I followed Sprout Nursery's recommendation!"
+  },
+  {
+    "line": 1416,
+    "text": "Customer C"
+  },
+  {
+    "line": 1417,
+    "text": "The new drink is totally different from the old ones, but it's actually amazing!"
+  },
+  {
+    "line": 1418,
+    "text": "The customers are raving about it! You two really saved the day!"
+  },
+  {
+    "line": 1419,
+    "text": "Hehe..."
+  },
+  {
+    "line": 1420,
+    "text": "We did it, {var:player_nickname}! I'm so happy everyone likes Grandma's drink. And Reina is smiling again!"
+  },
+  {
+    "line": 1421,
+    "text": "You're the one who made it happen."
+  },
+  {
+    "line": 1422,
+    "text": "No, {var:player_nickname} was the one who asked around, thought of the plants, and... helped me find Grandma's recipe."
+  },
+  {
+    "line": 1423,
+    "text": "It was a team effort!"
+  },
+  {
+    "line": 1424,
+    "text": "Here's to more teamwork!"
+  },
+  {
+    "line": 1425,
+    "text": "Phew... Shift's over."
+  },
+  {
+    "line": 1426,
+    "text": "Everyone loves our \"summer special,\" but I think..."
+  },
+  {
+    "line": 1427,
+    "text": "That first glass we shared... that was the only one that felt \"special\" to me."
+  },
+  {
+    "line": 1428,
+    "text": "Because of the memories of your grandma?"
+  },
+  {
+    "line": 1429,
+    "text": "Because it was the first one we got right?"
+  },
+  {
+    "line": 1430,
+    "text": "Hehe... maybe."
+  },
+  {
+    "line": 1431,
+    "text": "But maybe it's also because the air here makes all the stress and worry just... disappear."
+  },
+  {
+    "line": 1432,
+    "text": "I used to feel a bit sad when I thought about Grandma in the summer. Like those days were gone forever."
+  },
+  {
+    "line": 1433,
+    "text": "But today, watching the bubbles rise and the ice clinking in the glass..."
+  },
+  {
+    "line": 1434,
+    "text": "I feel like those memories aren't something to be sad about. They've just changed into something new and come back to me."
+  },
+  {
+    "line": 1435,
+    "text": "Something new?"
+  },
+  {
+    "line": 1436,
+    "text": "Yeah. It's not just that one dusty memory of a hot summer anymore."
+  },
+  {
+    "line": 1437,
+    "text": "It's a brand new summer where {var:player_nickname} helped me, and we made a mess of the kitchen, and finally sat here in the breeze..."
+  },
+  {
+    "line": 1438,
+    "text": "I love this feeling... I wish this moment could last just a little longer."
+  },
+  {
+    "line": 1439,
+    "text": "Then let's enjoy the evening breeze a bit longer."
+  },
+  {
+    "line": 1440,
+    "text": "Don't worry, we've still got ice in our glasses."
+  },
+  {
+    "line": 1441,
+    "text": "Yeah."
+  },
+  {
+    "line": 1442,
+    "text": "The setting sun filters through the layers of leaves, painting a forest in the glass and casting soft, dappled light across her face."
+  },
+  {
+    "line": 1443,
+    "text": "The best fruits are always hidden under the leaves, waiting for someone who's actually looking."
+  },
+  {
+    "line": 1444,
+    "text": "I finally found that \"hidden fruit\" I couldn't reach all these years, and it's all because of you."
+  },
+  {
+    "line": 1445,
+    "text": "Cheers, {var:player_nickname}! Thank you for helping me find my way back to that summer..."
+  },
+  {
+    "line": 1446,
+    "text": "And thank you for giving me such a wonderful new memory!"
+  },
+  {
+    "line": 1447,
+    "text": "That was a bit embarrassing to say... hehe..."
+  },
+  {
+    "line": 1448,
+    "text": "Hinata raises her glass toward the setting sun. The bubbles sparkle in the golden light as if capturing the moment."
+  },
+  {
+    "line": 1449,
+    "text": "Raise the glass."
+  },
+  {
+    "line": 1450,
+    "text": "The two glasses clink together with a clear, crisp sound."
+  },
+  {
+    "line": 1451,
+    "text": "Within the bubbles, the flavors of two different summers become one."
+  },
+  {
+    "line": 1452,
+    "text": "I didn't realize you were so interested in my plants, {var:player_nickname}...!"
+  },
+  {
+    "line": 1453,
+    "text": "Then I'll introduce you to every single one!"
+  },
+  {
+    "line": 1454,
+    "text": "I brought my camera too! I've always thought you'd look great with plants. Can I take a few photos?"
+  },
+  {
+    "line": 1455,
+    "text": "How long will this take?"
+  },
+  {
+    "line": 1456,
+    "text": "You're really feeling it, huh?"
+  },
+  {
+    "line": 1457,
+    "text": "It'll be quick, I promise! Just need the right angle, focus, and lighting!"
+  },
+  {
+    "line": 1458,
+    "text": "Of course, it's a special occasion! {var:player_nickname}, try to look natural. Imagine you're a plant soaking up the sun!"
+  },
+  {
+    "line": 1459,
+    "text": "Oh, that \"huh?\" look is perfect! You look just like that lithops. Very adorable!"
+  },
+  {
+    "line": 1460,
+    "text": "Now, move a bit to the left, right next to that mint!"
+  },
+  {
+    "line": 1461,
+    "text": "I'm starting to feel like a specimen in a greenhouse..."
+  },
+  {
+    "line": 1462,
+    "text": "That's a natural expression! Now one more with the spider plant!"
+  },
+  {
+    "line": 1463,
+    "text": "The sun's moving. Let's try a different angle!"
+  },
+  {
+    "line": 1464,
+    "text": "This angle is great for a duo. The bunny succulent is resting, so {var:player_nickname}, let's pose like we're waking it up together!"
+  },
+  {
+    "line": 1465,
+    "text": "Uh, isn't this a bit close?!"
+  },
+  {
+    "line": 1466,
+    "text": "Wait, where did the tag on the bunny succulent go?"
+  },
+  {
+    "line": 1467,
+    "text": "Oh! I-I'm sure it's just around here somewhere... but anyway!"
+  },
+  {
+    "line": 1468,
+    "text": "By September, the bunny succulent will look like little bunnies again! We'll have to take another photo from this angle then, like we actually woke it up. It'll be so much fun!"
+  },
+  {
+    "line": 1469,
+    "text": "Okay, now check this one! It's a perfect background for us, too. Its scientific name is actually..."
+  },
+  {
+    "line": 1470,
+    "text": "The \"quick\" photoshoot continued as Hinata kept finding one \"perfect angle\" after another..."
+  },
+  {
+    "line": 1471,
+    "text": "Hehe... I didn't realize it had gotten so late... Sorry, I got a bit carried away..."
+  },
+  {
+    "line": 1472,
+    "text": "But you looked so good with the plants, {var:player_nickname}. I can't bring myself to delete a single photo!"
+  },
+  {
+    "line": 1473,
+    "text": "..."
+  },
+  {
+    "line": 1474,
+    "text": "Wait, what time is it?! Oh no!"
+  },
+  {
+    "line": 1475,
+    "text": "Did we... completely forget about the \"summer special\" drink?!"
+  },
+  {
+    "line": 1476,
+    "text": "It took you that long to realize?!"
+  },
+  {
+    "line": 1477,
+    "text": "I couldn't stop you even if I tried..."
+  },
+  {
+    "line": 1478,
+    "text": "Ugh... But a promise is a promise! I'll definitely figure out the drink by tomorrow, I swear!"
+  }
+]

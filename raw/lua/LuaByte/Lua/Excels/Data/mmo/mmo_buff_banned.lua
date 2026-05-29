@@ -1,0 +1,1 @@
+local a=require("ExcelTool")local b=a.Pack;local c=a.Sub;local d=a.PackGet;local e=a.Dmap;local f={["id"]=1,["ban_rare"]=2}local g={102,1}local h=function(i,j)return d(i,j,f,g)end;local k={}k[101]={b({101},h)}k[102]={b({},h),b({false,2},h)}return{tb=k}

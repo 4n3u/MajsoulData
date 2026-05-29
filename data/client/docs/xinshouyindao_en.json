@@ -1,0 +1,713 @@
+{
+  "datas": [
+    {
+      "page_id": "en_course1",
+      "bg": "1",
+      "head": "extendRes/guide/l_2.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "Nyaa? Oh hi there, new player. My name is Ichihime. Never played Mahjong before? Oh well. Let me teach you then!",
+      "name": "Ichihime",
+      "next": "en_course2",
+      "prev": "en_course1",
+      "img": "yiji/full/full.png"
+    },
+    {
+      "page_id": "en_course2",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "Mahjong consists of 34 different tiles. For each tile, there are 4 of them, so there are a total of 136 tiles. They belong to 5 groups: Man, Pin, Sou, Wind and Dragon.",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course2.png",
+      "next": "en_course3",
+      "prev": "en_course1"
+    },
+    {
+      "page_id": "en_course3",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "The objective of Mahjong is to win, of course. So how do we win a game?\nIn a game, each player usually has 13 tiles in hand. In every turn, you will draw a tile, so the number of tiles becomes 14. Then, you shall discard one from your hand. As you keep drawing and discarding, your hand will also change.",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course3.png",
+      "next": "en_course4",
+      "prev": "en_course2"
+    },
+    {
+      "page_id": "en_course4",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "0",
+      "effect": "1",
+      "text": "Before explaining how to win, we must first understand three terms: Sequences, Triplets and Pairs. First, we have Pairs. Pairs are made of 2 identical tiles.",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course4.png",
+      "next": "en_course5",
+      "prev": "en_course3"
+    },
+    {
+      "page_id": "en_course5",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "Triplets are made of 3 identical tiles.\nAnd Sequences are made of 3 consecutive tiles of the same group. Look!",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course5.png",
+      "next": "en_course6",
+      "prev": "en_course4"
+    },
+    {
+      "page_id": "en_course6",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "Usually, when your hand consists of 4 Sequences or Triplets + 1 Pair, you are ready to win, master! Of course, in Riichi Mahjong, you must satisfy other conditions to declare a win. We will cover them later!",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course6.png",
+      "next": "en_course7",
+      "prev": "en_course5"
+    },
+    {
+      "page_id": "en_course7",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "Of course, your hand often consists of 13 tiles only, so you need one more to win.\nWhen you just need one more tile to win, this hand is called Tenpai (Ready Hand).\nTenpai is a necessary step before winning, so make sure you pay attention to it.",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course7.png",
+      "next": "en_course8",
+      "prev": "en_course6"
+    },
+    {
+      "page_id": "en_course8",
+      "head": "extendRes/guide/l_2.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "Make sure your hand becomes 4 Sequences or Triplets + 1 Pair nyaa!",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course8.png",
+      "answers": [
+        {
+          "jump": "en_course8_correct"
+        },
+        {
+          "jump": "en_course8_wrong1"
+        },
+        {
+          "jump": "en_course8_wrong2"
+        }
+      ],
+      "prev": "en_course7"
+    },
+    {
+      "page_id": "en_course8_correct",
+      "head": "extendRes/guide/l_4.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "Correct-nya!",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course8.png",
+      "answers": [
+        {
+          "x": 289,
+          "y": 412,
+          "flag": "correct"
+        },
+        {},
+        {}
+      ],
+      "next": "en_course9",
+      "prev": "en_course7"
+    },
+    {
+      "page_id": "en_course8_wrong1",
+      "head": "extendRes/guide/l_3.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "You can't win like this-nyaa.\nRemember, your hand must be 4 Sequences or Triplets + 1 Pair.",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course8.png",
+      "answers": [
+        {},
+        {
+          "x": 770,
+          "y": 412,
+          "flag": "wrong"
+        },
+        {}
+      ],
+      "next": "en_course8",
+      "prev": "en_course8"
+    },
+    {
+      "page_id": "en_course8_wrong2",
+      "head": "extendRes/guide/l_3.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "You can't win like this-nyaa.\nRemember, your hand must be 4 Sequences or Triplets + 1 Pair.",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course8.png",
+      "answers": [
+        {},
+        {},
+        {
+          "x": 1255,
+          "y": 412,
+          "flag": "wrong"
+        }
+      ],
+      "next": "en_course8",
+      "prev": "en_course8"
+    },
+    {
+      "page_id": "en_course9",
+      "head": "extendRes/guide/l_2.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "Try another one-nya!",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course9.png",
+      "answers": [
+        {
+          "jump": "en_course9_wrong1"
+        },
+        {
+          "jump": "en_course9_correct"
+        },
+        {
+          "jump": "en_course9_wrong2"
+        }
+      ],
+      "prev": "en_course8"
+    },
+    {
+      "page_id": "en_course9_wrong1",
+      "head": "extendRes/guide/l_3.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "Wrong answer-nyaa…\nRemember, your hand must be 4 Sequences or Triplets + 1 Pair.",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course9.png",
+      "answers": [
+        {
+          "x": 289,
+          "y": 412,
+          "flag": "wrong"
+        },
+        {},
+        {}
+      ],
+      "next": "en_course9",
+      "prev": "en_course9"
+    },
+    {
+      "page_id": "en_course9_correct",
+      "head": "extendRes/guide/l_4.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "Correct-nya!",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course9.png",
+      "answers": [
+        {},
+        {
+          "x": 770,
+          "y": 412,
+          "flag": "correct"
+        },
+        {}
+      ],
+      "next": "en_course20",
+      "prev": "en_course8"
+    },
+    {
+      "page_id": "en_course9_wrong2",
+      "head": "extendRes/guide/l_3.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "Wrong answer-nyaa…\nRemember, your hand must be 4 Sequences or Triplets + 1 Pair.",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course9.png",
+      "answers": [
+        {},
+        {},
+        {
+          "x": 1255,
+          "y": 412,
+          "flag": "wrong"
+        }
+      ],
+      "next": "en_course9",
+      "prev": "en_course9"
+    },
+    {
+      "page_id": "en_course10",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "Now that we have learned the tiles and some Yaku, let's check out the game interface.\nMaster, please look at the screen above. I shall explain to you one by one-nyaa!",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course10.png",
+      "next": "en_course11",
+      "prev": "en_course25"
+    },
+    {
+      "page_id": "en_course11",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "The “East 1” in the center means you are now at the first game of the East Wind Round. East is your current Round Wind.\nX67 means the number of tiles remaining. If this number becomes 0, the current game will end.\n25000 is your current points available. Think of it like your “tokens”.",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course10.png",
+      "next": "en_course12",
+      "prev": "en_course10"
+    },
+    {
+      "page_id": "en_course12",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "Each player discards their unwanted tiles in front of their hands.\nYou can call on the discarded tiles for Chii, Pon, and Kan.",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course12.png",
+      "next": "en_course13",
+      "prev": "en_course11"
+    },
+    {
+      "page_id": "en_course13",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "Chii is the call to complete a Sequence.\nYou have the option to call Chii, if the last player (the player on your left side) discarded a tile that can form a Sequence with 2 tiles in your hand. Upon calling Chii, you shall open the Sequence formed on your side, then discard a tile from your hand.",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course13.png",
+      "next": "en_course13_2",
+      "prev": "en_course12"
+    },
+    {
+      "page_id": "en_course13_2",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "Here, the 7-Pin discarded by the last player can be used to form a Sequence of “678-Pin” with the 6-Pin and 8-Pin in your hand if you call Chii.",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course13.png",
+      "next": "en_course14",
+      "prev": "en_course13"
+    },
+    {
+      "page_id": "en_course14",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "Pon is the call to complete a Triplet.\nYou have the option to call Pon, if any player discards a tile that can form a Triplet with 2 tiles in your hand. Upon calling Pon, you shall open the Triplet formed on your side, then discard a tile from your hand.",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course14.png",
+      "next": "en_course15",
+      "prev": "en_course13_2"
+    },
+    {
+      "page_id": "en_course15",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "This is the call to complete a Quad. Kan can be called on discarded tiles from any player. You can also make a Kan call when you have four identical tiles in your hand, or has a previously melded Triplet and then draw the fourth tile.",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course15.png",
+      "next": "en_course18",
+      "prev": "en_course14"
+    },
+    {
+      "page_id": "en_course18",
+      "head": "extendRes/guide/l_2.png",
+      "flip": "0",
+      "effect": "1",
+      "text": "If you answer the question correctly, you can have my snack-nya!",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course18.png",
+      "answers": [
+        {
+          "jump": "en_course18_correct"
+        },
+        {
+          "jump": "en_course18_wrong1"
+        },
+        {
+          "jump": "en_course18_wrong2"
+        }
+      ],
+      "prev": "en_course15"
+    },
+    {
+      "page_id": "en_course18_correct",
+      "head": "extendRes/guide/l_4.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "Correct! Which snack do you want to have first?\nI'm not a snack-nya!",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course18.png",
+      "answers": [
+        {
+          "x": 298,
+          "y": 412,
+          "flag": "correct"
+        },
+        {},
+        {}
+      ],
+      "next": "en_course19",
+      "prev": "en_course15"
+    },
+    {
+      "page_id": "en_course18_wrong1",
+      "head": "extendRes/guide/l_3.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "Not quite right…\n Chii call is to complete a Sequence.\nAnd a Sequence consist of three consecutive tiles of the same tile group.",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course18.png",
+      "answers": [
+        {},
+        {
+          "x": 785,
+          "y": 412,
+          "flag": "wrong"
+        },
+        {}
+      ],
+      "next": "en_course18",
+      "prev": "en_course18"
+    },
+    {
+      "page_id": "en_course18_wrong2",
+      "head": "extendRes/guide/l_3.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "Not quite right…\n Chii call is to complete a Sequence.\nAnd a Sequence consist of three consecutive tiles of the same tile group.",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course18.png",
+      "answers": [
+        {},
+        {},
+        {
+          "x": 1255,
+          "y": 412,
+          "flag": "wrong"
+        }
+      ],
+      "next": "en_course18",
+      "prev": "en_course18"
+    },
+    {
+      "page_id": "en_course19",
+      "head": "extendRes/guide/l_2.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "Wanna have more snacks?",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course19.png",
+      "answers": [
+        {
+          "jump": "en_course19_wrong1"
+        },
+        {
+          "jump": "en_course19_wrong2"
+        },
+        {
+          "jump": "en_course19_correct"
+        }
+      ],
+      "prev": "en_course18"
+    },
+    {
+      "page_id": "en_course19_wrong1",
+      "head": "extendRes/guide/l_3.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "Wrong-nya. Think again!\nPon call is to complete a Triplet.\nAnd a Triplet consist of three identical tiles.",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course19.png",
+      "answers": [
+        {
+          "x": 310,
+          "y": 412,
+          "flag": "wrong"
+        },
+        {},
+        {}
+      ],
+      "next": "en_course19",
+      "prev": "en_course19"
+    },
+    {
+      "page_id": "en_course19_wrong2",
+      "head": "extendRes/guide/l_3.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "Wrong-nya. Think again!\nPon call is to complete a Triplet.\nAnd a Triplet consist of three identical tiles.",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course19.png",
+      "answers": [
+        {},
+        {
+          "x": 785,
+          "y": 412,
+          "flag": "wrong"
+        },
+        {}
+      ],
+      "next": "en_course19",
+      "prev": "en_course19"
+    },
+    {
+      "page_id": "en_course19_correct",
+      "head": "extendRes/guide/l_4.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "Correct!\nNo matter how many correct answers you give, I am not a snack! I'm not a cat either-nya!",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course19.png",
+      "answers": [
+        {},
+        {},
+        {
+          "x": 1243,
+          "y": 412,
+          "flag": "correct"
+        }
+      ],
+      "next": "en_course26",
+      "prev": "en_course18"
+    },
+    {
+      "page_id": "en_course20",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "This game would be too easy if that's all it takes to win. You must also have “Yaku” to win a hand.\nYaku is a specific pattern of tiles. If your hand does not satisfy any Yaku, you cannot declare a win-nya! Let me show you a few easy Yaku, master.",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course20.png",
+      "next": "en_course21",
+      "prev": "en_course9"
+    },
+    {
+      "page_id": "en_course21",
+      "head": "extendRes/guide/l_2.png",
+      "flip": "0",
+      "effect": "1",
+      "text": "What’s Yaku? I only play by feel-nyaa.\nJust joking. The simplest Yaku is Yakuhai, which refers to Triplets of White (W), Green (G), Red (R), Prevalent Wind, or Seat Wind.",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course21.png",
+      "next": "en_course22",
+      "prev": "en_course20"
+    },
+    {
+      "page_id": "en_course22",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "0",
+      "effect": "1",
+      "text": "There's one popular Yaku named All Simples.\nTo complete it, your hand must not contain any Terminal or Honor(1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou, Wind Tiles, and Dragon Tiles).\nMy hearing is good! This one is too easy, nyaa?",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course22.png",
+      "next": "en_course23",
+      "prev": "en_course21"
+    },
+    {
+      "page_id": "en_course23",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "Riichi is another important Yaku.\nWhen you achieve Tenpai without calling Chii, Pon, or Kan, you may declare Riichi.",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course23.png",
+      "next": "en_course24",
+      "prev": "en_course22"
+    },
+    {
+      "page_id": "en_course24",
+      "head": "extendRes/guide/l_2.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "Let me give you some hints on this.\nRemember, Yakuhai refers to Prevalent Wind, Seat Wind, and Dragon Tiles (White, Green, Red).",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course24.png",
+      "answers": [
+        {
+          "jump": "en_course24_correct"
+        },
+        {
+          "jump": "en_course24_wrong1"
+        },
+        {
+          "jump": "en_course24_wrong2"
+        }
+      ],
+      "prev": "en_course23"
+    },
+    {
+      "page_id": "en_course24_correct",
+      "head": "extendRes/guide/l_4.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "Correct-nya!",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course24.png",
+      "answers": [
+        {
+          "x": 289,
+          "y": 412,
+          "flag": "correct"
+        },
+        {},
+        {}
+      ],
+      "next": "en_course25",
+      "prev": "en_course23"
+    },
+    {
+      "page_id": "en_course24_wrong1",
+      "head": "extendRes/guide/l_3.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "Wrong-nya.\nPay attention to the indicator in the middle.",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course24.png",
+      "answers": [
+        {},
+        {
+          "x": 770,
+          "y": 412,
+          "flag": "wrong"
+        },
+        {}
+      ],
+      "next": "en_course24",
+      "prev": "en_course24"
+    },
+    {
+      "page_id": "en_course24_wrong2",
+      "head": "extendRes/guide/l_3.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "Wrong-nya.\nPay attention to the indicator in the middle.",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course24.png",
+      "answers": [
+        {},
+        {},
+        {
+          "x": 1255,
+          "y": 412,
+          "flag": "wrong"
+        }
+      ],
+      "next": "en_course24",
+      "prev": "en_course24"
+    },
+    {
+      "page_id": "en_course25",
+      "head": "extendRes/guide/l_2.png",
+      "flip": "1",
+      "effect": "1",
+      "text": "For All Simples, you must not have any Terminal or Honor (1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou, Wind Tiles, and Dragon Tiles)!",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course25.png",
+      "answers": [
+        {
+          "jump": "en_course25_correct"
+        },
+        {
+          "jump": "en_course25_wrong1"
+        },
+        {
+          "jump": "en_course25_wrong2"
+        }
+      ],
+      "prev": "en_course24"
+    },
+    {
+      "page_id": "en_course25_correct",
+      "head": "extendRes/guide/l_4.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "Correct-nya!",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course25.png",
+      "answers": [
+        {
+          "x": 289,
+          "y": 412,
+          "flag": "correct"
+        },
+        {},
+        {}
+      ],
+      "next": "en_course10",
+      "prev": "en_course24"
+    },
+    {
+      "page_id": "en_course25_wrong1",
+      "head": "extendRes/guide/l_3.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "All Simples must not contain any Terminal or Honor (1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou, Wind Tiles, and Dragon Tiles)!",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course25.png",
+      "answers": [
+        {},
+        {
+          "x": 770,
+          "y": 412,
+          "flag": "wrong"
+        },
+        {}
+      ],
+      "next": "en_course25",
+      "prev": "en_course25"
+    },
+    {
+      "page_id": "en_course25_wrong2",
+      "head": "extendRes/guide/l_3.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "All Simples must not contain any Terminal Tiles (1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou, Wind Tiles, and Dragon Tiles)!",
+      "name": "Ichihime",
+      "img": "ui/lobby/extend/xinshou/pic/course25.png",
+      "answers": [
+        {},
+        {},
+        {
+          "x": 1255,
+          "y": 412,
+          "flag": "wrong"
+        }
+      ],
+      "next": "en_course25",
+      "prev": "en_course25"
+    },
+    {
+      "page_id": "en_course26",
+      "bg": "1",
+      "head": "extendRes/guide/l_1.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "That's enough for the basic rules, master! Remember, we have learned the tile groups (Man, Sou, Pin, Wind, and Dragon), 3 simple Yaku (Yakuhai, All Simples, and Riichi), and the equation of winning - 4 Sequences or Triplets + 1 Pair!",
+      "name": "Ichihime",
+      "next": "en_course27",
+      "prev": "en_course19",
+      "img": "yiji/full/full.png"
+    },
+    {
+      "page_id": "en_course27",
+      "bg": "1",
+      "head": "extendRes/guide/l_2.png",
+      "flip": "1",
+      "effect": "0",
+      "text": "You can practice your skills with AI by creating a private game room, or if you are interested in more advanced rules you can find them by tapping the “?” icon on the top right corner!\nI'm going to sleep-nyaa!",
+      "name": "Ichihime",
+      "next": "en_course26",
+      "prev": "en_course26",
+      "img": "yiji/full/full.png"
+    }
+  ]
+}

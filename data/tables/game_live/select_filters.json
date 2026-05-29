@@ -1,0 +1,692 @@
+[
+  {
+    "id": 101,
+    "category": 1,
+    "mode_id": null,
+    "mode": 1,
+    "tournament_id": null,
+    "open": null,
+    "initial": null,
+    "name1": {
+      "chs": "好友房",
+      "chs_t": "好友房",
+      "jp": "友人対戦",
+      "en": "Friends Room",
+      "kr": "친선전"
+    },
+    "name2": {
+      "chs": "四人东",
+      "chs_t": "四人東",
+      "jp": "4人東風戦",
+      "en": "4-Player East",
+      "kr": "4인 동풍전"
+    }
+  },
+  {
+    "id": 102,
+    "category": 1,
+    "mode_id": null,
+    "mode": 2,
+    "tournament_id": null,
+    "open": null,
+    "initial": null,
+    "name1": {
+      "chs": "好友房",
+      "chs_t": "好友房",
+      "jp": "友人対戦",
+      "en": "Friends Room",
+      "kr": "친선전"
+    },
+    "name2": {
+      "chs": "四人南",
+      "chs_t": "四人南",
+      "jp": "4人半荘戦",
+      "en": "4-Player South",
+      "kr": "4인 반장전"
+    }
+  },
+  {
+    "id": 201,
+    "category": 2,
+    "mode_id": 1,
+    "mode": null,
+    "tournament_id": null,
+    "open": null,
+    "initial": null,
+    "name1": {
+      "chs": "铜之间",
+      "chs_t": "銅之間",
+      "jp": "銅の間",
+      "en": "Bronze Room",
+      "kr": "동탁"
+    },
+    "name2": {
+      "chs": "一场胜负",
+      "chs_t": "一場勝負",
+      "jp": "一局勝負",
+      "en": "Best of One Game",
+      "kr": "단판승부"
+    }
+  },
+  {
+    "id": 202,
+    "category": 2,
+    "mode_id": 2,
+    "mode": null,
+    "tournament_id": null,
+    "open": null,
+    "initial": null,
+    "name1": {
+      "chs": "铜之间",
+      "chs_t": "銅之間",
+      "jp": "銅の間",
+      "en": "Bronze Room",
+      "kr": "동탁"
+    },
+    "name2": {
+      "chs": "四人东",
+      "chs_t": "四人東",
+      "jp": "4人東風戦",
+      "en": "4-Player East",
+      "kr": "4인 동풍전"
+    }
+  },
+  {
+    "id": 203,
+    "category": 2,
+    "mode_id": 3,
+    "mode": null,
+    "tournament_id": null,
+    "open": null,
+    "initial": null,
+    "name1": {
+      "chs": "铜之间",
+      "chs_t": "銅之間",
+      "jp": "銅の間",
+      "en": "Bronze Room",
+      "kr": "동탁"
+    },
+    "name2": {
+      "chs": "四人南",
+      "chs_t": "四人南",
+      "jp": "4人半荘戦",
+      "en": "4-Player South",
+      "kr": "4인 반장전"
+    }
+  },
+  {
+    "id": 204,
+    "category": 2,
+    "mode_id": 4,
+    "mode": null,
+    "tournament_id": null,
+    "open": null,
+    "initial": null,
+    "name1": {
+      "chs": "银之间",
+      "chs_t": "銀之間",
+      "jp": "銀の間",
+      "en": "Silver Room",
+      "kr": "은탁"
+    },
+    "name2": {
+      "chs": "一场胜负",
+      "chs_t": "一場勝負",
+      "jp": "一局勝負",
+      "en": "Best of One Game",
+      "kr": "단판승부"
+    }
+  },
+  {
+    "id": 205,
+    "category": 2,
+    "mode_id": 5,
+    "mode": null,
+    "tournament_id": null,
+    "open": null,
+    "initial": null,
+    "name1": {
+      "chs": "银之间",
+      "chs_t": "銀之間",
+      "jp": "銀の間",
+      "en": "Silver Room",
+      "kr": "은탁"
+    },
+    "name2": {
+      "chs": "四人东",
+      "chs_t": "四人東",
+      "jp": "4人東風戦",
+      "en": "4-Player East",
+      "kr": "4인 동풍전"
+    }
+  },
+  {
+    "id": 206,
+    "category": 2,
+    "mode_id": 6,
+    "mode": null,
+    "tournament_id": null,
+    "open": null,
+    "initial": null,
+    "name1": {
+      "chs": "银之间",
+      "chs_t": "銀之間",
+      "jp": "銀の間",
+      "en": "Silver Room",
+      "kr": "은탁"
+    },
+    "name2": {
+      "chs": "四人南",
+      "chs_t": "四人南",
+      "jp": "4人半荘戦",
+      "en": "4-Player South",
+      "kr": "4인 반장전"
+    }
+  },
+  {
+    "id": 207,
+    "category": 2,
+    "mode_id": 7,
+    "mode": null,
+    "tournament_id": null,
+    "open": null,
+    "initial": null,
+    "name1": {
+      "chs": "金之间",
+      "chs_t": "金之間",
+      "jp": "金の間",
+      "en": "Gold Room",
+      "kr": "금탁"
+    },
+    "name2": {
+      "chs": "一场胜负",
+      "chs_t": "一場勝負",
+      "jp": "一局勝負",
+      "en": "Best of One Game",
+      "kr": "단판승부"
+    }
+  },
+  {
+    "id": 208,
+    "category": 2,
+    "mode_id": 8,
+    "mode": null,
+    "tournament_id": null,
+    "open": 1,
+    "initial": null,
+    "name1": {
+      "chs": "金之间",
+      "chs_t": "金之間",
+      "jp": "金の間",
+      "en": "Gold Room",
+      "kr": "금탁"
+    },
+    "name2": {
+      "chs": "四人东",
+      "chs_t": "四人東",
+      "jp": "4人東風戦",
+      "en": "4-Player East",
+      "kr": "4인 동풍전"
+    }
+  },
+  {
+    "id": 209,
+    "category": 2,
+    "mode_id": 9,
+    "mode": null,
+    "tournament_id": null,
+    "open": 1,
+    "initial": null,
+    "name1": {
+      "chs": "金之间",
+      "chs_t": "金之間",
+      "jp": "金の間",
+      "en": "Gold Room",
+      "kr": "금탁"
+    },
+    "name2": {
+      "chs": "四人南",
+      "chs_t": "四人南",
+      "jp": "4人半荘戦",
+      "en": "4-Player South",
+      "kr": "4인 반장전"
+    }
+  },
+  {
+    "id": 210,
+    "category": 2,
+    "mode_id": 10,
+    "mode": null,
+    "tournament_id": null,
+    "open": null,
+    "initial": null,
+    "name1": {
+      "chs": "玉之间",
+      "chs_t": "玉之間",
+      "jp": "玉の間",
+      "en": "Jade Room",
+      "kr": "옥탁"
+    },
+    "name2": {
+      "chs": "一场胜负",
+      "chs_t": "一場勝負",
+      "jp": "一局勝負",
+      "en": "Best of One Game",
+      "kr": "단판승부"
+    }
+  },
+  {
+    "id": 211,
+    "category": 2,
+    "mode_id": 11,
+    "mode": null,
+    "tournament_id": null,
+    "open": 1,
+    "initial": null,
+    "name1": {
+      "chs": "玉之间",
+      "chs_t": "玉之間",
+      "jp": "玉の間",
+      "en": "Jade Room",
+      "kr": "옥탁"
+    },
+    "name2": {
+      "chs": "四人东",
+      "chs_t": "四人東",
+      "jp": "4人東風戦",
+      "en": "4-Player East",
+      "kr": "4인 동풍전"
+    }
+  },
+  {
+    "id": 212,
+    "category": 2,
+    "mode_id": 12,
+    "mode": null,
+    "tournament_id": null,
+    "open": 1,
+    "initial": null,
+    "name1": {
+      "chs": "玉之间",
+      "chs_t": "玉之間",
+      "jp": "玉の間",
+      "en": "Jade Room",
+      "kr": "옥탁"
+    },
+    "name2": {
+      "chs": "四人南",
+      "chs_t": "四人南",
+      "jp": "4人半荘戦",
+      "en": "4-Player South",
+      "kr": "4인 반장전"
+    }
+  },
+  {
+    "id": 213,
+    "category": 2,
+    "mode_id": 13,
+    "mode": null,
+    "tournament_id": null,
+    "open": null,
+    "initial": null,
+    "name1": {
+      "chs": "乱斗之间",
+      "chs_t": "亂鬥之間",
+      "jp": "乱闘の間",
+      "en": "Melee Room",
+      "kr": "난투전"
+    },
+    "name2": {
+      "chs": "四人东",
+      "chs_t": "四人東",
+      "jp": "4人東風戦",
+      "en": "4-Player East",
+      "kr": "4인 동풍전"
+    }
+  },
+  {
+    "id": 214,
+    "category": 2,
+    "mode_id": 14,
+    "mode": null,
+    "tournament_id": null,
+    "open": null,
+    "initial": null,
+    "name1": {
+      "chs": "乱斗之间",
+      "chs_t": "亂鬥之間",
+      "jp": "乱闘の間",
+      "en": "Melee Room",
+      "kr": "난투전"
+    },
+    "name2": {
+      "chs": "四人南",
+      "chs_t": "四人南",
+      "jp": "4人半荘戦",
+      "en": "4-Player South",
+      "kr": "4인 반장전"
+    }
+  },
+  {
+    "id": 215,
+    "category": 2,
+    "mode_id": 15,
+    "mode": null,
+    "tournament_id": null,
+    "open": 1,
+    "initial": null,
+    "name1": {
+      "chs": "王座之间",
+      "chs_t": "王座之間",
+      "jp": "王座の間",
+      "en": "Throne Room",
+      "kr": "왕좌탁"
+    },
+    "name2": {
+      "chs": "四人东",
+      "chs_t": "四人東",
+      "jp": "4人東風戦",
+      "en": "4-Player East",
+      "kr": "4인 동풍전"
+    }
+  },
+  {
+    "id": 216,
+    "category": 2,
+    "mode_id": 16,
+    "mode": null,
+    "tournament_id": null,
+    "open": 1,
+    "initial": 1,
+    "name1": {
+      "chs": "王座之间",
+      "chs_t": "王座之間",
+      "jp": "王座の間",
+      "en": "Throne Room",
+      "kr": "왕좌탁"
+    },
+    "name2": {
+      "chs": "四人南",
+      "chs_t": "四人南",
+      "jp": "4人半荘戦",
+      "en": "4-Player South",
+      "kr": "4인 반장전"
+    }
+  },
+  {
+    "id": 217,
+    "category": 2,
+    "mode_id": 17,
+    "mode": null,
+    "tournament_id": null,
+    "open": null,
+    "initial": null,
+    "name1": {
+      "chs": "铜之间",
+      "chs_t": "銅之間",
+      "jp": "銅の間",
+      "en": "Bronze Room",
+      "kr": "동탁"
+    },
+    "name2": {
+      "chs": "三人东",
+      "chs_t": "三人東",
+      "jp": "3人東風戦",
+      "en": "3-Player East",
+      "kr": "3인 동풍전"
+    }
+  },
+  {
+    "id": 218,
+    "category": 2,
+    "mode_id": 18,
+    "mode": null,
+    "tournament_id": null,
+    "open": null,
+    "initial": null,
+    "name1": {
+      "chs": "铜之间",
+      "chs_t": "銅之間",
+      "jp": "銅の間",
+      "en": "Bronze Room",
+      "kr": "동탁"
+    },
+    "name2": {
+      "chs": "三人南",
+      "chs_t": "三人南",
+      "jp": "3人半荘戦",
+      "en": "3-Player South",
+      "kr": "3인 반장전"
+    }
+  },
+  {
+    "id": 219,
+    "category": 2,
+    "mode_id": 19,
+    "mode": null,
+    "tournament_id": null,
+    "open": null,
+    "initial": null,
+    "name1": {
+      "chs": "银之间",
+      "chs_t": "銀之間",
+      "jp": "銀の間",
+      "en": "Silver Room",
+      "kr": "은탁"
+    },
+    "name2": {
+      "chs": "三人东",
+      "chs_t": "三人東",
+      "jp": "3人東風戦",
+      "en": "3-Player East",
+      "kr": "3인 동풍전"
+    }
+  },
+  {
+    "id": 220,
+    "category": 2,
+    "mode_id": 20,
+    "mode": null,
+    "tournament_id": null,
+    "open": null,
+    "initial": null,
+    "name1": {
+      "chs": "银之间",
+      "chs_t": "銀之間",
+      "jp": "銀の間",
+      "en": "Silver Room",
+      "kr": "은탁"
+    },
+    "name2": {
+      "chs": "三人南",
+      "chs_t": "三人南",
+      "jp": "3人半荘戦",
+      "en": "3-Player South",
+      "kr": "3인 반장전"
+    }
+  },
+  {
+    "id": 221,
+    "category": 2,
+    "mode_id": 21,
+    "mode": null,
+    "tournament_id": null,
+    "open": 1,
+    "initial": null,
+    "name1": {
+      "chs": "金之间",
+      "chs_t": "金之間",
+      "jp": "金の間",
+      "en": "Gold Room",
+      "kr": "금탁"
+    },
+    "name2": {
+      "chs": "三人东",
+      "chs_t": "三人東",
+      "jp": "3人東風戦",
+      "en": "3-Player East",
+      "kr": "3인 동풍전"
+    }
+  },
+  {
+    "id": 222,
+    "category": 2,
+    "mode_id": 22,
+    "mode": null,
+    "tournament_id": null,
+    "open": 1,
+    "initial": null,
+    "name1": {
+      "chs": "金之间",
+      "chs_t": "金之間",
+      "jp": "金の間",
+      "en": "Gold Room",
+      "kr": "금탁"
+    },
+    "name2": {
+      "chs": "三人南",
+      "chs_t": "三人南",
+      "jp": "3人半荘戦",
+      "en": "3-Player South",
+      "kr": "3인 반장전"
+    }
+  },
+  {
+    "id": 223,
+    "category": 2,
+    "mode_id": 23,
+    "mode": null,
+    "tournament_id": null,
+    "open": 1,
+    "initial": null,
+    "name1": {
+      "chs": "玉之间",
+      "chs_t": "玉之間",
+      "jp": "玉の間",
+      "en": "Jade Room",
+      "kr": "옥탁"
+    },
+    "name2": {
+      "chs": "三人东",
+      "chs_t": "三人東",
+      "jp": "3人東風戦",
+      "en": "3-Player East",
+      "kr": "3인 동풍전"
+    }
+  },
+  {
+    "id": 224,
+    "category": 2,
+    "mode_id": 24,
+    "mode": null,
+    "tournament_id": null,
+    "open": 1,
+    "initial": null,
+    "name1": {
+      "chs": "玉之间",
+      "chs_t": "玉之間",
+      "jp": "玉の間",
+      "en": "Jade Room",
+      "kr": "옥탁"
+    },
+    "name2": {
+      "chs": "三人南",
+      "chs_t": "三人南",
+      "jp": "3人半荘戦",
+      "en": "3-Player South",
+      "kr": "3인 반장전"
+    }
+  },
+  {
+    "id": 225,
+    "category": 2,
+    "mode_id": 25,
+    "mode": null,
+    "tournament_id": null,
+    "open": 1,
+    "initial": null,
+    "name1": {
+      "chs": "王座之间",
+      "chs_t": "王座之間",
+      "jp": "王座の間",
+      "en": "Throne Room",
+      "kr": "왕좌탁"
+    },
+    "name2": {
+      "chs": "三人东",
+      "chs_t": "三人東",
+      "jp": "3人東風戦",
+      "en": "3-Player East",
+      "kr": "3인 동풍전"
+    }
+  },
+  {
+    "id": 226,
+    "category": 2,
+    "mode_id": 26,
+    "mode": null,
+    "tournament_id": null,
+    "open": 1,
+    "initial": null,
+    "name1": {
+      "chs": "王座之间",
+      "chs_t": "王座之間",
+      "jp": "王座の間",
+      "en": "Throne Room",
+      "kr": "왕좌탁"
+    },
+    "name2": {
+      "chs": "三人南",
+      "chs_t": "三人南",
+      "jp": "3人半荘戦",
+      "en": "3-Player South",
+      "kr": "3인 반장전"
+    }
+  },
+  {
+    "id": 227,
+    "category": 2,
+    "mode_id": 27,
+    "mode": null,
+    "tournament_id": null,
+    "open": null,
+    "initial": null,
+    "name1": {
+      "chs": "乱斗之间",
+      "chs_t": "亂鬥之間",
+      "jp": "乱闘の間",
+      "en": "Melee Room",
+      "kr": "난투전"
+    },
+    "name2": {
+      "chs": "三人东",
+      "chs_t": "三人東",
+      "jp": "3人東風戦",
+      "en": "3-Player East",
+      "kr": "3인 동풍전"
+    }
+  },
+  {
+    "id": 228,
+    "category": 2,
+    "mode_id": 28,
+    "mode": null,
+    "tournament_id": null,
+    "open": null,
+    "initial": null,
+    "name1": {
+      "chs": "乱斗之间",
+      "chs_t": "亂鬥之間",
+      "jp": "乱闘の間",
+      "en": "Melee Room",
+      "kr": "난투전"
+    },
+    "name2": {
+      "chs": "三人南",
+      "chs_t": "三人南",
+      "jp": "3人半荘戦",
+      "en": "3-Player South",
+      "kr": "3인 반장전"
+    }
+  }
+]

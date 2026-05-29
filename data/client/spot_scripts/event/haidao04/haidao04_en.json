@@ -1,0 +1,678 @@
+[
+  {
+    "line": 3,
+    "text": "player"
+  },
+  {
+    "line": 353,
+    "text": "Staff"
+  },
+  {
+    "line": 354,
+    "text": "Hi, here are the tokens you've exchanged. You can use them to play on these claw cranes as well as the other ones in the entire amusement park!"
+  },
+  {
+    "line": 355,
+    "text": "Okay, thanks."
+  },
+  {
+    "line": 356,
+    "text": "I want to take it easy today, so I decide to check out the claw cranes, a recreational machine that is everywhere to be found in the amusement park."
+  },
+  {
+    "line": 357,
+    "text": "I take the small basket full of tokens from the staff and am about to leave the service counter when I see two familiar faces walking towards me."
+  },
+  {
+    "line": 358,
+    "text": "Fancy seeing you here, Chiori and Riu. Are you also here to see if you can grab any plushies? Do you mind if I join you?"
+  },
+  {
+    "line": 359,
+    "text": "Chiori Mikami"
+  },
+  {
+    "line": 360,
+    "text": "...No, I don't want to play with a fool."
+  },
+  {
+    "line": 361,
+    "text": "Riu Kujou"
+  },
+  {
+    "line": 362,
+    "text": "Hmmm, no."
+  },
+  {
+    "line": 363,
+    "text": "Huh?"
+  },
+  {
+    "line": 365,
+    "text": "Oh... it's you two again. Actually, you've already played the machine enough times to redeem a plushie directly. Would you like to do that?"
+  },
+  {
+    "line": 366,
+    "text": "I look in the direction the staff is indicating and see a sign with a reminder on it."
+  },
+  {
+    "line": 367,
+    "text": "\"If you fail to grab a plushie after 100 attempts, you can get any plushie here for free\"..."
+  },
+  {
+    "line": 368,
+    "text": "Oh, I see."
+  },
+  {
+    "line": 369,
+    "text": "I bet Chiori Mikami has difficulty accepting that she failed to grab a plushie after trying 100 times."
+  },
+  {
+    "line": 370,
+    "text": "I look at Chiori Mikami. As I expected, her face has turned red after the staff exposed her predicament."
+  },
+  {
+    "line": 371,
+    "text": "D-Damn it... You actually found out about this... Riu!"
+  },
+  {
+    "line": 372,
+    "text": "I'm here, my lady!"
+  },
+  {
+    "line": 373,
+    "text": "Wait! I promise not to tell anyone... What I'm saying is, can you give me a chance before you \"silence\" me? I can grab some plushies for you!"
+  },
+  {
+    "line": 374,
+    "text": "Hmph! You? Are you good at these games?"
+  },
+  {
+    "line": 375,
+    "text": "Well..."
+  },
+  {
+    "line": 377,
+    "text": "It looks like it's time to show off my true skills"
+  },
+  {
+    "line": 380,
+    "text": "I'm an expert. Just tell me which plushie you want, and it'll be yours."
+  },
+  {
+    "line": 381,
+    "text": "...That's so arrogant of you. In that case, don't hold me back later! Riu, let's bring {var:player_nickname} with us."
+  },
+  {
+    "line": 382,
+    "text": "Okay, follow us."
+  },
+  {
+    "line": 383,
+    "text": "Huh? Are you sure you don't want to just redeem a plushie directly?"
+  },
+  {
+    "line": 384,
+    "text": "I take a look at Chiori Mikami's angry face next to me, then I turn my head and smile apologetically at the staff."
+  },
+  {
+    "line": 385,
+    "text": "Sorry, maybe later."
+  },
+  {
+    "line": 386,
+    "text": "After we arrive in front of the claw crane designated by Chiori Mikami and Riu Kujou, Riu Kujou points at the plushie they want, which happens to be a bear plushie."
+  },
+  {
+    "line": 387,
+    "text": "I'll reward you handsomely if you can get that plushie for Miss Chiori."
+  },
+  {
+    "line": 388,
+    "text": "Relax and leave it to me."
+  },
+  {
+    "line": 389,
+    "text": "After I insert a token into the machine, the lights of the claw crane start flashing cheerfully, indicating that it's ready."
+  },
+  {
+    "line": 390,
+    "text": "A row of plushies sway as they move forward on the conveyor belt. I start moving the joystick and look for the most opportune moment to grab the plushie..."
+  },
+  {
+    "line": 391,
+    "text": "Standing next to me, Riu Kujou and Chiori Mikami hold their breath as they stare at the moving plushies. When the bear plushie is almost directly under the claw..."
+  },
+  {
+    "line": 392,
+    "text": "Now!"
+  },
+  {
+    "line": 393,
+    "text": "Wait a little longer!"
+  },
+  {
+    "line": 394,
+    "text": "Listen to Chiori Mikami and press the button now"
+  },
+  {
+    "line": 395,
+    "text": "Listen to Riu Kujou and wait a little longer"
+  },
+  {
+    "line": 396,
+    "text": "I listen to Chiori Mikami and press the button decisively."
+  },
+  {
+    "line": 397,
+    "text": "...I missed."
+  },
+  {
+    "line": 398,
+    "text": "...Damn it, the claw didn't descend so quickly before!"
+  },
+  {
+    "line": 399,
+    "text": "I listen to Riu Kujou and wait a little longer before pressing the button."
+  },
+  {
+    "line": 400,
+    "text": "...The plushie narrowly avoids the claw unscathed."
+  },
+  {
+    "line": 401,
+    "text": "Sigh, I should've listened to Miss Chiori..."
+  },
+  {
+    "line": 402,
+    "text": "This try is just to get a feel for things. It should be okay next time!"
+  },
+  {
+    "line": 403,
+    "text": "I start another game. A row of plushies sway as they move forward on the conveyor belt. When the bear plushie is about a fist away from the claw..."
+  },
+  {
+    "line": 404,
+    "text": "Second attempt"
+  },
+  {
+    "line": 405,
+    "text": "Now!"
+  },
+  {
+    "line": 406,
+    "text": "Wait!"
+  },
+  {
+    "line": 407,
+    "text": "I hear two differing opinions again."
+  },
+  {
+    "line": 408,
+    "text": "Listen to Riu Kujou and press the button now"
+  },
+  {
+    "line": 409,
+    "text": "Listen to Chiori Mikami and wait a little longer"
+  },
+  {
+    "line": 410,
+    "text": "I listen to Riu Kujou and press the button immediately."
+  },
+  {
+    "line": 411,
+    "text": "...I'm such a failure! As a maid, how can I fail to grasp the right timing to grab the plushie? How can I protect Miss Chiori with such poor powers of observation and judgment? No, I'm going to sign up for the ultimate observation training course tomorrow..."
+  },
+  {
+    "line": 412,
+    "text": "I listen to Chiori Mikami and wait a little longer before pressing the button."
+  },
+  {
+    "line": 413,
+    "text": "...The plushie narrowly avoids the claw unscathed again."
+  },
+  {
+    "line": 414,
+    "text": "Argh! That was so close! ...Hey! You, yes you! Why are you looking at me like that? I gave you that instruction based on hundreds of experiences. How could it be wrong?"
+  },
+  {
+    "line": 415,
+    "text": "It's alright. This is just the second time. Let's try again!"
+  },
+  {
+    "line": 416,
+    "text": "...Move to the left, move to the left... yes... move a little more to the left... AH! It fell!"
+  },
+  {
+    "line": 417,
+    "text": "Third attempt"
+  },
+  {
+    "line": 418,
+    "text": "Now! Press it! ...Damn it, the claw touched it this time!"
+  },
+  {
+    "line": 419,
+    "text": "Fifth attempt"
+  },
+  {
+    "line": 420,
+    "text": "Yes, that's right. Wait until it's a little closer... Now grab it! ...Huh?!"
+  },
+  {
+    "line": 421,
+    "text": "Nth attempt..."
+  },
+  {
+    "line": 422,
+    "text": "Sigh, it fell again... Wait! Riu, don't smash the machine!"
+  },
+  {
+    "line": 423,
+    "text": "After desperately stopping Riu Kujou from trying to smash the machine, which she thinks is fishy, I look at the last token in my hand and suddenly realize the problem."
+  },
+  {
+    "line": 424,
+    "text": "If Chiori Mikami and Riu Kujou's advice was any good, how come they haven't been able to get a plushie after so many tries..."
+  },
+  {
+    "line": 425,
+    "text": "After glancing at the two of them who are still discussing the tactics for the final attempt, I insert the token into the machine silently... When the machine starts playing music, Riu Kujou and Chiori Mikami suddenly turn their heads to look at me."
+  },
+  {
+    "line": 426,
+    "text": "{var:player_nickname}? You're starting already?"
+  },
+  {
+    "line": 427,
+    "text": "Relax, just leave everything to me this time."
+  },
+  {
+    "line": 428,
+    "text": "Possibly because they are reassured by my tone, Chiori Mikami and Riu Kujou don't say anything this time and just watch silently. I also devote my full attention to what I'm doing and regain my previous sense of judgment... After that, I press the button."
+  },
+  {
+    "line": 429,
+    "text": "Finally..."
+  },
+  {
+    "line": 430,
+    "text": "Ding! The machine plays a victory sound effect when the bear plushie falls smoothly to the exit. Riu Kujou and Chiori Mikami also make surprised cheers at the same time."
+  },
+  {
+    "line": 431,
+    "text": "Well? I didn't let you down, right? Here you go..."
+  },
+  {
+    "line": 432,
+    "text": "When I take the hard-earned bear plushie out of the machine and prepare to give it to them, I suddenly feel a little awkward because I don't know who I should give it to."
+  },
+  {
+    "line": 433,
+    "text": "...You can keep it. I'm just here to experience the process of grabbing these plushies... As for this plushie... Hmph! It looked decent inside the machine, but I can see that the quality is average now that I can see it up close. I don't want it anymore."
+  },
+  {
+    "line": 434,
+    "text": "Hmm... Miss Chiori, in that case, shall we give all the plushies we grab after this to {var:player_nickname}?"
+  },
+  {
+    "line": 435,
+    "text": "Okay, I agree to that. Let's go, {var:player_nickname}."
+  },
+  {
+    "line": 436,
+    "text": "Huh? Where are we going?"
+  },
+  {
+    "line": 437,
+    "text": "You fool, we're going to exchange 500 more tokens, of course. There are so many claw cranes in the amusement park. Don't you want to try all of them?"
+  },
+  {
+    "line": 438,
+    "text": "A-All of them..."
+  },
+  {
+    "line": 439,
+    "text": "I feel speechless when I think about the size of the amusement park, but I don't have the heart to say no when I see Chiori Mikami and Riu Kujou looking at me expectantly. Sigh, it looks like I won't be able to take it easy and relax today after all..."
+  },
+  {
+    "line": 440,
+    "text": "Don't you know that a strong networking ability is a strength? I know someone who's an expert at this."
+  },
+  {
+    "line": 441,
+    "text": "An expert? Who?"
+  },
+  {
+    "line": 442,
+    "text": "Kana Fujita, a girl who conquered these machines in the arcade before becoming an idol."
+  },
+  {
+    "line": 443,
+    "text": "Huh? Are you sure you don't want to just redeem a plushie directly?"
+  },
+  {
+    "line": 444,
+    "text": "Just as we are about to leave the counter, the staff asks me again. I look at Kana Fujita's contact information on my mobile phone and smile confidently at the staff."
+  },
+  {
+    "line": 445,
+    "text": "Kana Fujita"
+  },
+  {
+    "line": 446,
+    "text": "...Y-You want me to play on a claw crane with you right now?"
+  },
+  {
+    "line": 447,
+    "text": "Yes... is this a bad time? Now that I think about it, there are a lot of tourists here... It's perfectly okay if you can't come over right now."
+  },
+  {
+    "line": 448,
+    "text": "When I hear the surprise in Kana Fujita's voice over the phone, I suddenly realize that there are quite a lot of tourists around us, and I start to worry that it might have been a little rash of me to ask a popular high school idol like her to come here."
+  },
+  {
+    "line": 449,
+    "text": "...Umm, how should I put it... I guess it is kind of a bad time... but..."
+  },
+  {
+    "line": 450,
+    "text": "While she speaks, I suddenly feel someone poking my shoulder gently."
+  },
+  {
+    "line": 451,
+    "text": "Huh?"
+  },
+  {
+    "line": 452,
+    "text": "Hehe, I'm already here."
+  },
+  {
+    "line": 453,
+    "text": "Huh?"
+  },
+  {
+    "line": 454,
+    "text": "To my surprise, Kana Fujita suddenly appears next to us, wearing a hat and mask that perfectly covers her face."
+  },
+  {
+    "line": 455,
+    "text": "...This outfit... It's that really skilled person from before!"
+  },
+  {
+    "line": 456,
+    "text": "Oh, it's the expert who grabbed quite a few plushies from that machine over there in a short period of time!"
+  },
+  {
+    "line": 457,
+    "text": "Huh? You saw that? It's a good thing I stopped in time... I want to keep playing... but it's possible that someone will recognize me if I stand out too much. Sigh, this is the most troubling thing about being an idol."
+  },
+  {
+    "line": 458,
+    "text": "...Wait a minute, don't tell me you sneaked out here behind your manager's back again..."
+  },
+  {
+    "line": 459,
+    "text": "Of course not, ahem... I just didn't tell her that I would come to a place with so many people... Don't worry, I've been extremely careful. Nobody will recognize me."
+  },
+  {
+    "line": 460,
+    "text": "You've made similar guarantees before too... I'm still skeptical."
+  },
+  {
+    "line": 461,
+    "text": "Anyway, let's not worry about it until it happens. What's the problem? I'm not going to pretend to be humble. I'm also the best when it comes to grabbing plushies!"
+  },
+  {
+    "line": 462,
+    "text": "Okay, I know you're trying to change the subject, but I agree with you about dealing with the matter at hand first."
+  },
+  {
+    "line": 463,
+    "text": "Well, tell me which you want, then watch me grab it."
+  },
+  {
+    "line": 464,
+    "text": "That one."
+  },
+  {
+    "line": 465,
+    "text": "We look in the direction Chiori Mikami is pointing and see a cute little bear sitting among a bunch of plushies."
+  },
+  {
+    "line": 466,
+    "text": "Ah, its shape will make it easy to grab. Watch this."
+  },
+  {
+    "line": 467,
+    "text": "After choosing a claw crane with the same bear in it, Kana Fujita glances briefly at the structure and style of the machine before observing it from all sides, then she confidently inserts a token into the slot."
+  },
+  {
+    "line": 468,
+    "text": "With this claw, you need to do this... and this... After that, look at where the plushie is. When it gets to here, use the power of the swaying claw to give it a good swing... Done!"
+  },
+  {
+    "line": 469,
+    "text": "The button makes a clacking sound as Kana Fujita presses the button confidently. After receiving her command, the claw quickly reaches out at the bear plushie under it, scratching its head lightly before grabbing air and missing."
+  },
+  {
+    "line": 470,
+    "text": "...Ahen, this is normal. People rarely manage to grab a plushie in their first attempt. This machine's claw is a little weaker, so I'll need to move it bit by bit. I'll definitely grab it after a few more attempts!"
+  },
+  {
+    "line": 471,
+    "text": "You're so professional!"
+  },
+  {
+    "line": 472,
+    "text": "I've learned something new!"
+  },
+  {
+    "line": 473,
+    "text": "Okay, time for a second attempt!"
+  },
+  {
+    "line": 474,
+    "text": "Yeah!"
+  },
+  {
+    "line": 475,
+    "text": "...Umm, this is just the third attempt!"
+  },
+  {
+    "line": 476,
+    "text": "You can do it!"
+  },
+  {
+    "line": 477,
+    "text": "...The ninth attempt!"
+  },
+  {
+    "line": 478,
+    "text": "You've got this..."
+  },
+  {
+    "line": 479,
+    "text": "I-It's the twenty-third time. You can do it, Kana!"
+  },
+  {
+    "line": 480,
+    "text": "After looking at the confident and serious look on Kana Fujita's face, I feel her emotions rubbing off on me and start to convince myself by telling myself this is part of her strategy. Maybe the plushie will fall out on its own if she tries enough times to remove all the air from the machine..."
+  },
+  {
+    "line": 481,
+    "text": "This isn't possible!"
+  },
+  {
+    "line": 482,
+    "text": "Kana, do you want to take a break...?"
+  },
+  {
+    "line": 483,
+    "text": "Riu and I also feel the same way... It doesn't really matter whether you grab the plushie."
+  },
+  {
+    "line": 484,
+    "text": "That's not necessary. Don't worry, I often practice dozens of times to learn certain moves. This is just a claw crane, and I've never encountered a claw crane that I can't conquer!"
+  },
+  {
+    "line": 485,
+    "text": "Her strange desire to conquer things has appeared again!"
+  },
+  {
+    "line": 486,
+    "text": "Okay then... Take it easy. There's no rush."
+  },
+  {
+    "line": 488,
+    "text": "After yet another failure, Kana Fujita grits her teeth and reaches for a token in the basket, but comes up empty-handed."
+  },
+  {
+    "line": 489,
+    "text": "Ah, we're out of tokens."
+  },
+  {
+    "line": 490,
+    "text": "!"
+  },
+  {
+    "line": 491,
+    "text": "Huh... How can this be...? This has never happened to me before... Oh, I know!"
+  },
+  {
+    "line": 492,
+    "text": "THIS MACHINE MUST BE BROKEN!"
+  },
+  {
+    "line": 493,
+    "text": "Umm... Wait! Kana, you're not allowed to smash this machine!"
+  },
+  {
+    "line": 494,
+    "text": "After I finally manage to protect the amusement park's property, Kana Fujita leaves without looking back."
+  },
+  {
+    "line": 495,
+    "text": "Where are you going?"
+  },
+  {
+    "line": 496,
+    "text": "To the service counter!"
+  },
+  {
+    "line": 497,
+    "text": "Huh? Are you saying there's something wrong with that claw crane? Okay then, I'll report this issue. However, honestly speaking, many tourists mistakenly think the claw cranes are broken when the truth is that they just aren't skilled enough to get anything."
+  },
+  {
+    "line": 498,
+    "text": "No, I can guarantee that there is something wrong with the machine!"
+  },
+  {
+    "line": 499,
+    "text": "...This voice sounds familiar... Oh my, is that you, Kana? Are you Kana Fujita?"
+  },
+  {
+    "line": 500,
+    "text": "AHHHHHHH! It's Kana Fujita--"
+  },
+  {
+    "line": 501,
+    "text": "It's too late by the time we rush to the counter. The staff has already recognized Kana Fujita."
+  },
+  {
+    "line": 502,
+    "text": "Tourist A"
+  },
+  {
+    "line": 503,
+    "text": "Kana Fujita?"
+  },
+  {
+    "line": 504,
+    "text": "Tourist B"
+  },
+  {
+    "line": 505,
+    "text": "Where is she?"
+  },
+  {
+    "line": 506,
+    "text": "Tourist C"
+  },
+  {
+    "line": 507,
+    "text": "Ah! It really is her!"
+  },
+  {
+    "line": 508,
+    "text": "...Oh no."
+  },
+  {
+    "line": 509,
+    "text": "...I knew this would happen today. Don't just stand there. Run!"
+  },
+  {
+    "line": 510,
+    "text": "Seeing more and more tourists gathering around us, the four of us quickly leave the scene before we're completely overwhelmed by the overly enthusiastic crowd..."
+  },
+  {
+    "line": 511,
+    "text": "Osamu Saitou"
+  },
+  {
+    "line": 512,
+    "text": "Your feedback is very helpful. The soft opening of this amusement park is more meaningful now."
+  },
+  {
+    "line": 513,
+    "text": "That night, I was a little surprised to receive a call from Osamu Saitou himself."
+  },
+  {
+    "line": 514,
+    "text": "We tested that claw crane and identified some parameter errors. We've already removed it for maintenance and will inspect all the claw cranes in the amusement park."
+  },
+  {
+    "line": 515,
+    "text": "Haha, I didn't think that they would disturb you over something this minor. This was just an accidental discovery, and Kana Fujita is the one who discovered the problem with the claw crane."
+  },
+  {
+    "line": 516,
+    "text": "Haha... that's not the only feedback I'm referring to."
+  },
+  {
+    "line": 517,
+    "text": "Hmm?"
+  },
+  {
+    "line": 518,
+    "text": "I suddenly have a bad feeling."
+  },
+  {
+    "line": 519,
+    "text": "The chaos caused by the tourists in the amusement park after they realized a popular idol was among them truly tested our security capabilities. Thanks to you, I've decided to strengthen security by another thirty percent when the amusement park operates officially."
+  },
+  {
+    "line": 520,
+    "text": "Ahaha... I see... That's a good thing, right? Haha..."
+  },
+  {
+    "line": 521,
+    "text": "A chill runs down my back, and I'm still not sure if Osamu Saitou's compliment is sincere or not when I hang up the phone."
+  },
+  {
+    "line": 522,
+    "text": "However, I'm not really in the mood to think about this right now. All I want to do is collapse into bed and sleep. After all, I had to run everywhere in the amusement park today, looking for places to hide with Kana Fujita, Riu Kujou, and Chiori Mikami to avoid Kana's fans and curious onlookers. In the end, I didn't manage to take things easy today..."
+  },
+  {
+    "line": 523,
+    "text": "Hi, please exchange 100 claw crane tokens for me."
+  },
+  {
+    "line": 526,
+    "text": "In a situation like this, I usually ask an expert for help"
+  },
+  {
+    "line": 527,
+    "text": "The...  Hmm?"
+  }
+]

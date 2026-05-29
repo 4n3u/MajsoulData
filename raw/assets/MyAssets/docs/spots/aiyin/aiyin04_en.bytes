@@ -1,0 +1,306 @@
+1:The breeze rustles through the cherry blossoms that are blooming like pink clouds on the branches and radiating a tenderness unique to spring while covering the earth in a coat of pink.
+2:I'm walking on the street with a bag of snacks, and everything seems so quiet, beautiful, and dreamlike to me... but it would be even better if a certain fox wasn't squatting on the ground, sighing with his hands on his knees on the corner of the street.
+3:player
+4:Ein? What's wrong?
+5:Ein
+6:{var:player_nickname}? Oh... I've even been seen by someone I know when I'm having bad luck. That's one more unlucky event for today.
+7:After hearing his words, I look at him and see many broken cartons and squashed food scattered on the ground next to him. It looks like he had just experienced a disaster.
+8:Is this the unlucky event you're talking about?
+9:Ahaha... this is just part of it.
+10:When I was delivering milk in the morning, I slipped on some garbage and splashed the milk all over the buyer's face. When I was unloading goods for a store, a box broke, scattering the goods everywhere, and some of it even rolled into the sewer. I just picked up a takeout order and everything was going well when an Alaskan Malamute more reckless than Zechs suddenly charged at me...
+11:Wow, you really are quite unlucky today.
+12:After all, the great master warned me about this, and I should have taken their advice yesterday. I shouldn't have left home today even if a fire breaks out, the ceiling collapses, or the gas tank explodes!
+13:...I think you shouldn't stay at home because it sounds like you're in more danger there.
+14:By the way, who is this great master who can tell your fortune so accurately?
+15:That great master often speaks in riddles, charges fees arbitrarily, and has a stall that's always swarming with customers...
+16:Yuan Feng
+17:Kaavi
+19:Yuan Feng?
+20:No, it's Miss Kaavi... But now that you mention it, they do have some similarities.
+21:You might as well say that they are both good at tricking, umm... at making you pay them willingly.
+22:Kaavi?
+23:As expected of the most popular person in One Han City. You guessed it right away.
+24:Haha, we're all old acquaintances after all.
+25:I don't know who you're talking about, but can you refer this person to me? I have a friend who wants to ask about unlucky events recently.
+27:Oh, then she does tell my fortune a lot, but she tells me a calamity involving women is in store for me every single time, so I didn't realize you were talking about her when you mentioned an accurate fortune telling master...
+28:*Rumble* All of a sudden, I hear a strange sound while I'm chatting with Ein.
+29:Hmm?
+30:That wasn't me...
+31:*Rumble* This time, it's clear to me that Ein made that sound. Seeing my eyes focusing on the part of his body that made that sound, Ein touches his nose nervously.
+32:...It was me.
+33:Are you hungry? Do you want to eat something first?
+34:Yes... but I don't have any money left after paying compensation for everything. Right now, it's more important for me to make money than to eat.
+35:When I see Ein's drooping ears, I understand that it's time for me to shine. After all, I'm an enthusiastic citizen of One Han City.
+36:Treat Ein to a meal
+37:Treat Ein to some snacks
+38:I pat my wallet - I've been quite well-off recently, so I'll treat him to a meal. I step up to Ein and pat him on the shoulder before making my generous proposal.
+39:As they say, every meeting we have is preordained by fate. I'll treat you to lunch today.
+40:Wow! {var:player_nickname}, you're such a good person... Umm, but doesn't it seem like I'm living off you then? My old man will give me a beating if he finds out.
+41:A son is not bound by his father's orders when he is not living at home.
+42:That might be true, but I still feel a little embarrassed. Is there anything I can do for you?
+43:I can't think of anything right now. Let's think about it while we eat.
+44:But...
+45:*Rumble* My tummy is rumbling this time. I was on my way to scrounge a free meal at the Mahjong Soul Shrine, but I missed their mealtime because of my unexpected encounter with Ein.
+46:Umm...
+48:Ein leads me to an inconspicuous ramen shop on the next street. The shop isn't that big, and the tables and chairs look weathered with age, but the thick aroma of the ramen soup fills the shop, inexplicably giving it a slightly homey atmosphere.
+
+50:Do you know what the highest praise that can be given to a restaurant in One Han City is?
+51:Absolutely amazing?
+52:No, it's: "The food reminds me of home."
+53:Then what would be considered a bad review?
+54:"The food tastes the same as the food at home."
+55:One Han City's culture sure is deep and profound...
+56:As we speak, Ein leads me nimbly through the long, narrow aisles and sits down at an empty table. He then pulls out a menu from next to him and hands it to me.
+57:Are you a regular here?
+58:I come here every few days. If you don't know what to order, I recommend the signature tonkotsu ramen.
+59:Trust me, it'll remind you of your home.
+60:Then let's have two signature ramens...
+61:???
+62:Oh? You've brought a friend with you this time? Good work, for a guy who's always alone! I'll give you two free marinated soft-boiled eggs today.
+63:I look up in response to the sound and see a burly man wearing an apron featuring bear designs that doesn't suit his style standing next to us.
+64:If it wasn't for the pair of brown sunglasses he was wearing and the large tattoos exposed under his rolled-up sleeves, I might actually believe that he's the owner of this ramen shop.
+65:Thanks!
+66:Oh, right. I'm having all sorts of troubles with my part-time job today. About those errands I agreed to do for you, can I do them for you tomorrow instead?
+67:The burly man makes the OK gesture at Ein and leaves without speaking.
+68:Is he really the owner of this ramen shop?
+69:Haha, {var:player_nickname}, your reaction is the same as mine when I first met the owner.
+70:Although he was involved in some shady things in the past, he is now the owner of this ramen shop.
+71:Does he personally cook all the food here?
+72:Of course. Don't look down on this ramen shop. This is his hunting grounds, just like how your hunting grounds are mahjong dojos, {var:player_nickname}.
+73:A hunter never misses in their hunting grounds.
+74:You flatter me. I can carelessly lose 32,000 points in my hunting grounds.
+75:Haha, are you sure that isn't part of your plan to lure in enemies? We hunters have a saying: "Skilled hunters often appear as prey."
+76:{var:player_nickname}, you're probably someone who is brave and resourceful like that.
+77:...Geez, I don't know what to say about you.
+78:Ramen Shop Owner
+79:Your food is ready! My dear customers, please enjoy the signature tonkotsu ramen you ordered.
+80:Two big bowls appear in front of us after the owner speaks in his deep voice. The milky-white soup base is filled with noodles of even thickness, sprinkled with finely chopped green onions, and has a mouth-watering aroma.
+81:The edge of the bowl is lined with moderately thick slices of tender and juicy pork. It's difficult to find another shop in One Han City that can rival this one based on the portion size alone. Suddenly, the owner's face looks more amiable and friendly to me because of this bowl of noodles.
+82:Ah! It's so hot!
+83:Having a bowl of the owner's signature ramen at the end of a busy day is one of the happiest moments in my life.
+84:You're so easily satisfied.
+85:I know some other places that are affordable and delicious. I'll treat you to a meal at one of those places next time.
+86:Ein, it looks like you know One Han City very well.
+87:Yes, because I love this place.
+88:Why is that?
+89:This city is sufficiently tolerant and fair, and those who work hard won't be picked on because of their origin or appearance.
+90:This place is also big enough with plenty of hunting grounds. Each hunter can run to their heart's content and display their abilities here.
+91:I hope my tribespeople can come here and take a look in the future. The nature of a hunting ground shouldn't be defined, and no hunter should be underestimated.
+92:I don't feel very strongly about this because I live here every day, but listening to your words makes me feel so hot-blooded and excited about being a good citizen of One Han City!
+94:Owner! Owner! Bring us some towels!
+95:Eh? Ahhhhhh!
+96:After some fuss and confusion, I finally wipe most of the soup off my clothes, and the amiable owner refills my soup for free.
+97:This is why it's a bad idea to listen to passionate speeches while eating. It's so easy to knock over bowls and dishes when you get excited.
+99:Ahhh, I'm so full. You're the reason I feel alive today, {var:player_nickname}.
+100:I wouldn't go that far. After all, we're such good friends. True friends are those who can share their joys and sorrows with each other.
+102:By the way, have you decided what you need me to do for you?
+103:Umm... not really.
+104:Haha, I knew it. Fortunately, I'm prepared for this.
+105:Ein pulls out a piece of paper from his pocket and hands it to me. It looks like the piece of paper he was writing and drawing on in the restaurant for a long time.
+106:I receive it from him and see that it's a "free employment voucher" with the following words on it: The employer, {var:player_nickname}, can use this voucher to get Ein to perform one job for free. The task will be completed properly without any mistakes. Ein
+108:Tsk, when you put it like that, it does sound like I am, haha.
+109:But you can only use this once, so think carefully before using it. Please don't use it for something like making a pair of fox-fur gloves.
+110:...I'm not Eliisa.
+111:I know, I know. Of course, you're not Eliisa. You're my best friend, {var:player_nickname}.
+112:My face turns red with embarrassment after hearing something this cheesy during the day, even if it's true.
+113:What are you thinking of doing next? Do you want to play mahjong with me at the Mahjong Soul Shrine?
+114:Why would I play mahjong when I'm cursed with bad luck? Do I look like I want to deal into a Thirteen Orphans and then a Nine Gates? I've decided to spend the day safely at home today.
+115:Ein's ears droop again after thinking of his tragic bout of bad luck today. I don't want to make things difficult for him, so we go our separate ways.
+116:Wanjirou
+117:Ron! Thirteen Orphans, woof! Thanks, {var:player_nickname}.
+118:One hour later
+119:Ichihime
+120:Ron, nyaa! Big Three Dragons, nyaa! Master is great! Thanks, Master, nyaa.
+121:Eight minutes later
+122:Kaguyahime
+123:Ehehe, Ron! {var:player_nickname}, thanks for offering me this Nine Gates.
+124:Six minutes later
+125:Forehead covered in cold sweat, I touch the "free employment voucher" I received from Ein in my pocket. This guy... Could he have passed his bad luck to me? I don't want that to happen!
+126:I glance at the snack bag in my hand and decide to stand up for snacks, a food often associated with laziness, weight gain, and dependency. However, if it is served to a hungry person, it can also be a noble food!
+127:For example, dealing in can be a matter of having good tiles and skill but bad tile luck.
+128:If you don't mind, why don't you stave off your hunger with these snacks?
+129:Wow! There are so many snacks here. {var:player_nickname}, you better be careful or you could get fat.
+130:...Why are you cursing me when I'm giving you some food to eat? I was going to give these to Ichihime because she seems to be eating a lot more than usual recently.
+131:Oh, I know about that.
+132:Ein opens a bag of cookies and throws a cookie into his mouth, then he starts chatting with me while chewing on it.
+133:When I was playing mahjong a while ago, I heard Ichihime say something like: "I can't let Lin Lang look down on me, nyaa."
+134:Lin Lang... I think they want to make my wallet become flat!
+135:Haha, then you're going to need to work hard to make money, {var:player_nickname}. I'll share some with you the next time I get a good part-time job.
+136:Although I want to say no, I start thinking about the ridiculous prices of desserts in dessert shops recently. Sigh...
+137:If you want desserts, I know of a place that sells affordable desserts that are absolutely delicious.
+138:Oh?! Asking for a friend - what's the address?
+139:Haha, I can't eat your snacks for free, so I might as well take you there myself.
+141:It's a red light. Let's wait for a while.
+142:Okay.
+143:I look up at the countdown of the red light and see there are 293 seconds left. One Han City has its own currency, its own units of measurement, and its own traffic light durations. I silently take out my cell phone and start reading a novel I hadn't finished reading on the subway while Ein explains the traffic conditions to me enthusiastically.
+144:The traffic is really busy here, so you can hold onto my tail if you're afraid we'll get separated.
+145:There's a puddle of water in front of us, so be careful of slipping.
+146:Wow! {var:player_nickname}, if we run now, we'll be able to make the next green light perfectly.
+147:We made it! We're so lucky!
+148:Suddenly, I recall that Musa said Ein is a really noisy man.
+149:Ein...
+150:Hmm? What is it? Do you need me to help you with anything? I guarantee I'll solve your problem.
+151:Forget it, it's nothing.
+152:Actually, it's quite nice to have such an energetic person around me, especially since the things he says show that he cares about me and loves me. I don't think I've really felt this way since I was in kindergarten.
+153:Thanks to Ein, the long road in front of me doesn't seem that long anymore... Wait a minute, it's this road?
+154:Hold on, this road looks really familiar to me... Doesn't it lead all the way to the One Han City Amusement Park?
+155:Haha, I thought you would only realize where we're going after we arrive at the gates of the amusement park.
+156:The shop we're going to is in the amusement park?
+157:To be precise, it's near the amusement park. Although it's a little far from the city, the desserts will be well worth the journey.
+158:It won't be much longer. We'll get there in about ten minutes after taking the road on the left.
+159:I look at where Ein is pointing and see two completely different roads leading to the same destination at a familiar intersection in front of me.
+160:Lush trees stand on both sides of the road on the right, making it look even more attractive under the sunlight. Next to the road, intertwining vines form a natural green barrier with the leaves. The road on the left that Ein is pointing at is very uneven and looks like an undeveloped country road.
+161:Where does the road on the right lead to?
+162:Oh, it takes you to the same place, but you'll need to walk for an extra thirty minutes.
+163:So it's ten minutes compared to thirty minutes...
+164:Ein has been leading me all the way here in such a hurry. Do I want to choose which path I want to take here?
+165:Choose the path on the right to enjoy the scenery
+166:Take his recommendation and choose the path on the left
+167:As the saying goes, no two leaves are exactly the same. In the case of scenery, even the same scenery will look different every day.
+168:Besides, I'm very fit, so I can afford to be willful.
+169:Ein, let's take the path on the right.
+170:Sure thing, but remember to tell me when you get tired. The "princess carry" is quite trendy lately, right? If you like, I'm happy to offer that service, haha.
+172:I start shuddering at this overly beautiful image and shake my head quickly to get this image out of my mind.
+173:Ahem, the light has turned green. Let's go.
+174:After turning at the intersection, I see colorful flowers blooming on both sides of the road, proudly displaying themselves amidst the greenery. At the corner of the street not far away lies a small artificial lake, its surface glistening like golden ribbons in the sunlight.
+175:If it isn't because Ein is walking faster and faster, I would definitely have the chance to enjoy this!
+176:After several minutes, I finally give in and tug his tail, which makes him stop moving suddenly.
+177:Huh?!
+178:Ein, you're walking too quickly.
+179:Oh, I'm sorry... I'm used to doing that.
+180:Is it because you're afraid you'll take too long while making deliveries?
+181:Haha, it's not that. It's mainly because I feel like I can hear my old man scolding me whenever I start slowing down.
+182:Ein, is your old... father really strict?
+183:I almost called Ein's father "old man" like he does. Fortunately, the virtue of elegance reminds me to always be polite.
+185:So it's a good thing based on the outcome.
+186:That's right. I really need to thank my old man for training me to have such good physical strength. If it wasn't for him, I might not have been able to win the favor of my employers in One Han City.
+187:I really like my work as a delivery staff. The feeling of moving quickly through the city is very similar to the feeling of hunting in my hometown. It makes me want to keep moving faster and faster. To be able to run as fast as the wind would be the best thing ever!
+188:Actually, it's good to stop what you're doing occasionally and adopt a slow and leisurely pace in life.
+189:A slow... and leisurely pace in life?
+190:That's right. That's the theme of most variety shows now, and we should follow fashion trends closely. For example, if you look at both sides of the road here, you might see different scenery from what you're used to seeing.
+191:As if he understands the message behind my words, Ein takes a deep breath and slows down. He slowly turns his neck and looks at the mottled shadows of trees on both sides of the road and the white clouds floating in the sky.
+192:Time seems to slow down when Ein's eyes finally fall on the path in front of him. I watch him slowly open his hands to caress the gentle wind and listen to the gurgling of water with his ears.
+193:The scenery around him seems to imbue his clear eyes with more color, making them look as dazzling as sparkling gems.
+194:Look! The cloud over there looks like two people who are wrestling.
+195:I think the cloud looks more like you. Yes, that's right.
+196:Am I that fat?
+197:It's about right if I factor in the fluffiness of your fur.
+198:As I speak, I deliberately pull on Ein's big furry tail, which makes him jump away quickly to protect his tail.
+199:Stop! My fur will fall out if you do that!!!
+200:You take such good care of the fur on your tail that your tail won't go bald after being pulled once or twice.
+201:Ein and I laugh and talk as we walk on the path beside the flowers. Now that he's no longer obsessed with rushing, his pace also slows down.
+202:I pass by this road often when I'm doing my part-time job, but it's my first time seeing all this beautiful scenery today.
+203:It's because you have a pair of eyes that are so good at discovering beauty.
+204:Haha, the most beautiful thing I've discovered is... Hmm, wait a minute... What's this?
+205:I turn around to look at what he is looking at and see an advertisement posted in the window of a shop on the street.
+206:New teddy bear merch will be available for sale from 8:00 a.m. on the 30th of this month? Ein, are you interested in this type of merch?
+207:It's my employer who's interested. Speaking of which, you know her too.
+208:We have so many common friends, haha. Is it Chiori?
+209:She does own a lot of this merch, but my employer is actually her maid. She has hired me to collect all sorts of teddy bear merch information and pays me a generous wage.
+210:I clap my hands in surprise when I remember that Riu Kujou had mentioned that Chiori Mikami was very sad after losing her handbag. Fortunately, a special, kind person took Index home afterwards.
+211:Could you be that kind person?
+212:What kind person?
+213:The kind person who found Chiori's handbag for her.
+214:Oh, you're talking about that incident. That was because the request to find the missing item stated that the finder would be thanked generously. I'm just a worker who's trying to earn more Coppers.
+215:Oh, we're here.
+216:The somewhat weathered signboard of the dessert shop appears in front of us after Ein cries out joyfully.
+217:This dessert shop is very plainly decorated, and I've never noticed it before, probably because of its remote location.
+218:However, the furnishings of the shop are quite elegant, and the spacious and bright layout complements its warm, soft color combination very well. Guests have also left comments and photos on the walls, which adds to the cozy ambiance.
+219:The warmest thing of all to me is the price of the exquisite desserts.
+220:What do you think? The desserts here are affordable and delicious, right?
+221:Dessert Shop Owner
+222:Oh, it's you, Ein... I was just thinking that the voice sounded familiar...
+223:The elderly woman who owns the shop comes out to greet us after hearing customers enter. Judging from her familiar tone, I guess that Ein is a regular customer here.
+224:Is this your friend? Haha, this is the first time Ein has brought a friend here.
+225:This sounds really familiar. Are you going to say that it's been a long time since Ein has been this happy next?
+226:Hahahaha, I might be old, but I still watch television. Who has time to worry about being happy or unhappy every day? Ein here is happy every day.
+227:Indeed, I've rarely seen Ein look depressed or unhappy, and he also cheered himself up pretty quickly earlier. He is an optimistic, cheerful, and sunny boy.
+228:The best time to arrive is just in time. I have a batch of new desserts that are fresh out of the oven. Ein, why don't you and your friend help me taste test them?
+229:Thanks, it's our pleasure.
+230:Ein takes me to sit down at a table by the window. The sweet fragrance permeating the shop heightens my expectations for the new dessert.
+231:The cake is sweet but not too heavy, and the cream just melts in your mouth... I give it the highest rating that can be given in One Han City: It's not too sweet.
+232:This one is for you.
+233:As I am indulging myself in this dessert, Ein hands me something that feels hard. I open my fingers to see a necklace with a sharp object hanging on it.
+234:What's this...?
+235:It's a gift to thank you for teaching me a new way to experience life. The fang on this pendant is mine. I... hope you don't mind.
+236:Ein starts acting unusually reserved, as if he will take the pendant back if I don't want his fang. However, I'm someone who won't let go of anything, be it a duck or a fang, that falls into my hands, so I accept it quickly and nod in appreciation.
+237:Thanks, I'll take good care of it.
+238:Time passes leisurely, and Ein and I leave the dessert shop after finishing our shopping.
+239:One hour later
+240:Do you have any other part-time jobs to go to after this?
+241:Nope, I'm done for the day.
+242:Oh? Then what about dinner...
+243:Ein smiles and shakes his phone to clear up my confusion.
+244:I've received my pay for providing information about the teddy bear merch. Shall I take you to go hunting after this?
+245:Hunting...? But I'm thinking of going to the Mahjong Soul Shrine.
+246:I know.
+247:You showed me another way to experience life in One Han City, so it's time for me to show you another way to experience mahjong.
+248:Are you ready, {var:player_nickname}?
+249:When he mentions mahjong, Ein starts exuding an aura of confidence and strength. At this moment, he looks like he is worthy of being the future successor of his tribe.
+250:Of course, but I won't go easy on you.
+251:I won't admit defeat easily in anything related to mahjong.
+252:However, the game that Ein, Ichihime, Wanjirou, and I play at the Mahjong Soul Shrine on that day is a story for another time.
+253:As the saying goes, time is money. After careful consideration, I decisively abandon the scenic path and unhesitatingly join Ein to take the shortest path to our destination.
+254:This isn't about having sufficient physical strength or not. A forty-minute trip will just waste my precious time.
+255:I don't know if it's because Kaavi's prophecy has come true or not, but it isn't long after we start walking when we encounter a sign that says: "Emergency Maintenance, No Entry."
+256:...How troublesome. Do we need to walk all the way back?
+257:Leave this minor problem to me. Follow me.
+258:Because I trust Ein, I follow him without hesitation as he shuttles through various alleys. Although we take a bit of a detour, when I come to my senses, I realize that we've passed the road that is under maintenance.
+259:Amazing! Is this the ability of a delivery staff?!
+260:Haha, I guess so. Every good hunter must know how to avoid danger. After all, we also need to have excellent vision, smell, and hearing.
+261:This is a talent of your people. I'm so envious.
+262:Actually... you don't need to be envious.
+263:Do you want to be able to hear the footsteps coming from next door, the chatter of the elderly downstairs, or even whistling sounds from as far as a street away?
+264:I don't think I would like that. It sounds so noisy.
+265:Unfortunately, that's what I need to deal with every day. Sigh... my hometown is so quiet, so I never thought it could be so noisy anywhere.
+266:How did you solve this problem?
+267:I worked a few more part-time jobs and saved enough money to buy a pair of noise-canceling headphones so I could sleep peacefully.
+268:The worst thing about this is that it's a passive skill. You can't choose to get rid of it.
+269:You understand me so well. Besides, the climate here in One Han City is so different from the climate in my hometown that I started suffering from hay fever. Now I sneeze uncontrollably whenever there's pollen around me... Do you know how much I get paid to run errands for those florists?
+270:Sigh... I can only give up those jobs reluctantly.
+271:Don't be so...
+272:Just as I'm about to say something to comfort Ein, he suddenly shouts out loud.
+274:After hearing Ein's shout and feeling a strong tug, I realize that I've switched places with him, and there's now a fox covered with muddy water in front of me.
+275:I miscalculated. I forgot it rained last night and that there might be some puddles here.
+276:Are you okay?
+277:I'm fine.
+279:Ein doesn't keep me waiting for long before he comes back out. Although there's no more mud on him now, he is completely drenched.
+280:Five minutes later
+281:What happened to you...?
+282:...The restroom's faucet burst.
+283:It burst?
+284:I turned it gently, and the faucet... fell off.
+285:Huh?
+286:Oops, where's the "Under Maintenance" sign I left at the door? That faucet can't be used right now. Look at what's happened. What should I do about the water all over the floor...?
+287:Ein and I look at each other as we listen to the loud-voiced man next to us shout while walking. We're both thinking the same thing at this time.
+288:This must be a bout of bad luck.
+289:More than an hour passes before we manage to borrow a towel from that man and Ein manages to mostly dry his fur. Wearing his semi-dry clothes, Ein insists on taking me to the dessert shop even though I tell him we don't need to go, and it's obvious that he is talking less than he did before.
+290:The somewhat weathered signboard of the dessert shop appears in front of us after Ein finally says something after being silent for a long time.
+291:The only flaw is that... the selection is very limited because we've come too late. After noticing that several other customers who arrived too late like us are staring intently at the last few pieces of dessert, Ein rushes over like a small whirlwind and puts them on a plate for me.
+292:I'm sorry. I didn't think we would encounter so many problems along the way. These are the only ones that are left.
+293:It's alright. Neither of us wanted those accidents to happen.
+294:With Ein's help, I quickly pay for everything, then we leave the shop with the cakes the clerk has packed for us. Although we didn't buy much, the packaging is very complex to protect them from being damaged while being transported, so we ended up with four or five large boxes for just a few slices of cake.
+295:It looks like I'll need to see things through to the end and take you...
+296:*Ringing* Ein's mobile phone starts ringing suddenly.
+297:Oh no! I forgot that I've got another part-time job to go to soon.
+298:It's okay. Just go do what you need to do. I'll be fine with these things.
+299:Because I don't want Ein to be late for his part-time job, I show off my arm strength by lifting all the boxes in front of him. Ein looks anxiously at the time on his phone with some hesitation on his face. Seeing this, I decide to use my secret weapon.
+300:If you don't go now, you'll need to start worrying about your dinner.
+301:Ein is stunned for a moment like he has been hit on the head by a stick, then he says goodbye to me listlessly and leaves. That was dangerous! I almost had to pay for his dinner too. I wonder when I started to feed more and more people here in One Han City, which isn't good at all.
+302:After Ein disappears from my sight, I put down the boxes in my hand because they are inconvenient to carry even though they aren't heavy. Suddenly, my phone vibrates as I receive a message from Ein.
+303:(Text Message) After thinking about it, I decided to ask Zechs to help you take the desserts to the Mahjong Soul Shrine. You just need to wait where you are for a few minutes.
+304:(Text Message) He might be a little reckless, but he's still reliable.
+305:My smile starts to disappear from my face when I see the name clearly. When we meet later, I hope Zechs won't start the conversation by saying... "What? You can't even carry something like this? How weak can you be? Why don't I give you some special training?"
+306:I don't want to do any special training in a forest!
+307:Hot-blooded? ...Ahhhhh! {var:player_nickname}, you're feeling like that because you've spilled soup all over yourself! {var:Shake}
+309:Watch out! {var:Shake}
+313:Well... why don't we have something to eat first then? There's a fabulous ramen place around here.
+314:It seems that food has rescued Ein from the feelings of depression he had been experiencing due to his bad luck. After consuming two bags of cookies, a piece of bread, and a bottle of sparkling water, he starts taking me to the dessert shop at a vigorous pace.
+315:Not really. He's quite amiable most of the time, but he is the leader of the tribe, so he is stricter and more demanding of me. That's why I developed a habit of doing things faster and better than others since I was a child.
+319:I might not know who that is, but I'd like to meet this master
+320:I'm sure this person always tells your fortune... it's Miss Kaavi.
+321:Although things didn't go completely smoothly at our meal, the delicious food still makes me happy.
+322:You're right. True friends are those who can share their joys and sorrows with each other.
+323:Haha, why does it look like you're selling yourself to me?
+324:Ein's sleeveless shirt reveals his strong arms at this very moment, filling my mind with the image of him carrying me while running and jumping in the streets filled with cherry blossoms...
+325:He walks to one side and takes off his coat, then he moves vigorously to shake water droplets out of his fur. The mud, on the other hand, is much more difficult to clean from his fur. With mixed feelings, I drag him to a public restroom by the road.

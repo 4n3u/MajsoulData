@@ -1,0 +1,39 @@
+syntax = "proto3";
+
+package lq;
+
+import "com_struct.proto";
+
+message ReqHeartbeat {
+  uint32 delay = 1;
+  uint32 no_operation_counter = 2;
+  uint32 platform = 3;
+  uint32 network_quality = 4;
+}
+
+message ReqRequestConnection {
+  uint32 type = 2;
+  string route_id = 3;
+  uint64 timestamp = 4;
+}
+
+message ReqRequestRouteChange {
+  string before = 1;
+  string route_id = 2;
+  uint32 type = 3;
+}
+
+message ResHeartbeat {
+  .lq.Error error = 1;
+}
+
+message ResRequestConnection {
+  .lq.Error error = 1;
+  uint64 timestamp = 2;
+  uint32 result = 3;
+}
+
+message ResRequestRouteChange {
+  .lq.Error error = 1;
+  uint32 result = 3;
+}

@@ -1,0 +1,818 @@
+[
+  {
+    "line": 9,
+    "text": "player"
+  },
+  {
+    "line": 630,
+    "text": "4. The Peculiar Passerby"
+  },
+  {
+    "line": 631,
+    "text": "Jane"
+  },
+  {
+    "line": 632,
+    "text": "Hmm..."
+  },
+  {
+    "line": 633,
+    "text": "I see! I hadn't thought of that. Fascinating..."
+  },
+  {
+    "line": 636,
+    "text": "F-find something?"
+  },
+  {
+    "line": 638,
+    "text": "Um, are you finished yet...?"
+  },
+  {
+    "line": 639,
+    "text": "Hohoho! This will be your first time assisting me on a case, remember? I had to make sure you're ready!"
+  },
+  {
+    "line": 641,
+    "text": "Isn't this just how I usually am...?"
+  },
+  {
+    "line": 642,
+    "text": "It might seem that way at first, but in fact, there are signs all over to the contrary."
+  },
+  {
+    "line": 643,
+    "text": "For example, your collar is clean and neatly pressed, and you're wearing natural colors – good for keeping a low profile..."
+  },
+  {
+    "line": 644,
+    "text": "All the evidence points to a real effort on your part, {var:player_nickname}."
+  },
+  {
+    "line": 645,
+    "text": "Hohoho... No detail goes unnoticed by Jane, the great detective!"
+  },
+  {
+    "line": 646,
+    "text": "Um... Thanks, I guess?"
+  },
+  {
+    "line": 647,
+    "text": "With that, you've cleared the first stage. You remember what our mission is today, don't you, {var:player_nickname}?"
+  },
+  {
+    "line": 648,
+    "text": "Your first case as the probationary assistant to One Han City's top detective... begins now!"
+  },
+  {
+    "line": 649,
+    "text": "So, what are we doing?"
+  },
+  {
+    "line": 650,
+    "text": "I'll give it 110 percent."
+  },
+  {
+    "line": 651,
+    "text": "...Next, we'll review the steps of an investigation."
+  },
+  {
+    "line": 652,
+    "text": "{var:player_nickname}, what's the first thing a detective should do at the start of any investigation?"
+  },
+  {
+    "line": 654,
+    "text": "Fix their hair?"
+  },
+  {
+    "line": 656,
+    "text": "You know, that actually makes sense now that I think about it... By managing your appearance, you can blend right in and gather clues uninterrupted. You're good, {var:player_nickname}!"
+  },
+  {
+    "line": 657,
+    "text": "Correct!"
+  },
+  {
+    "line": 658,
+    "text": "Clues are a detective's bread and butter, and finding them requires a keen eye and detailed reasoning."
+  },
+  {
+    "line": 659,
+    "text": "So... Why don't we start with my phone? See anything on the screen?"
+  },
+  {
+    "line": 660,
+    "text": "The homepage newsfeed"
+  },
+  {
+    "line": 661,
+    "text": "Today's weather forecast"
+  },
+  {
+    "line": 662,
+    "text": "Very perceptive! Indeed, this is where the highest concentration of clues can be found. Let's see..."
+  },
+  {
+    "line": 664,
+    "text": "Can you believe that?! What a coincidence! Did you see that talk show episode, {var:player_nickname}?"
+  },
+  {
+    "line": 665,
+    "text": "It's fine if you haven't. It goes over case details that the public shouldn't know about in the first place."
+  },
+  {
+    "line": 666,
+    "text": "Reports like that grab people's attention, sure, but getting into too much detail wouldn't be appropriate."
+  },
+  {
+    "line": 667,
+    "text": "You seem like you're interested, though. When there's time, I'll fill you in on all the exciting details of the case myself!"
+  },
+  {
+    "line": 669,
+    "text": "\"Today in One Han City: Sunny and calm with mild temperatures. Chance of rain: 10% over the next 2 hours.\""
+  },
+  {
+    "line": 670,
+    "text": "You've even thought about what the weather will be later? Now that's planning ahead! As an assistant, you're pretty thorough!"
+  },
+  {
+    "line": 671,
+    "text": "...I'm not sure how to respond to that."
+  },
+  {
+    "line": 672,
+    "text": "Okay. You did well, but ultimately, clues found on your phone were processed by someone else."
+  },
+  {
+    "line": 673,
+    "text": "So, at best, they can give you a general lay of the land. The real detective work begins now..."
+  },
+  {
+    "line": 674,
+    "text": "{var:player_nickname}, have you ever tried your hand at criminal profiling?"
+  },
+  {
+    "line": 675,
+    "text": "At what?"
+  },
+  {
+    "line": 676,
+    "text": "I may have."
+  },
+  {
+    "line": 677,
+    "text": "Simply put, it's an investigative technique that analyzes criminal behavior and methods to identify suspects."
+  },
+  {
+    "line": 678,
+    "text": "The basic premise is that a person's physiology, behavior, and personality are connected and can be inferred from one another."
+  },
+  {
+    "line": 680,
+    "text": "Of course, these are just possible patterns – not evidence to draw conclusions from. Still, it's a useful technique for honing your detective skills."
+  },
+  {
+    "line": 681,
+    "text": "I see..."
+  },
+  {
+    "line": 682,
+    "text": "Sounds fascinating!"
+  },
+  {
+    "line": 683,
+    "text": "Hohoho! Well, what are we waiting for? Let's give it a try right now!"
+  },
+  {
+    "line": 686,
+    "text": "For example, why don't you try guessing what the next few people to walk by this main road do for a living?"
+  },
+  {
+    "line": 687,
+    "text": "Hmm..."
+  },
+  {
+    "line": 688,
+    "text": "The first person to walk by is a young man in a suit. He's wearing wireless earbuds and gold-rimmed glasses. He's speaking rapidly into his phone with a serious look on his face."
+  },
+  {
+    "line": 689,
+    "text": "A business professional, maybe?"
+  },
+  {
+    "line": 691,
+    "text": "He looks like some big-shot finance guy, doesn't he? But we can't draw hasty conclusions from his appearance alone."
+  },
+  {
+    "line": 692,
+    "text": "But we need more information, right? Good. Great investigators are always thorough!"
+  },
+  {
+    "line": 693,
+    "text": "We'd be taking a risk, but why don't we listen in on his conversation as he walks by?"
+  },
+  {
+    "line": 694,
+    "text": "Passerby"
+  },
+  {
+    "line": 696,
+    "text": "He sounds like... a sports commentator?"
+  },
+  {
+    "line": 697,
+    "text": "To be precise, the kind forced to stream outdoors for whatever reason. Looks like a tough gig..."
+  },
+  {
+    "line": 698,
+    "text": "The second person to walk by is a brawny, muscle-bound man with a bald head. He's wearing sunglasses and a tank top, and his arms are covered in small scars... I wouldn't want to mess with him."
+  },
+  {
+    "line": 699,
+    "text": "You don't think he's in a gang, do you?"
+  },
+  {
+    "line": 700,
+    "text": "The answer can't be that simple..."
+  },
+  {
+    "line": 701,
+    "text": "Hohoho... You know, {var:player_nickname}, when a detective can't nail down the truth, they check the scene for any \"inconsistencies.\" That's where you tend to find the key to solving the crime."
+  },
+  {
+    "line": 702,
+    "text": "Take this guy for example – he might look kind of scary, but first ask yourself... What's the probability that a gangster is just wandering around a busy street in broad daylight?"
+  },
+  {
+    "line": 703,
+    "text": "When you put it that way, it does seem unlikely..."
+  },
+  {
+    "line": 704,
+    "text": "Take a closer look at him... He has all those scars on his arms, but they look too shallow to be knife wounds. Cat scratches are more likely."
+  },
+  {
+    "line": 705,
+    "text": "Look again at his clothes. See all that animal hair? Now what do you think he does for a living, {var:player_nickname}?"
+  },
+  {
+    "line": 707,
+    "text": "Hehe, exactly. Now let's see about the next one..."
+  },
+  {
+    "line": 708,
+    "text": "Jane and I continue to deduce the occupations of passersby to give me more profiling practice."
+  },
+  {
+    "line": 709,
+    "text": "(A little while later...)"
+  },
+  {
+    "line": 711,
+    "text": "Yeah... I've never studied people on the street in such detail before."
+  },
+  {
+    "line": 712,
+    "text": "Isn't it fun? But since this isn't official detective work, this is as much as we can do. Any more staring and it gets a bit rude."
+  },
+  {
+    "line": 713,
+    "text": "Fair enough, but... I can't shake the feeling that someone's been watching us from behind..."
+  },
+  {
+    "line": 714,
+    "text": "Hohoho! You're not used to being in the spotlight, are you, {var:player_nickname}? Don't be surprised – a detective duo like us is bound to attract some attention."
+  },
+  {
+    "line": 715,
+    "text": "Alright, keep your voice down and look over there at our two o'clock, I think I see someone... This target we can observe a little more closely."
+  },
+  {
+    "line": 716,
+    "text": "Whispering to me and gesturing with her eyes, Jane directs my gaze to a young man standing at the entrance to a store holding a bouquet of flowers."
+  },
+  {
+    "line": 717,
+    "text": "He's wearing a casual suit, but he keeps fiddling with the collar. He looks a bit uncomfortable."
+  },
+  {
+    "line": 718,
+    "text": "He must be waiting for his date..."
+  },
+  {
+    "line": 719,
+    "text": "Precisely. However... I strongly suspect that, despite his best efforts, this date will end in failure."
+  },
+  {
+    "line": 720,
+    "text": "And what gives you that idea?"
+  },
+  {
+    "line": 721,
+    "text": "Hohoho, you look doubtful. Why don't we bet on it? I'll stand by my prediction."
+  },
+  {
+    "line": 722,
+    "text": "I'll explain my reasoning to you first."
+  },
+  {
+    "line": 723,
+    "text": "See the flowers he's holding? Those are yellow carnations."
+  },
+  {
+    "line": 724,
+    "text": "Yellow? Hmm... That's kind of an odd choice for a date."
+  },
+  {
+    "line": 725,
+    "text": "Exactly! They can imply disappointment, or at best give off a real \"let's just be friends\" vibe. Bringing those on a date – or giving them to someone you have a crush on – is definitely not the smartest move."
+  },
+  {
+    "line": 726,
+    "text": "But that won't be the killing blow. Notice how he can't stop scratching at his collar and the backs of his hands?"
+  },
+  {
+    "line": 727,
+    "text": "I saw that. Is it because he's so nervous he's sweating?"
+  },
+  {
+    "line": 728,
+    "text": "Not at all. Usually when people are nervous, they just fidget with their hands and clothes. His skin is clearly reacting to a fabric allergy."
+  },
+  {
+    "line": 730,
+    "text": "Look at how it sits on his shoulders – that cut is all wrong for his frame. Such inconsistencies are enough to prove my theory."
+  },
+  {
+    "line": 731,
+    "text": "He brought the wrong flowers for a date and got his outfit together at the last minute... If he's that careless and disorganized, what chance does he have?"
+  },
+  {
+    "line": 732,
+    "text": "You make some strong points..."
+  },
+  {
+    "line": 734,
+    "text": "Heh. We'll just have to wait and see who's right. Oh, look, here comes our leading lady now."
+  },
+  {
+    "line": 735,
+    "text": "Following Jane's eyes, I spot a girl in a white dress rushing over and then stopping before the young man."
+  },
+  {
+    "line": 736,
+    "text": "As she looks up at him, her eyes land on the bouquet of yellow carnations. Her expression freezes."
+  },
+  {
+    "line": 737,
+    "text": "Seemingly sensing the awkwardness in the air, the boy opens his mouth to explain. But then..."
+  },
+  {
+    "line": 738,
+    "text": "Man"
+  },
+  {
+    "line": 739,
+    "text": "\"Ah-CHOO!!\""
+  },
+  {
+    "line": 740,
+    "text": "His earthshaking sneeze thunders through the street. The boy rubs at his reddened nose, looking utterly miserable."
+  },
+  {
+    "line": 741,
+    "text": "Hohoho... And there you have it! Next comes the typical ending: The woman walks away in disgust, leaving the man heartbroken."
+  },
+  {
+    "line": 742,
+    "text": "Despite Jane's smugly-made prediction, there's no obvious trace of disgust in the girl's expression. In fact..."
+  },
+  {
+    "line": 744,
+    "text": "She doesn't seem offended, that's for sure..."
+  },
+  {
+    "line": 745,
+    "text": "Is she holding back laughter...?"
+  },
+  {
+    "line": 746,
+    "text": "Though she seems momentarily frozen in surprise, the girl doesn't frown or wince. If anything, her expression softens."
+  },
+  {
+    "line": 747,
+    "text": "Her shoulders relax, and the corners of her mouth start to twitch ever so slightly, like she's trying her best to contain something."
+  },
+  {
+    "line": 748,
+    "text": "Jane, your deduction might be a bust."
+  },
+  {
+    "line": 750,
+    "text": "Just as Jane is about to explain further, the girl bursts out laughing in the distance."
+  },
+  {
+    "line": 751,
+    "text": "Rather than hold the boy's tactlessness against him, she pulls a tissue from her bag and hands it to him, teasing him lightheartedly.//nBlushing, the boy scratches his head and, to our surprise, the two of them head off toward the shopping district with their hands clasped."
+  },
+  {
+    "line": 752,
+    "text": "..."
+  },
+  {
+    "line": 753,
+    "text": "What?!"
+  },
+  {
+    "line": 755,
+    "text": "Perhaps it was his clumsy sincerity itself that won her over."
+  },
+  {
+    "line": 756,
+    "text": "No way... I can't believe this... My profiles are never wrong..."
+  },
+  {
+    "line": 757,
+    "text": "Um... Excuse me..."
+  },
+  {
+    "line": 758,
+    "text": "Are you... Miss Jane, the detective? I saw your interview on \"Trailing the Truth\"..."
+  },
+  {
+    "line": 759,
+    "text": "Oh? So, you recognized me!"
+  },
+  {
+    "line": 761,
+    "text": "Hohoho, an accurate deduction! Standing before you is none other than Detective Jane – solver of countless confounding cases! Is there something I can do to assist, fine citizen?"
+  },
+  {
+    "line": 763,
+    "text": "No trouble at all! Recovering missing items may be basic detective work, but I'll still give it my full attention!"
+  },
+  {
+    "line": 766,
+    "text": "\"Roughly\"? \"Wandered\"? \"Nearby\"?"
+  },
+  {
+    "line": 767,
+    "text": "That won't do, that's far too vague."
+  },
+  {
+    "line": 768,
+    "text": "Which shops specifically did you enter after leaving the subway station? Which intersections did you stop at? When was the last time you confirmed you were still in possession of your wallet?"
+  },
+  {
+    "line": 769,
+    "text": "I... I can't really remember. I think I went into that stationery shop over there, and then I... I went into the alley next to it..."
+  },
+  {
+    "line": 771,
+    "text": "No... I'm not! I really just..."
+  },
+  {
+    "line": 772,
+    "text": "Um... Why don't we just forget it... If it's going to be this much trouble, I'd rather not look for it...!"
+  },
+  {
+    "line": 775,
+    "text": "Hey, it's okay, this is just how she operates. She's really particular about details, that's all."
+  },
+  {
+    "line": 776,
+    "text": "Maybe you can tell me what happened instead?"
+  },
+  {
+    "line": 777,
+    "text": "What matters is finding your wallet. Don't worry – we won't tell anyone, I promise."
+  },
+  {
+    "line": 778,
+    "text": "...! Oh... Okay... Thank you... I understand..."
+  },
+  {
+    "line": 779,
+    "text": "Th-the truth is... Something I ate at breakfast didn't agree with me and I couldn't find a restroom anywhere... That's why I went into that shop – to use their bathroom..."
+  },
+  {
+    "line": 781,
+    "text": "...I see, so that's why you withheld key testimony earlier."
+  },
+  {
+    "line": 782,
+    "text": "Got it. So, based on your account... we can draw three conclusions."
+  },
+  {
+    "line": 784,
+    "text": "That's right...!"
+  },
+  {
+    "line": 786,
+    "text": "Um... Wait... That's..."
+  },
+  {
+    "line": 787,
+    "text": "Three: Once you relieved yourself, you were so flustered that all you could think about was getting out of dodge – greatly increasing the odds that you'd leave something behind."
+  },
+  {
+    "line": 788,
+    "text": "Y-you're absolutely correct! But... please don't repeat any of that... It's so embarrassing I could die!"
+  },
+  {
+    "line": 789,
+    "text": "In conclusion, that shop is the first place we should look! Let's go, {var:player_nickname}! It's time to confirm the facts!"
+  },
+  {
+    "line": 790,
+    "text": "After that, we found the lost wallet on a shelf in the store's restroom as expected."
+  },
+  {
+    "line": 791,
+    "text": "Thank you so much, Detective Jane! And your kind assistant, too! I never would have gotten it back without your help!"
+  },
+  {
+    "line": 792,
+    "text": "After thanking us profusely, the passerby quickly runs off. Jane and I then resume our stroll down the streets."
+  },
+  {
+    "line": 793,
+    "text": "Ahem... We made a pretty good team there, {var:player_nickname}."
+  },
+  {
+    "line": 795,
+    "text": "Or you could adjust your questioning technique..."
+  },
+  {
+    "line": 796,
+    "text": "...Fine, you've made your point."
+  },
+  {
+    "line": 797,
+    "text": "{var:player_nickname}, your detective skills may still need some work, but when it comes to reading people and understanding feelings, you're a natural!"
+  },
+  {
+    "line": 798,
+    "text": "You were right. The truths I seek... can't be found with cold, hard logical analysis alone. There are times when emotions must also be considered..."
+  },
+  {
+    "line": 799,
+    "text": "Perhaps all this time my mind and judgment have been so rational that I've overlooked the clues that only intuition can unearth... I think you could be key to balancing that out for me."
+  },
+  {
+    "line": 800,
+    "text": "In any case... you've qualified as my assistant."
+  },
+  {
+    "line": 801,
+    "text": "From now on, you'll be sticking with me and providing any support you can, got it?"
+  },
+  {
+    "line": 802,
+    "text": "It would be an honor."
+  },
+  {
+    "line": 803,
+    "text": "I couldn't be happier."
+  },
+  {
+    "line": 804,
+    "text": "Whew... I know it was just a case of a missing wallet, but I'm surprised someone recognized me on the street."
+  },
+  {
+    "line": 805,
+    "text": "I guess that interview wasn't a complete disaster after all. My name is already spreading through the city! Hohoho..."
+  },
+  {
+    "line": 806,
+    "text": "What could be so disastrous about an interview...?"
+  },
+  {
+    "line": 807,
+    "text": "Nothing when it comes to a typical interview, but exclusives that reveal too many details of a case risk creating fertile ground for copycat offenders..."
+  },
+  {
+    "line": 808,
+    "text": "There's even an urban legend going around about a thief at large going by the name \"D\" who's been saying they'd never get caught for a \"simple\" theft like the ABC case..."
+  },
+  {
+    "line": 809,
+    "text": "A laughable claim... If they ever show their face, we'll show that larcenist just what we're made of!"
+  },
+  {
+    "line": 810,
+    "text": "Bzzz-bzzz..."
+  },
+  {
+    "line": 812,
+    "text": "A spam message, maybe...?"
+  },
+  {
+    "line": 813,
+    "text": "That has to be it. This phone is strictly for receiving assignments, so nobody will be getting in touch with me today."
+  },
+  {
+    "line": 814,
+    "text": "Hohoho... Meaning my time is all yours today! Quite the honor, wouldn't you say, my dear assistant?"
+  },
+  {
+    "line": 815,
+    "text": "Jane casually takes out her phone and glances at the screen."
+  },
+  {
+    "line": 816,
+    "text": "Immediately, her smug expression freezes and her gaze tenses."
+  },
+  {
+    "line": 817,
+    "text": "Jane? What is it?"
+  },
+  {
+    "line": 818,
+    "text": "You don't look so good."
+  },
+  {
+    "line": 819,
+    "text": "That's... not possible..."
+  },
+  {
+    "line": 820,
+    "text": "...Then, we actually were being watched, and by...?!"
+  },
+  {
+    "line": 821,
+    "text": "Sensing something amiss, I lean over and look at the screen of Jane's phone."
+  },
+  {
+    "line": 822,
+    "text": "It's a message from an unidentified sender that reads: \"The game isn't over yet, little miss detective.\""
+  },
+  {
+    "line": 823,
+    "text": "I look at the signature. It's the name from the rumors, the one people shudder at the mere mention of:"
+  },
+  {
+    "line": 824,
+    "text": "\"D\"."
+  },
+  {
+    "line": 825,
+    "text": "Why so cagey? This is sounding awfully suspicious... Tell me where you went! What were you doing?! Out with it!"
+  },
+  {
+    "line": 827,
+    "text": "I only stopped by a bakery on my way out this morning... then I sat for a bit in this maid cafe on the corner..."
+  },
+  {
+    "line": 829,
+    "text": "Wh-what else...! I-I... Last night, I fell off the wagon and snuck two extra bags of snacks...! A week before that, I littered somewhere no one would see...! And when I was a kid, I accidentally threw a rock through a window pane..."
+  },
+  {
+    "line": 830,
+    "text": "Apart from all that, I'm innocent! Please forgive me!!"
+  },
+  {
+    "line": 831,
+    "text": "I don't think I needed to know quite that much...?"
+  },
+  {
+    "line": 832,
+    "text": "Oh no... I-I'm sorry!"
+  },
+  {
+    "line": 833,
+    "text": "It took Jane and me a while to calm down the shaken stranger. Thankfully, we found the wallet in the end."
+  },
+  {
+    "line": 835,
+    "text": "I can see this was designed with convenience in mind. Very nice."
+  },
+  {
+    "line": 838,
+    "text": "But it looks like you're fully prepared, {var:player_nickname}! As a detective, I approve."
+  },
+  {
+    "line": 839,
+    "text": "Huh? Th-their hair? I'd never thought of that before!"
+  },
+  {
+    "line": 840,
+    "text": "\"Exclusive Feature: An Interview with the Genius Girl Detective!\"..."
+  },
+  {
+    "line": 841,
+    "text": "Oh? Interesting. Are you scoping out the environment, {var:player_nickname}? Let me see..."
+  },
+  {
+    "line": 842,
+    "text": "For instance... people's eyes dart around when they're lying, walking unsteadily is a sign of staying up too late, and being in Tenpai always gives people a tense look."
+  },
+  {
+    "line": 843,
+    "text": "You can even use this technique on people who haven't committed a crime?"
+  },
+  {
+    "line": 844,
+    "text": "Of course! Just because it's used in criminal investigations doesn't mean it can't be useful for everyday deduction."
+  },
+  {
+    "line": 845,
+    "text": "...Yes! That's it! What a play! The Glaciers score another point! Let's see that show of support from everyone watching the livestream!"
+  },
+  {
+    "line": 846,
+    "text": "I see! So, he could be a pet groomer!"
+  },
+  {
+    "line": 847,
+    "text": "What do you think? It's a bit like brainstorming, isn't it?"
+  },
+  {
+    "line": 848,
+    "text": "If that was his suit, this wouldn't be a surprise to him. The only explanation is that he rented it at the last minute, or maybe even borrowed it from a friend."
+  },
+  {
+    "line": 849,
+    "text": "Well, logic isn't everything in love, is it?"
+  },
+  {
+    "line": 850,
+    "text": "Huh? What's going on? Don't tell me she's actually amused by such a ridiculous scene?"
+  },
+  {
+    "line": 851,
+    "text": "Huh? A b-bust? That's impossible...! All the evidence pointed to – hang on, her microexpression..."
+  },
+  {
+    "line": 852,
+    "text": "W-wait a minute! This doesn't make any sense! It completely defies the logic of criminal profiling! He clearly did everything wrong!"
+  },
+  {
+    "line": 854,
+    "text": "That's incredible! You see, I was walking around nearby when I realized my wallet was missing... Something really important to me was in there... Could you help me look for it?"
+  },
+  {
+    "line": 855,
+    "text": "Now, walk me through everything you were doing before and after you realized your wallet was missing."
+  },
+  {
+    "line": 856,
+    "text": "Well... I came out of the subway station roughly half an hour ago, and then... I wandered around nearby..."
+  },
+  {
+    "line": 857,
+    "text": "The alley? Why would you go there? What business would you have in a place like that? Are you attempting to conceal something from me...?"
+  },
+  {
+    "line": 858,
+    "text": "There must be more to the story – gently coax out the truth"
+  },
+  {
+    "line": 859,
+    "text": "This story isn't adding up – blow it wide open"
+  },
+  {
+    "line": 862,
+    "text": "The \"good cop, bad cop\" schtick may be old-fashioned, but it gets the job done. I guess an assistant who understands the common folk really can fill in the gaps that I... uh, don't really care about."
+  },
+  {
+    "line": 863,
+    "text": "Huh? Is that my phone? I distinctly remember turning all those requests down..."
+  },
+  {
+    "line": 864,
+    "text": "Huh?!! I... I-I-I just... I was just..."
+  },
+  {
+    "line": 865,
+    "text": "Is that really all? What else?!"
+  },
+  {
+    "line": 869,
+    "text": "Th-that's right...! I'm really sorry, but I happened to overhear your conversation before, and... I was sure such a logical mind could only belong to that famous detective!"
+  },
+  {
+    "line": 870,
+    "text": "But then it turned out to be a really niche fan comic store... That's why I couldn't bring myself to say it... It would have been too embarrassing..."
+  },
+  {
+    "line": 871,
+    "text": "One: Your wallet went missing while you were in that store."
+  },
+  {
+    "line": 872,
+    "text": "Two: Given the urgency of your visit, you went straight to the restroom without stopping anywhere else in the store."
+  },
+  {
+    "line": 873,
+    "text": "After that, however... a strange rumor started to spread through One Han City about a pint-sized detective and her sinister assistant strong-arming their way through investigations..."
+  },
+  {
+    "line": 876,
+    "text": "Gather clues...?"
+  },
+  {
+    "line": 879,
+    "text": "He comes off like a business executive, but..."
+  }
+]

@@ -1,0 +1,50 @@
+6:player
+50:An Otherworldly Encounter
+51:Kirito
+52:...That reminds me – what is this place?
+54:Wait, wait, wait...
+56:So, this is actually...
+57:You mean, you don't know what's going on either? Oh well, I was only just summoned here out of nowhere myself.
+58:Summoned out of nowhere?
+59:Yeah. A hidden monster-slaying quest popped up on my screen. Just when I hit "Accept," I saw this blinding flash of light. When I came to my senses again, I was here.
+60:...Strange. This isn't some sort of bug, is it?
+61:Ichihime
+62:Kirito, please help us, nyaa!
+63:Sure. I accepted the quest, so I intend to see it through. But first things first – let's take stock of the situation.
+65:We're counting on you, Kirito.
+66:Leave it to me. The streets aren't safe right now, we'd better hurry...
+67:Huh...?! {var:player_nickname}, Ichihime! Watch out!
+68:Nyaa nyaa nyaaaa?!
+69:Kirito suddenly lunges forward with a swing of his sword to block an incoming arrow.
+70:These monsters have ranged attacks, too?!
+71:Monsters
+72:ROOOAAAR!
+73:Oh no, nyaa...! We're surrounded, there's no way we can make a run for it now, nyaa...
+74:That big dark one looks tough! Are you sure you'll be okay on your own, Kirito, nyaa?!
+75:Who said I was on my own?
+76:Asuna! Switch!
+77:Asuna
+78:Hyaaaah!!
+79:Grrurgh...!
+80:Wow! She's so pretty, nyaa!
+81:Perfect timing, Asuna!
+82:Now's not the time for compliments...! You gave us all a fright, running off so suddenly like that.
+83:Haha, sorry about that. But I knew you'd catch up with me, Asuna.
+84:O-of course! We rushed over as fast as we could!//nEveryone, let's take them down!
+85:Leafa
+86:Got it! I'll send these weaklings flying with my wind magic!
+87:Amazing! You took out most of those monsters in no time, nyaa!
+88:But the biggest one is still... Huh? Is that... a laser sight?
+89:Sinon
+90:Wind speed confirmed. Ballistics calculated...
+91:Locked on... Fire!
+92:Monster
+93:Ghk––!!
+94:So strong... That wiped them all out...
+95:Looks like everyone's here.
+96:I'd like to ask where we are... but I guess that'll have to wait.
+97:Agreed. Let's find a safe place to regroup and assess the situation first.
+99:I know One Han City like the back of my hand! As for a safe place... there's a cafe nearby, follow me!
+100:Alright, let's get going!
+103:You're Ichihime, right? And the one beside you... Your nickname reads {var:player_nickname}... Cool name. Nice to meet you both.
+104:{var:player_nickname}, are you familiar with the area? If you've been here before, you should have quite a bit of intel already.

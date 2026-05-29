@@ -1,0 +1,1086 @@
+[
+  {
+    "line": 4,
+    "text": "player"
+  },
+  {
+    "line": 555,
+    "text": "Run, Xenia! Run!"
+  },
+  {
+    "line": 556,
+    "text": "Xenia"
+  },
+  {
+    "line": 557,
+    "text": "Whew... *gasp* I think we finally lost them..."
+  },
+  {
+    "line": 558,
+    "text": "*gasp* I'm exhausted..."
+  },
+  {
+    "line": 560,
+    "text": "What was all that about?"
+  },
+  {
+    "line": 562,
+    "text": "Who were those people?"
+  },
+  {
+    "line": 563,
+    "text": "They're my bodyguards. They must have been sent to drag me home!"
+  },
+  {
+    "line": 564,
+    "text": "That old stick-in-the-mud, Marie, must have found out about \"our arrangement\"!"
+  },
+  {
+    "line": 565,
+    "text": "Our arrangement...?"
+  },
+  {
+    "line": 566,
+    "text": "Drag you home...?"
+  },
+  {
+    "line": 567,
+    "text": "Because you and I are going to..."
+  },
+  {
+    "line": 568,
+    "text": "???"
+  },
+  {
+    "line": 569,
+    "text": "Lady Xenia! Please show yourself! This would be easier for everyone."
+  },
+  {
+    "line": 570,
+    "text": "They've found us!"
+  },
+  {
+    "line": 571,
+    "text": "Pull Xenia into the nearby clothing store to hide."
+  },
+  {
+    "line": 572,
+    "text": "Tell Xenia to run while you create a diversion."
+  },
+  {
+    "line": 573,
+    "text": "Is there really room for two of us in here?!"
+  },
+  {
+    "line": 574,
+    "text": "There is no time to be picky! Get in here, quick!"
+  },
+  {
+    "line": 575,
+    "text": "Xenia and I take refuge in a fitting room inside the clothing store. It's a good hiding spot, but..."
+  },
+  {
+    "line": 576,
+    "text": "Are we... a little bit too close?"
+  },
+  {
+    "line": 577,
+    "text": "Xenia's body is pressed against mine in a tight hug. She is breathing heavily from the chase, and tiny beads of sweat glisten on her brow..."
+  },
+  {
+    "line": 578,
+    "text": "(whispers) {var:player_nickname}, can you move aside? Just a little."
+  },
+  {
+    "line": 579,
+    "text": "(whispers) Ah... sorry. I think this fitting room was meant for one... We'll have to make do."
+  },
+  {
+    "line": 580,
+    "text": "(whispers) I know! But still..."
+  },
+  {
+    "line": 581,
+    "text": "Bodyguard A"
+  },
+  {
+    "line": 582,
+    "text": "We haven't checked here yet!"
+  },
+  {
+    "line": 583,
+    "text": "Quiet! They're coming this way."
+  },
+  {
+    "line": 584,
+    "text": "... (Holding her breath)"
+  },
+  {
+    "line": 585,
+    "text": "Even without seeing it, I can feel Xenia's fingers clutching the edge of my sleeve."
+  },
+  {
+    "line": 586,
+    "text": "Bodyguard B"
+  },
+  {
+    "line": 587,
+    "text": "Hey! Over here! Lady Xenia must have dropped this glove!"
+  },
+  {
+    "line": 588,
+    "text": "Right! They must have gone out the back. Keep up!"
+  },
+  {
+    "line": 589,
+    "text": "Phew... The footsteps... are they getting away?"
+  },
+  {
+    "line": 590,
+    "text": "That was brilliant... I didn't even see you drop that."
+  },
+  {
+    "line": 591,
+    "text": "Hehe, I'm not one to lose my head in a crisis."
+  },
+  {
+    "line": 592,
+    "text": "Ahem... my shirt..."
+  },
+  {
+    "line": 593,
+    "text": "What were you about to say, Xenia?"
+  },
+  {
+    "line": 594,
+    "text": "Oh! Sorry, I was on a bit of an edge. But as I was saying –"
+  },
+  {
+    "line": 596,
+    "text": "For the next month, we're headed to the far North! I've heard that with a bit of luck, we might even see the aurora! How's that for a surprise?"
+  },
+  {
+    "line": 597,
+    "text": "No wonder they are trying to drag you home..."
+  },
+  {
+    "line": 598,
+    "text": "Are you sure this isn't just us eloping?"
+  },
+  {
+    "line": 599,
+    "text": "W-what are you talking about?! This is just an ordinary trip between friends!"
+  },
+  {
+    "line": 600,
+    "text": "In any case, Marie probably only knows that the two of us are together, not where we're headed."
+  },
+  {
+    "line": 601,
+    "text": "Makes sense, seeing as I'm part of this and I only just found out myself."
+  },
+  {
+    "line": 602,
+    "text": "Let's get to the docks. Once we board the ship, we'll be in the clear."
+  },
+  {
+    "line": 603,
+    "text": "They're in here! Don't let them slip away!"
+  },
+  {
+    "line": 604,
+    "text": "How did they find us again?! {var:player_nickname}, we need to move, now!"
+  },
+  {
+    "line": 605,
+    "text": "Looks like we need to find a place to lie low until the coast is clear."
+  },
+  {
+    "line": 606,
+    "text": "Take cover in the mahjong dojo."
+  },
+  {
+    "line": 607,
+    "text": "Take cover in Mahjong Soul Shrine."
+  },
+  {
+    "line": 608,
+    "text": "Fu Ji! Sorry to barge in, but could we hide here for a while?"
+  },
+  {
+    "line": 609,
+    "text": "Fu Ji"
+  },
+  {
+    "line": 611,
+    "text": "I can't believe Marie predicted we'd come here."
+  },
+  {
+    "line": 612,
+    "text": "So, Luck and Fortune isn't safe for us either. Shall we get going?"
+  },
+  {
+    "line": 613,
+    "text": "Jyanshi A"
+  },
+  {
+    "line": 614,
+    "text": "Hold on, you two. How about a round of mahjong?"
+  },
+  {
+    "line": 615,
+    "text": "I hear all you noble ladies do is have afternoon tea. I'd wager you can't even name all the yaku."
+  },
+  {
+    "line": 616,
+    "text": "Xenia shoots me a secret glance, waiting to see how I'd respond."
+  },
+  {
+    "line": 617,
+    "text": "That's a pretty obvious bait!"
+  },
+  {
+    "line": 618,
+    "text": "For the lady's honor, let's play!"
+  },
+  {
+    "line": 619,
+    "text": "Don't fall for it, Xenia. He's just stalling until Marie gets here."
+  },
+  {
+    "line": 620,
+    "text": "Hehe, you think that's gonna work on me?"
+  },
+  {
+    "line": 621,
+    "text": "Why don't you find a real rival to rehearse with before you try something like that?"
+  },
+  {
+    "line": 622,
+    "text": "{var:player_nickname}, we're leaving."
+  },
+  {
+    "line": 623,
+    "text": "Xenia casually hooks her arm in mine with a touch that's soft, yet feels as absolute and second nature as breathing."
+  },
+  {
+    "line": 624,
+    "text": "Wait, you're not playing? H-hey! How am I supposed to collect the bounty then? Stop! You can't just leave!"
+  },
+  {
+    "line": 626,
+    "text": "Oh, no, no, ma'am... no need for that! I'll see myself out!"
+  },
+  {
+    "line": 628,
+    "text": "Thank you, Miss Fu Ji! I will certainly return to thank you properly another day –"
+  },
+  {
+    "line": 629,
+    "text": "Thanks, Fu Ji!"
+  },
+  {
+    "line": 630,
+    "text": "Hehe... Just the tile I needed. Ron."
+  },
+  {
+    "line": 631,
+    "text": "What?! I thought you were just an amateur!"
+  },
+  {
+    "line": 632,
+    "text": "I take mahjong more seriously than anyone."
+  },
+  {
+    "line": 633,
+    "text": "D-darn it! I was only supposed to delay you, but you crushed me!"
+  },
+  {
+    "line": 634,
+    "text": "Bodyguard C"
+  },
+  {
+    "line": 635,
+    "text": "Impressive, my lady. Now that you've won, it is time for you to return home."
+  },
+  {
+    "line": 636,
+    "text": "Hmph, naturally..."
+  },
+  {
+    "line": 637,
+    "text": "Wait! When did you get in here?!"
+  },
+  {
+    "line": 638,
+    "text": "Ichihime! Can we hide in the mahjong room for a bit?"
+  },
+  {
+    "line": 639,
+    "text": "Kaguyahime"
+  },
+  {
+    "line": 640,
+    "text": "Well now, human! Shorty ran off to the market for free samples, so this shrine is all mine now."
+  },
+  {
+    "line": 641,
+    "text": "...I can work with that! Kaguyahime, can you let us hide here for a bit?"
+  },
+  {
+    "line": 642,
+    "text": "Hehe, certainly! I just happened to brew a pot of excellent tea. You should feel honored to try some."
+  },
+  {
+    "line": 643,
+    "text": "I could certainly use a drink after all that running..."
+  },
+  {
+    "line": 644,
+    "text": "Hold on, that teapot looks a bit familiar..."
+  },
+  {
+    "line": 645,
+    "text": "The teapot and these tea leaves are part of my private collection from the Moon Palace. A rare sight for mortals."
+  },
+  {
+    "line": 646,
+    "text": "I'm sharing my treasures with you, so what are you waiting for? Drink!"
+  },
+  {
+    "line": 647,
+    "text": "Drink the tea."
+  },
+  {
+    "line": 648,
+    "text": "Refuse the tea."
+  },
+  {
+    "line": 649,
+    "text": "Kaguyahime will probably throw us out if I refuse. Best to just drink it..."
+  },
+  {
+    "line": 650,
+    "text": "Gulp, gulp, gulp... Huh? Kaguyahime, why do you have four rabbit ears...?"
+  },
+  {
+    "line": 651,
+    "text": "My head is spinning... It's a trap..."
+  },
+  {
+    "line": 652,
+    "text": "Hehe! That offering from the mortal in the black suit was a treasure indeed. It just so happens that its primary effect is to soothe the mind and help one sleep."
+  },
+  {
+    "line": 653,
+    "text": "This is too much of a coincidence. Kaguyahime, what are you up to?"
+  },
+  {
+    "line": 654,
+    "text": "Wh-what?! You figured it out?"
+  },
+  {
+    "line": 655,
+    "text": "What was I to do? This bejeweled antique teapot offered by that fellow in black was just too perfect for my Moon Palace lemons..."
+  },
+  {
+    "line": 656,
+    "text": "As part of the bargain, I have to hand you over. Hehehe!"
+  },
+  {
+    "line": 657,
+    "text": "Oh no... Xenia, run! I'll hold them off!"
+  },
+  {
+    "line": 658,
+    "text": "Hold on – Kaguyahime, you've been completely fooled!"
+  },
+  {
+    "line": 659,
+    "text": "You think that's a treasure? I use better-looking pots as doorstops! Seriously, take as many as you want – my treat!"
+  },
+  {
+    "line": 660,
+    "text": "What?! I was told it was a one-of-a-kind! So this thing I've been fawning over is just a common trinket?"
+  },
+  {
+    "line": 661,
+    "text": "Hmph... I was just messing with you! {var:player_nickname}, run for it!"
+  },
+  {
+    "line": 662,
+    "text": "R-right!"
+  },
+  {
+    "line": 663,
+    "text": "Honestly, what were you thinking? If you get caught, what's the point of this trip for me?"
+  },
+  {
+    "line": 664,
+    "text": "Xenia..."
+  },
+  {
+    "line": 665,
+    "text": "Don't be so reckless again. Let's move, that rabbit won't let this go so easily!"
+  },
+  {
+    "line": 666,
+    "text": "Loudspeaker"
+  },
+  {
+    "line": 667,
+    "text": "Welcome, everyone, to the mall's Couple Challenge! It's wonderful to see so many of you here with us today..."
+  },
+  {
+    "line": 668,
+    "text": "*gasp* These guys... Marie is unbelievably relentless..."
+  },
+  {
+    "line": 669,
+    "text": "{var:player_nickname}... Let's blend into the crowd!"
+  },
+  {
+    "line": 670,
+    "text": "Colorful ribbons flutter in the mall's atrium, where a host stands on stage holding a microphone before a bustling crowd. Xenia and I blend in, wary of the danger that could be right behind us..."
+  },
+  {
+    "line": 671,
+    "text": "Host"
+  },
+  {
+    "line": 672,
+    "text": "Hey, you two over there! The couple that seems so perfectly in sync! Yes, you! Come on up and join our \"Couple's Lucky Quiz Challenge\" to win the grand prize – a luxury cruise for two!"
+  },
+  {
+    "line": 673,
+    "text": "U-us?!"
+  },
+  {
+    "line": 674,
+    "text": "Let's go, we'll be in trouble if we get stuck here!"
+  },
+  {
+    "line": 675,
+    "text": "But before we can bolt, two staff members squeeze through the crowd and escort us onto the stage. A spotlight instantly falls on us, and Xenia's face immediately flushes red."
+  },
+  {
+    "line": 676,
+    "text": "Let's have a round of applause for this beautiful young lady! Please, say hello to everyone!"
+  },
+  {
+    "line": 677,
+    "text": "Hello, everyone. I am Xenia."
+  },
+  {
+    "line": 678,
+    "text": "Now's not the time to be giving out your real name..."
+  },
+  {
+    "line": 679,
+    "text": "A noble must never forget their station, no matter the circumstances."
+  },
+  {
+    "line": 680,
+    "text": "And now, let's hear from the lady's companion! Please introduce yourself!"
+  },
+  {
+    "line": 681,
+    "text": "I am {var:player_nickname}."
+  },
+  {
+    "line": 682,
+    "text": "I'm just a concerned citizen, Kitty Head."
+  },
+  {
+    "line": 683,
+    "text": "Well said, {var:player_nickname}. We're clearly cut from the same cloth."
+  },
+  {
+    "line": 684,
+    "text": "Pleasure to meet you, Jyanshi Kitty Head."
+  },
+  {
+    "line": 685,
+    "text": "Haha, you two certainly have a sense of humor! And what is the relationship between you?"
+  },
+  {
+    "line": 686,
+    "text": "Well, this is my..."
+  },
+  {
+    "line": 687,
+    "text": "Friend"
+  },
+  {
+    "line": 688,
+    "text": "Lover"
+  },
+  {
+    "line": 689,
+    "text": "Mhm, we're friends!"
+  },
+  {
+    "line": 690,
+    "text": "Oh, so you're \"just friends\"? But from the way you look at each other, your bond must be something special! Are you sure you're not actually a couple?"
+  },
+  {
+    "line": 691,
+    "text": "C-couple?! W-wait just a minute!"
+  },
+  {
+    "line": 692,
+    "text": "Get through this challenge first! I'll explain later!"
+  },
+  {
+    "line": 693,
+    "text": "Wow! So you ARE a couple! In that case, let's get to the questions!"
+  },
+  {
+    "line": 694,
+    "text": "W-what nonsense are you saying?!"
+  },
+  {
+    "line": 695,
+    "text": "When you're on the road, you can be whoever you want. I was just trying to get this challenge over with..."
+  },
+  {
+    "line": 696,
+    "text": "That's not what's bothering me! Just... I'll deal with you later."
+  },
+  {
+    "line": 697,
+    "text": "Alright, question one: Where is your most frequent date spot?"
+  },
+  {
+    "line": 698,
+    "text": "Look! Over there! I think they've found us!"
+  },
+  {
+    "line": 699,
+    "text": "Stay calm! Just answer the question! The mahjong room!"
+  },
+  {
+    "line": 700,
+    "text": "Huh? That doesn't count as a date... but fine, yes, the mahjong room."
+  },
+  {
+    "line": 701,
+    "text": "Next, question two: What is a hobby you both share?"
+  },
+  {
+    "line": 704,
+    "text": "Great chemistry! Question three: Use one word to describe what the other person means to you!"
+  },
+  {
+    "line": 705,
+    "text": "The bodyguards are closing in. Xenia suddenly grabs my hand."
+  },
+  {
+    "line": 706,
+    "text": "Stay calm. Just say something. Anything."
+  },
+  {
+    "line": 707,
+    "text": "The moment our eyes meet, I know my answer –"
+  },
+  {
+    "line": 708,
+    "text": "Important"
+  },
+  {
+    "line": 709,
+    "text": "Special"
+  },
+  {
+    "line": 710,
+    "text": "Important."
+  },
+  {
+    "line": 711,
+    "text": "Special."
+  },
+  {
+    "line": 712,
+    "text": "Audience"
+  },
+  {
+    "line": 713,
+    "text": "Awwww –"
+  },
+  {
+    "line": 714,
+    "text": "Such perfect answers! You two might actually win the grand prize! Now, for the next question!"
+  },
+  {
+    "line": 715,
+    "text": "There's more?!"
+  },
+  {
+    "line": 716,
+    "text": "Quick, look! It's Lady Xenia on the stage!"
+  },
+  {
+    "line": 717,
+    "text": "Let someone else have a turn!"
+  },
+  {
+    "line": 718,
+    "text": "We're in a rush!"
+  },
+  {
+    "line": 719,
+    "text": "Bodyguard D"
+  },
+  {
+    "line": 720,
+    "text": "Please stop right there!"
+  },
+  {
+    "line": 721,
+    "text": "Phew... That was quite a scene. If Marie saw me just now, she'd lecture me again about my \"lack of noble manners.\""
+  },
+  {
+    "line": 722,
+    "text": "Still, it was definitely a memorable experience in this sort of commoner event with you."
+  },
+  {
+    "line": 723,
+    "text": "Uh... Thanks, I guess?"
+  },
+  {
+    "line": 724,
+    "text": "Hmph, just take it as a compliment on your ability to improvise. By the way, {var:player_nickname}... that answer you gave earlier... were you really just \"saying anything\"?"
+  },
+  {
+    "line": 725,
+    "text": "Hmm? Which answer?"
+  },
+  {
+    "line": 726,
+    "text": "Are you really that slow, or just playing dumb right now? The one about me being... \"important,\" obviously."
+  },
+  {
+    "line": 727,
+    "text": "Are you really that slow, or just playing dumb right now? The one about me being... \"special,\" obviously."
+  },
+  {
+    "line": 728,
+    "text": "Well, what do you think?"
+  },
+  {
+    "line": 729,
+    "text": "Hmph, using that quick thinking of yours on me, I see. Nice try, {var:player_nickname}."
+  },
+  {
+    "line": 730,
+    "text": "Enough talk. We have to get to the docks now, or the ship will depart. Hurry."
+  },
+  {
+    "line": 731,
+    "text": "Okay."
+  },
+  {
+    "line": 732,
+    "text": "Phew – We made it!"
+  },
+  {
+    "line": 733,
+    "text": "Ten minutes till departure!"
+  },
+  {
+    "line": 734,
+    "text": "Wait... they're here!"
+  },
+  {
+    "line": 735,
+    "text": "A group of men in black emerges from nowhere, surrounding us. The one in the lead looks particularly menacing."
+  },
+  {
+    "line": 736,
+    "text": "Chief Bodyguard"
+  },
+  {
+    "line": 737,
+    "text": "Game over, Lady Xenia."
+  },
+  {
+    "line": 738,
+    "text": "..."
+  },
+  {
+    "line": 739,
+    "text": "Escort Lady Xenia to the car. As for the other... tie the hands, and into the trunk."
+  },
+  {
+    "line": 740,
+    "text": "Nobody moves!"
+  },
+  {
+    "line": 741,
+    "text": "Xenia?"
+  },
+  {
+    "line": 742,
+    "text": "Xenia suddenly pulls me behind her."
+  },
+  {
+    "line": 743,
+    "text": "I will go with you, on the condition that you let {var:player_nickname} go. If you so much as lay a finger on {var:player_nickname}, I promise you will regret it."
+  },
+  {
+    "line": 744,
+    "text": "{var:player_nickname}, go now."
+  },
+  {
+    "line": 745,
+    "text": "Take Xenia's hand."
+  },
+  {
+    "line": 746,
+    "text": "Push Xenia toward the ship."
+  },
+  {
+    "line": 747,
+    "text": "The moment our hands touch, I feel how cold her fingertips are, and how she trembles slightly. She is not as composed as she pretends to be."
+  },
+  {
+    "line": 748,
+    "text": "Wait, what are you doing?"
+  },
+  {
+    "line": 749,
+    "text": "Xenia, you have the right to choose your own path."
+  },
+  {
+    "line": 750,
+    "text": "No matter how archaic your family's rules are. As long as I am here, I will make sure you can do what you truly want to do."
+  },
+  {
+    "line": 751,
+    "text": "{var:player_nickname}..."
+  },
+  {
+    "line": 752,
+    "text": "Get on the ship, now. I'll hold them off. Go!"
+  },
+  {
+    "line": 753,
+    "text": "..."
+  },
+  {
+    "line": 754,
+    "text": "You're a fool."
+  },
+  {
+    "line": 755,
+    "text": "Xenia?"
+  },
+  {
+    "line": 756,
+    "text": "A low whistle from the ship's horn echoes from afar. It is about to depart. But Xenia's slender frame is like a rose rooted to the ground, refusing to move an inch."
+  },
+  {
+    "line": 757,
+    "text": "She hangs her head low, letting long hair veil her expression. Only when the sea breeze tosses a few strands do you catch a fleeting glimpse of her lips, set in a grim, straight line."
+  },
+  {
+    "line": 758,
+    "text": "I'm not going."
+  },
+  {
+    "line": 759,
+    "text": "You're right. And I'm ready to face anything, as long as I'm with you."
+  },
+  {
+    "line": 760,
+    "text": "Because... it's somewhere I personally want to go..."
+  },
+  {
+    "line": 761,
+    "text": "...with {var:player_nickname}, and no one else!"
+  },
+  {
+    "line": 762,
+    "text": "So even if we don't make it today, I will never, ever give up!"
+  },
+  {
+    "line": 763,
+    "text": "Her eyelashes flutter like a butterfly's wings in the wind, but her gaze on me remains unyielding."
+  },
+  {
+    "line": 764,
+    "text": "A luxury sports car pulls up before us, and a familiar, impeccably dressed figure steps out."
+  },
+  {
+    "line": 765,
+    "text": "Ma'am."
+  },
+  {
+    "line": 766,
+    "text": "Let's just get this over with..."
+  },
+  {
+    "line": 767,
+    "text": "Great. I'll be hearing about this all night..."
+  },
+  {
+    "line": 768,
+    "text": "Marie"
+  },
+  {
+    "line": 769,
+    "text": "What part of \"I'm calling it off\" did you not understand?! Explain yourselves!"
+  },
+  {
+    "line": 770,
+    "text": "F-forgive us, Ma'am! But if any harm came to Lady Xenia, it would have been on us! So..."
+  },
+  {
+    "line": 771,
+    "text": "Enough! I will deal with you all later! The important thing right now is..."
+  },
+  {
+    "line": 772,
+    "text": "Xenia closes her eyes and takes a breath, preparing to face the hurricane that is Marie."
+  },
+  {
+    "line": 773,
+    "text": "My deepest apologies, my lady. And to you as well, {var:player_nickname}."
+  },
+  {
+    "line": 774,
+    "text": "I take full responsibility for what happened."
+  },
+  {
+    "line": 775,
+    "text": "Huh? Wait, what's happening?"
+  },
+  {
+    "line": 776,
+    "text": "I thought you were here to drag us back?"
+  },
+  {
+    "line": 777,
+    "text": "No... Once I learned of your plans to travel with {var:player_nickname}, my lady, I at once began making the necessary arrangements."
+  },
+  {
+    "line": 778,
+    "text": "I did not anticipate you would leave without notice, though, which triggered the Servant Code Red... That's why they came to find you. Again, allow me to apologize on behalf of them all..."
+  },
+  {
+    "line": 779,
+    "text": "Servant Code Red... Xenia, just what kind of life have you been living..."
+  },
+  {
+    "line": 780,
+    "text": "So... does that mean I can go traveling with {var:player_nickname}?"
+  },
+  {
+    "line": 781,
+    "text": "Yes, my lady. I have taken the liberty of preparing luggage and funds you might require. And I can assure you that no one will be assigned to track or monitor you."
+  },
+  {
+    "line": 782,
+    "text": "Based on my observations over the past few days, I have concluded that {var:player_nickname} is capable of taking good care of you, my lady."
+  },
+  {
+    "line": 783,
+    "text": "Marie..."
+  },
+  {
+    "line": 784,
+    "text": "That said, please do check in with us at least once a week to confirm your well-being. And when the trip concludes, you are required to return to the manor in One Han City within a three-hour time frame."
+  },
+  {
+    "line": 785,
+    "text": "Now that's the old stick-in-the-mud Marie I know...!"
+  },
+  {
+    "line": 786,
+    "text": "...Very well, my lady. Go and see the world as you've wished."
+  },
+  {
+    "line": 787,
+    "text": "{var:player_nickname}, I leave my lady in your care."
+  },
+  {
+    "line": 788,
+    "text": "I understand!"
+  },
+  {
+    "line": 789,
+    "text": "Look, {var:player_nickname}! It's the real aurora!"
+  },
+  {
+    "line": 790,
+    "text": "It's stunning... This is my first time seeing it as well. It's so much more spectacular than what you see on TV..."
+  },
+  {
+    "line": 791,
+    "text": "It truly is. I'm so glad I could see it with you, Xenia."
+  },
+  {
+    "line": 792,
+    "text": "Hmph, I told you, didn't I? I promised this trip would not disappoint."
+  },
+  {
+    "line": 793,
+    "text": "Oh, and take a look at this."
+  },
+  {
+    "line": 796,
+    "text": "Will you accompany me next time? I heard there are fruit trees of the most extraordinary colors – they can bloom with flowers of ten different shades! Do you think they might be even more beautiful than the aurora?"
+  },
+  {
+    "line": 797,
+    "text": "Hmm? (Does such a plant actually exist?)"
+  },
+  {
+    "line": 798,
+    "text": "I also want to attend the afternoon tea party of a rainforest tribe. They say their specialty dish is \"Lemon-Grilled Piranha Head.\" Sounds interesting, doesn't it?"
+  },
+  {
+    "line": 799,
+    "text": "Afternoon tea party? In a rainforest tribe?"
+  },
+  {
+    "line": 800,
+    "text": "And the annual migration festival in the Valley of Insects. Last year, a swarm of butterflies passed through and dyed the entire sky purple. Though one might run into poisonous spiders hitching a ride... Oh, and that famous, uninhabited western valley! With luck, we might encounter a mysterious band of ghost tour guides."
+  },
+  {
+    "line": 801,
+    "text": "Hold on, Xenia. Where in the world are you getting these travel ideas?!"
+  },
+  {
+    "line": 802,
+    "text": "This travel guide. I dug it up in an old bookstore."
+  },
+  {
+    "line": 803,
+    "text": "So all your travel plans are for places that insurance companies would refuse to cover?"
+  },
+  {
+    "line": 804,
+    "text": "I'm beginning to understand why Marie is always so worried about you..."
+  },
+  {
+    "line": 805,
+    "text": "Well, I've got my personal expert tour guide, {var:player_nickname}. You won't let anything happen to me, right?"
+  },
+  {
+    "line": 806,
+    "text": "I'll... I'll think about it."
+  },
+  {
+    "line": 807,
+    "text": "What's that? Sounds like a \"yes\" to me!"
+  },
+  {
+    "line": 808,
+    "text": "...As you wish, my lady."
+  },
+  {
+    "line": 810,
+    "text": "One... must... refrain... from... being... boisterous... at... meals..."
+  },
+  {
+    "line": 811,
+    "text": "It's just not fair! Our plan was flawless. How on earth did they bust us?"
+  },
+  {
+    "line": 812,
+    "text": "One must sip one's soup silently..."
+  },
+  {
+    "line": 813,
+    "text": "(whispers) If we learn her routine, we can nail it next time. I know we can."
+  },
+  {
+    "line": 815,
+    "text": "*sigh* At this rate, when will I ever get to decide my own destinations?"
+  },
+  {
+    "line": 817,
+    "text": "Sorry, our escape plan didn't work."
+  },
+  {
+    "line": 818,
+    "text": "Hmm? This isn't your fault."
+  },
+  {
+    "line": 819,
+    "text": "The truth is... I never would've had the guts to even think about escaping if you weren't here."
+  },
+  {
+    "line": 820,
+    "text": "Ahem. I am relieved you saw fit to return, but do not think for a moment that the rules of decorum do not apply."
+  },
+  {
+    "line": 821,
+    "text": "Which means, no chitchat!"
+  },
+  {
+    "line": 822,
+    "text": "{var:player_nickname}, if I hear you speak to my lady again, her homework will be doubled."
+  },
+  {
+    "line": 824,
+    "text": "Good. You may proceed."
+  },
+  {
+    "line": 825,
+    "text": "Marie turns and walks away. As her footsteps grow distant, Xenia springs back to life, whispering in my ear with a brilliant sparkle in her eyes."
+  },
+  {
+    "line": 826,
+    "text": "We'll try again the next time we get a chance, when Marie's distracted. I HAVE to see the aurora in the North with my own two eyes! And with my new plan, failure is not an option!"
+  },
+  {
+    "line": 827,
+    "text": "Agreed! Let's do it!"
+  },
+  {
+    "line": 833,
+    "text": "Mahjong!"
+  },
+  {
+    "line": 834,
+    "text": "Mahjong!"
+  },
+  {
+    "line": 838,
+    "text": "Yes, Marie!"
+  },
+  {
+    "line": 839,
+    "text": "Yes, Marie!"
+  },
+  {
+    "line": 842,
+    "text": "Here you go. These are tickets for a ship leaving today."
+  },
+  {
+    "line": 843,
+    "text": "Isn't that another ship ticket? You already showed me one."
+  },
+  {
+    "line": 844,
+    "text": "Yes and no. Our journey isn't over yet! This is a pair of tickets for a trip to the South."
+  },
+  {
+    "line": 845,
+    "text": "Sunlight streams through the stained glass, pooling on the open pages of the Code of Noble Etiquette. Xenia reads in a listless drone, her curls spilling onto the book – the very image of a wilting Persian cat."
+  },
+  {
+    "line": 846,
+    "text": "Well, well, look who it is. A moment ago, some men in black came by and put down a bag of Coppers. Seems there's a bounty on your heads."
+  },
+  {
+    "line": 847,
+    "text": "Oh? We don't welcome Jyanshi with ulterior motives in this dojo. Now, are you going to leave quietly, or do I have to \"persuade\" you with my fan?"
+  },
+  {
+    "line": 848,
+    "text": "Okay, seeing as it's an emergency, I'll go ahead and put your \"protection fee\" on your tab."
+  }
+]
