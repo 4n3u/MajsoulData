@@ -1,7 +1,7 @@
 {
-  "bg": 0,
-  "title": 0,
-  "copyright©": 0,
-  "confirm_btn": 0,
-  "signin_btn": 0
+  "main_title": 0,
+  "main_btn_confirm": 0,
+  "main_btn_signin": 0,
+  "main_copyright": 0,
+  "main_logo": 0
 }

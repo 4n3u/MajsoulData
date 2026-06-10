@@ -6285,5 +6285,10 @@
     "id": 260591,
     "type": "daily_sign",
     "need_popout": 1
+  },
+  {
+    "id": 260691,
+    "type": "daily_sign",
+    "need_popout": 1
   }
 ]

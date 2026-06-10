@@ -28717,135 +28717,87 @@
       "fileType": 1
     },
     {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\bg.png",
+      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\icon.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_bg.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_btn_confirm.png",
       "fileType": 1
     },
     {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\confirm_btn.png",
+      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_btn_signin.png",
       "fileType": 1
     },
     {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\copyright©.png",
+      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_copyright.png",
       "fileType": 1
     },
     {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\d1.png",
+      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_icon_base.png",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\d2.png",
+      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_icon_base_big.png",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\d3.png",
+      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_icon_claim.png",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\d4.png",
+      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_icon_claim_cover.png",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\d5.png",
+      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_icon_claim_cover_big.png",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\d6.png",
+      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_icon_day1.png",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\d7.png",
+      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_icon_day2.png",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\illust.png",
+      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_icon_day3.png",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\illust_01.png",
+      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_icon_day4.png",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\item_claime.png",
+      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_icon_day5.png",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\item_claime_d7.png",
+      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_icon_number_base.png",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\item_claimed.png",
+      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_illust.png",
       "fileType": 0
     },
     {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\item_claimed_d7.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\item_d1.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\item_d2.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\item_d3.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\item_d4.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\item_d5.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\item_d6.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\item_d7.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\number_0.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\number_1.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\number_2.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\number_3.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\number_4.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\number_5.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\number_6.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\number_7.png",
-      "fileType": 0
-    },
-    {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\signin_btn.png",
+      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_logo.png",
       "fileType": 1
     },
     {
-      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\title.png",
+      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_mask.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_signindays_base.png",
+      "fileType": 0
+    },
+    {
+      "filepath": "ui\\activity\\extend\\sign_sp\\main\\pic\\main_title.png",
       "fileType": 1
     },
     {
@@ -30098,6 +30050,10 @@
     },
     {
       "filepath": "ui\\activity\\lobby\\banner_lobby\\pic\\26qingyun_0.png",
+      "fileType": 1
+    },
+    {
+      "filepath": "ui\\activity\\lobby\\banner_lobby\\pic\\signin_sp.png",
       "fileType": 1
     },
     {
