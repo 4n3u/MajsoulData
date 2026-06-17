@@ -8646,6 +8646,132 @@
     }
   },
   {
+    "id": 1509,
+    "chest_id": 1000,
+    "icon": "deco/character/akagi/bighead.png",
+    "item_id": 200050,
+    "price": 150,
+    "need_amount": null,
+    "check_activity": 260611,
+    "launch_time": null,
+    "remove_limit_mark": null,
+    "sort": 1,
+    "name": {
+      "chs": "赤木茂",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1510,
+    "chest_id": 1000,
+    "icon": "deco/character/washizu/bighead.png",
+    "item_id": 200051,
+    "price": 150,
+    "need_amount": null,
+    "check_activity": 260611,
+    "launch_time": null,
+    "remove_limit_mark": null,
+    "sort": 2,
+    "name": {
+      "chs": "鹫巢岩",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1511,
+    "chest_id": 1000,
+    "icon": "deco/effect_hupai/ron_akagi/pic/ron_akagi.jpg",
+    "item_id": 308011,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260611,
+    "launch_time": null,
+    "remove_limit_mark": null,
+    "sort": 1001,
+    "name": {
+      "chs": "和牌-地狱低语",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1512,
+    "chest_id": 1000,
+    "icon": "deco/effect_lizhi/effect_liqi_akagi/pic/effect_liqi_akagi.jpg",
+    "item_id": 308012,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260611,
+    "launch_time": null,
+    "remove_limit_mark": null,
+    "sort": 1002,
+    "name": {
+      "chs": "立直-幽冥之焰",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1513,
+    "chest_id": 1000,
+    "icon": "deco/lizhibang/liqi_akagi/pic/liqi_akagi.jpg",
+    "item_id": 308013,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260611,
+    "launch_time": null,
+    "remove_limit_mark": null,
+    "sort": 1003,
+    "name": {
+      "chs": "立直棒-命悬一线",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1514,
+    "chest_id": 1000,
+    "icon": "deco/tablecloth/tablecloth_akagi/pic/tablecloth_akagi.jpg",
+    "item_id": 308014,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260611,
+    "launch_time": null,
+    "remove_limit_mark": null,
+    "sort": 1004,
+    "name": {
+      "chs": "桌布-传说之夜",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 1515,
+    "chest_id": 1000,
+    "icon": "deco/mjpai/mjp_akagi/pic/mjp_akagi.jpg",
+    "item_id": 308015,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260611,
+    "launch_time": null,
+    "remove_limit_mark": null,
+    "sort": 1005,
+    "name": {
+      "chs": "牌背-双鹫纹章",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
     "id": 1999,
     "chest_id": 1000,
     "icon": "extendRes/items/wishstone.jpg",
@@ -17304,6 +17430,132 @@
     "sort": 1004,
     "name": {
       "chs": "对局BGM-优雅格调",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3509,
+    "chest_id": 1001,
+    "icon": "deco/character/akagi/bighead.png",
+    "item_id": 200050,
+    "price": 150,
+    "need_amount": null,
+    "check_activity": 260611,
+    "launch_time": null,
+    "remove_limit_mark": null,
+    "sort": 1,
+    "name": {
+      "chs": "赤木茂",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3510,
+    "chest_id": 1001,
+    "icon": "deco/character/washizu/bighead.png",
+    "item_id": 200051,
+    "price": 150,
+    "need_amount": null,
+    "check_activity": 260611,
+    "launch_time": null,
+    "remove_limit_mark": null,
+    "sort": 2,
+    "name": {
+      "chs": "鹫巢岩",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3511,
+    "chest_id": 1001,
+    "icon": "deco/effect_hupai/ron_akagi/pic/ron_akagi.jpg",
+    "item_id": 308011,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260611,
+    "launch_time": null,
+    "remove_limit_mark": null,
+    "sort": 1001,
+    "name": {
+      "chs": "和牌-地狱低语",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3512,
+    "chest_id": 1001,
+    "icon": "deco/effect_lizhi/effect_liqi_akagi/pic/effect_liqi_akagi.jpg",
+    "item_id": 308012,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260611,
+    "launch_time": null,
+    "remove_limit_mark": null,
+    "sort": 1002,
+    "name": {
+      "chs": "立直-幽冥之焰",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3513,
+    "chest_id": 1001,
+    "icon": "deco/lizhibang/liqi_akagi/pic/liqi_akagi.jpg",
+    "item_id": 308013,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260611,
+    "launch_time": null,
+    "remove_limit_mark": null,
+    "sort": 1003,
+    "name": {
+      "chs": "立直棒-命悬一线",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3514,
+    "chest_id": 1001,
+    "icon": "deco/tablecloth/tablecloth_akagi/pic/tablecloth_akagi.jpg",
+    "item_id": 308014,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260611,
+    "launch_time": null,
+    "remove_limit_mark": null,
+    "sort": 1004,
+    "name": {
+      "chs": "桌布-传说之夜",
+      "chs_t": "",
+      "jp": "",
+      "en": ""
+    }
+  },
+  {
+    "id": 3515,
+    "chest_id": 1001,
+    "icon": "deco/mjpai/mjp_akagi/pic/mjp_akagi.jpg",
+    "item_id": 308015,
+    "price": 50,
+    "need_amount": null,
+    "check_activity": 260611,
+    "launch_time": null,
+    "remove_limit_mark": null,
+    "sort": 1005,
+    "name": {
+      "chs": "牌背-双鹫纹章",
       "chs_t": "",
       "jp": "",
       "en": ""

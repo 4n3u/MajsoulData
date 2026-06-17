@@ -299,6 +299,7 @@ message GameSelfOperation {
   repeated string change_tiles = 8;
   repeated int32 tile_states = 9;
   uint32 gap_type = 10;
+  bool auto_operation = 11;
 }
 
 message GameSnapshot {

@@ -10975,6 +10975,31 @@
     }
   },
   {
+    "charid": 200050,
+    "sub_id": 926,
+    "type": 1,
+    "view": null,
+    "audio": null,
+    "unlock_type": 3,
+    "unlock_param": [
+      405004
+    ],
+    "unlock_desc": {
+      "chs": "服饰解锁",
+      "chs_t": "服飾解鎖",
+      "jp": "着せ替え入手",
+      "en": "Unlock Outfit",
+      "kr": "스킨 오픈"
+    },
+    "after_unlock_desc": {
+      "chs": "tbd",
+      "chs_t": "tbd",
+      "jp": "tbd",
+      "en": "tbd",
+      "kr": "tbd"
+    }
+  },
+  {
     "charid": 200051,
     "sub_id": 10,
     "type": 1,
@@ -11070,6 +11095,31 @@
       "jp": "光と闇の死闘",
       "en": "Showdown of Light and Shadow",
       "kr": ""
+    }
+  },
+  {
+    "charid": 200051,
+    "sub_id": 926,
+    "type": 1,
+    "view": null,
+    "audio": null,
+    "unlock_type": 3,
+    "unlock_param": [
+      405104
+    ],
+    "unlock_desc": {
+      "chs": "服饰解锁",
+      "chs_t": "服飾解鎖",
+      "jp": "着せ替え入手",
+      "en": "Unlock Outfit",
+      "kr": "스킨 오픈"
+    },
+    "after_unlock_desc": {
+      "chs": "tbd",
+      "chs_t": "tbd",
+      "jp": "tbd",
+      "en": "tbd",
+      "kr": "tbd"
     }
   },
   {

@@ -4585,6 +4585,286 @@
     "type_desc": "疑惑"
   },
   {
+    "id": 5015,
+    "character": 200050,
+    "type": 15,
+    "path": "audio/sound/akagi/spot/chimumao01",
+    "type_desc": "打招呼1"
+  },
+  {
+    "id": 5016,
+    "character": 200050,
+    "type": 16,
+    "path": "audio/sound/akagi/spot/chimumao02",
+    "type_desc": "打招呼2"
+  },
+  {
+    "id": 5017,
+    "character": 200050,
+    "type": 17,
+    "path": "audio/sound/akagi/spot/chimumao03",
+    "type_desc": "语气1"
+  },
+  {
+    "id": 5018,
+    "character": 200050,
+    "type": 18,
+    "path": "audio/sound/akagi/spot/chimumao04",
+    "type_desc": "开心1"
+  },
+  {
+    "id": 5019,
+    "character": 200050,
+    "type": 19,
+    "path": "audio/sound/akagi/spot/chimumao05",
+    "type_desc": "开心2"
+  },
+  {
+    "id": 5020,
+    "character": 200050,
+    "type": 20,
+    "path": "audio/sound/akagi/spot/chimumao06",
+    "type_desc": "语气2"
+  },
+  {
+    "id": 5021,
+    "character": 200050,
+    "type": 21,
+    "path": "audio/sound/akagi/spot/chimumao07",
+    "type_desc": "道谢"
+  },
+  {
+    "id": 5022,
+    "character": 200050,
+    "type": 22,
+    "path": "audio/sound/akagi/spot/chimumao08",
+    "type_desc": "语气3"
+  },
+  {
+    "id": 5023,
+    "character": 200050,
+    "type": 23,
+    "path": "audio/sound/akagi/spot/chimumao09",
+    "type_desc": "递进1"
+  },
+  {
+    "id": 5024,
+    "character": 200050,
+    "type": 24,
+    "path": "audio/sound/akagi/spot/chimumao10",
+    "type_desc": "递进2"
+  },
+  {
+    "id": 5025,
+    "character": 200050,
+    "type": 25,
+    "path": "audio/sound/akagi/spot/chimumao11",
+    "type_desc": "递进3"
+  },
+  {
+    "id": 5026,
+    "character": 200050,
+    "type": 26,
+    "path": "audio/sound/akagi/spot/chimumao12",
+    "type_desc": "递进4"
+  },
+  {
+    "id": 5027,
+    "character": 200050,
+    "type": 27,
+    "path": "audio/sound/akagi/spot/chimumao13",
+    "type_desc": "递进5"
+  },
+  {
+    "id": 5028,
+    "character": 200050,
+    "type": 28,
+    "path": "audio/sound/akagi/spot/chimumao14",
+    "type_desc": "开心3"
+  },
+  {
+    "id": 5029,
+    "character": 200050,
+    "type": 29,
+    "path": "audio/sound/akagi/spot/chimumao15",
+    "type_desc": "否定1"
+  },
+  {
+    "id": 5115,
+    "character": 200051,
+    "type": 15,
+    "path": "audio/sound/washizu/spot/jiuchaoyan01",
+    "type_desc": "语气1"
+  },
+  {
+    "id": 5116,
+    "character": 200051,
+    "type": 16,
+    "path": "audio/sound/washizu/spot/jiuchaoyan02",
+    "type_desc": "开心1"
+  },
+  {
+    "id": 5117,
+    "character": 200051,
+    "type": 17,
+    "path": "audio/sound/washizu/spot/jiuchaoyan03",
+    "type_desc": "疑惑1"
+  },
+  {
+    "id": 5118,
+    "character": 200051,
+    "type": 18,
+    "path": "audio/sound/washizu/spot/jiuchaoyan04",
+    "type_desc": "语气2"
+  },
+  {
+    "id": 5119,
+    "character": 200051,
+    "type": 19,
+    "path": "audio/sound/washizu/spot/jiuchaoyan05",
+    "type_desc": "语气3"
+  },
+  {
+    "id": 5120,
+    "character": 200051,
+    "type": 20,
+    "path": "audio/sound/washizu/spot/jiuchaoyan06",
+    "type_desc": "语气4"
+  },
+  {
+    "id": 5121,
+    "character": 200051,
+    "type": 21,
+    "path": "audio/sound/washizu/spot/jiuchaoyan07",
+    "type_desc": "语气5"
+  },
+  {
+    "id": 5122,
+    "character": 200051,
+    "type": 22,
+    "path": "audio/sound/washizu/spot/jiuchaoyan08",
+    "type_desc": "语气6"
+  },
+  {
+    "id": 5123,
+    "character": 200051,
+    "type": 23,
+    "path": "audio/sound/washizu/spot/jiuchaoyan09",
+    "type_desc": "语气7"
+  },
+  {
+    "id": 5124,
+    "character": 200051,
+    "type": 24,
+    "path": "audio/sound/washizu/spot/jiuchaoyan10",
+    "type_desc": "生气1"
+  },
+  {
+    "id": 5125,
+    "character": 200051,
+    "type": 25,
+    "path": "audio/sound/washizu/spot/jiuchaoyan11",
+    "type_desc": "生气2"
+  },
+  {
+    "id": 5126,
+    "character": 200051,
+    "type": 26,
+    "path": "audio/sound/washizu/spot/jiuchaoyan12",
+    "type_desc": "生气3"
+  },
+  {
+    "id": 5127,
+    "character": 200051,
+    "type": 27,
+    "path": "audio/sound/washizu/spot/jiuchaoyan13",
+    "type_desc": "疑惑2"
+  },
+  {
+    "id": 5128,
+    "character": 200051,
+    "type": 28,
+    "path": "audio/sound/washizu/spot/jiuchaoyan14",
+    "type_desc": "生气4"
+  },
+  {
+    "id": 5129,
+    "character": 200051,
+    "type": 29,
+    "path": "audio/sound/washizu/spot/jiuchaoyan15",
+    "type_desc": "语气8"
+  },
+  {
+    "id": 5130,
+    "character": 200051,
+    "type": 30,
+    "path": "audio/sound/washizu/spot/jiuchaoyan16",
+    "type_desc": "语气9"
+  },
+  {
+    "id": 5131,
+    "character": 200051,
+    "type": 31,
+    "path": "audio/sound/washizu/spot/jiuchaoyan17",
+    "type_desc": "开心2"
+  },
+  {
+    "id": 5132,
+    "character": 200051,
+    "type": 32,
+    "path": "audio/sound/washizu/spot/jiuchaoyan18",
+    "type_desc": "生气5"
+  },
+  {
+    "id": 5133,
+    "character": 200051,
+    "type": 33,
+    "path": "audio/sound/washizu/spot/jiuchaoyan19",
+    "type_desc": "语气10"
+  },
+  {
+    "id": 5134,
+    "character": 200051,
+    "type": 34,
+    "path": "audio/sound/washizu/spot/jiuchaoyan20",
+    "type_desc": "疑惑3"
+  },
+  {
+    "id": 5135,
+    "character": 200051,
+    "type": 35,
+    "path": "audio/sound/washizu/spot/jiuchaoyan21",
+    "type_desc": "生气6"
+  },
+  {
+    "id": 5136,
+    "character": 200051,
+    "type": 36,
+    "path": "audio/sound/washizu/spot/jiuchaoyan22",
+    "type_desc": "疑惑4"
+  },
+  {
+    "id": 5137,
+    "character": 200051,
+    "type": 37,
+    "path": "audio/sound/washizu/spot/jiuchaoyan23",
+    "type_desc": "生气7"
+  },
+  {
+    "id": 5138,
+    "character": 200051,
+    "type": 38,
+    "path": "audio/sound/washizu/spot/jiuchaoyan24",
+    "type_desc": "开心3"
+  },
+  {
+    "id": 5139,
+    "character": 200051,
+    "type": 39,
+    "path": "audio/sound/washizu/spot/jiuchaoyan25",
+    "type_desc": "疑惑5"
+  },
+  {
     "id": 5201,
     "character": 200052,
     "type": 1,
@@ -7336,11 +7616,32 @@
     "type_desc": "惊讶"
   },
   {
+    "id": 10601,
+    "character": 20000106,
+    "type": 1,
+    "path": "audio/sound/jian/spot/jtm_jane_232",
+    "type_desc": "惊讶"
+  },
+  {
     "id": 10602,
     "character": 20000106,
     "type": 2,
     "path": "audio/sound/jian/spot/jtm_jane_233",
     "type_desc": "肯定"
+  },
+  {
+    "id": 10602,
+    "character": 20000106,
+    "type": 2,
+    "path": "audio/sound/jian/spot/jtm_jane_233",
+    "type_desc": "肯定"
+  },
+  {
+    "id": 10603,
+    "character": 20000106,
+    "type": 3,
+    "path": "audio/sound/jian/spot/jtm_jane_234",
+    "type_desc": "否定"
   },
   {
     "id": 10603,
@@ -7357,11 +7658,32 @@
     "type_desc": "打招呼-早晨"
   },
   {
+    "id": 10604,
+    "character": 20000106,
+    "type": 4,
+    "path": "audio/sound/jian/spot/jtm_jane_235",
+    "type_desc": "打招呼-早晨"
+  },
+  {
     "id": 10605,
     "character": 20000106,
     "type": 5,
     "path": "audio/sound/jian/spot/jtm_jane_236",
     "type_desc": "打招呼-白天"
+  },
+  {
+    "id": 10605,
+    "character": 20000106,
+    "type": 5,
+    "path": "audio/sound/jian/spot/jtm_jane_236",
+    "type_desc": "打招呼-白天"
+  },
+  {
+    "id": 10606,
+    "character": 20000106,
+    "type": 6,
+    "path": "audio/sound/jian/spot/jtm_jane_237",
+    "type_desc": "打招呼-夜晚"
   },
   {
     "id": 10606,
@@ -7378,11 +7700,32 @@
     "type_desc": "告别"
   },
   {
+    "id": 10607,
+    "character": 20000106,
+    "type": 7,
+    "path": "audio/sound/jian/spot/jtm_jane_238",
+    "type_desc": "告别"
+  },
+  {
     "id": 10608,
     "character": 20000106,
     "type": 8,
     "path": "audio/sound/jian/spot/jtm_jane_239",
     "type_desc": "承接"
+  },
+  {
+    "id": 10608,
+    "character": 20000106,
+    "type": 8,
+    "path": "audio/sound/jian/spot/jtm_jane_239",
+    "type_desc": "承接"
+  },
+  {
+    "id": 10609,
+    "character": 20000106,
+    "type": 9,
+    "path": "audio/sound/jian/spot/jtm_jane_240",
+    "type_desc": "叹气"
   },
   {
     "id": 10609,
@@ -7399,6 +7742,20 @@
     "type_desc": "高兴"
   },
   {
+    "id": 10610,
+    "character": 20000106,
+    "type": 10,
+    "path": "audio/sound/jian/spot/jtm_jane_241",
+    "type_desc": "高兴"
+  },
+  {
+    "id": 10611,
+    "character": 20000106,
+    "type": 11,
+    "path": "audio/sound/jian/spot/jtm_jane_242",
+    "type_desc": "生气"
+  },
+  {
     "id": 10611,
     "character": 20000106,
     "type": 11,
@@ -7413,11 +7770,32 @@
     "type_desc": "递进"
   },
   {
+    "id": 10612,
+    "character": 20000106,
+    "type": 12,
+    "path": "audio/sound/jian/spot/jtm_jane_243",
+    "type_desc": "递进"
+  },
+  {
     "id": 10613,
     "character": 20000106,
     "type": 13,
     "path": "audio/sound/jian/spot/jtm_jane_244",
     "type_desc": "转折"
+  },
+  {
+    "id": 10613,
+    "character": 20000106,
+    "type": 13,
+    "path": "audio/sound/jian/spot/jtm_jane_244",
+    "type_desc": "转折"
+  },
+  {
+    "id": 10614,
+    "character": 20000106,
+    "type": 14,
+    "path": "audio/sound/jian/spot/jtm_jane_245",
+    "type_desc": "疑惑"
   },
   {
     "id": 10614,

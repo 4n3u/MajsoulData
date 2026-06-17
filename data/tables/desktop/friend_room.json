@@ -39,7 +39,9 @@
     "str_name": "3517",
     "str_rule": "3527",
     "set_jushu": 1,
-    "rule_images": []
+    "rule_images": [
+      "extendRes/rules_room/mingjing.png"
+    ]
   },
   {
     "id": 5,

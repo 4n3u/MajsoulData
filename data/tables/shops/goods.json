@@ -15805,6 +15805,138 @@
     }
   },
   {
+    "id": 5461,
+    "category": 5,
+    "category_goods": 1,
+    "icon": "extendRes/skin_shop/akagi_SP2_shop.jpg",
+    "item_id": 405004,
+    "price": "100004-1500",
+    "show_original_price": null,
+    "need_amount": 1,
+    "buy_limit": 1,
+    "show_has": null,
+    "sort": 1,
+    "discount": 10000,
+    "sell_activity": 260610,
+    "launch_time": null,
+    "func": null,
+    "discount_activity": null,
+    "zone": "1,2,3",
+    "name": {
+      "chs": "死神的咒缚",
+      "chs_t": "死神的咒縛",
+      "jp": "死神の呪縛",
+      "en": "Chains of the Reaper",
+      "kr": "사신의 주박"
+    },
+    "desc": {
+      "chs": "赤木茂服饰",
+      "chs_t": "赤木茂服飾",
+      "jp": "赤木しげるの着せ替え衣装",
+      "en": "Shigeru Akagi Outfit",
+      "kr": "아카기 시게루 스킨"
+    }
+  },
+  {
+    "id": 5462,
+    "category": 5,
+    "category_goods": 1,
+    "icon": "extendRes/skin_shop/washizu_SP2_shop.jpg",
+    "item_id": 405104,
+    "price": "100004-1500",
+    "show_original_price": null,
+    "need_amount": 1,
+    "buy_limit": 1,
+    "show_has": null,
+    "sort": 2,
+    "discount": 10000,
+    "sell_activity": 260610,
+    "launch_time": null,
+    "func": null,
+    "discount_activity": null,
+    "zone": "1,2,3",
+    "name": {
+      "chs": "死神的咒缚",
+      "chs_t": "死神的咒縛",
+      "jp": "死神の呪縛",
+      "en": "Chains of the Reaper",
+      "kr": "사신의 주박"
+    },
+    "desc": {
+      "chs": "鹫巢岩服饰",
+      "chs_t": "鷲巢巖服飾",
+      "jp": "鷲巣巌の着せ替え衣装",
+      "en": "Iwao Washizu Outfit",
+      "kr": "와시즈 이와오 스킨"
+    }
+  },
+  {
+    "id": 5463,
+    "category": 5,
+    "category_goods": 1,
+    "icon": "extendRes/skin_shop/akagi_SP_shop.jpg",
+    "item_id": 405003,
+    "price": "100004-880",
+    "show_original_price": null,
+    "need_amount": 1,
+    "buy_limit": 1,
+    "show_has": null,
+    "sort": 3,
+    "discount": 10000,
+    "sell_activity": 260610,
+    "launch_time": null,
+    "func": null,
+    "discount_activity": null,
+    "zone": "1,2,3",
+    "name": {
+      "chs": "光暗对决",
+      "chs_t": "光暗對決",
+      "jp": "光と闇の死闘",
+      "en": "Showdown of Light and Shadow",
+      "kr": "빛과 어둠의 사투"
+    },
+    "desc": {
+      "chs": "赤木茂服饰",
+      "chs_t": "赤木茂服飾",
+      "jp": "赤木しげるの着せ替え衣装",
+      "en": "Shigeru Akagi Outfit",
+      "kr": "아카기 시게루 스킨"
+    }
+  },
+  {
+    "id": 5464,
+    "category": 5,
+    "category_goods": 1,
+    "icon": "extendRes/skin_shop/washizu_SP_shop.jpg",
+    "item_id": 405103,
+    "price": "100004-880",
+    "show_original_price": null,
+    "need_amount": 1,
+    "buy_limit": 1,
+    "show_has": null,
+    "sort": 4,
+    "discount": 10000,
+    "sell_activity": 260610,
+    "launch_time": null,
+    "func": null,
+    "discount_activity": null,
+    "zone": "1,2,3",
+    "name": {
+      "chs": "光暗对决",
+      "chs_t": "光暗對決",
+      "jp": "光と闇の死闘",
+      "en": "Showdown of Light and Shadow",
+      "kr": "빛과 어둠의 사투"
+    },
+    "desc": {
+      "chs": "鹫巢岩服饰",
+      "chs_t": "鷲巢巖服飾",
+      "jp": "鷲巣巌の着せ替え衣装",
+      "en": "Iwao Washizu Outfit",
+      "kr": "와시즈 이와오 스킨"
+    }
+  },
+  {
     "id": 6001,
     "category": 5,
     "category_goods": 100,

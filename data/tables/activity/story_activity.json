@@ -516,5 +516,33 @@
     "content_path": "event/SAO07",
     "title": 26042007,
     "subtitle_title": null
+  },
+  {
+    "activity_id": 260670,
+    "story_id": 2606701,
+    "unlock_day": null,
+    "unlock_item": null,
+    "unlock_story": null,
+    "unlock_ending": null,
+    "unlock_consume": null,
+    "finish_reward": null,
+    "all_finish_reward": null,
+    "content_path": "event/akagi00",
+    "title": 26062001,
+    "subtitle_title": 26062003
+  },
+  {
+    "activity_id": 260670,
+    "story_id": 2606702,
+    "unlock_day": 7,
+    "unlock_item": null,
+    "unlock_story": "2606701",
+    "unlock_ending": null,
+    "unlock_consume": null,
+    "finish_reward": null,
+    "all_finish_reward": null,
+    "content_path": "event/akagi01",
+    "title": 26062002,
+    "subtitle_title": 26062004
   }
 ]

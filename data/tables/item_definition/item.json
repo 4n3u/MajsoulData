@@ -1028,8 +1028,8 @@
       "kr": "수제 쿠키"
     },
     "desc_func": {
-      "chs": "送给雀士可以增加200点羁绊值；赠送给喜欢曲奇的角色会获得额外的好感度",
-      "chs_t": "送給雀士可以增加200點羈絆值。贈送給喜歡餅乾的角色會獲得額外的好感度。",
+      "chs": "送给雀士可以增加200点羁绊值；赠送给喜欢曲奇的角色会获得额外的好感度。",
+      "chs_t": "送給雀士可以增加200點羈絆值；贈送給喜歡曲奇的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント200増加。クッキーが好きな雀士にあげるとさらに増加。",
       "en": "Give it to a character to increase your Bond with him/her by 200 points. Characters who love cookies will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 200증가. 쿠키를 좋아하는 작사에게 주면 추가로 증가."
@@ -1075,8 +1075,8 @@
       "kr": "버터 쿠키"
     },
     "desc_func": {
-      "chs": "送给雀士可以增加1000点羁绊值；赠送给喜欢曲奇的角色会获得额外的好感度",
-      "chs_t": "送給雀士可以增加1000點羈絆值。贈送給喜歡餅乾的角色會獲得額外的好感度。",
+      "chs": "送给雀士可以增加1000点羁绊值；赠送给喜欢曲奇的角色会获得额外的好感度。",
+      "chs_t": "送給雀士可以增加1000點羈絆值；贈送給喜歡曲奇的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント1000増加。クッキーが好きな雀士にあげるとさらに増加。",
       "en": "Give it to a character to increase your Bond with him/her by 1000 points. Characters who love cookies will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 1000증가. 쿠키를 좋아하는 작사에게 주면 추가로 증가."
@@ -1122,8 +1122,8 @@
       "kr": "향기로운 쿠키"
     },
     "desc_func": {
-      "chs": "送给雀士可以增加5000点羁绊值；赠送给喜欢曲奇的角色会获得额外的好感度",
-      "chs_t": "送給雀士可以增加5000點羈絆值。贈送給喜歡餅乾的角色會獲得額外的好感度。",
+      "chs": "送给雀士可以增加5000点羁绊值；赠送给喜欢曲奇的角色会获得额外的好感度。",
+      "chs_t": "送給雀士可以增加5000點羈絆值；贈送給喜歡曲奇的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント5000増加。クッキーが好きな雀士にあげるとさらに増加。",
       "en": "Give it to a character to increase your Bond with him/her by 5000 points. Characters who love cookies will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 5000증가. 쿠키를 좋아하는 작사에게 주면 추가로 증가."
@@ -1169,8 +1169,8 @@
       "kr": "레트로 게임기"
     },
     "desc_func": {
-      "chs": "送给雀士可以增加200点羁绊值；赠送给喜欢游戏机的角色会获得额外的好感度",
-      "chs_t": "送給雀士可以增加200點羈絆值。贈送給喜歡遊戲機的角色會獲得額外的好感度。",
+      "chs": "送给雀士可以增加200点羁绊值；赠送给喜欢游戏机的角色会获得额外的好感度。",
+      "chs_t": "送給雀士可以增加200點羈絆值；贈送給喜歡遊戲機的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント200増加。ゲームが好きな雀士にあげるとさらに増加。",
       "en": "Give it to a character to increase your Bond with him/her by 200 points. Characters who love game consoles will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 200증가. 게임을 좋아하는 작사에게 주면 추가로 증가."
@@ -1216,8 +1216,8 @@
       "kr": "휴대용 게임기"
     },
     "desc_func": {
-      "chs": "送给雀士可以增加1000点羁绊值；赠送给喜欢游戏机的角色会获得额外的好感度",
-      "chs_t": "送給雀士可以增加1000點羈絆值。贈送給喜歡遊戲機的角色會獲得額外的好感度。",
+      "chs": "送给雀士可以增加1000点羁绊值；赠送给喜欢游戏机的角色会获得额外的好感度。",
+      "chs_t": "送給雀士可以增加1000點羈絆值；贈送給喜歡遊戲機的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント1000増加。ゲームが好きな雀士にあげるとさらに増加。",
       "en": "Give it to a character to increase your Bond with him/her by 1000 points. Characters who love game consoles will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 1000증가. 게임을 좋아하는 작사에게 주면 추가로 증가."
@@ -1263,8 +1263,8 @@
       "kr": "차세대 게임기"
     },
     "desc_func": {
-      "chs": "送给雀士可以增加5000点羁绊值；赠送给喜欢游戏机的角色会获得额外的好感度",
-      "chs_t": "送給雀士可以增加5000點羈絆值。贈送給喜歡遊戲機的角色會獲得額外的好感度。",
+      "chs": "送给雀士可以增加5000点羁绊值；赠送给喜欢游戏机的角色会获得额外的好感度。",
+      "chs_t": "送給雀士可以增加5000點羈絆值；贈送給喜歡遊戲機的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント5000増加。ゲームが好きな雀士にあげるとさらに増加。",
       "en": "Give it to a character to increase your Bond with him/her by 5000 points. Characters who love game consoles will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 5000증가. 게임을 좋아하는 작사에게 주면 추가로 증가."
@@ -1310,8 +1310,8 @@
       "kr": "심플한 미술품"
     },
     "desc_func": {
-      "chs": "送给雀士可以增加200点羁绊值；赠送给喜欢美术品的角色会获得额外的好感度",
-      "chs_t": "送給雀士可以增加200點羈絆值。贈送給喜歡美術品的角色會獲得額外的好感度。",
+      "chs": "送给雀士可以增加200点羁绊值；赠送给喜欢美术品的角色会获得额外的好感度。",
+      "chs_t": "送給雀士可以增加200點羈絆值；贈送給喜歡美術品的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント200増加。美術品が好きな雀士にあげるとさらに増加。",
       "en": "Give it to a character to increase your Bond with him/her by 200 points. Characters who love artworks will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 200증가. 미술품을 좋아하는 작사에게 주면 추가로 증가."
@@ -1357,8 +1357,8 @@
       "kr": "명작 그림"
     },
     "desc_func": {
-      "chs": "送给雀士可以增加1000点羁绊值；赠送给喜欢美术品的角色会获得额外的好感度",
-      "chs_t": "送給雀士可以增加1000點羈絆值。贈送給喜歡美術品的角色會獲得額外的好感度。",
+      "chs": "送给雀士可以增加1000点羁绊值；赠送给喜欢美术品的角色会获得额外的好感度。",
+      "chs_t": "送給雀士可以增加1000點羈絆值；贈送給喜歡美術品的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント1000増加。美術品が好きな雀士にあげるとさらに増加。",
       "en": "Give it to a character to increase your Bond with him/her by 1000 points. Characters who love artworks will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 1000증가. 미술품을 좋아하는 작사에게 주면 추가로 증가."
@@ -1404,8 +1404,8 @@
       "kr": "불후의 명화"
     },
     "desc_func": {
-      "chs": "送给雀士可以增加5000点羁绊值；赠送给喜欢美术品的角色会获得额外的好感度",
-      "chs_t": "送給雀士可以增加5000點羈絆值。贈送給喜歡美術品的角色會獲得額外的好感度。",
+      "chs": "送给雀士可以增加5000点羁绊值；赠送给喜欢美术品的角色会获得额外的好感度。",
+      "chs_t": "送給雀士可以增加5000點羈絆值；贈送給喜歡美術品的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント5000増加。美術品が好きな雀士にあげるとさらに増加。",
       "en": "Give it to a character to increase your Bond with him/her by 5000 points. Characters who love artworks will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 5000증가. 미술품을 좋아하는 작사에게 주면 추가로 증가."
@@ -1451,8 +1451,8 @@
       "kr": "평범한 맥주잔"
     },
     "desc_func": {
-      "chs": "送给雀士可以增加200点羁绊值；赠送给喜欢酒的角色会获得额外的好感度",
-      "chs_t": "送給雀士可以增加200點羈絆值。贈送給喜歡酒的角色會獲得額外的好感度。",
+      "chs": "送给雀士可以增加200点羁绊值；赠送给喜欢酒的角色会获得额外的好感度。",
+      "chs_t": "送給雀士可以增加200點羈絆值；贈送給喜歡酒的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント200増加。酒器が好きな雀士にあげるとさらに増加。",
       "en": "Give it to a character to increase your Bond with him/her by 200 points. Characters who love wine will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 200증가. 술잔을 좋아하는 작사에게 주면 추가로 증가."
@@ -1498,8 +1498,8 @@
       "kr": "고상한 사기잔"
     },
     "desc_func": {
-      "chs": "送给雀士可以增加1000点羁绊值；赠送给喜欢酒的角色会获得额外的好感度",
-      "chs_t": "送給雀士可以增加1000點羈絆值。贈送給喜歡酒的角色會獲得額外的好感度。",
+      "chs": "送给雀士可以增加1000点羁绊值；赠送给喜欢酒的角色会获得额外的好感度。",
+      "chs_t": "送給雀士可以增加1000點羈絆值；贈送給喜歡酒的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント1000増加。酒器が好きな雀士にあげるとさらに増加。",
       "en": "Give it to a character to increase your Bond with him/her by 1000 points. Characters who love wine will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 1000증가. 술잔을 좋아하는 작사에게 주면 추가로 증가."
@@ -1545,8 +1545,8 @@
       "kr": "고급 와인잔"
     },
     "desc_func": {
-      "chs": "送给雀士可以增加5000点羁绊值；赠送给喜欢酒的角色会获得额外的好感度",
-      "chs_t": "送給雀士可以增加5000點羈絆值。贈送給喜歡酒的角色會獲得額外的好感度。",
+      "chs": "送给雀士可以增加5000点羁绊值；赠送给喜欢酒的角色会获得额外的好感度。",
+      "chs_t": "送給雀士可以增加5000點羈絆值；贈送給喜歡酒的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント5000増加。酒器が好きな雀士にあげるとさらに増加。",
       "en": "Give it to a character to increase your Bond with him/her by 5000 points. Characters who love wine will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 5000증가. 술잔을 좋아하는 작사에게 주면 추가로 증가."
@@ -1592,8 +1592,8 @@
       "kr": "작은 다이아몬드"
     },
     "desc_func": {
-      "chs": "送给雀士可以增加200点羁绊值；赠送给喜欢钻石的角色会获得额外的好感度",
-      "chs_t": "送給雀士可以增加200點羈絆值。贈送給喜歡鑽石的角色會獲得額外的好感度。",
+      "chs": "送给雀士可以增加200点羁绊值；赠送给喜欢钻石的角色会获得额外的好感度。",
+      "chs_t": "送給雀士可以增加200點羈絆值；贈送給喜歡鑽石的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント200増加。宝石が好きな雀士にあげるとさらに増加",
       "en": "Give it to a character to increase your Bond with him/her by 200 points. Characters who love diamonds will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 200증가. 보석을 좋아하는 작사에게 주면 추가로 증가."
@@ -1639,8 +1639,8 @@
       "kr": "물방울 다이아몬드"
     },
     "desc_func": {
-      "chs": "送给雀士可以增加1000点羁绊值；赠送给喜欢钻石的角色会获得额外的好感度",
-      "chs_t": "送給雀士可以增加1000點羈絆值。贈送給喜歡鑽石的角色會獲得額外的好感度。",
+      "chs": "送给雀士可以增加1000点羁绊值；赠送给喜欢钻石的角色会获得额外的好感度。",
+      "chs_t": "送給雀士可以增加1000點羈絆值；贈送給喜歡鑽石的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント1000増加。宝石が好きな雀士にあげるとさらに増加。",
       "en": "Give it to a character to increase your Bond with him/her by 1000 points. Characters who love diamonds will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 1000증가. 보석을 좋아하는 작사에게 주면 추가로 증가."
@@ -1686,8 +1686,8 @@
       "kr": "하트 오브 디 오션"
     },
     "desc_func": {
-      "chs": "送给雀士可以增加5000点羁绊值；赠送给喜欢钻石的角色会获得额外的好感度",
-      "chs_t": "送給雀士可以增加5000點羈絆值。贈送給喜歡鑽石的角色會獲得額外的好感度。",
+      "chs": "送给雀士可以增加5000点羁绊值；赠送给喜欢钻石的角色会获得额外的好感度。",
+      "chs_t": "送給雀士可以增加5000點羈絆值；贈送給喜歡鑽石的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント5000増加。宝石が好きな雀士にあげるとさらに増加",
       "en": "Give it to a character to increase your Bond with him/her by 5000 points. Characters who love diamonds will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 5000증가. 보석을 좋아하는 작사에게 주면 추가로 증가."
@@ -1733,8 +1733,8 @@
       "kr": "테디베어"
     },
     "desc_func": {
-      "chs": "送给雀士可以增加200点羁绊值；赠送给喜欢玩偶的角色会获得额外的好感度",
-      "chs_t": "送給雀士可以增加200點羈絆值。贈送給喜歡玩偶的角色會獲得額外的好感度。",
+      "chs": "送给雀士可以增加200点羁绊值；赠送给喜欢玩偶的角色会获得额外的好感度。",
+      "chs_t": "送給雀士可以增加200點羈絆值；贈送給喜歡玩偶的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント200増加。ぬいぐるみが好きな雀士にあげるとさらに増加。",
       "en": "Give it to a character to increase your Bond with him/her by 200 points. Characters who love dolls will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 200증가. 인형을 좋아하는 작사에게 주면 추가로 증가."
@@ -1780,8 +1780,8 @@
       "kr": "테디베어L"
     },
     "desc_func": {
-      "chs": "送给雀士可以增加1000点羁绊值；赠送给喜欢玩偶的角色会获得额外的好感度",
-      "chs_t": "送給雀士可以增加1000點羈絆值。贈送給喜歡玩偶的角色會獲得額外的好感度。",
+      "chs": "送给雀士可以增加1000点羁绊值；赠送给喜欢玩偶的角色会获得额外的好感度。",
+      "chs_t": "送給雀士可以增加1000點羈絆值；贈送給喜歡玩偶的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント1000増加。ぬいぐるみが好きな雀士にあげるとさらに増加。",
       "en": "Give it to a character to increase your Bond with him/her by 1000 points. Characters who love dolls will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 1000증가. 인형을 좋아하는 작사에게 주면 추가로 증가."
@@ -1827,8 +1827,8 @@
       "kr": "테디베어XXL"
     },
     "desc_func": {
-      "chs": "送给雀士可以增加5000点羁绊值；赠送给喜欢玩偶的角色会获得额外的好感度",
-      "chs_t": "送給雀士可以增加5000點羈絆值。贈送給喜歡玩偶的角色會獲得額外的好感度。",
+      "chs": "送给雀士可以增加5000点羁绊值；赠送给喜欢玩偶的角色会获得额外的好感度。",
+      "chs_t": "送給雀士可以增加5000點羈絆值；贈送給喜歡玩偶的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント5000増加。ぬいぐるみが好きな雀士にあげるとさらに増加。",
       "en": "Give it to a character to increase your Bond with him/her by 5000 points. Characters who love dolls will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 5000증가. 인형을 좋아하는 작사에게 주면 추가로 증가."
@@ -1874,8 +1874,8 @@
       "kr": "팜플렛"
     },
     "desc_func": {
-      "chs": "送给雀士可以增加200点羁绊值；赠送给喜欢同人志的角色会获得额外的好感度",
-      "chs_t": "送給雀士可以增加200點羈絆值。贈送給喜歡同人誌的角色會獲得額外的好感度。",
+      "chs": "送给雀士可以增加200点羁绊值；赠送给喜欢同人志的角色会获得额外的好感度。",
+      "chs_t": "送給雀士可以增加200點羈絆值；贈送給喜歡同人志的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント200増加。同人誌が好きな雀士にあげるとさらに増加。",
       "en": "Give it to a character to increase your Bond with him/her by 200 points. Characters who love fanzines will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 200증가. 만화를 좋아하는 작사에게 주면 추가로 증가."
@@ -1921,8 +1921,8 @@
       "kr": "얇은 책"
     },
     "desc_func": {
-      "chs": "送给雀士可以增加1000点羁绊值；赠送给喜欢同人志的角色会获得额外的好感度",
-      "chs_t": "送給雀士可以增加1000點羈絆值。贈送給喜歡同人誌的角色會獲得額外的好感度。",
+      "chs": "送给雀士可以增加1000点羁绊值；赠送给喜欢同人志的角色会获得额外的好感度。",
+      "chs_t": "送給雀士可以增加1000點羈絆值；贈送給喜歡同人志的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント1000増加。同人誌が好きな雀士にあげるとさらに増加。",
       "en": "Give it to a character to increase your Bond with him/her by 1000 points. Characters who love fanzines will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 1000증가. 만화를 좋아하는 작사에게 주면 추가로 증가."
@@ -1968,8 +1968,8 @@
       "kr": "인기 만화"
     },
     "desc_func": {
-      "chs": "送给雀士可以增加5000点羁绊值；赠送给喜欢同人志的角色会获得额外的好感度",
-      "chs_t": "送給雀士可以增加5000點羈絆值。贈送給喜歡同人誌的角色會獲得額外的好感度。",
+      "chs": "送给雀士可以增加5000点羁绊值；赠送给喜欢同人志的角色会获得额外的好感度。",
+      "chs_t": "送給雀士可以增加5000點羈絆值；贈送給喜歡同人志的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント5000増加。同人誌が好きな雀士にあげるとさらに増加。",
       "en": "Give it to a character to increase your Bond with him/her by 5000 points. Characters who love fanzines will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 5000증가. 만화를 좋아하는 작사에게 주면 추가로 증가."
@@ -2015,8 +2015,8 @@
       "kr": "소박한 옷"
     },
     "desc_func": {
-      "chs": "送给雀士可以增加200点羁绊值；赠送给喜欢女装的角色会获得额外的好感度",
-      "chs_t": "送給雀士可以增加200點羈絆值。贈送給喜歡女裝的角色會獲得額外的好感度。",
+      "chs": "送给雀士可以增加200点羁绊值；赠送给喜欢女装的角色会获得额外的好感度。",
+      "chs_t": "送給雀士可以增加200點羈絆值；贈送給喜歡女裝的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント200増加。おしゃれが好きな雀士にあげるとさらに増加。",
       "en": "Give it to a character to increase your Bond with him/her by 200 points. Characters who love dresses will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 200증가. 패션을 좋아하는 작사에게 주면 추가로 증가."
@@ -2062,8 +2062,8 @@
       "kr": "세라복"
     },
     "desc_func": {
-      "chs": "送给雀士可以增加1000点羁绊值；赠送给喜欢女装的角色会获得额外的好感度",
-      "chs_t": "送給雀士可以增加1000點羈絆值。贈送給喜歡女裝的角色會獲得額外的好感度。",
+      "chs": "送给雀士可以增加1000点羁绊值；赠送给喜欢女装的角色会获得额外的好感度。",
+      "chs_t": "送給雀士可以增加1000點羈絆值；贈送給喜歡女裝的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント1000増加。おしゃれが好きな雀士にあげるとさらに増加。",
       "en": "Looks quite good. Give it to a character to increase your Bond with him/her by 1000 points. Characters who love dresses will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 1000증가. 멋을 좋아하는 작사에게 주면 추가로 증가."
@@ -2109,8 +2109,8 @@
       "kr": "화려한 원피스"
     },
     "desc_func": {
-      "chs": "送给雀士可以增加5000点羁绊值；赠送给喜欢女装的角色会获得额外的好感度",
-      "chs_t": "送給雀士可以增加5000點羈絆值。贈送給喜歡女裝的角色會獲得額外的好感度。",
+      "chs": "送给雀士可以增加5000点羁绊值；赠送给喜欢女装的角色会获得额外的好感度。",
+      "chs_t": "送給雀士可以增加5000點羈絆值；贈送給喜歡女裝的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント5000増加。おしゃれが好きな雀士にあげるとさらに増加。",
       "en": "Give it to a character to increase your Bond with him/her by 5000 points. Characters who love dresses will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 5000증가. 멋을 좋아하는 작사에게 주면 추가로 증가."
@@ -2156,8 +2156,8 @@
       "kr": "버터 쿠키"
     },
     "desc_func": {
-      "chs": "不可分解为星之粉尘。送给雀士可以增加1000点羁绊值。赠送给喜欢曲奇的角色会获得额外的好感度。",
-      "chs_t": "不可分解為星之粉塵。送給雀士可以增加1000點羈絆值。贈送給喜歡餅乾的角色會獲得額外的好感度。",
+      "chs": "不可分解为星之粉尘。送给雀士可以增加1000点羁绊值；赠送给喜欢曲奇的角色会获得额外的好感度。",
+      "chs_t": "不可分解為星之粉塵。送給雀士可以增加1000點羈絆值；贈送給喜歡曲奇的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント1000増加。クッキーが好きな雀士にあげるとさらに増加。この贈り物は奉納できない。",
       "en": "Cannot be converted into Star Dust. Give it to a character to increase your Bond with him/her by 1000 points. Characters who love cookies will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 1000증가. 쿠키를 좋아하는 작사에게 주면 추가로 증가. 이 아이템은 봉납할 수 없다."
@@ -2203,8 +2203,8 @@
       "kr": "향기로운 쿠키"
     },
     "desc_func": {
-      "chs": "不可分解为星之粉尘。送给雀士可以增加5000点羁绊值。赠送给喜欢曲奇的角色会获得额外的好感度。",
-      "chs_t": "不可分解為星之粉塵。送給雀士可以增加5000點羈絆值。贈送給喜歡餅乾的角色會獲得額外的好感度。",
+      "chs": "不可分解为星之粉尘。送给雀士可以增加5000点羁绊值；赠送给喜欢曲奇的角色会获得额外的好感度。",
+      "chs_t": "不可分解為星之粉塵。送給雀士可以增加5000點羈絆值；贈送給喜歡曲奇的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント5000増加。クッキーが好きな雀士にあげるとさらに増加。この贈り物は奉納できない。",
       "en": "Cannot be converted into Star Dust. Give it to a character to increase your Bond with him/her by 5000 points. Characters who love cookies will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 5000증가. 쿠키를 좋아하는 작사에게 주면 추가로 증가. 이 아이템은 봉납할 수 없다."
@@ -2250,8 +2250,8 @@
       "kr": "휴대용 게임기"
     },
     "desc_func": {
-      "chs": "不可分解为星之粉尘。送给雀士可以增加1000点羁绊值。赠送给喜欢游戏机的角色会获得额外的好感度。",
-      "chs_t": "不可分解為星之粉塵。送給雀士可以增加1000點羈絆值。贈送給喜歡遊戲機的角色會獲得額外的好感度。",
+      "chs": "不可分解为星之粉尘。送给雀士可以增加1000点羁绊值；赠送给喜欢游戏机的角色会获得额外的好感度。",
+      "chs_t": "不可分解為星之粉塵。送給雀士可以增加1000點羈絆值；贈送給喜歡遊戲機的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント1000増加。ゲームが好きな雀士にあげるとさらに増加。この贈り物は奉納できない。",
       "en": "Cannot be converted into Star Dust. Give it to a character to increase your Bond with him/her by 1000 points. Characters who love game consoles will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 1000증가. 게임을 좋아하는 작사에게 주면 추가로 증가."
@@ -2297,8 +2297,8 @@
       "kr": "차세대 게임기"
     },
     "desc_func": {
-      "chs": "不可分解为星之粉尘。送给雀士可以增加5000点羁绊值。赠送给喜欢游戏机的角色会获得额外的好感度。",
-      "chs_t": "不可分解為星之粉塵。送給雀士可以增加5000點羈絆值。贈送給喜歡遊戲機的角色會獲得額外的好感度。",
+      "chs": "不可分解为星之粉尘。送给雀士可以增加5000点羁绊值；赠送给喜欢游戏机的角色会获得额外的好感度。",
+      "chs_t": "不可分解為星之粉塵。送給雀士可以增加5000點羈絆值；贈送給喜歡遊戲機的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント5000増加。ゲームが好きな雀士にあげるとさらに増加。この贈り物は奉納できない。",
       "en": "Cannot be converted into Star Dust. Give it to a character to increase your Bond with him/her by 5000 points. Characters who love game consoles will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 5000증가. 게임을 좋아하는 작사에게 주면 추가로 증가. 이 아이템은 봉납할 수 없다."
@@ -2344,8 +2344,8 @@
       "kr": "명작 그림"
     },
     "desc_func": {
-      "chs": "不可分解为星之粉尘。送给雀士可以增加1000点羁绊值。赠送给喜欢美术品的角色会获得额外的好感度。",
-      "chs_t": "不可分解為星之粉塵。送給雀士可以增加1000點羈絆值。贈送給喜歡美術品的角色會獲得額外的好感度。",
+      "chs": "不可分解为星之粉尘。送给雀士可以增加1000点羁绊值；赠送给喜欢美术品的角色会获得额外的好感度。",
+      "chs_t": "不可分解為星之粉塵。送給雀士可以增加1000點羈絆值；贈送給喜歡美術品的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント1000増加。美術品が好きな雀士にあげるとさらに増加。この贈り物は奉納できない。",
       "en": "Cannot be converted into Star Dust. Give it to a character to increase your Bond with him/her by 1000 points. Characters who love artworks will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 1000증가. 미술품을 좋아하는 작사에게 주면 추가로 증가. 이 아이템은 봉납할 수 없다."
@@ -2391,8 +2391,8 @@
       "kr": "불후의 명화"
     },
     "desc_func": {
-      "chs": "不可分解为星之粉尘。送给雀士可以增加5000点羁绊值。赠送给喜欢美术品的角色会获得额外的好感度。",
-      "chs_t": "不可分解為星之粉塵。送給雀士可以增加5000點羈絆值。贈送給喜歡美術品的角色會獲得額外的好感度。",
+      "chs": "不可分解为星之粉尘。送给雀士可以增加5000点羁绊值；赠送给喜欢美术品的角色会获得额外的好感度。",
+      "chs_t": "不可分解為星之粉塵。送給雀士可以增加5000點羈絆值；贈送給喜歡美術品的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント5000増加。美術品が好きな雀士にあげるとさらに増加。この贈り物は奉納できない。",
       "en": "Cannot be converted into Star Dust. Give it to a character to increase your Bond with him/her by 5000 points. Characters who love artworks will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 5000증가. 미술품을 좋아하는 작사에게 주면 추가로 증가. 이 아이템은 봉납할 수 없다."
@@ -2438,8 +2438,8 @@
       "kr": "고상한 사기잔"
     },
     "desc_func": {
-      "chs": "不可分解为星之粉尘。送给雀士可以增加1000点羁绊值。赠送给喜欢酒的角色会获得额外的好感度。",
-      "chs_t": "不可分解為星之粉塵。送給雀士可以增加1000點羈絆值。贈送給喜歡酒杯的角色會獲得額外的好感度。",
+      "chs": "不可分解为星之粉尘。送给雀士可以增加1000点羁绊值；赠送给喜欢酒的角色会获得额外的好感度。",
+      "chs_t": "不可分解為星之粉塵。送給雀士可以增加1000點羈絆值；贈送給喜歡酒的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント1000増加。酒器が好きな雀士にあげるとさらに増加。この贈り物は奉納できない。",
       "en": "Cannot be converted into Star Dust. Give it to a character to increase your Bond with him/her by 1000 points. Characters who love wine will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 1000증가. 술잔을 좋아하는 작사에게 주면 추가로 증가. 이 아이템은 봉납할 수 없다."
@@ -2485,8 +2485,8 @@
       "kr": "고급 와인잔"
     },
     "desc_func": {
-      "chs": "不可分解为星之粉尘。送给雀士可以增加5000点羁绊值。赠送给喜欢酒的角色会获得额外的好感度。",
-      "chs_t": "不可分解為星之粉塵。送給雀士可以增加5000點羈絆值。贈送給喜歡酒杯的角色會獲得額外的好感度。",
+      "chs": "不可分解为星之粉尘。送给雀士可以增加5000点羁绊值；赠送给喜欢酒的角色会获得额外的好感度。",
+      "chs_t": "不可分解為星之粉塵。送給雀士可以增加5000點羈絆值；贈送給喜歡酒的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント5000増加。酒器が好きな雀士にあげるとさらに増加。この贈り物は奉納できない。",
       "en": "Cannot be converted into Star Dust. Give it to a character to increase your Bond with him/her by 5000 points. Characters who love wine will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 5000증가. 술잔을 좋아하는 작사에게 주면 추가로 증가. 이 아이템은 봉납할 수 없다."
@@ -2532,8 +2532,8 @@
       "kr": "물방울 다이아몬드"
     },
     "desc_func": {
-      "chs": "不可分解为星之粉尘。送给雀士可以增加1000点羁绊值。赠送给喜欢钻石的角色会获得额外的好感度。",
-      "chs_t": "不可分解為星之粉塵。送給雀士可以增加1000點羈絆值。贈送給喜歡鑽石的角色會獲得額外的好感度。",
+      "chs": "不可分解为星之粉尘。送给雀士可以增加1000点羁绊值；赠送给喜欢钻石的角色会获得额外的好感度。",
+      "chs_t": "不可分解為星之粉塵。送給雀士可以增加1000點羈絆值；贈送給喜歡鑽石的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント1000増加。宝石が好きな雀士にあげるとさらに増加。この贈り物は奉納できない。",
       "en": "Cannot be converted into Star Dust. Give it to a character to increase your Bond with him/her by 1000 points. Characters who love diamonds will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 1000증가. 보석을 좋아하는 작사에게 주면 추가로 증가. 이 아이템은 봉납할 수 없다."
@@ -2579,8 +2579,8 @@
       "kr": "하트 오브 디 오션"
     },
     "desc_func": {
-      "chs": "不可分解为星之粉尘。送给雀士可以增加5000点羁绊值。赠送给喜欢钻石的角色会获得额外的好感度。",
-      "chs_t": "不可分解為星之粉塵。送給雀士可以增加5000點羈絆值。贈送給喜歡鑽石的角色會獲得額外的好感度。",
+      "chs": "不可分解为星之粉尘。送给雀士可以增加5000点羁绊值；赠送给喜欢钻石的角色会获得额外的好感度。",
+      "chs_t": "不可分解為星之粉塵。送給雀士可以增加5000點羈絆值；贈送給喜歡鑽石的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント5000増加。宝石が好きな雀士にあげるとさらに増加。この贈り物は奉納できない。",
       "en": "Cannot be converted into Star Dust. Give it to a character to increase your Bond with him/her by 5000 points. Characters who love diamonds will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 5000증가. 보석을 좋아하는 작사에게 주면 추가로 증가. 이 아이템은 봉납할 수 없다."
@@ -2626,8 +2626,8 @@
       "kr": "테디베어L"
     },
     "desc_func": {
-      "chs": "不可分解为星之粉尘。送给雀士可以增加1000点羁绊值。赠送给喜欢玩偶的角色会获得额外的好感度。",
-      "chs_t": "不可分解為星之粉塵。送給雀士可以增加1000點羈絆值。贈送給喜歡玩偶的角色會獲得額外的好感度。",
+      "chs": "不可分解为星之粉尘。送给雀士可以增加1000点羁绊值；赠送给喜欢玩偶的角色会获得额外的好感度。",
+      "chs_t": "不可分解為星之粉塵。送給雀士可以增加1000點羈絆值；贈送給喜歡玩偶的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント1000増加。ぬいぐるみが好きな雀士にあげるとさらに増加。この贈り物は奉納できない。",
       "en": "Cannot be converted into Star Dust. Give it to a character to increase your Bond with him/her by 1000 points. Characters who love dolls will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 1000증가. 인형을 좋아하는 작사에게 주면 추가로 증가. 이 아이템은 봉납할 수 없다."
@@ -2673,8 +2673,8 @@
       "kr": "테디베어XXL"
     },
     "desc_func": {
-      "chs": "不可分解为星之粉尘。送给雀士可以增加5000点羁绊值。赠送给喜欢玩偶的角色会获得额外的好感度。",
-      "chs_t": "不可分解為星之粉塵。送給雀士可以增加5000點羈絆值。贈送給喜歡玩偶的角色會獲得額外的好感度。",
+      "chs": "不可分解为星之粉尘。送给雀士可以增加5000点羁绊值；赠送给喜欢玩偶的角色会获得额外的好感度。",
+      "chs_t": "不可分解為星之粉塵。送給雀士可以增加5000點羈絆值；贈送給喜歡玩偶的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント5000増加。ぬいぐるみが好きな雀士にあげるとさらに増加。この贈り物は奉納できない。",
       "en": "Cannot be converted into Star Dust. Give it to a character to increase your Bond with him/her by 5000 points. Characters who love dolls will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 5000증가. 인형을 좋아하는 작사에게 주면 추가로 증가. 이 아이템은 봉납할 수 없다."
@@ -2720,8 +2720,8 @@
       "kr": "얇은 책"
     },
     "desc_func": {
-      "chs": "不可分解为星之粉尘。送给雀士可以增加1000点羁绊值。赠送给喜欢同人志的角色会获得额外的好感度。",
-      "chs_t": "不可分解為星之粉塵。送給雀士可以增加1000點羈絆值。贈送給喜歡同人誌的角色會獲得額外的好感度。",
+      "chs": "不可分解为星之粉尘。送给雀士可以增加1000点羁绊值；赠送给喜欢同人志的角色会获得额外的好感度。",
+      "chs_t": "不可分解為星之粉塵。送給雀士可以增加1000點羈絆值；贈送給喜歡同人志的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント1000増加。同人誌が好きな雀士にあげるとさらに増加。この贈り物は奉納できない。",
       "en": "Cannot be converted into Star Dust. Give it to a character to increase your Bond with him/her by 1000 points. Characters who love fanzines will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 1000증가. 만화를 좋아하는 작사에게 주면 추가로 증가. 이 아이템은 봉납할 수 없다."
@@ -2767,8 +2767,8 @@
       "kr": "인기 만화"
     },
     "desc_func": {
-      "chs": "不可分解为星之粉尘。送给雀士可以增加5000点羁绊值。赠送给喜欢同人志的角色会获得额外的好感度。",
-      "chs_t": "不可分解為星之粉塵。送給雀士可以增加5000點羈絆值。贈送給喜歡同人誌的角色會獲得額外的好感度。",
+      "chs": "不可分解为星之粉尘。送给雀士可以增加5000点羁绊值；赠送给喜欢同人志的角色会获得额外的好感度。",
+      "chs_t": "不可分解為星之粉塵。送給雀士可以增加5000點羈絆值；贈送給喜歡同人志的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント5000増加。同人誌が好きな雀士にあげるとさらに増加。この贈り物は奉納できない。",
       "en": "Cannot be converted into Star Dust. Give it to a character to increase your Bond with him/her by 5000 points. Characters who love fanzines will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 5000증가. 만화를 좋아하는 작사에게 주면 추가로 증가. 이 아이템은 봉납할 수 없다."
@@ -2814,8 +2814,8 @@
       "kr": "세라복"
     },
     "desc_func": {
-      "chs": "不可分解为星之粉尘。送给雀士可以增加1000点羁绊值。赠送给喜欢女装的角色会获得额外的好感度。",
-      "chs_t": "不可分解為星之粉塵。送給雀士可以增加1000點羈絆值。贈送給喜歡女裝的角色會獲得額外的好感度。",
+      "chs": "不可分解为星之粉尘。送给雀士可以增加1000点羁绊值；赠送给喜欢女装的角色会获得额外的好感度。",
+      "chs_t": "不可分解為星之粉塵。送給雀士可以增加1000點羈絆值；贈送給喜歡女裝的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント1000増加。おしゃれが好きな雀士にあげるとさらに増加。この贈り物は奉納できない。",
       "en": "Cannot be converted into Star Dust. Give it to a character to increase your Bond with him/her by 1000 points. Characters who love dresses will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 1000증가. 패션을 좋아하는 작사에게 주면 추가로 증가. 이 아이템은 봉납할 수 없다."
@@ -2861,8 +2861,8 @@
       "kr": "화려한 원피스"
     },
     "desc_func": {
-      "chs": "不可分解为星之粉尘。送给雀士可以增加5000点羁绊值。赠送给喜欢女装的角色会获得额外的好感度。",
-      "chs_t": "不可分解為星之粉塵。送給雀士可以增加5000點羈絆值。贈送給喜歡女裝的角色會獲得額外的好感度。",
+      "chs": "不可分解为星之粉尘。送给雀士可以增加5000点羁绊值；赠送给喜欢女装的角色会获得额外的好感度。",
+      "chs_t": "不可分解為星之粉塵。送給雀士可以增加5000點羈絆值；贈送給喜歡女裝的角色會獲得額外的好感度。",
       "jp": "雀士にあげると絆ポイント5000増加。おしゃれが好きな雀士にあげるとさらに増加。この贈り物は奉納できない。",
       "en": "Cannot be converted into Star Dust. Give it to a character to increase your Bond with him/her by 5000 points. Characters who love dresses will receive bonus Bond points.",
       "kr": "작사에게 주면 인연 포인트 5000증가. 패션을 좋아하는 작사에게 주면 추가로 증가. 이 아이템은 봉납할 수 없다."
@@ -2908,8 +2908,8 @@
       "kr": "인연의 하트"
     },
     "desc_func": {
-      "chs": "送给雀士可以增加1000点羁绊值；使用这个道具提升羁绊值不会消耗送礼次数",
-      "chs_t": "送給雀士可以增加1000點羈絆值。使用這個道具提升羈絆值不會消耗送禮次數。",
+      "chs": "送给雀士可以增加1000点羁绊值；使用这个道具提升羁绊值不会消耗送礼次数。",
+      "chs_t": "送給雀士可以增加1000點羈絆值；使用這個道具提升羈絆值不會消耗送禮次數。",
       "jp": "雀士にあげると絆ポイント1000増加。このアイテムはプレゼント回数を消費しない。",
       "en": "Give it to a character to increase your Bond with him/her by 1000 points. This item will not consume your gift attempts.",
       "kr": "작사에게 주면 인연 포인트 1000증가. 이 아이템은 선물 횟수를 사용하지 않는다."
@@ -2955,8 +2955,8 @@
       "kr": "사랑의 매듭"
     },
     "desc_func": {
-      "chs": "送给雀士可以增加1000点羁绊值",
-      "chs_t": "送給雀士可以增加1000點羈絆值",
+      "chs": "送给雀士可以增加1000点羁绊值。",
+      "chs_t": "送給雀士可以增加1000點羈絆值。",
       "jp": "雀士にあげると絆ポイント1000増加。このアイテムはプレゼント回数を消費しない。",
       "en": "Give it to a character to increase your Bond with him/her by 1000 points. This item will not consume your gift attempts.",
       "kr": "작사에게 주면 인연 포인트 1000증가. 이 아이템은 선물 횟수를 사용하지 않는다."
@@ -3003,7 +3003,7 @@
     },
     "desc_func": {
       "chs": "送给雀士可以增加1000点羁绊值；不可分解为星之粉尘。",
-      "chs_t": "送給雀士可以增加1000點羈絆值，不可分解為星之粉塵。",
+      "chs_t": "送給雀士可以增加1000點羈絆值；不可分解為星之粉塵。",
       "jp": "雀士にあげると絆ポイント1000増加。この贈り物は奉納できない。",
       "en": "Give it to a character to increase your Bond with him/her by 1000 points. This gift cannot be converted into Star Dust.",
       "kr": "작사에게 주면 인연 포인트 1000증가. 이 아이템은 봉납할 수 없다."
@@ -3050,7 +3050,7 @@
     },
     "desc_func": {
       "chs": "送给雀士可以增加1000点羁绊值；不可分解为星之粉尘。",
-      "chs_t": "送給雀士可以增加1000點羈絆值,不可分解為星之粉塵。",
+      "chs_t": "送給雀士可以增加1000點羈絆值；不可分解為星之粉塵。",
       "jp": "雀士にあげると絆ポイント1000増加。この贈り物は奉納できない。",
       "en": "Give it to a character to increase your Bond with him/her by 1000 points. This item cannot be converted into Star Dust.",
       "kr": "작사에게 주면 인연 포인트 1000증가. 이 아이템은 봉납할 수 없다."
@@ -3097,7 +3097,7 @@
     },
     "desc_func": {
       "chs": "给送给雀士可以增加283点羁绊值；不可分解为星之粉尘。",
-      "chs_t": "送給雀士可以增加283點羈絆值,不可分解為星之粉塵。",
+      "chs_t": "送給雀士可以增加283點羈絆值；不可分解為星之粉塵。",
       "jp": "雀士にあげると絆ポイント283増加。このアイテムはプレゼント回数を消費しない。この贈り物は奉納できない。",
       "en": "Give it to a character to increase your Bond with him/her by 283 points. This item cannot be converted into Star Dust.",
       "kr": "작사에게 주면 인연 포인트 283증가. 이 아이템은 선물 횟수를 사용하지 않는다. 이 아이템은 봉납할 수 없다."
@@ -20629,6 +20629,114 @@
     }
   },
   {
+    "id": 307290,
+    "sort": 15090,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/loading_cg/260601/thumb/260601_thumb.jpg",
+    "icon_transparent": null,
+    "category": 8,
+    "type": 12,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      260601
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": "2026-07-08 05:00:00",
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "传说之夜-2026",
+      "chs_t": "傳說之夜-2026",
+      "jp": "伝説の夜 -2026",
+      "en": "The Night of Legends (2026)",
+      "kr": "전설의 밤-2026"
+    },
+    "desc_func": {
+      "chs": "点击仓库-插画更换",
+      "chs_t": "點選倉庫-插畫更換",
+      "jp": "倉庫・イラストで設定できる",
+      "en": "Tap Items - Illustration to equip.",
+      "kr": "[창고]-[일러스트]에서 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "AKAGI×雀魂联动纪念插图",
+      "chs_t": "AKAGI×雀魂聯動紀念插圖",
+      "jp": "アカギ×雀魂コラボ記念イラスト",
+      "en": "AKAGI × Mahjong Soul Collab Commemoration",
+      "kr": "[작혼 X 아카기] 콜라보 기념 일러스트"
+    },
+    "expire_desc": {
+      "chs": "2026-07-08 05:00:00",
+      "chs_t": "2026-07-08 05:00:00",
+      "jp": "2026/07/08 5:59 まで",
+      "en": "2026-07-07 14:00:00 (UTC-7)",
+      "kr": "2026.07.08 06:00(GMT+9)"
+    }
+  },
+  {
+    "id": 307291,
+    "sort": 15091,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/loading_cg/260602/thumb/260602_thumb.jpg",
+    "icon_transparent": null,
+    "category": 8,
+    "type": 12,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      260602
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": "2026-07-08 05:00:00",
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "传说之夜·再临-2026",
+      "chs_t": "傳說之夜·再臨-2026",
+      "jp": "伝説の夜・再臨 -2026",
+      "en": "The Night of Legends: Shadows Reborn (2026)",
+      "kr": "전설의 밤: 강림-2026"
+    },
+    "desc_func": {
+      "chs": "点击仓库-插画更换",
+      "chs_t": "點選倉庫-插畫更換",
+      "jp": "倉庫・イラストで設定できる",
+      "en": "Tap Items - Illustration to equip.",
+      "kr": "[창고]-[일러스트]에서 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "AKAGI×雀魂联动纪念插图",
+      "chs_t": "AKAGI×雀魂聯動紀念插圖",
+      "jp": "アカギ×雀魂コラボ記念イラスト",
+      "en": "AKAGI × Mahjong Soul Collab Commemoration",
+      "kr": "[작혼 X 아카기] 콜라보 기념 일러스트"
+    },
+    "expire_desc": {
+      "chs": "2026-07-08 05:00:00",
+      "chs_t": "2026-07-08 05:00:00",
+      "jp": "2026/07/08 5:59 まで",
+      "en": "2026-07-07 14:00:00 (UTC-7)",
+      "kr": "2026.07.08 06:00(GMT+9)"
+    }
+  },
+  {
     "id": 307401,
     "sort": 16201,
     "name_chs_t2": null,
@@ -24812,6 +24920,100 @@
     }
   },
   {
+    "id": 307490,
+    "sort": 15090,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/loading_cg/260601/thumb/260601_thumb.jpg",
+    "icon_transparent": null,
+    "category": 8,
+    "type": 12,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      260601
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "传说之夜-2026",
+      "chs_t": "傳說之夜-2026",
+      "jp": "伝説の夜 -2026",
+      "en": "The Night of Legends (2026)",
+      "kr": "전설의 밤-2026"
+    },
+    "desc_func": {
+      "chs": "点击仓库-插画更换",
+      "chs_t": "點選倉庫-插畫更換",
+      "jp": "倉庫・イラストで設定できる",
+      "en": "Tap Items - Illustration to equip.",
+      "kr": "[창고]-[일러스트]에서 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "AKAGI×雀魂联动纪念插图",
+      "chs_t": "AKAGI×雀魂聯動紀念插圖",
+      "jp": "アカギ×雀魂コラボ記念イラスト",
+      "en": "AKAGI × Mahjong Soul Collab Commemoration",
+      "kr": "[작혼 X 아카기] 콜라보 기념 일러스트"
+    }
+  },
+  {
+    "id": 307491,
+    "sort": 15091,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/loading_cg/260602/thumb/260602_thumb.jpg",
+    "icon_transparent": null,
+    "category": 8,
+    "type": 12,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [
+      260602
+    ],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "传说之夜·再临-2026",
+      "chs_t": "傳說之夜·再臨-2026",
+      "jp": "伝説の夜・再臨 -2026",
+      "en": "The Night of Legends: Shadows Reborn (2026)",
+      "kr": "전설의 밤: 강림-2026"
+    },
+    "desc_func": {
+      "chs": "点击仓库-插画更换",
+      "chs_t": "點選倉庫-插畫更換",
+      "jp": "倉庫・イラストで設定できる",
+      "en": "Tap Items - Illustration to equip.",
+      "kr": "[창고]-[일러스트]에서 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "AKAGI×雀魂联动纪念插图",
+      "chs_t": "AKAGI×雀魂聯動紀念插圖",
+      "jp": "アカギ×雀魂コラボ記念イラスト",
+      "en": "AKAGI × Mahjong Soul Collab Commemoration",
+      "kr": "[작혼 X 아카기] 콜라보 기념 일러스트"
+    }
+  },
+  {
     "id": 308001,
     "sort": 18002,
     "name_chs_t2": null,
@@ -25322,21 +25524,21 @@
       "chs_t": "和牌-地獄低語",
       "jp": "和了演出：地獄のざわめき",
       "en": "Winning - The Whispers from Hell",
-      "kr": "Winning - The Whispers from Hell"
+      "kr": "화료 연출: 지옥의 속삭임"
     },
     "desc_func": {
       "chs": "点击寮舍-装扮更换",
       "chs_t": "點選宿舍-裝扮更換",
       "jp": "装飾で設定することで、和了演出を変更できる。（イベント期間限定。期間終了後は入手できなくなります。）",
       "en": "Tap Dorm - Decoration to equip.",
-      "kr": "Tap Dorm - Decoration to equip."
+      "kr": "장식품 화면에서 화료 연출을 변경할 수 있다."
     },
     "desc": {
       "chs": "低语，是今夜的胜利。",
       "chs_t": "低語，是今夜的勝利。",
       "jp": "そのざわめきこそ、今夜の勝利に相応しき祝儀。",
       "en": "Whispers of today's victory.",
-      "kr": "Whispers of today's victory."
+      "kr": "속삭인다, 오늘 밤의 승리를."
     }
   },
   {
@@ -25370,21 +25572,21 @@
       "chs_t": "立直-幽冥之焰",
       "jp": "立直演出：幽冥の業火",
       "en": "Riichi - The Flames of Underworld",
-      "kr": "Riichi - The Flames of Underworld"
+      "kr": "리치 연출: 명계의 업화"
     },
     "desc_func": {
       "chs": "点击寮舍-装扮更换",
       "chs_t": "點選宿舍-裝扮更換",
       "jp": "装飾で設定することで、立直演出を変更できる。（イベント期間限定。期間終了後は入手できなくなります。）",
       "en": "Tap Dorm - Decoration to equip.",
-      "kr": "Tap Dorm - Decoration to equip."
+      "kr": "장식품 화면에서 리치 연출을 변경할 수 있다."
     },
     "desc": {
       "chs": "地狱的业火中降临的强运。",
       "chs_t": "地獄的業火中降臨的強運。",
       "jp": "地獄の業火より生まれし豪運。",
       "en": "The strike of good fortune descends amid hellfire.",
-      "kr": "The strike of good fortune descends amid hellfire."
+      "kr": "지옥의 업화 속에서 강림한 행운이다."
     }
   },
   {
@@ -25418,21 +25620,21 @@
       "chs_t": "立直棒-命懸一線",
       "jp": "絶体絶命の立直棒",
       "en": "Riichi Bet - Life on the Line",
-      "kr": "Riichi Bet - Life on the Line"
+      "kr": "절체절명 리치봉"
     },
     "desc_func": {
       "chs": "点击寮舍-装扮更换",
       "chs_t": "點選宿舍-裝扮更換",
       "jp": "装飾で設定することで、立直棒を変更できる。（イベント期間限定。期間終了後は入手できなくなります。）",
       "en": "Tap Dorm - Decoration to equip.",
-      "kr": "Tap Dorm - Decoration to equip."
+      "kr": "장식품 화면에서 리치봉을 변경할 수 있다."
     },
     "desc": {
       "chs": "抱着拼上一切的觉悟，置之死地而后生。",
       "chs_t": "抱著拼上一切的覺悟，置之死地而後生。",
       "jp": "死の恐怖を超越せし者にのみ勝利が訪れる。",
       "en": "The key to victory is the willingness to risk everything to fight for a chance to win.",
-      "kr": "The key to victory is the willingness to risk everything to fight for a chance to win."
+      "kr": "죽음의 공포를 넘어선 자만이 승리를 거머쥘 수 있다."
     }
   },
   {
@@ -25466,21 +25668,21 @@
       "chs_t": "桌布-傳說之夜",
       "jp": "伝説の夜の雀卓",
       "en": "Tablecloth - The Night of Legends",
-      "kr": "Tablecloth - The Night of Legends"
+      "kr": "작탁: 전설의 밤"
     },
     "desc_func": {
       "chs": "点击寮舍-装扮更换",
       "chs_t": "點選宿舍-裝扮更換",
       "jp": "装飾で設定することで、雀卓の模様を変更できる。（イベント期間限定。期間終了後は入手できなくなります。）",
       "en": "Tap Dorm - Decoration to equip.",
-      "kr": "Tap Dorm - Decoration to equip."
+      "kr": "장식품 화면에서 작탁을 변경할 수 있다."
     },
     "desc": {
       "chs": "那一夜的传说，直至今日仍在流传。",
       "chs_t": "那一夜的傳說，直至今日仍在流傳。",
       "jp": "あの夜の伝説は今日もまたどこかで語り継がれている。",
       "en": "The legends of that one night continue to be told to this day.",
-      "kr": "The legends of that one night continue to be told to this day."
+      "kr": "그날 밤의 전설은 오늘도 어딘가에서 전해지고 있다."
     }
   },
   {
@@ -25514,21 +25716,21 @@
       "chs_t": "牌背-雙鷲紋章",
       "jp": "対い鷲爪紋の麻雀牌",
       "en": "Tile Back - The Crest of Two Vultures",
-      "kr": "Tile Back - The Crest of Two Vultures"
+      "kr": "마작패: 쌍독수리 문장"
     },
     "desc_func": {
       "chs": "点击寮舍-装扮更换",
       "chs_t": "點選宿舍-裝扮更換",
       "jp": "装飾で設定することで、麻雀牌の模様を変更できる。（イベント期間限定。期間終了後は入手できなくなります。）",
       "en": "Tap Dorm - Decoration to equip.",
-      "kr": "Tap Dorm - Decoration to equip."
+      "kr": "장식품 화면에서 마작패를 변경할 수 있다."
     },
     "desc": {
       "chs": "身为强者，无需收敛爪牙的锋芒。",
       "chs_t": "身為強者，無需收斂爪牙的鋒芒。",
       "jp": "爪を隠すわけがあるまい。強者であるが故に。",
       "en": "The strong ones have no need to hide the sharpness of their claws.",
-      "kr": "The strong ones have no need to hide the sharpness of their claws."
+      "kr": "발톱을 숨길 필요가 없다. 강자라면 모름지기 그런 법이지."
     }
   },
   {
@@ -40303,6 +40505,51 @@
     }
   },
   {
+    "id": 30557064,
+    "sort": 6086,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/title/ssz_y/pic/ssz_y_item.jpg",
+    "icon_transparent": null,
+    "category": 7,
+    "type": 11,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": "2027-08-01 05:00:00",
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "双圣战冠军",
+      "chs_t": "雙聖戰冠軍",
+      "jp": "双聖戦優勝",
+      "en": "双圣战冠军",
+      "kr": "双圣战冠军"
+    },
+    "desc_func": {
+      "chs": "赠予双圣战冠军",
+      "chs_t": "贈予雙聖戰冠軍",
+      "jp": "赠予双圣战冠军",
+      "en": "赠予双圣战冠军",
+      "kr": "赠予双圣战冠军"
+    },
+    "expire_desc": {
+      "chs": "2027-08-01 05:00:00",
+      "chs_t": "2027-08-01 05:00:00",
+      "jp": "2027-08-01 05:00:00",
+      "en": "2027-08-01 05:00:00",
+      "kr": "2027-08-01 05:00:00"
+    }
+  },
+  {
     "id": 30560001,
     "sort": 7028,
     "name_chs_t2": null,
@@ -43592,6 +43839,51 @@
       "jp": "耳を澄ませて。竹林を吹き抜ける風の声を聴こう。",
       "en": "Lean on the vermilion railing, and hear the wind rustling through the bamboo.",
       "kr": "붉은색 난간에 살며시 기대어 조용히 들어보자, 바람이 대숲을 스쳐가는 소리를."
+    }
+  },
+  {
+    "id": 30700008,
+    "sort": 14901,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "deco/lobby_background/beijing_akagi/pic/beijing_akagi.jpg",
+    "icon_transparent": null,
+    "category": 5,
+    "type": 8,
+    "is_unique": 1,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "AKAGI 联动纪念",
+      "chs_t": "AKAGI 聯動紀念",
+      "jp": "アカギコラボ記念背景",
+      "en": "AKAGI Collab Commemoration",
+      "kr": "[작혼 X 아카기] 콜라보 기념"
+    },
+    "desc_func": {
+      "chs": "点击寮舍-装扮更换",
+      "chs_t": "點選宿舍-裝扮更換",
+      "jp": "装飾で設定することで、背景を変更できる。",
+      "en": "Tap Dorm - Decoration to equip.",
+      "kr": "장식품 화면에서 배경을 변경할 수 있다."
+    },
+    "desc": {
+      "chs": "AKAGI×雀魂联动纪念背景",
+      "chs_t": "AKAGI×雀魂聯動紀念背景",
+      "jp": "アカギ×雀魂コラボ記念背景",
+      "en": "AKAGI × Mahjong Soul Collab Commemoration",
+      "kr": "[작혼 X 아카기] 콜라보 기념 배경"
     }
   },
   {
@@ -48816,6 +49108,51 @@
       "jp": "「剣域の誓約」のイベントアイテム。イベントクエストから入手できる。チームの強化に使用する。",
       "en": "Tactics and teamwork built through battles fought together. (Oath of the Sword event item. Used to upgrade party talents. Obtainable from event missions.)",
       "kr": "검역의 서약 이벤트 한정 아이템. 생사의 경계를 넘나들며 연마한 협력의 노하우이다. 이벤트 임무를 통해 획득할 수 있고, 특성을 강화하는데 사용할 수 있다."
+    }
+  },
+  {
+    "id": 30900104,
+    "sort": 20176,
+    "name_chs_t2": null,
+    "desc_chs_t2": null,
+    "icon": "ui/activity/extend/26dp/main/pic_scattered/26dp.jpg",
+    "icon_transparent": "ui/activity/extend/26dp/main/pic_scattered/26dp_0.png",
+    "category": 6,
+    "type": null,
+    "is_unique": 0,
+    "max_stack": null,
+    "access": null,
+    "accessinfo": null,
+    "func": null,
+    "iargs": [],
+    "sargs": [],
+    "can_sell": null,
+    "sell_reward_id": null,
+    "sell_reward_count": null,
+    "item_expire": null,
+    "region_limit": null,
+    "cross_view": null,
+    "database_cache": null,
+    "name": {
+      "chs": "决斗之血",
+      "chs_t": "決鬥之血",
+      "jp": "勝負師の血",
+      "en": "Wagered Blood",
+      "kr": "승부사의 피"
+    },
+    "desc_func": {
+      "chs": "活动限定道具",
+      "chs_t": "活動限定道具",
+      "jp": "アカギ×雀魂コラボイベント「伝説の夜・再臨」のイベントアイテム。",
+      "en": "Event-limited item.",
+      "kr": "기간 한정 아이템."
+    },
+    "desc": {
+      "chs": "传说之夜·再临活动限定道具，完成活动任务获得。可用于领取活动奖励。",
+      "chs_t": "傳說之夜·再臨活動限定道具，完成活動任務獲得。可用於領取活動獎勵。",
+      "jp": "アカギ×雀魂コラボイベント「伝説の夜・再臨」のイベントアイテム。イベントクエスト達成で獲得できる。一定数集めると報酬を受取できる",
+      "en": "The Night of Legends: Shadows Reborn event item, obtainable through event missions. Collect it to claim event rewards.",
+      "kr": "전설의 밤 이벤트 아이템. 이벤트 임무를 완료하여 획득할 수 있으며, 이벤트 보상을 획득하는데 사용된다."
     }
   },
   {

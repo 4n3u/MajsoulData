@@ -3636,5 +3636,30 @@
       "en": "赠予哔哩哔哩第三届立直麻将大赛冠军",
       "kr": "赠予哔哩哔哩第三届立直麻将大赛冠军"
     }
+  },
+  {
+    "id": 600160,
+    "icon": "deco/title/ssz_y/pic/ssz_y.png",
+    "icon_item": "deco/title/ssz_y/pic/ssz_y_item.jpg",
+    "priority": 40103,
+    "unlock_type": 1,
+    "unlock_param": [
+      30557064
+    ],
+    "cross_view": null,
+    "name": {
+      "chs": "双圣战冠军",
+      "chs_t": "雙聖戰冠軍",
+      "jp": "双聖戦優勝",
+      "en": "双圣战冠军",
+      "kr": "双圣战冠军"
+    },
+    "desc": {
+      "chs": "赠予双圣战冠军",
+      "chs_t": "贈予雙聖戰冠軍",
+      "jp": "赠予双圣战冠军",
+      "en": "赠予双圣战冠军",
+      "kr": "赠予双圣战冠军"
+    }
   }
 ]

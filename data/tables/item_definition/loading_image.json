@@ -951,6 +951,28 @@
     "args": null
   },
   {
+    "id": 260601,
+    "img_path": "deco/loading_cg/260601/main/260601.jpg",
+    "thumb_path": "deco/loading_cg/260601/thumb/260601_thumb.jpg",
+    "sort": 1090,
+    "unlock_items": [
+      307490,
+      307290
+    ],
+    "args": null
+  },
+  {
+    "id": 260602,
+    "img_path": "deco/loading_cg/260602/main/260602.jpg",
+    "thumb_path": "deco/loading_cg/260602/thumb/260602_thumb.jpg",
+    "sort": 1091,
+    "unlock_items": [
+      307491,
+      307291
+    ],
+    "args": null
+  },
+  {
     "id": 30740001,
     "img_path": "deco/loading_cg/CG200001/main/CG200001.jpg",
     "thumb_path": "deco/loading_cg/CG200001/thumb/CG200001_thumb.jpg",

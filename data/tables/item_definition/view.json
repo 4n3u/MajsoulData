@@ -2670,9 +2670,9 @@
     "sargs": [
       "heng"
     ],
-    "old_effect_mark": 1,
+    "old_effect_mark": 0,
     "hand_version": null,
-    "seat_related": null
+    "seat_related": 1
   },
   {
     "id": 308013,
@@ -4695,6 +4695,16 @@
   {
     "id": 30700007,
     "res_name": "beijing_yuanlin",
+    "audio_id": null,
+    "character_id": null,
+    "sargs": [],
+    "old_effect_mark": 0,
+    "hand_version": null,
+    "seat_related": null
+  },
+  {
+    "id": 30700008,
+    "res_name": "beijing_akagi",
     "audio_id": null,
     "character_id": null,
     "sargs": [],

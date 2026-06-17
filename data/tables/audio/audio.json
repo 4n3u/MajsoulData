@@ -330,6 +330,12 @@
     "type": "lobby"
   },
   {
+    "id": 158,
+    "path": "ui/lobby/main/audio/gacha_banner_dp",
+    "time_length": null,
+    "type": "lobby"
+  },
+  {
     "id": 201,
     "path": "ui/mj/main/audio/beiman",
     "time_length": 2098,
@@ -1976,6 +1982,18 @@
   {
     "id": 10413,
     "path": "ui/activity/extend/2605qy/main/audio/2605qy_common_lostitem",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10414,
+    "path": "ui/activity/extend/2606dp/main/audio/2606dp_event",
+    "time_length": null,
+    "type": "event"
+  },
+  {
+    "id": 10415,
+    "path": "ui/activity/extend/2606dp/main/audio/2606dp_bgm",
     "time_length": null,
     "type": "event"
   },

@@ -6029,6 +6029,15 @@
               "type": "uint32",
               "type_code": 13,
               "raw_type_ref": null
+            },
+            {
+              "name": "auto_operation",
+              "full_name": ".lq.ReqSelfOperation.auto_operation",
+              "number": 11,
+              "label": "optional",
+              "type": "bool",
+              "type_code": 8,
+              "raw_type_ref": null
             }
           ],
           "nested_enums": [],
@@ -70487,6 +70496,15 @@
               "type": "uint32",
               "type_code": 13,
               "raw_type_ref": null
+            },
+            {
+              "name": "auto_operation",
+              "full_name": ".lq.GameSelfOperation.auto_operation",
+              "number": 11,
+              "label": "optional",
+              "type": "bool",
+              "type_code": 8,
+              "raw_type_ref": null
             }
           ],
           "nested_enums": [],
@@ -75533,5 +75551,5 @@
   "module_count": 11,
   "message_count": 1592,
   "enum_count": 2,
-  "field_count": 6923
+  "field_count": 6925
 }

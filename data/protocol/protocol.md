@@ -3989,6 +3989,7 @@
 | change_tiles | [string](#string) | repeated |  |
 | tile_states | [int32](#int32) | repeated |  |
 | gap_type | [uint32](#uint32) |  |  |
+| auto_operation | [bool](#bool) |  |  |
 
 
 
@@ -28890,6 +28891,7 @@
 | change_tiles | [string](#string) | repeated |  |
 | tile_states | [int32](#int32) | repeated |  |
 | gap_type | [uint32](#uint32) |  |  |
+| auto_operation | [bool](#bool) |  |  |
 
 
 

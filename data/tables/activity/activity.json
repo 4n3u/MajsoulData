@@ -6201,8 +6201,8 @@
     "name": {
       "chs": "青云之志",
       "chs_t": "青雲之志",
-      "jp": "青雲の志：失われた聖餌",
-      "en": "Sky-High Ambition: Finders Kitties",
+      "jp": "青雲の志：勇にゃん伝説",
+      "en": "Sky-High Ambition: The Nyavengers",
       "kr": "청운의 꿈: 냥냥 보물찾기"
     }
   },
@@ -6285,6 +6285,83 @@
     "id": 260591,
     "type": "daily_sign",
     "need_popout": 1
+  },
+  {
+    "id": 260601,
+    "type": "event_cross_time",
+    "need_popout": 1,
+    "name": {
+      "chs": "传说之夜·再临",
+      "chs_t": "傳説之夜·再臨",
+      "jp": "伝説の夜・再臨",
+      "en": "The Night of Legends:\r\nShadows Reborn",
+      "kr": "전설의 밤"
+    }
+  },
+  {
+    "id": 260602,
+    "type": "period_task",
+    "need_popout": null
+  },
+  {
+    "id": 260603,
+    "type": "period_task",
+    "need_popout": null
+  },
+  {
+    "id": 260610,
+    "type": "shop",
+    "need_popout": null
+  },
+  {
+    "id": 260611,
+    "type": "event_cross_time",
+    "need_popout": null
+  },
+  {
+    "id": 260612,
+    "type": "item",
+    "need_popout": null
+  },
+  {
+    "id": 260620,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 260621,
+    "type": "chest_up",
+    "need_popout": null
+  },
+  {
+    "id": 260630,
+    "type": "chest_replace_up",
+    "need_popout": null
+  },
+  {
+    "id": 260631,
+    "type": "chest_replace_up",
+    "need_popout": null
+  },
+  {
+    "id": 260650,
+    "type": "activity_match",
+    "need_popout": null
+  },
+  {
+    "id": 260651,
+    "type": "activity_match",
+    "need_popout": null
+  },
+  {
+    "id": 260652,
+    "type": "activity_room",
+    "need_popout": null
+  },
+  {
+    "id": 260670,
+    "type": "story",
+    "need_popout": null
   },
   {
     "id": 260691,
