@@ -4883,7 +4883,7 @@
     "enter_animation": "special",
     "special_effect_front": "fx_ui_xm_2606_sakura_02",
     "special_effect_back": "fx_ui_xm_2606_sakura_01",
-    "special_audio": null,
+    "special_audio": 158,
     "up_items_type": 1,
     "up_items": [
       200050,
@@ -4909,7 +4909,7 @@
     "enter_animation": "special",
     "special_effect_front": "fx_ui_xm_2606_sakura_02",
     "special_effect_back": "fx_ui_xm_2606_sakura_01",
-    "special_audio": null,
+    "special_audio": 158,
     "up_items_type": 1,
     "up_items": [
       200050,
@@ -4935,7 +4935,7 @@
     "enter_animation": "special",
     "special_effect_front": "fx_ui_xm_2606_bamboo_02",
     "special_effect_back": "fx_ui_xm_2606_bamboo_01",
-    "special_audio": null,
+    "special_audio": 158,
     "up_items_type": 1,
     "up_items": [
       200050,
@@ -4961,7 +4961,7 @@
     "enter_animation": "special",
     "special_effect_front": "fx_ui_xm_2606_bamboo_02",
     "special_effect_back": "fx_ui_xm_2606_bamboo_01",
-    "special_audio": null,
+    "special_audio": 158,
     "up_items_type": 1,
     "up_items": [
       200050,
