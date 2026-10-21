@@ -1,8 +1,8 @@
 {
   "client_url": "https://game.maj-soul.com/1/",
   "issuer": "chs_t",
-  "product_version": "4.0.47",
-  "loader": "chs_t-WebGL-release-4.0.47(47).loader.js",
+  "product_version": "4.0.51",
+  "loader": "chs_t-WebGL-release-4.0.51(51).loader.js",
   "bundle_profile": "ASTC",
   "bundle_hash": "aeed8ac264cef3020e36e86df584f1b71a7437ee",
   "raw_dir": "raw",
